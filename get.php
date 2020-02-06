@@ -71,11 +71,46 @@ for($year = date('Y'); $year >= 2001; $year--) {
 				var_dump($link);
 				throw new Exception('Unknown link.');
 			}
+			$announcementCacheFile = $cache_location . '/' . $year . '/' . $cacheFolder . '/' . $cacheHtmlName . '.html';
 			$announcement = getUrlCachedUsingCurl(
 				$cacheTimeSeconds,
-				$cache_location . '/' . $year . '/' . $cacheFolder . '/' . $cacheHtmlName . '.html',
+				$announcementCacheFile,
 				$lovdataNo . $link['href']
 			);
+
+			// Find XML link
+			// <a href="/xml/LTI/nl-20191220-111.xml" target="blank"><img src="/resources/images/blue-document-node.png"/>XML-versjon</a>
+			preg_match(
+				'/<a href="([\/a-zA-Z\-0-9\.]*)" target="blank"><img src="\/resources\/images\/blue-document-node\.png"\/>XML-versjon<\/a>/',
+				$announcement,
+				$matches
+			);
+			if (isset($matches[1])) {
+				// /xml/LTII/lf-20200204-0104.xml
+				if (str_starts_with($matches[1], '/xml/LTI/nl-') && str_ends_with($matches[1], '.xml')) {
+				}
+				elseif (str_starts_with($matches[1], '/xml/LTI/sf-') && str_ends_with($matches[1], '.xml')) {
+				}
+				elseif (str_starts_with($matches[1], '/xml/LTII/lf-') && str_ends_with($matches[1], '.xml')) {
+				}
+				else {
+					throw new Exception('Unknown XML location: ' . $matches[1]);
+				}
+				$xml = getUrlCachedUsingCurl(
+					$cacheTimeSeconds,
+					$cache_location . '/' . $year . '/' . $cacheFolder . '/' . $cacheHtmlName . '.xml',
+					$lovdataNo . $matches[1]
+				);
+			}
+			else {
+				if ($year == date('Y') {
+					logInfo('XML link not found: ' . $announcementCacheFile);
+					sleep(1);
+				}
+				else {
+					throw new Exception('XML link not found: ' . $announcementCacheFile);
+				}
+			}
 		}
 	}
 }
