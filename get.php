@@ -25,6 +25,7 @@ $lawsNotPresent = array();
 for($year = date('Y'); $year >= 2001; $year--) {
 	$cacheTimeSeconds = date('Y') == $year ? $cacheTimeSecondsThisYear : $cacheTimeSecondsPrevYears;
 	mkdirIfNotExists($cache_location . '/' . $year . '/paged-list');
+	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-lov');
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-forskrift');
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTII-forskrift');
 	$offset = 0;
@@ -60,6 +61,11 @@ for($year = date('Y'); $year >= 2001; $year--) {
 				// Example: /dokument/LTII/forskrift/2020-01-30-108
 				$cacheFolder = 'LTII-forskrift';
 				$cacheHtmlName = str_replace('/dokument/LTII/forskrift/', '', $link['href']);
+			}
+			elseif (str_starts_with($link['href'], '/dokument/LTI/lov/')) {
+				// Example: /dokument/LTI/lov/2020-01-10-1
+				$cacheFolder = 'LTI-lov';
+				$cacheHtmlName = str_replace('/dokument/LTI/lov/', '', $link['href']);
 			}
 			else {
 				var_dump($link);
