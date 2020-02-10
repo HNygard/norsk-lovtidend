@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2018-11-09-1689" type="lt" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2018-11-09-1689</id>
+    <dato>09.11.2018 nr. 1689</dato>
+    <dato type="iso">2018-11-09</dato>
+    <ikraft>01.01.2019</ikraft>
+    <ikraft type="iso">2019-01-01</ikraft>
+    <departement>Finansdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2015-04-10-17-§14-16">L10.04.2015 nr. 17 § 14-16</ref>, <ref id="for-2016-12-09-1503-§12">F09.12.2016 nr. 1503 § 12</ref>, <ref id="for-2016-12-09-1503-§13">§ 13</ref>, <ref id="for-2016-12-09-1503-§14">§ 14</ref>, <ref id="for-2016-12-09-1503-§17">§ 17</ref>, <ref id="for-2018-06-08-838">F08.06.2018 nr. 838</ref></hjemmel>
+    <rettet/>
+    <journalnummer>2018-0974</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om utfyllende regler til det forenklede solvenskapitalkravet for pensjonskasser</korttittel>
+    <tittel>Forskrift om utfyllende regler til det forenklede solvenskapitalkravet for pensjonskasser</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Finanstilsynet 9. november 2018 med hjemmel i lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 14-16 annet ledd, forskrift 9. desember 2016 nr. 1503 om pensjonsforetak § 12 fjerde ledd, § 13 femte ledd, § 14 fjerde ledd og § 17 tredje ledd, jf. forskrift 8. juni 2018 nr. 838 om endring i forskrift om årsregnskap for pensjonsforetak og forskrift om pensjonsforetak.</marg>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Definisjoner</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Med forordningen menes forordning (EU) 2015/35 som gjelder som norsk forskrift etter Solvens II-forskriften § 53.</ledd>
+      <ledd id="/paragraf/1/ledd/2">Med risikofri markedsrente menes volatilitetsjustert risikofri markedsrente som er offentliggjort av Finanstilsynet.</ledd>
+    </paragraf>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Forsikringstekniske avsetninger</ktittel>
+      <paragraf id="/kapittel/1/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k1/p2">
+        <pverdi>§ 2.</pverdi>
+        <ptittel>Inndeling av forsikringsforpliktelsene i porteføljer</ptittel>
+        <ledd id="/kapittel/1/paragraf/2/ledd/1">I beregningen av beste estimat, risikomargin og renterisiko skal forsikringsforpliktelsene deles inn i følgende porteføljer
+<liste id="/kapittel/1/paragraf/2/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/2/ledd/1/liste/a/avsnitt/1">portefølje uten mulighet for overgang til fripoliser, herunder offentlig tjenestepensjon</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/2/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/2/ledd/1/liste/b/avsnitt/1">portefølje med mulighet for overgang til fripoliser, herunder privat tjenestepensjon</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/2/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/1/paragraf/2/ledd/1/liste/c/avsnitt/1">portefølje for fripoliser</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/2/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/1/paragraf/2/ledd/1/liste/d/avsnitt/1">portefølje for ettårige risikoprodukter</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/2/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/1/paragraf/2/ledd/1/liste/e/avsnitt/1">portefølje for produkter med investeringsvalg.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k1/p3">
+        <pverdi>§ 3.</pverdi>
+        <ptittel>Beregning av beste estimat</ptittel>
+        <ledd id="/kapittel/1/paragraf/3/ledd/1">Beste estimat skal være summen av beste estimat for porteføljene angitt i § 2, med tillegg av samlet kursreguleringsfond og samlede tilleggsavsetninger.</ledd>
+        <ledd id="/kapittel/1/paragraf/3/ledd/2">For hver portefølje skal beste estimat beregnes med utgangspunkt i forsikringsmessige avsetninger etter forskrift om pensjonsforetak § 2, fratrukket risikoutjevningsfondet, tilleggsavsetninger og kursreguleringsfondet.</ledd>
+        <ledd id="/kapittel/1/paragraf/3/ledd/3">Forsikringsmessige avsetninger etter annet ledd skal i tillegg korrigeres for oppreserveringsbehov, overgang til markedsrente, forventede marginer (fortjenesteelementer) og endrede biometriske forutsetninger.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k1/p4">
+        <pverdi>§ 4.</pverdi>
+        <ptittel>Korreksjon for oppreserveringsbehov ved godkjent opptrappingsplan</ptittel>
+        <ledd id="/kapittel/1/paragraf/4/ledd/1">Korreksjonen for oppreserveringsbehov skal omfatte behovet for styrking av premiereserve som følge av nytt premieberegningsgrunnlag, fratrukket andelen som forventes dekket av overskudd.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k1/p5">
+        <pverdi>§ 5.</pverdi>
+        <ptittel>Korreksjon for overgang til markedsrente</ptittel>
+        <ledd id="/kapittel/1/paragraf/5/ledd/1">Korreksjon for overgang til markedsrente skal foretas for porteføljer som nevnt i § 2 bokstav a til c. Korreksjonen for overgang til markedsrente skal omfatte summen av verdien av garanterte ytelser, verdien av diskresjonære ytelser (fremtidig bonus) og nåverdien av rentegarantipremie fratrukket forsikringsmessige avsetninger angitt i § 3 annet ledd.</ledd>
+        <ledd id="/kapittel/1/paragraf/5/ledd/2">Pensjonskasser med forvaltningskapital over 10 milliarder kroner skal beregne verdien av garanterte ytelser og verdien av fremtidig bonus etter tredje og fjerde ledd med tilpasningen som følger femte ledd.</ledd>
+        <ledd id="/kapittel/1/paragraf/5/ledd/3">Verdien av garanterte ytelser beregnes som
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/3/marg/1"><img src="sf-20181109-1689-01-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/3/marg/2">der</marg>
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/3/marg/3"><i>GY</i> = verdien av garanterte ytelser,</marg>
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/3/marg/4"><i>FA</i> = verdien av forsikringsmessige avsetninger angitt i § 3 annet ledd,</marg>
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/3/marg/5"><i>g</i> = gjennomsnittlig beregningsrente i porteføljen,</marg>
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/3/marg/6"><i>r</i> = risikofri markedsrente tilsvarende gjennomsnittlig durasjon i porteføljen, og</marg>
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/3/marg/7"><i>D</i> = gjennomsnittlig durasjon i porteføljen når beregningsrenten i kontraktene legges til grunn.</marg></ledd>
+        <ledd id="/kapittel/1/paragraf/5/ledd/4">Verdien av fremtidig bonus beregnes som
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/4/marg/1"><img src="sf-20181109-1689-02-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/4/marg/2">der</marg>
+<marg niv="1" id="/kapittel/1/paragraf/5/ledd/4/marg/3"><i>FB</i> = verdien av fremtidig bonus.</marg></ledd>
+        <ledd id="/kapittel/1/paragraf/5/ledd/5">For pensjonskasser som benytter tilpasning med bruk av årlige kontantstrømmer gjelder beregningen i tredje og fjerde ledd med følgende endringer:
+<liste id="/kapittel/1/paragraf/5/ledd/5/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/5/ledd/5/liste/a/avsnitt/1">Alle størrelser skal baseres på årlige kontantstrømmer basert på hvor stor andel av forsikringsmessige avsetninger som kan henføres til kontantstrømmer i det aktuelle året.</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/5/ledd/5/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/5/ledd/5/liste/b/avsnitt/1">Garanterte ytelser og fremtidig bonus skal beregnes for det enkelte år og deretter summeres.</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/5/ledd/5/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/1/paragraf/5/ledd/5/liste/c/avsnitt/1">I stedet for durasjonen <i>D</i> angitt i tredje ledd skal det for hvert år (T) benyttes en faktor som er lik T-0,5.</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/5/ledd/5/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/1/paragraf/5/ledd/5/liste/d/avsnitt/1">Den gjennomsnittlige beregningsrenten <i>g</i> for det enkelte år skal reflektere beregningsrenten for forpliktelsene som forventes utbetalt det aktuelle året.</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/5/ledd/5/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/1/paragraf/5/ledd/5/liste/e/avsnitt/1">Den risikofrie markedsrenten <i>r</i> for det enkelte år T skal reflektere gjennomsnittet av risikofrie markedsrenter med rentebindingstid på T år og T-1 år.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/1/paragraf/5/ledd/6">Nåverdien av rentegarantipremie skal omfatte nåverdien av fremtidig forskuddsvis rentegarantipremie knyttet til eksisterende forpliktelser i porteføljene som nevnt i § 2 bokstav a og b.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k1/p6">
+        <pverdi>§ 6.</pverdi>
+        <ptittel>Korreksjon for forventede marginer (fortjenesteelementer)</ptittel>
+        <ledd id="/kapittel/1/paragraf/6/ledd/1">Korreksjon for forventede marginer skal omfatte summen av
+<liste id="/kapittel/1/paragraf/6/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/6/ledd/1/liste/a/avsnitt/1">nåverdi av fremtidige fortjenesteelementer i pristariffer for kapitalforvaltning eksklusive rentegarantipremie, personrisiko og administrasjon, fratrukket nåverdi av fremtidig forventet underskudd for administrasjon og forvaltning og</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/6/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/6/ledd/1/liste/b/avsnitt/1">nåverdi av eventuelle fremtidige regelmessige kapitalinnskudd etter forskrift om pensjonsforetak § 15 første ledd.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/1/paragraf/6/ledd/2">Nåverdien etter første ledd bokstav b skal omfatte den andelen av nåverdien av de samlede fremtidige regelmessige kapitalinnskuddene som tilsvarer porteføljens andel av samlede forpliktelser, beregnet etter § 3 annet ledd.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k1/p7">
+        <pverdi>§ 7.</pverdi>
+        <ptittel>Korreksjon for endrede biometriske forutsetninger</ptittel>
+        <ledd id="/kapittel/1/paragraf/7/ledd/1">Korreksjon for endrede biometriske forutsetninger skal være differansen mellom avsetninger basert på forventet dødelighet og uførhet, og forsikringsmessige avsetninger som angitt i § 3 annet ledd med tillegg av eventuelt oppreserveringsbehov som angitt i § 4.</ledd>
+        <ledd id="/kapittel/1/paragraf/7/ledd/2">Hvis differansen beregnet i første ledd er negativ, skal korreksjonen fastsettes til null.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k1/p8">
+        <pverdi>§ 8.</pverdi>
+        <ptittel>Kontraktens grense</ptittel>
+        <ledd id="/kapittel/1/paragraf/8/ledd/1">I beregningen av nåverdi av rentegaranti og fortjenesteelementer skal forpliktelser som oppstår etter rapporteringstidspunktet, og der pensjonskassen kan endre premien slik at den fullt ut reflekterer risikoen, ikke medregnes. Fremtidige premier knyttet til eksisterende opptjening skal inngå i verdivurderingen.</ledd>
+        <ledd id="/kapittel/1/paragraf/8/ledd/2">For individuell forsikring med rett til fornyelse uten ny helsevurdering, skal også fremtidige premier og forpliktelser knyttet til fornyelse av kontrakten medregnes.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k1/p9">
+        <pverdi>§ 9.</pverdi>
+        <ptittel>Risikomargin</ptittel>
+        <ledd id="/kapittel/1/paragraf/9/ledd/1">Risikomarginen skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/1/paragraf/9/ledd/1/marg/1"><img src="sf-20181109-1689-03-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/1/paragraf/9/ledd/1/marg/2">der</marg>
+<marg niv="1" id="/kapittel/1/paragraf/9/ledd/1/marg/3"><i>RM</i> = verdien av risikomarginen,</marg>
+<marg niv="1" id="/kapittel/1/paragraf/9/ledd/1/marg/4"><i>BE</i> = verdien av beste estimat for den enkelte portefølje beregnet i samsvar med § 3,</marg>
+<marg niv="1" id="/kapittel/1/paragraf/9/ledd/1/marg/5"><i>TA</i> = samlede tilleggsavsetninger,</marg>
+<marg niv="1" id="/kapittel/1/paragraf/9/ledd/1/marg/6"><i>KF</i> = samlet kursreguleringsfond, og</marg>
+<marg niv="1" id="/kapittel/1/paragraf/9/ledd/1/marg/7"><i>FA<sub>ettår</sub></i> = verdien av forsikringsmessige avsetninger for porteføljen for ettårige risikoprodukter beregnet i samsvar med § 3 annet ledd.</marg></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Ansvarlig kapital</ktittel>
+      <paragraf id="/kapittel/2/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k2/p10">
+        <pverdi>§ 10.</pverdi>
+        <ptittel>Ansvarlig kapital</ptittel>
+        <ledd id="/kapittel/2/paragraf/10/ledd/1">Den ansvarlige kapitalen skal bestå av summen av kapital i kapitalgruppe 1 til 3, justert etter forskriften § 12, og med tillegg av kapitalelementer som angitt i § 13.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k2/p11">
+        <pverdi>§ 11.</pverdi>
+        <ptittel>Inndeling av den ansvarlige kapitalen i kapitalgrupper</ptittel>
+        <ledd id="/kapittel/2/paragraf/11/ledd/1">Følgende kapitalelementer skal klassifiseres som kapital i kapitalgruppe 1
+<liste id="/kapittel/2/paragraf/11/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/11/ledd/1/liste/a/avsnitt/1">innskutt og opptjent egenkapital fratrukket risikoutjevningsfondet, netto verdi av eiendeler ved utsatt skatt og immaterielle eiendeler, med tillegg av differansen mellom forsikringsmessige avsetninger angitt i § 2 annet ledd og forsikringstekniske avsetninger etter overgangsbestemmelsen angitt i forskrift om pensjonsforetak § 17.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/11/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/11/ledd/1/liste/b/avsnitt/1">fondsobligasjoner som tilfredsstiller kriteriene i artikkel 71 i forordningen.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/11/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/11/ledd/1/liste/c/avsnitt/1">delårsresultatet før overskuddstildeling til kunder og skatt.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/11/ledd/2">Følgende kapitalelementer skal klassifiseres som kapital i kapitalgruppe 2
+<liste id="/kapittel/2/paragraf/11/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/11/ledd/2/liste/a/avsnitt/1">risikoutjevningsfondet.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/11/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/11/ledd/2/liste/b/avsnitt/1">ansvarlige lån og fondsobligasjoner som ikke inngår i kapitalgruppe 1, men som tilfredsstiller kriteriene i artikkel 73 i forordningen.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/11/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/11/ledd/2/liste/c/avsnitt/1">supplerende kapital som er godkjent av Finanstilsynet etter artikkel 62 til 68 i forordningen, og som etter innbetaling skal klassifiseres som kapital i kapitalgruppe 1.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/11/ledd/3">Følgende kapitalelementer skal klassifiseres som kapital i kapitalgruppe 3
+<liste id="/kapittel/2/paragraf/11/ledd/3/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/11/ledd/3/liste/a/avsnitt/1">et beløp som tilsvarer netto verdi av eiendeler ved utsatt skatt.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/11/ledd/3/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/11/ledd/3/liste/b/avsnitt/1">ansvarlige lån som ikke inngår i kapitalgruppe 2, men som tilfredsstiller kriteriene i artikkel 77 i forordningen.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/11/ledd/3/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/11/ledd/3/liste/c/avsnitt/1">supplerende kapital som er godkjent av Finanstilsynet etter reglene i artikkel 62 til 68 i forordningen, og som etter innbetaling skal klassifiseres som kapital i kapitalgruppe 2.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/12" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k2/p12">
+        <pverdi>§ 12.</pverdi>
+        <ptittel>Kvantitative begrensninger</ptittel>
+        <ledd id="/kapittel/2/paragraf/12/ledd/1">Følgende regler gjelder for sammensetningen av den ansvarlige kapitalen:
+<liste id="/kapittel/2/paragraf/12/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/12/ledd/1/liste/a/avsnitt/1">Tellende kapital i kapitalgruppe 2 og tellende kapital i kapitalgruppe 3 kan til sammen ikke utgjøre et større beløp enn 50 prosent av pensjonskassens samlede solvenskapitalkrav.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/12/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/12/ledd/1/liste/b/avsnitt/1">Tellende kapital i kapitalgruppe 3 kan ikke utgjøre mer enn 15 prosent av pensjonskassens samlede solvenskapitalkrav.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/12/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/12/ledd/1/liste/c/avsnitt/1">Fondsobligasjonskapital kan ikke utgjøre mer enn 20 prosent av den samlede kapitalen i kapitalgruppe 1.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/13" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k2/p13">
+        <pverdi>§ 13.</pverdi>
+        <ptittel>Øvrige kapitalelementer</ptittel>
+        <ledd id="/kapittel/2/paragraf/13/ledd/1">Øvrige kapitalelementer som skal medregnes i den ansvarlige kapitalen består av
+<liste id="/kapittel/2/paragraf/13/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/13/ledd/1/liste/a/avsnitt/1">tilleggsavsetninger</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/13/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/13/ledd/1/liste/b/avsnitt/1">kursreguleringsfond</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/13/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/13/ledd/1/liste/c/avsnitt/1">premiefond for ytelsesbasert foretakspensjon med investeringsvalg etter lov om foretakspensjon § 11-1</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/13/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/2/paragraf/13/ledd/1/liste/d/avsnitt/1">positiv eller negativ merverdi av eiendeler, beregnet som differansen mellom verdien fastsatt etter forskrift om pensjonsforetak § 14 første ledd og regnskapsført verdi</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/13/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/2/paragraf/13/ledd/1/liste/e/avsnitt/1">korreksjon for endrede biometriske forutsetninger som kan medregnes i ansvarlig kapital.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/13/ledd/2">Korreksjonen for endrede biometriske forutsetninger skal beregnes med utgangspunkt i differansen angitt i § 7 første ledd, og være summen av absoluttverdien av differansen for porteføljene der differansen er negativ. Korreksjonen skal likevel ikke være høyere enn bidraget til det samlede solvenskapitalkravet fra kapitalkravene for forsikringsrisiko, der bidraget tilsvarer det samlede solvenskapitalkravet fratrukket et beregnet solvenskapitalkrav der kapitalkravene for livsforsikringsrisiko og helseforsikringsrisiko er satt til null.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Forenklet solvenskapitalkrav</ktittel>
+      <paragraf id="/kapittel/3/paragraf/14" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p14">
+        <pverdi>§ 14.</pverdi>
+        <ptittel>Forenklet solvenskapitalkrav</ptittel>
+        <ledd id="/kapittel/3/paragraf/14/ledd/1">Det forenklede solvenskapitalkravet skal beregnes på følgende måte</ledd>
+        <ledd id="/kapittel/3/paragraf/14/ledd/2">
+          <i>SK = BSK + SK<sub>OP</sub> - TE<sub>US</sub></i>
+          <marg niv="1" id="/kapittel/3/paragraf/14/ledd/2/marg/1">der</marg>
+          <marg niv="1" id="/kapittel/3/paragraf/14/ledd/2/marg/2"><i>BSK</i> = basissolvenskapitalkravet,</marg>
+          <marg niv="1" id="/kapittel/3/paragraf/14/ledd/2/marg/3"><i>SK<sub>OP</sub></i> = kapitalkravet for operasjonell risiko, og</marg>
+          <marg niv="1" id="/kapittel/3/paragraf/14/ledd/2/marg/4"><i>TE<sub>US</sub></i> = justering for den tapsabsorberende evnen til utsatt skatt.</marg>
+        </ledd>
+        <ledd id="/kapittel/3/paragraf/14/ledd/3">Basissolvenskapitalkravet skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/14/ledd/3/marg/1"><img src="sf-20181109-1689-04-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/14/ledd/3/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/14/ledd/3/marg/3"><i>Korr<sub>i,j</sub></i> = korrelasjonsparameteren for risikomodul <i>i</i>og <i>j</i> og,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/14/ledd/3/marg/4"><i>SK<sub>i</sub></i> og <i>SK<sub>j</sub></i> = kapitalkravet for henholdsvis risikomodul <i>i</i> og <i>j</i>.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/14/ledd/4">Korrelasjonsparameterne som skal anvendes ved beregning av basissolvenskapitalkravet er gitt ved følgende matrise:
+<marg niv="1" id="/kapittel/3/paragraf/14/ledd/4/marg/1"><img src="sf-20181109-1689-05-01.png" alt="ikon"/></marg></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/15" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p15">
+        <pverdi>§ 15.</pverdi>
+        <ptittel>Markedsrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/15/ledd/1">Derivatavtaler skal hensyntas i beregningen av kapitalkravet for de ulike undermodulene i kapitalkravet for markedsrisiko.</ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/2">Kapitalkravet for markedsrisiko skal beregnes på følgende måte:
+<marg niv="1" id="/kapittel/3/paragraf/15/ledd/2/marg/1"><img src="sf-20181109-1689-06-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/15/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/15/ledd/2/marg/3"><i>SK<sub>MA</sub></i> = kapitalkravet for markedsrisiko,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/15/ledd/2/marg/4"><i>Korr<sub>i,j</sub></i> = korrelasjonsparameteren for undermodul <i>i</i> og <i>j</i> for markedsrisiko, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/15/ledd/2/marg/5"><i>SK<sub>i</sub></i> og <i>SK<sub>j</sub></i> = kapitalkravet for henholdsvis undermodul <i>i</i> og <i>j</i>.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/3">Kapitalkravene for undermodulene skal summeres ved å anvende en av korrelasjonsmatrisene som angitt i femte og sjette ledd, avhengig av om kapitalkravet for renterisiko er beregnet ved en rentenedgang eller en renteoppgang.</ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/4">Dersom kapitalkravet for renterisiko er beregnet ved en rentenedgang skal følgende matrise benyttes:
+<marg niv="1" id="/kapittel/3/paragraf/15/ledd/4/marg/1"><img src="sf-20181109-1689-07-01.png" alt="ikon"/></marg></ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/5">Dersom kapitalkravet for renterisiko er beregnet ved en renteoppgang skal følgende matrise benyttes:
+<marg niv="1" id="/kapittel/3/paragraf/15/ledd/5/marg/1"><img src="sf-20181109-1689-08-01.png" alt="ikon"/></marg></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/16" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p16">
+        <pverdi>§ 16.</pverdi>
+        <ptittel>Gjennomskjæring</ptittel>
+        <ledd id="/kapittel/3/paragraf/16/ledd/1">Kapitalkravet for markedsrisiko skal beregnes på grunnlag av hver av de underliggende eiendelene i foretak for kollektiv investering, herunder verdipapirfond.</ledd>
+        <ledd id="/kapittel/3/paragraf/16/ledd/2">Når beregningen etter første ledd ikke er gjennomførbar, skal kapitalkravet beregnes på grunnlag av den målsatte fordelingen av eiendeler i foretaket for kollektiv investering, forutsatt at en slik fordeling er tilgjengelig på det detaljnivået som kreves, og at de underliggende eiendelene forvaltes strengt i samsvar med den målsatte fordelingen. Ved anvendelse av denne beregningen kan data grupperes, forutsatt at gruppene fastsettes på en forsiktig måte og at de ikke omfatter mer enn 20 prosent av den samlede verdien av pensjonskassens eiendeler.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/17" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p17">
+        <pverdi>§ 17.</pverdi>
+        <ptittel>Renterisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/17/ledd/1">Undermodulen for renterisiko skal dekke renterisiko knyttet til posisjoner i rentebærende finansielle instrumenter, samt renterisiko knyttet til forsikringstekniske avsetninger.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/2">Kapitalkravet for renterisiko skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/2/marg/1"><img src="sf-20181109-1689-09-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/2/marg/3"><i>SK<sub>R</sub></i> = kapitalkravet for renterisiko,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/2/marg/4"><i>R<sub>opp</sub></i> = tap ved renteoppgang, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/2/marg/5"><i>R<sub>ned</sub></i> = tap ved rentenedgang.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/3">Tap ved renteoppgang og tap ved rentenedgang skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/3/marg/1"><img src="sf-20181109-1689-10-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/3/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/3/marg/3"><i>ΔFF<sub>opp</sub></i> = beregnet verdiendring av forsikringstekniske avsetninger ved renteoppgang,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/3/marg/4"><i>ΔFI<sub>opp</sub></i> = beregnet verdiendring av finansielle instrumenter ved renteoppgang,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/3/marg/5"><i>ΔFF<sub>ned</sub></i> = beregnet verdiendring av forsikringstekniske avsetninger ved rentenedgang, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/17/ledd/3/marg/6"><i>ΔFF<sub>ned</sub></i> = beregnet verdiendring av finansielle instrumenter ved rentenedgang.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/4">Tap ved renteoppgang og tap ved rentenedgang skal beregnes som effekten av relative endringer av risikofri markedsrente, der de relative endringene er fastsatt som følger:</ledd>
+        <table niv="1" frame="1">
+          <tgroup cols="11" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="16*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="3" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="4" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="5" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="6" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="7" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="8" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="9" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="10" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="11" align="center" valign="top" colwidth="6*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Rentebindingstid (år) </entry>
+                <entry colname="2">0-1 </entry>
+                <entry colname="3">2 </entry>
+                <entry colname="4">3 </entry>
+                <entry colname="5">4 </entry>
+                <entry colname="6">5 </entry>
+                <entry colname="7">6 </entry>
+                <entry colname="8">7 </entry>
+                <entry colname="9">8 </entry>
+                <entry colname="10">9 </entry>
+                <entry colname="11">10 </entry>
+              </row>
+              <row>
+                <entry colname="1">Relativ endring opp </entry>
+                <entry colname="2">0,70 </entry>
+                <entry colname="3">0,70 </entry>
+                <entry colname="4">0,64 </entry>
+                <entry colname="5">0,59 </entry>
+                <entry colname="6">0,55 </entry>
+                <entry colname="7">0,52 </entry>
+                <entry colname="8">0,49 </entry>
+                <entry colname="9">0,47 </entry>
+                <entry colname="10">0,44 </entry>
+                <entry colname="11">0,42 </entry>
+              </row>
+              <row>
+                <entry colname="1">Relativ endring ned </entry>
+                <entry colname="2">-0,75 </entry>
+                <entry colname="3">-0,65 </entry>
+                <entry colname="4">-0,56 </entry>
+                <entry colname="5">-0,50 </entry>
+                <entry colname="6">-0,46 </entry>
+                <entry colname="7">-0,42 </entry>
+                <entry colname="8">-0,39 </entry>
+                <entry colname="9">-0,36 </entry>
+                <entry colname="10">-0,33 </entry>
+                <entry colname="11">-0,31 </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <br/>
+        <table niv="1" frame="1">
+          <tgroup cols="11" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="16*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="3" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="4" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="5" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="6" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="7" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="8" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="9" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="10" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="11" align="center" valign="top" colwidth="6*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Rentebindingstid (år) </entry>
+                <entry colname="2">11 </entry>
+                <entry colname="3">12 </entry>
+                <entry colname="4">13 </entry>
+                <entry colname="5">14 </entry>
+                <entry colname="6">15 </entry>
+                <entry colname="7">16 </entry>
+                <entry colname="8">17 </entry>
+                <entry colname="9">18 </entry>
+                <entry colname="10">19 </entry>
+                <entry colname="11">20 </entry>
+              </row>
+              <row>
+                <entry colname="1">Relativ endring opp </entry>
+                <entry colname="2">0,39 </entry>
+                <entry colname="3">0,37 </entry>
+                <entry colname="4">0,35 </entry>
+                <entry colname="5">0,34 </entry>
+                <entry colname="6">0,33 </entry>
+                <entry colname="7">0,31 </entry>
+                <entry colname="8">0,30 </entry>
+                <entry colname="9">0,29 </entry>
+                <entry colname="10">0,27 </entry>
+                <entry colname="11">0,26 </entry>
+              </row>
+              <row>
+                <entry colname="1">Relativ endring ned </entry>
+                <entry colname="2">-0,30 </entry>
+                <entry colname="3">-0,29 </entry>
+                <entry colname="4">-0,28 </entry>
+                <entry colname="5">-0,28 </entry>
+                <entry colname="6">-0,27 </entry>
+                <entry colname="7">-0,28 </entry>
+                <entry colname="8">-0,28 </entry>
+                <entry colname="9">-0,28 </entry>
+                <entry colname="10">-0,29 </entry>
+                <entry colname="11">-0,29 </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <br/>
+        <table niv="1" frame="1">
+          <tgroup cols="11" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="16*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="3" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="4" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="5" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="6" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="7" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="8" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="9" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="10" align="center" valign="top" colwidth="6*"/>
+            <colspec colname="11" align="center" valign="top" colwidth="6*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Rentebindingstid (år) </entry>
+                <entry colname="2">21 </entry>
+                <entry colname="3">22 </entry>
+                <entry colname="4">23 </entry>
+                <entry colname="5">24 </entry>
+                <entry colname="6">25 </entry>
+                <entry colname="7">26 </entry>
+                <entry colname="8">27 </entry>
+                <entry colname="9">28 </entry>
+                <entry colname="10">29 </entry>
+                <entry colname="11">30+ </entry>
+              </row>
+              <row>
+                <entry colname="1">Relativ endring opp </entry>
+                <entry colname="2">0,26 </entry>
+                <entry colname="3">0,26 </entry>
+                <entry colname="4">0,26 </entry>
+                <entry colname="5">0,26 </entry>
+                <entry colname="6">0,26 </entry>
+                <entry colname="7">0,25 </entry>
+                <entry colname="8">0,25 </entry>
+                <entry colname="9">0,25 </entry>
+                <entry colname="10">0,25 </entry>
+                <entry colname="11">0,25 </entry>
+              </row>
+              <row>
+                <entry colname="1">Relativ endring ned </entry>
+                <entry colname="2">-0,29 </entry>
+                <entry colname="3">-0,29 </entry>
+                <entry colname="4">-0,29 </entry>
+                <entry colname="5">-0,28 </entry>
+                <entry colname="6">-0,28 </entry>
+                <entry colname="7">-0,28 </entry>
+                <entry colname="8">-0,28 </entry>
+                <entry colname="9">-0,28 </entry>
+                <entry colname="10">-0,28 </entry>
+                <entry colname="11">-0,28 </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/18" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p18">
+        <pverdi>§ 18.</pverdi>
+        <ptittel>Renterisiko knyttet til forsikringstekniske avsetninger</ptittel>
+        <ledd id="/kapittel/3/paragraf/18/ledd/1">Pensjonskasser med forvaltningskapital over 10 milliarder kroner skal beregne renterisiko knyttet til forskingstekniske avsetninger etter tredje og fjerde ledd med tilpasningen som følger av femte ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/18/ledd/2">Renterisikoen for forsikringstekniske avsetninger skal beregnes med utgangspunkt i garanterte ytelser beregnet etter § 5 fjerde ledd. Risikoen skal beregnes for porteføljene angitt i § 2 bokstav a til c.</ledd>
+        <ledd id="/kapittel/3/paragraf/18/ledd/3">For de ulike porteføljene skal endringen i verdien av forsikringstekniske avsetninger ved renteoppgang beregnes på følgende måte</ledd>
+        <ledd id="/kapittel/3/paragraf/18/ledd/4">
+          <marg niv="1" id="/kapittel/3/paragraf/18/ledd/4/marg/1">
+            <img src="sf-20181109-1689-11-01.png" alt="ikon"/>
+          </marg>
+          <marg niv="1" id="/kapittel/3/paragraf/18/ledd/4/marg/2">der</marg>
+        </ledd>
+        <ledd id="/kapittel/3/paragraf/18/ledd/5">Δr<sub>opp</sub> = renteoppgang for den aktuelle porteføljen, beregnet som risikofri markedsrente svarende til porteføljens durasjon D multiplisert med relativ endring opp som angitt i § 17 fjerde ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/18/ledd/6">For de ulike porteføljene skal endringen i verdien av forsikringstekniske avsetninger ved rentenedgang beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/18/ledd/6/marg/1"><img src="sf-20181109-1689-12-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/18/ledd/6/marg/2">der</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/18/ledd/7">Δr<sub>ned</sub> = rentenedgang for den aktuelle porteføljen, beregnet som risikofri markedsrente svarende til porteføljens durasjon D multiplisert med relativ endring ned som angitt i § 17 fjerde ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/18/ledd/8">For pensjonskasser som benytter tilpasningen med bruk av årlige kontantstrømmer, skal beregningene baseres på samme beregninger som i tredje og fjerde ledd, med de samme endringene som er angitt i § 5 femte ledd. For hvert år skal renteendringen <i>Δr</i> beregnes som risikofri markedsrente multiplisert med relativ endring som angitt i § 17 fjerde ledd.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/19" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p19">
+        <pverdi>§ 19.</pverdi>
+        <ptittel>Renterisiko knyttet til finansielle instrumenter</ptittel>
+        <ledd id="/kapittel/3/paragraf/19/ledd/1">Pensjonskasser skal beregne renterisiko knyttet til finansielle instrumenter etter bestemmelsene i annet og tredje ledd eller ved bruk av årlige kontantstrømmer som angitt i fjerde ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/19/ledd/2">Renterisikoen for rentebærende instrumenter ved renteoppgang skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/2/marg/1"><img src="sf-20181109-1689-13-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/2/marg/3"><i>FI</i> = markedsverdi av rentebærende verdipapirer,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/2/marg/4"><i>D<sub>FI</sub></i> = gjennomsnittlig durasjon i porteføljen av rentebærende verdipapirer,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/2/marg/5"><i>r<sub>FI</sub></i> = risikofri markedsrente svarende til gjennomsnittlig durasjon,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/2/marg/6"><i>Δr<sub>FI,opp</sub></i> = renteoppgang for den aktuelle porteføljen, beregnet som risikofri markedsrente svarende til durasjonen multiplisert med relativ endring opp som angitt i § 16 fjerde ledd, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/2/marg/7"><i>ΔRD<sub>opp</sub></i> = endring i markedsverdi på rentederivater ved en umiddelbar endring i rentenivået som spesifisert i § 17 fjerde ledd.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/19/ledd/3">Renterisikoen for rentebærende instrumenter ved rentenedgang skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/3/marg/1"><img src="sf-20181109-1689-14-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/3/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/3/marg/3"><i>Δr<sub>FI,ned</sub></i> = rentenedgang for den aktuelle porteføljen, beregnet som risikofri markedsrente svarende til durasjonen multiplisert med relativ endring ned som angitt i § 17 fjerde ledd, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/19/ledd/3/marg/4"><i>ΔRD<sub>ned</sub></i> = endring i markedsverdi på rentederivater ved en umiddelbar endring i rentenivået som spesifisert i § 17 fjerde ledd.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/19/ledd/4">For pensjonskasser som benytter metoden med bruk av årlige kontantstrømmer, skal beregningene baseres på differansen mellom summen av verdien av årlige kontantstrømmer for de rentebærende verdipapirene diskontert med den endrede renten for det aktuelle året, og summen av verdien av tilsvarende kontantstrømmer diskontert med risikofri markedsrente for det aktuelle året. For hvert år skal den endrede renten beregnes som risikofri markedsrente med tillegg av risikofri markedsrente multiplisert med relativ endring som angitt i § 17 fjerde ledd. For hvert år T skal diskonteringen baseres på en forutsetning om at kontantstrømmen forfaller midt i året.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/20" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p20">
+        <pverdi>§ 20.</pverdi>
+        <ptittel>Aksjerisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/20/ledd/1">Undermodulen for aksjerisiko skal dekke markedsrisiko knyttet til posisjoner i egenkapitalinstrumenter, herunder plasseringer i belånte eiendomsselskaper og belånte eiendomsfond. Egenkapitalinstrumenter skal inndeles i kategoriene type 1-aksjer, type 2-aksjer eller kvalifiserende infrastrukturaksjer, der
+<liste id="/kapittel/3/paragraf/20/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/20/ledd/1/liste/a/avsnitt/1">type 1-aksjer omfatter aksjer og andre verdipapirer som kan sidestilles med aksjer som er notert på regulerte markeder i land som er medlem av Det europeiske økonomiske samarbeidsområdet (EØS) eller Organisasjonen for økonomisk samarbeid og utvikling (OECD), og aksjer som nevnt i artikkel 168 nr. 6 i forordningen,</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/20/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/20/ledd/1/liste/b/avsnitt/1">type 2-aksjer omfatter børsnoterte aksjer i land som ikke er medlem av EØS eller OECD, aksjer som ikke er notert, posisjoner i råvarer, og alternative investeringer, herunder alle former for aktiv eierkapital (private equity) og hedgefond, og</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/20/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/20/ledd/1/liste/c/avsnitt/1">kvalifiserende infrastrukturaksjer omfatter aksjeinvesteringer i infrastrukturprosjektenheter som oppfyller kriteriene angitt i artikkel 164a i forordningen.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/20/ledd/2">Kapitalkravet for aksjerisiko skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/20/ledd/2/marg/1"><img src="sf-20181109-1689-15-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/20/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/20/ledd/2/marg/3"><i>SK<sub>A</sub></i> = kapitalkrav for aksjerisiko,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/20/ledd/2/marg/4"><i>SK<sub>1</sub></i> = kapitalkrav for type 1-aksjer,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/20/ledd/2/marg/5"><i>SK<sub>2</sub></i> = kapitalkrav for type 2-aksjer, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/20/ledd/2/marg/6"><i>SK<sub>inf</sub></i> = kapitalkrav for kvalifiserende infrastrukturaksjer.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/20/ledd/3">Kapitalkravet for type 1-aksjer skal være lik det tapet i basiskapitalen som ville følge av et umiddelbart fall i aksjenes verdi som er lik summen av 39 prosent og en symmetrisk justering beregnet i samsvar med artikkel 172 i forordningen.</ledd>
+        <ledd id="/kapittel/3/paragraf/20/ledd/4">Kapitalkravet for type 2-aksjer skal være lik det tapet i basiskapitalen som ville følge av et umiddelbart fall i aksjenes verdi som er lik summen av 49 prosent og en symmetrisk justering beregnet i samsvar med artikkel 172 i forordningen.</ledd>
+        <ledd id="/kapittel/3/paragraf/20/ledd/5">Kapitalkravet for infrastrukturaksjer skal være lik det tapet i basiskapitalen som ville følge av et umiddelbart fall i aksjenes verdi som er lik summen av 30 prosent og 77 prosent av den symmetriske justeringen som nevnt i artikkel 172 i forordningen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/21" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p21">
+        <pverdi>§ 21.</pverdi>
+        <ptittel>Eiendomsrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/21/ledd/1">Undermodulen for eiendomsrisiko skal dekke markedsrisiko knyttet til investeringer i fast eiendom og aksjer eller andeler i eiendomsselskaper og eiendomsfond som ikke har et vesentlig innslag av lånefinansiering.</ledd>
+        <ledd id="/kapittel/3/paragraf/21/ledd/2">Kapitalkravet for eiendomsrisiko skal være lik det tapet i basiskapitalen som ville følge av et umiddelbart fall i verdien av pensjonskassens eiendomsinvesteringer på 25 prosent.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/22" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p22">
+        <pverdi>§ 22.</pverdi>
+        <ptittel>Valutarisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/22/ledd/1">Undermodulen for valutarisiko skal dekke markedsrisiko knyttet til endring i valutakurser. Alle finansielle instrumenter og øvrige posisjoner med valutarisiko skal inngå i vurderingen. Kapitalkravet for valutarisiko skal beregnes basert på netto valutaposisjon.</ledd>
+        <ledd id="/kapittel/3/paragraf/22/ledd/2">Kapitalkravet for valutarisiko skal være lik det største tapet i basiskapitalen ved
+<liste id="/kapittel/3/paragraf/22/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/22/ledd/2/liste/a/avsnitt/1">et umiddelbart fall i verdien av alle utenlandske valutaer på 25 prosent mot norske kroner, eller</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/22/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/22/ledd/2/liste/b/avsnitt/1">en umiddelbar økning i verdien av alle utenlandske valutaer på 25 prosent mot norske kroner.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/23" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p23">
+        <pverdi>§ 23.</pverdi>
+        <ptittel>Kredittmarginrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/23/ledd/1">Undermodulen for kredittmarginrisiko skal dekke risikoen knyttet til endring i verdien av obligasjoner og andre rentebærende investeringer som følge av endringer i kredittmarginer.</ledd>
+        <ledd id="/kapittel/3/paragraf/23/ledd/2">Kapitalkravet for kredittmarginrisiko skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/23/ledd/2/marg/1"><img src="sf-20181109-1689-16-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/23/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/23/ledd/2/marg/3"><i>SK<sub>S</sub></i> = kapitalkrav for kredittmarginrisiko,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/23/ledd/2/marg/4"><i>MV<sub>i</sub></i> = markedsverdi av samlet kreditteksponering i risikoklasse <i>i</i>,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/23/ledd/2/marg/5"><i>dur<sub>i</sub></i> = gjennomsnittlig effektiv durasjon (kredittdurasjon) knyttet til risikoklasse <i>i</i>,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/23/ledd/2/marg/6"><i>m(dur<sub>i</sub> )</i> = funksjon av gjennomsnittlig effektiv durasjon knyttet til risikoklasse <i>i</i>,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/23/ledd/2/marg/7"><i>rating<sub>i</sub></i> = den eksterne kredittvurderingen knyttet til eksponering i risikoklasse <i>i</i>,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/23/ledd/2/marg/8"><i>F(rating<sub>i</sub> )</i> = kredittmarginendring i prosentpoeng som tilordnes eksponering i risikoklasse <i>i</i> basert på den eksterne kredittvurderingen, og</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/23/ledd/3">Δ <i>D<sub>S</sub></i> = endring i markedsverdi på kredittderivater ved en økning i kredittmarginene.</ledd>
+        <ledd id="/kapittel/3/paragraf/23/ledd/4">Funksjonen <i>m(dur<sub>i</sub> )</i> skal fastsettes i henhold til følgende tabell:</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="38*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Risikoklasse</i>
+                </entry>
+                <entry colname="2">
+                  <i>m(dur<sub>i</sub> )</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="38*"/>
+            <tbody>
+              <row>
+                <entry colname="1">0 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 111)) </entry>
+              </row>
+              <row>
+                <entry colname="1">1 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 91)) </entry>
+              </row>
+              <row>
+                <entry colname="1">2 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 71)) </entry>
+              </row>
+              <row>
+                <entry colname="1">3 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 40)) </entry>
+              </row>
+              <row>
+                <entry colname="1">4 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 22)) </entry>
+              </row>
+              <row>
+                <entry colname="1">5 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 13)) </entry>
+              </row>
+              <row>
+                <entry colname="1">6 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 13)) </entry>
+              </row>
+              <row>
+                <entry colname="1">Ikke kredittvurdert </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 33)) </entry>
+              </row>
+              <row>
+                <entry colname="1">Obligasjoner med fortrinnsrett, risikoklasse 0 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 142)) </entry>
+              </row>
+              <row>
+                <entry colname="1">Obligasjoner med fortrinnsrett, risikoklasse 1 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 111)) </entry>
+              </row>
+              <row>
+                <entry colname="1">Infrastruktur, risikoklasse 0 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 156)) </entry>
+              </row>
+              <row>
+                <entry colname="1">Infrastruktur, risikoklasse 1 </entry>
+                <entry colname="2">maks(1, min((<i>dur<sub>i</sub></i> , 128)) </entry>
+              </row>
+              <row>
+                <entry colname="1">Infrastruktur, risikoklasse 2 </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 100)) </entry>
+              </row>
+              <row>
+                <entry colname="1">Infrastruktur, risikoklasse 3 eller ikke kredittvurdert </entry>
+                <entry colname="2">maks(1, min(<i>dur<sub>i</sub></i> , 60)) </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <ledd id="/kapittel/3/paragraf/23/ledd/5">Funksjonen <i>F(rating<sub>i</sub> )</i> skal fastsettes i henhold til følgende tabell:</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="38*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Risikoklasse</i>
+                </entry>
+                <entry colname="2">
+                  <i>F(rating<sub>i</sub> )</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="38*"/>
+            <tbody>
+              <row>
+                <entry colname="1">0 </entry>
+                <entry colname="2">0,9 % </entry>
+              </row>
+              <row>
+                <entry colname="1">1 </entry>
+                <entry colname="2">1,1 % </entry>
+              </row>
+              <row>
+                <entry colname="1">2 </entry>
+                <entry colname="2">1,4 % </entry>
+              </row>
+              <row>
+                <entry colname="1">3 </entry>
+                <entry colname="2">2,5 % </entry>
+              </row>
+              <row>
+                <entry colname="1">4 </entry>
+                <entry colname="2">4,5 % </entry>
+              </row>
+              <row>
+                <entry colname="1">5 </entry>
+                <entry colname="2">7,5 % </entry>
+              </row>
+              <row>
+                <entry colname="1">6 </entry>
+                <entry colname="2">7,5 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Ikke kredittvurdert </entry>
+                <entry colname="2">3,0 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Obligasjoner med fortrinnsrett, risikoklasse 0 </entry>
+                <entry colname="2">0,7 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Obligasjoner med fortrinnsrett, risikoklasse 1 </entry>
+                <entry colname="2">0,9 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Infrastruktur, risikoklasse 0 </entry>
+                <entry colname="2">0,64 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Infrastruktur, risikoklasse 1 </entry>
+                <entry colname="2">0,78 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Infrastruktur, risikoklasse 2 </entry>
+                <entry colname="2">1,0 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Infrastruktur, risikoklasse 3 eller ikke kredittvurdert </entry>
+                <entry colname="2">1,67 % </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <ledd id="/kapittel/3/paragraf/23/ledd/6">Infrastruktur som angitt i tredje og fjerde ledd omfatter obligasjoner og andre rentebærende investeringer som oppfyller kriteriene angitt i artikkel 164a i forordningen.</ledd>
+        <ledd id="/kapittel/3/paragraf/23/ledd/7">Risikoklassene skal tilordnes på bakgrunn av en offisiell kredittvurdering. Hvis det foreligger kredittvurderinger fra flere kredittvurderingsbyråer skal den nest høyeste kredittvurderingen legges til grunn. Som offisiell kredittvurdering regnes kredittvurdering fra godkjente kredittvurderingsbyråer angitt i forordning (EU) 2016/1800 som gjelder som norsk forskrift etter Solvens II-forskriften § 53c attende ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/23/ledd/8">Sammenhengen mellom risikoklasse og kredittvurderingsklasse for de ulike ratingbyråene skal fastsettes i samsvar med forordning (EU) 2016/1800 som gjelder som norsk forskrift etter Solvens II-forskriften § 53c attende ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/23/ledd/9">Statsobligasjoner utstedt av medlemsland i EØS og øvrige statsobligasjoner med kredittvurdering i risikoklasse 0 eller 1, denominert i utsteders egen valuta, skal ikke inngå i beregningen av kapitalkravet.</ledd>
+        <ledd id="/kapittel/3/paragraf/23/ledd/10">Eksponeringer mot ikke-kredittvurderte lokale og regionale myndigheter som ikke er sidestilt med eksponering mot sentrale myndigheter etter artikkel 85 i forordningen, skal behandles som eksponeringer i én risikoklasse svakere enn det statens kredittvurdering tilsier.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/24" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p24">
+        <pverdi>§ 24.</pverdi>
+        <ptittel>Konsentrasjonsrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/24/ledd/1">Undermodulen for konsentrasjonsrisiko skal dekke risikoen for tap ved endringer i verdien av aksjer og andre verdipapirer som kan sidestilles med aksjer, obligasjoner og andre gjeldsinstrumenter, som følge av vesentlig konsentrasjon mot en enkelt motpart.</ledd>
+        <ledd id="/kapittel/3/paragraf/24/ledd/2">Kapitalkravet for konsentrasjonsrisiko skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/24/ledd/2/marg/1"><img src="sf-20181109-1689-17-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/24/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/24/ledd/2/marg/3"><i>XS<sub>i</sub></i> = overskytende eksponering over terskelverdi for eksponering <i>i</i>, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/24/ledd/2/marg/4"><i>r<sub>i</sub></i> = risikofaktor for eksponering <i>i</i>.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/24/ledd/3">Konsentrasjonsrisiko skal beregnes for aksjer, obligasjoner og andre renteeksponeringer som inngår i undermodulen for kredittmarginrisiko. Konsentrasjonsrisiko skal ikke beregnes for obligasjoner utstedt av EØS-stat, eller andre statsobligasjoner med kredittvurdering i risikoklasse 0 eller 1 denominert i utsteders egen valuta, investeringer i livsforsikring med investeringsvalg eller eksponeringer som inngår i motpartsrisikomodulen. Eksponeringer mot ikke-kredittvurderte lokale og regionale myndigheter som ikke er sidestilt med eksponering mot sentrale myndigheter etter artikkel 85 i forordningen, skal behandles som eksponeringer i én risikoklasse svakere enn det statens kredittvurdering tilsier.</ledd>
+        <ledd id="/kapittel/3/paragraf/24/ledd/4">Beregningen av konsentrasjonsrisiko skal baseres på samlet eksponering mot en enkelt motpart. Eksponeringer mot flere juridiske enheter innenfor et konsern regnes som eksponering mot én enkelt motpart. For verdipapirfond skal eksponeringen vurderes mot de underliggende instrumentene og ikke fondet som helhet.</ledd>
+        <ledd id="/kapittel/3/paragraf/24/ledd/5">Konsentrasjonsrisiko skal beregnes dersom samlet eksponering overfor én enkelt motpart overstiger en terskelverdi, gitt som en prosentandel av samlede eiendeler som inngår i undermodulene for renterisiko, aksjerisiko og eiendomsrisiko. Eksponeringer utover terskelverdien tilordnes en risikofaktor.</ledd>
+        <ledd id="/kapittel/3/paragraf/24/ledd/6">Følgende terskelverdier og risikofaktorer gjelder i beregningen av konsentrasjonsrisiko:</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="19*"/>
+            <colspec colname="3" align="center" valign="top" colwidth="19*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Risikoklasse</i>
+                </entry>
+                <entry colname="2">
+                  <i>Terskelverdi</i>
+                </entry>
+                <entry colname="3">
+                  <i>Risikofaktor (r<sub>i</sub>)</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="19*"/>
+            <colspec colname="3" align="center" valign="top" colwidth="19*"/>
+            <tbody>
+              <row>
+                <entry colname="1">0 </entry>
+                <entry colname="2">3 % </entry>
+                <entry colname="3">12 % </entry>
+              </row>
+              <row>
+                <entry colname="1">1 </entry>
+                <entry colname="2">3 % </entry>
+                <entry colname="3">12 % </entry>
+              </row>
+              <row>
+                <entry colname="1">2 </entry>
+                <entry colname="2">3 % </entry>
+                <entry colname="3">21 % </entry>
+              </row>
+              <row>
+                <entry colname="1">3 </entry>
+                <entry colname="2">1,5 % </entry>
+                <entry colname="3">27 % </entry>
+              </row>
+              <row>
+                <entry colname="1">4 </entry>
+                <entry colname="2">1,5 % </entry>
+                <entry colname="3">73 % </entry>
+              </row>
+              <row>
+                <entry colname="1">5 </entry>
+                <entry colname="2">1,5 % </entry>
+                <entry colname="3">73 % </entry>
+              </row>
+              <row>
+                <entry colname="1">6 </entry>
+                <entry colname="2">1,5 % </entry>
+                <entry colname="3">73 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Ikke kredittvurdert </entry>
+                <entry colname="2">1,5 % </entry>
+                <entry colname="3">73 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Obligasjoner med fortrinnsrett, risikoklasse 0 </entry>
+                <entry colname="2">15 % </entry>
+                <entry colname="3">12 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Obligasjoner med fortrinnsrett, risikoklasse 1 </entry>
+                <entry colname="2">15 % </entry>
+                <entry colname="3">12 % </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <ledd id="/kapittel/3/paragraf/24/ledd/7">Risikoklassene skal fastsettes i samsvar med § 23 sjette og syvende ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/24/ledd/8">Dersom samlet eksponering overfor én motpart består av ulike eksponeringer med ulik kredittvurdering, skal den samlede eksponeringen tilordnes en gjennomsnittlig vektet kredittvurdering eller tilordnes den laveste kredittvurderingen. Eksponeringer i obligasjoner med fortrinnsrett skal behandles som enkelteksponeringer uavhengig av eventuelle andre eksponeringer overfor samme utsteder.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/25" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p25">
+        <pverdi>§ 25.</pverdi>
+        <ptittel>Motpartsrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/25/ledd/1">Motpartsrisiko skal dekke risiko som følge av at motparter ikke kan møte sine forpliktelser.</ledd>
+        <ledd id="/kapittel/3/paragraf/25/ledd/2">Kapitalkravet for motpartsrisiko skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/25/ledd/2/marg/1"><img src="sf-20181109-1689-18-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/25/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/25/ledd/2/marg/3"><i>SK<sub>MP</sub></i> = Kapitalkravet for motpartsrisiko,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/25/ledd/2/marg/4"><i>SK<sub>E1</sub></i> = Kapitalkravet for type 1-eksponeringer, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/25/ledd/2/marg/5"><i>SK<sub>E2</sub></i> = Kapitalkravet for type 2-eksponeringer.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/25/ledd/3">Ved beregning av motpartsrisiko skal det tas hensyn til den samlede motpartsrisikoeksponeringen for det aktuelle foretaket. Det skal tas hensyn til hvordan bortfallet av en gjenforsikringsavtale eller derivatavtale ville påvirket kapitalkravet i markedsrisikomodulen og modulene for livsforsikringsrisiko og helseforsikringsrisiko.</ledd>
+        <ledd id="/kapittel/3/paragraf/25/ledd/4">Type 1-eksponeringer omfatter gjenforsikringsavtaler, derivater og bankinnskudd uten bindingstid.</ledd>
+        <ledd id="/kapittel/3/paragraf/25/ledd/5">Type 2-eksponeringer omfatter alle motpartsrisikoeksponeringer som ikke er type 1-eksponeringer og som ikke er omfattet av modulen for kredittmarginrisiko, herunder fordringer på formidlere, lån til forsikringstakere og boliglån.</ledd>
+        <ledd id="/kapittel/3/paragraf/25/ledd/6">Motparter som tilhører samme konsern skal behandles som én motpart.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/26" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p26">
+        <pverdi>§ 26.</pverdi>
+        <ptittel>Type 1-eksponeringer i motpartsrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/26/ledd/1">Kapitalkravet for type 1-eksponeringer skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/1/marg/1"><img src="sf-20181109-1689-19-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/1/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/1/marg/3"><i>LGD<sub>i</sub></i> = antatt tap ved mislighold av motpart <i>i</i>, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/1/marg/4"><i>σ</i> = standardavviket til tapsfordelingen til type 1-eksponering.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/2">Standardavviket til tapsfordelingen til type 1-eksponering skal beregnes som
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/2/marg/1"><img src="sf-20181109-1689-20-01.png" alt="ikon"/></marg></ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/3"><i>V<sub>inter</sub></i> skal beregnes som
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/3/marg/1"><img src="sf-20181109-1689-21-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/3/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/3/marg/3"><i>j</i> og <i>k</i> går over alle risikoklasser,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/3/marg/4"><i>TLGD<sub>j</sub></i> og <i>TLGD<sub>k</sub></i> = summen av antatt tap ved mislighold av avtaler med motparter i henholdsvis risikoklasse <i>j</i> og <i>k</i>, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/3/marg/5"><i>PD<sub>j</sub></i> og <i>PD<sub>k</sub></i> = sannsynligheten for mislighold i henholdsvis risikoklasse <i>j</i> og <i>k</i>.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/4"><i>V<sub>intra</sub></i> skal beregnes som
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/4/marg/1"><img src="sf-20181109-1689-22-01.png" alt="ikon"/></marg></ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/5">Følgende misligholdsannsynligheter skal benyttes ved beregningen av kapitalkravet for type 1-eksponeringer:</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="38*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Risikoklasse</i>
+                </entry>
+                <entry colname="2">
+                  <i>Misligholdsannsynlighet (PD)</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+            <colspec colname="2" align="center" valign="top" colwidth="38*"/>
+            <tbody>
+              <row>
+                <entry colname="1">0 </entry>
+                <entry colname="2">0,002 % </entry>
+              </row>
+              <row>
+                <entry colname="1">1 </entry>
+                <entry colname="2">0,010 % </entry>
+              </row>
+              <row>
+                <entry colname="1">2 </entry>
+                <entry colname="2">0,050 % </entry>
+              </row>
+              <row>
+                <entry colname="1">3 </entry>
+                <entry colname="2">0,240 % </entry>
+              </row>
+              <row>
+                <entry colname="1">4 </entry>
+                <entry colname="2">1,200 % </entry>
+              </row>
+              <row>
+                <entry colname="1">5 </entry>
+                <entry colname="2">4,175 % </entry>
+              </row>
+              <row>
+                <entry colname="1">6 </entry>
+                <entry colname="2">4,175 % </entry>
+              </row>
+              <row>
+                <entry colname="1">Ikke kredittvurdert </entry>
+                <entry colname="2">4,175 % </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <ledd id="/kapittel/3/paragraf/26/ledd/6">Risikoklassene skal fastsettes i samsvar med § 23 sjette og syvende ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/7">For ikke-kredittvurderte motparter som har en solvenskapitaldekning etter Solvens II-regelverket på over 400 prosent, skal misligholdsannsynligheten tilsvare et foretak i risikoklasse 2.</ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/8">For ikke-kredittvurderte banker som er underlagt kapitalkravsforordningen (575/2013), skal misligholdsannsynligheten være 0,5 prosent.</ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/9">Dersom pensjonskassen har flere motparter innenfor samme konsern, skal konsernet tildeles en vektet misligholdsannsynlighet. Hver enkelt motpart skal tildeles en vekt lik sin andel av tapet ved mislighold.</ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/10">Pensjonskassene kan benytte en forenkling der motparter deles inn i grupper basert på risikoklasse. Beregningen modifiseres slik at ved fastsettelse av tap ved mislighold skal hver gruppe behandles som én motpart.</ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/11">For en gjenforsikringsavtale skal tap ved mislighold (<i>LGD</i>) beregnes som
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/11/marg/1"><i>LGD</i> = maks(50 % · (Fordringer + 50 % · <i>RE</i>) - 0,75 · <i>Sikkerhet</i>; 0)</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/11/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/11/marg/3"><i>Fordringer</i> = beste estimat på fordringer fra gjenforsikringsavtalen pluss eventuelle utestående fordringer mot samme motpart,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/11/marg/4"><i>RE</i> = risikoreduserende effekt på forsikringsrisiko av gjenforsikringsavtalen, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/11/marg/5"><i>Sikkerhet</i> = markedsverdi av sikkerhetsstillelse knyttet til gjenforsikringsavtalen.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/12">For en derivatavtale skal tap ved mislighold beregnes som
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/12/marg/1"><i>LGD</i> = maks((90 % · (<i>MV</i> + <i>RE</i>) - 0,75 · <i>Sikkerhet</i>; 0)</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/12/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/12/marg/3"><i>MV</i> = markedsverdien av derivatet,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/12/marg/4"><i>RE</i> = den risikoreduserende effekten derivatet har på markedsrisiko, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/26/ledd/12/marg/5"><i>Sikkerhet</i> = verdien av sikkerhetstillelse knyttet til derivatet.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/26/ledd/13">Den risikoreduserende effekten skal beregnes som forskjellen mellom det teoretiske kapitalkravet for forsikringsrisiko og markedsrisiko, uten det risikoreduserende elementet, og det tilsvarende kapitalkravet med det risikoreduserende elementet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/27" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p27">
+        <pverdi>§ 27.</pverdi>
+        <ptittel>Type 2-eksponeringer i motpartsrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/27/ledd/1">Kapitalkravet for type 2-eksponeringer beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/27/ledd/1/marg/1"><img src="sf-20181109-1689-23-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/27/ledd/1/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/27/ledd/1/marg/3"><i>E</i> = summen av verdi av type 2-eksponering, eksklusive boliglån og fordringer på formidlere forfalt i mer enn 3 måneder,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/27/ledd/1/marg/4"><i>Bolig<sub/>&gt;60pst</i> = boliglån utover 60 prosent av panteverdi, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/27/ledd/1/marg/5"><i>E<sub>forfalt</sub></i> = summen av fordringer på formidlere forfalt i mer enn 3 måneder.</marg></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/28" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p28">
+        <pverdi>§ 28.</pverdi>
+        <ptittel>Livsforsikringsrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/28/ledd/1">Kapitalkravet for livsforsikringsrisiko skal omfatte risikoen for endrede forutsetninger om døds-, opplevelses-, uføre- og avgangsrisiko som kan påvirke verdien av forpliktelsene.</ledd>
+        <ledd id="/kapittel/3/paragraf/28/ledd/2">Det samlede kapitalkravet for livsforsikringsrisiko skal beregnes som
+<marg niv="1" id="/kapittel/3/paragraf/28/ledd/2/marg/1"><img src="sf-20181109-1689-24-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/28/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/28/ledd/2/marg/3"><i>SK<sub>LF</sub></i> = kapitalkravet for livsforsikringsrisiko,</marg>
+<marg niv="1" id="/kapittel/3/paragraf/28/ledd/2/marg/4"><i>Korr<sub>i,j</sub></i> = korrelasjonsparameteren for risiko og knyttet til livsforsikring, <i>i</i> og <i>j</i>.</marg>
+<marg niv="1" id="/kapittel/3/paragraf/28/ledd/2/marg/5"><i>SK<sub>i</sub></i> og <i>SK<sub>j</sub></i> = kapitalkravet for henholdsvis risiko <i>i</i> og <i>j</i>.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/28/ledd/3">Kapitalkravene for de ulike risikoene knyttet til livsforsikring skal summeres ved å anvende følgende korrelasjonsmatrise:
+<marg niv="1" id="/kapittel/3/paragraf/28/ledd/3/marg/1"><img src="sf-20181109-1689-25-01.png" alt="ikon"/></marg></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/29" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p29">
+        <pverdi>§ 29.</pverdi>
+        <ptittel>Døds- og opplevelsesrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/29/ledd/1">Døds- og opplevelsesrisiko skal omfatte risikoen for tap gitt endringer i dødelighetsintensitetene.</ledd>
+        <ledd id="/kapittel/3/paragraf/29/ledd/2">I beregningen av kapitalkravet for dødelighets- og opplevelsesrisiko skal det tas utgangspunkt i forsikringstekniske avsetninger der dødelighetsrisiko inngår i det forsikringstekniske beregningsgrunnlaget. Det skal tas utgangspunkt i forventningsverdien av fremtidige diskonterte utbetalinger, med forutsetning om fremtidig dødelighet i samsvar med beste estimat. Effekten av eventuelle vesentlige gjenforsikringsavtaler skal reflekteres i beregningen. Ved diskontering skal det benyttes risikofri markedsrente.</ledd>
+        <ledd id="/kapittel/3/paragraf/29/ledd/3">Beregningen skal gjøres på kontraktsnivå, og avsetningen etter beste estimat skal benyttes som nederste grense for avsetningen ved økt/redusert dødelighetsintensitet.</ledd>
+        <ledd id="/kapittel/3/paragraf/29/ledd/4">Kapitalkravet for dødsrisiko skal utgjøre differansen mellom avsetningene når dødelighetsintensitetene økes med 15 prosent i alle aldre, og beste estimat.</ledd>
+        <ledd id="/kapittel/3/paragraf/29/ledd/5">Kapitalkravet for opplevelsesrisiko skal utgjøre differansen mellom avsetningene når dødelighetsintensitetene reduseres med 10 prosent i alle aldre, og beste estimat.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/30" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p30">
+        <pverdi>§ 30.</pverdi>
+        <ptittel>Uførerisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/30/ledd/1">Uførerisiko skal omfatte risikoen for tap som skyldes endringer i uføreintensitetene for uføredekninger tilknyttet alderpensjonsdekninger.</ledd>
+        <ledd id="/kapittel/3/paragraf/30/ledd/2">For beregning av uførerisiko gjelder § 29 annet og tredje ledd tilsvarende.</ledd>
+        <ledd id="/kapittel/3/paragraf/30/ledd/3">Kapitalkravet for uførerisiko skal utgjøre differansen mellom avsetningene når uføreintensitetene økes med 25 prosent første året og 15 prosent deretter, og beste estimat.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/31" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p31">
+        <pverdi>§ 31.</pverdi>
+        <ptittel>Avgangsrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/31/ledd/1">Avgangsrisiko omfatter risikoen for tap som følge av at kunden avslutter kontrakten med pensjonskassen før kontraktens utløp, f.eks. ved å flytte kontrakten til en annen pensjonstilbyder eller ved å stoppe videre premieinnbetaling.</ledd>
+        <ledd id="/kapittel/3/paragraf/31/ledd/2">Kapitalkravet for avgangsrisiko skal beregnes som
+<marg niv="1" id="/kapittel/3/paragraf/31/ledd/2/marg/1"><img src="sf-20181109-1689-26-01.png" alt="ikon"/></marg>
+<marg niv="1" id="/kapittel/3/paragraf/31/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/31/ledd/2/marg/3"><i>SK<sub>AR</sub></i> = kapitalkravet for avgangsrisiko.</marg></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/32" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p32">
+        <pverdi>§ 32.</pverdi>
+        <ptittel>Helseforsikringsrisiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/32/ledd/1">Helseforsikringsrisiko skal omfatte risikoen for tap som skyldes endringer i uføreintensitetene for andre produkter enn uføredekninger tilknyttet alderpensjonsdekninger.</ledd>
+        <ledd id="/kapittel/3/paragraf/32/ledd/2">For beregning av uførerisiko gjelder § 29 annet og tredje ledd tilsvarende.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/33" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p33">
+        <pverdi>§ 33.</pverdi>
+        <ptittel>Operasjonell risiko</ptittel>
+        <ledd id="/kapittel/3/paragraf/33/ledd/1">Operasjonell risiko skal dekke risiko for tap som følge av svikt i interne prosesser, menneskelig svikt, systemsvikt eller svikt som følge av eksterne hendelser.</ledd>
+        <ledd id="/kapittel/3/paragraf/33/ledd/2">Kapitalkravet for operasjonell risiko skal beregnes på følgende måte
+<marg niv="1" id="/kapittel/3/paragraf/33/ledd/2/marg/1"><i>SK<sub>OP</sub></i> = min(0,3 · <i>BSK</i>;0,0045 · <i>BE</i>)</marg>
+<marg niv="1" id="/kapittel/3/paragraf/33/ledd/2/marg/2">der</marg>
+<marg niv="1" id="/kapittel/3/paragraf/33/ledd/2/marg/3"><i>BSK</i> = basissolvenskapitalkravet, og</marg>
+<marg niv="1" id="/kapittel/3/paragraf/33/ledd/2/marg/4"><i>BE</i> = beste estimat.</marg></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/34" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k3/p34">
+        <pverdi>§ 34.</pverdi>
+        <ptittel>Justering for den tapsabsorberende evnen til utsatt skatt</ptittel>
+        <ledd id="/kapittel/3/paragraf/34/ledd/1">Den tapsabsorberende evnen til utsatt skatt skal fastsettes til 15 prosent av summen av basissolvenskapitalkravet angitt i § 14 og kapitalkravet for operasjonell risiko angitt i § 33.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Ikrafttreden og overgangsbestemmelser</ktittel>
+      <paragraf id="/kapittel/4/paragraf/35" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k4/p35">
+        <pverdi>§ 35.</pverdi>
+        <ptittel>Ikrafttreden</ptittel>
+        <ledd id="/kapittel/4/paragraf/35/ledd/1">Forskriften trer i kraft 1. januar 2019.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/36" url="https://lovdata.no/lovtidend/forskrift/2018-11-09-1689/k4/p36">
+        <pverdi>§ 36.</pverdi>
+        <ptittel>Overgangsbestemmelser</ptittel>
+        <ledd id="/kapittel/4/paragraf/36/ledd/1">Ansvarlige lån og fondsobligasjoner tatt opp før 1. januar 2019 kan medregnes i kapitalgruppe 2 frem til og med 31. desember 2028.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

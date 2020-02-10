@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2016-12-20-1913" type="lt" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2016-12-20-1913</id>
+    <dato>20.12.2016 nr. 1913</dato>
+    <dato type="iso">2016-12-20</dato>
+    <ikraft>01.01.2017</ikraft>
+    <ikraft type="iso">2017-01-01</ikraft>
+    <departement>Forsvarsdepartementet</departement>
+    <departement>Kunnskapsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2005-04-01-15-§3-9">L01.04.2005 nr. 15 § 3-9</ref>, <ref id="for-2005-12-16-1575">F16.12.2005 nr. 1575</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2010-06-09-12</endrer>
+    <rettet>13.01.2017 (<ref id="for-2005-12-16-1575-§7">§ 7</ref>, ortografiske feil)</rettet>
+    <journalnummer>2017-0028</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om eksamen ved Sjøkrigsskolen (SKSK)</korttittel>
+    <tittel>Forskrift om eksamen ved Sjøkrigsskolen (SKSK)</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Sjef Sjøkrigsskolen 20. desember 2016 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-9 syvende ledd og forskrift 16. desember 2005 nr. 1575 om delvis innlemming av Forsvarets høyskoler under lov 1. april 2005 nr. 15 om universiteter og høyskoler.</redaksjonell_note>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Virkeområde</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Denne forskriften gjelder for alle studenter tatt opp ved SKSK. Forskriften omfatter alle eksamener, prøver, bedømmelser, vurderinger og lignende innenfor alle emner, delemner og kurs når resultatet fremgår på eller inngår som beregningsgrunnlag for vitnemål eller karakterutskrift.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p2">
+      <pverdi>§ 2.</pverdi>
+      <ptittel>Definisjoner</ptittel>
+      <table niv="1" frame="0">
+        <tgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="20*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="56*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Deleksamen</i>
+              </entry>
+              <entry colname="2">Noen emner omfatter deleksamener fastsatt i emnebeskrivelsen. Karakteren i emnet/delemnet blir fastsatt på grunnlag av karakterene i deleksamenene. Opplysninger om hvordan slike sammensatte karakterer beregnes, går frem av emneplanen. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Eksamen</i>
+              </entry>
+              <entry colname="2">Betegnelse på en prøve eller vurdering når resultatet skal inngå på vitnemålet eller innregnes i en karakter på vitnemålet. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Emneplan</i>
+              </entry>
+              <entry colname="2">Med utgangspunkt i en godkjent rammeplan gir emneplanen en nærmere konkretisering av faglig innhold i emnet, og beskriver organiseringen av emnet, mål, innhold, studieprogresjon, arbeids- og undervisnings-/læringsformer, eventuelle praksisformer og forholdet mellom teori og praksis og eksamens-/vurderingsordningene. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Evalueringsmappe</i>
+              </entry>
+              <entry colname="2">Samling av de arbeider og prøver innen et emne eller fag, med evaluering i løpet av studiet, som sammen med eksamen danner grunnlag for karakterer på vitnemålet. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Fagplan</i>
+              </entry>
+              <entry colname="2">En konkretisering av det faglige innholdet i rammeplanen. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Hospitant</i>
+              </entry>
+              <entry colname="2">Person som gjennomfører deler av et gitt studieprogram. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Kadett</i>
+              </entry>
+              <entry colname="2">Betegnelse på student tatt opp til å gjennomføre Bachelor i militære studier eller ettårig kvalifiseringskurs. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Kandidatnummer</i>
+              </entry>
+              <entry colname="2">Alle kandidatene som er meldt opp til en eksamen, får tildelt et kandidatnummer. Kandidatnummeret tildeles etter at eksamensoppgaven er delt ut. Kandidatene får nytt kandidatnummer til hver eksamen. Nummeret genereres fra FS. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Ny eksamen/prøve</i>
+                <br/>
+                <i>(Kontinuasjonseksamen)</i>
+              </entry>
+              <entry colname="2"><br/>Den eksamen som arrangeres for studenter som ikke har bestått ordinær eksamen. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Ordinær eksamen</i>
+              </entry>
+              <entry colname="2">Det første eksamensforsøk som gjennomføres i et emne eller som del av emne. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Rammeplan</i>
+              </entry>
+              <entry colname="2">Plan der øverste myndighet har fastsatt nasjonale rammer for studiet. Innholdet er nærmere konkretisert i en fagplan. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Student</i>
+              </entry>
+              <entry colname="2">Fellesbetegnelse for personer som er tatt opp for studier ved SKSK. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Studiepoeng</i>
+              </entry>
+              <entry colname="2">Omfanget av et fag, emne eller kurs i universitets- og høyskolesystemet måles i studiepoeng. 60 studiepoeng tilsvarer normal arbeidsmengde i ett studieår. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Utsatt eksamen</i>
+              </entry>
+              <entry colname="2">Den eksamen som arrangeres for studenter som har vært sykemeldt eller hatt annet gyldig fravær ved ordinær eksamen. </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Vektfaktor</i>
+              </entry>
+              <entry colname="2">I vitnemål fra SKSK som ikke benytter begrepet studiepoeng, skal betegnelsen vektfaktor nyttes for å unngå forveksling med studiepoeng. Vektfaktor skal brukes for å beskrive viktigheten og omfanget av emnet i forhold til andre emner. </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </paragraf>
+    <paragraf id="/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p3">
+      <pverdi>§ 3.</pverdi>
+      <ptittel>Beskrivelse av eksamen</ptittel>
+      <ledd id="/paragraf/3/ledd/1">Eksamen betyr alle vurderingsordninger som har innflytelse på fastsettelse av eksamenskarakteren i fag, emner eller delemner.</ledd>
+      <ledd id="/paragraf/3/ledd/2">En eksamen kan omfatte ett eller flere delemner slik det er beskrevet i emneplanen. Beskrivelsen omtaler bruk av gradert karakterskala, eller karakterene bestått eller ikke bestått, omfang målt i studiepoeng/vektfaktor og hvordan eksamenen inngår i karakteren på vitnemålet. Nærmere omtale av denne paragraf er gitt i utfyllende bestemmelser og rutinebeskrivelser.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p4">
+      <pverdi>§ 4.</pverdi>
+      <ptittel>Eksamensformer</ptittel>
+      <ledd id="/paragraf/4/ledd/1">Ved SKSK kan følgende eksamensformer benyttes hver for seg eller sammen for det enkelte emnet:
+<liste id="/paragraf/4/ledd/1/liste/1"><lverdi>-</lverdi><avsnitt id="/paragraf/4/ledd/1/liste/1/avsnitt/1">Skriftlig og/eller muntlig</avsnitt></liste>
+<liste id="/paragraf/4/ledd/1/liste/2"><lverdi>-</lverdi><avsnitt id="/paragraf/4/ledd/1/liste/2/avsnitt/1">Individuell og/eller gruppevis</avsnitt></liste>
+<liste id="/paragraf/4/ledd/1/liste/3"><lverdi>-</lverdi><avsnitt id="/paragraf/4/ledd/1/liste/3/avsnitt/1">Med eller uten hjelpemidler</avsnitt></liste>
+<liste id="/paragraf/4/ledd/1/liste/4"><lverdi>-</lverdi><avsnitt id="/paragraf/4/ledd/1/liste/4/avsnitt/1">Hjemme- eller skoleeksamen</avsnitt></liste>
+<liste id="/paragraf/4/ledd/1/liste/5"><lverdi>-</lverdi><avsnitt id="/paragraf/4/ledd/1/liste/5/avsnitt/1">Ferdighetsprøve</avsnitt></liste>
+<liste id="/paragraf/4/ledd/1/liste/6"><lverdi>-</lverdi><avsnitt id="/paragraf/4/ledd/1/liste/6/avsnitt/1">Mappeevaluering.</avsnitt></liste></ledd>
+    </paragraf>
+    <paragraf id="/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p5">
+      <pverdi>§ 5.</pverdi>
+      <ptittel>Oppmelding til eksamen/adgang til å forbedre karakteren</ptittel>
+      <ledd id="/paragraf/5/ledd/1">Studenter tatt opp til studier ved SKSK er automatisk oppmeldt til eksamen og skal følge progresjonen angitt i studieprogrammet. Studenten plikter å gjøre seg kjent med eksamensforskriften, utfyllende bestemmelser og rutinebeskrivelser og eksamensprogrammet for hvert semester.</ledd>
+      <ledd id="/paragraf/5/ledd/2">Kandidatene kan etter søknad få anledning til å gå opp til ny eksamen selv om første eksamensforsøk er bestått. Dette kan gjøres kun en gang i samme emne. Gjennomføring skal normalt skje når skolen likevel arrangerer eksamen i emnet, ved utsatt eller ny eksamen ev. senest ved neste ordinære eksamen. En forutsetning er at emneplanen ikke er vesentlig endret. Nærmere retningslinjer er gitt i utfyllende bestemmelser og rutinebeskrivelser.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p6">
+      <pverdi>§ 6.</pverdi>
+      <ptittel>Tidspunkt for eksamen</ptittel>
+      <ledd id="/paragraf/6/ledd/1">Eksamensperioden fastsettes ved semesterstart. Eksamensdatoer fastsettes senest en måned før eksamen. Datoene skal normalt fremkomme av skolens årsprogram.</ledd>
+      <ledd id="/paragraf/6/ledd/2">Studieadministrasjonen utarbeider eksamensprogrammet. Det endelige eksamensprogrammet skal være fordelt senest to uker før første eksamensdag.</ledd>
+      <ledd id="/paragraf/6/ledd/3">Det utarbeides ikke program for kontinuasjonseksamener, men tentative datoer for dette avsettes i årsprogrammet for påfølgende semester.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p7">
+      <pverdi>§ 7.</pverdi>
+      <ptittel>Gjennomføring av eksamen</ptittel>
+      <br/>
+      <ledd id="/paragraf/7/ledd/1">
+        <i>Skriftlig skoleeksamen</i>
+      </ledd>
+      <ledd id="/paragraf/7/ledd/2">På skriftlige eksamensoppgaver skal følgende opplysninger alltid angis: emnets/delemnets navn og eventuelt fagnummer/emnekode, eksamensdato, varigheten av eksamen og hvilke hjelpemidler kandidaten kan ha ved eksamen.</ledd>
+      <ledd id="/paragraf/7/ledd/3">Antrekk under eksamen er Tjenesteantrekk 1 ev. Sommerantrekk 1 (1. mai-30. sep.), jf. SKSK ordre 203. Imidlertid godtas også kontorgenser istedenfor T1 jakke. Tilsvarende for hær- og luftkadetter.</ledd>
+      <ledd id="/paragraf/7/ledd/4">Kandidater som møter i ureglementert antrekk vil bli avvist.</ledd>
+      <ledd id="/paragraf/7/ledd/5">Eksamen starter kl. 08:10 hvis ikke noe annet er kunngjort.</ledd>
+      <ledd id="/paragraf/7/ledd/6">Studentene skal innta sine plasser i eksamenslokalet senest 10 minutter før eksamen tar til. Elektroniske (hjelpe)midler som kan kommunisere med omverdenen er ikke tillatt.</ledd>
+      <ledd id="/paragraf/7/ledd/7">Det er heller ikke tillatt å bære noen form for armbåndsur ved eksamener.</ledd>
+      <ledd id="/paragraf/7/ledd/8">Eksamensoppgaven deles ut etter at hver student har satt seg på sin plass. Studentene bruker sine egne skrivesaker, men nytter kun SKSKs papir. Besvarelsen skal skrives med sort eller blå kulepenn. Bruk av korrekturlakk er ikke tillatt.</ledd>
+      <ledd id="/paragraf/7/ledd/9">Emne, dato og kandidatnummer skal føres på eksamensarkene. Alle sidene skal nummereres og det totale antall ark føres på det første arket. Studentene skal sjekke at kopiarkene (gult og rosa ark) har fått gjennomslag før besvarelsen innleveres. Hvis det viser seg at noen kopiark ikke har fått gjennomslag, skal studenten gi melding om dette til eksamensvakten slik at Studieadministrasjonen kan kopiere opp nødvendige ark fra originalen (hvitt ark) før besvarelsen sendes faglærer og sensor for bedømming.</ledd>
+      <ledd id="/paragraf/7/ledd/10">Dersom en kadett blir syk under eksamen og må avbryte, meddeler studenten dette til hovedvakten og skal umiddelbart fremstille seg for lege. Av legeerklæring må det fremgå at studenten har trukket seg fra eksamen pga. sykdom.</ledd>
+      <ledd id="/paragraf/7/ledd/11">Faglærer, eller en som kan stille/fungere for denne, skal være tilstede ved oppstart av eksamen og i 15-20 min. etter dette. Deretter skal vedkommende være <i>tilgjengelig</i> under eksamensavviklingen. Faglærer, eller den som fungerer/stiller for denne, avgjør selv hvilke spørsmål fra studenten som kan besvares uten at studenten gis utilbørlig hjelp. Opplysninger som er av interesse eller nødvendig for alle studentene, blir opplyst før eksamensstart eller deles ut skriftlig til samtlige studenter.</ledd>
+      <ledd id="/paragraf/7/ledd/12">Eksamenstiden (angitt antall klokketimer) begynner når alle studentene har fått sine oppgaver. Etter at en skoleeksamen med tilsyn er begynt, kan studenten bare forlate plassen med tillatelse fra og i følge med en eksamensvakt. Det er normalt ikke anledning til å forlate plassen før tidligst en time etter at eksamen er begynt.</ledd>
+      <ledd id="/paragraf/7/ledd/13">Studenter som møter mindre enn én time for sent kan vanligvis få avlegge eksamen. Dette medfører at ingen får avslutte sin eksamen og forlate eksamenslokalet uten ledsager, før tidligst en time etter starttidspunktet. Den som har kommet for sent må likevel levere når eksamenstiden utløper. Oppmøte senere enn en time etter kunngjort starttid regnes som «ikke møtt», (dvs. ikke bestått eksamen).</ledd>
+      <ledd id="/paragraf/7/ledd/14">Ved denne eksamensform skal det også leveres ut kladdeark. Kladdeark skal ikke leveres inn.</ledd>
+      <ledd id="/paragraf/7/ledd/15">Når en kandidat er ferdig ved eksamen med tilsyn, gir han/hun tegn til eksamensvakten som samler inn besvarelsen.
+<br/></ledd>
+      <ledd id="/paragraf/7/ledd/16">
+        <i>Skriftlig hjemmeeksamen</i>
+      </ledd>
+      <ledd id="/paragraf/7/ledd/17">Hjemmeeksamen kan være individuell eller i grupper. Skriftlig gruppevis hjemmeeksamen kan være hensiktsmessig å bruke i fag som er sammensatt av komplekse emner med mange problemstillinger. Hjemmeeksamen kan være av kort eller lang varighet, avhengig av fagets og pensumets omfang, men bør ikke være kortere enn 1 døgn (24 timer). Alle hjelpemidler er normalt tillatt.</ledd>
+      <ledd id="/paragraf/7/ledd/18">Ved individuell hjemmeeksamen kan studentene utveksle synspunkter, og det er tillatt å samarbeide om en disposisjon for besvarelsen. Faglærer og sensor kan avgjøre hvor langt samarbeid studentene imellom tillates, ved at dette presiseres i eksamenssettet. Selve besvarelsen skal være et selvstendig arbeid. Det er ikke tillatt å levere inn besvarelser som inneholder deler som er identisk med andre studenters besvarelser, eller som er direkte kopi av kilder uten henvisning. Dette betraktes som fusk, jf. § 9.</ledd>
+      <ledd id="/paragraf/7/ledd/19">Når det unntaksvis kan være nødvendig, skal eksamensrådet behandle søknad om utsatt innleveringsfrist av hjemmeeksamen.</ledd>
+      <ledd id="/paragraf/7/ledd/20">For sen innlevering av hjemmeeksamener uten gyldig forfall medfører ikke bestått eksamen.
+<br/></ledd>
+      <ledd id="/paragraf/7/ledd/21">
+        <i>Muntlig eksamen</i>
+      </ledd>
+      <ledd id="/paragraf/7/ledd/22">Muntlige prøver bedømmes av både faglærer og sensor. Bestemmelser om tidspunkt for prøver, utarbeidelse av prøver, oppbevaring av prøver, fusk, fravær og kunngjøring av resultatet er som for skriftlige prøver.</ledd>
+      <ledd id="/paragraf/7/ledd/23">Eksaminasjonen bør normalt ikke vare over 30 minutter for hver kandidat, men i ekstraordinære tilfeller kan kandidaten kalles inn igjen for ny eksaminasjon eller for å svare på tilleggsspørsmål. Faglærer og sensor tar notater under eksaminasjonen til bruk ved ev. begrunnelse på karakterfastsettelsen. Dersom ikke faglærer og sensor blir enige om karakterfastsettelsen, har sensor det avgjørende ord.</ledd>
+      <ledd id="/paragraf/7/ledd/24">Muntlige prøver kan ha form som individuell eksaminasjon eller gruppevis eksaminasjon.
+<br/></ledd>
+      <ledd id="/paragraf/7/ledd/25">
+        <i>Ferdighetsprøver</i>
+      </ledd>
+      <ledd id="/paragraf/7/ledd/26">Ferdighetsprøver kan være praktiske oppgaver utarbeidet av faglærer/fagansvarlig eller førings- og instruksjonsoppgaver som gis under skoleperioden og som karaktersettes som eksamen. Hvilken prøvetype som skal benyttes, skal fremgå av emneplanen.</ledd>
+      <ledd id="/paragraf/7/ledd/27">Prøveform kan være individuell eller gruppevis eksaminasjon.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p8">
+      <pverdi>§ 8.</pverdi>
+      <ptittel>Ny prøve</ptittel>
+      <ledd id="/paragraf/8/ledd/1">Når studenten oppnår «ikke bestått» i et emne, behandles dette i skoleråd. Det gis normalt anledning til å gå opp til ny prøve én gang i samme emne.</ledd>
+      <ledd id="/paragraf/8/ledd/2">Studenten har ikke krav på lesedager til ny eksamen.</ledd>
+      <ledd id="/paragraf/8/ledd/3">Det er ikke adgang til ny prøve i følgende tilfeller:
+<liste id="/paragraf/8/ledd/3/liste/1"><lverdi>-</lverdi><avsnitt id="/paragraf/8/ledd/3/liste/1/avsnitt/1">Stryk i militært forhold (skikkethet som militær leder)</avsnitt></liste>
+<liste id="/paragraf/8/ledd/3/liste/2"><lverdi>-</lverdi><avsnitt id="/paragraf/8/ledd/3/liste/2/avsnitt/1">Ikke bestått øvelse «Telemakos» (mestringsøvelse)</avsnitt></liste>
+<liste id="/paragraf/8/ledd/3/liste/3"><lverdi>-</lverdi><avsnitt id="/paragraf/8/ledd/3/liste/3/avsnitt/1">Stryk på ny prøve</avsnitt></liste>
+<marg niv="1" id="/paragraf/8/ledd/3/liste/3/avsnitt/1/marg/1">eller</marg>
+<liste id="/paragraf/8/ledd/3/liste/4"><lverdi>-</lverdi><avsnitt id="/paragraf/8/ledd/3/liste/4/avsnitt/1">Stryk på flere enn to eksamener på ett semester.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/8/ledd/4">Kandidaten skal i disse tilfeller vurderes i skoleråd for frabeordring.</ledd>
+      <ledd id="/paragraf/8/ledd/5">Skolesjefen kan etter behandling i skoleråd i særlige tilfeller dispensere fra regelen om frabeordring.</ledd>
+      <ledd id="/paragraf/8/ledd/6">Også ved tilfeller «ikke bestått» i inntil to emner kan Sjef Sjøkrigsskolen etter anbefaling fra skolerådet i særlige tilfeller frabeordre studenten.</ledd>
+      <ledd id="/paragraf/8/ledd/7">Nærmere omtale av denne paragraf er gitt i utfyllende bestemmelser og rutinebeskrivelser.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p9">
+      <pverdi>§ 9.</pverdi>
+      <ptittel>Fusk</ptittel>
+      <ledd id="/paragraf/9/ledd/1">SKSK ser på fusk som et alvorlig tillitsbrudd og noe som er uforenlig med offisersyrket.</ledd>
+      <ledd id="/paragraf/9/ledd/2">Påvist forsøk på fusk behandles som fusk.</ledd>
+      <ledd id="/paragraf/9/ledd/3">Hva som er fusk må bestemmes ut fra en helhetsvurdering der en også vurderer forsett eller uaktsomhet.</ledd>
+      <ledd id="/paragraf/9/ledd/4">For frabeordring kreves forsett.</ledd>
+      <ledd id="/paragraf/9/ledd/5">Det innebærer at vedkommende må ha utført den handling som kan karakteriseres som fusk med viten og vilje. Skolerådet vurderer saken og avgjør hvorvidt fusk har forekommet. Hvis skolerådet konkluderer med at fusk har forekommet, fører dette automatisk til «ikke bestått» i vedkommende emne. Studenten kan også refses hvis situasjonen tilsier det. Fusk kan, etter behandling i skolerådet og avgjørelse av skolesjef, medføre at studenten frabeordres.</ledd>
+      <ledd id="/paragraf/9/ledd/6">Dersom mistanke om fusk konstateres, skal vedkommende eksamensvakt som avdekker dette snarest kontakte skolens studieadministrasjon. Den/de dette gjelder skal gis anledning til å fullføre eksamenen/prøven, eventuelt påfølgende eksamener/prøver, slik at studenten ikke blir skadelidende dersom fusk tilbakevises.</ledd>
+      <ledd id="/paragraf/9/ledd/7">Fusk i forbindelse med eksamener uten tilsyn kan eksempelvis dreie seg om at en innlevert oppgave eller deler av en innlevert oppgave
+<liste id="/paragraf/9/ledd/7/liste/1"><lverdi>-</lverdi><avsnitt id="/paragraf/9/ledd/7/liste/1/avsnitt/1">er brukt av kandidaten til en tidligere eksamen</avsnitt></liste>
+<liste id="/paragraf/9/ledd/7/liste/2"><lverdi>-</lverdi><avsnitt id="/paragraf/9/ledd/7/liste/2/avsnitt/1">er brukt av en annen person til en tidligere eksamen</avsnitt></liste>
+<liste id="/paragraf/9/ledd/7/liste/3"><lverdi>-</lverdi><avsnitt id="/paragraf/9/ledd/7/liste/3/avsnitt/1">er utarbeidet av en annen person for kandidaten</avsnitt></liste>
+<liste id="/paragraf/9/ledd/7/liste/4"><lverdi>-</lverdi><avsnitt id="/paragraf/9/ledd/7/liste/4/avsnitt/1">inneholder sitater fra lærebøker, andre fagbøker, andres oppgaver, digitale kilder osv. som er gjengitt uten kildehenvisning, jf. § 10 og § 11.</avsnitt></liste></ledd>
+    </paragraf>
+    <paragraf id="/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p10">
+      <pverdi>§ 10.</pverdi>
+      <ptittel>Annullering</ptittel>
+      <ledd id="/paragraf/10/ledd/1">Muligheten til å annullere en eksamen foreldes ikke. Ved annullering gjelder bestemmelser om tilbakelevering av vitnemål når annullering er vedtatt. Fusk skal derfor tas opp med sikte på eventuell annullering, selv om det avdekkede forhold ligger tilbake i tid og studenten har avsluttet sine studier ved skolen/utdanningsinstitusjonen.</ledd>
+      <ledd id="/paragraf/10/ledd/2">I saker som vurderes reist med sikte på eventuell frabeordring, og hvis det har gått uforholdsmessig lang tid fra forholdet ble avdekket til saken kommer til behandling, eller hvis det avdekkede forhold ligger langt tilbake i tid, kan skolen ta dette med i vurderingen av reaksjonsform.</ledd>
+      <ledd id="/paragraf/10/ledd/3">For frabeordring kreves forsett. Det innebærer at vedkommende må ha utført den handling som kan karakteriseres som fusk med viten og vilje. For reaksjonen <i>annullering</i>, er det imidlertid tilstrekkelig at kandidaten har handlet grovt uaktsomt.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p11">
+      <pverdi>§ 11.</pverdi>
+      <ptittel>Hjelpemidler til eksamen</ptittel>
+      <ledd id="/paragraf/11/ledd/1">I forbindelse med skriftlig eksamen skal det være bestemmelser om det er tillatte hjelpemidler - og i tilfelle hvilke. Disse skal stå oppført på eksamenssettet, eventuelt i form av henvisning til det som står i emneplanen om dette. Alt annet som kan ha faglig interesse kan derved klassifiseres som ulovlige hjelpemidler. Det å ha slike hjelpemidler tilgjengelig under eksamen skal behandles som mistanke om fusk eller forsøk på fusk. Det er ikke nødvendig at kandidaten har brukt dem eller blir tatt på fersk gjerning i å bruke dem.</ledd>
+      <ledd id="/paragraf/11/ledd/2">Ulovlige hjelpemidler kan for eksempel være:
+<liste id="/paragraf/11/ledd/2/liste/1"><lverdi>-</lverdi><avsnitt id="/paragraf/11/ledd/2/liste/1/avsnitt/1">løsark og lapper med pensumrelevant innhold</avsnitt></liste>
+<liste id="/paragraf/11/ledd/2/liste/2"><lverdi>-</lverdi><avsnitt id="/paragraf/11/ledd/2/liste/2/avsnitt/1">innskrevet/innlimt tekst/ark av faglig interesse i tillatte hjelpemidler som ordbøker, lovsamlinger, tabeller med mer</avsnitt></liste>
+<liste id="/paragraf/11/ledd/2/liste/3"><lverdi>-</lverdi><avsnitt id="/paragraf/11/ledd/2/liste/3/avsnitt/1">egne kladdeark (med allerede «kladdet tekst»)</avsnitt></liste>
+<liste id="/paragraf/11/ledd/2/liste/4"><lverdi>-</lverdi><avsnitt id="/paragraf/11/ledd/2/liste/4/avsnitt/1">pensumbøker eller andre relevante fagbøker</avsnitt></liste>
+<liste id="/paragraf/11/ledd/2/liste/5"><lverdi>-</lverdi><avsnitt id="/paragraf/11/ledd/2/liste/5/avsnitt/1">flyttbare lagringsmedium (eks: «memory stick») med pensumrelevant innhold</avsnitt></liste>
+<liste id="/paragraf/11/ledd/2/liste/6"><lverdi>-</lverdi><avsnitt id="/paragraf/11/ledd/2/liste/6/avsnitt/1">bruk av mobiltelefon, ikke godkjent kalkulator eller annet elektronisk utstyr.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/11/ledd/3">Det betraktes som fusk eller forsøk på fusk å ha ulovlige hjelpemidler tilgjengelig under eksamen på områder utenfor selve eksamenslokalet, for eksempel ulovlige hjelpemidler plassert/gjemt på toalettet osv.</ledd>
+      <ledd id="/paragraf/11/ledd/4">Nærmere omtale av kalkulatorbruk er gitt i utfyllende bestemmelser og rutinebeskrivelser.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/12" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p12">
+      <pverdi>§ 12.</pverdi>
+      <ptittel>Vurderingsformer og sensur</ptittel>
+      <ledd id="/paragraf/12/ledd/1">I de emner og fag der det er egnet, bør det brukes evalueringsmappe i tillegg til eksamen. Vurderingsformene er nedfelt i emneplanen. Det skal fremgå hvordan mappeevalueringen skal gjennomføres, og hvordan resultat fra mappeevaluering og eksamen skal danne grunnlag for endelig karakter, jf. § 13. Ved fastsetting av endelig karakter skal eksamenskarakteren telle minst 50 % og må bestås særskilt.</ledd>
+      <ledd id="/paragraf/12/ledd/2">Sjef SKSK oppnevner sensorer etter forslag fra fagansvarlig/fagråd.</ledd>
+      <ledd id="/paragraf/12/ledd/3">Det skal være to sensorer ved evaluering av eksamen. Normalt er faglærer intern sensor. Som hovedregel benyttes en ekstern sensor.</ledd>
+      <ledd id="/paragraf/12/ledd/4">Sensur med karakterer og eventuelle tilbakemeldinger skal normalt foreligge senest 3 uker (15 virkedager) etter avlagt prøve, hvis ikke særlige grunner gjør det nødvendig å bruke mer tid. Karakteren fastsettes i fellesskap av sensor og faglærer. Ved uenighet avgjør sensor. Faglærer er hovedansvarlig for at sensur foreligger/er gjennomført innen fastsatt tid.</ledd>
+      <ledd id="/paragraf/12/ledd/5">Ved ny sensurering oppnevnes nye sensorer etter samme kriterier som ved ordinær sensur. Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve, og klager får medhold i klage på sensuren over den skriftlige del av eksamenen, holdes iht. § 3-9 (5) i lov om universiteter og høyskoler ny muntlig prøve for å fastsette endelig karakter.</ledd>
+      <ledd id="/paragraf/12/ledd/6">Skolen fastsetter egen frist for sensur av bacheloroppgaver, eller andre lengre oppgaver.</ledd>
+      <ledd id="/paragraf/12/ledd/7">Ved ny sensurering etter klage, benyttes minst to nye sensorer, hvorav minst én ekstern.</ledd>
+      <ledd id="/paragraf/12/ledd/8">Ved ny sensur opplyser Studieadministrasjonen nye sensorer om at de må være forberedt på å begrunne den nye sensuren dersom studenten fremsetter krav om begrunnelse (Hjemmel; UH-loven § 5-3 para (1)).</ledd>
+      <ledd id="/paragraf/12/ledd/9">I situasjoner hvor kandidater benytter graderte kilder og derfor graderer egen eksamensbesvarelse, må det oppnevnes sensor(er) som er sikkerhetsklarert.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/13" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p13">
+      <pverdi>§ 13.</pverdi>
+      <ptittel>Karaktersystem og vurderingskriterier</ptittel>
+      <ledd id="/paragraf/13/ledd/1">SKSK bruker felles nasjonal karakterskala i tråd med European Credit Transfer System (ECTS), ref. UH-loven § 3-9 nr. 6.</ledd>
+      <ledd id="/paragraf/13/ledd/2">Karakterene gis i utgangspunktet relatert til målet med faget.</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="16*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="50*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Karakter-</i>
+                <br/>
+                <i>symbol</i>
+              </entry>
+              <entry colname="2">
+                <i>Betegnelse</i>
+              </entry>
+              <entry colname="3">
+                <i>Generell, kvalitativ beskrivelse av vurderingskriterier</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="16*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="50*"/>
+          <tbody>
+            <row>
+              <entry colname="1">A </entry>
+              <entry colname="2">Fremragende </entry>
+              <entry colname="3">Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. </entry>
+            </row>
+            <row>
+              <entry colname="1">B </entry>
+              <entry colname="2">Meget god </entry>
+              <entry colname="3">Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. </entry>
+            </row>
+            <row>
+              <entry colname="1">C </entry>
+              <entry colname="2">God </entry>
+              <entry colname="3">Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. </entry>
+            </row>
+            <row>
+              <entry colname="1">D </entry>
+              <entry colname="2">Nokså god </entry>
+              <entry colname="3">En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. </entry>
+            </row>
+            <row>
+              <entry colname="1">E </entry>
+              <entry colname="2">Tilstrekkelig </entry>
+              <entry colname="3">Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. </entry>
+            </row>
+            <row>
+              <entry colname="1">F </entry>
+              <entry colname="2">Ikke bestått </entry>
+              <entry colname="3">Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ledd id="/paragraf/13/ledd/3">Særlige vurderingskriterier kan utvikles for ulike emner. Dette må nedfelles i emneplanen.</ledd>
+      <ledd id="/paragraf/13/ledd/4">Ved sammensetting av delkarakterer og ved utregning av hovedkarakter settes A=5, B=4, C=3, D=2, E=1 og F=0. Emneplanen må angi hvordan evalueringsresultater skal vektes.</ledd>
+      <ledd id="/paragraf/13/ledd/5">Der det er naturlig, vil angivelse av prosentandel riktig ved en besvarelse kunne være retningsgivende for bruk av karakterskalaen. Det anbefales en tilnærmet lineær skala med 40 % som minimum for å bestå.</ledd>
+      <ledd id="/paragraf/13/ledd/6">Det forutsettes at oppgavesettet for eksamen er sammensatt i forhold til målsetting ved faget og bruk av omgjøringstabell. Dersom en i et emne bruker annen omgjøringstabell, må dette angis i emneplanen.</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="10*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Karakter</i>
+              </entry>
+              <entry colname="2">
+                <i>%</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="10*"/>
+          <tbody>
+            <row>
+              <entry colname="1">A </entry>
+              <entry colname="2">100-89 </entry>
+            </row>
+            <row>
+              <entry colname="1">B </entry>
+              <entry colname="2">88-76 </entry>
+            </row>
+            <row>
+              <entry colname="1">C </entry>
+              <entry colname="2">75-63 </entry>
+            </row>
+            <row>
+              <entry colname="1">D </entry>
+              <entry colname="2">62-50 </entry>
+            </row>
+            <row>
+              <entry colname="1">E </entry>
+              <entry colname="2">49-40 </entry>
+            </row>
+            <row>
+              <entry colname="1">F </entry>
+              <entry colname="2">&lt; 40 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <ledd id="/paragraf/13/ledd/7">
+        <i>Fastsetting av endelig karakter:</i>
+      </ledd>
+      <ledd id="/paragraf/13/ledd/8">I emner der mappeevaluering er brukt, er hovedregelen at eksamen skal telle minst 50 % i den endelige karakteren og må bestås særskilt. Endelig karakter fastsettes av faglærer og sensor i fellesskap. Retningslinjer for denne vurderingen og rutiner i denne forbindelse er gitt i utfyllende bestemmelser og rutinebeskrivelser.
+<br/></ledd>
+      <ledd id="/paragraf/13/ledd/9">
+        <i>Utregning av hovedkarakter</i>
+      </ledd>
+      <ledd id="/paragraf/13/ledd/10">Det skal gis en hovedkarakter som er et vektet gjennomsnitt av oppnådde resultater. Vektingen er studiepoeng for emnet, eventuelt den definerte vektfaktor. Hovedkarakter beregnes kun ved bestått utdanning. Grunnlaget er de oppnådde karakterer i alle emner i programmet. Karakterer oppnådd ved første forsøk inngår i utregningen. Hovedkarakter angis både med bokstavkarakter og med et tall med to desimaler.</ledd>
+      <ledd id="/paragraf/13/ledd/11">Nærmere omtale av denne paragraf er gitt i utfyllende bestemmelser og rutinebeskrivelser.
+<br/></ledd>
+      <ledd id="/paragraf/13/ledd/12">
+        <i>Føring av karakter på vitnemål</i>
+      </ledd>
+      <ledd id="/paragraf/13/ledd/13">Enkeltkarakterene føres med bokstaver, A til F eventuelt bestått eller ikke bestått. Hovedkarakteren føres både med bokstav og tall med to desimaler. Orienteringsfag føres inn på vitnemålet som «gjennomført».</ledd>
+      <ledd id="/paragraf/13/ledd/14">I fag med mappe- og eksamenskarakter er det kun endelig karakter som føres på vitnemålet.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/14" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p14">
+      <pverdi>§ 14.</pverdi>
+      <ptittel>Kunngjøring av eksamensresultater</ptittel>
+      <ledd id="/paragraf/14/ledd/1">Eksamensresultatene kunngjøres så snart sensur foreligger. Detaljer om kunngjøringsrutiner finnes i utfyllende bestemmelser og rutinebeskrivelser.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/15" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p15">
+      <pverdi>§ 15.</pverdi>
+      <ptittel>Særordninger</ptittel>
+      <ledd id="/paragraf/15/ledd/1">Kandidater som har behov for særordninger ved eksamen, kan søke om spesiell tilrettelegging eller forlenget tid. Kandidater som har et varig behov, må søke snarest etter studiestart. Når behovet har oppstått akutt, må kandidaten søke raskest mulig. Behovet skal dokumenteres ved attest fra lege eller annen relevant sakkyndig. Attesten bør om mulig spesifisere behovets varighet og anbefale tilrettelegging. Tilretteleggingen skal kompensere for den ulempen studenten har, og ikke gi andre fordeler.</ledd>
+      <ledd id="/paragraf/15/ledd/2">Særordninger kan innvilges for en enkelt eksamen, for en gitt eksamensperiode, eller for hele studietiden dersom det fremgår av dokumentasjonen at behovet er varig.</ledd>
+      <ledd id="/paragraf/15/ledd/3">Særordningene for allergikere og dyslektikere gjelder normalt for skriftlig skoleeksamen. Det gis i disse tilfeller et tillegg i eksamenstiden på 10 min per time, begrenset oppad til én time.</ledd>
+      <ledd id="/paragraf/15/ledd/4">Dyslektikere kan også gis anledning til å benytte PC ev. med retteprogram og fremmedspråklige ordbøker f.eks. engelsk-norsk og norsk-engelsk dersom dette fremkommer av attesten.</ledd>
+      <ledd id="/paragraf/15/ledd/5">I spesielle tilfeller kan det vurderes å erstatte skriftlig skoleeksamen med muntlig.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/16" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p16">
+      <pverdi>§ 16.</pverdi>
+      <ptittel>Sykdom under eksamen</ptittel>
+      <ledd id="/paragraf/16/ledd/1">Kandidater som er forhindret fra å ta eksamen pga. sykdom, skal melde fra til sin nærmeste foresatt eller Studieadministrasjonen og levere legeerklæring. Legeerklæring skal være skolen i hende snarest mulig og senest tre dager etter eksamensdagen. Erklæringen skal eksplisitt uttrykke at kandidaten var ute av stand til å møte eller gjennomføre eksamen på grunn av sykdom. Likt med legeerklæring er erklæring fra tannlege, psykolog, psykiater.</ledd>
+      <ledd id="/paragraf/16/ledd/2">Forhold som normalt ikke regnes som gyldig grunn selv om de er utenfor kandidatens kontroll er eksempelvis:
+<liste id="/paragraf/16/ledd/2/liste/1"><lverdi>-</lverdi><avsnitt id="/paragraf/16/ledd/2/liste/1/avsnitt/1">Forsinkelse i kollektivtrafikken ut over en time</avsnitt></liste>
+<liste id="/paragraf/16/ledd/2/liste/2"><lverdi>-</lverdi><avsnitt id="/paragraf/16/ledd/2/liste/2/avsnitt/1">Annen trafikkforsinkelse</avsnitt></liste>
+<liste id="/paragraf/16/ledd/2/liste/3"><lverdi>-</lverdi><avsnitt id="/paragraf/16/ledd/2/liste/3/avsnitt/1">Villfarelse med hensyn til tid og sted for eksamen</avsnitt></liste>
+<liste id="/paragraf/16/ledd/2/liste/4"><lverdi>-</lverdi><avsnitt id="/paragraf/16/ledd/2/liste/4/avsnitt/1">Søvnløshet, nervøsitet og lignende med mindre det dokumenteres med erklæring fra lege eller psykolog/psykiater.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/16/ledd/3">Ved hjemmeeksamen er det et vilkår at det dokumenteres at sykdommen eller annen hindring som nevnt, har hatt en varighet tilsvarende minst en sjettedel av tiden avsatt til denne eksamen. Kortere perioder aksepteres ikke som gyldig forfall.</ledd>
+      <ledd id="/paragraf/16/ledd/4">Ved gyldig fravær ved sykdom eller lignende, gis adgang til å avlegge utsatt prøve. Karakter oppnådd ved utsatt prøve teller likt med karakterer oppnådd ved ordinære prøver.</ledd>
+      <ledd id="/paragraf/16/ledd/5">Utsatt prøve skal gjennomføres ved skolen, også for kadetter som utestår med prøver etter normert studietid. Utsatt prøve skal normalt være gjennomført senest i løpet av neste semester. Øvelser som kun gjennomføres årlig gjennomføres senest året etter.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/17" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p17">
+      <pverdi>§ 17.</pverdi>
+      <ptittel>Vitnemål, karakterutskrift, kursbevis og sertifikater</ptittel>
+      <ledd id="/paragraf/17/ledd/1">Etter fullført og bestått utdanning får kandidatene tildelt vitnemål. Ved fullført akkreditert utdanning får kandidatene også et vitnemålsvedlegg (Diploma Supplement) i henhold til lov om universiteter og høyskoler § 3-11 (1).</ledd>
+      <ledd id="/paragraf/17/ledd/2">Kandidater som fullfører og består enkeltemner i en utdanning får karakterutskrift for fullførte emner.</ledd>
+      <ledd id="/paragraf/17/ledd/3">Kandidater som fullfører og består enkeltstående kurs får kursbevis.</ledd>
+      <ledd id="/paragraf/17/ledd/4">Når en kandidat har fått fritak for et emne/delemne, skal årsak til fritak fremgå av vitnemålet/karakterutskriften/kursbeviset.</ledd>
+      <ledd id="/paragraf/17/ledd/5">Kandidater som avbryter sin utdanning eller blir frabeordret, kan på anmodning få karakterutskrift for emner som er fullført og bestått. Det skal fremgå tydelig av utskriften at utdanningen ikke er bestått eller fullført.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/18" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p18">
+      <pverdi>§ 18.</pverdi>
+      <ptittel>Krav om begrunnelse for karakterfastsetting</ptittel>
+      <ledd id="/paragraf/18/ledd/1">Eksamenskandidaten har rett til å få en begrunnelse for karakterfastsettingen. Ved muntlig eksamen, eller bedømmelse av praktiske ferdigheter, må krav om slik begrunnelse framsettes umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må krav om begrunnelse framsettes innen tre uker fra kandidaten fikk kjennskap til karakteren.</ledd>
+      <ledd id="/paragraf/18/ledd/2">Begrunnelsen skal normalt være gitt innen to uker etter at kandidaten har bedt om dette. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av kandidatens prestasjon. Begrunnelse gis muntlig eller skriftlig etter sensors/faglærers valg.</ledd>
+      <ledd id="/paragraf/18/ledd/3">Det er et krav at eksamenskandidaten har fått en begrunnelse før han/hun kan klage på karakteren.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/19" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p19">
+      <pverdi>§ 19.</pverdi>
+      <ptittel>Klage på karakterfastsetting</ptittel>
+      <ledd id="/paragraf/19/ledd/1">En kandidat kan klage på karakteren for sine egne skriftlige prestasjoner senest tre uker etter at eksamensresultatet er kunngjort, eller innen tre uker etter at begrunnelse er gitt.</ledd>
+      <ledd id="/paragraf/19/ledd/2">Studenten sender begrunnet klage pr. e-post i FISB til Studieadministrasjonen, med faglærer/sensor som kopiadressat, der det fremgår at det klages på bedømmelsen. Kandidatnummeret på eksamenen skal oppgis.</ledd>
+      <ledd id="/paragraf/19/ledd/3">Besvarelser det klages på sensureres på nytt. Nye sensorer får ikke innblikk i tidligere sensorers karakterfastsettelse av kandidatens besvarelse, begrunnelse for karakter, kandidatens bakgrunn for klagen eller kandidatens identitet. Endring av karakter kan skje til gunst eller ugunst for klageren, og ny karakter kan ikke påklages.</ledd>
+      <ledd id="/paragraf/19/ledd/4">Ved klage over karakterfastsetting oversender SKSK klagenemnden følgende sakspapirer;
+<liste id="/paragraf/19/ledd/4/liste/1"><lverdi>-</lverdi><avsnitt id="/paragraf/19/ledd/4/liste/1/avsnitt/1">Eksamenssett/oppgavesett med ev. veiledning</avsnitt></liste>
+<liste id="/paragraf/19/ledd/4/liste/2"><lverdi>-</lverdi><avsnitt id="/paragraf/19/ledd/4/liste/2/avsnitt/1">Emneplan</avsnitt></liste>
+<liste id="/paragraf/19/ledd/4/liste/3"><lverdi>-</lverdi><avsnitt id="/paragraf/19/ledd/4/liste/3/avsnitt/1">Sensorveiledning</avsnitt></liste>
+<liste id="/paragraf/19/ledd/4/liste/4"><lverdi>-</lverdi><avsnitt id="/paragraf/19/ledd/4/liste/4/avsnitt/1">Besvarelser/oppgaver i nærheten (bedre/dårligere) med oppnådd karakter der dette er mulig.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/19/ledd/5">Klage som gjelder gruppeeksamen, kan bare fremmes hvis hele gruppen samtykker i det. Klagen skal være i papirformat og undertegnet av samtlige i gruppen. Eventuell endret karakter ved ny sensurering gjelder hele gruppen, og kan ikke påklages.</ledd>
+      <ledd id="/paragraf/19/ledd/6">Karakter etter muntlig eksamen og vurdering av praksisopplæring eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages. Ved klage over eksamenskarakterer for muntlig prøve og ferdighetsprøve, kan det bare klages over formelle feil av betydning for resultatet. Anser eksamensrådet klagen berettiget, skal karakteren annulleres og kandidaten gis adgang til å prøve seg på ny. I motsatt fall er den opprinnelige karakter endelig.</ledd>
+      <ledd id="/paragraf/19/ledd/7">Karakteren i militært forhold/skikkethetsvurdering kan kun påklages på formelle feil.</ledd>
+      <ledd id="/paragraf/19/ledd/8">Studentene kan ikke formelt påklage karaktersetting på elementer som inngår i mappen. Det er bare den endelige karakteren i faget som utløser klagerett.</ledd>
+      <ledd id="/paragraf/19/ledd/9">Studenter som står i fare for å stryke på mappen, skal ha anledning til å forbedre mappekarakteren.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/20" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p20">
+      <pverdi>§ 20.</pverdi>
+      <ptittel>Klage over formelle feil ved eksamen</ptittel>
+      <ledd id="/paragraf/20/ledd/1">Kandidatene kan klage over formelle feil ved eksamen eller eksamenssensur innen tre uker etter at vedkommende er eller burde være kjent med det forhold som begrunner klagen. Formelle feil kan blant annet være svikt ved forholdene prøven ble avlagt under, oppgavegivning, eksamensavvikling eller eksamenssensur. Klage over formelle feil skal behandles av eksamensrådet. Eksamensrådet skal fortrinnsvis ta opp slike saker av eget tiltak, og enhver kan gjøre eksamensrådet oppmerksom på mulige feil. Finner eksamensrådet feil som kan ha betydning for utfallet, opphever den sensurvedtaket og bestemmer om det skal foretas ny sensur eller holdes ny prøve. Dette vil i noen tilfeller være et tilbud til den enkelte student (de som er fornøyd med oppnådd resultat, kan velge å beholde dette).</ledd>
+      <ledd id="/paragraf/20/ledd/2">Karakterfastsetting ved ny sensurering kan påklages.</ledd>
+      <ledd id="/paragraf/20/ledd/3">Eksamensrådets beslutning skal foreligge innen én måned etter at sensuren er falt.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/21" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p21">
+      <pverdi>§ 21.</pverdi>
+      <ptittel>Overprøving av eksamensforskriftene</ptittel>
+      <ledd id="/paragraf/21/ledd/1">Forhold som ikke dekkes direkte av denne forskriften eller lover og reglementer som det henvises til, og spørsmål om dispensasjon fra forskriften avgjøres av Sjef SKSK etter behandling i Eksamensrådet.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/22" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p22">
+      <pverdi>§ 22.</pverdi>
+      <ptittel>Utfyllende bestemmelser</ptittel>
+      <ledd id="/paragraf/22/ledd/1">Sjef SKSK har gitt nærmere retningslinjer til noen av paragrafene i utfyllende bestemmelser og rutinebeskrivelser.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/23" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p23">
+      <pverdi>§ 23.</pverdi>
+      <ptittel>Endringer i forskriftene</ptittel>
+      <ledd id="/paragraf/23/ledd/1">Endringer i forskriftene vedtas av Sjef SKSK. Endringer som følge av endringer i lover, overordnede forskrifter og reglementer, gjelder uavhengig av slikt vedtak.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/24" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1913/p24">
+      <pverdi>§ 24.</pverdi>
+      <ptittel>Ikrafttredelse</ptittel>
+      <ledd id="/paragraf/24/ledd/1">Forskriften trer i kraft med virkning fra og med 1. januar 2017 og erstatter forskrift 9. juni 2010 nr. 1200 om eksamen ved Sjøkrigsskolen (SKSK).</ledd>
+    </paragraf>
+  </tekst>
+</dokument>

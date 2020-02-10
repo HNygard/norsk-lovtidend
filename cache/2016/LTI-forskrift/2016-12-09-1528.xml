@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2016-12-09-1528" type="lt" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2016-12-09-1528</id>
+    <dato>09.12.2016 nr. 1528</dato>
+    <dato type="iso">2016-12-09</dato>
+    <publisert>I 2016 hefte 16 s 2622</publisert>
+    <ikraft>01.01.2017</ikraft>
+    <ikraft type="iso">2017-01-01</ikraft>
+    <departement>Finansdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1956-12-07-1-§2">L07.12.1956 nr. 1 § 2</ref>, <ref id="lov-1956-12-07-1-§1">§ 1</ref>, <ref id="lov-1956-12-07-1-§4">§ 4</ref>, <ref id="lov-1998-07-17-56-§10-1">L17.07.1998 nr. 56 § 10-1</ref>, <ref id="lov-2000-03-24-16-§1-3">L24.03.2000 nr. 16 § 1-3</ref>, <ref id="lov-2000-11-24-81-§1-3">L24.11.2000 nr. 81 § 1-3</ref>, <ref id="lov-2008-06-27-62-§1-1">L27.06.2008 nr. 62 § 1-1</ref>, <ref id="lov-2008-06-27-62-§1-3">§ 1-3</ref>, <ref id="lov-2013-12-13-106-§1-3">L13.12.2013 nr. 106 § 1-3</ref>, <ref id="lov-2015-04-10-17-§1-7">L10.04.2015 nr. 17 § 1-7</ref>, <ref id="lov-2015-04-10-17-§13-6">§ 13-6</ref>, <ref id="lov-2015-04-10-17-§13-7">§ 13-7</ref>, <ref id="lov-2015-04-10-17-§14-1">§ 14-1</ref>, <ref id="lov-2015-04-10-17-§14-2">§ 14-2</ref>, <ref id="lov-2015-04-10-17-§14-3">§ 14-3</ref>, <ref id="lov-2015-04-10-17-§14-5">§ 14-5</ref>, <ref id="lov-2015-04-10-17-§14-16">§ 14-16</ref>, <ref id="lov-2015-04-10-17-§23-2">§ 23-2</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/1989-11-21-1170</endrer>
+    <endrer type="ref">https://lovdata.no/for/1990-06-01-435</endrer>
+    <endrer type="ref">https://lovdata.no/for/1990-10-22-875</endrer>
+    <endrer type="ref">https://lovdata.no/for/1993-12-28-1257</endrer>
+    <endrer type="ref">https://lovdata.no/for/2000-06-22-632</endrer>
+    <endrer type="ref">https://lovdata.no/for/2004-12-21-1740</endrer>
+    <endrer type="ref">https://lovdata.no/for/2006-12-14</endrer>
+    <endrer type="ref">https://lovdata.no/for/2006-12-22-1615</endrer>
+    <endrer type="ref">https://lovdata.no/for/2007-06-29-747</endrer>
+    <endrer type="ref">https://lovdata.no/for/2008-09-22-1080</endrer>
+    <endrer type="ref">https://lovdata.no/for/2014-08-22-1097</endrer>
+    <endrer type="ref">https://lovdata.no/for/2015-12-01-1376</endrer>
+    <endrer type="ref">https://lovdata.no/for/1978-06-29-8554</endrer>
+    <endrer type="ref">https://lovdata.no/for/1979-11-08-1</endrer>
+    <endrer type="ref">https://lovdata.no/for/1989-09-08-931</endrer>
+    <endrer type="ref">https://lovdata.no/for/1989-10-05-1025</endrer>
+    <endrer type="ref">https://lovdata.no/for/1989-11-21</endrer>
+    <endrer type="ref">https://lovdata.no/for/1989-11-21-1167</endrer>
+    <endrer type="ref">https://lovdata.no/for/1990-06-01-429</endrer>
+    <endrer type="ref">https://lovdata.no/for/1990-06-01-433</endrer>
+    <endrer type="ref">https://lovdata.no/for/1990-06-01-434</endrer>
+    <endrer type="ref">https://lovdata.no/for/1990-09-14-764</endrer>
+    <endrer type="ref">https://lovdata.no/for/1991-12-20-85</endrer>
+    <endrer type="ref">https://lovdata.no/for/1992-08-24</endrer>
+    <endrer type="ref">https://lovdata.no/for/1993-12-01-1074</endrer>
+    <endrer type="ref">https://lovdata.no/for/1993-12-01-1075</endrer>
+    <endrer type="ref">https://lovdata.no/for/1994-04-13-252</endrer>
+    <endrer type="ref">https://lovdata.no/for/1994-05-02-326</endrer>
+    <endrer type="ref">https://lovdata.no/for/1994-07-07-717</endrer>
+    <endrer type="ref">https://lovdata.no/for/1995-05-19-481</endrer>
+    <endrer type="ref">https://lovdata.no/for/1995-09-18</endrer>
+    <endrer type="ref">https://lovdata.no/for/1995-09-22-827</endrer>
+    <endrer type="ref">https://lovdata.no/for/1995-10-11-854</endrer>
+    <endrer type="ref">https://lovdata.no/for/1995-12-18-116</endrer>
+    <endrer type="ref">https://lovdata.no/for/1996-05-22-506</endrer>
+    <endrer type="ref">https://lovdata.no/for/1996-06-28-678</endrer>
+    <endrer type="ref">https://lovdata.no/for/1997-05-06-429</endrer>
+    <endrer type="ref">https://lovdata.no/for/1999-08-02</endrer>
+    <endrer type="ref">https://lovdata.no/for/1999-12-17-1358</endrer>
+    <endrer type="ref">https://lovdata.no/for/2000-12-20-1328</endrer>
+    <endrer type="ref">https://lovdata.no/for/2001-10-17-1190</endrer>
+    <endrer type="ref">https://lovdata.no/for/2003-04-23-549</endrer>
+    <endrer type="ref">https://lovdata.no/for/2003-12-18-1639</endrer>
+    <endrer type="ref">https://lovdata.no/for/2005-07-06-802</endrer>
+    <endrer type="ref">https://lovdata.no/for/2005-12-16</endrer>
+    <endrer type="ref">https://lovdata.no/for/2006-06-30-868</endrer>
+    <endrer type="ref">https://lovdata.no/for/2006-09-25-1317</endrer>
+    <endrer type="ref">https://lovdata.no/for/2006-12-22-1617</endrer>
+    <endrer type="ref">https://lovdata.no/for/2007-05-25-55</endrer>
+    <endrer type="ref">https://lovdata.no/for/2007-12-17-1457</endrer>
+    <endrer type="ref">https://lovdata.no/for/2008-10-12-112</endrer>
+    <endrer type="ref">https://lovdata.no/for/2008-11-21</endrer>
+    <endrer type="ref">https://lovdata.no/for/2009-06-29-913</endrer>
+    <endrer type="ref">https://lovdata.no/for/2010-01-11-18</endrer>
+    <endrer type="ref">https://lovdata.no/for/2010-07-01-1049</endrer>
+    <endrer type="ref">https://lovdata.no/for/2010-12-01-157</endrer>
+    <endrer type="ref">https://lovdata.no/for/2011-12-21-1444</endrer>
+    <endrer type="ref">https://lovdata.no/for/2012-09-26-911</endrer>
+    <endrer type="ref">https://lovdata.no/for/2014-05-12</endrer>
+    <endrer type="ref">https://lovdata.no/for/2015-12-18-1765</endrer>
+    <endrer type="ref">https://lovdata.no/for/2016-04-22-403</endrer>
+    <rettet>27.01.2017 (se nederst)</rettet>
+    <journalnummer>2016-1211</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i diverse forskrifter om finansforetak mv.</korttittel>
+    <korttittel>4 Endr. i diverse forskrifter om finansforetak mv. (Nr. 1528)</korttittel>
+    <tittel>Forskrift om endring i diverse forskrifter om finansforetak mv.</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Finansdepartementet 9. desember 2016 med hjemmel i lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv. (finanstilsynsloven) § 2, jf. § 1 og § 4 nr. 2, lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) § 10-1, lov 24. mars 2000 nr. 16 om foretakspensjon (foretakspensjonsloven) § 1-3, lov 24. november 2000 nr. 81 om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven) § 1-3, lov 27. juni 2008 nr. 62 om individuell pensjonsordning § 1-1 annet ledd og § 1-3, lov 13. desember 2013 nr. 106 om tjenestepensjon (tjenestepensjonsloven) § 1-3 og lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 1-7, § 13-6 (7), § 13-7 (5), § 14-1 (2), § 14-2 (6), § 14-3 (6), § 14-5 (2), § 14-16 og § 23-2 (3).</marg>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 21. november 1989 nr. 1170 om forvaltning og bruk av midler i premiefond, pensjonsreguleringsfond og innskuddsfond gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">Forskriftens tittel skal lyde:
+<br/>
+<avsnitt id="/kapittel/i/ledd/2/avsnitt/1"><i>Forskrift om forvaltning og bruk av midler i premiefond og innskuddsfond</i><br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/2/avsnitt/2">§ 1 skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/i/ledd/3">§ 1. <i>Anvendelsesområde</i>
+<avsnitt id="/kapittel/i/ledd/3/avsnitt/1">Forskriften gjelder for:</avsnitt>
+<liste id="/kapittel/i/ledd/3/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/1/avsnitt/1">premiefond for foretakspensjonsordning</avsnitt></liste>
+<liste id="/kapittel/i/ledd/3/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/2/avsnitt/1">premiefond for individuell pensjonsavtale</avsnitt></liste>
+<liste id="/kapittel/i/ledd/3/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/3/avsnitt/1">innskuddsfond for innskuddspensjonsordning</avsnitt></liste>
+<liste id="/kapittel/i/ledd/3/liste/4"><lverdi>4.</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/4/avsnitt/1">premiefond for tjenestepensjonsordning.
+<br/></avsnitt></liste>
+<avsnitt id="/kapittel/i/ledd/3/liste/4/avsnitt/2">§ 2 og § 3 oppheves.
+<br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/3/liste/4/avsnitt/3">Nåværende § 4 blir § 2 og skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/i/ledd/4">§ 2. <i>Premiefond og innskuddsfond</i>
+<avsnitt id="/kapittel/i/ledd/4/avsnitt/1">Premiefond og innskuddsfond kan opprettes i og forvaltes av slik pensjonsinnretning som pensjonsordning eller pensjonsavtale som nevnt i § 1 kan opprettes i. Dessuten kan premiefond og innskuddsfond opprettes i og forvaltes av bank eller forvaltningsselskap for verdipapirfond.</avsnitt>
+<avsnitt id="/kapittel/i/ledd/4/avsnitt/2">Når en forsikringstaker har opprettet pensjonsordning i flere pensjonsinnretninger, kan det opprettes premiefond eller innskuddsfond for den enkelte pensjonsordning i hver pensjonsinnretning.</avsnitt>
+<avsnitt id="/kapittel/i/ledd/4/avsnitt/3">Det kan totalt for den enkelte pensjonsordning ikke opprettes mer enn ett premiefond eller innskuddsfond i tillegg til fond som måtte være opprettet i den pensjonsinnretning der pensjonsordning er opprettet.
+<br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/4/avsnitt/4">Nåværende § 5 blir § 3 og skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/i/ledd/5">§ 3. <i>Tilskudd til premiefond og innskuddsfond</i>
+<avsnitt id="/kapittel/i/ledd/5/avsnitt/1">Forsikringstaker kan for det enkelte år ikke yte fradragsberettiget tilskudd til premiefond og innskuddsfond, som overstiger de beløp som er fastsatt i skatteloven av 26. mars 1999 nr. 14.</avsnitt>
+<avsnitt id="/kapittel/i/ledd/5/avsnitt/2">Har forsikringstaker pensjonsordning i flere pensjonsinnretninger, skal skattelovens bestemmelser om avsetning til premiefond og innskuddsfond gjelde tilsvarende for hver enkelt pensjonsordning.
+<br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/5/avsnitt/3">§ 6 oppheves.
+<br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/5/avsnitt/4">Nåværende § 7 blir § 4 og skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/i/ledd/6">§ 4. <i>Overføring av midlene</i>
+<avsnitt id="/kapittel/i/ledd/6/avsnitt/1">Midler i premiefond og innskuddsfond kan overføres til annen bank eller forvaltningsselskap for verdipapirfond for så vidt dette er i samsvar med § 2 og § 3.
+<br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/6/avsnitt/2">Nåværende § 8 blir § 5 og skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/i/ledd/7">§ 5. <i>Plikter for bank og forvaltningsselskap for verdipapirfond</i>
+<avsnitt id="/kapittel/i/ledd/7/avsnitt/1">Bank eller forvaltningsselskap for verdipapirfond plikter å påse at midler i premiefond og innskuddsfond ved uttak blir overført til den pensjonsinnretning der pensjonsordningen er etablert. Er det flere banker eller forvaltningsselskap for verdipapirfond, skal disse hver for seg påse at bestemmelsene overholdes. Hver bank eller forvaltningsselskap for verdipapirfond plikter å innhente opplysninger fra arbeidsgiver om hvorvidt det er flere banker eller forvaltningsselskaper for verdipapirfond.
+<br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/7/avsnitt/2">Nåværende § 9 blir ny § 6 og skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/i/ledd/8">§ 6. <i>Pensjonsinnretningens plikter</i>
+<avsnitt id="/kapittel/i/ledd/8/avsnitt/1">Pensjonsinnretningen plikter:</avsnitt>
+<liste id="/kapittel/i/ledd/8/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/i/ledd/8/liste/1/avsnitt/1">å påse at forsikring med fradragsberettiget premie er i overensstemmelse med foretakspensjonsloven, innskuddspensjonsloven, lov om individuell pensjonsordning, tjenestepensjonsloven og forskrift til skatteloven.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/8/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/i/ledd/8/liste/2/avsnitt/1">å påse at midler i premiefond og innskuddsfond for pensjonsordninger som nevnt i nr. 1 ikke benyttes i strid med reglene.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/8/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/i/ledd/8/liste/3/avsnitt/1">å påse at midler i premiefond og innskuddsfond blir anvendt etter formålet.</avsnitt></liste>
+<avsnitt id="/kapittel/i/ledd/8/liste/3/avsnitt/2">Bestemmelsene i § 5 gjelder tilsvarende når det er flere pensjonsinnretninger.
+<br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/8/liste/3/avsnitt/3">Nåværende § 10 blir § 7 og skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/i/ledd/9">§ 7. <i>Arbeidsgiverens opplysningsplikt</i>
+<avsnitt id="/kapittel/i/ledd/9/avsnitt/1">Arbeidsgiver skal den 1. januar hvert år gi opplysninger om:</avsnitt>
+<liste id="/kapittel/i/ledd/9/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/1/avsnitt/1">hvilke pensjonsordninger arbeidsgiveren har</avsnitt></liste>
+<liste id="/kapittel/i/ledd/9/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/2/avsnitt/1">hvor pensjonsordningen er opprettet</avsnitt></liste>
+<liste id="/kapittel/i/ledd/9/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/3/avsnitt/1">hvilken bank eller forvaltningsselskap for verdipapirfond som forvalter premiefond og innskuddsfond.</avsnitt></liste>
+<avsnitt id="/kapittel/i/ledd/9/liste/3/avsnitt/2">Opplysningene nevnt i første ledd skal gis til samtlige pensjonsinnretninger hvor pensjonsordning er opprettet, samt til banken eller forvaltningsselskapet for verdipapirfond.
+<br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/9/liste/3/avsnitt/3">Nåværende § 11 blir § 8.
+<br/></avsnitt>
+<avsnitt id="/kapittel/i/ledd/9/liste/3/avsnitt/4">§ 12 oppheves.</avsnitt></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">I forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for finansinstitusjoner, oppgjørssentraler og verdipapirforetak gjøres følgende endringer:
+<br/>
+<marg niv="1" id="/kapittel/ii/ledd/1/marg/1">Forskriftens tittel endres til:
+<br/></marg></ledd>
+      <ledd id="/kapittel/ii/ledd/2">
+        <i>Forskrift om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak</i>
+        <br/>
+      </ledd>
+      <ledd id="/kapittel/ii/ledd/3">§ 1 skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/4">Del A i denne forskrift gjelder for forvaltningsselskaper for verdipapirfond og forvaltere av alternative investeringsfond som ikke har tillatelse til å drive aktiv forvaltning, oppgjørssentraler og pensjonsforetak, og angir hvordan den ansvarlige kapital i disse foretakene defineres og beregnes i samsvar med de lovmessige minstekrav og krav om forsvarlig kapitaldekning.</ledd>
+      <ledd id="/kapittel/ii/ledd/5">Del B i denne forskrift gjelder for banker, kredittforetak, finansieringsforetak, holdingforetak i finanskonsern som ikke er forsikringskonsern, verdipapirforetak og forvaltningsselskaper for verdipapirfond og forvaltere av alternative investeringsfond som har tillatelse til å drive aktiv forvaltning, og angir hvordan den ansvarlige kapital i disse foretakene defineres og beregnes i samsvar med de lovmessige minstekrav og krav om forsvarlig kapitaldekning.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/6">I § 3 første ledd gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/7">Nr. 5 og 6 oppheves.
+<br/>
+<marg niv="1" id="/kapittel/ii/ledd/7/marg/1">Nr. 7 til 11 blir nr. 5 til 9.
+<br/></marg></ledd>
+      <ledd id="/kapittel/ii/ledd/8">§ 4 nr. 3 skal lyde:
+<liste id="/kapittel/ii/ledd/8/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/ii/ledd/8/liste/3/avsnitt/1">45 prosent av netto urealisert gevinst på aksjer, andeler og grunnfondsbevis klassifisert som tilgjengelig for salg, jf. International Accounting Standards (IAS) 39. Bestemmelsen gjelder ikke for pensjonsforetak.
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/ii/ledd/9">§ 4 nr. 4 skal lyde:
+<liste id="/kapittel/ii/ledd/9/liste/4"><lverdi>4.</lverdi><avsnitt id="/kapittel/ii/ledd/9/liste/4/avsnitt/1">45 prosent av urealiserte gevinster på investeringseiendommer og varige driftsmidler som omfattes av § 7 første ledd bokstav i, jf. International Accounting Standards (IAS) 40 og IAS 16. Bestemmelsen gjelder ikke for pensjonsforetak.
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/ii/ledd/10">I § 7 første ledd gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/11">Bokstav g annet punktum skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/12">Bestemmelsen gjelder ikke pensjonsforetak.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/13">Bokstav h annet punktum skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/14">Bestemmelsen gjelder ikke pensjonsforetak.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/15">Bokstav i annet punktum skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/16">Bestemmelsen gjelder ikke pensjonsforetak.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/17">Bokstav n skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/18">Femti prosent av bokførte verdier av ansvarlig kapital som ikke trekkes fra i henhold til første ledd bokstav m første punktum og annet ledd bokstav b første punktum, for den delen av summen av slik ansvarlig kapital som overstiger ti prosent av finansforetakets egen ansvarlige kapital. Bestemmelsene i første punktum gjelder ikke for livsforsikring med investeringsvalg uten avkastningsgaranti.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/19">Bokstav o, p og q oppheves.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/20">Bokstav r andre punktum skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/21">Bestemmelsen gjelder pensjonsforetak.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/22">§ 7 annet ledd skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/23">Følgende poster skal trekkes fra i tilleggskapitalen:
+<liste id="/kapittel/ii/ledd/23/liste/a"><lverdi>a.</lverdi><avsnitt id="/kapittel/ii/ledd/23/liste/a/avsnitt/1">Beholdning av egne instrumenter nevnt i § 4 nr. 2 og 3.</avsnitt></liste>
+<liste id="/kapittel/ii/ledd/23/liste/b"><lverdi>b.</lverdi><avsnitt id="/kapittel/ii/ledd/23/liste/b/avsnitt/1">Femti prosent av bokført verdi av ansvarlig kapital i andre finansforetak og verdipapirforetak for den del av den ansvarlige kapital i det mottakende finansforetaket eller verdipapirforetaket som overstiger to prosent. Det skal ikke gjøres fradrag for ansvarlig kapital i andre finansforetak og verdipapirforetak som ved anvendelsen av kapitaldekningsreglene på konsolidert basis skal konsolideres med det rapporterende foretaket. Bestemmelsene i første og annet punktum gjelder ikke for livsforsikring med investeringsvalg uten avkastningsgaranti.</avsnitt></liste>
+<liste id="/kapittel/ii/ledd/23/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/ii/ledd/23/liste/c/avsnitt/1">Femti prosent av bokførte verdier av ansvarlig kapital som ikke trekkes fra i henhold til første ledd bokstav m første punktum og annet ledd bokstav b første punktum, for den delen av summen av slik ansvarlig kapital som overstiger ti prosent av finansforetakets egen ansvarlige kapital. Bestemmelsene i første punktum gjelder ikke for livsforsikring med investeringsvalg uten avkastningsgaranti.
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/ii/ledd/24">§ 8 første ledd skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/25">Følgende poster skal legges til kjernekapitalen:
+<liste id="/kapittel/ii/ledd/25/liste/a"><lverdi>a.</lverdi><avsnitt id="/kapittel/ii/ledd/25/liste/a/avsnitt/1">Netto urealisert tap på utlån, sertifikater og obligasjoner klassifisert som tilgjengelig for salg, jf. IAS 39, med unntak for nedskrivning som følge av svekket kredittverdighet. Bestemmelsen gjelder ikke for pensjonsforetak.</avsnitt></liste>
+<liste id="/kapittel/ii/ledd/25/liste/b"><lverdi>b.</lverdi><avsnitt id="/kapittel/ii/ledd/25/liste/b/avsnitt/1">Netto urealisert tap på sikringsinstrumenter ved kontantstrømssikring, jf. International Accounting Standards (IAS) 39.</avsnitt></liste>
+<liste id="/kapittel/ii/ledd/25/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/ii/ledd/25/liste/c/avsnitt/1">Urealisert tap fratrukket kjernekapitalen som følge av økt verdi av gjeld og som skyldes en bedring av foretakets egen kredittverdighet, jf. International Accounting Standards (IAS) 39.
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/ii/ledd/26">§ 9 skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/27">Følgende begrensninger skal gjelde:
+<liste id="/kapittel/ii/ledd/27/liste/a"><lverdi>a.</lverdi><avsnitt id="/kapittel/ii/ledd/27/liste/a/avsnitt/1">Summen av de poster som inngår i tilleggskapitalen kan ikke utgjøre mer enn 100 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e.</avsnitt></liste>
+<liste id="/kapittel/ii/ledd/27/liste/b"><lverdi>b.</lverdi><avsnitt id="/kapittel/ii/ledd/27/liste/b/avsnitt/1">Ansvarlig lånekapital med fastsatt løpetid kan ikke tilsvare et høyere beløp enn tilsvarende 50 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e.</avsnitt></liste>
+<liste id="/kapittel/ii/ledd/27/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/ii/ledd/27/liste/c/avsnitt/1">-</avsnitt></liste>
+<liste id="/kapittel/ii/ledd/27/liste/d"><lverdi>d.</lverdi><avsnitt id="/kapittel/ii/ledd/27/liste/d/avsnitt/1">Summen av annen godkjent kjernekapital i henhold til § 3a første ledd bokstav a, b og c kan ikke utgjøre mer enn 50 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e. Summen av annen godkjent kjernekapital i henhold til § 3a første ledd bokstav a og b kan ikke utgjøre mer enn 35 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e. Annen godkjent kjernekapital i henhold til § 3a første ledd bokstav a kan ikke utgjøre mer enn 15 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e.</avsnitt></liste>
+<liste id="/kapittel/ii/ledd/27/liste/e"><lverdi>e.</lverdi><avsnitt id="/kapittel/ii/ledd/27/liste/e/avsnitt/1">Fradrag av postene nevnt i § 7 første ledd bokstav a til l og r og tillegg av postene nevnt i § 8 bokstav a til c.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/ii/ledd/28">Finanstilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at et finansforetak kan ha en sammensetning av den ansvarlige kapitalen som overskrider grensene som følger av første ledd.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/29">§ 10 andre ledd skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/30">Finanstilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at et finansforetak kan ha en sammensetning av den ansvarlige kapitalen som overskrider grensene som følger av første ledd.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/31">§ 12 første ledd skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/32">Med selskap i finansiell sektor menes:</ledd>
+      <ledd id="/kapittel/ii/ledd/33">Banker, kredittforetak, finansieringsforetak, verdipapirforetak, forvaltningsselskap for verdipapirfond, forsikringsforetak, holdingforetak i finanskonsern, betalingsforetak, e-pengeforetak og låneformidlingsforetak samt foretak som yter tilknyttede tjenester jf. kapitalkravsforskriften § 1-2 bokstav n).
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/34">§ 15 nr. 4 bokstav e skal lyde:</ledd>
+      <ledd id="/kapittel/ii/ledd/35">Nedskrivning av annen kjernekapital skal skje med endelig virkning dersom dette er avtalt eller nedskrivningen er foretatt etter reglene i finansforetaksloven § 21-6.
+<br/></ledd>
+      <ledd id="/kapittel/ii/ledd/36">§ 17 første ledd bokstav j romertall i skal lyde:
+<liste id="/kapittel/ii/ledd/36/liste/i"><lverdi>i.</lverdi><avsnitt id="/kapittel/ii/ledd/36/liste/i/avsnitt/1">Verdipapiriseringsposisjoner som alternativt vil ha en risikovekt på 1250 prosent, jf. kapitalkravsforskriften del VI;
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/ii/ledd/37">§ 18 annet ledd bokstav c skal lyde:
+<liste id="/kapittel/ii/ledd/37/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/ii/ledd/37/liste/c/avsnitt/1">Det skal ikke gjøres fradrag for investeringer i selskap i finansiell sektor som omfattes av tilsyn på konsolidert basis.</avsnitt></liste></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/iii" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kiii">
+      <kverdi>III</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/iii/ledd/1">I forskrift 22. oktober 1990 nr. 875 om minstekrav til kapitaldekning i finansinstitusjoner og verdipapirforetak gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/iii/ledd/2">Forskriftens tittel skal lyde:
+<br/>
+<avsnitt id="/kapittel/iii/ledd/2/avsnitt/1"><i>Forskrift om minstekrav til kapitaldekning i banker, kredittforetak, finansieringsforetak, holdingforetak i finanskonsern og verdipapirforetak som benytter IRB- eller AMA-metode</i><br/></avsnitt>
+<avsnitt id="/kapittel/iii/ledd/2/avsnitt/2">§ 1 skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/iii/ledd/3">§ 1. <i>Virkeområde</i>
+<avsnitt id="/kapittel/iii/ledd/3/avsnitt/1">Denne forskriften gjelder som grunnlag for å beregne minstekravet som er fastsatt i CRR/CRD IV-forskriften § 4 for finansforetak som benytter IRB- eller AMA-metode.
+<br/></avsnitt>
+<avsnitt id="/kapittel/iii/ledd/3/avsnitt/2">§ 2 skal lyde:</avsnitt>
+<avsnitt id="/kapittel/iii/ledd/3/avsnitt/3">Foretakene skal til enhver tid ha en kapitaldekning tilsvarende 8 pst. av beregningsgrunnlaget slik dette er fastsatt i § 4.
+<br/></avsnitt>
+<avsnitt id="/kapittel/iii/ledd/3/avsnitt/4">§ 4 tredje ledd skal lyde:</avsnitt>
+<avsnitt id="/kapittel/iii/ledd/3/avsnitt/5">Den ansvarlige kapital skal ha en sammensetning som fastsatt i forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak.
+<br/></avsnitt>
+<avsnitt id="/kapittel/iii/ledd/3/avsnitt/6">§ 5 skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/iii/ledd/4">§ 5. <i>Risikovekter for eiendelspostene</i>
+<avsnitt id="/kapittel/iii/ledd/4/avsnitt/1">De ulike eiendelspostene skal ha følgende risikovekter:</avsnitt>
+<liste id="/kapittel/iii/ledd/4/liste/a"><lverdi>A.</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/a/avsnitt/1">Eiendelsposter med risikovekt 0 pst.</avsnitt><liste id="/kapittel/iii/ledd/4/liste/a-1"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/a-1/avsnitt/1">Kassebeholdning og tilsvarende eiendelsposter</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/a-2"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/a-2/avsnitt/1">Fordringer på og fordringer garantert av De europeiske fellesskap samt stater og sentralbanker innen EØS eller OECD-området med unntak av stater som har reforhandlet sin utenlandske statsgjeld de siste 5 år</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/a-3"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/a-3/avsnitt/1">Fordringer sikret ved pant i verdipapirer utstedt eller garantert av De europeiske fellesskap samt stater og sentralbanker innen EØS eller OECD-området med unntak av stater som har reforhandlet sin utenlandske statsgjeld de siste 5 år</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/a-4"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/a-4/avsnitt/1">Fordringer på stater og sentralbanker utenom EØS og OECD-området som lyder på debitors valuta og som er finansiert ved innlån i samme valuta</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/a-5"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/a-5/avsnitt/1">Fordringer garantert av stater og sentralbanker utenom EØS og OECD-området som lyder på og som er finansiert ved innlån i garantistens og debitors felles valuta</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/a-6"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/a-6/avsnitt/1">Fordringer med sikkerhet i finansforetakets egne innlån</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/a-7"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/a-7/avsnitt/1">Gjenforsikringsandel av forsikringstekniske bruttoavsetninger i skadeforsikring.</avsnitt></liste></liste>
+<liste id="/kapittel/iii/ledd/4/liste/b"><lverdi>B.</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/b/avsnitt/1">Eiendelsposter med risikovekt 10 pst.</avsnitt><liste id="/kapittel/iii/ledd/4/liste/b-1"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/b-1/avsnitt/1">Fordringer på og fordringer garantert av norsk statsforetak tatt opp før 1. januar 2003</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/b-2"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/b-2/avsnitt/1">Obligasjoner med fortrinnsrett etter bestemmelsene i finansforetaksloven § 11-5 til § 11-15.</avsnitt></liste></liste>
+<liste id="/kapittel/iii/ledd/4/liste/c"><lverdi>C.</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/c/avsnitt/1">Eiendelsposter med risikovekting 20 pst.</avsnitt><liste id="/kapittel/iii/ledd/4/liste/c-1"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/c-1/avsnitt/1">Fordringer på og fordringer garantert av de multilaterale utviklingsbankene</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/c-2"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/c-2/avsnitt/1">Fordringer sikret ved pant i verdipapirer utstedt eller garantert av de multilaterale utviklingsbankene</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/c-3"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/c-3/avsnitt/1">Fordringer på og fordringer garantert av innenlandske finansforetak og utenlandske kredittinstitusjoner innen EØS eller OECD-området med unntak av stater som har reforhandlet sin utenlandske statsgjeld de siste 5 år, som ikke er en del av disse foretakenes ansvarlige kapital</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/c-4"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/c-4/avsnitt/1">Fordringer på og fordringer garantert av banker utenom EØS og OECD-området med avtalt løpetid på ett år eller mindre, som ikke er en del av disse foretakenes ansvarlige kapital</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/c-5"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/c-5/avsnitt/1">Fordringer på og fordringer garantert av norske kommuner</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/c-6"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/c-6/avsnitt/1">Fordringer på og fordringer garantert av utenlandsk offentlig sektor innen EØS eller OECD-området med unntak av stater som har reforhandlet sin utenlandske statsgjeld de siste 5 år utenom stater og sentralbanker</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/c-7"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/c-7/avsnitt/1">Fordringer på og fordringer garantert av verdipapirforetak innen EØS eller OECD-området, anerkjente verdipapirforetak fra tredjestater eller anerkjente oppgjørssentraler eller børser, og som ikke er en del av disse foretakenes ansvarlige kapital.</avsnitt></liste></liste>
+<liste id="/kapittel/iii/ledd/4/liste/d"><lverdi>D.</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/d/avsnitt/1">Eiendelsposter med risikovekt 50 prosent:</avsnitt><liste id="/kapittel/iii/ledd/4/liste/d-1"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/d-1/avsnitt/1">Lån med pantesikkerhet i bolig som er eller vil bli bebodd av låntaker eller i bolig som er utleid innenfor 80 prosent av forsvarlig verdigrunnlag</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/d-2"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/d-2/avsnitt/1">Tidsavgrensede eiendelsposter (opptjente, ikke forfalte inntekter og forskuddsbetalte kostnader). Poster som fordeles på debitorsektor gis risikovekt avhengig av den gruppe postens debitor går inn under.</avsnitt></liste></liste>
+<liste id="/kapittel/iii/ledd/4/liste/e"><lverdi>E.</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/e/avsnitt/1">Eiendelsposter med risikovekt 100 pst.:</avsnitt><liste id="/kapittel/iii/ledd/4/liste/e-1"><lverdi>-</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/e-1/avsnitt/1">Øvrige eiendelsposter i balansen, med unntak av eiendelsposter som er trukket fra ved beregningen av finansforetakets ansvarlige kapital, jf. forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak.</avsnitt></liste></liste>
+<avsnitt id="/kapittel/iii/ledd/4/liste/e-1/avsnitt/2">Eiendeler som er tilknyttet avtale om livsforsikring med investeringsvalg og hvor foretaket ikke har gitt noen avkastningsgaranti, skal ha en risikovekt på 20 pst. av risikovekten som fastsatt i denne paragrafs første ledd.
+<br/></avsnitt>
+<avsnitt id="/kapittel/iii/ledd/4/liste/e-1/avsnitt/3">I § 5a skal første ledd lyde:</avsnitt>
+<avsnitt id="/kapittel/iii/ledd/4/liste/e-1/avsnitt/4">Ved anvendelsen av reglene i § 4 tredje ledd, jf. forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak, og av reglene i § 5, skal eierandel i verdipapirfond eller tilsvarende investeringsfond regnes som en tilsvarende direkte eierandel i de eiendeler som forvaltes av fondet</avsnitt>
+<liste id="/kapittel/iii/ledd/4/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/a/avsnitt/1">når fondets midler bare er plassert i eiendelsposter som etter § 5 har risikovekt 0,</avsnitt></liste>
+<liste id="/kapittel/iii/ledd/4/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/b/avsnitt/1">når fondets midler bare er plassert i eiendelsposter som etter § 5 har risikovekt på 10 prosent,</avsnitt></liste>
+<liste id="/kapittel/iii/ledd/4/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/c/avsnitt/1">når fondets midler bare er plassert i eiendelsposter som etter § 5 har risikovekt 20 prosent,</avsnitt></liste>
+<liste id="/kapittel/iii/ledd/4/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/d/avsnitt/1">når fondets midler bare er plassert i eiendelsposter som etter § 5 har risikovekt 50 prosent,</avsnitt></liste>
+<liste id="/kapittel/iii/ledd/4/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/e/avsnitt/1">i den utstrekning fondets midler er plassert i ansvarlig kapital i finansforetak eller verdipapirforetak.
+<br/>
+<marg niv="1" id="/kapittel/iii/ledd/4/liste/e/avsnitt/1/marg/1">I § 6 gjøres følgende endringer.
+<br/></marg></avsnitt></liste>
+<avsnitt id="/kapittel/iii/ledd/4/liste/e/avsnitt/2">Annet ledd nr. 2 skal lyde:</avsnitt>
+<liste id="/kapittel/iii/ledd/4/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/2/avsnitt/1">Overdragelser av eiendeler med gjenkjøpsavtale og transaksjoner med regress hvor finansforetaket selv beholder kredittrisikoen, samt endosserte lånedokumenter (f.eks. rediskonterte veksler og avbetalingskontrakter) som ikke er forpliktende undertegnet av annet finansforetak, skal ha konverteringsfaktor 100 pst. Den beregnede kredittrisikoen innveies etter de risikovekter som er angitt i § 5 avhengig av den gruppe debitor ifølge det underliggende låneinstrumentet/eiendelen tilhører.
+<br/></avsnitt></liste>
+<avsnitt id="/kapittel/iii/ledd/4/liste/2/avsnitt/2">Tredje ledd første punktum skal lyde:</avsnitt>
+<avsnitt id="/kapittel/iii/ledd/4/liste/2/avsnitt/3">Foretak som handler i begrenset omfang med slike instrumenter, kan etter Finanstilsynets tillatelse foreta omregning til kredittrisiko ved å multiplisere de nominelle beløp med en konverteringsfaktor avhengig av avtalt løpetid (opprinnelig engasjement metoden).
+<br/></avsnitt>
+<avsnitt id="/kapittel/iii/ledd/4/liste/2/avsnitt/4">§ 6a første ledd skal lyde:</avsnitt>
+<avsnitt id="/kapittel/iii/ledd/4/liste/2/avsnitt/5">Ved konvertering av derivater til kredittrisiko som nevnt i § 6 annet ledd nr. 8 (konvertering etter markedsverdimetoden), godkjennes bilaterale motregningsavtaler som nevnt i lov 19. juni 1997 nr. 79 om verdipapirhandel § 10-1, samt motregningsavtaler som reguleres i en annen jurisdiksjon og som i denne jurisdiksjonen kan gjøres gjeldende i en konkurs, som risikoreduserende på følgende vilkår:</avsnitt>
+<liste id="/kapittel/iii/ledd/4/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/1/avsnitt/1">Foretaket må ha inngått en motregningsavtale med sin motpart som skaper én enkelt juridisk forpliktelse som omfatter samtlige transaksjoner i derivater, slik at foretaket ved motpartens manglende evne til å oppfylle sine forpliktelser, vil ha en fordring på eller forpliktelse til å betale nettosummen av transaksjonenes positive og negative markedsverdi.</avsnitt></liste>
+<liste id="/kapittel/iii/ledd/4/liste/2+"><lverdi>2.</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/2/avsnitt/1+">Foretaket må ha meddelt Finanstilsynet at den besitter skriftlig og begrunnet juridisk uttalelse om at den aktuelle type motregningsavtale medfører at foretakets fordringer og forpliktelser i slike tilfeller er begrenset til nettosummen, etter:</avsnitt><liste id="/kapittel/iii/ledd/4/liste/2.a"><lverdi>a)</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/2.a/avsnitt/1">gjeldende lovgivning i den stat motparten har sitt forretningskontor, og gjeldende lovgivning i den stat en filial har forretningskontor,</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/2.b"><lverdi>b)</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/2.b/avsnitt/1">lovgivningen som regulerer de aktuelle transaksjoner, og</avsnitt></liste><liste id="/kapittel/iii/ledd/4/liste/2.c"><lverdi>c)</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/2.c/avsnitt/1">lovgivningen som regulerer enhver kontrakt eller avtale som er nødvendig for å gjennomføre motregningsavtalen.</avsnitt></liste></liste>
+<liste id="/kapittel/iii/ledd/4/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/iii/ledd/4/liste/3/avsnitt/1">Foretaket må ha fastsatt rutiner som sikrer at motregningsavtalens juridiske gyldighet vurderes løpende i lys av eventuelle endringer i aktuell lovgivning.
+<br/></avsnitt></liste>
+<avsnitt id="/kapittel/iii/ledd/4/liste/3/avsnitt/2">§ 6b skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/iii/ledd/5">§ 6b. <i>Fradragsposter</i>
+<liste id="/kapittel/iii/ledd/5/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/iii/ledd/5/liste/a/avsnitt/1">Ved bruk av egenkapitalmetoden i selskapsregnskapet skal en eventuell positiv differanse mellom investeringens balanseførte verdi og investeringens anskaffelseskost komme til fradrag i beregningsgrunnlaget.</avsnitt></liste>
+<liste id="/kapittel/iii/ledd/5/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/iii/ledd/5/liste/b/avsnitt/1">Det skal gjøres fradrag for avsetninger til tap på utlån og garantier (både spesifiserte og uspesifiserte).</avsnitt></liste>
+<liste id="/kapittel/iii/ledd/5/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/iii/ledd/5/liste/d/avsnitt/1">Ved bruk av internasjonale regnskapsstandarder (IFRS) eller regnskapsstandarder tilpasset IFRS, skal urealiserte gevinster som ikke inngår i resultatet eller beregningen av den ansvarlige kapitalen komme til fradrag i beregningsgrunnlaget. Urealiserte tap som ikke er gjort fradrag for i resultatet eller ved beregningen av den ansvarlige kapitalen, skal legges til beregningsgrunnlaget. Fradraget og tillegget i beregningsgrunnlaget beregnes som differansen mellom balanseført verdi og anskaffelseskostnad for hver enkelt eiendelspost multiplisert med tilhørende risikovekt under hensyn til andelen som ikke er innregnet, jf. forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak.
+<br/></avsnitt></liste>
+<avsnitt id="/kapittel/iii/ledd/5/liste/d/avsnitt/2">§ 7 første ledd skal lyde:</avsnitt>
+<avsnitt id="/kapittel/iii/ledd/5/liste/d/avsnitt/3">Dersom et foretak som er regulert av denne forskrift har eierandeler i andre finansforetak som representerer 20 pst. eller mer av aksjekapitalen eller stemmene, skal kapitaldekningsreglene etter denne forskrift også anvendes på konsolidert basis, jf. finansforetaksloven § 18-2 med tilhørende forskrift. Finanstilsynet kan gi pålegg om slik konsolidering også for eierandeler i selskaper som ikke er finansforetak og for eierandeler ned til 10 pst.</avsnitt></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/iv" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kiv">
+      <kverdi>IV</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/iv/ledd/1">I forskrift 28. desember 1993 nr. 1257 om tilsyn med finansinstitusjoner og forvaltningsselskap som har hovedsete i annen EØS-stat og som driver virksomhet i Norge m.v. gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/iv/ledd/2">Forskriftens tittel skal lyde:
+<br/>
+<avsnitt id="/kapittel/iv/ledd/2/avsnitt/1"><i>Forskrift om tilsyn med finansforetak og forvaltningsselskap som har hovedsete i annen EØS-stat og som driver virksomhet i Norge mv.</i><br/></avsnitt>
+<avsnitt id="/kapittel/iv/ledd/2/avsnitt/2">§ 1 første ledd første punktum skal lyde:</avsnitt>
+<avsnitt id="/kapittel/iv/ledd/2/avsnitt/3">Finanstilsynet fører tilsyn med livsforsikringsforetak, skadeforsikringsforetak, gjenforsikringsforetak, pensjonsforetak, kredittinstitusjoner, forvaltningsselskap og e-pengeforetak som har hovedsete i annen EØS-stat og driver virksomhet i Norge.
+<br/></avsnitt>
+<avsnitt id="/kapittel/iv/ledd/2/avsnitt/4">Ny § 5 skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/iv/ledd/3">§ 5. <i>Pålegg om opphør av virksomhet</i>
+<avsnitt id="/kapittel/iv/ledd/3/avsnitt/1">Finanstilsynet kan pålegge et finansforetak å opphøre med virksomhet her i riket, dersom foretaket har gjort seg skyldig i grov eller vedvarende overtredelse av sine plikter etter andre lover og forskrifter som gjelder her i riket.
+<br/></avsnitt>
+<avsnitt id="/kapittel/iv/ledd/3/avsnitt/2">Ny § 6 skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/iv/ledd/4">§ 6. <i>Forbud mot å råde over eiendeler i riket</i>
+<avsnitt id="/kapittel/iv/ledd/4/avsnitt/1">Finanstilsynet kan etter anmodning fra tilsynsmyndigheten i foretakets hjemland forby foretak som driver virksomhet her i riket i henhold til denne forskrift, å råde over dets eiendeler her i riket, eller begrense dets rådighet over disse.
+<br/></avsnitt>
+<avsnitt id="/kapittel/iv/ledd/4/avsnitt/2">Nåværende § 5 blir ny § 7.
+<br/></avsnitt>
+<avsnitt id="/kapittel/iv/ledd/4/avsnitt/3">I følgende bestemmelser skal uttrykkene «forsikringsselskap» og «forsikringsselskaper» endres til «forsikringsforetak»:</avsnitt>
+<liste id="/kapittel/iv/ledd/4/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/iv/ledd/4/liste/1/avsnitt/1">§ 2 første og tredje ledd</avsnitt></liste>
+<liste id="/kapittel/iv/ledd/4/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/iv/ledd/4/liste/2/avsnitt/1">§ 4.</avsnitt></liste></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/v" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kv">
+      <kverdi>V</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/v/ledd/1">I forskrift 22. juni 2000 nr. 632 om minstekrav til kapitaldekning for markedsrisiko mv. for kredittinstitusjoner og verdipapirforetak gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/v/ledd/2">Forskriftens tittel skal lyde:
+<br/>
+<avsnitt id="/kapittel/v/ledd/2/avsnitt/1"><i>Forskrift om minstekrav til kapitaldekning for markedsrisiko mv. for kredittinstitusjoner og verdipapirforetak som benytter IRB- eller AMA-metode</i><br/></avsnitt>
+<avsnitt id="/kapittel/v/ledd/2/avsnitt/2">§ 1-1 skal lyde:</avsnitt></ledd>
+      <ledd id="/kapittel/v/ledd/3">§ 1-1. <i>Virkeområde</i>
+<avsnitt id="/kapittel/v/ledd/3/avsnitt/1">Denne forskriften gjelder for verdipapirforetak med tillatelse etter lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven) § 9-1 og kredittinstitusjoner som benytter IRB- eller AMA-metode. Forskriften gjelder som grunnlag for å beregne minstekravet som er fastsatt i CRR/CRDIV-forskriften § 4.</avsnitt>
+<avsnitt id="/kapittel/v/ledd/3/avsnitt/2">Kredittinstitusjon og verdipapirforetak benevnes institusjon i denne forskrift.
+<br/></avsnitt>
+<avsnitt id="/kapittel/v/ledd/3/avsnitt/3">I § 1-2 gjøres følgende endringer:
+<br/></avsnitt>
+<avsnitt id="/kapittel/v/ledd/3/avsnitt/4">Nr. 12 skal lyde:</avsnitt>
+<liste id="/kapittel/v/ledd/3/liste/12"><lverdi>12.</lverdi><avsnitt id="/kapittel/v/ledd/3/liste/12/avsnitt/1"><i>Ansvarlig kapital:</i> som definert i forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak.
+<br/></avsnitt></liste>
+<avsnitt id="/kapittel/v/ledd/3/liste/12/avsnitt/2">Nr. 13 skal lyde:</avsnitt>
+<liste id="/kapittel/v/ledd/3/liste/13"><lverdi>13.</lverdi><avsnitt id="/kapittel/v/ledd/3/liste/13/avsnitt/1"><i>Kapitaldekningsforskriften:</i> forskrift 22. oktober 1990 nr. 875 om minstekrav til kapitaldekning i banker, kredittforetak, finansieringsforetak, holdingforetak i finanskonsern og verdipapirforetak som benytter IRB- eller AMA-metode.</avsnitt></liste></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/vi" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kvi">
+      <kverdi>VI</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/vi/ledd/1">I forskrift 21. desember 2004 nr. 1740 om regnskapsmessig behandling av utlån og garantier i finansinstitusjoner gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/vi/ledd/2">Forskriftens tittel skal lyde:
+<br/>
+<avsnitt id="/kapittel/vi/ledd/2/avsnitt/1"><i>Forskrift om regnskapsmessig behandling av utlån og garantier i finansforetak</i><br/></avsnitt>
+<avsnitt id="/kapittel/vi/ledd/2/avsnitt/2">§ 1-1 første ledd skal lyde:</avsnitt>
+<avsnitt id="/kapittel/vi/ledd/2/avsnitt/3">Forskriften gjelder banker, kredittforetak, finansieringsforetak, forsikringsforetak, private og kommunale pensjonskasser, samt morselskap som nevnt i finansforetaksloven § 1-3 første ledd bokstav f.
+<br/></avsnitt>
+<avsnitt id="/kapittel/vi/ledd/2/avsnitt/4">§ 1-1 annet ledd skal lyde:</avsnitt>
+<avsnitt id="/kapittel/vi/ledd/2/avsnitt/5">Forskriften gjelder også for filialer av utenlandske kredittinstitusjoner, finansieringsforetak, forsikringsforetak og pensjonskasser.
+<br/></avsnitt>
+<avsnitt id="/kapittel/vi/ledd/2/avsnitt/6">§ 2-4 annet ledd skal lyde:</avsnitt>
+<avsnitt id="/kapittel/vi/ledd/2/avsnitt/7">Objektive bevis på at et utlån har verdifall inkluderer observerbare data foretaket har kjennskap til om følgende tapshendelser:</avsnitt>
+<liste id="/kapittel/vi/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/vi/ledd/2/liste/a/avsnitt/1">vesentlige finansielle problemer hos debitor,</avsnitt></liste>
+<liste id="/kapittel/vi/ledd/2/liste/a+"><lverdi>a)</lverdi><avsnitt id="/kapittel/vi/ledd/2/liste/a/avsnitt/1+">betalingsmislighold eller andre vesentlige kontraktsbrudd,</avsnitt></liste>
+<liste id="/kapittel/vi/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/vi/ledd/2/liste/b/avsnitt/1">innvilget utsettelse av betaling eller ny kreditt til betaling av termin, avtalte endringer i rentesatsen eller i andre avtalevilkår som følge av finansielle problemer hos debitor,</avsnitt></liste>
+<liste id="/kapittel/vi/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/vi/ledd/2/liste/c/avsnitt/1">det anses som sannsynlig at debitor vil inngå gjeldsforhandling, annen finansiell restrukturering eller at debitors bo blir tatt under konkursbehandling.
+<br/></avsnitt></liste>
+<avsnitt id="/kapittel/vi/ledd/2/liste/c/avsnitt/2">§ 4-1 annet ledd oppheves.</avsnitt></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/vii" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kvii">
+      <kverdi>VII</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/vii/ledd/1">I forskrift 14. desember 2006 nr. 1506 om kapitalkrav for forretningsbanker, sparebanker, finansieringsforetak, holdingselskaper i finanskonsern, verdipapirforetak og forvaltningsselskaper for verdipapirfond mv. (kapitalkravsforskriften) gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/vii/ledd/2">Forskriftens tittel skal lyde:
+<br/>
+<avsnitt id="/kapittel/vii/ledd/2/avsnitt/1"><i>Forskrift om kapitalkrav for banker, kredittforetak, finansieringsforetak, holdingforetak i finanskonsern, verdipapirforetak og forvaltningsselskaper for verdipapirfond mv. (kapitalkravsforskriften)</i><br/></avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/avsnitt/2">§ 1-1 første ledd skal lyde:</avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/avsnitt/3">(1) Denne forskriften gjelder for banker, kredittforetak, finansieringsforetak, holdingselskaper i finanskonsern, verdipapirforetak og forvaltningsselskaper for verdipapirfond som har tillatelse til å drive aktiv forvaltning og forvalter av alternative investeringsfond med tillatelse til å yte aktiv forvaltning.
+<br/></avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/avsnitt/4">§ 1-2 første ledd bokstav w skal lyde:</avsnitt>
+<liste id="/kapittel/vii/ledd/2/liste/w"><lverdi>w)</lverdi><avsnitt id="/kapittel/vii/ledd/2/liste/w/avsnitt/1"><i>Institusjon:</i></avsnitt><liste id="/kapittel/vii/ledd/2/liste/w.1"><lverdi>1.</lverdi><avsnitt id="/kapittel/vii/ledd/2/liste/w.1/avsnitt/1">innenlandske banker, kredittforetak, finansieringsforetak og holdingforetak i finanskonsern,</avsnitt></liste><liste id="/kapittel/vii/ledd/2/liste/w.2"><lverdi>2.</lverdi><avsnitt id="/kapittel/vii/ledd/2/liste/w.2/avsnitt/1">utenlandske kredittinstitusjoner,</avsnitt></liste><liste id="/kapittel/vii/ledd/2/liste/w.3"><lverdi>3.</lverdi><avsnitt id="/kapittel/vii/ledd/2/liste/w.3/avsnitt/1">utenlandske holdingforetak i finanskonsern og andre utenlandske finansieringsforetak enn kredittinstitusjoner som er underlagt konsesjon og tilsyn som er omfattet av soliditets- og sikkerhetskrav tilsvarende kravene som gjelder for kredittinstitusjoner, og</avsnitt></liste><liste id="/kapittel/vii/ledd/2/liste/w.4"><lverdi>4.</lverdi><avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/1">verdipapirforetak, forvaltningsselskap for verdipapirfond som driver aktiv forvaltning, forvalter av alternative investeringsfond og kvalifiserte sentrale motparter og børser,
+<br/></avsnitt></liste></liste>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/2">§ 1-2 første ledd bokstav tt skal lyde:</avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/3"><i>Tradisjonell verdipapirisering:</i> verdipapirisering der engasjementer overdras til et juridisk uavhengig spesialforetak for verdipapirisering. Spesialforetaket finansierer ervervet av engasjementene ved å utstede verdipapirer. Engasjementene utgår normalt fra overdragende institusjons balanse,
+<br/></avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/4">§ 2-1 skal lyde:</avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/5">(1) Institusjonen skal til enhver tid ha en ansvarlig kapitaldekning som utgjør minst åtte prosent av beregningsgrunnlaget for kredittrisiko, markedsrisiko og operasjonell risiko. Det samme beregningsgrunnlaget gjelder for beregningen av bevaringsbuffer, systemrisikobuffer, buffer for systemviktige finansforetak og motsyklisk kapitalbuffer som angitt i finansforetaksloven § 14-3 (kombinert kapitalbufferkrav).</avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/6">(2) Det skal ikke beregnes kapitalkrav for engasjementer som er trukket fra i den ansvarlige kapitalen etter forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak § 17. Overfinansiering av pensjonsforpliktelser og investeringer i selskap i finansiell sektor som inngår i kapitalberegningen på konsolidert basis som ikke er trukket fra ansvarlig kapital etter beregningsforskriften § 17 første ledd bokstav f og § 18 annet ledd bokstav c skal inngå i beregningsgrunnlaget for kredittrisiko etter del II eller del III. Beløp som ikke er trukket fra ren kjernekapital etter beregningsforskriften § 18 tredje ledd skal inngå i beregningsgrunnlaget med 250 prosent risikovekt.</avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/7">(3) For institusjoner som benytter IRB- eller AMA-metode kan beregningsgrunnlaget ikke være lavere enn 80 prosent av beregningsgrunnlaget etter forskrift 22. oktober 1990 nr. 875 om minstekrav til kapitaldekning i banker, kredittforetak, finansieringsforetak, holdingforetak i finanskonsern og verdipapirforetak som benytter IRB- eller AMA-metode og forskrift 22. juni 2000 nr. 632 om minstekrav til kapitaldekning for markedsrisiko mv. for kredittinstitusjoner og verdipapirforetak som benytter IRB- eller AMA-metode. For institusjoner som fikk tillatelse til å benytte IRB- eller AMA-metode 1. januar 2010 eller senere kan Finanstilsynet tillate at beregningsgrunnlaget minst tilsvarer 80 prosent av beregningsgrunnlaget fastsatt etter del II, del VII og del VIII kapittel 42 eller 43. Justert forventet tapt beløp trukket fra kjernekapitalen i henhold til forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak § 16 første ledd bokstav e skal multipliseres med 12,5 og trekkes fra beregningsgrunnlaget etter nevnte forskrift eller del II, del VII og del VIII kapittel 42 eller 43 i denne forskrift. Tilsvarende skal justert forventet tapt beløp som inngår i tilleggskapitalen i henhold til beregningsforskriften § 16 første ledd bokstav b multipliseres med 12,5 og legges til dette beregningsgrunnlaget.
+<br/></avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/8">§ 5-14 syvende ledd skal lyde:</avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/9">(7) Andeler i verdipapirfond skal i den utstrekning fondets midler er plassert i ansvarlig kapital i finansforetak eller verdipapirforetak, risikovektes etter bestemmelsene i § 5-15 fjerde ledd ved at andelene i verdipapirfondet regnes som direkte eierandeler i de eiendelene som forvaltes av fondet.
+<br/></avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/10">§ 17-9 tredje ledd skal lyde:</avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/11">Det kan tas hensyn til garantier som er dekket av en statlig godkjent garantiordning eller er garanti eller kontragaranti gitt av garantistene nevnt i § 17-10 første ledd, dersom garantien ikke inneholder klausuler som nevnt i annet ledd bokstav c nr. 1 til 4, institusjonen har rett til innen rimelig tid å motta en foreløpig utbetaling fra garantisten på grunnlag av et pålitelig tapsestimat som inkluderer tap som er knyttet til manglende rentebetalinger og øvrige forpliktelser for låntaker, og institusjonen kan påvise at garantien er tilfredsstillende og inkluderer tap knyttet til manglende rentebetalinger og andre typer betalinger som låntaker er forpliktet til.
+<br/></avsnitt>
+<avsnitt id="/kapittel/vii/ledd/2/liste/w.4/avsnitt/12">Kapittel 47 oppheves.</avsnitt></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/viii" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kviii">
+      <kverdi>VIII</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/viii/ledd/1">I forskrift 22. desember 2006 nr. 1615 om kredittinstitusjoners og verdipapirforetaks store engasjementer gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/viii/ledd/2">§ 1 skal lyde:</ledd>
+      <ledd id="/kapittel/viii/ledd/3">Forskriften gjelder banker, kredittforetak, finansieringsforetak, holdingforetak i finanskonsern, verdipapirforetak med tillatelse til å drive virksomhet etter verdipapirhandelloven § 9-1, jf. verdipapirhandelloven § 2-1 første ledd nr. 2, 3, 6 og 7, og morselskap som nevnt i verdipapirhandelloven § 9-21 første ledd nr. 3.
+<br/></ledd>
+      <ledd id="/kapittel/viii/ledd/4">§ 5 tredje ledd skal lyde:</ledd>
+      <ledd id="/kapittel/viii/ledd/5">Når institusjonens ansvarlige kapital er mellom 150 millioner euro og 600 millioner euro og motparten er et annet foretak omfattet av denne forskriften, kan samlet engasjement ikke overstige 150 millioner euro. Når institusjonens ansvarlige kapital er lavere enn 150 millioner euro, skal institusjonens samlede engasjement med foretaket ikke overstige 100 prosent av institusjonens ansvarlige kapital. Dersom samlet engasjement omfatter obligasjoner med fortrinnsrett, skal engasjementet før anvendelse av risikovekt i § 6 første ledd nr. 2 bokstav a likevel ikke overstige 250 prosent av ansvarlig kapital. Dette ledd gjelder ikke for engasjementer som er risikovektet i samsvar med § 6 første ledd nr. 3 bokstav a.
+<br/></ledd>
+      <ledd id="/kapittel/viii/ledd/6">§ 5 fjerde ledd skal lyde:</ledd>
+      <ledd id="/kapittel/viii/ledd/7">Institusjonen skal til enhver tid overholde de fastsatte øvre grenser. Dersom engasjementene overstiger de øvre grensene, skal melding om dette straks sendes Finanstilsynet. Finanstilsynet kan fastsette en frist for institusjonen til å tilpasse seg de øvre grensene, og kan pålegge fradrag i den ansvarlige kapitalen.
+<br/></ledd>
+      <ledd id="/kapittel/viii/ledd/8">§ 6 første ledd nr. 2 bokstav a skal lyde:
+<liste id="/kapittel/viii/ledd/8/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/viii/ledd/8/liste/a/avsnitt/1">Engasjementer i form av obligasjoner med fortrinnsrett. Tilsvarende gjelder for obligasjoner med fortrinnsrett som er utstedt av utenlandsk kredittinstitusjon og som oppfyller kravene i forordning (EU) nr. 575/2013 artikkel 129, og kravene som er fastsatt av myndighetene i vedkommende stat
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/viii/ledd/9">§ 6 første ledd nr. 3 bokstav a skal lyde:
+<liste id="/kapittel/viii/ledd/9/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/viii/ledd/9/liste/a/avsnitt/1">Engasjementer med eller garantert av finansforetak i samme konsern, dersom foretakene er undergitt tilsyn på konsolidert grunnlag. Dette gjelder likevel ikke engasjementer som nevnt under første ledd nr. 1 bokstav e.</avsnitt></liste></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ix" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kix">
+      <kverdi>IX</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ix/ledd/1">I forskrift 29. juni 2007 nr. 747 om forsvarlig likviditetsstyring gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/ix/ledd/2">§ 1 første ledd skal lyde:</ledd>
+      <ledd id="/kapittel/ix/ledd/3">Holdingforetak i finanskonsern, banker, kredittforetak, finansieringsforetak, verdipapirforetak og forvaltningsselskaper for verdipapirfond skal sørge for forsvarlig likviditetsstyring slik at foretaket til en hver tid har tilstrekkelig likvider til at det kan dekke sine forpliktelser ved forfall.
+<br/></ledd>
+      <ledd id="/kapittel/ix/ledd/4">§ 4 annet ledd skal lyde:</ledd>
+      <ledd id="/kapittel/ix/ledd/5">Minstekrav til beholdning av likvide eiendeler for banker, kredittforetak og holdingforetak i finanskonsern som ikke er forsikringskonsern, følger av forskrift 22. august 2014 nr. 1097 om kapitalkrav og nasjonal tilpasning av CRR/CRD IV del IV.
+<br/></ledd>
+      <ledd id="/kapittel/ix/ledd/6">§ 12 oppheves.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/x" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kx">
+      <kverdi>X</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/x/ledd/1">I forskrift 22. september 2008 nr. 1080 om risikostyring og internkontroll gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/x/ledd/2">I § 1 gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/x/ledd/3">Første ledd nr. 1 oppheves.
+<br/>
+<marg niv="1" id="/kapittel/x/ledd/3/marg/1">Nåværende nr. 2 til nr. 12 blir nr. 1 til nr. 11.
+<br/></marg></ledd>
+      <ledd id="/kapittel/x/ledd/4">§ 6 tredje ledd oppheves.
+<br/></ledd>
+      <ledd id="/kapittel/x/ledd/5">§ 8 tredje ledd oppheves.
+<br/></ledd>
+      <ledd id="/kapittel/x/ledd/6">§ 9 første ledd første punktum skal lyde:</ledd>
+      <ledd id="/kapittel/x/ledd/7">Foretak som nevnt i § 1 første ledd nr. 1, 5 og 6 skal ha internrevisjon.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/xi" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kxi">
+      <kverdi>XI</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/xi/ledd/1">I forskrift 22. august 2014 nr. 1097 om kapitalkrav og nasjonal tilpasning av CRR/CRD IV (CRR/CRD IV-forskriften) gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/xi/ledd/2">§ 3 første ledd skal lyde:</ledd>
+      <ledd id="/kapittel/xi/ledd/3">Foretaket skal til enhver tid ha en ansvarlig kapital som utgjør minst åtte prosent av beregningsgrunnlaget for kredittrisiko, markedsrisiko og operasjonell risiko. Det samme beregningsgrunnlaget gjelder for beregningen av bevaringsbuffer, systemrisikobuffer, buffer for systemviktige finansforetak og motsyklisk kapitalbuffer som angitt i finansforetaksloven § 14-3.
+<br/></ledd>
+      <ledd id="/kapittel/xi/ledd/4">§ 3 annet ledd skal lyde:</ledd>
+      <ledd id="/kapittel/xi/ledd/5">For beregningen av det foretaksspesifikke kravet til motsyklisk kapitalbuffer skal satsen som fastsatt i forskrift 12. desember 2013 nr. 1440 om nivå på motsyklisk kapitalbuffer § 1 anvendes for engasjementer i Norge.
+<br/></ledd>
+      <ledd id="/kapittel/xi/ledd/6">§ 4 skal lyde:</ledd>
+      <ledd id="/kapittel/xi/ledd/7">§ 4. <i>Basel-I gulvet</i></ledd>
+      <ledd id="/kapittel/xi/ledd/8">For foretak som benytter IRB- eller AMA-metode kan beregningsgrunnlaget ikke være lavere enn 80 prosent av beregningsgrunnlaget etter forskrift 22. oktober 1990 nr. 875 om minstekrav til kapitaldekning i banker, kredittforetak, finansieringsforetak, holdingforetak i finanskonsern og verdipapirforetak som benytter IRB- eller AMA-metode og forskrift 22. juni 2000 nr. 632 om minstekrav til kapitaldekning for markedsrisiko mv. for kredittinstitusjoner og verdipapirforetak som benytter IRB- eller AMA-metode.</ledd>
+      <ledd id="/kapittel/xi/ledd/9">For foretak som fikk tillatelse til å benytte IRB- eller AMA-metode 1. januar 2010 eller senere kan Finanstilsynet tillate at beregningsgrunnlaget minst tilsvarer 80 prosent av beregningsgrunnlaget fastsatt i forskrift 14. desember 2006 nr. 1506 om kapitalkrav for banker, kredittforetak finansieringsforetak, holdingforetak i finanskonsern, verdipapirforetak og forvaltningsselskaper for verdipapirfond mv. (kapitalkravsforskriften) del II, del VII og del VIII kapittel 42 eller 43.</ledd>
+      <ledd id="/kapittel/xi/ledd/10">Justert forventet tapt beløp trukket fra kjernekapitalen i henhold til forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak § 17 første ledd bokstav e skal multipliseres med 12,5 og trekkes fra beregningsgrunnlaget etter nevnte forskrift eller del II, del VII og del VIII kapittel 42 eller 43 i kapitalkravsforskriften. Tilsvarende skal justert forventet tapt beløp som inngår i tilleggskapitalen i henhold til beregningsforskriften § 16 første ledd bokstav b multipliseres med 12,5 og legges til dette beregningsgrunnlaget.
+<br/></ledd>
+      <ledd id="/kapittel/xi/ledd/11">§ 5 skal lyde:</ledd>
+      <ledd id="/kapittel/xi/ledd/12">§ 5. <i>Minstekrav til ansvarlig kapital</i></ledd>
+      <ledd id="/kapittel/xi/ledd/13">Dersom et foretak skulle komme i brudd med minstekravene til ansvarlig kapital, gjelder reglene i finansforetaksloven § 21-1 til § 21-6.
+<br/></ledd>
+      <ledd id="/kapittel/xi/ledd/14">§ 6 skal lyde:</ledd>
+      <ledd id="/kapittel/xi/ledd/15">Dersom et foretak ikke oppfyller kombinerte kapitalbufferkrav (summen av krav til bevaringsbuffer, systemrisikobuffer, buffer for systemviktige finansforetak og motsyklisk kapitalbuffer som angitt i finansforetaksloven § 14-3) skal en kapitalplan oversendes Finanstilsynet senest fem virkedager etter at manglende oppfyllelse foreligger. Kapitalplanen skal minst inneholde følgende:
+<liste id="/kapittel/xi/ledd/15/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/xi/ledd/15/liste/1/avsnitt/1">estimat over inntekter og kostnader og en prognose for balansen, og</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/15/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/xi/ledd/15/liste/2/avsnitt/1">en plan og tidsramme for å øke foretakets kapitaldekning for å oppfylle det kombinerte bufferkravet.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/xi/ledd/16">Dersom et foretak ikke oppfyller det kombinerte bufferkravet kan disponeringer som nevnt i leddet her bare foretas innen rammen av et maksimalt disponeringsbeløp beregnet etter tredje ledd. Følgende disponeringer skal være begrenset til maksimalt disponeringsbeløp:
+<liste id="/kapittel/xi/ledd/16/liste/a"><lverdi>a.</lverdi><avsnitt id="/kapittel/xi/ledd/16/liste/a/avsnitt/1">utbetaling av utbytte eller konsernbidrag,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/16/liste/b"><lverdi>b.</lverdi><avsnitt id="/kapittel/xi/ledd/16/liste/b/avsnitt/1">innløsning eller tilbakekjøp av egne aksjer eller egenkapitalbevis,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/16/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/xi/ledd/16/liste/c/avsnitt/1">tilbakebetaling av innbetalte beløp i forbindelse med aksjer eller egenkapitalbevis,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/16/liste/d"><lverdi>d.</lverdi><avsnitt id="/kapittel/xi/ledd/16/liste/d/avsnitt/1">utdeling av annen innbetalt eller opptjent ren kjernekapital,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/16/liste/e"><lverdi>e.</lverdi><avsnitt id="/kapittel/xi/ledd/16/liste/e/avsnitt/1">avtale å betale variabel godtgjørelse eller særskilte pensjonsytelser, eller</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/16/liste/f"><lverdi>f.</lverdi><avsnitt id="/kapittel/xi/ledd/16/liste/f/avsnitt/1">betaling av rente på annen kjernekapital (fondsobligasjoner).</avsnitt></liste></ledd>
+      <ledd id="/kapittel/xi/ledd/17">Maksimalt disponeringsbeløp er delårsresultat og årsresultat som ikke er inkludert i ren kjernekapital fratrukket påregnelig betalbar skatt multiplisert med forholdet mellom ren kjernekapital utover minstekravet i finansforetaksloven § 14-1 og kombinert bufferkrav, beregnet som følger:
+<liste id="/kapittel/xi/ledd/17/liste/i"><lverdi>i.</lverdi><avsnitt id="/kapittel/xi/ledd/17/liste/i/avsnitt/1">faktoren skal være null dersom forholdet er fra 0 inntil 25 prosent,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/17/liste/ii"><lverdi>ii.</lverdi><avsnitt id="/kapittel/xi/ledd/17/liste/ii/avsnitt/1">faktoren skal være 0,2 dersom forholdet er fra 25 inntil 50 prosent,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/17/liste/iii"><lverdi>iii.</lverdi><avsnitt id="/kapittel/xi/ledd/17/liste/iii/avsnitt/1">faktoren skal være 0,4 dersom forholdet er fra 50 inntil 75 prosent,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/17/liste/iv"><lverdi>iv.</lverdi><avsnitt id="/kapittel/xi/ledd/17/liste/iv/avsnitt/1">faktoren skal være 0,6 dersom forholdet er fra 75 inntil 100 prosent.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/xi/ledd/18">Disposisjoner som nevnt i annet ledd kan ikke foretas før foretaket har gitt Finanstilsynet følgende informasjon:
+<liste id="/kapittel/xi/ledd/18/liste/a"><lverdi>a.</lverdi><avsnitt id="/kapittel/xi/ledd/18/liste/a/avsnitt/1">foretakets kapital inndelt i ren kjernekapital, annen kjernekapital og tilleggskapital,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/18/liste/b"><lverdi>b.</lverdi><avsnitt id="/kapittel/xi/ledd/18/liste/b/avsnitt/1">delårsresultat og årsresultat,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/18/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/xi/ledd/18/liste/c/avsnitt/1">maksimalt disponeringsbeløp beregnet etter fjerde ledd, og</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/18/liste/d"><lverdi>d.</lverdi><avsnitt id="/kapittel/xi/ledd/18/liste/d/avsnitt/1">planlagt disponering av overskudd fordelt mellom disponeringene beskrevet i andre ledd.
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/xi/ledd/19">Ny del VI skal lyde:</ledd>
+      <ledd id="/kapittel/xi/ledd/20">Del VI: Systemviktige foretak</ledd>
+      <ledd id="/kapittel/xi/ledd/21">§ 22. <i>Innhold og formål</i></ledd>
+      <ledd id="/kapittel/xi/ledd/22">Denne delen fastsetter fremgangsmåte og kriterier for å fastsette hvilke foretak som skal pålegges et høyere krav til ren kjernekapital, fordi de er systemviktige og har særlig stor betydning for det finansielle systemet og norsk økonomi. Slike systemviktige foretak skal ha et høyere krav til ren kjernekapital for å ha en større tapsbærende evne, og dermed redusere sannsynligheten for at foretakene får økonomiske problemer som kan ha alvorlige negative konsekvenser for det finansielle systemet og realøkonomien.</ledd>
+      <ledd id="/kapittel/xi/ledd/23">§ 23. <i>Identifisering av systemviktige foretak</i></ledd>
+      <ledd id="/kapittel/xi/ledd/24">Finansdepartementet skal hvert år treffe beslutning om hvilke foretak som skal anses som systemviktige i Norge. Beslutningen skal normalt tidligst tre i kraft 12 måneder etter at beslutningen er fattet. I særlige tilfeller kan tidligere ikrafttredelse besluttes.</ledd>
+      <ledd id="/kapittel/xi/ledd/25">Foretak som oppfyller minst ett av følgende kriterier, skal anses som systemviktige:
+<liste id="/kapittel/xi/ledd/25/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/xi/ledd/25/liste/a/avsnitt/1">foretak som ved utgangen av det foregående år hadde forvaltningskapital som utgjorde mer enn 10 prosent av Fastlands-Norges BNP,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/25/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/xi/ledd/25/liste/b/avsnitt/1">foretak som ved utgangen av foregående år hadde utlån til publikum i Norge som utgjorde mer enn 5 prosent av samlede utlån til publikum i Norge.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/xi/ledd/26">Kriteriene skal bygge på foretakenes konsernregnskap og Fastlands-Norges BNP for det foregående år. For foretak som har eierandeler i kredittforetak som utsteder obligasjoner med fortrinnsrett, skal deres forholdsmessige andel regnes med i grunnlaget for beregningen av foretakets forvaltningskapital og utlån til publikum.</ledd>
+      <ledd id="/kapittel/xi/ledd/27">Finansdepartementet kan i særlige tilfelle bestemme at foretak som oppfyller kriteriene i annet ledd, ikke skal anses som systemviktige. Finansdepartementet kan også fastsette at andre foretak enn de som oppfyller minst ett av kriteriene i annet ledd, likevel skal anses som systemviktige. Ved denne vurderingen skal Finansdepartementet legge vekt på kriteriene som er angitt i § 24 og råd fra Finanstilsynet.</ledd>
+      <ledd id="/kapittel/xi/ledd/28">§ 24. <i>Råd fra Finanstilsynet</i></ledd>
+      <ledd id="/kapittel/xi/ledd/29">Finanstilsynet skal hvert år innen utgangen av første kvartal gi et begrunnet råd til Finansdepartementet om hvilke foretak som bør anses som systemviktige i Norge. Råd etter første punktum skal baseres på en vurdering av blant annet foretakets størrelse, foretakets omfang av virksomhet i Norge og i andre land, foretakets kompleksitet, foretakets rolle i den finansielle infrastrukturen og i hvilken grad foretaket er sammenvevet med resten av det finansielle systemet, jf. også § 23 annet ledd.
+<br/></ledd>
+      <ledd id="/kapittel/xi/ledd/30">Ny del VII skal lyde:</ledd>
+      <ledd id="/kapittel/xi/ledd/31">Del VII: Systemet for risikostyring og internkontroll</ledd>
+      <ledd id="/kapittel/xi/ledd/32">§ 25. <i>Styrets rolle</i></ledd>
+      <ledd id="/kapittel/xi/ledd/33">Foretakets styre skal godkjenne og regelmessig vurdere retningslinjer for å påta foretaket risikoer og for å identifisere, styre, overvåke og kontrollere risikoer som foretaket er eller kan bli eksponert for, herunder risikoer knyttet til makroøkonomiske forhold.</ledd>
+      <ledd id="/kapittel/xi/ledd/34">Styret skal fastsette retningslinjer for å skille mellom foretakets forskjellige kontrollfunksjoner og for å unngå interessekonflikter. For å sikre at kontrollfunksjoner kan ivareta sine arbeidsoppgaver på en effektiv og uavhengig måte skal foretaket påse at:
+<liste id="/kapittel/xi/ledd/34/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/xi/ledd/34/liste/a/avsnitt/1">personer som er involvert i foretakets kontrollfunksjon ikke involveres i utøvelsen av de tjenester eller funksjoner de skal kontrollere, og</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/34/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/xi/ledd/34/liste/b/avsnitt/1">personer som er involvert i foretakets kontrollfunksjon ikke får fastsatt sin godtgjørelse på en måte som påvirker, eller er egnet til å påvirke, deres objektivitet.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/xi/ledd/35">Styret skal evaluere sitt arbeid og sin kompetanse knyttet til foretakets risikostyring og internkontroll minimum årlig.</ledd>
+      <ledd id="/kapittel/xi/ledd/36">§ 26. <i>Systemet for risikostyring og internkontroll</i></ledd>
+      <ledd id="/kapittel/xi/ledd/37">Foretakets retningslinjer og rutiner for styring og kontroll av risiko skal minst omfatte følgende risikoer:
+<liste id="/kapittel/xi/ledd/37/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/xi/ledd/37/liste/a/avsnitt/1">kreditt- og motpartsrisiko,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/37/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/xi/ledd/37/liste/b/avsnitt/1">restrisiko,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/37/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/xi/ledd/37/liste/c/avsnitt/1">konsentrasjonsrisiko,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/37/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/xi/ledd/37/liste/d/avsnitt/1">risikoer knyttet til verdipapiriseringsaktiviteter,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/37/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/xi/ledd/37/liste/e/avsnitt/1">markedsrisiko,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/37/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/xi/ledd/37/liste/f/avsnitt/1">renterisiko i portefølje for annen virksomhet enn handelsportefølje,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/37/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/xi/ledd/37/liste/g/avsnitt/1">operasjonell risiko,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/37/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/xi/ledd/37/liste/h/avsnitt/1">likviditetsrisiko og</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/37/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/xi/ledd/37/liste/i/avsnitt/1">risiko knyttet til uforsvarlig gjeldsoppbygging.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/xi/ledd/38">Kredittporteføljene skal diversifiseres i samsvar med foretakets markedsmålsetting og overordnede kredittstrategi.</ledd>
+      <ledd id="/kapittel/xi/ledd/39">Retningslinjene for kreditt- og motpartsrisiko skal minst omfatte prosedyrer for bevilgning, endring, fornyelse og refinansiering av kreditt, prosedyrer for identifisering og håndtering av problemengasjementer og prosedyrer for verdireguleringer og nedskrivinger.</ledd>
+      <ledd id="/kapittel/xi/ledd/40">Ved verdipapirisering som omfatter trekkrettigheter med adgang til førtidig innfrielse, skal det tas hensyn til likviditetssituasjonen både ved avtalt og ved førtidig innfrielse.</ledd>
+      <ledd id="/kapittel/xi/ledd/41">Retningslinjene for operasjonell risiko skal omfatte beredskapsplaner for å sikre at driften kan videreføres og tap begrenses ved alvorlige driftsforstyrrelser.</ledd>
+      <ledd id="/kapittel/xi/ledd/42">Foretaket skal sørge for en forsvarlig likviditetsstyring, jf. kravene i forskrift 29. juni 2007 nr. 747 om forsvarlig likviditetsstyring.</ledd>
+      <ledd id="/kapittel/xi/ledd/43">§ 27. <i>Gjennomføring av internkontrollen</i></ledd>
+      <ledd id="/kapittel/xi/ledd/44">Ledere på alle vesentlige virksomhetsområder skal løpende vurdere gjennomføringen av internkontrollen.</ledd>
+      <ledd id="/kapittel/xi/ledd/45">Det skal minst én gang årlig foretas en oppsummerende vurdering av om internkontrollen har vært gjennomført på en tilfredsstillende måte og om det er behov for nye tiltak.</ledd>
+      <ledd id="/kapittel/xi/ledd/46">Vurderingene etter første og andre ledd skal dokumenteres.</ledd>
+      <ledd id="/kapittel/xi/ledd/47">Daglig leder skal, minimum én gang årlig, utarbeide en samlet vurdering etter første og andre ledd som skal forelegges styret til behandling.</ledd>
+      <ledd id="/kapittel/xi/ledd/48">Dokumentasjonen skal oppbevares i minst tre år, og være tilgjengelig for Finanstilsynet</ledd>
+      <ledd id="/kapittel/xi/ledd/49">§ 28. <i>Risikokontroll</i></ledd>
+      <ledd id="/kapittel/xi/ledd/50">Risikokontrollfunksjonen skal sikre at alle vesentlige risikoer i foretaket er identifisert, målt og rapportert av de relevante organisatoriske enhetene.</ledd>
+      <ledd id="/kapittel/xi/ledd/51">Foretaket skal ha en uavhengig risikokontrollfunksjon med tilstrekkelig kompetanse og ressurser. Risikokontrollfunksjonen skal ha en leder som skal rapportere til daglig leder. Leder av risikokontrollfunksjonen skal ikke kunne avsettes uten samtykke fra styret. I mindre foretak med mindre kompleks struktur, kan en leder med andre ansvarsområder i tillegg ha ansvaret for risikokontrollfunksjonen dersom interessekonflikter unngås.</ledd>
+      <ledd id="/kapittel/xi/ledd/52">Risikokontrollfunksjonen skal kunne rapportere direkte til styret i tilfeller der styret ikke får nødvendig informasjon om vesentlige risikoer via den alminnelige rapporteringen samt varsle styret i tilfeller der identifiserte risikoer påvirker eller kan påvirke foretaket.</ledd>
+      <ledd id="/kapittel/xi/ledd/53">§ 29. <i>Kontroll av etterlevelse (compliance)</i></ledd>
+      <ledd id="/kapittel/xi/ledd/54">Foretaket skal ha retningslinjer og prosedyrer for å avdekke risiko for at foretaket ikke oppfyller sine forpliktelser etter lov og forskrift. Foretaket skal iverksette forebyggende tiltak og prosedyrer for å begrense slik risiko.</ledd>
+      <ledd id="/kapittel/xi/ledd/55">Foretaket skal ha en uavhengig kontrollfunksjon med tilstrekkelig kompetanse og ressurser, som skal:
+<liste id="/kapittel/xi/ledd/55/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/xi/ledd/55/liste/a/avsnitt/1">kontrollere at foretaket oppfyller sine forpliktelser etter første ledd,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/55/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/xi/ledd/55/liste/b/avsnitt/1">regelmessig vurdere om de nevnte retningslinjer, prosedyrer og tiltak er tilstrekkelig effektive,</avsnitt></liste>
+<liste id="/kapittel/xi/ledd/55/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/xi/ledd/55/liste/c/avsnitt/1">vurdere eventuelle tiltak som iverksettes for å avhjelpe manglende etterlevelse av regelverket.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/xi/ledd/56">Kontrollfunksjonen skal ha en leder som skal rapportere til daglig leder. Leder av kontrollfunksjonen skal ikke kunne avsettes uten samtykke fra styret. I mindre foretak med mindre kompleks struktur, kan en leder med andre ansvarsområder i tillegg ha ansvaret for kontrollfunksjonen dersom interessekonflikter unngås.</ledd>
+      <ledd id="/kapittel/xi/ledd/57">§ 30. <i>Internrevisjon</i></ledd>
+      <ledd id="/kapittel/xi/ledd/58">Styret skal godkjenne internrevisjonens ressurser og planer på årlig basis.</ledd>
+      <ledd id="/kapittel/xi/ledd/59">Internrevisjonen skal ha rett til å møte i styremøtene.</ledd>
+      <ledd id="/kapittel/xi/ledd/60">Internrevisjonen skal gjennomføres i henhold til anerkjente standarder.
+<br/>
+<marg niv="1" id="/kapittel/xi/ledd/60/marg/1">Del VI blir ny del VIII.
+<br/></marg>
+<marg niv="1" id="/kapittel/xi/ledd/60/marg/2">§ 22 blir ny § 31.</marg></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/xii" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kxii">
+      <kverdi>XII</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/xii/ledd/1">Følgende forskrifter oppheves:
+<liste id="/kapittel/xii/ledd/1/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/1/avsnitt/1">Forskrift 29. juni 1978 nr. 8554 om valgkomiteer i sparebanker</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/2/avsnitt/1">Forskrift 8. november 1979 nr. 1 om kommunestyrets/fylkestingets valg av varamedlemmer til sparebankenes forstanderskap</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/3/avsnitt/1">Forskrift 8. september 1989 nr. 931 om minstekrav til egenkapitalen for norske forsikringsselskaper</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/4"><lverdi>4.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/4/avsnitt/1">Forskrift 5. oktober 1989 nr. 1025 om finansieringsforetaks virksomhet med kontokort</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/5"><lverdi>5.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/5/avsnitt/1">Forskrift 21. november 1989 nr. 1166 om hvilke forsikringer som skal regnes som kredittforsikring</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/6"><lverdi>6.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/6/avsnitt/1">Forskrift 21. november 1989 nr. 1167 om fordeling av kostnader, tap, inntekter, fond mv mellom forsikringsselskaper i konsernforhold og mellom bransjer og kontrakter i et forsikringsselskap</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/7"><lverdi>7.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/7/avsnitt/1">Forskrift 1. juni 1990 nr. 429 om produktpakker m.v.</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/8"><lverdi>8.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/8/avsnitt/1">Forskrift 1. juni 1990 nr. 433 om gjensidig representasjon i styrende organer</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/9"><lverdi>9.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/9/avsnitt/1">Forskrift 1. juni 1990 nr. 434 om aktuar</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/10"><lverdi>10.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/10/avsnitt/1">Forskrift 14. september 1990 nr. 764 om sikkerhetsstillelse for låneformidlere</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/11"><lverdi>11.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/11/avsnitt/1">Forskrift 20. desember 1991 nr. 850 om overgangsregler til lov av 6. desember 1991 nr. 79 om endringer i lov av 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner og visse andre lover</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/12"><lverdi>12.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/12/avsnitt/1">Forskrift 24. august 1992 nr. 629 om administrasjon av morselskap i forsikringskonsern</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/13"><lverdi>13.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/13/avsnitt/1">Forskrift 1. desember 1993 nr. 1074 om unntak for mindre gjensidige skadeforsikringsselskaper</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/14"><lverdi>14.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/14/avsnitt/1">Forskrift 1. desember 1993 nr. 1075 om sammenslutningen av forsikringsgivere benevnt Lloyd's</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/15"><lverdi>15.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/15/avsnitt/1">Forskrift 13. april 1994 nr. 252 om krav til den ansvarlige kapitalen for etablerte kredittinstitusjoner</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/16"><lverdi>16.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/16/avsnitt/1">Forskrift 2. mai 1994 nr. 326 om filial av banker og andre kredittinstitusjoner med hovedsete i annen stat innen Det europeiske økonomiske samarbeidsområde, m.m.</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/17"><lverdi>17.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/17/avsnitt/1">Forskrift 7. juli 1994 nr. 717 om grenseoverskridende tjenesteyting av utenlandske banker og andre kredittinstitusjoner med hovedsete i annen stat innenfor det europeiske økonomisk samarbeidsområdet, m.m.</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/18"><lverdi>18.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/18/avsnitt/1">Forskrift 19. mai 1995 nr. 481 om beregning av solvensmarginkrav og solvensmarginkapital for norske livsforsikringsselskaper</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/19"><lverdi>19.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/19/avsnitt/1">Forskrift 18. september 1995 nr. 797 om inndeling i forsikringsklasser som grunnlag for konsesjonstildeling</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/20"><lverdi>20.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/20/avsnitt/1">Forskrift 22. september 1995 nr. 827 om forsikringstjenesteytelser og etablering av filial av forsikringsselskap og pensjonsforetak med hovedsete i annen stat i Det europeiske økonomiske samarbeidsområde m.m.</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/21"><lverdi>21.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/21/avsnitt/1">Forskrift 11. oktober 1995 nr. 854 om norske forsikringsselskapers og pensjonsforetaks tjenesteytelser og etablering av filial i annen stat i Det europeiske økonomiske samarbeidsområde</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/22"><lverdi>22.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/22/avsnitt/1">Forskrift 18. desember 1995 nr. 1106 om instruks for kontrollkomiteer i finansieringsforetak</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/23"><lverdi>23.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/23/avsnitt/1">Forskrift 22. mai 1996 nr. 506 om overdragelse av forsikringsportefølje tegnet etter reglene om etableringsrett eller utveksling av tjenesteytelser</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/24"><lverdi>24.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/24/avsnitt/1">Forskrift 28. juni 1996 nr. 678 om norske kredittinstitusjoners virksomhet i annen stat i Det europeiske økonomiske samarbeidsområde</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/25"><lverdi>25.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/25/avsnitt/1">Forskrift 6. mai 1997 nr. 429 om innbetaling av avgift til Bankenes sikringsfond</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/26"><lverdi>26.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/26/avsnitt/1">Forskrift 2. august 1999 nr. 878 om lokalisering av eiendeler som skal dekke forsikringsmessige avsetninger</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/27"><lverdi>27.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/27/avsnitt/1">Forskrift 17. desember 1999 nr. 1358 om organisering av finanskonsern etter etablering av morselskap i henhold til finansieringsvirksomhetsloven § 2a-16</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/28"><lverdi>28.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/28/avsnitt/1">Forskrift 20. desember 2000 nr. 1328 om unntak fra minstekravet til egenkapital for GIEK Kredittforsikring AS</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/29"><lverdi>29.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/29/avsnitt/1">Forskrift 17. oktober 2001 nr. 1190 om sikringsordninger for kredittinstitusjoner</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/30"><lverdi>30.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/30/avsnitt/1">Forskrift 23. april 2003 nr. 549 om underretning og kunngjøring ved reorganisering og avvikling av finansinstitusjoner</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/31"><lverdi>31.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/31/avsnitt/1">Forskrift 18. desember 2003 nr. 1639 om eierkontroll i finansinstitusjoner</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/32"><lverdi>32.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/32/avsnitt/1">Forskrift 6. juli 2005 nr. 802 om EØS-filialers medlemskap i innskuddsgarantiordningen i Bankenes sikringsfond (tilleggsdekning)</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/33"><lverdi>33.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/33/avsnitt/1">Forskrift 16. desember 2005 nr. 1514 om innskyteres valg på valgdager eller valgmøter til forstanderskapet</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/34"><lverdi>34.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/34/avsnitt/1">Forskrift 30. juni 2006 nr. 868 om overgangsregler til lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet (forsikringsloven).</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/35"><lverdi>35.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/35/avsnitt/1">Forskrift 25. september 2006 nr. 1317 om opplysningsplikt ved tilbud om kjøp av sammensatte produkter</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/36"><lverdi>36.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/36/avsnitt/1">Forskrift 22. desember 2006 nr. 1617 om garantiordning for skadeforsikring</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/37"><lverdi>37.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/37/avsnitt/1">Forskrift 25. mai 2007 nr. 550 om kredittforetak som utsteder obligasjoner med fortrinnsrett i en sikkerhetsmasse bestående av offentlige lån, utlån med pant i bolig eller annen fast eiendom</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/38"><lverdi>38.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/38/avsnitt/1">Forskrift 17. desember 2007 nr. 1457 om livsforsikringsselskapers og pensjonsforetaks kapitalforvaltning</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/39"><lverdi>39.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/39/avsnitt/1">Forskrift 12. oktober 2008 nr. 1102 om offentlig administrasjon av filial av bank med hovedsete i fremmed stat</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/40"><lverdi>40.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/40/avsnitt/1">Forskrift 21. november 2008 nr. 1240 om dispensasjon fra sparebankloven § 23</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/41"><lverdi>41.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/41/avsnitt/1">Forskrift 29. juni 2009 nr. 913 om egenkapitalbevis i sparebanker, kredittforeninger og gjensidige forsikringsselskaper</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/42"><lverdi>42.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/42/avsnitt/1">Forskrift 11. januar 2010 nr. 18 om hvilke finansinstitusjoner som kan vedtektsfeste at det samlede styret skal fungere som institusjonens revisjonsutvalg</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/43"><lverdi>43.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/43/avsnitt/1">Forskrift 1. juli 2010 nr. 1049 om betalingsforetak</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/44"><lverdi>44.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/44/avsnitt/1">Forskrift 1. desember 2010 nr. 1507 om godtgjørelsesordninger i finansinstitusjoner, verdipapirforetak og forvaltningsselskap for verdipapirfond</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/45"><lverdi>45.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/45/avsnitt/1">Forskrift 21. desember 2011 nr. 1444 om e-pengeforetak</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/46"><lverdi>46.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/46/avsnitt/1">Forskrift 26. september 2012 nr. 911 om opplysningsplikt til informasjonsordning for finansielle tjenester</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/47"><lverdi>47.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/47/avsnitt/1">Forskrift 12. mai 2014 nr. 627 om identifisering av systemviktige finansinstitusjoner</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/48"><lverdi>48.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/48/avsnitt/1">Forskrift 1. desember 2015 nr. 1376 om godkjennelse av vedtektsendringer i finansforetak og finansstiftelser</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/49"><lverdi>49.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/49/avsnitt/1">Forskrift 18. desember 2015 nr. 1765 om kapitalkrav for holdingforetak i finanskonsern som hovedsakelig består av forsikringsforetak</avsnitt></liste>
+<liste id="/kapittel/xii/ledd/1/liste/50"><lverdi>50.</lverdi><avsnitt id="/kapittel/xii/ledd/1/liste/50/avsnitt/1">Forskrift 22. april 2016 nr. 403 om lenke til Finansportalen.</avsnitt></liste></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/xiii" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/kxiii">
+      <kverdi>XIII</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/xiii/ledd/1">Forskriften trer i kraft 1. januar 2017.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2016-12-09-1528/k1">
+      <kverdi/>
+      <ktittel> Rettelser <br/> <br/></ktittel>
+      <publisert>P: I 2016 hefte 19 (Rettelse)
+<marg niv="1" id="/kapittel/1/marg/1">Det som er rettet er satt i kursiv.
+<br/></marg>
+<marg niv="1" id="/kapittel/1/marg/2">Under II skal ledeteksten til endringen i forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for finansinstitusjoner, oppgjørssentraler og verdipapirforetak § 10 andre ledd være <i>§ 9</i> andre ledd.
+<br/></marg>
+<marg niv="1" id="/kapittel/1/marg/3">Under III skal ledeteksten til endringen i forskrift 22. oktober 1990 nr. 875 om minstekrav til kapitaldekning i finansinstitusjoner og verdipapirforetak § 6 tredje ledd første punktum være <i>annet ledd nr. 8 annet ledd første punktum</i>.</marg></publisert>
+    </kapittel>
+  </tekst>
+</dokument>

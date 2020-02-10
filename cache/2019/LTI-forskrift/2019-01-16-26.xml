@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2019-01-16-26" type="lt" url="https://lovdata.no/lovtidend/forskrift/2019-01-16-26">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2019-01-16-26</id>
+    <dato>16.01.2019 nr. 26</dato>
+    <dato type="iso">2019-01-16</dato>
+    <ikraft>16.01.2019</ikraft>
+    <ikraft type="iso">2019-01-16</ikraft>
+    <departement>Finansdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <endrer type="ref">https://lovdata.no/for/2017-12-20-2348</endrer>
+    <rettet/>
+    <journalnummer>2019-0029</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om posisjonsgrenser for varederivater</korttittel>
+    <tittel>Forskrift om endring i forskrift om posisjonsgrenser for varederivater</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Finanstilsynet 16. januar 2019 med hjemmel i lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven) § 15-1 første ledd.</marg>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2019-01-16-26/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 20. desember 2017 nr. 2348 om posisjonsgrenser for varederivater gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">Ny hjemmel skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/3">Fastsatt av Finanstilsynet 20. desember 2017 med hjemmel i lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven) § 15-1 første ledd.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/4">§ 2 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/5">§ 2. <i>Posisjonsgrenser for likvide varederivater</i></ledd>
+      <ledd id="/kapittel/i/ledd/6">Følgende grenser for hvor store nettoposisjoner en fysisk eller juridisk person kan inneha i varederivater angitt i tabellen under, skal gjelde:</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="6" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="5" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="6" align="left" valign="top" colwidth="10*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Varederivat</i>
+              </entry>
+              <entry colname="2">
+                <i>Handelsplass</i>
+              </entry>
+              <entry colname="3">
+                <i>Venue Product Code</i>
+              </entry>
+              <entry colname="4">
+                <i>Posisjonsgrense spotmåneden</i>
+              </entry>
+              <entry colname="5">
+                <i>Posisjonsgrense øvrige måneder</i>
+              </entry>
+              <entry colname="6">
+                <i>Enhet</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="6" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="5" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="6" align="left" valign="top" colwidth="10*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Farmed Salmon </entry>
+              <entry colname="2">Fish Pool ASA </entry>
+              <entry colname="3">FPSA </entry>
+              <entry colname="4">23 400 (24,9 %) </entry>
+              <entry colname="5">20 800 (49,9 %) </entry>
+              <entry colname="6">Lots </entry>
+            </row>
+            <row>
+              <entry colname="1">Nordic Power (inc. Nordic EPADs) </entry>
+              <entry colname="2">Nasdaq Oslo ASA </entry>
+              <entry colname="3">ENO </entry>
+              <entry colname="4">19 308 181 (25 %) </entry>
+              <entry colname="5">67 610 330 (25 %) </entry>
+              <entry colname="6">MWh </entry>
+            </row>
+            <row>
+              <entry colname="1">German Power Base Load </entry>
+              <entry colname="2">Nasdaq Oslo ASA </entry>
+              <entry colname="3">EDEBL </entry>
+              <entry colname="4">43 362 000 (25 %) </entry>
+              <entry colname="5">4 277 271 (50 %) </entry>
+              <entry colname="6">MWh </entry>
+            </row>
+            <row>
+              <entry colname="1">German Power Only Base Load </entry>
+              <entry colname="2">Nasdaq Oslo ASA </entry>
+              <entry colname="3">EDEFB Future </entry>
+              <entry colname="4">38 903 282 (25 %) </entry>
+              <entry colname="5">10 618 098 (50 %) </entry>
+              <entry colname="6">MWh </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2019-01-16-26/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Forskriften trer i kraft 16. januar 2019.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

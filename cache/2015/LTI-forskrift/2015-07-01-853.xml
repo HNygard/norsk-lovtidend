@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2015-07-01-853" type="lt" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2015-07-01-853</id>
+    <dato>01.07.2015 nr. 853</dato>
+    <dato type="iso">2015-07-01</dato>
+    <publisert>I 2015 hefte 8 s 1419</publisert>
+    <ikraft>01.09.2015</ikraft>
+    <ikraft type="iso">2015-09-01</ikraft>
+    <departement>Helse- og omsorgsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <rettet/>
+    <journalnummer>2015-0729</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om IKT-standarder i helse og omsorg</korttittel>
+    <korttittel>3 Forskrift om IKT-standarder i helse- og omsorgstjenesten (Nr. 853)</korttittel>
+    <tittel>Forskrift om IKT-standarder i helse- og omsorgstjenesten</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Helse- og omsorgsdepartementet 1. juli 2015 med hjemmel i lov 20. juni 2014 nr. 42 om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven) § 7.</marg>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Formål</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Forskriften skal bidra til at virksomheter i helse- og omsorgstjenesten som yter helsehjelp bruker IKT-standarder for å fremme sikker og effektiv elektronisk samhandling.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853/p2">
+      <pverdi>§ 2.</pverdi>
+      <ptittel>Virkeområde</ptittel>
+      <ledd id="/paragraf/2/ledd/1">Forskriften gjelder private og offentlige virksomheter innen helse- og omsorgstjenesten som bruker behandlingsrettede helseregistre, jf. pasientjournalloven § 2 bokstav d.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853/p3">
+      <pverdi>§ 3.</pverdi>
+      <ptittel>Krav om elektronisk behandling av helseopplysninger</ptittel>
+      <ledd id="/paragraf/3/ledd/1">Behandlingsrettede helseregistre skal føres elektronisk. Dersom det i enkelttilfeller ikke er mulig å registrere opplysningene elektronisk, kan de dokumenteres på annen måte inntil de kan registreres elektronisk.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853/p4">
+      <pverdi>§ 4.</pverdi>
+      <ptittel>Krav om oppdatert adresseinformasjon mv.</ptittel>
+      <ledd id="/paragraf/4/ledd/1">Alle virksomheter som er tilknyttet helsenettet ved avtale med Norsk Helsenett SF, skal sørge for å ha oppdatert informasjon om virksomhetens elektroniske adresser og annen relevant kontaktinformasjon i adresseregisteret i helsenettet.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853/p5">
+      <pverdi>§ 5.</pverdi>
+      <ptittel>Krav til funksjonaliteten i IKT-systemenes programvare</ptittel>
+      <ledd id="/paragraf/5/ledd/1">Alle virksomheter i helse- og omsorgstjenesten som yter helsehjelp og som skal sende eller motta meldinger etter § 6 skal ta i bruk programvare som
+<liste id="/paragraf/5/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/paragraf/5/ledd/1/liste/a/avsnitt/1">følger ebXML rammeverk som angitt i HIS 1037:2011 ved utveksling av meldinger,</avsnitt></liste>
+<liste id="/paragraf/5/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/paragraf/5/ledd/1/liste/b/avsnitt/1">håndterer applikasjonskvittering som angitt i HIS 80415:2004 eller HIS 80415:2012 ved sending og mottak av meldinger.</avsnitt></liste></ledd>
+    </paragraf>
+    <paragraf id="/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853/p6">
+      <pverdi>§ 6.</pverdi>
+      <ptittel>Krav til funksjonalitet ved meldingsutveksling</ptittel>
+      <ledd id="/paragraf/6/ledd/1">Ved sending og mottak av meldinger som denne bestemmelsen omfatter, skal virksomhetene ta i bruk programvare som oppfyller kravene i den aktuelle standarden som følger av nummer 1 til 16:
+<liste id="/paragraf/6/ledd/1/liste/1"><lverdi>1.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/1/avsnitt/1">Alle virksomheter i helse- og omsorgstjenesten som yter helsehjelp skal ved sending av avviksmelding bruke avviksmelding som angitt i HIS 1151:2006. Alle virksomheter i helse- og omsorgstjenesten som yter helsehjelp skal kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/2"><lverdi>2.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/2/avsnitt/1">Virksomheter som yter allmennlegetjenester skal ved sending av henvisninger bruke henvisningsmelding som angitt i HIS 80517:2005 eller HIS 80517:2014. Helseforetak og private sykehus plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/3"><lverdi>3.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/3/avsnitt/1">Virksomheter som yter spesialisthelsetjenester skal ved sending av epikriser bruke epikrisemelding som angitt i HIS 80226:2006 eller HIS 80226:2014. Virksomheter som yter allmennlegetjenester, helseforetak og private sykehus samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/4"><lverdi>4.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/4/avsnitt/1">Virksomheter som utfører en medisinsk biokjemisk undersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1138:2008 eller HIS 1138:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/5"><lverdi>5.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/5/avsnitt/1">Virksomheter som utfører en mikrobiologisk undersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1139:2008 eller HIS 1139:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/6"><lverdi>6.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/6/avsnitt/1">Virksomheter som utfører en immunologisk undersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1140:2008 eller HIS 1140:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/7"><lverdi>7.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/7/avsnitt/1">Virksomheter som utfører en patologisk undersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1141:2008 eller HIS 1141:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/8"><lverdi>8.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/8/avsnitt/1">Virksomheter som utfører en radiologisk undersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1142:2008 eller HIS 1142:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/9"><lverdi>9.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/9/avsnitt/1">Virksomheter som tilbyr radiologisk undersøkelse, plikter å kunne motta en melding med rekvisisjon eller henvisning som angitt i HIS 80821:2008 eller HIS 80821:2014.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/10"><lverdi>10.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/10/avsnitt/1">Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 skal ved sending av journalopplysninger om pasienten i kontakt med sykehuset, bruke melding som angitt i HIS 1143:2009 eller HIS 1143:2014. Helseforetak og private sykehus plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/11"><lverdi>11.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/11/avsnitt/1">Helseforetak og private sykehus skal ved sending av informasjon til kommunen om at en pasient er vurdert å ha behov for kommunale helse- og omsorgstjenester etter utskrivning, bruke melding som angitt i HIS 1144:2009 eller HIS 1144:2014. Kommuner plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/12"><lverdi>12.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/12/avsnitt/1">Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 skal ved sending av journalopplysninger om pasienten i kontakt med pasientens fastlege, bruke melding som angitt i HIS 1145:2009 eller HIS 1145:2014. Fastleger plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/13"><lverdi>13.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/13/avsnitt/1">Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 skal ved sending av orientering om tjenestetilbud bruke melding som angitt i HIS 1146:2009 eller HIS 1146:2014. Fastleger plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/14"><lverdi>14.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/14/avsnitt/1">Fastleger skal ved sending av journalopplysninger om pasienten i forbindelse med etablering av tjenester, bruke melding som angitt i HIS 1147:2009 eller HIS 1147:2014. Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/15"><lverdi>15.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/15/avsnitt/1">Helseforetak og private sykehus skal ved sending av administrative opplysninger knyttet til et sykehusopphold, bruke melding som angitt i HIS 1149:2009 eller HIS 1149:2014. Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 plikter å kunne motta slik melding.</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/16"><lverdi>16.</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/16/avsnitt/1">Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6, fastleger, helseforetak og private sykehus skal kunne sende og motta forespørsel om opplysninger om pasient og svar på slik forespørsel ved bruk av melding som angitt i HIS 1152:2006.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/6/ledd/2">Er det i enkelttilfeller ikke mulig å sende melding som angitt i første ledd, skal opplysningene sendes på annen forsvarlig måte.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853/p7">
+      <pverdi>§ 7.</pverdi>
+      <ptittel>Katalog over standarder</ptittel>
+      <ledd id="/paragraf/7/ledd/1">Helsedirektoratet gir ut en katalog med oversikt over obligatoriske og anbefalte standarder.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853/p8">
+      <pverdi>§ 8.</pverdi>
+      <ptittel>Unntak</ptittel>
+      <ledd id="/paragraf/8/ledd/1">Virksomheter som utprøver en ny standard eller versjon av en standard anbefalt av Helsedirektoratet for å undersøke om den skal erstatte en eller flere av standardene angitt i denne forskriften, unntas fra kravet i § 5 og § 6 om å bruke den eller de standardene som den standarden som utprøves skal erstatte.</ledd>
+      <ledd id="/paragraf/8/ledd/2">Helsedirektoratet kan på eget initiativ eller etter søknad unnta en eller flere virksomheter for en begrenset periode fra et eller flere av kravene i forskriften dersom det vil være særlig byrdefullt eller vanskelig å oppfylle kravene.</ledd>
+      <ledd id="/paragraf/8/ledd/3">Unntak etter første og andre ledd skal publiseres i Helsedirektoratets katalog over standarder. Det skal blant annet fremgå hvilke virksomheter unntaket gjelder.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-853/p9">
+      <pverdi>§ 9.</pverdi>
+      <ptittel>Ikrafttredelse</ptittel>
+      <ledd id="/paragraf/9/ledd/1">Forskriften trer i kraft 1. september 2015.</ledd>
+    </paragraf>
+  </tekst>
+</dokument>

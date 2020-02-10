@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2019-02-15-115" type="lt" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2019-02-15-115</id>
+    <dato>15.02.2019 nr. 115</dato>
+    <dato type="iso">2019-02-15</dato>
+    <ikraft>Departementet bestemmer</ikraft>
+    <ikraft type="iso">Departementet bestemmer</ikraft>
+    <departement>Helse- og omsorgsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2014-06-20-43-§4">L20.06.2014 nr. 43 § 4</ref>, <ref id="lov-2014-06-20-43-§6">§ 6</ref>, <ref id="lov-2014-06-20-43-§8">§ 8</ref>, <ref id="lov-2014-06-20-43-§11">§ 11</ref>, <ref id="lov-2014-06-20-43-§13">§ 13</ref>, <ref id="lov-2014-06-20-43-§19">§ 19</ref>, <ref id="lov-2014-06-20-43-§21">§ 21</ref>, <ref id="lov-2014-06-20-43-§22">§ 22</ref>, <ref id="lov-2014-06-20-43-§24">§ 24</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2009-12-18-1839</endrer>
+    <endrer type="ref">https://lovdata.no/for/2003-06-20-739</endrer>
+    <endrer type="ref">https://lovdata.no/for/2015-06-22-747</endrer>
+    <rettet/>
+    <journalnummer>2019-0099</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Bivirkningsregisterforskriften</korttittel>
+    <tittel>Forskrift om system for rapportering av bivirkninger av legemidler (bivirkningsregisterforskriften)</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt ved kgl.res. 15. februar 2019 med hjemmel i lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 4 andre punktum, § 6 tredje ledd, § 8 første ledd, § 11 første ledd og andre ledd bokstav i, § 13, § 19 første ledd, § 21, § 22 og § 24. Fremmet av Helse- og omsorgsdepartementet.</marg>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Innledende bestemmelser</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1-1" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k1/p1-1">
+        <pverdi>§ 1-1.</pverdi>
+        <ptittel>Formål</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/1">Forskriften skal sikre at behandlingen av helseopplysninger i Bivirkningsregisteret foretas på en etisk forsvarlig måte, ivaretar den enkeltes personvern og brukes til individets og samfunnets beste.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/2">Registeret skal bidra til sikker og effektiv legemiddelbruk, ved at det fortløpende og systematisk registreres, behandles og analyseres bivirkningsmeldinger og fanges opp bivirkningsinformasjon fra legemiddelbruk så tidlig som mulig.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/3">Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for styring, planlegging og kvalitetsforbedring av legemidler og legemiddelbruk og til forskning.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-2" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k1/p1-2">
+        <pverdi>§ 1-2.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-2/ledd/1">Forskriften gjelder innsamling og annen behandling av bivirkningsinformasjon oppdaget i Norge i Bivirkningsregisteret.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-2/ledd/2">Med bivirkning menes skadelig og utilsiktet virkning av et legemiddel til mennesker. Dette gjelder uavhengig av om legemidlet er brukt i henhold til markedsføringstillatelsen og omfatter også skadelig og utilsiktet virkning ved overdose, feilbruk, misbruk, medisineringsfeil, feildosering, behandling utenfor godkjent bruksområde og yrkeseksponering, jf. legemiddelforskriften § 10-1 bokstav a).</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-3" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k1/p1-3">
+        <pverdi>§ 1-3.</pverdi>
+        <ptittel>Dataansvarlig og databehandler</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-3/ledd/1">Statens legemiddelverk er dataansvarlig for innsamling og behandling av opplysninger i Bivirkningsregisteret.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-3/ledd/2">Den dataansvarlige kan inngå avtale med databehandlere om behandling av opplysninger på vegne av den dataansvarlige. Avtalene skal være skriftlige.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Opplysninger i registeret</ktittel>
+      <paragraf id="/kapittel/2/paragraf/2-1" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k2/p2-1">
+        <pverdi>§ 2-1.</pverdi>
+        <ptittel>Opplysningstyper som kan registreres</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/1">Bivirkningsregisteret kan inneholde relevante helseopplysninger knyttet til bivirkninger eller mistanke om bivirkninger ved bruk av et legemiddel:
+<liste id="/kapittel/2/paragraf/2-1/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/2-1/ledd/1/liste/a/avsnitt/1">Pasientens fødselsnummer eller annen direkte personidentifikator</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-1/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/2-1/ledd/1/liste/b/avsnitt/1">Opplysninger om bivirkningen</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-1/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/2-1/ledd/1/liste/c/avsnitt/1">Opplysninger om det aktuelle legemiddelet og eventuelle andre legemidler pasienten bruker</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-1/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/2/paragraf/2-1/ledd/1/liste/d/avsnitt/1">Andre helseopplysninger av betydning.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/2">Ved mistanke om at bivirkninger er overført til barnet under graviditet, amming eller lignende, skal opplysninger om bivirkningen registreres på barnets identitet.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/3">Når bivirkning meldes fra andre enn pasienten selv, skal melders navn, kontaktopplysninger, institusjon, profesjon og helsepersonellnummer i henhold til Helsepersonellregisteret registreres.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/4">Opplysningene kan registreres og behandles uten samtykke fra den registrerte.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-2" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k2/p2-2">
+        <pverdi>§ 2-2.</pverdi>
+        <ptittel>Rett til å motsette seg behandling av helseopplysninger</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/1">Den registrerte kan motsette seg at helseopplysninger gjøres tilgjengelig fra registeret for formål som er nevnt i § 1-1 tredje ledd. Dette gjelder likevel ikke tilgjengeliggjøring av opplysninger uten direkte personidentifiserende kjennetegn i henhold til statens forpliktelser etter EUs legemiddeldirektiv (direktiv 2001/83/EF). Reservasjonsretten etter første punktum gjelder heller ikke tilgjengeliggjøring for sammenstilling etter § 4-2.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Innmelding av helseopplysninger</ktittel>
+      <paragraf id="/kapittel/3/paragraf/3-1" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k3/p3-1">
+        <pverdi>§ 3-1.</pverdi>
+        <ptittel>Plikt til å melde opplysninger</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/1">Helsepersonell som yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven, spesialisthelsetjenesteloven eller tannhelsetjenesteloven, skal sende melding til Statens legemiddelverk ved mistanke om at bruk av ett eller flere legemidler har medført:
+<liste id="/kapittel/3/paragraf/3-1/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/3-1/ledd/1/liste/a/avsnitt/1">dødelige eller livstruende bivirkninger,</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-1/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/3-1/ledd/1/liste/b/avsnitt/1">bivirkninger som har gitt varige alvorlige følger, eller</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-1/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/3-1/ledd/1/liste/c/avsnitt/1">uventede eller nye bivirkninger.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/2">Helsepersonell som gir vaksiner, skal sende bivirkningsmelding til Folkehelseinstituttet ved Nasjonalt vaksinasjonsregister (SYSVAK) ved mistanke om bivirkning som nevnt i første ledd knyttet til vaksiner, jf. SYSVAK-registerforskriften § 2-1 fjerde ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/3">Virksomheten der tjenestene ytes har ansvar for at pliktene etter første og andre ledd kan oppfylles og skal sørge for at det finnes rutiner som sikrer dette.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-2" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k3/p3-2">
+        <pverdi>§ 3-2.</pverdi>
+        <ptittel>Konkrete opplysninger, rutiner mv.</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/1">Den dataansvarlige fastsetter hvilke konkrete opplysninger etter § 2-1 som skal meldes inn. Den dataansvarlige kan også fastsette tidsfrister og krav om bruk av bestemte klassifikasjonssystemer, kodeverk og standardiserte meldingsformater ved innmeldingen.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Tilgjengeliggjøring og annen behandling av helseopplysninger i registeret</ktittel>
+      <paragraf id="/kapittel/4/paragraf/4-1" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k4/p4-1">
+        <pverdi>§ 4-1.</pverdi>
+        <ptittel>Vilkår for behandling av helseopplysninger</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/1">Helseopplysninger skal behandles i samsvar med personvernforordningen, personopplysningsloven, de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven § 21 flg.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/2">Helseopplysninger i registeret kan bare behandles til formål som fastsatt i § 1-1 med mindre annet følger av lov eller etter samtykke fra den registrerte. Helseopplysninger kan ikke gjøres tilgjengelig for eller brukes i forsikringsøyemed eller av arbeidsgivere selv om den registrerte samtykker.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-2" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k4/p4-2">
+        <pverdi>§ 4-2.</pverdi>
+        <ptittel>Sammenstilling av opplysninger</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/1">Dersom behandlingen oppfyller vilkårene i § 4-1, kan helseopplysninger i registeret sammenstilles med opplysninger i helseregistre som er etablert med hjemmel i helseregisterloven § 8 til § 11, Folkeregisteret og sosioøkonomiske opplysninger i andre offentlige registre. Resultatet av behandlingen skal ikke inneholde større grad av personidentifikasjon enn det som er nødvendig for det aktuelle formålet.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/2">Den registrertes rett til å motsette seg at helseopplysninger tilgjengeliggjøres fra registeret etter § 2-2 gjelder ikke for tilgjengeliggjøring for sammenstilling etter denne bestemmelsen.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/3">Helseopplysninger i helseregistre etter helseregisterloven § 9 bokstav a kan sammenstilles etter første ledd dersom den registrerte samtykker. Det samme gjelder helseopplysninger i helseregistre etter helseregisterloven § 10 dersom den registrerte ikke motsetter seg det.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/4">Helseopplysninger i helseregistre etter helseregisterloven § 9 første ledd bokstav b kan sammenstilles etter første ledd dersom sammenstillingen skjer uten at den dataansvarlige har tilgang til navn, fødselsnummer eller andre direkte personidentifiserende kjennetegn.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/5">Tilgjengeliggjøring av direkte eller indirekte identifiserbare opplysninger fra sammenstillingen reguleres av forskriftens § 4-3 og helseregisterloven § 20.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-3" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k4/p4-3">
+        <pverdi>§ 4-3.</pverdi>
+        <ptittel>Tilgjengeliggjøring av direkte eller indirekte identifiserbare helseopplysninger</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/1">Den dataansvarlige kan tilgjengeliggjøre helseopplysninger i samsvar med lovreglene om taushetsplikt. Opplysningene kan bare gjøres tilgjengelige dersom det ikke strider mot registerets formål, det er ubetenkelig ut fra etiske hensyn og mottakeren kan godtgjøre at behandlingen oppfyller vilkårene i personvernforordningen artikkel 6 og 9.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/2">Den registrerte har rett til å motsette seg at helseopplysninger gjøres tilgjengelig fra registeret for formål som er nevnt i § 1-1 tredje ledd, jf. § 2-2.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/3">Helseopplysninger sammenstilt med helseregistre etter helseregisterloven § 9 bokstav a kan bare gjøres tilgjengelig etter første ledd dersom den registrerte samtykker. Helseopplysninger sammenstilt med helseregistre etter helseregisterloven § 10 kan tilgjengeliggjøres etter første ledd dersom den registrerte ikke motsetter seg det.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-4" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k4/p4-4">
+        <pverdi>§ 4-4.</pverdi>
+        <ptittel>Frister for tilgjengeliggjøring av tilrettelagt statistikk og helseopplysninger</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/1">Den dataansvarlige skal tilgjengeliggjøre tilrettelagt statistikk og helseopplysninger etter dette kapitlet innen 30 virkedager fra mottak av fullstendig søknad. Dersom tilgjengeliggjøringen krever sammenstilling med opplysninger fra andre registre, skal tilgjengeliggjøringen skje innen 60 virkedager fra mottak av fullstendig søknad. Dersom særlige forhold gjør det umulig å tilgjengeliggjøre innen fristen, kan leveransen utsettes. Den dataansvarlige skal i så fall gi et foreløpig svar med informasjon om grunnen til forsinkelsen og sannsynlig tidspunkt for når tilgjengeliggjøringen vil skje.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-5" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k4/p4-5">
+        <pverdi>§ 4-5.</pverdi>
+        <ptittel>Kostnader</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-5/ledd/1">Den dataansvarlige kan kreve betaling for tilrettelegging av statistikk og annen behandling av helseopplysninger etter dette kapitlet. Betalingen kan ikke overstige de faktiske utgiftene ved saksbehandlingen av den konkrete søknaden om data, uttrekk og tilrettelegging av data samt tilgjengeliggjøring av data fra registeret.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-6" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k4/p4-6">
+        <pverdi>§ 4-6.</pverdi>
+        <ptittel>Oversikt over tilgjengeliggjøring av helseopplysninger</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-6/ledd/1">Den dataansvarlige skal føre oversikt over tilgjengeliggjøring av helseopplysninger fra registeret. Oversikten skal vise hvem som har fått helseopplysninger, hvem de har fått helseopplysninger om og hjemmelsgrunnlaget for tilgjengeliggjøringene. Oversikten skal oppbevares i minst 10 år etter tilgjengeliggjøringen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-7" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k4/p4-7">
+        <pverdi>§ 4-7.</pverdi>
+        <ptittel>Bevaring av bivirkningsopplysninger</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-7/ledd/1">Opplysninger i registeret kan oppbevares i ubegrenset tid med mindre annet følger av helseregisterloven § 25 eller annen lovgivning.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k5">
+      <kverdi>Kapittel 5</kverdi>
+      <ktittel>Informasjonssikkerhet</ktittel>
+      <paragraf id="/kapittel/5/paragraf/5-1" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k5/p5-1">
+        <pverdi>§ 5-1.</pverdi>
+        <ptittel>Informasjonssikkerhet</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/1">Den dataansvarlige og databehandlere som den dataansvarlige har inngått avtale med, skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-2" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k5/p5-2">
+        <pverdi>§ 5-2.</pverdi>
+        <ptittel>Kryptering og tilgang til opplysninger</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/1">Fødselsnummer og andre direkte personidentifiserende kjennetegn skal separeres og lagres kryptert og adskilt fra andre registeropplysninger.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/2">Bare personell som utfører tjenester eller arbeid mot registeret og arbeider under dataansvarliges eller databehandlers instruksjonsmyndighet, kan gis tilgang til identifiserende opplysninger i registeret. Tilgangen kan ikke være mer omfattende enn det som er nødvendig for vedkommendes arbeid.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/3">Bare spesielt autoriserte personer som har behov for det i arbeidet, skal ha tilgang til ukrypterte helseopplysninger med direkte personidentifiserende kjennetegn (fødselsnumre eller annen personidentifikasjon).</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/6" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k6">
+      <kverdi>Kapittel 6</kverdi>
+      <ktittel>Ikrafttreden mv.</ktittel>
+      <paragraf id="/kapittel/6/paragraf/6-1" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k6/p6-1">
+        <pverdi>§ 6-1.</pverdi>
+        <ptittel>Ikrafttreden</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/1">Forskriften trer i kraft fra det tidspunktet departementet bestemmer. Departementet kan bestemme at ulike deler av forskriften trer i kraft til ulik tid. Departementet kan herunder bestemme at meldeplikten etter § 3-1 trer i kraft for ulike grupper av helsepersonell til ulik tid.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-2" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-115/k6/p6-2">
+        <pverdi>§ 6-2.</pverdi>
+        <ptittel>Endringer i andre forskrifter</ptittel>
+        <br/>
+        <marg niv="1" id="/kapittel/6/paragraf/6-2/marg/1">1. Fra den tid forskriften trer i kraft gjøres følgende endringer i forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften):
+<br/></marg>
+        <marg niv="1" id="/kapittel/6/paragraf/6-2/marg/2">§ 10-1 bokstav a) skal lyde:</marg>
+        <marg niv="1" id="/kapittel/6/paragraf/6-2/marg/3"><i>bivirkning:</i> skadelig og utilsiktet virkning av et legemiddel. Dette gjelder uavhengig av om legemidlet er brukt i henhold til markedsføringstillatelsen, og omfatter også overdose, feilbruk, misbruk, medisineringsfeil, feildosering, behandling utenfor godkjent bruksområde og yrkeseksponering.
+<br/></marg>
+        <marg niv="1" id="/kapittel/6/paragraf/6-2/marg/4">§ 10-11 oppheves.
+<br/></marg>
+        <marg niv="1" id="/kapittel/6/paragraf/6-2/marg/5">2. Fra den tid forskriften trer i kraft skal § 2-1 fjerde ledd i forskrift 20. juni 2003 nr. 739 om innsamling og behandling av helseopplysninger i Nasjonalt vaksinasjonsregister (SYSVAK-registerforskriften) lyde:</marg>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/1">Bivirkninger eller mistanke om bivirkninger etter vaksinasjon skal meldes til Vaksinasjonsregisteret (SYSVAK), Folkehelseinstituttet. Melding skal sendes ved mistanke om at bruk av en eller flere vaksiner har forårsaket:
+<liste id="/kapittel/6/paragraf/6-2/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/6/paragraf/6-2/ledd/1/liste/a/avsnitt/1">dødelige eller livstruende bivirkninger,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-2/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/6/paragraf/6-2/ledd/1/liste/b/avsnitt/1">bivirkninger som har gitt varige alvorlige følger, eller</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-2/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/6/paragraf/6-2/ledd/1/liste/c/avsnitt/1">uventede eller nye bivirkninger.</avsnitt></liste>
+<marg niv="1" id="/kapittel/6/paragraf/6-2/ledd/1+">Folkehelseinstituttet behandler slike meldinger på vegne av Statens legemiddelverk for oppfyllelse av meldeplikten etter bivirkningsregisterforskriften. Hendelser som kan utgjøre kontraindikasjon mot gjentatt bruk av samme vaksine, skal meldes på samme måte.
+<br/>
+<marg niv="1" id="/kapittel/6/paragraf/6-2/ledd/1++">3. Fra den tid forskriften trer i kraft skal ny § 17c i forskrift 22. juni 2015 nr. 747 om anvendelse av helselover og -forskrifter for Svalbard og Jan Mayen lyde:</marg></marg></ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/2">§ 17c. <i>Meldeplikt for bivirkninger av legemidler</i></ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/3">Meldeplikten etter forskrift 15. februar 2019 nr. 115 om system for rapportering av bivirkninger av legemidler § 3-1 gjelder for leger og tannleger på Svalbard, jf. helseregisterloven § 4 andre punktum.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

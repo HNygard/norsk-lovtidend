@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2015-03-20-230" type="lt" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2015-03-20-230</id>
+    <dato>20.03.2015 nr. 230</dato>
+    <dato type="iso">2015-03-20</dato>
+    <publisert>I 2015 hefte 2 s 295</publisert>
+    <ikraft>20.03.2015</ikraft>
+    <ikraft type="iso">2015-03-20</ikraft>
+    <departement>Samferdselsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1963-06-21-23-§62">L21.06.1963 nr. 23 § 62</ref>,</hjemmel>
+    <rettet/>
+    <journalnummer>2015-0198</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>EETS-forskriften</korttittel>
+    <korttittel>3 Forskrift om samvirkningsevnen mellom elektroniske trafikantbetalingssystemer i Europa (EETS-forskriften) (Nr. 230)</korttittel>
+    <tittel>Forskrift om samvirkningsevnen mellom elektroniske trafikantbetalingssystemer i Europa (EETS-forskriften)</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt ved kgl.res. 20. mars 2015 med hjemmel i lov 21. juni 1963 nr. 23 om vegar (veglova) § 62 og lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 7a femte ledd. Fremmet av Samferdselsdepartementet.
+<br/><b>EØS-henvisninger:</b> EØS-avtalen vedlegg XIII nr. 18b (direktiv 2004/52/EF) og nr. 18ba (vedtak 2009/750/EF).</marg>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k1">
+      <kverdi>Kapitel 1</kverdi>
+      <ktittel>Alminnelige bestemmelser</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1-1" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k1/p1-1">
+        <pverdi>§ 1-1.</pverdi>
+        <ptittel>Formål</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/1">Denne forskriften skal sikre at elektroniske trafikantbetalingssystemer i Norge blir klargjort for å virke sammen med øvrige trafikantbetalingssystemer i Europa.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-2" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k1/p1-2">
+        <pverdi>§ 1-2.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-2/ledd/1">Forskriften gjelder all elektronisk innkreving av trafikantbetaling på offentlig veg der en elektronisk brikke i kjøretøyet leses av.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-2/ledd/2">Forskriften omfatter ikke små, rent lokale trafikantbetalingssystemer der kostnadene for å oppfylle kravene i denne forskriften ikke vil stå i rimelig forhold til fordelene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-3" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k1/p1-3">
+        <pverdi>§ 1-3.</pverdi>
+        <ptittel>Definisjoner</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-3/ledd/1">I denne forskriften menes med
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/a/avsnitt/1"><i>EETS</i>: den europeiske elektroniske trafikantbetalingstjenesten</avsnitt></liste></ledd>
+        <ledd id="/kapittel/1/paragraf/1-3/ledd/2">b) <i>EETS-område:</i> et trafikantbetalingsområde som faller inn under forskriftens virkeområde
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/c/avsnitt/1"><i>EETS-utsteder:</i> en juridisk person som oppfyller kravene i § 2-2, som er registrert som EETS-utsteder i et medlemsland, og som gir en EETS-bruker tilgang til den europeiske elektroniske trafikantbetalingstjenesten</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/d/avsnitt/1"><i>EETS-bruker:</i> en fysisk eller juridisk person som inngår en kontrakt med en EETS-utsteder for å få tilgang til den europeiske elektroniske trafikantbetalingstjenesten</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/e/avsnitt/1"><i>samvirkekomponenter:</i> alle grunnleggende komponenter, grupper av komponenter, delenheter eller fullstendige enheter som inngår i eller er ment for å inngå i den europeiske elektroniske trafikantbetalingstjenesten, og som samvirkeevnen til tjenesten er direkte eller indirekte avhengig av. Samvirkekomponentene kan være både materielle og immaterielle, slik som programvare.</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/f/avsnitt/1"><i>EETS-brikke:</i> en fullstendig samling av maskinvare- og programvarekomponenter som gjør det mulig å yte den europeiske elektroniske trafikantbetalingstjenesten, og som er installert i et kjøretøy for å samle inn, lagre, håndtere og overføre data</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/g/avsnitt/1"><i>trafikantbetalingsinnkrever:</i> en virksomhet som krever inn trafikantbetaling</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/h/avsnitt/1"><i>innkrevingsdata:</i> de opplysningene som den ansvarlige trafikantbetalingsinnkreveren har definert som nødvendige for å fastsette taksten for et kjøretøy og sluttføre trafikantbetalingstransaksjonen</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/i/avsnitt/1"><i>trafikantbetalingsdeklarasjon:</i> informasjon fra en EETS-brikke til en trafikantbetalingsinnkrever som slår fast at kjøretøyet har kjørt i et trafikantbetalingsområde, og som er utarbeidet i et format som EETS-utstederen og trafikantbetalingsinnkreveren er enige om</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/j/avsnitt/1"><i>trafikantbetalingsområde:</i> et område eller et enkeltstående vegprosjekt innenfor EØS der det blir krevd inn trafikantbetaling</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/k/avsnitt/1"><i>trafikantbetalingstransaksjon:</i> en handling eller en rekke handlinger som utføres for å sende trafikantbetalingsdeklarasjon til trafikantbetalingsinnkreveren</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/2/liste/l"><lverdi>l)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/2/liste/l/avsnitt/1"><i>trafikantbetaling:</i> en avgift for bruk av offentlig veg, slik som bompenger med hjemmel i lov 21. juni 1963 nr. 23 om vegar (veglova) § 27 eller vegprising med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 7a.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k2">
+      <kverdi>Kapitel 2</kverdi>
+      <ktittel>Registrering av EETS-utstedere</ktittel>
+      <paragraf id="/kapittel/2/paragraf/2-1" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k2/p2-1">
+        <pverdi>§ 2-1.</pverdi>
+        <ptittel>Vegdirektoratets godkjenningsmyndighet</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/1">Vegdirektoratet har myndighet til å godkjenne norskregistrerte selskap som EETS-utstedere. Vegdirektoratet skal ikke holdes ansvarlig for registrerte EETS-utstederes handlinger.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-2" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k2/p2-2">
+        <pverdi>§ 2-2.</pverdi>
+        <ptittel>Krav for registrering som EETS-utsteder</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/1">Et selskap registrert i Norge kan etter søknad til Vegdirektoratet registreres som EETS-utsteder dersom det
+<liste id="/kapittel/2/paragraf/2-2/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/2-2/ledd/1/liste/a/avsnitt/1">er sertifisert etter EN ISO 9001 eller annen standard av likeverdig kvalitet</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-2/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/2-2/ledd/1/liste/b/avsnitt/1">har teknisk utstyr og den samsvarserklæring eller attesten for samvirkekomponenter det er krav om i vedlegg IV nummer 1 i Kommisjonsavgjørelse 2009/750/EF av 6. oktober 2009 om utformingen av den europeiske trafikantbetalingstjenesten og de tilhørende tekniske aspekter</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-2/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/2-2/ledd/1/liste/c/avsnitt/1">har kompetanse innenfor elektronisk trafikantbetaling eller andre relevante områder</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-2/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/2/paragraf/2-2/ledd/1/liste/d/avsnitt/1">har tilfredsstillende økonomisk evne</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-2/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/2/paragraf/2-2/ledd/1/liste/e/avsnitt/1">har en overordnet risikohåndteringsplan som skal revideres minst annet hvert år</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-2/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/2/paragraf/2-2/ledd/1/liste/f/avsnitt/1">har et godt omdømme.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-3" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k2/p2-3">
+        <pverdi>§ 2-3.</pverdi>
+        <ptittel>Testing av samvirkekomponenter</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-3/ledd/1">Vegdirektoratet kan ikke nekte bruk av eller kreve tester som allerede er gjennomført av CE-merkede samvirkekomponenter i henhold til vedlegg IV i Kommisjonsavgjørelse 2009/750/EF av 6. oktober 2009 om utformingen av den europeiske trafikantbetalingstjenesten og de tilhørende tekniske aspekter.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-4" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k2/p2-4">
+        <pverdi>§ 2-4.</pverdi>
+        <ptittel>Oppfølging av registrerte EETS-utstedere</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-4/ledd/1">EETS-utstedere som er registrert i Norge, skal hvert år rapportere til Vegdirektoratet om de tilfredsstiller kravene i § 2-2 bokstav a, d, e og f og i § 4-2.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-4/ledd/2">Dersom EETS-utstederen ikke tilfredsstiller kravene som er nevnt i første ledd, kan Vegdirektoratet sette inn nødvendige tiltak for å rette opp i situasjonen. Dersom avviket ikke rettes opp, kan Vegdirektoratet frata EETS-utstederen sin status som EETS-utsteder. Vegdirektoratet skal informere ESA om forholdet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-5" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k2/p2-5">
+        <pverdi>§ 2-5.</pverdi>
+        <ptittel>Verneklausuler</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/1">Dersom det er grunn til å tro at CE-merkede samvirkekomponenter ikke oppfyller de grunnleggende tekniske kravene som er nevnt i § 4-6 og § 4-7, skal Vegdirektoratet avgrense bruken, forby bruken eller få samvirkekomponentene trukket fra markedet.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/2">Vegdirektoratet skal melde fra til ESA om hvilke tiltak som er satt inn. I meldingen skal direktoratet redegjøre for grunnen til avviket.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/3">Dersom komponentene ikke oppfyller kravene til samvirkningsevne, skal Vegdirektoratet kreve at produsenten sørger for at kravene blir oppfylt. Vegdirektoratet skal informere ESA om forholdet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-6" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k2/p2-6">
+        <pverdi>§ 2-6.</pverdi>
+        <ptittel>Adskilte roller</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/1">En trafikantbetalingsinnkrever kan ikke bli registrert som EETS-utsteder.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3">
+      <kverdi>Kapitel 3</kverdi>
+      <ktittel>Trafikantbetalingsinnkreverens plikter</ktittel>
+      <paragraf id="/kapittel/3/paragraf/3-1" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3/p3-1">
+        <pverdi>§ 3-1.</pverdi>
+        <ptittel>Ikke-diskriminering av EETS-utstedere</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/1">Trafikantbetalingsinnkreveren skal akseptere EETS-utstedere som oppfyller de alminnelige vilkårene som er fastsatt i områdeerklæringen, jf. § 3-3. Trafikantbetalingsinnkreveren kan likevel sette opp spesifikke kontraktsvilkår, så fremt disse er objektive og ikke-diskriminerende.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/2">Ved uenighet mellom trafikantbetalingsinnkreveren og EETS-utstederen har begge parter rett til å henvise saken til et tvisteløsningsorgan.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-2" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3/p3-2">
+        <pverdi>§ 3-2.</pverdi>
+        <ptittel>Plikt til å benytte EETS-kompatibel teknologi</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/1">Trafikantbetalingsinnkreveren må basere sin innkreving på 5,8 GHz mikrobølgeteknologi som støtter avlesing av brikkestandarden EN 15509.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/2">Trafikantbetalingsinnkreveren skal samarbeide slik at EETS-utstederens databehandlingssystem kan virke sammen med trafikantbetalingsinnkreverens eget system. Trafikantbetalingsinnkreveren må innføre standardiserte grensesnitt som gjør det mulig å
+<liste id="/kapittel/3/paragraf/3-2/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/2/liste/a/avsnitt/1">utveksle data om trafikantbetalingsdeklarasjon mellom EETS-utstedere og trafikantbetalingsinnkrevere, særlig å oversende og godkjenne krav om trafikantbetalingsbetaling basert på trafikantbetalingstransaksjoner</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-2/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/2/liste/b/avsnitt/1">fakturere og foreta oppgjør</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-2/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/2/liste/c/avsnitt/1">utveksle opplysninger for å kunne håndtere unntak</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-2/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/2/liste/d/avsnitt/1">utveksle EETS-svartelister</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-2/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/2/liste/e/avsnitt/1">utveksle sikkerhetselementer og</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-2/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/2/liste/f/avsnitt/1">oversende innkrevingsdata fra trafikantbetalingsinnkrevere til EETS-utstedere.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-3" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3/p3-3">
+        <pverdi>§ 3-3.</pverdi>
+        <ptittel>Områdeerklæring</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/1">Trafikantbetalingsinnkreveren skal utarbeide og ajourføre en EETS-områdeerklæring. Områdeerklæringen skal være offentlig tilgjengelig og inneholde de alminnelige vilkårene EETS-utstederen må oppfylle for å få tilgang til trafikantbetalingsområdet. Erklæringen skal inneholde følgende informasjon:
+<liste id="/kapittel/3/paragraf/3-3/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/1/liste/a/avsnitt/1">faste kostnader pålagt EETS-utstederen basert på trafikantbetalingsinnkreverens kostnader med å sette opp, drive og vedlikeholde et EETS-kompatibelt system</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-3/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/1/liste/b/avsnitt/1">eventuelle krav til EETS-utstederen om bankgarantier eller tilsvarende finansielle instrumenter</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-3/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/1/liste/c/avsnitt/1">prinsipp for trafikantbetalingstransaksjoner</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-3/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/1/liste/d/avsnitt/1">prosedyrer og avtale om tjenestenivå</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-3/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/1/liste/e/avsnitt/1">faktureringsvilkår</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-3/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/1/liste/f/avsnitt/1">betalingsvilkår</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-3/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/1/liste/g/avsnitt/1">forretningsvilkår.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-4" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3/p3-4">
+        <pverdi>§ 3-4.</pverdi>
+        <ptittel>Garantier</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-4/ledd/1">Trafikantbetalingsinnkreveren skal ikke stille krav om finansielle garantier fra EETS-utstederen som overstiger det gjennomsnittlige transaksjonsbeløpet EETS-utstederen håndterer for trafikantbetalingsinnkreveren hver måned.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-4/ledd/2">Gjennomsnittsbeløpet skal beregnes på grunnlag av EETS-utstederens totale transaksjonsbeløp i det foregående året. For nye EETS-utstedere skal det anslås et gjennomsnitt basert på antall avtaler og gjennomsnittlig transaksjonsbeløp per avtale i samsvar med EETS-utstederens forretningsplan.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-5" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3/p3-5">
+        <pverdi>§ 3-5.</pverdi>
+        <ptittel>Testing av bruksegnethet</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-5/ledd/1">Trafikantbetalingsinnkreveren må samarbeide med EETS-utstederen og autoriserte representanter for EETS-utstederen om å gjennomføre tester av bruksegnethet i sitt EETS-område. Bruksegnethet er evnen en samvirkekomponent har til å oppnå og holde vedlike en bestemt grad av ytelse når den er i drift og er integrert i systemet til en trafikantbetalingsinnkrever.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-5/ledd/2">Testene av bruksegnethet skal utføres i samsvar med kravene i vedlegg IV i Kommisjonsavgjørelse 2009/750/EF av 6. oktober 2009 om utformingen av den europeiske trafikantbetalingstjenesten og de tilhørende tekniske aspekter.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-6" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3/p3-6">
+        <pverdi>§ 3-6.</pverdi>
+        <ptittel>Reserveløsning</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-6/ledd/1">Oppstår det en feil i tjenesten som trafikantbetalingsinnkreveren er ansvarlig for skal trafikantbetalingsinnkreveren sørge for at EETS-bruker kan passere med minst mulig forsinkelse og uten at det blir regnet som unndragelse av betalingsplikten.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-7" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3/p3-7">
+        <pverdi>§ 3-7.</pverdi>
+        <ptittel>Klassifisering av kjøretøy</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-7/ledd/1">Trafikantbetalingsinnkreveren kan ikke klassifisere kjøretøyene etter andre parametere enn det som tillates i vedlegg VI i Kommisjonsavgjørelse 2009/750/EF av 6. oktober 2009 om utformingen av den europeiske trafikantbetalingstjenesten og de tilhørende tekniske aspekter.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-7/ledd/2">Dersom EETS-utstederen og trafikantbetalingsinnkreveren klassifiserer kjøretøyet ulikt, gjelder trafikantbetalingsinnkreverens klassifisering hvis det ikke påvises en feil i denne.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-8" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3/p3-8">
+        <pverdi>§ 3-8.</pverdi>
+        <ptittel>Takster</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-8/ledd/1">Taksten som trafikantbetalingsinnkreveren krever fra EETS-brukeren skal ikke overstige tilsvarende takst for lokale brukere.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-9" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k3/p3-9">
+        <pverdi>§ 3-9.</pverdi>
+        <ptittel>Oppfylling av betalingsplikt</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-9/ledd/1">Når en EETS-bruker har betalt et skyldig beløp til sin EETS-utsteder, er betalingsplikten for dette beløpet også oppfylt overfor trafikantbetalingsinnkreveren.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4">
+      <kverdi>Kapitel 4. EET</kverdi>
+      <ktittel>utsteders plikter</ktittel>
+      <paragraf id="/kapittel/4/paragraf/4-1" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-1">
+        <pverdi>§ 4-1.</pverdi>
+        <ptittel>Ikke-diskriminering</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/1">EETS-utsteder kan ikke nekte å inngå avtale med en bruker på bakgrunn av brukerens nasjonalitet, bosted eller hvor kjøretøyet er registrert.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-2" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-2">
+        <pverdi>§ 4-2.</pverdi>
+        <ptittel>Områdedekning</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/1">EETS-utsteder skal innen to år fra registrering inngå kontrakter som dekker alle EETS-områder.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/2">EETS-utsteder skal opprettholde full geografisk dekning. Ved endringer i et EETS-område eller andre endringer som påvirker kravet om full dekning skal EETS-utsteder gjenopprette full dekning i løpet av 6 måneder.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-3" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-3">
+        <pverdi>§ 4-3.</pverdi>
+        <ptittel>Personalisering av EETS-brikke</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/1">EETS-utstederen står ansvarlig for at de faste parameterne som klassifiserer kjøretøyet for å beregne taksten, er riktige, både i EETS-brikken og i EETS-utstederens databehandlingssystem. EETS-utstederen skal yte nødvendige kundetjenester og teknisk støtte for å sikre at EETS-brikken blir personalisert riktig.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/2">Brukeren skal selv kunne stille inn variable parametere som klassifiserer kjøretøyet, ved hjelp av et egnet brukergrensesnitt.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/3">EETS-utstederen skal sørge for at EETS-brikken er personalisert slik at den skal kunne fungere i alle EETS-områder. EETS-brukeren skal derfor ikke behøve å stille inn parameterne på nytt, så fremt ikke kjøretøyets parametere har blitt endret.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-4" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-4">
+        <pverdi>§ 4-4.</pverdi>
+        <ptittel>Uannonserte tester</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/1">Trafikantbetalingsinnkrever kan kreve at EETS-utsteder samarbeider ved uanmeldte og detaljerte tester av innkrevingssystemet, som omfatter kjøretøy som trafikkerer eller nylig har trafikkert hos trafikantbetalingsinnkrever. Omfanget av slike tester skal stå i rimelig forhold til antall passeringer knyttet til EETS-utstederen i trafikantbetalingsinnkrevers område.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-5" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-5">
+        <pverdi>§ 4-5.</pverdi>
+        <ptittel>EETS-utsteders betalingsplikt</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-5/ledd/1">EETS-utstederen skal betale trafikantbetalingsinnkreveren for alle dokumenterte passeringer som er foretatt med en gyldig EETS-brikke utstedt av EETS-utstederen.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-5/ledd/2">Trafikantbetalingsinnkreveren kan også kreve at EETS-utstederen skal betale selv om EETS-brikken ikke er lest av. Dette gjelder de tilfellene der EETS-brukeren beviselig har passert og har en gyldig avtale med EETS-utstederen.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-5/ledd/3">Betalingsplikten gjelder ikke dersom EETS-utstederen i forkant har sendt en svarteliste til trafikantbetalingsinnkreveren hvor EETS-brukerens EETS-brikke gjøres ugyldig.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-5/ledd/4">Trafikantbetalingsinnkreveren og EETS-utstederen skal komme til enighet om antall oppføringer i svartelisten, formatet på den og hvor ofte den skal oppdateres.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-6" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-6">
+        <pverdi>§ 4-6.</pverdi>
+        <ptittel>Krav til EETS-brikke</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-6/ledd/1">EETS-utsteder plikter å tilby en EETS-brikke som tilfredsstiller kravene i vedlegg III i Kommisjonsavgjørelse 2009/750/EF av 6. oktober 2009 om utformingen av den europeiske trafikantbetalingstjenesten og de tilhørende tekniske aspekter.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-7" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-7">
+        <pverdi>§ 4-7.</pverdi>
+        <ptittel>Krav til grensesnitt</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-7/ledd/1">EETS-utsteder plikter å tilby standardiserte administrative grensesnitt i henhold til vedlegg II i Kommisjonsavgjørelse 2009/750/EF av 6. oktober 2009 om utformingen av den europeiske trafikantbetalingstjenesten og de tilhørende tekniske aspekter.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-8" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-8">
+        <pverdi>§ 4-8.</pverdi>
+        <ptittel>Personvern</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-8/ledd/1">Når det inngås en avtale med en EETS-bruker, skal EETS-utstederen gi tilstrekkelig informasjon om hvordan personopplysningene blir behandlet, og hvilke rettigheter EETS-brukeren har i samsvar med relevant personvernlovgivning.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-9" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-9">
+        <pverdi>§ 4-9.</pverdi>
+        <ptittel>Offentliggjøring av avtalevilkår</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-9/ledd/1">EETS-utsteders avtalevilkår mot EETS-bruker må være offentlig tilgjengelig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-10" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-10">
+        <pverdi>§ 4-10.</pverdi>
+        <ptittel>Informasjon om områdedekning</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-10/ledd/1">EETS-utsteder må informere EETS-bruker om sin geografiske dekning av EETS-områder og endringer i denne dekningen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-11" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-11">
+        <pverdi>§ 4-11.</pverdi>
+        <ptittel>Spesifisert faktura</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-11/ledd/1">I en faktura til en EETS-bruker skal EETS-utstederen skille tydelig mellom hva som er passeringsavgiften, og hva som er EETS-utstederens egne gebyrer.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-11/ledd/2">EETS-utstederen må som et minimum spesifisere tidspunkt, sted og skyldig passeringsavgift. Dette kravet kan fravikes dersom EETS-brukeren ber om det.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-12" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-12">
+        <pverdi>§ 4-12.</pverdi>
+        <ptittel>Rett til informasjon om manglende betaling</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-12/ledd/1">EETS-utstederen skal informere EETS-brukeren om manglende betalinger knyttet til EETS-brukerens konto. Hvis det er mulig, skal EETS-brukeren få mulighet til å rette opp i forholdet før straffereaksjoner iverksettes eller avtalen blir sagt opp.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-13" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k4/p4-13">
+        <pverdi>§ 4-13.</pverdi>
+        <ptittel>Håndheving</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-13/ledd/1">Trafikantbetalingsinnkreveren kan kreve at EETS-utsteder samarbeider om håndheving og inndrivelse av krav.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k5">
+      <kverdi>Kapitel 5. EET</kverdi>
+      <ktittel>brukerens plikter</ktittel>
+      <paragraf id="/kapittel/5/paragraf/5-1" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k5/p5-1">
+        <pverdi>§ 5-1.</pverdi>
+        <ptittel>Krav til riktig bruk</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/1">EETS-brukeren skal påse
+<liste id="/kapittel/5/paragraf/5-1/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/5/paragraf/5-1/ledd/1/liste/a/avsnitt/1">at alle bruker- og kjøretøydata som oppgis til EETS-utstederen, er korrekte</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-1/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/5/paragraf/5-1/ledd/1/liste/b/avsnitt/1">at EETS-brikken fungerer og er i drift når kjøretøyet passerer et EETS-område, og</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-1/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/5/paragraf/5-1/ledd/1/liste/c/avsnitt/1">at EETS-brikken brukes i samsvar med EETS-utstederens instrukser.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/6" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k6">
+      <kverdi>Kapitel 6</kverdi>
+      <ktittel>Administrative bestemmelser</ktittel>
+      <paragraf id="/kapittel/6/paragraf/6-1" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k6/p6-1">
+        <pverdi>§ 6-1.</pverdi>
+        <ptittel>EETS-register</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/1">Vegdirektoratet skal føre et elektronisk register over EETS- områder og EETS-utstedere. Vegdirektoratet skal sørge for at alle opplysninger i registeret er oppdaterte og nøyaktige. Registeret skal være offentlig tilgjengelig.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/2">Ved utgangen av hvert kalenderår skal Vegdirektoratet på elektronisk vis sende registeret til ESA og medlemslandene.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/3">Registeret skal inneholde opplysninger om:
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/a/avsnitt/1">norske trafikantbetalingsinnkrevere som omfattes av denne forskrift</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/b/avsnitt/1">innkrevingsteknologi</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/c/avsnitt/1">innkrevingsdata</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/d/avsnitt/1">trafikantbetalingsinnkrevernes områdeerklæringer</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/e/avsnitt/1">hvilke EETS-utstedere som har kontrakter med norske trafikantbetalingsinnkrevere</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/f/avsnitt/1">registrerte norske EETS-utstedere</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/g/avsnitt/1">konklusjon fra revisjon av norske EETS-utstedere.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-2" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k6/p6-2">
+        <pverdi>§ 6-2.</pverdi>
+        <ptittel>Tvisteløsningsorgan</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/1">Samferdselsdepartementet skal utnevne et tvisteløsningsorgan som kan mekle mellom trafikantbetalingsinnkreveren og EETS-utstederen ved uenighet om hvordan en avtale skal utformes eller tolkes.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/2">Tvisteløsningsorganet skal særlig ha fullmakt til å undersøke om kontraktsvilkårene innebærer en diskriminering av EETS-utstedere, og om vilkårene står i rimelig forhold til kostnader og risiko for partene i kontrakten.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/3">Samferdselsdepartementet skal sikre at tvisteløsningsorganet i sin juridiske og organisatoriske struktur er uavhengig av de økonomiske interessene til trafikantbetalingsinnkreverne og EETS-utstederne.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/4">Tvisteløsningsorganene i de ulike medlemslandene skal utveksle opplysninger om sitt arbeid, sine retningslinjer og sine metoder.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-3" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k6/p6-3">
+        <pverdi>§ 6-3.</pverdi>
+        <ptittel>Framgangsmåte for mekling</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-3/ledd/1">Tvisteløsningsorganet skal opplyse partene om det har mottatt alle dokumentene som er nødvendige for meklingen, innen en måned etter anmodningen om å gripe inn.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-3/ledd/2">Tvisteløsningsorganet skal uttale seg om en tvist senest seks måneder etter anmodningen om å gripe inn.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-3/ledd/3">Tvisteløsningsorganet kan be om relevante opplysninger fra trafikantbetalingsinnkreveren, EETS-utstederen og eventuelle tredjeparter som medvirker til den europeiske elektroniske trafikantbetalingstjenesten.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-4" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k6/p6-4">
+        <pverdi>§ 6-4.</pverdi>
+        <ptittel>Melding om bemyndiget organ</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-4/ledd/1">Vegdirektoratet skal melde til ESA og andre medlemsland hvilke norske bemyndigede organer som har fullmakt til å sertifisere EETS-utstedere i samsvar med kravene i vedlegg V i Kommisjonsavgjørelse 2009/750/EF av 6. oktober 2009 om utformingen av den europeiske trafikantbetalingstjenesten og de tilhørende tekniske aspekter.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-4/ledd/2">Dersom et bemyndiget organ ikke lenger møter disse kravene, skal Vegdirektoratet trekke fullmakten tilbake. Vegdirektoratet skal melde om dette til ESA og medlemslandene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-5" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k6/p6-5">
+        <pverdi>§ 6-5.</pverdi>
+        <ptittel>Forsøkssystem</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-5/ledd/1">For å sikre teknisk utvikling av den europeiske elektroniske trafikantbetalingstjenesten kan Vegdirektoratet gi midlertidig godkjenning til forsøkssystemer for innkreving av trafikantbetaling. Forsøkssystemet skal omfatte ny teknologi eller nye konsept som ikke er i samsvar med en eller flere av bestemmelsene i denne forskriften. Forsøkssystemet skal prøves ut på avgrensede deler av et trafikantbetalingsområde og parallelt med det systemet som samsvarer med den europeiske elektroniske trafikantbetalingstjenesten.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-5/ledd/2">En slik godkjenning må gis på forhånd av ESA. Den første godkjenningsperioden skal ikke vare lenger enn tre år.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-5/ledd/3">Det skal ikke kreves at en EETS-utsteder tar del i slike forsøkssystemer for trafikantbetaling.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-6" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-230/k6/p6-6">
+        <pverdi>§ 6-6.</pverdi>
+        <ptittel>Ikrafttredelse</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-6/ledd/1">Denne forskriften trer i kraft straks.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2018-12-05-1808" type="lt" url="https://lovdata.no/lovtidend/forskrift/2018-12-05-1808">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2018-12-05-1808</id>
+    <dato>05.12.2018 nr. 1808</dato>
+    <dato type="iso">2018-12-05</dato>
+    <ikraft>05.12.2018</ikraft>
+    <ikraft type="iso">2018-12-05</ikraft>
+    <departement>Arbeids- og sosialdepartementet</departement>
+    <departement>Klima- og miljødepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1976-06-11-79-§4">L11.06.1976 nr. 79 § 4</ref>, <ref id="lov-1976-06-11-79-§8a">§ 8a</ref>, <ref id="for-1977-08-05-2">F05.08.1977 nr. 2</ref>, <ref id="for-1990-09-07">F07.09.1990 nr.</ref>730, <ref id="lov-2005-06-17-62-§4-5">L17.06.2005 nr. 62 § 4-5</ref>, <ref id="lov-2005-06-17-62-§5-4">§ 5-4</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2017-04-18-48</endrer>
+    <rettet/>
+    <journalnummer>2018-1088</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i biocidforskriften</korttittel>
+    <tittel>Forskrift om endring i forskrift om biocider (Biocidforskriften)</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Miljødirektoratet og Arbeidstilsynet 5. desember 2018 med hjemmel i lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4 og § 8a, jf. forskrift 5. august 1977 nr. 2 om gjennomføring av lov om kontroll med produkter og forbrukertjenester og delegeringsvedtak 7. september 1990 nr. 730 og lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 4-5 syvende ledd og § 5-4 tredje ledd.
+<br/> <b>EØS-henvisninger:</b> EØS-avtalen vedlegg II kap. XV nr. 12zzzzzm (forordning (EU) 2018/1129), nr. 12zzzzzn (forordning (EU) 2018/1130) og nr. 12zzzzzo (forordning (EU) 2018/1131).</marg>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2018-12-05-1808/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 18. april 2017 nr. 480 om biocider (Biocidforskriften) gjøres følgende endring:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/1/marg/1">Følgende stoff skal tilføyes nederst i tabellen i vedlegg 2:</marg></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="6" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="16*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="12*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="12*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="12*"/>
+          <colspec colname="5" align="center" valign="top" colwidth="12*"/>
+          <colspec colname="6" align="center" valign="top" colwidth="12*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Aktivt stoff</i>
+              </entry>
+              <entry colname="2">
+                <i>CAS-nr.</i>
+              </entry>
+              <entry colname="3">
+                <i>Produkttype(r)</i>
+              </entry>
+              <entry colname="4">
+                <i>Frist for søknad om produkt-</i>
+                <br/>
+                <i>godkjenning</i>
+                <fref id="1">1</fref>
+              </entry>
+              <entry colname="5">
+                <i>Godkjennings-</i>
+                <br/>
+                <i>vedtak</i>
+                <fref id="2">2</fref>
+              </entry>
+              <entry colname="6">
+                <i>Inntatt i EØS-avtalen vedlegg II kapittel XV</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="6" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="16*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="12*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="12*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="12*"/>
+          <colspec colname="5" align="center" valign="top" colwidth="12*"/>
+          <colspec colname="6" align="center" valign="top" colwidth="12*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Acetamiprid </entry>
+              <entry colname="2">135410-20-7 </entry>
+              <entry colname="3">18 </entry>
+              <entry colname="4">01.02.2020 </entry>
+              <entry colname="5">(EU) 2018/1129 </entry>
+              <entry colname="6">12zzzzzm </entry>
+            </row>
+            <row>
+              <entry colname="1">Cypermetrin </entry>
+              <entry colname="2">52315-07-8 </entry>
+              <entry colname="3">18 </entry>
+              <entry colname="4">01.06.2020 </entry>
+              <entry colname="5">(EU) 2018/1130 </entry>
+              <entry colname="6">12zzzzzn </entry>
+            </row>
+            <row>
+              <entry colname="1">Penflufen </entry>
+              <entry colname="2">494793-67-8 </entry>
+              <entry colname="3">8 </entry>
+              <entry colname="4">01.02.2019 </entry>
+              <entry colname="5">(EU) 2018/1131 </entry>
+              <entry colname="6">12zzzzzo </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2018-12-05-1808/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Forskriften trer i kraft straks.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2014-06-30-922" type="lt" url="https://lovdata.no/lovtidend/forskrift/2014-06-30-922">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2014-06-30-922</id>
+    <dato>30.06.2014 nr. 922</dato>
+    <dato type="iso">2014-06-30</dato>
+    <publisert>I 2014 hefte 10 s 1464</publisert>
+    <ikraft>01.07.2014</ikraft>
+    <ikraft type="iso">2014-07-01</ikraft>
+    <departement>Nærings- og fiskeridepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2007-02-16-9-§6">L16.02.2007 nr. 9 § 6</ref>, <ref id="lov-2007-02-16-9-§21">§ 21</ref>, <ref id="lov-2007-02-16-9-§22">§ 22</ref>, <ref id="for-2007-02-16-171">F16.02.2007 nr. 171</ref>, <ref id="for-2007-05-31">F31.05.2007</ref>nr. 590</hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2005-01-01-8</endrer>
+    <rettet/>
+    <journalnummer>2014-0652</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om arbeidsmiljø mv. på skip</korttittel>
+    <korttittel>4 Endr. i forskrift om arbeidsmiljø, sikkerhet og helse for de som har sitt arbeid om bord på skip (Nr. 922)</korttittel>
+    <tittel>Forskrift om endring i forskrift om arbeidsmiljø, sikkerhet og helse for de som har sitt arbeid om bord på skip</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Sjøfartsdirektoratet 30. juni 2014 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 6, § 21 og § 22, jf. delegeringsvedtak 16. februar 2007 nr. 171 og delegeringsvedtak 31. mai 2007 nr. 590.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2014-06-30-922/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 1. januar 2005 nr. 8 om arbeidsmiljø, sikkerhet og helse for de som har sitt arbeid om bord på skip gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">Kapittel 15 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/2/avsnitt/1">Kapittel 15. Bestemmelser om vern mot støy</avsnitt>
+      <avsnitt id="/kapittel/i/ledd/2/avsnitt/2">§ 15-1. <i>Definisjoner</i></avsnitt>
+      <liste id="/kapittel/i/ledd/2/liste/1">
+        <lverdi>1.</lverdi>
+        <avsnitt id="/kapittel/i/ledd/2/liste/1/avsnitt/1"><i>«A-veid ekvivalent kontinuerlig lydnivå L<sub>Aekv</sub> (T)»:</i>A-veid lydtrykknivå av en kontinuerlig, konstant lyd som i måletiden T har samme midlere lydtrykk i kvadrat som en lyd som skal vurderes, og som varierer med tiden. Det angis i desibel A (dB(A)) og er gitt ved følgende ligning:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/2/liste/1/avsnitt/1/marg/1"><img src="/ltavd1/filer/grafikk/sf-20140630-0922-01-01.png" alt="ikon"/><br/></marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/1/avsnitt/1/marg/2">der: T = måletid</marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/1/avsnitt/1/marg/3">p<sub>a</sub> (t) = A-veid momentant lydtrykk</marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/1/avsnitt/1/marg/4">p<sub>0</sub> = 20 μPa (referansenivået).</marg></avsnitt>
+      </liste>
+      <liste id="/kapittel/i/ledd/2/liste/2">
+        <lverdi>2.</lverdi>
+        <avsnitt id="/kapittel/i/ledd/2/liste/2/avsnitt/1"><i>«A-veid lydtrykknivå eller støynivå»:</i> Verdi målt av en lydnivåmåler der frekvensresponsen er veid etter veiekurve A (se IEC 61672-1).</avsnitt>
+      </liste>
+      <liste id="/kapittel/i/ledd/2/liste/3">
+        <lverdi>3.</lverdi>
+        <avsnitt id="/kapittel/i/ledd/2/liste/3/avsnitt/1"><i>«Brovinger»:</i> De deler av fartøyets kommandobro som strekker seg ut mot fartøyssidene.</avsnitt>
+      </liste>
+      <liste id="/kapittel/i/ledd/2/liste/4">
+        <lverdi>4.</lverdi>
+        <avsnitt id="/kapittel/i/ledd/2/liste/4/avsnitt/1"><i>«C-veid ekvivalent kontinuerlig lydnivå L<sub>Cekv</sub> (T)»:</i>C-veid lydtrykknivå av en kontinuerlig, konstant lyd som i måletiden T har samme midlere lydtrykk i kvadrat som en lyd som skal vurderes, og som varierer over tid. Det angis i desibel C (dB(C)) og er gitt ved følgende ligning:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/2/liste/4/avsnitt/1/marg/5"><img src="/ltavd1/filer/grafikk/sf-20140630-0922-02-01.png" alt="ikon"/><br/></marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/4/avsnitt/1/marg/6">der: T = måletid</marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/4/avsnitt/1/marg/7">p<sub>c</sub> (t) = C-veid momentant lydtrykk</marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/4/avsnitt/1/marg/8">p<sub>0</sub> = 20 μPa (referansenivået).</marg></avsnitt>
+      </liste>
+      <liste id="/kapittel/i/ledd/2/liste/5">
+        <lverdi>5.</lverdi>
+        <avsnitt id="/kapittel/i/ledd/2/liste/5/avsnitt/1"><i>«C-veid lydtrykknivå eller støynivå»</i>: Verdi målt av en lydnivåmåler der frekvensresponsen er veid etter veiekurve C (se IEC 61672-1 (2002-05)).</avsnitt>
+      </liste>
+      <liste id="/kapittel/i/ledd/2/liste/6">
+        <lverdi>6.</lverdi>
+        <avsnitt id="/kapittel/i/ledd/2/liste/6/avsnitt/1"><i>«C-veid maksimalt lydnivå, L<sub>Cmaks</sub> »:</i> C-veid maksimalt momentant lydtrykknivå. Det uttrykkes i desibel C (dB(C)) og er gitt ved følgende ligning:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/2/liste/6/avsnitt/1/marg/9"><img src="/ltavd1/filer/grafikk/sf-20140630-0922-03-01.png" alt="ikon"/><br/></marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/6/avsnitt/1/marg/10">der: p<sub>maks</sub> = C-veid maksimalt momentant lydtrykk</marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/6/avsnitt/1/marg/11">p<sub>0</sub> = 20 μPa (referansenivået).</marg></avsnitt>
+      </liste>
+      <liste id="/kapittel/i/ledd/2/liste/7">
+        <lverdi>7.</lverdi>
+        <avsnitt id="/kapittel/i/ledd/2/liste/7/avsnitt/1"><i>«Daglig støyeksponeringsnivå (L<sub>eks</sub><sub>,</sub><sub>8t)</sub> (dB(A) re. 20 μPa)»:</i> Tidsveid gjennomsnitt av støynivåene for en nominell åttetimers arbeidsdag etter definisjonen i internasjonal standard ISO 1999:1990 punkt 3.6. Dette omfatter all støy på arbeidsplassen, herunder impulsstøy.</avsnitt>
+      </liste>
+      <liste id="/kapittel/i/ledd/2/liste/8">
+        <lverdi>8.</lverdi>
+        <avsnitt id="/kapittel/i/ledd/2/liste/8/avsnitt/1"><i>«Daglig støyeksponeringsnivå (L<sub>eks</sub><sub>,</sub><sub>24t)</sub>»</i>representerer det ekvivalente støyeksponeringsnivået for en periode på 24 timer.
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/2/liste/8/avsnitt/1/marg/12">L<sub>eks</sub><sub>,</sub><sub>24t</sub> = L<sub>Aekv,T</sub> + 10log(T/T<sub>0)</sub>
+<br/></marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/8/avsnitt/1/marg/13">der: T er effektiv varighet om bord</marg>
+<marg niv="2" id="/kapittel/i/ledd/2/liste/8/avsnitt/1/marg/14">T<sub>0</sub> er referansevarigheten 24 timer.</marg></avsnitt>
+      </liste>
+      <ledd id="/kapittel/i/ledd/3">Det totale ekvivalente kontinuerlige A-veide lydtrykknivået (L<sub>Aekv</sub> T) skal beregnes ved å bruke de forskjellige støynivåene (L<sub>Aekv</sub><sub/>, T<sub>i)</sub>og tilknyttede tidsperioder med følgende ligning:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/3/marg/1"><img src="/ltavd1/filer/grafikk/sf-20140630-0922-04-01.png" alt="ikon"/><br/></marg>
+<marg niv="2" id="/kapittel/i/ledd/3/marg/2">der:</marg>
+<marg niv="2" id="/kapittel/i/ledd/3/marg/3">L<sub>Aekv</sub><sub>,T</sub><sub>i</sub> er det ekvivalente kontinuerlige A-veide lydtrykknivået, i desibel, midlet over tidsrommet T<sub>i</sub>,
+<br/></marg>
+<marg niv="1" id="/kapittel/i/ledd/3/marg/4"><img src="/ltavd1/filer/grafikk/sf-20140630-0922-05-01.png" alt="ikon"/></marg></ledd>
+      <ledd id="/kapittel/i/ledd/4">L<sub>eks</sub><sub>,</sub><sub>24t</sub> = L<sub>Aekv</sub><sub>,</sub><sub>24t</sub> når de som har sitt arbeid om bord, befinner seg på fartøyet i en periode på 24 timer.
+<liste id="/kapittel/i/ledd/4/liste/9"><lverdi>9.</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/9/avsnitt/1">«<i>Dynamisk støttet fartøy</i>»: Fartøy som kan operere på eller over vannoverflaten og som har egenskaper som skiller seg fra konvensjonelle deplasementsfartøy. Innenfor nevnte type, et fartøy som oppfyller en av følgende egenskaper:</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/5">1. Vekten, eller en betydelig del av den, er balansert i én operasjonsmodus av andre krefter enn hydrostatiske krefter.</ledd>
+      <ledd id="/kapittel/i/ledd/6">2. Fartøyet kan operere ved slike hastigheter at funksjonen
+<img src="/ltavd1/filer/grafikk/sf-20140630-0922-06-01.png" alt="ikon"/> er lik eller større enn 0,9, der «v» er maksimal hastighet, «L» er vannlinjelengden og «g» er akselerasjonen forårsaket av tyngdekraft, alt i konsistente enheter.
+<liste id="/kapittel/i/ledd/6/liste/10"><lverdi>10.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/10/avsnitt/1"><i>«Grenseverdier»:</i> Verdier for eksponering som krever øyeblikkelige tiltak hvis de overskrides.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/11"><lverdi>11.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/11/avsnitt/1"><i>«Hurtiggående fartøy»:</i> Fartøy som definert i Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs regel X/1.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/12"><lverdi>12.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/12/avsnitt/1"><i>«Hørselstap»</i>: Hørselstap evalueres i relasjon til en auditiv referanseverdi definert konvensjonelt i ISO-standard 389-1 (1998). Hørselstapet tilsvarer differansen mellom den auditive terskelverdien til personen som undersøkes, og den auditive referanseverdien.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/13"><lverdi>13.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/13/avsnitt/1">«<i>Hørselsvern</i>»: Personlig verneutstyr som brukes for å redusere støynivået som når ørene. Passive støyreduserende hodetelefoner blokkerer støy fra å nå øret. Aktive støyreduserende hodetelefoner genererer et signal som nøytraliserer romstøyen inne i hodetelefonene.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/14"><lverdi>14.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/14/avsnitt/1"><i>«Impulsstøy»:</i> Lyd med høy lydstyrke og svært kort varighet.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/15"><lverdi>15.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/15/avsnitt/1">«<i>Integrerende lydnivåmåler</i>»: En lydnivåmåler utformet for eller tilpasset til å måle nivået til et tidsmidlet, midlere A-veid og C-veid lydtrykk i kvadrat.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/16"><lverdi>16.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/16/avsnitt/1"><i>«Kontinuerlig bemannede rom»:</i> Rom der de som har sitt arbeid om bord, må oppholde seg kontinuerlig eller over lengre tid ved normal drift.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/17"><lverdi>17.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/17/avsnitt/1"><i>«Lyd»:</i> Energi som forplanter seg via trykkbølger i luft eller andre materialer, og som objektivt forårsaker oppfattelsen av å høre, det vil si hørselssansen.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/18"><lverdi>18.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/18/avsnitt/1">«<i>Lydtrykknivå L<sub>p</sub></i> »: Lydtrykknivå angitt i desibel (dB), av en lyd eller støy gitt ved følgende ligning:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/6/liste/18/avsnitt/1/marg/1"><img src="/ltavd1/filer/grafikk/sf-20140630-0922-07-01.png" alt="ikon"/><br/></marg>
+<marg niv="2" id="/kapittel/i/ledd/6/liste/18/avsnitt/1/marg/2">der: p = lydtrykk, i pascal</marg>
+<marg niv="2" id="/kapittel/i/ledd/6/liste/18/avsnitt/1/marg/3">p<sub>0</sub> = 20 μPa (referansenivået).</marg></avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/19"><lverdi>19.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/19/avsnitt/1"><i>«Maksimalt lydtrykk (p<sub>maks</sub> )»:</i> Høyeste verdi av det C-frekvensveide momentane lydtrykket.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/20"><lverdi>20.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/20/avsnitt/1">«<i>Maskinrom</i>»: Alle rom som inneholder damp- eller forbrenningsmotormaskineri, pumper, luftkompressorer, dampkjeler, brennoljeenheter, større elektrisk maskineri, oljefyllingsstasjoner, trustere, maskineri til kjøleanlegg, stabilisatorer, styremaskiner, ventilasjon, klimaanlegg, mv., samt sjakter til slike rom.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/21"><lverdi>21.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/21/avsnitt/1">«<i>Mudringsfartøy</i>»: Fartøy som foretar operasjoner for utgraving av bunnsediment, der utgravingsutstyr er permanent installert på fartøyet.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/22"><lverdi>22.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/22/avsnitt/1">«<i>Pålerammingsfartøy</i>»: Fartøy som foretar operasjoner for å installere påler i havbunnen.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/23"><lverdi>23.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/23/avsnitt/1"><i>«Rom i innredningen»:</i> Lugarer, kontorer (for utføring av arbeid relatert til fartøyet), sykerom, messer, rekreasjonsrom (slik som salong, røykerom, kino, treningsrom, bibliotek og hobby- og spillrom) og åpne rekreasjonsområder som skal benyttes av de som har sitt arbeid om bord.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/24"><lverdi>24.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/24/avsnitt/1"><i>«Støy»:</i> I kapittelet her betyr støy all lyd som kan resultere i hørselsnedsettelse, eller som kan være skadelig for helsen eller på annen måte farlig eller forstyrrende.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/25"><lverdi>25.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/25/avsnitt/1"><i>«Støynivå»</i>: Se A-veid lydtrykknivå i nr. 2 i paragrafen her.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/26"><lverdi>26.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/26/avsnitt/1">«<i>Støyindusert hørselstap</i>»: Hørselstap som stammer fra nerveceller i ørets sneglehus, og som skyldes lydpåvirkning.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/27"><lverdi>27.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/27/avsnitt/1"><i>«Tiltaksverdier»:</i> Verdier for eksponering som krever iverksetting av tiltak for å redusere helserisikoen og uheldig belastning til et minimum.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/28"><lverdi>28.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/28/avsnitt/1">«<i>Tjenestestasjoner</i>»: Rom der hovednavigeringsutstyret, fartøyets radio eller nødstrømkilden befinner seg, eller der brannregistrerings- eller brannkontrollutstyret er sentralisert, samt rom som brukes til bysser, hovedpentrier, lagerrom (unntatt isolerte pentrier og skap), rom til post og oppbevaring av verdisaker, andre verksteder enn de som utgjør en del av maskinrommene, og lignende rom.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/29"><lverdi>29.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/29/avsnitt/1"><i>«Ukentlig støyeksponeringsnivå (L<sub>eks</sub><sub>,</sub><sub>8t</sub> )»:</i>Tidsveid gjennomsnitt av det daglige støyeksponeringsnivået for en nominell uke på fem arbeidsdager à åtte timer som definert i internasjonal standard ISO 1999:1990 punkt 3.6 (merknad 2).</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/30"><lverdi>30.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/30/avsnitt/1">«<i>Veid lydreduksjonstall, R<sub>w</sub></i> »: En enkelt tallverdi angitt i desibel (dB) som beskriver den samlede lydisoleringseffekten (i laboratorium) som vegger, dører eller gulv gir (se ISO 717-1:1997 som endret ved 1:2006).</avsnitt></liste></ledd>
+      <avsnitt id="/kapittel/i/ledd/6/liste/30/avsnitt/1.1">§ 15-2. <i>Systematisk forebygging av støy</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/7">(1) Arbeidet skal planlegges og gjennomføres på en slik måte at de som har sitt arbeid om bord, beskyttes mot støy. Tiltak skal gjøres ved kilden så langt dette er mulig med hensyn til den tekniske utviklingen, eller ved at støyeksponeringen på en annen måte begrenses i varighet og intensitet.</ledd>
+      <ledd id="/kapittel/i/ledd/8">(2) Tekniske innretninger skal oppstilles, brukes og vedlikeholdes på en slik måte at unødig støy ikke oppstår.</ledd>
+      <ledd id="/kapittel/i/ledd/9">(3) Risiko som skyldes støyeksponering skal reduseres på grunnlag av de generelle prinsippene for forebyggende arbeid i kapittel 2 i forskriften her, og det skal særlig tas hensyn til
+<liste id="/kapittel/i/ledd/9/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/a/avsnitt/1">andre arbeidsmetoder som gir redusert støyeksponering,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/9/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/b/avsnitt/1">valg av hensiktsmessig arbeidsutstyr som gir fra seg minst mulig støy med tanke på det arbeidet som skal utføres, herunder muligheten til å gi de som har sitt arbeid om bord, tilgang til arbeidsutstyr som har redusert støyeksponering som mål eller virkning,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/9/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/c/avsnitt/1">utforming og tilrettelegging av arbeidsplasser og arbeidssteder,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/9/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/d/avsnitt/1">relevant informasjon og opplæring for å lære de som har sitt arbeid om bord å bruke arbeidsutstyret på riktig måte med sikte på å redusere deres støyeksponering til lavest mulig nivå,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/9/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/e/avsnitt/1">teknisk støyreduksjon gjennom</avsnitt><liste id="/kapittel/i/ledd/9/liste/e.i"><lverdi>i)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/e.i/avsnitt/1">reduksjon av luftstøy, for eksempel ved hjelp av skjermer, innbygging eller lydabsorberende materialer, og</avsnitt></liste><liste id="/kapittel/i/ledd/9/liste/e.ii"><lverdi>ii)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/e.ii/avsnitt/1">reduksjon av strukturstøy, herunder gjennom demping eller isolering,</avsnitt></liste></liste>
+<liste id="/kapittel/i/ledd/9/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/f/avsnitt/1">hensiktsmessige vedlikeholdsplaner for arbeidsutstyr, arbeidsplassen og eventuelle arbeidsplassystemer,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/9/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/g/avsnitt/1">støyreduksjon gjennom tilrettelegging av arbeid ved hjelp av</avsnitt><liste id="/kapittel/i/ledd/9/liste/g.i"><lverdi>i)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/g.i/avsnitt/1">begrensning av støyeksponeringstid og -intensitet, og</avsnitt></liste><liste id="/kapittel/i/ledd/9/liste/g.ii"><lverdi>ii)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/g.ii/avsnitt/1">arbeidsplaner med tilstrekkelige hvileperioder.</avsnitt></liste></liste></ledd>
+      <avsnitt id="/kapittel/i/ledd/9/liste/g.ii/avsnitt/1.1">§ 15-3. <i>Risikovurderinger</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/10">(1) Det skal gjennomføres risikovurderinger av de støynivåene som de som har sitt arbeid om bord, blir utsatt for. Kravene i kapittelet her om støygrenser, støymålinger, målemetoder, måleutstyr, og personell som skal utføre målingene, er en del av denne risikovurderingen. Risikovurderingene skal oppdateres jevnlig, og nye risikovurderinger skal alltid utføres hvis det har skjedd vesentlige endringer som har innvirkning på støyeksponeringen, og når resultater fra helseovervåking viser at det er nødvendig.</ledd>
+      <ledd id="/kapittel/i/ledd/11">(2) Risikovurderingene skal særlig ta hensyn til
+<liste id="/kapittel/i/ledd/11/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/a/avsnitt/1">støyeksponeringens nivå, type og varighet, herunder all eksponering for impulsstøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/11/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/b/avsnitt/1">de grenseverdiene og tiltaksverdiene for støyeksponering som er fastsatt i § 15-18,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/11/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/c/avsnitt/1">enhver virkning på helse og sikkerhet for særlig utsatte risikogrupper blant de som har sitt arbeid om bord,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/11/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/d/avsnitt/1">så langt det er teknisk mulig, enhver virkning på helsen og sikkerheten til de som har sitt arbeid om bord, som skyldes vekselvirkninger mellom støy og arbeidsrelaterte ototoksiske stoffer, og mellom støy og vibrasjoner,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/11/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/e/avsnitt/1">enhver indirekte virkning på helsen og sikkerheten til de som har sitt arbeid om bord, som skyldes vekselvirkninger mellom støy og varselsignaler eller andre lyder som må kunne høres for å redusere risikoen for ulykker,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/11/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/f/avsnitt/1">opplysninger om støyutslipp fra produsentene av arbeidsutstyret som brukes om bord,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/11/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/g/avsnitt/1">om det finnes alternativt arbeidsutstyr som er utformet med tanke på å redusere støyutslipp,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/11/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/h/avsnitt/1">støyeksponering etter normal arbeidstid,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/11/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/i/avsnitt/1">relevante opplysninger som er innhentet i forbindelse med helseovervåking, herunder offentliggjorte opplysninger, i den grad det er mulig,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/11/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/i/ledd/11/liste/j/avsnitt/1">tilgjengeligheten av hørselsvern med tilstrekkelige dempningsegenskaper.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/12">(3) Risikovurderingene skal oppbevares lett tilgjengelig for alle som har sitt arbeid om bord, slik at opplysningene kan anvendes på et senere tidspunkt.</ledd>
+      <ledd id="/kapittel/i/ledd/13">(4) Ved utarbeidelse av individuelle risikovurderinger kommer lov 14. april 2000 nr. 31 om personopplysninger til anvendelse.</ledd>
+      <avsnitt id="/kapittel/i/ledd/13/avsnitt/1">§ 15-4. <i>Måleutstyr</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/14">(1) Måling av lydtrykknivå skal utføres ved bruk av integrerende presisjonslydnivåmålere som er etter kravene i kapittelet her. Slike målere skal være produsert i samsvar med standarden IEC 61672-1 (2002-05) type/klasse 1, etter hva som er relevant. Annen standard enn IEC 61672-1 (2002-05) kan brukes hvis rederiet fremlegger dokumentasjon for Sjøfartsdirektoratet som viser at standarden er likeverdig. Lydnivåmålere av type/klasse 1 som er produsert i samsvar med IEC 651/IEC 804, kan brukes inntil 1. juli 2016.</ledd>
+      <ledd id="/kapittel/i/ledd/15">(2) Oktavfiltersett, som brukes enten alene eller sammen med en lydnivåmåler, skal være i samsvar med IEC 61260 (1995). Annen standard enn IEC 61260 (1995) kan brukes hvis rederiet fremlegger dokumentasjon for Sjøfartsdirektoratet som viser at standarden er likeverdig. Med «oktavfiltersett» menes oktavbånd- og fraksjonsoktavbåndfilter.</ledd>
+      <ledd id="/kapittel/i/ledd/16">(3) Lydkalibratorer skal være i samsvar med standard IEC 60942 (2003-01), og skal være godkjent av produsenten av lydnivåmåleren som brukes.</ledd>
+      <ledd id="/kapittel/i/ledd/17">(4) Kalibrator og lydnivåmåler skal verifiseres minst annethvert år av et norsk referanselaboratorium eller av et kompetent laboratorium akkreditert etter ISO/IEC 17025:2005/Cor 1:2006.</ledd>
+      <ledd id="/kapittel/i/ledd/18">(5) En mikrofonvindskjerm skal brukes når målinger foretas ute, herunder på brovinger eller på dekk, og under dekk hvis det forekommer betydelige luftbevegelser.</ledd>
+      <avsnitt id="/kapittel/i/ledd/18/avsnitt/1">§ 15-5. <i>Måling av støy</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/19">(1) For fartøy som er omfattet av § 15-19, skal måling av støynivåer i alle rom spesifisert i § 15-19 annet ledd utføres ved fullføring av byggingen av fartøyet, eller så raskt som praktisk mulig deretter. Målingene skal utføres under driftsforholdene spesifisert i § 15-7, og skal registreres i en inspeksjonsrapport, jf. § 15-28.</ledd>
+      <ledd id="/kapittel/i/ledd/20">(2) Målinger av det A-veide ekvivalente kontinuerlige lydnivået, L<sub>Aekv</sub> (T) skal utføres, og målinger av det C-veide ekvivalente kontinuerlige lydnivået, L<sub>Cekv</sub> (T) og det C-veide maksimale lydnivået L<sub>Cmaks</sub> skal utføres i rom der L<sub>Aekv</sub> (T) overskrider 85 dB(A).</ledd>
+      <avsnitt id="/kapittel/i/ledd/20/avsnitt/1">§ 15-6. <i>Personell som skal gjennomføre støymålinger</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/21">(1) Personer som utfører støymålinger, skal ha
+<liste id="/kapittel/i/ledd/21/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/21/liste/a/avsnitt/1">kunnskap innenfor fagfeltet støy, lydmålinger og håndtering av anvendt utstyr, og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/21/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/21/liste/b/avsnitt/1">opplæring i prosedyrene spesifisert i kapittelet her.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/22">(2) Måleinstitusjonene eller -ekspertene skal dokumentere sin kompetanse med hensyn til støymålinger.</ledd>
+      <ledd id="/kapittel/i/ledd/23">(3) Testinstitusjoner som har et kvalitetsstyringssystem etter ISO 17020/25, oppfyller kravene i første og annet ledd.</ledd>
+      <avsnitt id="/kapittel/i/ledd/23/avsnitt/1">§ 15-7. <i>Driftsforhold ved sjøprøver</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/24">(1) Fartøyets kurs skal være så rett som mulig. De aktuelle forholdene under målingene skal registreres i støyinspeksjonsrapporten, jf. § 15-28.</ledd>
+      <ledd id="/kapittel/i/ledd/25">(2) Støymålinger skal utføres ved normal marsjfart og, med mindre annet er fastsatt i paragrafen her, ikke mindre enn 80 % av høyeste kontinuerlige effekt (MCR). Eventuelle propeller med vridbar stigning og Voith-Schneider-propeller skal være i den normale sjøgående posisjonen. For spesielle fartøystyper og for fartøy med spesielle fremdrifts- og kraftkonfigurasjoner, slik som dieselelektriske systemer, kan det tas hensyn til aktuelle fartøysutformings- eller driftsparametere ved anvendelse av kravene her og i første ledd.</ledd>
+      <ledd id="/kapittel/i/ledd/26">(3) Alt maskineri og alle navigeringsinstrumenter, radio- og radarsett mv. som vanligvis brukes ved normal sjøgående tilstand og nivåer, inkludert stumkobling, skal være i drift gjennom hele måleperioden. Verken energiforsynte tåkesignaler eller helikopteroperasjoner skal imidlertid forekomme under utførelsen av disse målingene.</ledd>
+      <ledd id="/kapittel/i/ledd/27">(4) Målinger i rom som inneholder dieselmotordrevne nødgeneratorer, brannpumper eller annet nødutstyr som vanligvis kun vil være i drift i nødsituasjoner eller for testformål, skal foretas med utstyret i drift.</ledd>
+      <ledd id="/kapittel/i/ledd/28">(5) Utstyr til mekanisk ventilasjon, oppvarming og klimaanlegg skal være i normal drift, og det skal tas hensyn til at kapasiteten skal være etter konstruksjonsbetingelsene.</ledd>
+      <ledd id="/kapittel/i/ledd/29">(6) For trustere skal målinger foretas ved 40 % trustereffekt, og fartøyets hastighet skal være passende for trusterdrift. Målinger skal foretas ved posisjoner rundt slikt maskineri når det er i drift, og i tilstøtende tjenestestasjoner og rom i innredningen. Målinger skal foretas hvis slikt utstyr er ment for kontinuerlig drift, herunder stabilisatorer. Hvis slike systemer kun er ment for kortvarig, midlertidig bruk, for eksempel under havnemanøvre, er målinger kun relevant for å sikre samsvar med § 15-18 om støyeksponering.</ledd>
+      <ledd id="/kapittel/i/ledd/30">(7) For fartøy med dynamisk posisjonering (DP) som er ment for bruk i normal arbeidstilstand, skal ytterligere støymålinger foretas i DP-modus på kontrollstasjoner, tjenestestasjoner og i rom i innredningen for å sikre at det maksimale støynivået i disse rommene ikke overskrides. Slike målinger skal foretas med minst 40 % belastning på DP-trustersystemet.</ledd>
+      <avsnitt id="/kapittel/i/ledd/30/avsnitt/1">§ 15-8. <i>Miljømessige forhold ved støymåling</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/31">(1) Ved målingen skal det kun tas hensyn til støykilder relatert til fartøyet, herunder maskineri og fremdriftsanlegg. Støy fra vind, bølger, is, alarmer, personvarslingsanlegg (PA-anlegg) mv. omfattes ikke.</ledd>
+      <ledd id="/kapittel/i/ledd/32">(2) Følgende forhold skal noteres i støyinspeksjonsapporten, jf. § 15-28:
+<liste id="/kapittel/i/ledd/32/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/32/liste/a/avsnitt/1">vanndybde som er mindre enn fem ganger dypgangen, eller når det er store reflekterende overflater i nærheten av fartøyet,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/32/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/32/liste/b/avsnitt/1">de meteorologiske forholdene slik som vind og regn, samt sjøgang, som påvirker målingene, og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/32/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/32/liste/c/avsnitt/1">vindstyrke som er over 4 og bølgehøyde som er over 1 m.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/33">(3) Det skal tilstrebes å sørge for at støy fra ytre kilder, slik som personer, underholdning, bygge- og reparasjonsarbeid, ikke påvirker støynivåer om bord på fartøyet ved måleposisjonene.</ledd>
+      <avsnitt id="/kapittel/i/ledd/33/avsnitt/1">§ 15-9. <i>Måleprosedyrer</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/34">(1) Under måling av støynivå skal kun personer som er nødvendig for driften av fartøyet, samt personer som foretar målingene, være til stede i det aktuelle rommet.</ledd>
+      <ledd id="/kapittel/i/ledd/35">(2) Avlesninger av lydtrykknivå skal foretas i desibel ved hjelp av et A-veiefilter (dB(A)) og C-veiefilter (dB(C)), og om nødvendig også i oktavbånd mellom 31,5 og 8000 Hz.</ledd>
+      <ledd id="/kapittel/i/ledd/36">(3) Støynivåmålingene skal foretas med den integrerende lydnivåmåleren ved hjelp av romlig gjennomsnittsutregning, jf. § 15-14 annet ledd, og over en tidsperiode frem til stabile avlesninger er funnet eller minst 15 s for å representere gjennomsnittsverdien fra variasjoner grunnet uregelmessig drift eller variasjoner i lydfeltet. Avlesninger skal kun foretas til nærmeste desibel. Hvis den første desimalen av dB-avlesningen er 5 eller høyere, skal avlesningen rundes opp til nærmeste heltall.</ledd>
+      <ledd id="/kapittel/i/ledd/37">(4) For et fartøy som ikke er satt i drift, kan samsvar med kravene i § 15-19 verifiseres basert på sjøprøvingsmålinger av støynivåer ved beregning av den forventede støyeksponeringen for hver kategori av stillingsgrupper etter metoden beskrevet i § 15-10.</ledd>
+      <avsnitt id="/kapittel/i/ledd/37/avsnitt/1">§ 15-10. <i>Fastleggelse av støyeksponering</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/38">I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsnivået til de som har sitt arbeid om bord, fastlegges basert på ISO 9612:2009.</ledd>
+      <avsnitt id="/kapittel/i/ledd/38/avsnitt/1">§ 15-11. <i>Kalibrering og usikkerhet ved måling</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/39">(1) Lydnivåmåleren skal kalibreres med kalibratoren referert til i § 15-4 tredje ledd før og etter målinger.</ledd>
+      <ledd id="/kapittel/i/ledd/40">(2) Usikkerheten ved målinger om bord i fartøy avhenger av flere faktorer, for eksempel måleteknikker og miljømessige forhold. Målinger foretatt i samsvar med kapittelet her resulterer med få unntak i standardavvik for reproduserbarhet av det ekvivalente kontinuerlige A-veide lydtrykknivået som er lik eller mindre enn 1,5 dB.</ledd>
+      <ledd id="/kapittel/i/ledd/41">(3) Det tillates et avvik på støynivågrensene for lugarer på 1-3 dB(A) for opptil 15 % av antall lugarer, inkludert sykerom, og for opptil 20 % av arealet for oppholdsrom og kontorlokaler om bord.</ledd>
+      <avsnitt id="/kapittel/i/ledd/41/avsnitt/1">§ 15-12. <i>Målepunkter</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/42">(1) Målinger skal foretas med mikrofonen på en høyde på mellom 1,2 m (sittende person) og 1,6 m (stående person) fra dekket. Målinger skal ikke foretas nærmere enn 0,5 m fra grensene til et rom. Mikrofonposisjonene skal være som spesifisert i tredje ledd og § 15-13 til § 15-15. Målingene skal foretas ved posisjoner der personell arbeider, inkludert ved kommunikasjonsstasjoner.</ledd>
+      <ledd id="/kapittel/i/ledd/43">(2) Støynivået skal måles ved alle punkter der arbeid utføres. Ytterligere målinger skal foretas i rom som inneholder tjenestestasjoner når variasjoner i støynivå er antatt å forekomme i nærheten av tjenestestasjonene.</ledd>
+      <ledd id="/kapittel/i/ledd/44">(3) Ved måling av støynivåer skal mikrofonen, der dette er mulig, ikke plasseres innenfor en vinkel på 30° fra retningen av gasstrømmen, og på en avstand ikke mindre enn 1 m fra kanten av innløps- eller avtrekksåpningen til motorer, ventilasjon, klimaanlegg og kjølesystemer, og så langt borte som mulig fra reflekterende overflater.</ledd>
+      <avsnitt id="/kapittel/i/ledd/44/avsnitt/1">§ 15-13. <i>Målinger i maskinrom</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/45">(1) Målinger skal foretas ved hovedarbeids- og -kontrollstasjonene til de som har sitt arbeid om bord, i maskinrom og i eventuelle tilstøtende kontrollrom, der det gis spesiell oppmerksomhet til telefonplasseringer og til posisjoner der stemmekommunikasjon og hørbare signaler er viktig.</ledd>
+      <ledd id="/kapittel/i/ledd/46">(2) Der det ikke er mulig å foreta målinger lenger unna enn 1 m fra maskineri i drift, eller fra dekk, skott eller andre store overflater, eller fra luftinntak, skal målinger foretas ved en posisjon som er midt mellom maskineriet og tilstøtende reflekterende overflate.</ledd>
+      <ledd id="/kapittel/i/ledd/47">(3) Målinger fra maskineri som utgjør en lydkilde, skal foretas 1 m fra maskineriet.</ledd>
+      <avsnitt id="/kapittel/i/ledd/47/avsnitt/1">§ 15-14. <i>Målinger i navigeringsrom og innredningen</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/48">(1) Målinger skal foretas på begge brovingene.</ledd>
+      <ledd id="/kapittel/i/ledd/49">(2) En av målingene skal utføres i midten av rommet. Mikrofonen skal beveges langsomt horisontalt og/eller vertikalt over en avstand på 1 m +/- 0,5 m, der det tas hensyn til målekravene i § 15-12 første ledd.</ledd>
+      <ledd id="/kapittel/i/ledd/50">(3) Antallet lugarer som måles, skal ikke være mindre enn 40 prosent av det totale antallet lugarer. Lugarer som åpenbart er påvirket av støy, det vil si lugarer som tilstøter maskineri eller kapper, skal alltid vurderes.</ledd>
+      <ledd id="/kapittel/i/ledd/51">(4) For fartøy med et stort antall lugarer for de som har sitt arbeid om bord, slik som passasjer-/cruiseskip, er det akseptabelt å redusere antall måleposisjoner. Utvalget av lugarer som skal testes, skal være representativt for gruppen lugarer som testes, ved å velge lugarene som ligger nærmere støykilder.</ledd>
+      <ledd id="/kapittel/i/ledd/52">(5) På åpent dekk skal målinger foretas i alle områder som er ment for rekreasjon.</ledd>
+      <avsnitt id="/kapittel/i/ledd/52/avsnitt/1">§ 15-15. <i>Målinger i rom som vanligvis er ubesatt</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/53">(1) I tillegg til rommene referert til i § 15-12 til § 15-14 skal målinger foretas
+<liste id="/kapittel/i/ledd/53/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/53/liste/a/avsnitt/1">på alle steder med uvanlig høye støynivåer der de som har sitt arbeid om bord, kan være utsatt, selv i relativt korte perioder, og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/53/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/53/liste/b/avsnitt/1">ved periodisk brukte steder i maskinrom.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/54">(2) Det er ikke nødvendig å måle støynivåer for slike rom som vanligvis er ubesatt, lasterom, dekkområder, og andre rom som er fjernt fra støykilder.</ledd>
+      <ledd id="/kapittel/i/ledd/55">(3) I lasterom skal det brukes minst tre mikrofonposisjoner i de deler av lasterommene der det er sannsynlig at personell utfører arbeid.</ledd>
+      <avsnitt id="/kapittel/i/ledd/55/avsnitt/1">§ 15-16. <i>Begrensning av støyeksponering</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/56">(1) De som har sitt arbeid om bord, skal ikke eksponeres for støy som overskrider grenseverdiene for støyeksponering i § 15-18.</ledd>
+      <ledd id="/kapittel/i/ledd/57">(2) Hvis det konstateres at grenseverdiene for støyeksponering overskrides, skal rederiet
+<liste id="/kapittel/i/ledd/57/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/57/liste/a/avsnitt/1">øyeblikkelig iverksette tiltak for å redusere eksponeringen slik at den ligger under grenseverdiene for støyeksponering,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/57/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/57/liste/b/avsnitt/1">kartlegge årsakene til at grenseverdiene for støyeksponering ble overskredet, og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/57/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/57/liste/c/avsnitt/1">endre vernetiltak og forebyggende tiltak for å hindre ny overskridelse.</avsnitt></liste></ledd>
+      <avsnitt id="/kapittel/i/ledd/57/liste/c/avsnitt/1.1">§ 15-17. <i>Tiltak ved overskridelse av tiltaksverdiene</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/58">(1) Ved overskridelse av de øvre tiltaksverdiene for støyeksponering i § 15-18 skal nødvendige tekniske og/eller organisatoriske tiltak utarbeides og gjennomføres, slik at støyeksponeringen fjernes ved kilden eller reduseres til lavest mulig nivå.</ledd>
+      <ledd id="/kapittel/i/ledd/59">(2) Tiltakene skal utarbeides på grunnlag av risikovurderingene som er utført etter § 15-3, og det skal tas særlig hensyn til tiltakene som nevnt i § 15-2 tredje ledd.</ledd>
+      <avsnitt id="/kapittel/i/ledd/59/avsnitt/1">§ 15-18. <i>Grenseverdier og tiltaksverdier for støyeksponering</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/60">(1) Grenseverdiene for daglig støyeksponeringsnivå og maksimalt lydtrykk er L<sub>eks</sub><sub>,</sub><sub>8t</sub> = 87 dB(A) og p<sub>maks</sub> = 200 Pa (140 dB(C) i forhold til 20 μPa).</ledd>
+      <ledd id="/kapittel/i/ledd/61">(2) Ved anvendelsen av grenseverdiene for støyeksponering skal det ved fastleggingen av den faktiske eksponeringen tas hensyn til dempningsvirkningen av personlig hørselsvern som brukes av de som har sitt arbeid om bord.</ledd>
+      <ledd id="/kapittel/i/ledd/62">(3) Tiltaksverdiene for daglig støyeksponeringsnivå og maksimalt lydtrykk er
+<liste id="/kapittel/i/ledd/62/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/62/liste/a/avsnitt/1">øvre tiltaksverdi for eksponering: L<sub>eks</sub><sub>,</sub><sub>8t</sub> = 85 dB(A) og p<sub>maks</sub> = 140 Pa (137 dB(C) i forhold til 20 μPa),</avsnitt></liste>
+<liste id="/kapittel/i/ledd/62/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/62/liste/b/avsnitt/1">nedre tiltaksverdi for eksponering: L<sub>eks</sub><sub>,</sub><sub>8t</sub> = 80 dB(A) og p<sub>maks</sub> = 112 Pa (135 dB(C) i forhold til 20 μPa).</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/63">(4) Det skal ikke tas hensyn til virkningen av eventuelt hørselsvern i forbindelse med tiltaksverdiene for støyeksponering.</ledd>
+      <ledd id="/kapittel/i/ledd/64">(5) Ved vurderingen av støynivåene som de som har sitt arbeid om bord, utsettes for, kan ukentlig støyeksponeringsnivå brukes ved anvendelsen av grenseverdiene og tiltaksverdiene for eksponering i stedet for daglig støyeksponeringsnivå hva angår aktiviteter der den daglige støyeksponeringen varierer betydelig fra en dag til en annen, og forutsatt at
+<liste id="/kapittel/i/ledd/64/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/64/liste/a/avsnitt/1">hensiktsmessig overvåking viser at det ukentlige støyeksponeringsnivået ikke overskrider eksponeringsgrenseverdien 87 dB(A), og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/64/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/64/liste/b/avsnitt/1">egnede tiltak iverksettes for å redusere risiko som er forbundet med disse aktivitetene til lavest mulig nivå.</avsnitt></liste></ledd>
+      <avsnitt id="/kapittel/i/ledd/64/liste/b/avsnitt/1.1">§ 15-19. <i>Grenser for støynivå</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/65">(1) Paragrafen her gjelder for fartøy med bruttotonnasje 1600 eller mer, hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn, 1. juli 2014 eller senere.</ledd>
+      <ledd id="/kapittel/i/ledd/66">(2) Grensene for støynivå (dB(A)) i tabellen nedenfor skal ikke være høyere enn det som er spesifisert for de forskjellige rommene:
+<br/></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="38*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Betegnelse på rom</i>
+              </entry>
+              <entry colname="2">
+                <i>Størrelse på fartøy</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <thgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="38*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="19*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="19*"/>
+          <tbody>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">
+                <i>1600 opp til 10000 BT</i>
+              </entry>
+              <entry colname="3">
+                <i>≥10000 BT</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="38*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="19*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="19*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>1 Arbeidsrom</i>
+              </entry>
+              <entry colname="2"/>
+              <entry colname="3"> </entry>
+            </row>
+            <row>
+              <entry colname="1">Maskinrom </entry>
+              <entry colname="2">110 </entry>
+              <entry colname="3">110 </entry>
+            </row>
+            <row>
+              <entry colname="1">Kontrollrom for maskineri </entry>
+              <entry colname="2">75 </entry>
+              <entry colname="3">75 </entry>
+            </row>
+            <row>
+              <entry colname="1">Andre verksteder enn de som utgjør en del av maskinrom </entry>
+              <entry colname="2">85 </entry>
+              <entry colname="3">85 </entry>
+            </row>
+            <row>
+              <entry colname="1">Ikke-spesifiserte arbeidsrom, herunder arbeidssteder på åpent dekk som ikke er maskinrom, og arbeidssteder på åpent dekk der kommunikasjon er relevant </entry>
+              <entry colname="2">85 </entry>
+              <entry colname="3">85 </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>2 Navigeringsrom</i>
+              </entry>
+              <entry colname="2"/>
+              <entry colname="3"> </entry>
+            </row>
+            <row>
+              <entry colname="1">Kommandobro og kartrom </entry>
+              <entry colname="2">65 </entry>
+              <entry colname="3">65 </entry>
+            </row>
+            <row>
+              <entry colname="1">Utkikksposter, herunder brovinger og vinduer </entry>
+              <entry colname="2">70 </entry>
+              <entry colname="3">70 </entry>
+            </row>
+            <row>
+              <entry colname="1">Radiorom med radioutstyr i drift, uten at det produserer lydsignaler </entry>
+              <entry colname="2">60 </entry>
+              <entry colname="3">60 </entry>
+            </row>
+            <row>
+              <entry colname="1">Radarrom </entry>
+              <entry colname="2">65 </entry>
+              <entry colname="3">65 </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>3 Rom i innredningen</i>
+              </entry>
+              <entry colname="2"/>
+              <entry colname="3"> </entry>
+            </row>
+            <row>
+              <entry colname="1">Lugarer og sykerom </entry>
+              <entry colname="2">60 </entry>
+              <entry colname="3">55 </entry>
+            </row>
+            <row>
+              <entry colname="1">Messer </entry>
+              <entry colname="2">65 </entry>
+              <entry colname="3">60 </entry>
+            </row>
+            <row>
+              <entry colname="1">Rekreasjonsrom </entry>
+              <entry colname="2">65 </entry>
+              <entry colname="3">60 </entry>
+            </row>
+            <row>
+              <entry colname="1">Åpne, utvendige rekreasjonsområder </entry>
+              <entry colname="2">75 </entry>
+              <entry colname="3">75 </entry>
+            </row>
+            <row>
+              <entry colname="1">Kontorer </entry>
+              <entry colname="2">65 </entry>
+              <entry colname="3">60 </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>4 Serveringsrom</i>
+              </entry>
+              <entry colname="2"/>
+              <entry colname="3"> </entry>
+            </row>
+            <row>
+              <entry colname="1">Bysser, uten at matbearbeidingsutstyr er i gang </entry>
+              <entry colname="2">75 </entry>
+              <entry colname="3">75 </entry>
+            </row>
+            <row>
+              <entry colname="1">Anretningsrom og pentrier </entry>
+              <entry colname="2">75 </entry>
+              <entry colname="3">75 </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>5 Rom som vanligvis er ubesatt</i>
+              </entry>
+              <entry colname="2"/>
+              <entry colname="3"> </entry>
+            </row>
+            <row>
+              <entry colname="1">Rom referert til i § 15-15 </entry>
+              <entry colname="2">90 </entry>
+              <entry colname="3">90 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ledd id="/kapittel/i/ledd/67">(3) Grensene for støynivå spesifisert i annet ledd skal anses som maksimale nivåer, og ikke som ønskelige nivåer. Når det er rimelig og praktisk mulig, er det ønskelig at støynivået er lavere enn de spesifiserte maksimale nivåene.</ledd>
+      <ledd id="/kapittel/i/ledd/68">(4) Før fartøyet settes i drift, skal grensene for støynivå anslås ved måling av det ekvivalente kontinuerlige lydnivået for rommene spesifisert i annet ledd. I store rom med mange måleposisjoner skal de individuelle posisjonene sammenlignes med grensene for støynivå.</ledd>
+      <ledd id="/kapittel/i/ledd/69">(5) Grensen for støynivå i maskinrom på 110 dB(A) etter annet ledd, forutsetter bruk av hørselsvern som gir beskyttelse som oppfyller kravene for hørselsvern i § 15-22.</ledd>
+      <ledd id="/kapittel/i/ledd/70">(6) For fartøy som ikke er satt i drift, anses grensene for støynivå etter annet ledd å være oppfylt hvis sjøprøvingsmålingene etter § 15-9 fjerde ledd viser at de som har sitt arbeid om bord, ikke utsettes for en L<sub>eks</sub> (24) som overskrider 80 dB(A). Det vil si at den ekvivalente kontinuerlige støyeksponeringen ikke overstiger 80 dB(A) i løpet av hver dag eller en 24-timers periode.</ledd>
+      <ledd id="/kapittel/i/ledd/71">(7) For fartøy som er utformet for og brukt på sjøreiser av kort varighet, eller i forbindelse med andre tjenester som innebærer korte driftsperioder for fartøyet, gjelder grensene for støynivå for rom i innredningen og serveringsrom etter annet ledd kun når fartøyet er i havnetilstand. Dette forutsatt at periodene i slik tilstand er tilstrekkelige for hvile og rekreasjon for de som har sitt arbeid om bord. Med «sjøreiser av kort varighet» menes her sjøreiser der fartøyet ikke er til sjøs så lenge at de som har sitt arbeid om bord, trenger søvn eller lange friperioder i løpet av sjøreisen. Med «havnetilstand» menes her tilstanden der alt maskineri som kun er nødvendig for fremdrift, er stanset.</ledd>
+      <ledd id="/kapittel/i/ledd/72">(8) Følgende fartøy er unntatt fra paragrafen her:
+<liste id="/kapittel/i/ledd/72/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/72/liste/a/avsnitt/1">hurtiggående fartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/72/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/72/liste/b/avsnitt/1">fiske- og fangstfartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/72/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/72/liste/c/avsnitt/1">dynamisk støttet fartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/72/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/72/liste/d/avsnitt/1">bemannet lekter,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/72/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/72/liste/e/avsnitt/1">flyttbare innretninger,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/72/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/i/ledd/72/liste/f/avsnitt/1">skip som tilhører Forsvaret, og skip som benyttes i Forsvarets tjeneste,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/72/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/i/ledd/72/liste/g/avsnitt/1">pålerammingsfartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/72/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/i/ledd/72/liste/h/avsnitt/1">mudringsfartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/72/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/i/ledd/72/liste/i/avsnitt/1">skip som ikke drives mekanisk.</avsnitt></liste></ledd>
+      <avsnitt id="/kapittel/i/ledd/72/liste/i/avsnitt/1.1">§ 15-20. <i>Grenser for støynivå på hurtiggående fartøy</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/73">(1) Støynivået i fellesrom og rom for de som har sitt arbeid om bord, skal holdes så lavt som mulig for at det skal være mulig å høre personvarslingsanlegget (PA-anlegget), og skal generelt ikke overstige 75 dB(A).</ledd>
+      <ledd id="/kapittel/i/ledd/74">(2) Høyeste støynivå i styrehuset skal generelt ikke overstige 65 dB(A).</ledd>
+      <avsnitt id="/kapittel/i/ledd/74/avsnitt/1">§ 15-21. <i>Bruk av hørselsvern</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/75">(1) Hvis risiko som oppstår ved støyeksponering ikke kan forebygges med andre midler, skal hensiktsmessig og korrekt tilpasset personlig hørselsvern stilles til rådighet for de som har sitt arbeid om bord, på følgende vilkår:
+<liste id="/kapittel/i/ledd/75/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/75/liste/a/avsnitt/1">Når støyeksponeringen overstiger de nedre tiltaksverdiene for eksponering, skal rederiet sørge for å stille personlig hørselsvern til rådighet for de som har sitt arbeid om bord.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/75/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/75/liste/b/avsnitt/1">Når støyeksponeringen er lik eller overstiger de øvre tiltaksverdiene for eksponering, skal personlig hørselsvern brukes.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/76">(2) Personlig hørselsvern skal være i samsvar med § 15-22, og velges slik at risikoen for hørselsskader fjernes eller reduseres til lavest mulig nivå.</ledd>
+      <ledd id="/kapittel/i/ledd/77">(3) Rederiet skal påse at hørselsvern brukes, og har ansvar for å kontrollere effektiviteten av de tiltak som iverksettes etter første og annet ledd.</ledd>
+      <avsnitt id="/kapittel/i/ledd/77/avsnitt/1">§ 15-22. <i>Tekniske krav til hørselsvern</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/78">(1) Hørselsvern skal være av en slik type at de kan redusere lydtrykknivåer til 85 dB(A) eller mindre.</ledd>
+      <ledd id="/kapittel/i/ledd/79">(2) Valg av egnet hørselsvern skal være i samsvar med HML-metoden beskrevet i ISO 4869-2:1994.</ledd>
+      <ledd id="/kapittel/i/ledd/80">(3) Støyreduserende teknologi kan brukes hvis hodetelefonene har tilsvarende ytelse som hørselsvern når de ikke er i gang.</ledd>
+      <avsnitt id="/kapittel/i/ledd/80/avsnitt/1">§ 15-23. <i>Varselskilt</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/81">(1) Når støynivået i maskinrom eller andre rom er høyere enn 85 dB(A), skal innganger til slike rom ha varselskilt som omfatter symboler og utfyllende tekst på fartøyets arbeidsspråk, som tilsvarer eksempelet på varselskilt og symboler i paragrafen her.</ledd>
+      <ledd id="/kapittel/i/ledd/82">(2) Berørte områder skal også avgrenses, og atkomsten til dem begrenses, der dette er teknisk gjennomførbart og risikoen for eksponering gjør det berettiget.</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="1" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="76*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Skilt ved inngangen til støyende rom (eksempel på norsk)</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="20*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="56*"/>
+          <tbody>
+            <row>
+              <entry colname="1">80-85 dB(A) </entry>
+              <entry colname="2">HØYT STØYNIVÅ - BRUK HØRSELSVERN </entry>
+            </row>
+            <row>
+              <entry colname="1">85-110 dB(A) </entry>
+              <entry colname="2">FARLIG STØY - BRUK AV HØRSELSVERN PÅBUDT </entry>
+            </row>
+            <row>
+              <entry colname="1">110-115 dB(A) </entry>
+              <entry colname="2">ADVARSEL: FARLIG STØY - BRUK AV HØRSELSVERN PÅBUDT - KUN OPPHOLD I KORTERE TID </entry>
+            </row>
+            <row>
+              <entry colname="1">&gt;115 dB(A) </entry>
+              <entry colname="2">ADVARSEL: MEGET FARLIG STØY - BRUK AV HØRSELSVERN PÅBUDT - HØYST 10 MINUTTERS OPPHOLD </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <center>
+        <img src="/ltavd1/filer/grafikk/sf-20140630-0922-08-01.png" alt="ikon"/>
+      </center>
+      <avsnitt id="/kapittel/i/ledd/82/avsnitt/1">§ 15-24. <i>Helseovervåking og hørselskontroll</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/83">(1) Hvis noen som har sitt arbeid om bord, eksponeres for støy som overskrider de øvre tiltaksverdiene for støyeksponering i § 15-18 tredje ledd bokstav a, har vedkommende rett til å få hørselen kontrollert. Hørselskontrollen skal utføres av lege, eller av en annen person med tilstrekkelige kvalifikasjoner som står under en leges ansvar.</ledd>
+      <ledd id="/kapittel/i/ledd/84">(2) Hvis noen som har sitt arbeid om bord, eksponeres for støy som overskrider de nedre tiltaksverdiene for støyeksponering i § 15-18 tredje ledd bokstav b, skal vedkommende få tilbud om forebyggende hørselskontroll når risikovurderingene og målingene som skal utføres etter § 15-3, viser at det foreligger en helserisiko.</ledd>
+      <avsnitt id="/kapittel/i/ledd/84/avsnitt/1">§ 15-25. <i>Oppfølging av helseovervåking</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/85">(1) Hvis det som resultat av helseovervåkingen viser seg noen av de som har sitt arbeid om bord, har en identifiserbar hørselsskade, skal en lege eller, når legen anser det som nødvendig, en spesialist vurdere om det er sannsynlig at skaden skyldes støyeksponering på arbeidsplassen.</ledd>
+      <ledd id="/kapittel/i/ledd/86">(2) Når hørselsskaden skyldes støyeksponering på arbeidsplassen, skal rederiet
+<liste id="/kapittel/i/ledd/86/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/86/liste/a/avsnitt/1">påse at lege eller en annen tilstrekkelig kvalifisert person underretter den som har fått hørselsskaden om det resultatet som angår ham eller henne personlig,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/86/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/86/liste/b/avsnitt/1">gjennomgå risikovurderingen som er foretatt etter § 15-3,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/86/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/86/liste/c/avsnitt/1">gjennomgå tiltakene som er iverksatt for å fjerne eller redusere risikoene i samsvar med § 15-2, § 15-21 og § 15-22.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/86/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/86/liste/d/avsnitt/1">ta hensyn til råd fra en kvalifisert arbeidsmedisiner, en annen tilstrekkelig kvalifisert person eller vedkommende myndighet i forbindelse med gjennomføringen av de tiltak som anses som nødvendige for å fjerne eller redusere risikoene i samsvar med § 15-2, § 15-21 og § 15-22, herunder vurdere muligheten for å sette den som har fått hørselsskaden, til annet arbeid der det ikke foreligger risiko for videre støyeksponering, og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/86/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/86/liste/e/avsnitt/1">organisere systematisk helseovervåking, og sørge for at helsetilstanden til andre som har sitt arbeid om bord, undersøkes på nytt hvis de har vært eksponert på samme måte.</avsnitt></liste></ledd>
+      <avsnitt id="/kapittel/i/ledd/86/liste/e/avsnitt/1.1">§ 15-26. <i>Informasjon og opplæring</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/87">(1) Når støynivået om bord medfører at noen av de som har sitt arbeid om bord, blir utsatt for støy som er lik eller overskrider de nedre tiltaksverdiene for støyeksponering på arbeidsplassen, skal rederiet sørge for å gi informasjon og opplæring til de som har sitt arbeid om bord, og eventuelle verneombud, om risikoer som oppstår i forbindelse med støyeksponering.</ledd>
+      <ledd id="/kapittel/i/ledd/88">(2) Informasjonen og opplæringen etter første ledd skal særlig omfatte
+<liste id="/kapittel/i/ledd/88/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/88/liste/a/avsnitt/1">hva slags risiko støy kan medføre,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/88/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/88/liste/b/avsnitt/1">de tiltak som er iverksatt etter dette kapittelet med sikte på å fjerne eller redusere risikoen på grunn av støy til lavest mulig nivå, deriblant hvilke omstendigheter tiltakene skal anvendes under,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/88/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/88/liste/c/avsnitt/1">grenseverdiene og tiltaksverdiene for støyeksponering som er fastsatt i § 15-18,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/88/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/88/liste/d/avsnitt/1">resultatene av de vurderinger og støymålinger som er utført etter § 15-3, samt en forklaring av deres betydning og om potensielle risikoer,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/88/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/88/liste/e/avsnitt/1">riktig bruk av hørselsvern,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/88/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/i/ledd/88/liste/f/avsnitt/1">hvorfor og hvordan tegn på hørselsskader skal oppdages og rapporteres,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/88/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/i/ledd/88/liste/g/avsnitt/1">under hvilke omstendigheter de som har sitt arbeid om bord, har rett til helseovervåking, og formålet med helseovervåking, jf. § 15-24, og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/88/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/i/ledd/88/liste/h/avsnitt/1">sikker arbeidspraksis som kan begrense støyeksponeringen mest mulig.</avsnitt></liste></ledd>
+      <avsnitt id="/kapittel/i/ledd/88/liste/h/avsnitt/1.1">§ 15-27. <i>Akustisk isolering mellom rom i innredningen</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/89">(1) Det skal legges vekt på den akustiske isoleringen mellom rom i innredningen for å gjøre hvile og rekreasjon mulig selv om det pågår aktiviteter i tilstøtende rom, herunder musikk, samtaler, håndtering av last.</ledd>
+      <ledd id="/kapittel/i/ledd/90">(2) Luftlydisoleringsegenskapene til skott og dekk i innredningen skal minst oppfylle følgende lydreduksjonstall (R<sub>w</sub> ) etter ISO-standard 717-1:1996 med endringer (1:2006), del 1:
+<br/></ledd>
+      <table niv="1" frame="1">
+        <tgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="38*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="38*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Lugar til lugar </entry>
+              <entry colname="2">R<sub>w</sub> = 35 </entry>
+            </row>
+            <row>
+              <entry colname="1">Messer, rekreasjonsrom, fellesrom og oppholdsrom tilknyttet lugar og sykerom </entry>
+              <entry colname="2">R<sub>w</sub> = 45 </entry>
+            </row>
+            <row>
+              <entry colname="1">Korridor til lugar </entry>
+              <entry colname="2">R<sub>w</sub> = 30 </entry>
+            </row>
+            <row>
+              <entry colname="1">Lugar til lugar med delt dør </entry>
+              <entry colname="2">R<sub>w</sub> = 30 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ledd id="/kapittel/i/ledd/91">(3) Luftlydisoleringsegenskapene skal fastlegges ved laboratorietester etter ISO 10140-2:2010.</ledd>
+      <ledd id="/kapittel/i/ledd/92">(4) Følgende fartøy er unntatt fra paragrafen her:
+<liste id="/kapittel/i/ledd/92/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/a/avsnitt/1">fartøy hvis kjøl er strukket, eller som var på et tilsvarende byggetrinn, før 1. juli 2014,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/b/avsnitt/1">fartøy med bruttotonnasje under 1600,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/c/avsnitt/1">hurtiggående fartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/d/avsnitt/1">fiske- og fangstfartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/e/avsnitt/1">dynamisk støttet fartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/f/avsnitt/1">bemannet lekter,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/g/avsnitt/1">flyttbare innretninger,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/h/avsnitt/1">skip som tilhører Forsvaret, og skip som benyttes i Forsvarets tjeneste,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/i/avsnitt/1">pålerammingsfartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/j/avsnitt/1">mudringsfartøy,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/92/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/i/ledd/92/liste/k/avsnitt/1">skip som ikke drives mekanisk.</avsnitt></liste></ledd>
+      <avsnitt id="/kapittel/i/ledd/92/liste/k/avsnitt/1.1">§ 15-28. <i>Inspeksjonsrapport</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/93">(1) En støyinspeksjonsrapport skal alltid oppbevares om bord og være tilgjengelig for de som har sitt arbeid om bord.</ledd>
+      <ledd id="/kapittel/i/ledd/94">(2) Rapporten skal omfatte informasjon om støynivåene i de forskjellige rommene om bord, og vise avlesningen på alle spesifiserte målepunkter. Målepunktene skal markeres på generalarrangementsplanen, på innredningstegninger vedlagt rapporten, eller skal på annen måte være identifisert.</ledd>
+      <avsnitt id="/kapittel/i/ledd/94/avsnitt/1">§ 15-29. <i>Dispensasjoner</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/95">(1) Sjøfartsdirektoratet kan etter søknad gi dispensasjon fra ett eller flere av kravene i kapittelet her når det er verne- og helsemessig forsvarlig, og det er dokumentert at oppfyllelse av kravet eller kravene ikke vil være mulig på tross av relevante og rimelige tekniske støyreduksjonstiltak. Sjøfartsdirektoratet kan kreve at rederiet fremlegger sakkyndig uttalelse i forbindelse med søknaden, og kan fastsette særlige vilkår for dispensasjonen. Før slik dispensasjon gis, skal rederiet dokumentere at
+<liste id="/kapittel/i/ledd/95/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/95/liste/a/avsnitt/1">behovet for talekommunikasjon og for å høre lydalarmer er ivaretatt,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/95/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/95/liste/b/avsnitt/1">støynivået ikke er til hinder for konsentrasjonen når avgjørelser skal tas på kontrollstasjoner, navigerings- og radiorom, samt bemannede maskinrom,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/95/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/95/liste/c/avsnitt/1">de som har sitt arbeid om bord, er beskyttet fra støynivåer som kan medføre støyindusert hørselstap,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/95/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/95/liste/d/avsnitt/1">det er en akseptabel grad av komfort i hvilerom, rekreasjonsrom og andre rom,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/95/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/95/liste/e/avsnitt/1">det er sørget for egnede forhold for restitusjon fra virkningen av eksponering for høye støynivåer, og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/95/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/i/ledd/95/liste/f/avsnitt/1">grenseverdier for støyeksponering og øvre tiltaksverdi for støyeksponering i § 15-18 ikke overskrides.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/96">(2) I særlige tilfeller kan Sjøfartsdirektoratet etter søknad gi dispensasjon fra § 15-16 og § 15-21, hvis fullt og korrekt bruk av hørselsvern på grunn av arbeidets art vil kunne medføre en større risiko for sikkerhet og helse enn hvis hørselsvern ikke brukes. Slike dispensasjoner kan bare innvilges etter konsultasjon med partene i arbeidslivet, og eventuelt med norske helsemyndigheter. Dispensasjonen skal inneholde vilkår som sikrer at helserisikoen reduseres til lavest mulig nivå, og at de som er berørt av dispensasjonen får økt helseovervåking. Videre skal slik dispensasjon tas opp til fornyet vurdering hvert fjerde år, og tilbakekalles hvis årsakene til at dispensasjonen ble gitt, ikke lenger er til stede.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2014-06-30-922/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Forskriften trer i kraft 1. juli 2014.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

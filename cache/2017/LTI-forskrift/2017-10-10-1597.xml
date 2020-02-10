@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2017-10-10-1597" type="lt" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2017-10-10-1597</id>
+    <dato>10.10.2017 nr. 1597</dato>
+    <dato type="iso">2017-10-10</dato>
+    <ikraft>11.10.2017</ikraft>
+    <ikraft type="iso">2017-10-11</ikraft>
+    <departement>Arbeids- og sosialdepartementet</departement>
+    <departement>Justis- og beredskapsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1929-05-24-4-§10">L24.05.1929 nr. 4 § 10</ref>, <ref id="lov-1929-05-24-4-§11">§ 11</ref>, <ref id="lov-1929-05-24-4-§13a">§ 13a</ref>, <ref id="for-2003-09-01-1161">F01.09.2003 nr. 1161</ref>, <ref id="lov-1996-11-29-72-§10-18">L29.11.1996 nr. 72 § 10-18</ref>, <ref id="for-2010-02-12-158-§68">F12.02.2010 nr. 158 § 68</ref>,</hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2011-01-14-36</endrer>
+    <rettet>08.11.2017 (se nederst)</rettet>
+    <journalnummer>2017-1062</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om elektromagnetisk kompatibilitet</korttittel>
+    <tittel>Forskrift om elektromagnetisk kompatibilitet</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Direktoratet for samfunnssikkerhet og beredskap og Petroleumstilsynet 10. oktober 2017 med hjemmel i lov 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven) § 6, § 10, § 11 og § 13a, jf. delegeringsvedtak 1. september 2003 nr. 1161, lov 29. november 1996 nr. 72 om petroleumsvirksomhet § 10-18, forskrift 12. februar 2010 nr. 158 om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg (rammeforskriften) § 68 første ledd bokstav b og lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar § 7.
+<br/><b>EØS-henvisninger:</b> EØS-avtalen vedlegg II kap. X nr. 7e (direktiv 2014/30/EU).</marg>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Generelle bestemmelser</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k1/p1">
+        <pverdi>§ 1.</pverdi>
+        <ptittel>Formål</ptittel>
+        <ledd id="/kapittel/1/paragraf/1/ledd/1">Forskriften skal sikre at apparater og faste installasjoner holder et hensiktsmessig nivå av elektromagnetisk kompatibilitet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k1/p2">
+        <pverdi>§ 2.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/1/paragraf/2/ledd/1">(1) Forskriften gjelder for apparater og faste installasjoner som definert i § 4.</ledd>
+        <ledd id="/kapittel/1/paragraf/2/ledd/2">(2) Forskriften gjelder også for petroleumsvirksomhet på norsk kontinentalsokkel.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k1/p3">
+        <pverdi>§ 3.</pverdi>
+        <ptittel>Unntak</ptittel>
+        <ledd id="/kapittel/1/paragraf/3/ledd/1">(1) Forskriften gjelder ikke for
+<liste id="/kapittel/1/paragraf/3/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/a/avsnitt/1">apparater og faste installasjoner som på grunn av sine fysiske egenskaper ikke i vesentlig grad kan bli forstyrret av elektromagnetiske signaler og ikke genererer signaler som kan forårsake forstyrrelser</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/3/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/b/avsnitt/1">spesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformål.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/1/paragraf/3/ledd/2">(2) Forskriften får ikke anvendelse dersom de grunnleggende kravene i vedlegg I helt eller delvis er fastsatt i annet norsk regelverk som gjennomfører EØS-regelverk.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k1/p4">
+        <pverdi>§ 4.</pverdi>
+        <ptittel>Definisjoner</ptittel>
+        <ledd id="/kapittel/1/paragraf/4/ledd/1">(1) I forskriften menes med
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/a/avsnitt/1"><i>apparat:</i> enhver ferdig innretning eller en kombinasjon av innretninger, som er gjort tilgjengelig på markedet i form av en enkelt funksjonell enhet, som er beregnet på sluttbrukere og kan skape elektromagnetisk forstyrrelse, eller som har en virkemåte som kan påvirkes av slik forstyrrelse</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/b/avsnitt/1"><i>fast installasjon:</i> en bestemt kombinasjon av ulike typer apparater og eventuelt andre innretninger, som er montert, installert og beregnet på permanent bruk på et forhåndsbestemt sted</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/c/avsnitt/1"><i>elektromagnetisk kompatibilitet:</i> apparaters og faste installasjoners evne til å virke tilfredsstillende i sitt elektromagnetiske miljø uten å forårsake uakseptable elektromagnetiske forstyrrelser for andre apparater og faste installasjoner i dette miljøet</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/d/avsnitt/1"><i>elektromagnetisk forstyrrelse:</i> ethvert elektromagnetisk fenomen som kan redusere apparaters og faste installasjoners yteevne. Elektromagnetiske forstyrrelser kan være elektromagnetisk støy, uønskede signaler eller en endring i selve spredningsmediet</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/e/avsnitt/1"><i>immunitet:</i> apparaters og faste installasjoners evne til å virke som planlagt uten at yteevnen reduseres under påvirkning av en elektromagnetisk forstyrrelse</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/f/avsnitt/1"><i>sikkerhetsformål:</i> det formål å beskytte menneskeliv eller eiendom</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/g/avsnitt/1"><i>elektromagnetisk miljø:</i> samtlige elektromagnetiske fenomener som kan observeres på et gitt sted</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/h/avsnitt/1"><i>gjøre tilgjengelig på markedet:</i> enhver levering av et apparat for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/i/avsnitt/1"><i>bringe i omsetning:</i> gjøre et apparat tilgjengelig i EØS for første gang</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/j/avsnitt/1"><i>produsent:</i> enhver fysisk eller juridisk person som produserer et apparat eller får et apparat konstruert eller produsert, og som markedsfører det under eget navn eller varemerke</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/k/avsnitt/1"><i>representant:</i> enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/l"><lverdi>l)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/l/avsnitt/1"><i>importør:</i> enhver fysisk eller juridisk person etablert i EØS som bringer et apparat fra en tredjestat i omsetning i EØS</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/m"><lverdi>m)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/m/avsnitt/1"><i>distributør:</i> enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et apparat tilgjengelig på markedet</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/n"><lverdi>n)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/n/avsnitt/1"><i>markedsdeltakere:</i> produsenten, representanten, importøren og distributøren</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/o"><lverdi>o)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/o/avsnitt/1"><i>teknisk spesifikasjon:</i> et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av et apparat</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/p"><lverdi>p)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/p/avsnitt/1"><i>harmonisert standard:</i> en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen med henblikk på gjennomføring av EØS-regelverk</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/q"><lverdi>q)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/q/avsnitt/1"><i>akkreditering:</i> en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhet</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/r"><lverdi>r)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/r/avsnitt/1"><i>nasjonalt akkrediteringsorgan:</i> det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra staten</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/s"><lverdi>s)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/s/avsnitt/1"><i>samsvarsvurdering:</i> prosessen for å fastslå om et apparat oppfyller de grunnleggende kravene</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/t"><lverdi>t)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/t/avsnitt/1"><i>teknisk kontrollorgan:</i> uavhengig organ som er utpekt etter lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/u"><lverdi>u)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/u/avsnitt/1"><i>tilbakekalling:</i> ethvert tiltak med sikte på tilbakelevering av et apparat som allerede er gjort tilgjengelig for sluttbrukeren</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/v"><lverdi>v)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/v/avsnitt/1"><i>tilbaketrekking:</i> ethvert tiltak med sikte på å hindre at et apparat i omsetningskjeden blir gjort tilgjengelig på markedet</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/w"><lverdi>w)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/w/avsnitt/1"><i>CE-merking:</i> merking der produsenten angir at apparatet er i samsvar med gjeldende krav fastsatt i EØS-regelverk om slik merking</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/1/liste/x"><lverdi>x)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/1/liste/x/avsnitt/1"><i>EØS-regelverk:</i> regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/1/paragraf/4/ledd/2">(2) I forskriften skal følgende anses som et apparat:
+<liste id="/kapittel/1/paragraf/4/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/2/liste/a/avsnitt/1">«komponenter» eller «delenheter» som er beregnet på å bygges inn i et apparat av sluttbrukeren, og som kan skape elektromagnetisk forstyrrelse, eller som har en virkemåte som kan påvirkes av slik forstyrrelse</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/4/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/4/ledd/2/liste/b/avsnitt/1">«flyttbare anlegg» definert som en kombinasjon av apparater og eventuelt andre apparater og faste installasjoner, som er beregnet på å flyttes og brukes på en rekke ulike steder.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k1/p5">
+        <pverdi>§ 5.</pverdi>
+        <ptittel>Grunnleggende krav</ptittel>
+        <ledd id="/kapittel/1/paragraf/5/ledd/1">Apparater og faste installasjoner skal oppfylle de grunnleggende kravene i vedlegg I.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k1/p6">
+        <pverdi>§ 6.</pverdi>
+        <ptittel>Når apparater og faste installasjoner kan gjøres tilgjengelig på markedet</ptittel>
+        <ledd id="/kapittel/1/paragraf/6/ledd/1">(1) Apparater og faste installasjoner kan bare gjøres tilgjengelig på markedet dersom de er i samsvar med forskriften og dette kan dokumenteres på fastsatt måte.</ledd>
+        <ledd id="/kapittel/1/paragraf/6/ledd/2">(2) Apparater og faste installasjoner som ikke oppfyller kravene i forskriften kan likevel vises frem på messer, utstillinger, demonstrasjoner eller lignende arrangementer når utstiller sørger for et skilt med tydelig informasjon om at produktet ikke kan gjøres tilgjengelig eller tas i bruk før de er brakt i samsvar med forskriften. Under demonstrasjoner skal det treffes hensiktsmessige tiltak for å unngå elektromagnetiske forstyrrelser.</ledd>
+        <ledd id="/kapittel/1/paragraf/6/ledd/3">(3) Kravene i forskriften er ikke til hinder for at Direktoratet for samfunnssikkerhet og beredskap kan benytte følgende særlige tiltak i forbindelse med at apparater og faste installasjoner tas i bruk eller brukes:
+<liste id="/kapittel/1/paragraf/6/ledd/3/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/6/ledd/3/liste/a/avsnitt/1">tiltak for å løse et eksisterende eller forutsett problem knyttet til elektromagnetisk kompatibilitet på et bestemt sted</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/6/ledd/3/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/6/ledd/3/liste/b/avsnitt/1">tiltak truffet av sikkerhetsmessige grunner for å beskytte offentlige telekommunikasjonsnett eller mottaker- eller senderstasjoner når de anvendes for sikkerhetsformål i klart definerte spektrumsituasjoner.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Markedsdeltakernes forpliktelser</ktittel>
+      <paragraf id="/kapittel/2/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k2/p7">
+        <pverdi>§ 7.</pverdi>
+        <ptittel>Produsentens forpliktelser</ptittel>
+        <ledd id="/kapittel/2/paragraf/7/ledd/1">(1) En produsent skal sikre at apparater er konstruert og produsert i samsvar med vedlegg I når apparatet bringes i omsetning.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/2">(2) Produsenten skal utarbeide teknisk dokumentasjon etter vedleggene II og III og utføre eller få utført samsvarsvurdering etter § 18.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/3">(3) Produsenten skal, når det er påvist at apparatet samsvarer med kravene, CE-merke apparatet etter § 15 og utarbeide en samsvarserklæring etter § 14.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/4">(4) Produsenten skal oppbevare den tekniske dokumentasjonen og samsvarserklæringen i ti år etter at apparatet er brakt i omsetning.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/5">(5) Produsenten skal påse at det finnes framgangsmåter for å sikre fortsatt samsvar ved serieproduksjon. Det skal tas tilstrekkelig hensyn til endringer i apparatets konstruksjon eller egenskaper og endringer i harmoniserte standarder eller andre tekniske spesifikasjoner som det er vist til i samsvarserklæringen.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/6">(6) Produsenten skal sikre at apparatet har et type-, parti-, serienummer eller lignende som gjør det mulig å identifisere det. Dersom apparatets størrelse eller art ikke tillater dette, skal de nødvendige opplysningene gis på emballasjen eller i et dokument som følger med apparatet.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/7">(7) Produsenten skal angi navn, firma eller registrert varemerke og kontaktadresse på apparatet. Dersom dette ikke er mulig, skal kontaktopplysningene påføres emballasjen eller et dokument som følger med apparatet. Det skal oppgis én adresse der produsenten kan kontaktes. Kontaktopplysningene skal gis på en slik måte at de lett kan forstås av brukerne og markedstilsynsmyndighetene.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/8">(8) Produsenten skal sikre at apparatet følges av anvisninger og opplysninger om bruken nevnt i § 16. Opplysningene om bruken nevnt i § 16 skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom apparatet skal bringes i omsetning i en annen EØS-stat, skal anvisningene og opplysningene være på et språk fastsatt av denne EØS-staten. Anvisninger, opplysninger og eventuell merking skal være tydelig, forståelig og lesbar.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/9">(9) En produsent som har grunn til å tro at et apparat som er brakt i omsetning, ikke er i samsvar med forskriften, skal straks treffe nødvendige korrigerende tiltak for å bringe apparatet i samsvar med forskriften, eller om nødvendig trekke tilbake eller tilbakekalle apparatet. Dersom apparatet utgjør en risiko, skal produsenten samtidig varsle relevante nasjonale myndigheter i de EØS-statene der apparatet er gjort tilgjengelig på markedet. Det skal særlig gis nærmere opplysninger om apparatets manglende samsvar og eventuelle korrigerende tiltak som er truffet.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/10">(10) Produsenten skal på anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å vise apparatets samsvar med forskriften. Informasjonen og dokumentasjon skal være på norsk, svensk, dansk eller engelsk. Dersom apparatet er brakt i omsetning i en annen EØS-stat, skal opplysningene være på et språk som aksepteres av denne EØS-staten. Produsenten skal på anmodning fra markedstilsynsmyndighetene samarbeide med disse om alle tiltak som er truffet for å fjerne risiko forbundet med apparatet som er brakt i omsetning.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k2/p8">
+        <pverdi>§ 8.</pverdi>
+        <ptittel>Representantens forpliktelser</ptittel>
+        <ledd id="/kapittel/2/paragraf/8/ledd/1">(1) En produsent kan ved skriftlig fullmakt utpeke en representant.</ledd>
+        <ledd id="/kapittel/2/paragraf/8/ledd/2">(2) Forpliktelsene etter § 7 første og annet ledd skal ikke omfattes av representantens fullmakt.</ledd>
+        <ledd id="/kapittel/2/paragraf/8/ledd/3">(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til å
+<liste id="/kapittel/2/paragraf/8/ledd/3/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/8/ledd/3/liste/a/avsnitt/1">ha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at apparatet er brakt i omsetning</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/8/ledd/3/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/8/ledd/3/liste/b/avsnitt/1">på anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at apparatet er i samsvar med forskriften</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/8/ledd/3/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/8/ledd/3/liste/c/avsnitt/1">på anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med apparater som omfattes av fullmakten.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k2/p9">
+        <pverdi>§ 9.</pverdi>
+        <ptittel>Importørens forpliktelser</ptittel>
+        <ledd id="/kapittel/2/paragraf/9/ledd/1">(1) Importøren skal bare bringe i omsetning apparater som er i samsvar med forskriften.</ledd>
+        <ledd id="/kapittel/2/paragraf/9/ledd/2">(2) Før et apparat bringes i omsetning skal importøren sikre at
+<liste id="/kapittel/2/paragraf/9/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/9/ledd/2/liste/a/avsnitt/1">produsenten har gjennomført relevant framgangsmåte for samsvarsvurdering</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/9/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/9/ledd/2/liste/b/avsnitt/1">produsenten har utarbeidet teknisk dokumentasjon</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/9/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/9/ledd/2/liste/c/avsnitt/1">apparatet er påført CE-merking</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/9/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/2/paragraf/9/ledd/2/liste/d/avsnitt/1">apparatet følges av de nødvendige dokumentene</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/9/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/2/paragraf/9/ledd/2/liste/e/avsnitt/1">produsenten har oppfylt kravene i § 7 sjette og sjuende ledd.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/9/ledd/3">(3) En importør som har grunn til å tro at et apparat ikke er i samsvar med kravene i vedlegg I, skal ikke bringe apparatet i omsetning før det er i samsvar med kravene. Dersom apparatet utgjør en risiko, skal importøren varsle produsenten og markedstilsynsmyndighetene.</ledd>
+        <ledd id="/kapittel/2/paragraf/9/ledd/4">(4) Importøren skal angi navn, firma eller registrert varemerke og kontaktadresse på apparatet. Dersom dette ikke er mulig, skal kontaktopplysningene påføres emballasjen eller et dokument som følger med apparatet. Opplysningene skal gis på en slik måte at de lett kan forstås av brukerne og markedstilsynsmyndighetene.</ledd>
+        <ledd id="/kapittel/2/paragraf/9/ledd/5">(5) Importøren skal sikre at apparatet følges av anvisninger og opplysninger om bruken nevnt i § 16. Opplysningene om bruken nevnt i § 16 skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom apparatet skal bringes i omsetning i en annen EØS-stat, skal anvisningene og opplysningene være på et språk fastsatt av denne EØS-staten.</ledd>
+        <ledd id="/kapittel/2/paragraf/9/ledd/6">(6) Importøren skal så lenge han har ansvar for et apparat, sikre at lagrings- eller transportforholdene ikke setter apparatets samsvar med kravene i vedlegg I i fare.</ledd>
+        <ledd id="/kapittel/2/paragraf/9/ledd/7">(7) En importør som har grunn til å tro at et apparat som er brakt i omsetning ikke er i samsvar med forskriften, skal straks treffe nødvendige korrigerende tiltak for å bringe apparatet i samsvar med forskriften eller, om nødvendig, trekke tilbake eller tilbakekalle apparatet. Dersom apparatet utgjør en risiko, skal importøren samtidig varsle relevante nasjonale myndigheter i de EØS-statene der apparatet er gjort tilgjengelig på markedet. Det skal særlig gis nærmere opplysninger om apparatets manglende samsvar og eventuelle korrigerende tiltak som er truffet.</ledd>
+        <ledd id="/kapittel/2/paragraf/9/ledd/8">(8) Importøren skal ha kopi av samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at produktet er brakt i omsetning.</ledd>
+        <ledd id="/kapittel/2/paragraf/9/ledd/9">(9) Importøren skal på anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å vise apparatets samsvar med forskriften. Informasjonen og dokumentasjonen skal være på norsk, svensk, dansk eller engelsk. Dersom apparatet er brakt i omsetning i en annen EØS-stat, skal opplysningene være på et språk som aksepteres av denne EØS-staten. Importøren skal på anmodning fra markedstilsynsmyndighetene samarbeide med disse om alle tiltak som er truffet for å fjerne risiko forbundet med apparatet som er brakt i omsetning.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k2/p10">
+        <pverdi>§ 10.</pverdi>
+        <ptittel>Distributørens forpliktelser</ptittel>
+        <ledd id="/kapittel/2/paragraf/10/ledd/1">(1) Distributøren skal utvise tilstrekkelig aktsomhet til kravene i forskriften når apparatet gjøres tilgjengelig på markedet.</ledd>
+        <ledd id="/kapittel/2/paragraf/10/ledd/2">(2) Før et apparat gjøres tilgjengelig på markedet, skal distributøren kontrollere at
+<liste id="/kapittel/2/paragraf/10/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/10/ledd/2/liste/a/avsnitt/1">apparatet er påført CE-merking</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/10/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/10/ledd/2/liste/b/avsnitt/1">apparatet følges av de nødvendige dokumentene</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/10/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/10/ledd/2/liste/c/avsnitt/1">apparatet følges av opplysningene om bruken nevnt i § 16 på norsk og øvrige anvisninger på norsk, svensk, dansk eller engelsk. Dersom apparatet skal gjøres tilgjengelig på markedet i en annen EØS-stat skal opplysningene være på et språk fastsatt av denne EØS-staten</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/10/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/2/paragraf/10/ledd/2/liste/d/avsnitt/1">produsenten har oppfylt kravene i § 7 sjette og sjuende ledd</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/10/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/2/paragraf/10/ledd/2/liste/e/avsnitt/1">importøren har oppfylt kravene i § 9 fjerde ledd.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/10/ledd/3">(3) En distributør som har grunn til å tro at et apparat ikke er i samsvar med kravene i vedlegg I, skal ikke gjøre apparatet tilgjengelig på markedet før det er i samsvar med kravene. Dersom apparatet utgjør en risiko, skal distributøren varsle markedstilsynsmyndighetene og produsenten eller importøren om dette.</ledd>
+        <ledd id="/kapittel/2/paragraf/10/ledd/4">(4) Distributøren skal så lenge han har ansvar for et apparat, sikre at lagrings- eller transportforholdene ikke setter apparatets samsvar med kravene i vedlegg I i fare.</ledd>
+        <ledd id="/kapittel/2/paragraf/10/ledd/5">(5) En distributør som har grunn til å tro at et apparat som er gjort tilgjengelig på markedet ikke er i samsvar med forskriften, skal sikre at det treffes nødvendige korrigerende tiltak for å bringe apparatet i samsvar med forskriften, eller, om nødvendig, trekke tilbake eller tilbakekalle apparatet. Dersom apparatet utgjør en risiko, skal distributøren samtidig varsle relevante nasjonale myndigheter i de EØS-statene der apparatet er gjort tilgjengelig på markedet. Det skal særlig gis nærmere opplysninger om apparatets manglende samsvar og eventuelle korrigerende tiltak som er truffet.</ledd>
+        <ledd id="/kapittel/2/paragraf/10/ledd/6">(6) Distributøren skal på anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise apparats samsvar med forskriften. Distributøren skal på anmodning fra markedstilsynsmyndighetene samarbeide med disse om alle tiltak som er truffet for å fjerne risiko forbundet med apparatet som er gjort tilgjengelige på markedet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k2/p11">
+        <pverdi>§ 11.</pverdi>
+        <ptittel>Tilfeller der produsentens forpliktelser får anvendelse på importøren eller distributøren</ptittel>
+        <ledd id="/kapittel/2/paragraf/11/ledd/1">En importør eller distributør skal anses som produsent og være underlagt produsentens forpliktelser etter § 7 når importøren eller distributøren bringer et apparat i omsetning under eget navn eller varemerke, eller endrer et apparat som allerede er brakt i omsetning på en slik måte at det kan påvirke apparatets samsvar med forskriften.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/12" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k2/p12">
+        <pverdi>§ 12.</pverdi>
+        <ptittel>Identifikasjon av markedsdeltakere</ptittel>
+        <ledd id="/kapittel/2/paragraf/12/ledd/1">Markedsdeltakerne skal på anmodning fra markedstilsynsmyndighetene kunne identifisere enhver markedsdeltaker som de har mottatt apparater fra og som de har levert apparater til. Denne plikten gjelder i ti år etter at markedsdeltakerne fikk apparatet levert eller selv leverte apparatet.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Samsvar</ktittel>
+      <paragraf id="/kapittel/3/paragraf/13" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k3/p13">
+        <pverdi>§ 13.</pverdi>
+        <ptittel>Samsvarsformodning for apparater og faste installasjoner</ptittel>
+        <ledd id="/kapittel/3/paragraf/13/ledd/1">Apparater og faste installasjoner som er i samsvar med harmoniserte standarder eller deler av slike, skal antas å oppfylle de grunnleggende kravene i vedlegg I i den utstrekning standardene eller deler av dem omfatter disse kravene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/14" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k3/p14">
+        <pverdi>§ 14.</pverdi>
+        <ptittel>Samsvarserklæring</ptittel>
+        <ledd id="/kapittel/3/paragraf/14/ledd/1">(1) Samsvarserklæringen skal fastslå at kravene i vedlegg I er oppfylt.</ledd>
+        <ledd id="/kapittel/3/paragraf/14/ledd/2">(2) Samsvarserklæringen skal
+<liste id="/kapittel/3/paragraf/14/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/14/ledd/2/liste/a/avsnitt/1">utformes etter malen i vedlegg IV</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/14/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/14/ledd/2/liste/b/avsnitt/1">inneholde elementene angitt i de relevante framgangsmåtene for samsvarsvurdering i vedleggene II og III</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/14/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/14/ledd/2/liste/c/avsnitt/1">ajourføres fortløpende.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/14/ledd/3">(3) Samsvarserklæringen skal være på norsk, svensk, dansk eller engelsk. Dersom apparatet skal bringes i omsetning eller gjøres tilgjengelig på markedet i en annen EØS-stat, skal samsvarserklæringen oversettes til det eller de språkene som kreves av denne EØS-staten.</ledd>
+        <ledd id="/kapittel/3/paragraf/14/ledd/4">(4) Dersom et apparat omfattes av mer enn én EØS-rettsakt som krever samsvarserklæring, skal det utarbeides én samsvarserklæring som omfatter alle slike EØS-rettsakter. Erklæringen skal angi hvilke EØS-rettsakter den gjelder, herunder henvisninger til hvor de er kunngjort.</ledd>
+        <ledd id="/kapittel/3/paragraf/14/ledd/5">(5) Ved å utarbeide samsvarserklæringen påtar produsenten seg ansvaret for at apparatet er i samsvar med forskriften.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/15" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k3/p15">
+        <pverdi>§ 15.</pverdi>
+        <ptittel>Utforming og påføring av CE-merkingen</ptittel>
+        <ledd id="/kapittel/3/paragraf/15/ledd/1">(1) CE-merkingen skal bare påføres av produsenten eller dennes representant.</ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/2">(2) Ved å påføre eller få påført CE-merkingen påtar produsenten seg ansvaret for at apparatet er i samsvar med kravene i forskriften.</ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/3">(3) CE-merkingen skal være den eneste merkingen som bekrefter at apparatet er i samsvar med kravene.</ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/4">(4) Det er forbudt å påføre et apparat merking, tegn eller inskripsjoner som kan villede tredjemann om CE-merkingens betydning eller grafiske utforming. Annen merking kan påføres apparatet, forutsatt at den ikke gjør CE-merkingen mindre synlig, lesbar eller endrer dens betydning.</ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/5">(5) CE-merkingen skal påføres apparatet eller apparatets merkeskilt slik at den er godt synlig, lett å lese og ikke kan fjernes. Dersom apparatets art gjør at dette ikke er mulig eller berettiget, skal den påføres emballasjen og i medfølgende dokumenter.</ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/6">(6) CE-merkingen skal påføres før apparatet bringes i omsetning.</ledd>
+        <ledd id="/kapittel/3/paragraf/15/ledd/7">(7) CE-merkingen skal være utformet som vist i vedlegg V.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/16" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k3/p16">
+        <pverdi>§ 16.</pverdi>
+        <ptittel>Opplysninger om bruken</ptittel>
+        <ledd id="/kapittel/3/paragraf/16/ledd/1">(1) Apparater skal følges av opplysninger om eventuelle særlige forholdsregler som skal tas når apparatet monteres, installeres, vedlikeholdes eller brukes. Dette skal sikre at apparatet er i samsvar med kravene i vedlegg I nr. 1 når det tas i bruk.</ledd>
+        <ledd id="/kapittel/3/paragraf/16/ledd/2">(2) Apparater hvor samsvar med kravene i vedlegg I nr. 1 ikke er ivaretatt i boligområder, skal følges av en tydelig angivelse av denne bruksbegrensningen. Angivelsen kan eventuelt også gis på emballasjen.</ledd>
+        <ledd id="/kapittel/3/paragraf/16/ledd/3">(3) Bruksanvisningen som følger apparatet, skal omfatte de opplysningene som kreves for at apparatet skal kunne brukes i samsvar med det planlagte formålet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/17" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k3/p17">
+        <pverdi>§ 17.</pverdi>
+        <ptittel>Faste installasjoner</ptittel>
+        <ledd id="/kapittel/3/paragraf/17/ledd/1">(1) Apparater som er gjort tilgjengelig på markedet, og som kan bygges inn i en fast installasjon, skal omfattes av alle relevante bestemmelser for apparater i denne forskriften.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/2">(2) Kravene i § 5, § 7 til § 12, § 14 til § 16 og § 18 skal imidlertid ikke være bindende for apparater som er beregnet på å bygges inn i en bestemt fast installasjon, og som ellers ikke er gjort tilgjengelig på markedet.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/3">(3) I slike tilfeller skal den faste installasjonens identitet og dens egenskaper med hensyn til elektromagnetisk kompatibilitet framgå av den medfølgende dokumentasjonen. Dokumentasjonen skal også angi hvilke forholdsregler som skal tas når apparatet bygges inn i den faste installasjonen, for å unngå at den aktuelle installasjonens samsvar med forskriften forringes. Den skal også inneholde opplysningene i § 7 sjette og sjuende ledd og § 9 fjerde ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/4">(4) Den gode tekniske praksisen omtalt i vedlegg I nr. 2 skal dokumenteres. Dokumentasjonen skal være tilgjengelig for inspeksjon av markedstilsynsmyndighetene hos den eller de ansvarlige personer så lenge den faste installasjonen er i drift.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/5">(5) Dersom det er tegn til at den faste installasjonen ikke oppfyller kravene, særlig dersom det er framsatt klager om at installasjonen skaper forstyrrelser, kan markedstilsynsmyndighetene be om bevis på at den faste installasjonen oppfyller kravene, og eventuelt innlede en evaluering.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/6">(6) Eier og bruker av en fast installasjon som omfattes av forskriften, skal sørge for at det blir foretatt nødvendig ettersyn og vedlikehold slik at den faste installasjonen til enhver tid tilfredsstiller kravene i vedlegg I.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/7">(7) Enhver som prosjekterer, utfører, endrer eller foretar vedlikehold av den faste installasjonen som omfattes av forskriften, er ansvarlig for at kravene i vedlegg I er oppfylt.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Samsvarsvurdering</ktittel>
+      <paragraf id="/kapittel/4/paragraf/18" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k4/p18">
+        <pverdi>§ 18.</pverdi>
+        <ptittel>Framgangsmåter for samsvarsvurdering</ptittel>
+        <ledd id="/kapittel/4/paragraf/18/ledd/1">(1) Apparaters samsvar med kravene i vedlegg I skal påvises ved hjelp av en av følgende framgangsmåter for samsvarsvurdering:
+<liste id="/kapittel/4/paragraf/18/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/18/ledd/1/liste/a/avsnitt/1">intern produksjonskontroll i vedlegg II</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/18/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/18/ledd/1/liste/b/avsnitt/1">EU-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i vedlegg III.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/4/paragraf/18/ledd/2">(2) Produsenten kan velge å begrense anvendelsen av framgangsmåten nevnt i første ledd bokstav b til visse aspekter ved de grunnleggende kravene, forutsatt at framgangsmåten omhandlet i første ledd bokstav a anvendes for de øvrige aspektene ved de grunnleggende kravene.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k5">
+      <kverdi>Kapittel 5</kverdi>
+      <ktittel>Teknisk kontrollorgan</ktittel>
+      <paragraf id="/kapittel/5/paragraf/19" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k5/p19">
+        <pverdi>§ 19.</pverdi>
+        <ptittel>Krav til tekniske kontrollorgan</ptittel>
+        <ledd id="/kapittel/5/paragraf/19/ledd/1">(1) Et teknisk kontrollorgan skal opprettes etter norsk lovgivning og være en juridisk person.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/2">(2) Et teknisk kontrollorgan skal være en tredjepart som er uavhengig av organisasjonen eller apparatet det vurderer.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/3">(3) Et organ som tilhører en næringslivs- eller yrkesorganisasjon som representerer foretak som deltar i konstruksjon, produksjon, levering, montering, bruk eller vedlikehold av apparater som organet vurderer, kan utpekes, forutsatt at organet er uavhengig og at det ikke foreligger interessekonflikter.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/4">(4) Et teknisk kontrollorgan, dets øverste ledelse og personalet som har ansvar for å utføre samsvarsvurderinger, skal ikke være de som konstruerer, produserer, leverer, installerer, kjøper, eier, bruker eller vedlikeholder apparater de vurderer, eller være representant for noen av disse partene. Dette skal ikke hindre bruk av vurderte apparater som er nødvendige for virksomheten til det tekniske kontrollorganet, eller bruk av slike apparater for personlige formål.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/5">(5) Et teknisk kontrollorgan, dets øverste ledelse og personalet som har ansvar for å utføre samsvarsvurderinger, skal ikke delta direkte i konstruksjon, produksjon, markedsføring, installasjon, bruk eller vedlikehold av disse apparatene, eller representere parter som deltar i slik virksomhet. De skal ikke delta i virksomhet som kan påvirke deres uavhengige vurdering eller integritet i forbindelse med samsvarsvurderingsvirksomheten de er utpekt for. Dette gjelder særlig rådgivningstjenester.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/6">(6) Et teknisk kontrollorgan skal sikre at virksomhet i datterforetak eller underleverandører ikke påvirker fortroligheten, objektiviteten eller upartiskheten i organets samsvarsvurderingsvirksomhet.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/7">(7) Et teknisk kontrollorgan og dets personale skal utøve sin samsvarsvurderingsvirksomhet med høy grad av faglig integritet og ha nødvendige tekniske kvalifikasjoner på det aktuelle området. De skal ikke være utsatt for noen form for press eller påvirkning, særlig av økonomisk art, som kan påvirke deres vurderinger eller resultatene av deres samsvarsvurderingsvirksomhet, særlig ikke fra personer eller grupper av personer som berøres av resultatene av denne virksomheten.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/8">(8) Et teknisk kontrollorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt etter vedlegg III og som det er utpekt for. Dette gjelder uansett om disse oppgavene utføres av organet selv eller på dets vegne og under dets ansvar.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/9">(9) Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av apparater som det er utpekt for, ha til rådighet
+<liste id="/kapittel/5/paragraf/19/ledd/9/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/5/paragraf/19/ledd/9/liste/a/avsnitt/1">nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingen</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/19/ledd/9/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/5/paragraf/19/ledd/9/liste/b/avsnitt/1">beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/19/ledd/9/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/5/paragraf/19/ledd/9/liste/c/avsnitt/1">egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som teknisk kontrollorgan og annen virksomhet</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/19/ledd/9/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/5/paragraf/19/ledd/9/liste/d/avsnitt/1">framgangsmåter for utførelse av virksomheten som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle apparatets teknologi er og produksjonsprosessens masse- eller seriepreg.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/10">(10) Et teknisk kontrollorgan skal ha nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/11">(11) Personale med ansvar for å utføre samsvarsvurderinger skal ha
+<liste id="/kapittel/5/paragraf/19/ledd/11/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/5/paragraf/19/ledd/11/liste/a/avsnitt/1">solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt for</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/19/ledd/11/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/5/paragraf/19/ledd/11/liste/b/avsnitt/1">tilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderinger</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/19/ledd/11/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/5/paragraf/19/ledd/11/liste/c/avsnitt/1">tilfredsstillende kunnskap om og forståelse av kravene i vedlegg I, de relevante harmoniserte standardene, relevante bestemmelser i norsk regelverk som gjennomfører EØS-regelverk og relevant nasjonal lovgivning</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/19/ledd/11/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/5/paragraf/19/ledd/11/liste/d/avsnitt/1">nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/12">(12) Det skal sikres at det tekniske kontrollorganet, dets øverste ledelse og vurderingspersonale er upartiske.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/13">(13) Godtgjøringen til det tekniske kontrollorganets øverste ledelse og til vurderingspersonalet skal ikke være avhengig av antallet utførte vurderinger eller av resultatene av slike vurderinger.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/14">(14) Et teknisk kontrollorgan skal tegne ansvarsforsikring med mindre staten påtar seg ansvar eller selv er direkte ansvarlig for samsvarsvurderingen.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/15">(15) Et teknisk kontrollorgan sitt personale har taushetsplikt om alle opplysninger de får kjennskap til når de utfører sine oppgaver etter vedlegg III, unntatt overfor vedkommende myndigheter i den EØS-staten der organet utøver sin virksomhet.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/16">(16) Et teknisk kontrollorgan skal delta i eller påse at deres vurderingspersonale blir informert om relevant standardiseringsvirksomhet og virksomheten til samordningsgruppen for tekniske kontrollorganer, og anvende forvaltningsvedtakene og dokumentene som er resultat av denne gruppens arbeid, som generelle retningslinjer.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/20" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k5/p20">
+        <pverdi>§ 20.</pverdi>
+        <ptittel>Samsvarsformodning</ptittel>
+        <ledd id="/kapittel/5/paragraf/20/ledd/1">Dersom et organ dokumenterer at det oppfyller kriteriene fastsatt i de relevante harmoniserte standardene eller deler av disse skal det antas å oppfylle kravene i § 19 i den utstrekning de relevante harmoniserte standardene omfatter disse kravene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/21" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k5/p21">
+        <pverdi>§ 21.</pverdi>
+        <ptittel>Datterforetak og underleverandører</ptittel>
+        <ledd id="/kapittel/5/paragraf/21/ledd/1">(1) Dersom et teknisk kontrollorgan overdrar bestemte oppgaver i forbindelse med samsvarsvurderingen til en underleverandør eller et datterforetak, skal det sikre at disse oppfyller kravene i § 19 og informere Direktoratet for samfunnssikkerhet og beredskap om dette.</ledd>
+        <ledd id="/kapittel/5/paragraf/21/ledd/2">(2) Det tekniske kontrollorganet skal påta seg det fulle ansvaret for de oppgavene som blir utført av underleverandører eller datterforetak, uansett hvor disse er etablert.</ledd>
+        <ledd id="/kapittel/5/paragraf/21/ledd/3">(3) Oppgaver kan overdras til en underleverandør eller et datterforetak dersom kunden har samtykket til dette.</ledd>
+        <ledd id="/kapittel/5/paragraf/21/ledd/4">(4) Det tekniske kontrollorganet skal kunne stille de relevante dokumentene om vurderingen av underleverandørens eller datterforetakets kvalifikasjoner og det arbeidet de har utført etter vedlegg III, til rådighet for Direktoratet for samfunnssikkerhet og beredskap.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/22" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k5/p22">
+        <pverdi>§ 22.</pverdi>
+        <ptittel>Søknad om utpeking</ptittel>
+        <ledd id="/kapittel/5/paragraf/22/ledd/1">(1) Et organ som vil bli utpekt som teknisk kontrollorgan, skal søke Direktoratet for samfunnssikkerhet og beredskap om dette.</ledd>
+        <ledd id="/kapittel/5/paragraf/22/ledd/2">(2) Organet skal ved utpekingen oppfylle kravene i § 19.</ledd>
+        <ledd id="/kapittel/5/paragraf/22/ledd/3">(3) Søknaden skal følges av en beskrivelse av samsvarsvurderingsvirksomheten, den eller de samsvarsvurderingsmodulene og det eller de apparatene som organet hevder å være kompetent for, og et akkrediteringsbevis utstedt av Norsk akkreditering som bekrefter at organet oppfyller kravene i § 19.</ledd>
+        <ledd id="/kapittel/5/paragraf/22/ledd/4">(4) Dersom organet ikke kan legge frem et akkrediteringsbevis, skal det gi Direktoratet for samfunnssikkerhet og beredskap den dokumentasjonen som er nødvendig for å kunne verifisere, anerkjenne og føre regelmessig tilsyn med at organet oppfyller kravene i § 19.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/23" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k5/p23">
+        <pverdi>§ 23.</pverdi>
+        <ptittel>Begrensning eller tilbaketrekking av utpeking</ptittel>
+        <ledd id="/kapittel/5/paragraf/23/ledd/1">Dersom et teknisk kontrollorgan ikke oppfyller sine forpliktelser, kan Direktoratet for samfunnssikkerhet og beredskap begrense, midlertidig oppheve eller trekke tilbake utpekingen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/24" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k5/p24">
+        <pverdi>§ 24.</pverdi>
+        <ptittel>Driftsmessige forpliktelser</ptittel>
+        <ledd id="/kapittel/5/paragraf/24/ledd/1">(1) Et teknisk kontrollorgan skal utføre samsvarsvurderinger etter framgangsmåtene for samsvarsvurdering etter vedlegg III.</ledd>
+        <ledd id="/kapittel/5/paragraf/24/ledd/2">(2) Samsvarsvurderinger skal utføres på en måte som står i forhold til målet, slik at markedsdeltakerne ikke pålegges unødige byrder. Et teknisk kontrollorgan skal utøve sin virksomhet slik at det tas tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle apparatets teknologi er og produksjonsprosessens masse- eller seriepreg. I den forbindelse skal det likevel sikres at det vernenivået som kreves for at apparatet skal være i samsvar med forskriften blir ivaretatt.</ledd>
+        <ledd id="/kapittel/5/paragraf/24/ledd/3">(3) Dersom et teknisk kontrollorgan fastslår at kravene i vedlegg I, tilhørende harmoniserte standarder eller andre tekniske spesifikasjoner ikke er oppfylt av en produsent, skal det kreve at produsenten treffer egnede korrigerende tiltak, og skal ikke utstede samsvarssertifikat.</ledd>
+        <ledd id="/kapittel/5/paragraf/24/ledd/4">(4) Dersom et teknisk kontrollorgan i forbindelse med samsvarskontroll etter utstedelsen av et sertifikat finner at et apparat ikke lenger er i samsvar med kravene, skal det kreve at produsenten treffer egnede korrigerende tiltak, og om nødvendig oppheve sertifikatet midlertidig eller trekke det tilbake.</ledd>
+        <ledd id="/kapittel/5/paragraf/24/ledd/5">(5) Dersom det ikke treffes korrigerende tiltak, eller dersom de ikke har den ønskede virkningen, skal det tekniske kontrollorganet begrense sertifikatet, oppheve det midlertidig eller trekke det tilbake, alt etter hva som er hensiktsmessig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/25" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k5/p25">
+        <pverdi>§ 25.</pverdi>
+        <ptittel>Opplysningsplikt</ptittel>
+        <ledd id="/kapittel/5/paragraf/25/ledd/1">(1) Et teknisk kontrollorgan skal varsle Direktoratet for samfunnssikkerhet og beredskap om
+<liste id="/kapittel/5/paragraf/25/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/5/paragraf/25/ledd/1/liste/a/avsnitt/1">alle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbake</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/25/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/5/paragraf/25/ledd/1/liste/b/avsnitt/1">alle omstendigheter som påvirker omfanget av eller vilkårene for utpeking</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/25/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/5/paragraf/25/ledd/1/liste/c/avsnitt/1">alle anmodninger det har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhet</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/25/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/5/paragraf/25/ledd/1/liste/d/avsnitt/1">på anmodning, samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, blant annet virksomhet og underleveranser over landegrensene.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/5/paragraf/25/ledd/2">(2) Et teknisk kontrollorgan skal gi de andre organene som utøver tilsvarende samsvarsvurderingsvirksomhet som omfatter de samme apparatene, relevante opplysninger om spørsmål knyttet til negative resultater av samsvarsvurderingen og dersom de ber om det, også positive resultater av samsvarsvurderingen.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/6" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k6">
+      <kverdi>Kapittel 6</kverdi>
+      <ktittel>Sluttbestemmelser og ikrafttredelse</ktittel>
+      <paragraf id="/kapittel/6/paragraf/26" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k6/p26">
+        <pverdi>§ 26.</pverdi>
+        <ptittel>Tilsyn</ptittel>
+        <ledd id="/kapittel/6/paragraf/26/ledd/1">Direktoratet for samfunnssikkerhet og beredskap, eller den direktoratet bemyndiger, og Petroleumstilsynet fører tilsyn etter forskriften og kan innenfor sine tilsynsområder fatte nødvendige vedtak og fastsette vilkår for å gjennomføre bestemmelsene i forskriften.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/27" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k6/p27">
+        <pverdi>§ 27.</pverdi>
+        <ptittel>Klage</ptittel>
+        <ledd id="/kapittel/6/paragraf/27/ledd/1">(1) Vedtak truffet av Direktoratet for samfunnssikkerhet og beredskap eller den direktoratet bemyndiger, kan påklages til Justis- og beredskapsdepartementet.</ledd>
+        <ledd id="/kapittel/6/paragraf/27/ledd/2">(2) Vedtak truffet av Petroleumstilsynet, kan påklages til Arbeids- og sosialdepartementet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/28" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k6/p28">
+        <pverdi>§ 28.</pverdi>
+        <ptittel>Forbud, tilbakekall m.m.</ptittel>
+        <ledd id="/kapittel/6/paragraf/28/ledd/1">(1) Ved overtredelse av § 5 til § 10, § 12 og § 14 til § 18 i forskriften eller vedtak truffet i medhold av denne, gjelder el-tilsynsloven § 6, § 6a og § 6b og petroleumsloven § 10-1 og § 10-3.</ledd>
+        <ledd id="/kapittel/6/paragraf/28/ledd/2">(2) Dersom et apparat kan utgjøre en risiko, eller ikke er i samsvar med § 5 til § 10, § 12 og § 14 til § 18 i forskriften, kan Direktoratet for samfunnssikkerhet og beredskap og Petroleumstilsynet:
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/a/avsnitt/1">nedlegge forbud mot å importere, bringe i omsetning eller gjøre apparatet tilgjengelig på markedet</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/b/avsnitt/1">kreve at apparatet tilbaketrekkes fra relevante markedsaktører</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/c/avsnitt/1">kreve at apparatet tilbakekalles fra den som har kjøpt apparatet eller tatt det i bruk</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/d/avsnitt/1">kreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av slike apparater</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/e/avsnitt/1">kreve retting av apparatet</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/f/avsnitt/1">kreve at apparatet uskadeliggjøres</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/g/avsnitt/1">nedlegge forbud mot bruk av apparatet</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/h/avsnitt/1">kreve merking av apparatet.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/29" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k6/p29">
+        <pverdi>§ 29.</pverdi>
+        <ptittel>Tvangsmulkt</ptittel>
+        <ledd id="/kapittel/6/paragraf/29/ledd/1">Ved overtredelse av vedtak truffet i medhold av § 5 til § 10, § 12 og § 14 til § 18 i forskriften, gjelder bestemmelsene om tvangsmulkt i el-tilsynsloven § 13 og petroleumsloven § 10-16.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/30" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k6/p30">
+        <pverdi>§ 30.</pverdi>
+        <ptittel>Overtredelsesgebyr</ptittel>
+        <ledd id="/kapittel/6/paragraf/30/ledd/1">Den som forsettlig eller uaktsomt overtrer § 5 til § 10, § 12 og § 14 til § 18 i forskriften, kan på områder som omfattes av el-tilsynsloven ilegges overtredelsesgebyr.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/31" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k6/p31">
+        <pverdi>§ 31.</pverdi>
+        <ptittel>Straff</ptittel>
+        <ledd id="/kapittel/6/paragraf/31/ledd/1">Overtredelse av § 5 til § 10, § 12 og § 15 til § 18 i forskriften eller vedtak truffet i medhold av forskriften, kan straffes etter el-tilsynsloven § 14 og petroleumsloven § 10-17.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/32" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k6/p32">
+        <pverdi>§ 32.</pverdi>
+        <ptittel>Overgangsbestemmelser</ptittel>
+        <ledd id="/kapittel/6/paragraf/32/ledd/1">(1) Apparater som omfattes av forskrift 14. januar 2011 nr. 36 om elektrisk utstyr, som er i samsvar med nevnte forskrift og som er brakt i omsetning før 11. oktober 2017, kan gjøres tilgjengelige på markedet eller tas i bruk.</ledd>
+        <ledd id="/kapittel/6/paragraf/32/ledd/2">(2) Utpekinger gitt fra og med 20. april 2016 med hjemmel i lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar, lov 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr og forskrift 14. januar 2011 nr. 36 om elektrisk utstyr videreføres.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/33" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k6/p33">
+        <pverdi>§ 33.</pverdi>
+        <ptittel>Ikrafttredelse</ptittel>
+        <ledd id="/kapittel/6/paragraf/33/ledd/1">Forskriften trer i kraft 11. oktober 2017. Fra samme tidspunkt oppheves forskrift 14. januar 2011 nr. 36 om elektrisk utstyr.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="vedlegg" id="/vedlegg/i" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/vi">
+      <kverdi>Vedlegg I</kverdi>
+      <ktittel>Grunnleggende krav <br/></ktittel>
+      <ledd id="/vedlegg/i/ledd/1">
+        <i>1. Allmenne krav</i>
+      </ledd>
+      <ledd id="/vedlegg/i/ledd/2">Apparater og faste installasjoner skal være konstruert og produsert i tråd med den nyeste utviklingen slik at
+<liste id="/vedlegg/i/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/vedlegg/i/ledd/2/liste/a/avsnitt/1">den elektromagnetiske forstyrrelsen som oppstår, ikke er sterkere enn at radio- og telekommunikasjonsutstyr eller andre apparater og faste installasjoner kan fungere som planlagt</avsnitt></liste>
+<liste id="/vedlegg/i/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/vedlegg/i/ledd/2/liste/b/avsnitt/1">det har en grad av immunitet mot elektromagnetisk forstyrrelse som kan forventes i forbindelse med tilsiktet bruk, som gjør at det fungerer uten at den planlagte yteevnen reduseres i uakseptabel grad.
+<br/></avsnitt></liste></ledd>
+      <ledd id="/vedlegg/i/ledd/3">
+        <i>2. Særlige krav til faste installasjoner</i>
+      </ledd>
+      <ledd id="/vedlegg/i/ledd/4">Installering og tilsiktet bruk for komponenter</ledd>
+      <ledd id="/vedlegg/i/ledd/5">En fast installasjon skal installeres i samsvar med god teknisk praksis samtidig som det tas hensyn til tilsiktet bruk for komponentene, med sikte på å oppfylle de grunnleggende krav i nr. 1.</ledd>
+    </kapittel>
+    <kapittel type="vedlegg" id="/vedlegg/ii" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/vii">
+      <kverdi>Vedlegg II</kverdi>
+      <ktittel/>
+      <kapittel type="vedlegg" id="/vedlegg/ii/overskrift/1" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/vii/?1">
+        <kverdi/>
+        <ktittel> Modul A: Intern produksjonskontroll</ktittel>
+        <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/1">
+          <lverdi>1.</lverdi>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/1/avsnitt/1">Med «intern produksjonskontroll» menes framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3, 4 og 5 i dette vedlegg, og sikrer og erklærer på eget ansvar at det berørte apparat oppfyller gjeldende krav i forskriften.</avsnitt>
+        </liste>
+        <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/2">
+          <lverdi>2.</lverdi>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/2/avsnitt/1">
+            <i>Vurdering av elektromagnetisk kompatibilitet</i>
+          </avsnitt>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/2/avsnitt/2">Produsenten skal foreta en vurdering av apparatets elektromagnetiske kompatibilitet på grunnlag av de relevante fenomener, med sikte på å oppfylle de grunnleggende krav fastsatt i vedlegg I nr. 1.</avsnitt>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/2/avsnitt/3">I vurderingen av elektromagnetisk kompatibilitet skal det tas hensyn til alle vanlige planlagte driftsforhold. Dersom apparatet kan konfigureres på ulike måter, skal det gjennom vurderingen av elektromagnetisk kompatibilitet fastslås om apparatet oppfyller de grunnleggende krav fastsatt i vedlegg I nr. 1, i alle de mulige konfigurasjoner produsenten har angitt som representative for apparatets planlagte bruk.</avsnitt>
+        </liste>
+        <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/3">
+          <lverdi>3.</lverdi>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/3/avsnitt/1">
+            <i>Teknisk dokumentasjon</i>
+          </avsnitt>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/3/avsnitt/2">Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om apparatet er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko.</avsnitt>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/3/avsnitt/3">Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke apparatets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:</avsnitt>
+          <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.a">
+            <lverdi>(a)</lverdi>
+            <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.a/avsnitt/1">en allmenn beskrivelse av apparatet,</avsnitt>
+          </liste>
+          <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.b">
+            <lverdi>(b)</lverdi>
+            <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.b/avsnitt/1">konstruksjons- og produksjonstegninger samt lister over komponenter, delenheter, kretser osv.,</avsnitt>
+          </liste>
+          <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.c">
+            <lverdi>(c)</lverdi>
+            <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.c/avsnitt/1">nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og apparatets virkemåte,</avsnitt>
+          </liste>
+          <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.d">
+            <lverdi>(d)</lverdi>
+            <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.d/avsnitt/1">en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende krav i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,</avsnitt>
+          </liste>
+          <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.e">
+            <lverdi>(e)</lverdi>
+            <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.e/avsnitt/1">resultater av konstruksjonsberegninger, undersøkelser osv.,</avsnitt>
+          </liste>
+          <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.f">
+            <lverdi>(f)</lverdi>
+            <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/3.f/avsnitt/1">prøvingsrapporter.</avsnitt>
+          </liste>
+        </liste>
+        <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/4">
+          <lverdi>4.</lverdi>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/4/avsnitt/1">
+            <i>Produksjon</i>
+          </avsnitt>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/4/avsnitt/2">Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og tilsynet med den sikrer at de produserte apparatene er i samsvar med den tekniske dokumentasjonen nevnt i nr. 3 i dette vedlegg og med de grunnleggende krav fastsatt i vedlegg I nr. 1.</avsnitt>
+        </liste>
+        <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/5">
+          <lverdi>5.</lverdi>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/5/avsnitt/1">
+            <i>CE-merking og samsvarserklæring</i>
+          </avsnitt>
+        </liste>
+        <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/5.1">
+          <lverdi>5.1</lverdi>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/5.1/avsnitt/1">Produsenten skal påføre CE-merkingen på hvert enkelt apparat som oppfyller gjeldende krav i forskriften.</avsnitt>
+        </liste>
+        <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/5.2">
+          <lverdi>5.2</lverdi>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/5.2/avsnitt/1">Produsenten skal utarbeide en skriftlig samsvarserklæring for hver apparatmodell og oppbevare den sammen med den tekniske dokumentasjonen og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at apparatet er brakt i omsetning. Samsvarserklæringen skal angi hvilket apparat den er utarbeidet for.</avsnitt>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/5.2/avsnitt/2">En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.</avsnitt>
+        </liste>
+        <liste id="/vedlegg/ii/overskrift/1/ledd/1/liste/6">
+          <lverdi>6.</lverdi>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/6/avsnitt/1">
+            <i>Representant</i>
+          </avsnitt>
+          <avsnitt id="/vedlegg/ii/overskrift/1/ledd/1/liste/6/avsnitt/2">Produsentens forpliktelser angitt i nr. 5 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.</avsnitt>
+        </liste>
+      </kapittel>
+    </kapittel>
+    <kapittel type="vedlegg" id="/vedlegg/iii" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/viii">
+      <kverdi>Vedlegg III</kverdi>
+      <ktittel/>
+      <kapittel type="vedlegg" id="/vedlegg/iii/del/a" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/viii/da">
+        <kverdi>Del A</kverdi>
+        <ktittel/>
+        <kapittel type="vedlegg" id="/vedlegg/iii/del/a/overskrift/2" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/viii/da/?2">
+          <kverdi/>
+          <ktittel> Modul B: EU-typeprøving</ktittel>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/1">
+            <lverdi>1.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/1/avsnitt/1">Med EU-typeprøving menes den del av framgangsmåten for samsvarsvurdering der et teknisk kontrollorgan undersøker et apparats tekniske konstruksjon og kontrollerer og bekrefter at apparatets tekniske konstruksjon oppfyller de grunnleggende krav fastsatt i vedlegg 1 nr. 1.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/2">
+            <lverdi>2.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/2/avsnitt/1">EU-typeprøving skal gjennomføres som en vurdering av egnetheten til apparatets tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen nevnt i nr. 3, uten en undersøkelse av eksemplaret (konstruksjonstype). Den kan begrenses til visse aspekter ved de grunnleggende krav i henhold til produsenten eller hans representants spesifikasjon.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3">
+            <lverdi>3.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3/avsnitt/1">Produsenten skal inngi en søknad om EU-typeprøving til ett enkelt teknisk kontrollorgan etter eget valg.</avsnitt>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3/avsnitt/2">Søknaden skal angi de aspekter ved de grunnleggende krav anmodningen om prøving gjelder, og skal inneholde</avsnitt>
+            <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.a">
+              <lverdi>(a)</lverdi>
+              <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.a/avsnitt/1">produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,</avsnitt>
+            </liste>
+            <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.b">
+              <lverdi>(b)</lverdi>
+              <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.b/avsnitt/1">en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,</avsnitt>
+            </liste>
+            <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c">
+              <lverdi>(c)</lverdi>
+              <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c/avsnitt/1">den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om apparatet er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke apparatets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:</avsnitt>
+              <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.i">
+                <lverdi>(i)</lverdi>
+                <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.i/avsnitt/1">en allmenn beskrivelse av apparatet,</avsnitt>
+              </liste>
+              <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.ii">
+                <lverdi>(ii)</lverdi>
+                <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.ii/avsnitt/1">konstruksjons- og produksjonstegninger samt lister over komponenter, delenheter, kretser osv.,</avsnitt>
+              </liste>
+              <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.iii">
+                <lverdi>(iii)</lverdi>
+                <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.iii/avsnitt/1">nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og apparatets virkemåte,</avsnitt>
+              </liste>
+              <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.iv">
+                <lverdi>(iv)</lverdi>
+                <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.iv/avsnitt/1">en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende krav i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,</avsnitt>
+              </liste>
+              <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.v">
+                <lverdi>(v)</lverdi>
+                <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.v/avsnitt/1">resultater av konstruksjonsberegninger, undersøkelser osv.,</avsnitt>
+              </liste>
+              <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.vi">
+                <lverdi>(vi)</lverdi>
+                <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/3.c.vi/avsnitt/1">prøvingsrapporter.</avsnitt>
+              </liste>
+            </liste>
+          </liste>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/4">
+            <lverdi>4.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/4/avsnitt/1">Det tekniske kontrollorganet skal undersøke den tekniske dokumentasjonen for å vurdere om apparatets tekniske konstruksjon er velegnet i forhold til de aspekter ved de grunnleggende krav anmodningen om prøving gjelder.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/5">
+            <lverdi>5.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/5/avsnitt/1">Det tekniske kontrollorganet skal utarbeide en vurderingsrapport som beskriver tiltakene som er gjennomført i henhold til nr. 4, og resultatene av dem. Uten at det berører dets forpliktelser overfor Direktoratet for samfunnssikkerhet og beredskap, skal det tekniske kontrollorganet ikke offentliggjøre hele eller deler av innholdet i rapporten uten produsentens samtykke.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/6">
+            <lverdi>6.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/6/avsnitt/1">Når typen oppfyller kravene i forskriften som gjelder for det berørte apparat, skal det tekniske kontrollorganet utstede et EU-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde navn og adresse til produsenten, konklusjonene av undersøkelsen, aspektene ved de grunnleggende krav som er prøvet, eventuelle gyldighetsvilkår for det, og opplysningene som kreves for å identifisere den godkjente typen. EU-typeprøvingssertifikatet kan ha et eller flere vedlegg.</avsnitt>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/6/avsnitt/2">EU-typeprøvingssertifikatet og dets vedlegg skal inneholde alle opplysninger som er relevante for å kunne vurdere om de produserte apparatene er i samsvar med den undersøkte typen, og for å kontrollere apparatene i bruk.</avsnitt>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/6/avsnitt/3">Dersom typen ikke oppfyller gjeldende krav i forskriften, skal det tekniske kontrollorganet avslå å utstede et EF-typeprøvingssertifikat og underrette søkeren om dette, samt gi søkeren en detaljert begrunnelse for avslaget.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/7">
+            <lverdi>7.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/7/avsnitt/1">Det tekniske kontrollorganet skal holde seg underrettet om alle endringer i det allment anerkjente nåværende utviklingstrinn i teknikken som tyder på at den godkjente typen ikke lenger oppfyller gjeldende krav i forskriften, og avgjøre om slike endringer krever ytterligere undersøkelse. I så tilfelle skal det tekniske kontrollorganet underrette produsenten om dette.</avsnitt>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/7/avsnitt/2">Produsenten skal underrette det tekniske kontrollorganet som har den tekniske dokumentasjonen for EU-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan ha betydning for om apparatet er i samsvar med de grunnleggende krav i forskriften eller gyldighetsvilkårene for sertifikatet. Slike endringer krever tilleggsgodkjenning i form av et tillegg til det opprinnelige EU-typeprøvingssertifikatet.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/8">
+            <lverdi>8.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/8/avsnitt/1">Hvert teknisk kontrollorgan skal underrette Direktoratet for samfunnssikkerhet og beredskap om EU-typeprøvingssertifikatene og/eller eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for Direktoratet for samfunnssikkerhet og beredskap fortegnelser over slike sertifikater og/eller tillegg til dem som er avslått, midlertidig opphevet eller på andre måter begrenset.</avsnitt>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/8/avsnitt/2">Hvert teknisk kontrollorgan skal underrette de andre tekniske kontrollorganene om EU-typeprøvingssertifikatene og/eller eventuelle tillegg til dem som det har avslått, trukket tilbake, midlertidig opphevet eller på andre måter begrenset, og på anmodning om slike sertifikater og/eller tillegg til dem det har utstedt.</avsnitt>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/8/avsnitt/3">Kommisjonen, EØS-statene og de andre tekniske kontrollorganene kan på anmodning få en kopi av EU-typeprøvingssertifikatene og/eller tillegg til dem. På anmodning kan Kommisjonen og EØS-statene få en kopi av den tekniske dokumentasjonen og resultatene av de undersøkelsene som er gjennomført av det tekniske kontrollorganet. Det tekniske kontrollorganet skal oppbevare en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg og de tekniske dataene, herunder dokumentasjonen innsendt av produsenten, fram til utløpet av sertifikatets gyldighetsperiode.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/9">
+            <lverdi>9.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/9/avsnitt/1">Produsenten skal kunne framlegge en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg samt den tekniske dokumentasjonen for tilsynsmyndighetene i ti år etter at apparatet er brakt i omsetning.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/10">
+            <lverdi>10.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/a/overskrift/2/ledd/1/liste/10/avsnitt/1">Produsentens representant kan inngi søknaden nevnt i nr. 3 og oppfylle forpliktelsene angitt i nr. 7 og 9, forutsatt at de er angitt i fullmakten.</avsnitt>
+          </liste>
+        </kapittel>
+      </kapittel>
+      <kapittel type="vedlegg" id="/vedlegg/iii/del/b" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/viii/db">
+        <kverdi>Del B</kverdi>
+        <ktittel/>
+        <kapittel type="vedlegg" id="/vedlegg/iii/del/b/overskrift/3" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/viii/db/?3">
+          <kverdi/>
+          <ktittel> Modul C: Typesamsvar basert på intern produksjonskontroll</ktittel>
+          <liste id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/1">
+            <lverdi>1.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/1/avsnitt/1">Typesamsvar basert på intern produksjonskontroll er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 3 og sikrer og erklærer at de berørte apparatene er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet, og oppfyller gjeldende krav i forskriften.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/2">
+            <lverdi>2.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/2/avsnitt/1">
+              <i>Produksjon</i>
+            </avsnitt>
+            <avsnitt id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/2/avsnitt/2">Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og tilsynet med den sikrer at de produserte apparatene er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i forskriften.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/3">
+            <lverdi>3.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/3/avsnitt/1">
+              <i>CE-merking og samsvarserklæring</i>
+            </avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/3.1">
+            <lverdi>3.1</lverdi>
+            <avsnitt id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/3.1/avsnitt/1">Produsenten skal påføre CE-merkingen på hvert enkelt apparat som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet, og som oppfyller gjeldende krav i forskriften.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/3.2">
+            <lverdi>3.2</lverdi>
+            <avsnitt id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/3.2/avsnitt/1">Produsenten skal utarbeide en skriftlig samsvarserklæring for hver apparatmodell og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at apparatet er brakt i omsetning. Samsvarserklæringen skal angi hvilken apparatmodell den er utarbeidet for.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/3.3">
+            <lverdi>3.3</lverdi>
+            <avsnitt id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/3.3/avsnitt/1">En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.</avsnitt>
+          </liste>
+          <liste id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/4">
+            <lverdi>4.</lverdi>
+            <avsnitt id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/4/avsnitt/1">
+              <i>Representant</i>
+            </avsnitt>
+            <avsnitt id="/vedlegg/iii/del/b/overskrift/3/ledd/1/liste/4/avsnitt/2">Produsentens forpliktelser angitt i nr. 3 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.</avsnitt>
+          </liste>
+        </kapittel>
+      </kapittel>
+    </kapittel>
+    <kapittel type="vedlegg" id="/vedlegg/iv" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/viv">
+      <kverdi>Vedlegg IV</kverdi>
+      <ktittel>Samsvarserklæring<fref id="/fotnote/1">1</fref></ktittel>
+      <liste id="/vedlegg/iv/ledd/1/liste/1">
+        <lverdi>1.</lverdi>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/1/avsnitt/1">Apparatmodell/produkt (entydig identifikasjon av apparatet; produkt, type-, parti eller serienummer):</avsnitt>
+      </liste>
+      <liste id="/vedlegg/iv/ledd/1/liste/2">
+        <lverdi>2.</lverdi>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/2/avsnitt/1">Navn og adresse til produsenten eller eventuelt produsentens representant:</avsnitt>
+      </liste>
+      <liste id="/vedlegg/iv/ledd/1/liste/3">
+        <lverdi>3.</lverdi>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/3/avsnitt/1">Denne samsvarserklæringen er utstedt på produsentens ansvar alene.</avsnitt>
+      </liste>
+      <liste id="/vedlegg/iv/ledd/1/liste/4">
+        <lverdi>4.</lverdi>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/4/avsnitt/1">Gjenstand for erklæringen (identifikasjon av apparatet som gjør det mulig å spore det; dette kan ved behov omfatte et bilde for å identifisere apparatet):</avsnitt>
+      </liste>
+      <liste id="/vedlegg/iv/ledd/1/liste/5">
+        <lverdi>5.</lverdi>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/5/avsnitt/1">Gjenstand for erklæringen beskrevet over er i samsvar med relevante deler av EØS sitt harmoniseringsregelverk:</avsnitt>
+      </liste>
+      <liste id="/vedlegg/iv/ledd/1/liste/6">
+        <lverdi>6.</lverdi>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/6/avsnitt/1">Henvisninger til de relevante harmoniserte standarder som er anvendt, herunder datoen for standarden, eller henvisninger til andre tekniske spesifikasjoner, herunder datoen for spesifikasjonen, det erklæres samsvar med:</avsnitt>
+      </liste>
+      <liste id="/vedlegg/iv/ledd/1/liste/7">
+        <lverdi>7.</lverdi>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/7/avsnitt/1">Dersom det er relevant: Det tekniske kontrollorganet ... (navn, nummer) ... har utført ... (beskrivelse av inngrepet) ... og utstedt sertifikatet:</avsnitt>
+      </liste>
+      <liste id="/vedlegg/iv/ledd/1/liste/8">
+        <lverdi>8.</lverdi>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/8/avsnitt/1">Tilleggsopplysninger:</avsnitt>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/8/avsnitt/2">Undertegnet for og på vegne av:</avsnitt>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/8/avsnitt/3">(sted og dato for utstedelse):</avsnitt>
+        <avsnitt id="/vedlegg/iv/ledd/1/liste/8/avsnitt/4">(navn, funksjon) (underskrift):</avsnitt>
+      </liste>
+      <fotnote id="/fotnote/1">1 Produsenten kan velge å tildele samsvarserklæringen et nummer.</fotnote>
+    </kapittel>
+    <kapittel type="vedlegg" id="/vedlegg/v" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/vv">
+      <kverdi>Vedlegg V</kverdi>
+      <ktittel>Utforming av CE-merkingen</ktittel>
+      <ledd id="/vedlegg/v/ledd/1">CE-merkingen skal bestå av bokstavene «CE» i følgende grafiske utforming:
+<br/>
+<marg niv="1" id="/vedlegg/v/ledd/1/marg/1"><img src="sf-20171010-1597-01-01.png" alt="ikon"/></marg></ledd>
+      <ledd id="/vedlegg/v/ledd/2">CE-merkingen skal ha en høyde på minst 5 mm. Dersom CE-merkingen blir forminsket eller forstørret, skal størrelsesforholdet overholdes.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4+" url="https://lovdata.no/lovtidend/forskrift/2017-10-10-1597/k4">
+      <kverdi/>
+      <ktittel> Rettelser <br/> <br/></ktittel>
+      <marg niv="1" id="/kapittel/4/marg/1">Det som er rettet er satt i kursiv.
+<br/>
+<br/></marg>
+      <marg niv="1" id="/kapittel/4/marg/2">Hjemmelsfeltets henvisning til el-tilsynsloven skal lyde:</marg>
+      <marg niv="1" id="/kapittel/4/marg/3">lov 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr <i>(el-tilsynsloven) § 10</i>, § 11 og § 13a,</marg>
+    </kapittel>
+  </tekst>
+</dokument>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2017-01-03-6" type="lt" url="https://lovdata.no/lovtidend/forskrift/2017-01-03-6">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2017-01-03-6</id>
+    <dato>03.01.2017 nr. 6</dato>
+    <dato type="iso">2017-01-03</dato>
+    <ikraft>03.01.2017</ikraft>
+    <ikraft type="iso">2017-01-03</ikraft>
+    <departement>Helse- og omsorgsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <endrer type="ref">https://lovdata.no/for/2015-10-29-1232</endrer>
+    <rettet/>
+    <journalnummer>2017-0013</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i private virksomheters spesialisthelsetjenester</korttittel>
+    <tittel>Forskrift om endring i forskrift om private virksomheters adgang til å yte spesialisthelsetjenester mot betaling fra staten</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Helse- og omsorgsdepartementet 3. januar 2017 med hjemmel i lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 4-3.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2017-01-03-6/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 29. oktober 2015 nr. 1232 om private virksomheters adgang til å yte spesialisthelsetjenester mot betaling fra staten gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">I § 11 nr. 2 bokstav a) Hjerte og kar skal lyde:
+<liste id="/kapittel/i/ledd/2/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/2/avsnitt/1"><i>Somatiske tjenester</i></avsnitt><liste id="/kapittel/i/ledd/2/liste/2.a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/2.a/avsnitt/1"><i>Hjerte og kar</i></avsnitt></liste></liste></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="36*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Tjeneste</i>
+              </entry>
+              <entry colname="2">
+                <i>Diagnosekode</i>
+              </entry>
+              <entry colname="3">
+                <i>Prosedyre</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="36*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Hjerteutredning hos spesialist inkludert arbeids-EKG </entry>
+              <entry colname="2"/>
+              <entry colname="3">FPFE50 Arbeids-EKG </entry>
+            </row>
+            <row>
+              <entry colname="1">Hjerteutredning hos spesialist inkludert ultralyd hjerte </entry>
+              <entry colname="2"/>
+              <entry colname="3">SFY0HK Fullstendig ekkokardiografi
+<br/>SFY0LK Transøsofageal ekkokardiografi
+<br/>SFY0GK Enkel ekkokardiografi </entry>
+            </row>
+            <row>
+              <entry colname="1">Hjerteutredning hos spesialist inkludert arbeids-EKG og ultralyd </entry>
+              <entry colname="2"/>
+              <entry colname="3">FPFE50 Arbeids-EKG
+<br/>SFY0HK Fullstendig ekkokardiografi
+<br/>SFY0LK Transøsofageal ekkokardiografi
+<br/>SFY0GK Enkel ekkokardiografi </entry>
+            </row>
+            <row>
+              <entry colname="1">Hjerteutredning hos spesialist (inkludert andre undersøkelser enn arbeids-EKG og ultralyd hjerte som er indisert) </entry>
+              <entry colname="2"/>
+              <entry colname="3"> </entry>
+            </row>
+            <row>
+              <entry colname="1">Ultralyd halskar </entry>
+              <entry colname="2"/>
+              <entry colname="3">SPY0AK UL Halskar </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2017-01-03-6/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Forskriften trer i kraft straks.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

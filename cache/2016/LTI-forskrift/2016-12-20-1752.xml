@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2016-12-20-1752" type="lt" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1752">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2016-12-20-1752</id>
+    <dato>20.12.2016 nr. 1752</dato>
+    <dato type="iso">2016-12-20</dato>
+    <publisert>I 2016 hefte 18 s 2954</publisert>
+    <ikraft>01.01.2019</ikraft>
+    <ikraft type="iso">2019-01-01</ikraft>
+    <departement>Finansdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <endrer type="ref">https://lovdata.no/for/2004-12-01-1558</endrer>
+    <rettet/>
+    <journalnummer>2016-1420</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om bokføring</korttittel>
+    <korttittel>4 Endr. i forskrift om bokføring (Nr. 1752)</korttittel>
+    <tittel>Forskrift om endring i forskrift om bokføring</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Finansdepartementet 20. desember 2016 med hjemmel i lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) § 10a.</marg>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1752/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 1. desember 2004 nr. 1558 om bokføring gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 5-3-1 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/3">§ 5-3-1. <i>Definisjoner</i></ledd>
+      <ledd id="/kapittel/i/ledd/4">I dette kapittel menes med
+<liste id="/kapittel/i/ledd/4/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/a/avsnitt/1"><i>kontantsalg</i>: salg av varer og tjenester der kjøpers betalingsforpliktelse overfor selger gjøres opp ved levering, ved bruk av betalingskort eller kontanter som betalingsmiddel. Salg over internett eller ved oppkrav anses ikke som kontantsalg,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/b/avsnitt/1"><i>betalingskort</i>: debetkort, kredittkort og faktureringskort,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/c/avsnitt/1"><i>kontanter</i>: andre betalingsmidler enn betalingskort,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/d/avsnitt/1"><i>kassasystem</i>: kassaapparat eller annet elektronisk system for registrering av kontantsalg og utskrift av salgskvittering,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/e/avsnitt/1"><i>kassaskuff</i>: oppbevaringsplass for betalingsmiddel som registreres i et kassasystem,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/f/avsnitt/1"><i>kassapunkt</i>: en enhet innen et kassasystem som kan avslutte et kontantsalg ved å beordre utskrift av en salgskvittering,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/g/avsnitt/1"><i>kassasystemets ID-nummer</i>: en unik identifikator for kassasystemet,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/h/avsnitt/1"><i>skuffeåpning (nullinnslag)</i>: integrert kassaskuff åpnes uten at det har skjedd noen registrering av kontantsalg eller tilbakebetaling,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/i/avsnitt/1"><i>salgskvittering</i>: utskrift fra kassasystem som viser gjennomført kontantsalgstransaksjon,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/j/avsnitt/1"><i>returkvittering</i>: utskrift fra kassasystemet som viser at tidligere utskrevet salgskvittering inneholder feilaktige opplysninger eller opplysninger om tilbakebetaling for prisjusterte eller returnerte varer eller tjenester,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/k/avsnitt/1"><i>utleveringskvittering</i>: bekreftelse for kredittsalg,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/l"><lverdi>l)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/l/avsnitt/1"><i>løpende anvendelse</i>: all bruk av kassasystemet, blant annet registrering av salg mv. og utskrift av kvitteringer som nevnt i bokstavene i til k, endring av priser, korreksjoner, skuffeåpninger (nullinnslag), utskrift av rapporter og lignende, samt endringer av programvare og midlertidig tilkobling av ekstern programvare,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/m"><lverdi>m)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/m/avsnitt/1"><i>elektronisk journal</i>: dokumentasjon av den løpende anvendelsen av kassasystemet i elektronisk form,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/n"><lverdi>n)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/n/avsnitt/1"><i>Z-rapport</i>: sammenstilling av dagens registreringer i kassasystemet,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/4/liste/o"><lverdi>o)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/o/avsnitt/1"><i>X-rapport</i>: sammenstilling av registreringer i kassasystemet siden forrige Z-rapport.
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/5">§ 5-3-2 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/6">§ 5-3-2. <i>Registreringer i kassasystemet</i></ledd>
+      <ledd id="/kapittel/i/ledd/7">Bokføringspliktige skal registrere kontantsalg fortløpende i et kassasystem med produkterklæring som tilfredsstiller kravene i kassasystemlova og kassasystemforskrifta med mindre annet er bestemt i denne forskrift. Også annen løpende anvendelse av kassasystemet skal registreres fortløpende i kassasystemet. Registrering i kassasystemet skal omfatte all den informasjon som kreves spesifisert på X-rapport, Z-rapport og kvitteringer etter kassasystemforskrifta § 2-8 (§ 2-8-1 til § 2-8-7).</ledd>
+      <ledd id="/kapittel/i/ledd/8">Kontantsalget skal registreres på den enkelte operatør hvis systemet har slik funksjonalitet.</ledd>
+      <ledd id="/kapittel/i/ledd/9">Tips kan registreres særskilt i kassasystemet hvis systemet har slik funksjonalitet og kontanttips oppbevares i kassaskuffen. Registrering skal da også omfatte tips betalt med betalingskort mv. Dersom tips ikke registreres særskilt på kassasystemet, kan kontanttips ikke oppbevares i kassaskuffen.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/10">Nåværende § 5-3-4 oppheves. Nye § 5-3-3 til § 5-3-11 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/11">§ 5-3-3. <i>Forbud mot andre kassasystemer enn de som har produkterklæring</i></ledd>
+      <ledd id="/kapittel/i/ledd/12">Det kan bare benyttes kassasystemer i virksomheten som det foreligger produkterklæring for etter kassasystemlova § 5.</ledd>
+      <ledd id="/kapittel/i/ledd/13">§ 5-3-4. <i>Krav til bruk av kassaskuff</i></ledd>
+      <ledd id="/kapittel/i/ledd/14">Bokføringspliktig skal oppbevare kontanter i integrert kassaskuff. Dersom kontantsalget blir registrert i kassasystemet på den enkelte operatør, kan operatøren likevel benytte pengebelte eller lignende for å oppbevare kontanter for virksomheten.</ledd>
+      <ledd id="/kapittel/i/ledd/15">Integrert kassaskuff skal lukkes umiddelbart etter at betaling for kontantsalget er mottatt. Det samme gjelder dersom kassaskuffen har vært åpnet for andre formål som veksling eller inn- og utbetalinger.</ledd>
+      <ledd id="/kapittel/i/ledd/16">Dersom flere bokføringspliktige bruker felles kassasystem, jf. § 5-3-9, må minst en av de bokføringspliktige bruke integrert kassaskuff for oppbevaring av betalingsmidlene. Dersom det ikke er mulig å holde betalingsmidlene fra flere bokføringspliktige brukere adskilt i kassaskuffen, skal øvrige brukere oppbevare betalingsmidlene i egne kassaskuffer.</ledd>
+      <ledd id="/kapittel/i/ledd/17">§ 5-3-5. <i>Utskrift av salgskvittering mv.</i></ledd>
+      <ledd id="/kapittel/i/ledd/18">Ved hvert salg skal det skrives ut en salgskvittering fra kassasystemet som skal fremlegges for kunden. Dersom kassasystemet også brukes til å registrere kredittsalg som blir fakturert på et senere tidspunkt, skal det skrives ut en utleveringskvittering.</ledd>
+      <ledd id="/kapittel/i/ledd/19">Salgskvittering og utleveringskvittering kan sendes kunden elektronisk.</ledd>
+      <ledd id="/kapittel/i/ledd/20">§ 5-3-6. <i>Krav til dokumentasjon av returer mv.</i></ledd>
+      <ledd id="/kapittel/i/ledd/21">Ved returer skal det skrives ut en særskilt returkvittering. Ved returer hvor det samtidig skjer en ny salgstransaksjon kan returen fremgå av salgskvitteringen.</ledd>
+      <ledd id="/kapittel/i/ledd/22">Dersom det er registrert feil betalingsmiddel på salgskvittering, skal det enten tas ut returkvittering som korrigerer feilen og ny salgskvittering med angivelse av rett betalingsmiddel eller en kvittering som har referanse til salgskvitteringens nummer og som kun viser endringen av betalingsmiddel. Dokumentasjonen skal skrives ut og tilbys kunden.</ledd>
+      <ledd id="/kapittel/i/ledd/23">§ 5-3-7. <i>Krav til dokumentasjon av andre korreksjonsposter</i></ledd>
+      <ledd id="/kapittel/i/ledd/24">Det skal foreligge dokumentasjon av korreksjonsposter med angivelse av beløp og årsak.</ledd>
+      <ledd id="/kapittel/i/ledd/25">Dersom korreksjonen gjelder tidligere registrert salg, skal det foreligge ytterligere dokumentasjon som underbygger korreksjonen. Tilbakebetaling til kunde, herunder ved returer, skal dokumenteres med kundens signatur og telefonnummer.</ledd>
+      <ledd id="/kapittel/i/ledd/26">§ 5-3-8. <i>Registrering av vekselkasse og krav til dokumentasjon ved uttak av kontanter</i></ledd>
+      <ledd id="/kapittel/i/ledd/27">Ved salgsdagens begynnelse skal vekselkassen registreres i kassasystemet.</ledd>
+      <ledd id="/kapittel/i/ledd/28">Uttak av kontanter fra kassaskuffen i løpet av dagen skal dokumenteres særskilt. Dokumentasjonen skal minst inneholde følgende opplysninger:
+<liste id="/kapittel/i/ledd/28/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/28/liste/a/avsnitt/1">dato og klokkeslett</avsnitt></liste>
+<liste id="/kapittel/i/ledd/28/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/28/liste/b/avsnitt/1">beløp</avsnitt></liste>
+<liste id="/kapittel/i/ledd/28/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/28/liste/c/avsnitt/1">hvem som har gjort uttaket.</avsnitt></liste>
+<marg niv="1" id="/kapittel/i/ledd/28/liste/c/avsnitt/1/marg/1">Dokumentasjonen skal oppbevares i kassaskuffen.</marg></ledd>
+      <ledd id="/kapittel/i/ledd/29">§ 5-3-9. <i>Bruk av felles kassasystem</i></ledd>
+      <ledd id="/kapittel/i/ledd/30">Flere bokføringspliktige kan benytte felles kassasystem hvis kassasystemet er tilrettelagt for dette, jf. kassasystemforskrifta § 2-5 femte ledd.</ledd>
+      <ledd id="/kapittel/i/ledd/31">Når flere bokføringspliktige benytter felles kassasystem skal betalingsmidlene holdes adskilt, jf. § 5-3-4 tredje ledd, og det skal foretas individuelle dagsoppgjør.</ledd>
+      <ledd id="/kapittel/i/ledd/32">§ 5-3-10. <i>Overføring av opplysninger til annet oppbevaringsmedium</i></ledd>
+      <ledd id="/kapittel/i/ledd/33">Dersom lagringsminnet på kassasystemet er fullt skal opplysningene i elektronisk journal umiddelbart overføres til annet elektronisk lagringsmedium, jf. kassasystemforskrifta § 2-7 første ledd.</ledd>
+      <ledd id="/kapittel/i/ledd/34">§ 5-3-11. <i>Reserveløsninger</i></ledd>
+      <ledd id="/kapittel/i/ledd/35">Dersom det oppstår feil i et kassasystem, og feilen medfører at kravene i kassasystemlova § 3 eller kassasystemforskrifta § 2-1 til § 2-8 ikke oppfylles, skal feilen rettes uten ugrunnet opphold. Inntil feilen er rettet skal den bokføringspliktige ta i bruk hensiktsmessige reserveløsninger.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/36">Nåværende § 5-3-2a blir ny § 5-3-12. § 5-3-12 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/37">§ 5-3-12. <i>Krav til innhold mv. i salgsdokument</i></ledd>
+      <ledd id="/kapittel/i/ledd/38">Kassasystemet skal skrive salgsdokument (salgskvittering) til kunden for hvert salg og beløpet som registreres på kassasystem med display skal være lett synlig for kunden med mindre det er vanskelig gjennomførbart.</ledd>
+      <ledd id="/kapittel/i/ledd/39">Salgskvittering skal, med de unntak som følger av tredje og fjerde ledd, inneholde de opplysninger som følger av delkapittel 5-1 og kassasystemforskrifta § 2-8-4. Salgskvitteringen skal dessuten angi klokkeslett for salget.</ledd>
+      <ledd id="/kapittel/i/ledd/40">Selger kan fravike krav om angivelse av kjøper, jf. § 5-1-1 nr. 2, ved kontantsalg fra detaljist. Dette gjelder likevel ikke når kjøper er bokføringspliktig, herunder når en ansatt kjøper på vegne av sin bokføringspliktige arbeidsgiver, og varen eller tjenesten er beregnet for videresalg eller som direkte innsatsfaktor i produksjon eller tjenesteleveranse, og vederlaget er over kr 1 000 inklusive merverdiavgift eller hvor kjøpet gjelder drivstoff til bruk i person- eller varetransport. Selger kan heller ikke fravike kravet om angivelse av kjøper dersom vederlaget er på kr 40 000 eller mer inklusive merverdiavgift og det betales med kontanter. Selger plikter i alle tilfelle å angi kjøper på dennes kvittering dersom kjøper ber om dette, jf. § 5-5-1 annet ledd. I slike tilfeller skal selger signere og stemple kvitteringen.</ledd>
+      <ledd id="/kapittel/i/ledd/41">Ved kontantsalg fra detaljist kan enkeltinnslag angis per varegruppe dersom detaljert beskrivelse av art, jf. § 5-1-1 nr. 3, vanskelig lar seg gjennomføre. Selger plikter i slike tilfeller å utstede ytterligere spesifikasjon dersom kjøper ber om dette.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/42">Ny § 5-3-13 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/43">§ 5-3-13. <i>Dokumentasjon av hver enkelt salgstransaksjon mv.</i></ledd>
+      <ledd id="/kapittel/i/ledd/44">Registrert kontantsalg og annen løpende anvendelse av kassasystemet skal dokumenteres med elektronisk journal.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/45">Nåværende § 5-3-3 blir ny § 5-3-14 og skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/46">§ 5-3-14. <i>Dagsoppgjør</i></ledd>
+      <ledd id="/kapittel/i/ledd/47">Ved dagens slutt skal det utarbeides en Z-rapport fra hvert enkelt kassapunkt. Z-rapporten skal enten skrives ut på papir eller lagres elektronisk i kassasystemet slik at den til enhver tid kan skrives ut på papir.</ledd>
+      <ledd id="/kapittel/i/ledd/48">Tilsvarende skal det ved dagens slutt utarbeides rapport fra hver enkelt betalingsterminal over de betalinger og uttak som er registrert. Den delen av betalingene som gjelder tips skal fremgå særskilt. Rapporten skal være forløpende nummerert med maskinelt tildelte nummer.</ledd>
+      <ledd id="/kapittel/i/ledd/49">Kontantbeholdningen skal telles daglig og sammenholdes med opplysningene på Z-rapporter. Opplysninger fra betalingsterminal om betalinger ved bruk av betalingskort skal sammenholdes med tilsvarende opplysninger på Z-rapport. Eventuelle differanser skal forklares. Avstemmingen skal foretas for det enkelte kassapunkt. Hvis kassapunktene betjenes av flere operatører som har egen kassaskuff, skal avstemmingen foretas for hver enkelt operatør.</ledd>
+      <ledd id="/kapittel/i/ledd/50">Hvis tips ikke er registrert på kassasystemet, jf. § 5-3-2 tredje ledd, skal kontanttips telles opp særskilt og fremgå av dagsoppgjøret.</ledd>
+      <ledd id="/kapittel/i/ledd/51">Dagsoppgjøret skal dateres og det skal fremgå hvem som har foretatt opptelling av kontantbeholdningen og avstemt kontantsalget.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/52">Ny § 5-3-15 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/53">§ 5-3-15. <i>Oppbevaring og tilgjengelighet</i></ledd>
+      <ledd id="/kapittel/i/ledd/54">Z-rapport og rapport fra betalingsterminal skal oppbevares sammen med avstemmingen av kontantsalget.</ledd>
+      <ledd id="/kapittel/i/ledd/55">Kassasystemet må i sin helhet befinne seg i Norge. Elektronisk journal skal til enhver tid oppbevares i Norge og opplysningene skal være tilgjengelige elektronisk i hele oppbevaringstiden. Kassasystemet kan likevel bringes midlertidig ut av Norge når dette skjer som ledd i registrering av kontantsalg mv. om bord på et transportmiddel til eller fra utlandet.</ledd>
+      <ledd id="/kapittel/i/ledd/56">Systembeskrivelse som nevnt i kassasystemlova § 3 annet ledd skal oppbevares slik at den er lett tilgjengelig for offentlige kontrollmyndigheter.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/57">§ 5-4-1 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/58">§ 5-4-1. <i>Ambulerende og sporadisk kontantsalg mv.</i></ledd>
+      <ledd id="/kapittel/i/ledd/59">For bokføringspliktige som driver ambulerende eller sporadisk kontantsalg som ikke overstiger 3 ganger folketrygdens grunnbeløp i løpet av et regnskapsår for så vidt gjelder denne virksomheten, gjelder ikke kravene i § 5-3-2. Det samme gjelder bokføringspliktige med kontantsalg som ikke overstiger kr 50 000 eksklusive merverdiavgift i løpet av et regnskapsår. Bokføringspliktige som nevnt i første og annet punktum kan dokumentere kontantsalg fortløpende i innbundet bok, der sidene er forhåndsnummererte, ved gjenpart av daterte forhåndsnummererte salgsbilag eller ved oppstilling over ut- og innleverte varer og kontanter. Oppstillingen skal være datert og signert. Det skal skrives ut kvittering dersom kunden ber om det.</ledd>
+      <ledd id="/kapittel/i/ledd/60">Som daterte, forhåndsnummererte salgsbilag etter første ledd tredje punktum, regnes også forhåndsnummererte billetter. Det skal fremgå av salgsbilaget i hvilken grad det er gitt rabatt eller fribillett. Hvis rabatt eller fribillett er gitt på grunnlag av medlemskap eller lignende, skal det opplyses om dette.</ledd>
+      <ledd id="/kapittel/i/ledd/61">Kontantsalg kreves ikke registrert i et kassasystem dersom den bokføringspliktige utsteder salgsdokument (kontantfaktura) i samsvar med delkapittel 5-1.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/62">§ 5-4-2 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/63">§ 5-4-2. <i>Oppsøkende salg til publikum</i></ledd>
+      <ledd id="/kapittel/i/ledd/64">Ved oppsøkende salg til publikum på idrettsarrangementer, konserter og lignende, kan daglig salg fra hver enkelt selger registreres som ett beløp på kassasystemet. Ved registrering som nevnt i første punktum og for bokføringspliktige som ikke har plikt til å benytte kassasystem, må dokumentasjonen av kontantsalget vise ut- og innleverte varer og kontanter. Oppgjørene skal telles og signeres av to personer.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/65">§ 5-4-3 nytt annet ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/66">Unntaket i første ledd gjelder ikke drivstoff-, parkerings- og billettautomater. Unntaket gjelder heller ikke andre automater med funksjonalitet til å skrive salgskvittering. For dagsoppgjør gjelder likevel bestemmelsen i § 5-4-5.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/67">§ 5-4-7 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/68">§ 5-4-7. <i>Dispensasjon</i></ledd>
+      <ledd id="/kapittel/i/ledd/69">Departementet kan i særlige tilfeller gjøre ytterligere unntak fra kravet til kassasystem i delkapittel 5-3.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/70">§ 5-5-1 første ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/71">Kjøpsdokumentet skal være salgsdokumentet selger har utstedt, og skal inneholde de opplysningene som fremgår av delkapittel 5-1 og § 5-3-12.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/72">§ 8-2-1 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/73">§ 8-2-1. <i>Taksameter</i></ledd>
+      <ledd id="/kapittel/i/ledd/74">Bokføringspliktige som driver taxinæring skal registrere kontant- og kredittsalg ved bruk av taksameter som tilfredsstiller kravene i forskrift 1. oktober 2009 nr. 1226 om krav til taksametre.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/75">Ny § 8-2-2 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/76">8-2-2. <i>Krav til innholdet i salgsdokumentet</i></ledd>
+      <ledd id="/kapittel/i/ledd/77">Ved kontantsalg skal taksameteret skrive salgsdokument (salgskvittering) til kunden for hvert salg. Kvitteringen skal inneholde opplysninger som nevnt i § 5-3-12.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/78">Nåværende § 8-2-2 blir ny § 8-2-3 og skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/79">§ 8-2-3. <i>Dokumentasjon av kontantsalg</i></ledd>
+      <ledd id="/kapittel/i/ledd/80">Kontantsalget skal dokumenteres ved bruk av skiftlapper og rapport fra taksameteret som viser hver enkelt salgstransaksjon, jf. § 8-2-2. Skiftlappene skal nummereres fortløpende av systemet og inneholde løyvenummeret og taksameterets serienummer.</ledd>
+      <ledd id="/kapittel/i/ledd/81">Skiftlappen skal for hvert skift inneholde følgende opplysninger:
+<liste id="/kapittel/i/ledd/81/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/i/ledd/81/liste/1/avsnitt/1">skiftets dato</avsnitt></liste>
+<liste id="/kapittel/i/ledd/81/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/i/ledd/81/liste/2/avsnitt/1">klokkeslett for skiftets begynnelse og slutt</avsnitt></liste>
+<liste id="/kapittel/i/ledd/81/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/i/ledd/81/liste/3/avsnitt/1">antall turer</avsnitt></liste>
+<liste id="/kapittel/i/ledd/81/liste/4"><lverdi>4.</lverdi><avsnitt id="/kapittel/i/ledd/81/liste/4/avsnitt/1">brutto innkjørt beløp fordelt på kontant og kreditt</avsnitt></liste>
+<liste id="/kapittel/i/ledd/81/liste/5"><lverdi>5.</lverdi><avsnitt id="/kapittel/i/ledd/81/liste/5/avsnitt/1">kontanttips og tips som betales med betalingskort mv.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/81/liste/6"><lverdi>6.</lverdi><avsnitt id="/kapittel/i/ledd/81/liste/6/avsnitt/1">totale og besatte kilometer</avsnitt></liste>
+<liste id="/kapittel/i/ledd/81/liste/7"><lverdi>7.</lverdi><avsnitt id="/kapittel/i/ledd/81/liste/7/avsnitt/1">sjåførens navn og fødselsnummer eller annen identifikasjonskode</avsnitt></liste>
+<liste id="/kapittel/i/ledd/81/liste/8"><lverdi>8.</lverdi><avsnitt id="/kapittel/i/ledd/81/liste/8/avsnitt/1">akkumulerte tall for totale kilometer og totalt innkjørt i kroner. Kilometer og kroner skal oppgis med henholdsvis minimum seks- og nisifrede tall.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/82">Skiftlapper skal ved utskrift signeres fortløpende med fullt navn av skiftets sjåfør.</ledd>
+      <ledd id="/kapittel/i/ledd/83">Dersom skiftlappsystemet på grunn av feil, strømbrudd eller lignende midlertidig er ute av drift skal årsaken dokumenteres. I disse tilfellene skal det benyttes forhåndsnummererte manuelle skiftlapper. Besatte kilometer, jf. annet ledd nr. 6 kan i slike tilfeller unnlates spesifisert. For øvrig gjelder § 5-3-11 så langt den passer.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/84">Ny § 8-2-4 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/85">§ 8-2-4. <i>Kassaavstemming</i></ledd>
+      <ledd id="/kapittel/i/ledd/86">For hvert skift skal det foretas en avstemming hvor opptalt kassabeholdning mv. sammenholdes med kontantsalg ifølge skiftlapp. Avstemmingen skal dateres og det skal fremgå hvem som har foretatt avstemmingen.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/87">Nåværende § 8-2-3 blir ny § 8-2-5 og skal lyde.</ledd>
+      <ledd id="/kapittel/i/ledd/88">§ 8-2-5. <i>Oppbevaring</i></ledd>
+      <ledd id="/kapittel/i/ledd/89">Dokumentasjon som nevnt i § 8-2-3 og § 8-2-4 skal oppbevares i fem år etter regnskapsårets slutt.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/90">Ny § 8-2-6 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/91">§ 8-2-6. <i>Dispensasjon</i></ledd>
+      <ledd id="/kapittel/i/ledd/92">Departementet kan i særlige tilfeller gjøre unntak fra kravet til taksameter i § 8-2-1.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/93">§ 8-5-3 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/94">§ 8-5-3. <i>Kassasystem mv.</i></ledd>
+      <ledd id="/kapittel/i/ledd/95">Salg av mat og drikke mv. fra restaurant eller annet serveringssted skal registreres fortløpende på kassasystem som nevnt i denne forskrift § 5-3-2, selv om betaling skjer når gjesten forlater serveringsstedet. Slik registrering skal enten skje ved at salget registreres fortløpende på bordnummer eller lignende, mens kvittering tas ut når gjesten skal betale, eller ved at salget registreres hver gang det serveres mat eller drikke mv. med samtidig utskriving av kvittering fra kassasystemet.</ledd>
+      <ledd id="/kapittel/i/ledd/96">Opplysninger om gjester som gis fri adgang eller fri garderobe på grunnlag av medlemskap eller lignende skal registreres på kassasystemet. Opplysningene skal spesifiseres i X- og Y-rapport med angivelse av antall for hver tjenestegruppe, jf. kassasystemforskrifta § 2-8-2 og § 2-8-3.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/97">Nåværende § 8-5-4 oppheves.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2016-12-20-1752/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Endringene under I trer i kraft fra 1. januar 2019.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

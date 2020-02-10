@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2017-12-12-2000" type="lt" url="https://lovdata.no/lovtidend/forskrift/2017-12-12-2000">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2017-12-12-2000</id>
+    <dato>12.12.2017 nr. 2000</dato>
+    <dato type="iso">2017-12-12</dato>
+    <ikraft>01.01.2018</ikraft>
+    <ikraft type="iso">2018-01-01</ikraft>
+    <departement>Kommunal- og moderniseringsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2008-06-27-71-§29-5">L27.06.2008 nr. 71 § 29-5</ref>, <ref id="lov-2008-06-27-71-§29-6">§ 29-6</ref>, <ref id="lov-2008-06-27-71-§30-6">§ 30-6</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2017-06-19-84</endrer>
+    <rettet/>
+    <journalnummer>2017-1289</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i Byggteknisk forskrift</korttittel>
+    <tittel>Forskrift om endring i forskrift om tekniske krav til byggverk (Byggteknisk forskrift)</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Kommunal- og moderniseringsdepartementet 12. desember 2017 med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 29-5, § 29-6 og § 30-6.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2017-12-12-2000/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 19. juni 2017 nr. 840 om tekniske krav til byggverk (Byggteknisk forskrift) gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 14-5 fjerde ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/3">(4) For boligbygning og fritidsbolig med laftede yttervegger gjelder ikke § 14-2. For fritidsbolig over 70 m<sup>2</sup> til og med 150 m<sup>2</sup> oppvarmet BRA med laftede yttervegger gjelder heller ikke § 14-4 fjerde ledd. Bygning med laftede yttervegger tilfredsstiller kravet til energieffektivitet når verdiene i punktene 1-5 i tabellen under er oppfylt. Energitiltakene kan fravikes forutsatt at bygningens varmetapstall ikke øker, samtidig som kravene i § 14-3 oppfylles.
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/3/marg/1"><i>Tabell: Energitiltak for boligbygning og fritidsbolig med laftede yttervegger</i></marg></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="3*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="39*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="15*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="15*"/>
+          <tbody>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">
+                <i>Energitiltak</i>
+              </entry>
+              <entry colname="3">
+                <i>Boligbygning og fritidsbolig over 150 m<sup>2</sup> oppvarmet BRA</i>
+              </entry>
+              <entry colname="4">
+                <i>Fritidsbolig over 70 m<sup>2</sup> til og med 150 m<sup>2</sup> oppvarmet BRA </i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="3*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="39*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="15*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="15*"/>
+          <tbody>
+            <row>
+              <entry colname="1">1. </entry>
+              <entry colname="2">Dimensjon yttervegg </entry>
+              <entry colname="3">≥ 8″ laft </entry>
+              <entry colname="4">≥ 8″ laft </entry>
+            </row>
+            <row>
+              <entry colname="1">2. </entry>
+              <entry colname="2">U-verdi tak [W/(m<sup>2</sup> K)] </entry>
+              <entry colname="3">≤ 0,13 </entry>
+              <entry colname="4">≤ 0,13 </entry>
+            </row>
+            <row>
+              <entry colname="1">3. </entry>
+              <entry colname="2">U-verdi gulv på grunn og mot det fri [W/(m<sup>2</sup> K)] </entry>
+              <entry colname="3">≤ 0,10 </entry>
+              <entry colname="4">≤ 0,15 </entry>
+            </row>
+            <row>
+              <entry colname="1">4. </entry>
+              <entry colname="2">U-verdi vindu og dør, inkludert karm/ramme [W/(m<sup>2</sup> K)] </entry>
+              <entry colname="3">≤ 0,80 </entry>
+              <entry colname="4">≤ 1,2 </entry>
+            </row>
+            <row>
+              <entry colname="1">5. </entry>
+              <entry colname="2">Lekkasjetall ved 50 Pa trykkforskjell (luftveksling per time) </entry>
+              <entry colname="3">≤ 4,0 </entry>
+              <entry colname="4">≤ 4,5 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <ledd id="/kapittel/i/ledd/4">§ 14-3 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/4/avsnitt/1">§ 14-3. <i>Minimumskrav til energieffektivitet</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/5">(1) Følgende minimumskrav skal oppfylles:
+<liste id="/kapittel/i/ledd/5/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/5/liste/a/avsnitt/1">Alle bygninger, unntatt boligbygning og fritidsbolig med laftede yttervegger, skal ha:
+<br/>
+<marg niv="2" id="/kapittel/i/ledd/5/liste/a/avsnitt/1/marg/1"><i>Tabell: Minimumskrav</i></marg></avsnitt></liste></ledd>
+      <table niv="2" frame="1">
+        <thgroup cols="5" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="15*"/>
+          <colspec colname="5" align="left" valign="top" colwidth="15*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>U-verdi yttervegg [W/(m<sup>2</sup> K)]</i>
+              </entry>
+              <entry colname="2">
+                <i>U-verdi tak [W/(m<sup>2</sup>K)]</i>
+              </entry>
+              <entry colname="3">
+                <i>U-verdi gulv på grunn og mot det fri [W/(m<sup>2</sup> K)]</i>
+              </entry>
+              <entry colname="4">
+                <i>U-verdi vindu og dør inkludert karm/ramme [W/(m<sup>2</sup> K)]</i>
+              </entry>
+              <entry colname="5">
+                <i>Lekkasjetall ved 50 Pa trykkforskjell (luftveksling per time)</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="5" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="15*"/>
+          <colspec colname="5" align="left" valign="top" colwidth="15*"/>
+          <tbody>
+            <row>
+              <entry colname="1">≤ 0,22 </entry>
+              <entry colname="2">≤ 0,18 </entry>
+              <entry colname="3">≤ 0,18 </entry>
+              <entry colname="4">≤ 1,2 </entry>
+              <entry colname="5">≤ 1,5 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <liste id="/kapittel/i/ledd/5/liste/b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/kapittel/i/ledd/5/liste/b/avsnitt/1">Boligbygning og fritidsbolig med laftede yttervegger skal ha:
+<br/>
+<marg niv="2" id="/kapittel/i/ledd/5/liste/b/avsnitt/1/marg/2"><i>Tabell: Minimumskrav</i></marg></avsnitt>
+      </liste>
+      <table niv="2" frame="1">
+        <thgroup cols="5" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="15*"/>
+          <colspec colname="5" align="left" valign="top" colwidth="15*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Dimensjon yttervegg</i>
+              </entry>
+              <entry colname="2">
+                <i>U-verdi tak [W/(m<sup>2</sup> K)]</i>
+              </entry>
+              <entry colname="3">
+                <i>U-verdi gulv på grunn og mot det fri [W/(m<sup>2</sup> K)]</i>
+              </entry>
+              <entry colname="4">
+                <i>U-verdi vindu og dør, inkludert karm/ramme [W/(m<sup>2</sup> K)]</i>
+              </entry>
+              <entry colname="5">
+                <i>Lekkasjetall ved 50 Pa trykkforskjell (luftveksling per time)</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="5" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="14*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="15*"/>
+          <colspec colname="5" align="left" valign="top" colwidth="15*"/>
+          <tbody>
+            <row>
+              <entry colname="1">≥ 6″ laft </entry>
+              <entry colname="2">≤ 0,18 </entry>
+              <entry colname="3">≤ 0,18 </entry>
+              <entry colname="4">≤ 1,2 </entry>
+              <entry colname="5">≤ 6 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ledd id="/kapittel/i/ledd/6">(2) Rør, utstyr og kanaler som er knyttet til bygningens varmesystem skal isoleres. Isolasjonstykkelsen skal være økonomisk optimal beregnet etter norsk standard eller en likeverdig europeisk standard.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2017-12-12-2000/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Forskriften trer i kraft 1. januar 2018.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2017-01-26-98" type="lt" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2017-01-26-98</id>
+    <dato>26.01.2017 nr. 98</dato>
+    <dato type="iso">2017-01-26</dato>
+    <ikraft>01.02.2017</ikraft>
+    <ikraft type="iso">2017-02-01</ikraft>
+    <departement>Kunnskapsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2005-04-01-15-§3-2">L01.04.2005 nr. 15 § 3-2</ref>, <ref id="lov-2005-04-01-15-§3-3">§ 3-3</ref>, <ref id="lov-2005-04-01-15-§3-5">§ 3-5</ref>, <ref id="lov-2005-04-01-15-§3-6">§ 3-6</ref>, <ref id="lov-2005-04-01-15-§3-7">§ 3-7</ref>, <ref id="lov-2005-04-01-15-§3-8">§ 3-8</ref>, <ref id="lov-2005-04-01-15-§3-9">§ 3-9</ref>, <ref id="lov-2005-04-01-15-§3-10">§ 3-10</ref>, <ref id="lov-2005-04-01-15-§3-11">§ 3-11</ref>, <ref id="lov-2005-04-01-15-§4-7">§ 4-7</ref>, <ref id="lov-2005-04-01-15-§4-8">§ 4-8</ref>, <ref id="lov-2005-04-01-15-§4-9">§ 4-9</ref>, <ref id="lov-2005-04-01-15-§4-10">§ 4-10</ref>, <ref id="lov-2005-04-01-15-§5-2">§ 5-2</ref>, <ref id="lov-2005-04-01-15-§5-3">§ 5-3</ref>, <ref id="for-2005-12-01">F01.12.2005 nr.</ref>1392 <ref id="for-2005-12-01-§2">§ 2</ref>,</hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2010-03-01-30</endrer>
+    <endrer type="ref">https://lovdata.no/for/2010-03-01-306</endrer>
+    <endrer type="ref">https://lovdata.no/for/2013-05-28-551</endrer>
+    <rettet/>
+    <journalnummer>2017-0078</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om opptak, studier og eksamen ved HINN</korttittel>
+    <tittel>Forskrift om opptak, studier og eksamen ved Høgskolen i Innlandet</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av styret for Høgskolen i Innlandet 26. januar 2017 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-2, § 3-3, § 3-5, § 3-6, § 3-7, § 3-8, § 3-9, § 3-10, § 3-11, § 4-7, § 4-8, § 4-9, § 4-10, § 5-2 og § 5-3, forskrift 1. desember 2005 nr. 1392 om krav til mastergrad § 2 og forskrift 6. januar 2017 nr. 13 om opptak til høyere utdanning § 1-1.</marg>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Generelle bestemmelser</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k1/p1-1">
+        <pverdi>§ 1-1.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/1">Forskriften omfatter opptak, grader, studier og eksamen for grunnutdanninger, masterutdanninger og videreutdanninger ved Høgskolen i Innlandet. Forskriften gjelder også for personer som avlegger eksamen etter lov 1. april 2005 nr. 15 § 3-10, uten å være tatt opp som student ved høgskolen.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/2">For studier som er underlagt nasjonale rammeplaner, vil nasjonale rammeplaner gå foran denne forskriften ved en eventuell konflikt.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k1/p1-2">
+        <pverdi>§ 1-2.</pverdi>
+        <ptittel>Definisjoner og terminologi</ptittel>
+        <table niv="1" frame="0">
+          <tgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="20*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="56*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Eksamen</i>
+                </entry>
+                <entry colname="2">Vurdering som gir grunnlag for fastsettelse av karakter i et emne, enten ved at resultatet skal inngå på vitnemål eller karakterutskrift, eller som en del av en samlet karakter på vitnemål eller karakterutskrift. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Emne</i>
+                </entry>
+                <entry colname="2">Minste studiepoenggivende enhet i et studieprogram. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Emnebeskrivelse</i>
+                </entry>
+                <entry colname="2">Beskrivelse av bl.a. læringsutbytte, innhold, omfang, undervisnings- og arbeidsformer, arbeidskrav, krav til forkunnskaper og vurderingsformer i et emne. Emnebeskrivelser inngår som en del av studieplanen. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Emnegruppe</i>
+                </entry>
+                <entry colname="2">Godkjent kombinasjon av emner som gjennom en studieplan er definert til å utgjøre en samlet enhet. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Grunnutdanning</i>
+                </entry>
+                <entry colname="2">Studieprogram der opptakskravet er generell studiekompetanse, eventuelt i kombinasjon med spesielle opptakskrav. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Loven</i>
+                </entry>
+                <entry colname="2">Med loven menes her lov av 1. april 2005 nr. 15 om universiteter og høyskoler. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Obligatoriske arbeidskrav</i>
+                </entry>
+                <entry colname="2">Obligatoriske krav som må være godkjent for å gå opp til eksamen. Obligatoriske arbeidskrav fastsettes i emnebeskrivelsen og vurderes til godkjent eller ikke godkjent. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Profesjonsstudier</i>
+                </entry>
+                <entry colname="2">Studieprogram som reguleres av rammeplan og som kvalifiserer til et bestemt yrke. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Privatist</i>
+                </entry>
+                <entry colname="2">Den som etter reglene i lovens § 3-10 fremstiller seg til eksamen ved høgskolen uten å være tatt opp som student til vedkommende emne eller studieprogram ved høgskolen. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Rammeplan</i>
+                </entry>
+                <entry colname="2">Plan som gjennom forskrift fastsetter læringsutbytte, innhold og oppbygning av profesjonsutdanninger. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Sakkyndig instans</i>
+                </entry>
+                <entry colname="2">Forstås her som lege eller tilsvarende instans med autorisasjon til å sykemelde eller fastsette diagnose. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Selvstendig arbeid</i>
+                </entry>
+                <entry colname="2">Arbeid av teoretisk, praktisk eller kunstnerisk art i henhold til studiets egenart. Arbeidet kan utføres individuelt eller i gruppe. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Sensorveiledning</i>
+                </entry>
+                <entry colname="2">En skriftliggjøring av det faglige grunnlaget og de kriterier som en eksamen bedømmes etter, med bakgrunn i emnets læringsutbyttebeskrivelser. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Student</i>
+                </entry>
+                <entry colname="2">Som student regnes den som gjennom opptak i henhold til lovens § 3-6 og § 3-7, er tatt opp til studier ved høgskolen. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Studieplan</i>
+                </entry>
+                <entry colname="2">Plan som gir nærmere beskrivelse av bl.a. opptakskrav, læringsutbytte, innhold og organisering av et studieprogram. Emnebeskrivelser inngår som en del av studieplanen. I rammeplaner omtales studieplaner som programplaner og fagplaner. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Studiepoeng (sp)</i>
+                </entry>
+                <entry colname="2">Omfanget av studieprogrammer og emner. Et studieår på heltid tilsvarer 60 studiepoeng, med normert arbeidsbelastning på 1500-1800 timer for studentene. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Studieprogram</i>
+                </entry>
+                <entry colname="2">Ett eller flere emner med overordnede læringsutbytter fastsatt i studieplan. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Studierett</i>
+                </entry>
+                <entry colname="2">Rettighet knyttet til det å være tatt opp som student på et studieprogram ved høgskolen. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Utdanningsplan</i>
+                </entry>
+                <entry colname="2">Individuell avtale mellom student og høgskole med plan for gjennomføring av studieprogrammet studenten er tatt opp til. </entry>
+              </row>
+              <row>
+                <entry colname="1">
+                  <i>Videreutdanning</i>
+                </entry>
+                <entry colname="2">Studiepoenggivende studieprogram som gir ny formell kompetanse på lavere eller høyere grads nivå. </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Opptak</ktittel>
+      <paragraf id="/kapittel/2/paragraf/2-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k2/p2-1">
+        <pverdi>§ 2-1.</pverdi>
+        <ptittel>Opptak og rangering til grunnutdanning</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/1">(1) Opptak og rangering av søkere til grunnutdanninger er regulert av departementets forskrift om opptak til høyere utdanning.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/2">(2) Rektor fastsetter utfyllende bestemmelser for vurdering av realkompetanse.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k2/p2-2">
+        <pverdi>§ 2-2.</pverdi>
+        <ptittel>Opptak og rangering til videreutdanning og masterutdanning som bygger på høyere utdanning</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/1">(1) Opptakskrav til videreutdanning fremgår av studieplan eller nasjonal rammeplan.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/2">(2) Opptak av søkere til masterutdanninger er regulert av departementets forskrift om krav til mastergrad.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/3">(3) Dersom det er flere kvalifiserte søkere enn antall studieplasser rangeres søkerne etter rangeringsregelverk gitt i høgskolens utfyllende bestemmelser.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/4">(4) Søkere med annet morsmål enn norsk eller et annet nordisk språk, må dokumentere kunnskaper i norsk tilsvarende kravene som stilles i nasjonal opptaksforskrift i § 2-2 og § 2-3. Kravet om dokumentasjon av norskkunnskaper gjelder ikke for engelskspråklige studieprogram.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/5">(5) Søkere med utenlandsk utdanning må dokumentere kunnskaper i engelsk tilsvarende kravene som stilles i nasjonal opptaksforskrift i § 2-2 og § 2-3 og nedfelt i GSU-listen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-3" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k2/p2-3">
+        <pverdi>§ 2-3.</pverdi>
+        <ptittel>Opptak og rangering til praktisk pedagogisk utdanning</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-3/ledd/1">(1) Opptak av søkere til praktisk-pedagogisk utdanning er regulert av departementets forskrifter om rammeplan for praktisk-pedagogisk utdanning.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-3/ledd/2">(2) Dersom det er flere kvalifiserte søkere enn antall studieplasser rangeres søkerne etter rangeringsregelverk gitt i høgskolens utfyllende bestemmelser.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-4" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k2/p2-4">
+        <pverdi>§ 2-4.</pverdi>
+        <ptittel>Betinget opptak</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-4/ledd/1">(1) For opptak til grunnutdanninger, videreutdanninger, masterutdanninger og praktisk-pedagogisk utdanning, kan det innvilges betinget opptak, jf. forskrift om opptak til høyere utdanning.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-4/ledd/2">(2) Søkere som vurderes på grunnlag av realkompetanse, kan ikke få betinget opptak.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-5" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k2/p2-5">
+        <pverdi>§ 2-5.</pverdi>
+        <ptittel>Reservert studieplass</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/1">(1) Søknad om reservert studieplass kan innvilges dersom det oppstår uforutsette og tungtveiende forhold, som gjør at søkeren ikke kan påbegynne studieprogrammet som forutsatt. Tungtveiende forhold er innkalling til militærtjeneste, fødsel, adopsjon eller sykdom.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/2">(2) Søknad må fremsettes senest tre uker etter at søkeren fikk tilbud om studieplass. Det er en forutsetning at søkeren bekrefter studieplassen før søknad fremsettes.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/3">(3) Studieplass kan reserveres i inntil ett år.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/4">(4) En student som er innvilget reservert studieplass, er garantert å få studieplass på det aktuelle studieprogrammet ved neste ordinære opptak. Det forutsettes at studietilbudet fremdeles eksisterer, og at studenten søker på studieprogrammet innen neste ordinære søknadsfrist.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-6" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k2/p2-6">
+        <pverdi>§ 2-6.</pverdi>
+        <ptittel>Dokumentasjonskontroll</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/1">Søkere kan bli avkrevd å fremlegge originaldokumenter av grunnlaget for opptak under søknadsbehandlingen og etter at opptak er innvilget. Dersom originaldokumentene ikke fremlegges innen fastsatt frist, eller søkeren framlegger falske vitnemål eller annen ugyldig dokumentasjon, vil søkeren få søknad om opptak underkjent og mister studieretten.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-7" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k2/p2-7">
+        <pverdi>§ 2-7.</pverdi>
+        <ptittel>Generelt</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/1">(1) Studieplan for den enkelte grunnutdanning, videreutdanning og masterutdanning fastsetter nærmere krav til eventuelle opptaksprøver, og faglige eller språklige minstekrav som departementet har fastsatt i forskrifts form. Med faglig minstekrav menes karakterkrav eller andre fagkrav, jfr. forskrift om krav til mastergrad.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/2">(2) Søknadsfrister til studier i lokalt opptak fastsettes av rektor.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/3">(3) For opptak på grunnlag av opptaksprøver er det kun klagerett over formelle feil ved avgjørelse om opptak.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Grader</ktittel>
+      <paragraf id="/kapittel/3/paragraf/3-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k3/p3-1">
+        <pverdi>§ 3-1.</pverdi>
+        <ptittel>Grader og yrkesutdanninger</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/1">Høgskolen kan tildele grader og yrkesutdanninger i samsvar med forskrift 16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k3/p3-2">
+        <pverdi>§ 3-2.</pverdi>
+        <ptittel>Krav til graden bachelor</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/1">Graden bachelor oppnås på grunnlag av eksamen i emner, emnegrupper eller studieprogram av 180 studiepoengs omfang. I graden skal det inngå et selvstendig arbeid av teoretisk, praktisk eller kunstnerisk art på minimum 10 studiepoeng. Grunnlaget for graden skal for øvrig omfatte ett av følgende:
+<liste id="/kapittel/3/paragraf/3-2/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/1/liste/a/avsnitt/1">Integrert utdanning, yrkesrettet utdanning eller annet studieprogram av 180 studiepoengs omfang i henhold til godkjent studieplan. Studieplanen skal inneholde minst 120 studiepoeng innen samme fagområde.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-2/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/1/liste/b/avsnitt/1">Integrert utdanning, yrkesrettet utdanning eller annet studieprogram av minimum 120 studiepoengs omfang, kombinert med annet studieprogram av minimum 60 studiepoengs omfang.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-2/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/1/liste/c/avsnitt/1">Treårig utdanning av 180 studiepoengs omfang som tilfredsstiller følgende vilkår:</avsnitt><liste id="/kapittel/3/paragraf/3-2/ledd/1/liste/c-1"><lverdi>-</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/1/liste/c-1/avsnitt/1">Fordypning i fag av minimum 80 studiepoengs omfang. I fordypningen skal det inngå emner som bygger på hverandre, og omfanget av påbyggingsemner må være på minimum 20 studiepoeng. Fordypningen må være definert som avsluttede fag, emnegrupper eller studieprogram i en studieplan.</avsnitt></liste><liste id="/kapittel/3/paragraf/3-2/ledd/1/liste/c-2"><lverdi>-</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/1/liste/c-2/avsnitt/1">Ytterligere fag, emnegruppe eller studieprogram av minimum 30 studiepoengs omfang.</avsnitt></liste><liste id="/kapittel/3/paragraf/3-2/ledd/1/liste/c-3"><lverdi>-</lverdi><avsnitt id="/kapittel/3/paragraf/3-2/ledd/1/liste/c-3/avsnitt/1">Vitenskapsteoretiske eller filosofiske emner og/eller andre frittstående emner.</avsnitt></liste></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-3" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k3/p3-3">
+        <pverdi>§ 3-3.</pverdi>
+        <ptittel>Tilleggsbetegnelse for graden bachelor</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/1">(1) For oppnådd bachelorgrad etter § 3-2 a) angis gradens faglige innhold på vitnemål som følger:
+<marg niv="2" id="/kapittel/3/paragraf/3-3/ledd/1/marg/1">Bachelor i &lt;tittel på studieprogrammet&gt;.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/2">(2) For oppnådd bachelorgrad etter § 3-2 b), angis gradens faglige innhold på vitnemål som følger:
+<marg niv="2" id="/kapittel/3/paragraf/3-3/ledd/2/marg/1">Bachelor på grunnlag av &lt;betegnelse på studieprogram på 120 studiepoeng&gt; og &lt;betegnelse på studieprogram på 60 studiepoeng&gt;.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/3">(3) For oppnådd bachelorgrad etter § 3-2 c), angis gradens faglige innhold på vitnemål i henhold til fagområdet for fordypningen:
+<marg niv="2" id="/kapittel/3/paragraf/3-3/ledd/3/marg/1">Bachelor med fordypning i &lt;fagområde for fordypningen&gt;.</marg></ledd>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/4">(4) Rammeplanbaserte utdanninger kan avvike fra bestemmelsen. Tilleggsbetegnelsen fastsettes ved etablering av studieprogrammet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-4" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k3/p3-4">
+        <pverdi>§ 3-4.</pverdi>
+        <ptittel>Krav til graden master</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-4/ledd/1">Krav til innhold og omfang i mastergrad fremgår av nasjonal forskrift 1. desember 2005 nr. 1392 om krav til mastergrad. Høgskolen tildeler de mastergrader som er godkjent i henhold til lovens § 3-2 og § 3-3.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-5" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k3/p3-5">
+        <pverdi>§ 3-5.</pverdi>
+        <ptittel>Tilleggsbetegnelse for graden master</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-5/ledd/1">For oppnådd mastergrad angis gradens faglige innhold på vitnemål som følger:
+<marg niv="2" id="/kapittel/3/paragraf/3-5/ledd/1/marg/1">Master i &lt;tittel på studieprogrammet&gt;.</marg></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-6" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k3/p3-6">
+        <pverdi>§ 3-6.</pverdi>
+        <ptittel>Tilknytningskrav for tildeling av grad</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-6/ledd/1">For utstedelse av vitnemål for oppnådd grad eller yrkesutdanning, må minimum 60 av studiepoengene som inngår i grunnlaget for graden eller yrkesutdanningen være avlagt ved Høgskolen i Innlandet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-7" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k3/p3-7">
+        <pverdi>§ 3-7.</pverdi>
+        <ptittel>Godskriving, fritak og faglig overlapping</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-7/ledd/1">(1) En student kan få godskrevet annen høyere utdanning i henhold til lovens § 3-5, når det kan dokumenteres at faglige krav er oppfylt. Søknad om godskriving må framsettes skriftlig innen en måned etter emnets oppstart, og må inneholde nødvendig dokumentasjon av omfang og innhold i utdanningen som søkes godskrevet. Dokumentasjon av realkompetanse kan gi grunnlag for fritak for eksamen.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-7/ledd/2">(2) Rektor avgjør søknader om godskriving og søknader om fritak for eksamen etter faglig vurdering.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-7/ledd/3">(3) Delemner eller deleksamener godskrives ikke, og det gis ikke fritak for delemner eller deleksamener.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-7/ledd/4">(4) Det gis ikke dobbel uttelling for samme faginnhold innenfor samme grad. Ved overlapping i faginnhold mellom emner, emnegrupper eller studieprogram som inngår i grunnlaget for en grad, vil den samlede studiepoengsum reduseres med det antall studiepoeng overlappet tilsvarer.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-7/ledd/5">(5) Fritak for eksamen i et emne skal framgå på vitnemålet, med merknad om grunnlaget for fritaket.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-8" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k3/p3-8">
+        <pverdi>§ 3-8.</pverdi>
+        <ptittel>Forutsetninger for tildeling av ny grad</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-8/ledd/1">Ved godskriving av utdanning som tidligere har inngått i grunnlaget for en tildelt grad, eller som del av en grad eller yrkesutdanning, må studenten avlegge minimum 60 nye studiepoeng før det kan tildeles ny grad fra Høgskolen i Innlandet. Rektor kan fastsette krav om inntil 90 nye studiepoeng for bestemte studieprogram. Ved tildeling av ny mastergrad må de nye studiepoengene inkludere en annen masteroppgave enn den oppgaven som inngikk i grunnlaget for den tidligere tildelte mastergraden.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Studier og utdanningsplaner</ktittel>
+      <paragraf id="/kapittel/4/paragraf/4-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k4/p4-1">
+        <pverdi>§ 4-1.</pverdi>
+        <ptittel>Studieportefølje</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/1">(1) Høgskolestyret vedtar strategien for institusjonens utdannings- og forskningsvirksomhet og annen faglig virksomhet, og vedtar planer for den faglige utviklingen i samsvar med de mål som er gitt av overordnet myndighet for sektoren og institusjonen.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/2">(2) Med utgangspunkt i strategiske mål og langsiktige planer om faglig utvikling, gjør høgskolestyret årlig vedtak om hvilke studieprogrammer som inngår i høgskolens studieportefølje.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/3">(3) Høgskolestyret vedtar etablering av studier av mer enn 60 studiepoengs omfang.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/4">(4) Rektor vedtar etablering av studieprogrammer av 60 studiepoengs omfang eller mindre.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/5">(5) Saker som innebærer oppretting eller nedlegging av fagområder eller andre vesentlige endringer i studieporteføljen, skal behandles av høgskolestyret.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/6">(6) Alle studieprogrammer skal tilfredsstille gjeldende krav for akkreditering av studier fastsatt av NOKUT.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/7">(7) Rektor kan ved lave søkertall, eller om andre tvingende grunner gjør det nødvendig, beslutte å ikke sette i gang et studieprogram. Søkere til det aktuelle studieprogrammet skal underrettes om vedtaket så snart som mulig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k4/p4-2">
+        <pverdi>§ 4-2.</pverdi>
+        <ptittel>Studieplaner</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/1">(1) Rektor fastsetter studieplaner med emnebeskrivelser for alle studiepoenggivende studieprogram.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/2">(2) Studieplaner utformes i samsvar med Nasjonalt kvalifikasjonsrammeverk.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/3">(3) Rektor godkjenner endringer i allerede godkjente studieplaner. Endringer i studieplaner eller emnebeskrivelser skal ikke tre i kraft før ved nytt studieår.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-3" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k4/p4-3">
+        <pverdi>§ 4-3.</pverdi>
+        <ptittel>Utdanningsplaner</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/1">(1) Studenter som er tatt opp til studieprogram av minst 60 studiepoengs omfang, skal ha en utdanningsplan. Utdanningsplanen skal inneholde bestemmelser om høgskolens ansvar og forpliktelser overfor studenten, og studentens forpliktelser overfor høgskolen og medstudenter.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/2">(2) Utdanningsplanen skal være satt opp slik at studenten skal kunne gjennomføre planlagte studieprogram eller studieløp på normert tid som heltids- eller deltidsstudent.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/3">(3) Utdanningsplanen kan endres etter avtale mellom høgskole og student.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/4">(4) Studenten skal bekrefte utdanningsplanen og fullføre semesterregistrering hvert semester innen gitte frister. Dette er en forutsetning for å oppnå studentstatus.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/5">(5) Ved bekreftelse av utdanningsplanen blir studenten automatisk meldt til undervisning og eksamen.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/6">(6) For adgangsregulerte emner uten forkunnskapskrav rangeres studenter etter forskrift om opptak til høyere utdanning. For emner med forkunnskapskrav rangeres studenter etter oppnådd eksamenskarakter fra det emnet som kreves. Ved karakterlikhet skjer videre rangering etter alder, der eldre søkere går foran yngre søkere.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-4" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k4/p4-4">
+        <pverdi>§ 4-4.</pverdi>
+        <ptittel>Utenlandsopphold</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/1">(1) Studenten må normalt ha bestått 60 studiepoeng før utreise og skal ellers tilfredsstille de krav høgskolen stiller for utreisende studenter.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/2">(2) Studenter som tar emner eller praksis ved et lærested i utlandet som en integrert del av studieprogrammet ved høgskolen, skal bekrefte utdanningsplanen og betale semesteravgift før avreisen for å opprettholde sin studierett.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-5" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k4/p4-5">
+        <pverdi>§ 4-5.</pverdi>
+        <ptittel>Studieåret</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-5/ledd/1">Rektor fastsetter undervisningsterminer for studieåret. Studieårets lengde er 10 måneder fra medio august til medio juni.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k5">
+      <kverdi>Kapittel 5</kverdi>
+      <ktittel>Studierett og permisjoner</ktittel>
+      <paragraf id="/kapittel/5/paragraf/5-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k5/p5-1">
+        <pverdi>§ 5-1.</pverdi>
+        <ptittel>Studierett</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/1">(1) Den som har akseptert tilbud om studieplass, har studierett i henhold til normert studietid for det aktuelle studieprogrammet han eller hun er tatt opp til.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/2">(2) Studierett gir rett til deltakelse i all organisert undervisning og vurdering i tråd med studieplan og emnebeskrivelser i det studieprogrammet studenten er tatt opp til.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/3">(3) Rektor kan innføre plassbegrensning ved valgfrie emner, såfremt studentene sikres plass ved alternative emner, slik at de kan fullføre studieprogrammet på normert tid.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/4">(4) Dersom studenten er forsinket i studiene i forhold til normert tid, beholdes studieretten i inntil ett år i tillegg . I særlige tilfeller kan studieretten utvides ytterligere, etter søknad fra studenten. I slike tilfeller har høgskolen mulighet til å begrense rettighetene som følger med utvidet studierett. I den utvidede studieretten inngår ikke reservert studieplass, permisjon og midlertidig utestengelse fra høgskolen.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/5">(5) Ved Den norske filmskolen beholdes ikke studieretten ut over normert studietid.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/6">(6) Rektor kan gi studenter rett til å følge undervisningen og ta eksamen i emner som ikke er del av studieprogrammet studenten er tatt opp til.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/7">(7) Når en student ikke fullfører innen normert studietid, og det i mellomtiden er gjort vesentlige endringer i studieplanen, eller studieprogrammet/emnet er avviklet, gjelder retten til å fullføre etter den opprinnelige studieplanen/emnebeskrivelsen i ett år etter at endringen ble gjort gjeldende.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k5/p5-2">
+        <pverdi>§ 5-2.</pverdi>
+        <ptittel>Vilkår for å beholde studieretten</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/1">Studenten må betale semesteravgift og eventuell annen avgift fastsatt i samsvar med forskrift om egenbetaling ved universiteter og høyskoler, bekrefte utdanningsplanen og/eller registrere seg hvert semester innen gjeldende frister for å beholde studieretten.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-3" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k5/p5-3">
+        <pverdi>§ 5-3.</pverdi>
+        <ptittel>Opphør av studierett</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/1">Studieretten opphører automatisk når:
+<liste id="/kapittel/5/paragraf/5-3/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/5/paragraf/5-3/ledd/1/liste/a/avsnitt/1">Studenten selv bekrefter at hun/han trekker seg fra studieprogrammet.</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-3/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/5/paragraf/5-3/ledd/1/liste/b/avsnitt/1">Studiene er fullført og vitnemål eller karakterutskrift er utstedt.</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-3/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/5/paragraf/5-3/ledd/1/liste/c/avsnitt/1">Studenten ikke betaler semesteravgift eller øvrige avgifter jf. § 5-2, ikke bekrefter sin utdanningsplan og/eller ikke registrerer seg innen gitte frister.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-4" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k5/p5-4">
+        <pverdi>§ 5-4.</pverdi>
+        <ptittel>Tap av studierett</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-4/ledd/1">Studenter mister studieretten på studieprogram de er tatt opp til i følgende tilfeller:
+<liste id="/kapittel/5/paragraf/5-4/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/5/paragraf/5-4/ledd/1/liste/a/avsnitt/1">Studenten har overskredet den fastsatte grensen for normert og utvidet tid.</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-4/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/5/paragraf/5-4/ledd/1/liste/b/avsnitt/1">Studenten har brukt opp sine forsøk til eksamen eller praksisperiode i henhold til studieplan eller etter denne forskrift.</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-4/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/5/paragraf/5-4/ledd/1/liste/c/avsnitt/1">Studenten er ikke i permisjon eller midlertidig utestengt fra høgskolen, og har ikke avlagt og bestått eksamen i løpet av siste studieår i henhold til gjeldende studieplan.</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-4/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/5/paragraf/5-4/ledd/1/liste/d/avsnitt/1">Studenten fremlegger ikke på forespørsel originaldokumenter som er grunnlaget for opptak til studieprogrammet.</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-4/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/5/paragraf/5-4/ledd/1/liste/e/avsnitt/1">Studenten møter ikke opp ved studiestart på studieprogram der dette er påkrevd.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-5" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k5/p5-5">
+        <pverdi>§ 5-5.</pverdi>
+        <ptittel>Permisjoner</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-5/ledd/1">(1) Studenter har rett til foreldrepermisjon i henhold til lovens § 4-5.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-5/ledd/2">(2) Det kan for øvrig innvilges permisjon for inntil ett år ved førstegangstjeneste, sykdom, studentpolitiske verv eller andre særskilte grunner. I særskilte tilfeller kan permisjon innvilges ut over ett år.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-5/ledd/3">(3) En student som har fått innvilget permisjon, skal så langt det er mulig få gjenoppta studieprogrammet på det tidspunktet som er angitt ved innvilgelsen.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-5/ledd/4">(4) Dersom en student ønsker å ta enkelteksamener i sin permisjonstid, må semesteravgift betales for det aktuelle semesteret.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/6" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6">
+      <kverdi>Kapittel 6</kverdi>
+      <ktittel>Eksamen</ktittel>
+      <paragraf id="/kapittel/6/paragraf/6-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-1">
+        <pverdi>§ 6-1.</pverdi>
+        <ptittel>Generelt om eksamen</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/1">(1) Hvilke eksamener som skal danne grunnlag for en karakterfastsettelse, fastsettes gjennom studieplan og emnebeskrivelser, og for øvrig av departementet i rammeplaner.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/2">(2) Ved bruk av deleksamen skal det fremgå av emnebeskrivelsen hvordan vurderingen gjennomføres og hvordan endelig karakter beregnes.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/3">(3) Skriftlig eksamen med tilsyn skal normalt ha følgende omfang:
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/1"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/1/avsnitt/1">Til og med 10 studiepoeng inntil 4 timer</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/2"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/2/avsnitt/1">For 11 til 30 studiepoeng inntil 6 timer</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-1/ledd/3/liste/3"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-1/ledd/3/liste/3/avsnitt/1">Mer enn 30 studiepoeng inntil 8 timer</avsnitt></liste>
+<marg niv="1" id="/kapittel/6/paragraf/6-1/ledd/3/liste/3/avsnitt/1/marg/1">Omfang av hjemmeeksamen og gruppeeksamen vurderes særskilt.</marg></ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/4">(4) Eksamensbesvarelser skal alltid være originale, selvstendige og individuelle arbeider, med mindre det tydelig fremgår av oppgaven at hovedregelen kan fravikes. Besvarelsen, eller deler av denne, skal ikke tidligere ha vært innlevert som eksamen på egen eller andre institusjoner.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/5">(5) Eksamen avholdes normalt i det semesteret undervisningen i emnet avsluttes.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/6">(6) Eksamen avlegges på det sted som høgskolen fastsetter.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-2">
+        <pverdi>§ 6-2.</pverdi>
+        <ptittel>Rett til å gå opp til eksamen</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/1">(1) Studenter har rett til å gå opp til eksamen i emner hvor de har studierett og er eksamensmeldt.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/2">(2) Rektor kan fastsette forkunnskapskrav, obligatoriske arbeidskrav, krav om obligatorisk undervisning og praksis som forutsetning for å gå opp til eksamen. Opplysninger om dette skal fremgå av studieplan og emnebeskrivelser. Studenter som ikke oppfyller slike krav, har ikke rett til å fremstille seg til eksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/3">(3) Studenter som er tatt opp til et studieprogram av ett års varighet (60 sp) eller mer, må bekrefte utdanningsplan for å kunne fremstille seg til eksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/4">(4) Andre som oppfyller de generelle og eventuelt spesielle opptakskrav og andre krav for å gå opp til eksamen, har rett til å gå opp til eksamen etter nærmere regler (lovens § 3-10). Rektor avgjør om vilkår for å avlegge eksamen er innfridd.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/5">(5) En student som har mistet studieretten etter å ha brukt opp sine forsøk til eksamen jf. § 5-4 b), får ikke nye forsøk til eksamen i samme emne ved å få nytt opptak ved høgskolen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/6">(6) En student som har fullført sitt studieprogram og mistet studieretten etter § 5-3 b), kan ikke fremstille seg til eksamen i emner i samme studieprogram ved å få nytt opptak ved høgskolen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-3" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-3">
+        <pverdi>§ 6-3.</pverdi>
+        <ptittel>Forkunnskapskrav</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-3/ledd/1">Rektor kan fastsette krav om bestemte eksamener som må være bestått, før eksamen kan avlegges. Fritak gis kun der det kan dokumenteres bestått eksamen i tilsvarende emne.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-4" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-4">
+        <pverdi>§ 6-4.</pverdi>
+        <ptittel>Obligatoriske arbeidskrav</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-4/ledd/1">(1) Studenter som ikke har fått godkjent et obligatorisk arbeidskrav, får ett nytt forsøk før ordinær eksamen, der dette er gjennomførbart. Studenter som ikke har overholdt innleveringsfrist og ikke fått utsettelse grunnet sykdom eller andre velferdsgrunner, får ikke anledning til å gjøre et nytt forsøk før neste gang emnet gjennomføres.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-4/ledd/2">(2) Obligatoriske arbeidskrav vurderes til godkjent/ikke godkjent, og gir ikke uttelling i studiepoeng.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-5" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-5">
+        <pverdi>§ 6-5.</pverdi>
+        <ptittel>Oppmelding til eksamen</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-5/ledd/1">(1) Eksamensoppmelding skjer normalt ved at studenten bekrefter sin utdanningsplan.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-5/ledd/2">(2) Oppmelding til eksamen skal skje senest innen 1. oktober i høstsemesteret og 1. mars i vårsemesteret, såfremt høgskolen ikke har fastsatt andre frister.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-5/ledd/3">(3) Den enkelte student er ansvarlig for at han/hun er oppmeldt til eksamen innen angitte frister.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-5/ledd/4">(4) En student som er meldt opp til eksamen, har anledning til å trekke seg. Avmelding skal være mottatt av høgskolen senest 2 uker før eksamensdagen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-5/ledd/5">(5) Studenten er selv ansvarlig for å holde seg orientert om tid og sted for eksamen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-6" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-6">
+        <pverdi>§ 6-6.</pverdi>
+        <ptittel>Antall eksamensforsøk</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-6/ledd/1">(1) En student har rett til å framstille seg til eksamen ved høgskolen i samme emne eller tilsvarende emner tre ganger. Praksis i profesjonsstudiene jf. § 6-9, masteroppgaver og større selvstendig arbeid i lavere grad jf. § 6-7, er unntatt denne bestemmelsen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-6/ledd/2">(2) Ved Den norske filmskolen kan studenter framstille seg til ordinære eksamen en gang.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-6/ledd/3">(3) Det regnes som tellende eksamensforsøk når studenten
+<liste id="/kapittel/6/paragraf/6-6/ledd/3/liste/1"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-6/ledd/3/liste/1/avsnitt/1">trekker seg etter avmeldingsfristens utløp uten gyldig fravær</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-6/ledd/3/liste/2"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-6/ledd/3/liste/2/avsnitt/1">ikke møter på eksamen</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-6/ledd/3/liste/3"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-6/ledd/3/liste/3/avsnitt/1">ikke leverer eksamensbesvarelsen innen oppgitt frist</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-6/ledd/3/liste/4"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-6/ledd/3/liste/4/avsnitt/1">leverer blankt</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-6/ledd/3/liste/5"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-6/ledd/3/liste/5/avsnitt/1">møter på eksamen og trekker seg under eksamen uten gyldig grunn</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-6/ledd/3/liste/6"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-6/ledd/3/liste/6/avsnitt/1">møter til eksamen uten nødvendig eller fungerende utstyr, og av den grunn ikke får gjennomført eksamen</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/6-6/ledd/3/liste/7"><lverdi>-</lverdi><avsnitt id="/kapittel/6/paragraf/6-6/ledd/3/liste/7/avsnitt/1">får sin eksamen annullert på grunn av fusk eller forsøk på fusk.</avsnitt></liste>
+<marg niv="1" id="/kapittel/6/paragraf/6-6/ledd/3/liste/7/avsnitt/1/marg/1">Studenten har i ovennevnte tilfeller ikke krav på å fremstille seg på nytt før ved neste ordinære eksamen i emnet.</marg></ledd>
+        <ledd id="/kapittel/6/paragraf/6-6/ledd/4">(4) Rektor kan i særlige tilfeller gi dispensasjon for et fjerde forsøk etter søknad fra studenten. I slike tilfeller kan det fastsettes særskilte krav og tidspunkt for når et fjerde og siste eksamensforsøk må gjennomføres.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-6/ledd/5">(5) I emner med deleksamener er antall eksamensforsøk normalt knyttet til den enkelte deleksamen. Bestått deleksamen i et emne må normalt ikke avlegges på nytt dersom annen deleksamen i samme emne vurderes til ikke bestått.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-7" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-7">
+        <pverdi>§ 6-7.</pverdi>
+        <ptittel>Antall eksamensforsøk for masteroppgave og større selvstendig arbeid i lavere grad</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-7/ledd/1">(1) Dersom en masteroppgave er vurdert til ikke bestått, kan omarbeidet masteroppgave leveres til sensur på nytt én gang, til avtalt tidspunkt.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-7/ledd/2">(2) Annet større selvstendig arbeid i lavere grad (bacheloroppgave, fordypningsoppgave, FoU-oppgave, prosjektoppgave o.l.) som er vurdert til ikke bestått, kan leveres til sensur på nytt én gang, i omarbeidet form og til avtalt tidspunkt.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-7/ledd/3">(3) Det er ikke adgang til å få vurdert ny eller omarbeidet masteroppgave, eller annet større selvstendig arbeid i lavere grad, når studenten tidligere har fått vurdert oppgaven eller arbeidet til bestått resultat i samme studieprogram.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-8" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-8">
+        <pverdi>§ 6-8.</pverdi>
+        <ptittel>Kontinuasjonseksamen</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-8/ledd/1">(1) Rektor kan vedta at det skal holdes kontinuasjonseksamen med adgang for studenter som har fremstilt seg til ordinær eksamen og ikke bestått, eller som har gyldig fravær ved ordinær eksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-8/ledd/2">(2) Som gyldig fravær ved eksamen regnes sykdom eller sterke velferdsgrunner. Disse forholdene skal kunne dokumenteres. Dokumentasjon fra sakkyndig instans skal leveres til høgskolen så raskt som mulig, og senest innen tre virkedager etter eksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-8/ledd/3">(3) Studenter med tellende eksamensforsøk i henhold til § 6-6 tredje ledd, har ikke rett til å fremstille seg til kontinuasjonseksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-8/ledd/4">(4) Studenter som ønsker å forbedre karakter, får anledning til dette ved ordinær eksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-8/ledd/5">(5) Kontinuasjonseksamen skal ha samme eksamensform som ordinær eksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-8/ledd/6">(6) Når en student har avlagt eksamen på nytt, gjelder beste karakter.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-8/ledd/7">(7) Rektor kan vedta regler for adgang til kontinuasjonseksamen for andre enn studenter med ikke bestått karakter eller gyldig fravær ved ordinær eksamen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-9" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-9">
+        <pverdi>§ 6-9.</pverdi>
+        <ptittel>Praksis i profesjonsstudiene</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-9/ledd/1">(1) Dersom en student på grunn av sykdom eller sterke velferdsgrunner må avbryte sin praksisperiode, kreves dokumentasjon fra sakkyndig instans. Slik dokumentasjon må være høgskolen i hende så raskt som mulig, og senest innen tre virkedager etter at praksis er avbrutt. Der avbrudd i praksis godkjennes på grunn av sykdom eller sterke velferdsgrunner, telles ikke dette som et eksamensforsøk.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-9/ledd/2">(2) Praksis i profesjonsstudiene defineres som en eksamen og vurderes til Bestått/Ikke bestått. For ikke bestått praksis gis det adgang til å ta praksisperioden én gang til. Maksimum antall forsøk er to, med mindre annet er bestemt i rammeplan.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-9/ledd/3">(3) For praksis i profesjonsstudiene gjelder bestemmelsene i § 6-2 i denne forskrift.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-10" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-10">
+        <pverdi>§ 6-10.</pverdi>
+        <ptittel>Adgang til å gå opp til eksamen mv. som privatist</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/1">(1) Med privatist menes person som beskrevet i lovens § 3-10.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/2">(2) Adgang til eksamen kan nektes etter lovens § 3-10 dersom privatisten ikke har fulgt obligatorisk undervisning, gjennomført obligatorisk praksis eller fullført obligatoriske arbeidskrav. Tidligere studenter som oppfyller de fastsatte arbeidskrav, krav om bestemte eksamener eller krav om obligatorisk oppmøte og praksis, har rett til å gå opp til eksamen som privatist forutsatt at denne eksamen fortsatt tilbys.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/3">(3) Privatister må melde seg opp til eksamen, og eventuelt søke om godkjenning av forkunnskapskrav eller praksis, innen fastsatte frister. Dokumentasjon av opptakskravet for det studieprogrammet som eksamen gjelder, må vedlegges oppmeldingen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/4">(4) Privatistenes rettigheter ved høgskolen er begrenset til deltakelse i offentlige forelesninger og adgang til eksamen, i samsvar med loven og denne forskriftens bestemmelser om eksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/5">(5) Privatister må betale eksamensavgift i samsvar med vedtak i styret. Eksamensavgiften må være betalt innen angitt frist. Privatister som ikke har betalt eksamensavgiften innen fristen, har ikke adgang til eksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/6">(6) Privatister må i tillegg til eksamensavgiften betale semesteravgift i samsvar med bestemmelser i lov om studentsamskipnader med forskrifter.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/7">(7) Eksamensavgift og semesteravgift refunderes ikke dersom privatisten trekker seg fra eksamen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/8">(8) Studenter som er utestengt jf. lovens § 4-8, har ikke adgang til eksamen som privatist.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/9">(9) Begrensningene om antall forsøk til eksamen i § 6-2 femte ledd gjelder også for privatister.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-10/ledd/10">(10) Rektor kan unnta enkelte studieprogram eller emner fra privatistordningen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-11" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-11">
+        <pverdi>§ 6-11.</pverdi>
+        <ptittel>Tilrettelegging ved eksamen</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-11/ledd/1">(1) Individuell tilrettelegging til eksamen skal ha som formål å oppveie de ulemper en funksjonsnedsettelse medfører for kandidaten i eksamenssituasjonen, samtidig som det i størst mulig utstrekning skal sørges for at kandidatene prøves likt. Tilretteleggingen skal ikke føre til en reduksjon av de faglige krav som stilles ved den enkelte eksamen. Tilretteleggingen skal være slik at eksamensprestasjonen kan vurderes etter vanlige faglige kriterier.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-11/ledd/2">(2) Studenter som har behov for individuell tilrettelegging ved den praktiske gjennomføringen av eksamen, må framsette søknad om dette innen fastsatte frister.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-11/ledd/3">(3) Studenter som ikke kan gjennomføre eksamen på grunn av en akutt lidelse, henvises normalt til kontinuasjonseksamen. Dersom det er sannsynlig at en student med en akutt lidelse vil klare å gjennomføre ordinær eksamen med enkle og lite ressurskrevende tiltak, kan tilrettelegging likevel innvilges.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-11/ledd/4">(4) Søknad om tilrettelegging ved eksamen må inneholde dokumentasjon fra sakkyndig instans, og beskrive behovet for særordning i eksamenssituasjonen.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-11/ledd/5">(5) Det skal normalt søkes for hver eksamensperiode, men dersom grunnlaget for særordningen er av permanent karakter, kan det gjøres unntak fra dette.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-11/ledd/6">(6) Ved behov for utvidet tid ved eksamen med tilsyn kan det gis inntil 25 % av normal eksamenstid, maksimalt en time. Ved hjemmeeksamen gis maksimalt 48 timer i tillegg.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-11/ledd/7">(7) Studenter med dokumentert dysleksi eller andre lese- og skrivevansker, kan etter eget ønske få merket eksamensbesvarelsen eller lagt ved en anonymisert attest som stadfester dette.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-11/ledd/8">(8) Studenter med annet morsmål enn norsk skal normalt ikke få utvidet tid til eksamen, men kan etter eget ønske få merket eksamensbesvarelsen eller lagt ved en anonymisert attest som stadfester annet morsmål.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-11/ledd/9">(9) Rektor avgjør om tilrettelegging innvilges, samt hvilken form tilretteleggingen skal ha.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-12" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k6/p6-12">
+        <pverdi>§ 6-12.</pverdi>
+        <ptittel>Bruk av hjelpemidler ved eksamen med tilsyn</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-12/ledd/1">(1) Oversikt over tillatte hjelpemidler ved eksamen fastsettes i emnebeskrivelsen, og skal fremgå av eksamensoppgaven.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-12/ledd/2">(2) Studentene er selv ansvarlig for å gjøre seg kjent med hva som er tillatte hjelpemidler ved den enkelte eksamen</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/7" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k7">
+      <kverdi>Kapittel 7</kverdi>
+      <ktittel>Karaktersystem, sensur og klage</ktittel>
+      <paragraf id="/kapittel/7/paragraf/7-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k7/p7-1">
+        <pverdi>§ 7-1.</pverdi>
+        <ptittel>Karaktersystem</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/1">(1) Karaktersystemet ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være ett av følgende to alternativer:
+<liste id="/kapittel/7/paragraf/7-1/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/7/paragraf/7-1/ledd/1/liste/a/avsnitt/1">Bestått/Ikke bestått</avsnitt></liste>
+<liste id="/kapittel/7/paragraf/7-1/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/7/paragraf/7-1/ledd/1/liste/b/avsnitt/1">Gradert bokstavkarakterskala fra A til E for bestått og F for ikke bestått i henhold til generelle, kvalitative beskrivelser av karaktertrinnene fra Universitets- og høgskolerådet.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/2">(2) Det skal utarbeides sensorveiledning til hver skriftlig eksamen. Denne skal være tilgjengelig for sensor før vurderingen starter, og tilgjengeliggjøres for studentene når sensur er kunngjort.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/3">(3) Bokstavkarakterene tilsvarer tallverdier slik: A=5, B=4, C=3, D=2, E=1, F=0. Tallverdiene brukes ved utregning av endelig karakter i emnet når flere deleksamener skal inngå, eller når flere emneresultater skal inngå i en samlet endelig karakter for et emne. Vektet gjennomsnitt beregnes med én desimal. Etter vanlige avrundingsregler foretas avrunding til helt tall, som gir bokstavkarakter i samsvar med tallverdien.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/4">(4) Skalaen Bestått/Ikke bestått bør brukes i praksisemner og emner av tilsvarende karakter.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/5">(5) Skalaen Bestått/Ikke bestått kan brukes
+<liste id="/kapittel/7/paragraf/7-1/ledd/5/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/7/paragraf/7-1/ledd/5/liste/a/avsnitt/1">i emner der det legges vekt på helhetlig vurdering av kunnskap, ferdigheter og kompetanse, og der fingraderte karakterer har liten mening</avsnitt></liste>
+<liste id="/kapittel/7/paragraf/7-1/ledd/5/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/7/paragraf/7-1/ledd/5/liste/b/avsnitt/1">i grunnleggende emner som feltkurs, medikamentregning, metodeemner, skrivekurs eller andre innføringsemner</avsnitt></liste>
+<liste id="/kapittel/7/paragraf/7-1/ledd/5/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/7/paragraf/7-1/ledd/5/liste/c/avsnitt/1">i prosjektarbeid/bachelorarbeid som organiseres som gruppeoppgaver.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/6">(6) Hvilket karaktersystem som skal benyttes ved den enkelte eksamen, prøve eller bedømmelse av oppgave, fastsettes i studieplaner og emnebeskrivelser.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/7">(7) Vekting av deleksamener ved beregning av endelig karakter, fastsettes i studieplaner og emnebeskrivelser.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/8">(8) Mer fagspesifikke kriterier kan utarbeides av det enkelte fagmiljø med utgangspunkt i nasjonale føringer innen hvert fagområde.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k7/p7-2">
+        <pverdi>§ 7-2.</pverdi>
+        <ptittel>Sensurordninger</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/1">(1) Studentenes kunnskaper, ferdigheter og generelle kompetanse skal vurderes på en upartisk og faglig betryggende måte.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/2">(2) Det skal være ekstern evaluering av vurderingen eller vurderingsordningene.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/3">(3) Ekstern sensor kan ikke være tilsatt i hovedstilling eller bistilling ved høgskolen, og heller ikke ha hatt engasjement som timelærer i det aktuelle emnet for eksamenskullet. Tilsatte ved samarbeidsinstitusjoner bør ikke benyttes som eksterne sensorer dersom de har nær tilknytning til det fagmiljøet som har ansvar for undervisningen i emnet.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/4">(4) Bruk av ekstern sensor skal komme alle kandidater til gode. Ekstern sensor kan benyttes på en fastsatt del av besvarelsene i et emne på store kull. Denne vurderingen legges da til grunn for sensurering av de øvrige besvarelsene.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/5">(5) Oppgavetekst og sensorveiledning skal alltid forelegges minst en ekstern sensor til vurdering og godkjenning. Dette gjelder selv om ekstern sensor ikke skal delta i vurdering av besvarelsene.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/6">(6) Omfang av sensur:
+<liste id="/kapittel/7/paragraf/7-2/ledd/6/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/7/paragraf/7-2/ledd/6/liste/a/avsnitt/1">Det skal være to sensorer på muntlig eksamen og på andre eksamener som ikke lar seg etterprøve.</avsnitt></liste>
+<liste id="/kapittel/7/paragraf/7-2/ledd/6/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/7/paragraf/7-2/ledd/6/liste/b/avsnitt/1">Det skal være to sensorer på bachelorarbeid og annet større arbeid på lavere grads nivå, hvorav en ekstern.</avsnitt></liste>
+<liste id="/kapittel/7/paragraf/7-2/ledd/6/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/7/paragraf/7-2/ledd/6/liste/c/avsnitt/1">Det skal alltid være minst to sensorer, hvorav minst én ekstern ved bedømmelse av studenters selvstendige arbeid i høyere grad.</avsnitt></liste>
+<liste id="/kapittel/7/paragraf/7-2/ledd/6/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/7/paragraf/7-2/ledd/6/liste/d/avsnitt/1">På øvrige eksamener bør det i tillegg til intern sensor hvert år benyttes ekstern sensor på minst 1/3 av emnene. I løpet av en treårsperiode skal alle emner ha ekstern sensur.</avsnitt></liste>
+<liste id="/kapittel/7/paragraf/7-2/ledd/6/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/7/paragraf/7-2/ledd/6/liste/e/avsnitt/1">Ved ny sensurering etter klage jf. lovens § 5-2 andre ledd og § 5-3 fjerde ledd, benyttes minst to nye sensorer, hvorav minst en ekstern. Endring kan gjøres både til gunst og ugunst for klager. Ved ny sensurering skal sensorene ikke få opprinnelig karakter, sensors begrunnelse for denne eller studentens begrunnelse for klagen. Den nye kommisjonen skal alltid ha sensorveiledning tilgjengelig.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/7">(7) Dersom intern og ekstern sensor ikke blir enige om vurderingen av en besvarelse, avgjør ekstern sensor.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/8">(8) Ved uenighet mellom faglærer og veileder/praksislærer på praksisstedet ved vurdering av praksisstudier, tiltrer studieleder/studieansvarlig/faglig ansvarlig som tredje sensor.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/9">(9) For å få adgang til justerende muntlig eksamen må studenten ha bestått forutgående skriftlig eksamen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-3" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k7/p7-3">
+        <pverdi>§ 7-3.</pverdi>
+        <ptittel>Sensurfrister og bekjentgjørelse av sensur</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/1">(1) Sensurfrist er tre uker fra eksamensdagen.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/2">(2) Ved ny sensur som følge av klage eller bytte av sensor, skal klagen avgjøres uten ugrunnet opphold, jf. forvaltningslovens § 11a.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/3">(3) Høgskolestyret kan gjøre unntak for enkelteksamener i henhold til lovens § 3-9 fjerde ledd.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/4">(4) Sensurfrist for masteroppgaver og større selvstendig arbeid over 25 studiepoeng, er seks uker.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/5">(5) Der hvor endelig karakter fastsettes ved justerende muntlig eksamen, skal det gå minimum 24 timer fra sensuren for skriftlig eksamen er offentliggjort til muntlig eksamen starter.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/6">(6) Sensur kunngjøres via Studentweb. Studentene er selv ansvarlige for å gjøre seg kjent med sensuren.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/7">(7) Høgskolen er ikke ansvarlig for eventuelle feil eller misforståelser som oppstår ved muntlig beskjed om eksamensresultatet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-4" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k7/p7-4">
+        <pverdi>§ 7-4.</pverdi>
+        <ptittel>Begrunnelse for karakterfastsetting</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-4/ledd/1">(1) En student har rett til å få en begrunnelse for karakterfastsettingen av sin prestasjon. Ved muntlig eksamen eller bedømmelse av praktiske ferdigheter, må krav om begrunnelse fremsettes umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må krav om begrunnelse framsettes innen en uke fra karakteren ble kunngjort.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-4/ledd/2">(2) Begrunnelse skal normalt være gitt innen to uker etter at studenten har framsatt krav om det. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. Begrunnelse gis muntlig eller skriftlig etter sensors valg. Sensorene avgjør seg imellom hvem som skal gi begrunnelsen.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-4/ledd/3">(3) Når karakter i et emne fastsettes på grunnlag av flere separate deleksamener, har studenten rett til å be om begrunnelse for hver enkelt deleksamen etter vanlige frister.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-5" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k7/p7-5">
+        <pverdi>§ 7-5.</pverdi>
+        <ptittel>Klage over karakterfastsetting</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-5/ledd/1">(1) Klage over karakterfastsetting må framsettes skriftlig innen tre uker etter at eksamensresultatet er kunngjort. Har studenten framsatt krav om begrunnelse for karakterfastsetting eller har klaget over formelle feil, løper klagefristen fra studenten har mottatt begrunnelse eller avgjørelse på klagen over formelle feil. I emner med deleksamener løper klageretten fra det tidspunkt eksamensresultatet i den enkelte deleksamen er kunngjort.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-5/ledd/2">(2) Ved krav om klage over karakterfastsettingen på gruppeeksamen, må alle gruppens medlemmer samlet samtykke i og skrive under på klagen.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-5/ledd/3">(3) Bedømmelse av muntlig prestasjon og praksisopplæring eller annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve, kan ikke påklages, jf. lovens § 5-3 femte ledd.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-5/ledd/4">(4) Klagesensur skal foreligge uten ugrunnet opphold, jf. forvaltningslovens § 11a, etter at klagesensor er oppnevnt. Endring kan gjøres både til gunst og ugunst for klager. Karakterfastsetting ved ny sensurering etter denne paragraf kan ikke påklages, jf. lovens § 5-3 sjette ledd.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-5/ledd/5">(5) Dersom endelige karakter blir fastsatt på grunnlag av en justerende muntlig prøve i tilknytning til en skriftlig deleksamen, og sensurvedtaket på den skriftlige delen av eksamen blir endret, holdes ny muntlig prøve før ny endelig karakter fastsettes, jf. lovens § 3-9 femte ledd.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-5/ledd/6">(6) Når karakter i et emne fastsettes på grunnlag av flere separate deleksamener, har studenten klageadgang på karakteren i hver enkelt deleksamen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-6" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k7/p7-6">
+        <pverdi>§ 7-6.</pverdi>
+        <ptittel>Klage over formelle feil</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-6/ledd/1">(1) Klage over formelle feil behandles etter bestemmelsene i lovens § 5-2. Formelle feil kan være feil ved oppgavegiving, eksamensavvikling eller ved gjennomføring av sensur.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-6/ledd/2">(2) Klage over formelle feil ved eksamen må fremsettes innen tre uker etter at studenten er eller burde vært kjent med det forhold som begrunner klagen. Er krav om begrunnelse for eller klage over karakterfastsettingen framsatt, løper klagefristen fra studenten har fått begrunnelsen eller en avgjørelse av klagen, jf. lovens § 5-2.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-6/ledd/3">(3) Høgskolens klagenemnd er klageinstans for vedtak om formelle feil ved eksamen.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/8" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k8">
+      <kverdi>Kapittel 8</kverdi>
+      <ktittel>Fusk, annullering og utestenging</ktittel>
+      <paragraf id="/kapittel/8/paragraf/8-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k8/p8-1">
+        <pverdi>§ 8-1.</pverdi>
+        <ptittel>Fusk</ptittel>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/1">(1) Fusk foreligger når en student handler i strid med denne forskrift eller retningslinjer for eksamen og eksamensavvikling.
+<avsnitt id="/kapittel/8/paragraf/8-1/ledd/1/avsnitt/1">Som fusk eller forsøk på fusk ved eksamen regnes bl.a.:</avsnitt>
+<liste id="/kapittel/8/paragraf/8-1/ledd/1/liste/1"><lverdi>-</lverdi><avsnitt id="/kapittel/8/paragraf/8-1/ledd/1/liste/1/avsnitt/1">å ha ulovlige hjelpemidler tilgjengelig under eksamen</avsnitt></liste>
+<liste id="/kapittel/8/paragraf/8-1/ledd/1/liste/2"><lverdi>-</lverdi><avsnitt id="/kapittel/8/paragraf/8-1/ledd/1/liste/2/avsnitt/1">å presentere andres arbeid som sitt eget</avsnitt></liste>
+<liste id="/kapittel/8/paragraf/8-1/ledd/1/liste/3"><lverdi>-</lverdi><avsnitt id="/kapittel/8/paragraf/8-1/ledd/1/liste/3/avsnitt/1">å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger</avsnitt></liste>
+<liste id="/kapittel/8/paragraf/8-1/ledd/1/liste/4"><lverdi>-</lverdi><avsnitt id="/kapittel/8/paragraf/8-1/ledd/1/liste/4/avsnitt/1">å sitere eller på annen måte benytte egne tidligere eksamensarbeider uten tilstrekkelige kildehenvisninger</avsnitt></liste>
+<liste id="/kapittel/8/paragraf/8-1/ledd/1/liste/5"><lverdi>-</lverdi><avsnitt id="/kapittel/8/paragraf/8-1/ledd/1/liste/5/avsnitt/1">å ha skaffet seg adgang til eksamen ved å ha fusket ved prøve og lignende som er vilkår for å gå opp til eksamen, eller ved på uriktig grunnlag å ha fått godkjenning for deltakelse ved obligatorisk undervisning eller andre obligatoriske aktiviteter</avsnitt></liste>
+<liste id="/kapittel/8/paragraf/8-1/ledd/1/liste/6"><lverdi>-</lverdi><avsnitt id="/kapittel/8/paragraf/8-1/ledd/1/liste/6/avsnitt/1">å ha deltatt i regelstridig samarbeid mellom eksamenskandidater eller grupper.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/2">(2) En student kan anses å ha fusket eller forsøkt å fuske fra det tidspunkt eksamen eller prøve er påbegynt. Eksamen eller prøve anses normalt å være påbegynt når oppgavetekst er utlevert eller problemformulering godkjent. Dersom det gjennomføres kontroll av tillatte hjelpemidler før oppgaveteksten er utlevert, anses eksamen påbegynt når eksamenskandidaten har levert inn sine hjelpemidler for kontroll.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/3">(3) Dersom det under avleggelse av eksamen med tilsyn oppstår situasjoner som gjør at en student kan mistenkes for fusk, skal studenten straks gjøres oppmerksom på at forholdet vil bli rapportert til administrasjonen for videre oppfølging. Studenten gis da mulighet til å velge mellom å avbryte eller fortsette eksamen. Det samme gjelder for studenter som har medvirket til fusk, jf. sjette ledd.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/4">(4) Dersom det ved sensurering av individuell eksamen viser seg at to eller flere besvarelser klart bygger på samme originalarbeid, eller har samme opphavsmann, eller i stor grad har felles disposisjon eller materielt innhold, regnes det som fusk hos alle de involverte.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/5">(5) Referanser på alle anvendte kilder, inkludert eget arbeid, skal være oppgitt. Avskrift eller kopi uten kildehenvisning regnes som fusk, uavhengig av kilden.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/6">(6) Kandidater som forsettlig medvirker til fusk hos andre, ansees også for å ha fusket, uavhengig av eksamensform.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/7">(7) Ved gruppeeksamen står alle deltakere i gruppa til ansvar for alt innhold i besvarelsen, produktet eller prestasjonen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/8/paragraf/8-2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k8/p8-2">
+        <pverdi>§ 8-2.</pverdi>
+        <ptittel>Annullering og utestenging</ptittel>
+        <ledd id="/kapittel/8/paragraf/8-2/ledd/1">(1) Fusk og forsøk på fusk behandles etter lovens § 4-7 og § 4-8. Dette gjelder også forsettlig medvirkning.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-2/ledd/2">(2) Høgskolens klagenemnd kan fatte vedtak om annullering av eksamen og/eller utestenging som følge av fusk eller forsøk på fusk.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-2/ledd/3">(3) Studenter som får annullert eksamen som følge av fusk eller forsøk på fusk, og som ikke er utestengt, har kun adgang til å fremstille seg til neste ordinære eksamen i emnet. En eksamen som blir annullert etter denne paragraf, teller som ett forsøk.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-2/ledd/4">(4) Studenter kan utestenges fra høgskolen og fratas retten til å gå opp til eksamen ved andre høyere utdanningsinstitusjoner i inntil et år som følge av fusk eller forsøk på fusk, jf. lovens § 4-8.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-2/ledd/5">(5) En student som mistenkes for fusk eller forsøk på fusk, har ikke rett til å framstille seg til eksamen eller prøve i det faget eller emnet som omfattes av mistanken, så lenge saken er under behandling.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/9" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k9">
+      <kverdi>Kapittel 9</kverdi>
+      <ktittel>Vitnemål og karakterutskrift</ktittel>
+      <paragraf id="/kapittel/9/paragraf/9-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k9/p9-1">
+        <pverdi>§ 9-1.</pverdi>
+        <ptittel>Vitnemål</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/1">(1) Høgskolen tildeler vitnemål for oppnådd grad jf. lovens § 3-11, og utsteder vitnemålstillegg på engelsk (Diploma Supplement).</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/2">(2) Studenter som har avlagt eksamen i emner som ikke samlet gir grunnlag for å utstede vitnemål, skal få karakterutskrift for dette.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/3">(3) Vitnemål for oppnådd grad skal opplyse om grunnlaget for tildeling av graden. Kun de emner som inngår i graden, skal fremkomme på vitnemålet.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/4">(4) Vitnemålet skal inneholde generell informasjon om graden, studieprogrammets målsetting, innhold og organisering, samt beskrivelse av læringsutbytte.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/5">(5) Det utstedes kun ett vitnemål til en student for hvert studieprogram som gir grunnlag for vitnemål. Dersom en student etter fullført studieprogram avlegger ny eksamen i et emne som kan påvirke karakteren på det opprinnelige vitnemålet, dokumenteres dette med karakterutskrift.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/6">(6) Godskriving av utdanning og tilknytningskrav i forbindelse med utskriving av vitnemål, reguleres i forskrift 10. april 2006 nr. 412 om godskriving av høyere utdanning, samt denne forskriftens § 3-6 og § 3-7.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/7">(7) Der det kan dokumenteres at vitnemålet er tapt i brann, tyveri eller lignende kan det etter søknad skrives ut et duplikat etter fastsatt gebyr.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/8">(8) Dersom en student har fullført et studieprogram og klager på karakterfastsettelsen i et emne, skal ikke vitnemål utdeles før klagen er avgjort. Dersom vitnemål er utstedt, skal en eventuell klage på karakterfastsettelse ikke behandles før studenten har returnert vitnemålet.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/9">(9) For bachelorgrad etter § 3-2 bokstav b) og c) utstedes vitnemål etter søknad fra studenten. Søker må selv dokumentere at kravene er oppfylt på søknadstidspunktet.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/10">(10) Vitnemålet utstedes på bokmål eller på nynorsk. For engelskspråklige studieprogrammer utstedes vitnemål på engelsk. Høgskolen oversetter ikke vitnemål.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/11">(11) Deleksamen føres ikke på vitnemål, med mindre det er gitt nasjonale føringer om dette.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/10" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k10">
+      <kverdi>Kapittel 10</kverdi>
+      <ktittel>Utfyllende regler og ikrafttredelse</ktittel>
+      <paragraf id="/kapittel/10/paragraf/10-1" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k10/p10-1">
+        <pverdi>§ 10-1.</pverdi>
+        <ptittel>Dispensasjon</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-1/ledd/1">Søknader om dispensasjon fra forskriften avgjøres av rektor.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-2" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k10/p10-2">
+        <pverdi>§ 10-2.</pverdi>
+        <ptittel>Utfyllende bestemmelser</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-2/ledd/1">(1) Rektor kan fastsette utfyllende bestemmelser, regler og retningslinjer til denne forskriften.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-2/ledd/2">(2) Informasjon som er publisert på høgskolens nettsider, Studentweb eller læringsplattform anses som gitt til den enkelte student.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-3" url="https://lovdata.no/lovtidend/forskrift/2017-01-26-98/k10/p10-3">
+        <pverdi>§ 10-3.</pverdi>
+        <ptittel>Ikrafttredelse</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-3/ledd/1">(1) Forskriften trer i kraft 1. februar 2017.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-3/ledd/2">(2) Samtidig oppheves forskrift 1. mars 2010 nr. 300 om opptak til studier ved Høgskolen i Hedmark, forskrift 1. mars 2010 nr. 306 om opptak til masterstudier ved Høgskolen i Hedmark og Kapittel 2. Opptak og rangering til grunnutdanninger i forskrift 28. mai 2013 nr. 551 om opptak, studier og eksamen ved Høgskolen i Lillehammer.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-3/ledd/3">(3) For studenter som har fått innvilget opptak til studieprogram, eller har påbegynt sine studier, før 1. februar 2017 gjelder denne forskrift fra 1. august 2017.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-3/ledd/4">(4) Forskrift 9. juni 2016 nr. 923 om studier og eksamen ved Høgskolen i Hedmark og forskrift 28. mai 2013 nr. 551 om opptak, studier og eksamen ved Høgskolen i Lillehammer oppheves fra og med 1. august 2017.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

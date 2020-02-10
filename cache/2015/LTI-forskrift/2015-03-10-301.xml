@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2015-03-10-301" type="lt" url="https://lovdata.no/lovtidend/forskrift/2015-03-10-301">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2015-03-10-301</id>
+    <dato>10.03.2015 nr. 301</dato>
+    <dato type="iso">2015-03-10</dato>
+    <publisert>I 2015 hefte 3 s 415</publisert>
+    <ikraft>01.07.2015, fra den tid NVE bestemmer</ikraft>
+    <ikraft type="iso">2015-07-01, fra den tid NVE bestemmer</ikraft>
+    <departement>Olje- og energidepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="for-1990-12-07-959-§9-1">F07.12.1990 nr. 959 § 9-1</ref>,</hjemmel>
+    <endrer type="ref">https://lovdata.no/for/1999-03-11-301</endrer>
+    <rettet/>
+    <journalnummer>2015-0234</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om kraftomsetning og nettjenester</korttittel>
+    <korttittel>4 Endr. i forskrift om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester (Nr. 301)</korttittel>
+    <tittel>Forskrift om endring i forskrift om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Norges vassdrags- og energidirektorat 10. mars 2015 med hjemmel i forskrift 7. desember 1990 nr. 959 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energilovforskriften) § 9-1 bokstav g og i, jf. lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven) § 10-6.</marg>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2015-03-10-301/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 11. mars 1999 nr. 301 om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 1-3. Definisjonene «CONTRL», «Komponentkode», «MSCONS», «PRODAT» og «UTILTS» oppheves.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/3">§ 1-3. Definisjonen «avregningsdata for regulerkraftbalanse» skal lyde:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/3/marg/1"><i>Avregningsdata for regulerkraftbalanse:</i> Verdier for innmating og uttak per nettavregningsområde fordelt på:</marg>
+<liste id="/kapittel/i/ledd/3/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/1/avsnitt/1">sum per time av timemålte verdier for innmating for det enkelte produksjonsanlegg,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/3/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/2/avsnitt/1">sum per time av timemålte verdier for uttak for hver balanseansvarlig fordelt på den enkelte kraftleverandør,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/3/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/3/avsnitt/1">volumandel av den justerte innmatingsprofil per time for hver balanseansvarlig fordelt på den enkelte kraftleverandør,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/3/liste/4"><lverdi>4.</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/4/avsnitt/1">estimert nettap per time for nettselskapets balanseansvarlige eventuelt anført på kraftleverandør og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/3/liste/5"><lverdi>5.</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/5/avsnitt/1">det totale uttaket til og innmatingen per time fra tilgrensede nettavregningsområder.
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/4">§ 1-3. Ny definisjon «<i>nettavregningsområde</i>» skal lyde:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/1"><i>Nettavregningsområde:</i> Et område fastsatt av avregningsansvarlig hvor uttak, innmating og utveksling av kraft med tilgrensede nettavregningsområder kan måles.
+<br/></marg></ledd>
+      <ledd id="/kapittel/i/ledd/5">§ 1-4 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/6">§ 1-4. <i>Elektronisk informasjonsutveksling</i>
+<liste id="/kapittel/i/ledd/6/liste/a"><lverdi>a.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/a/avsnitt/1"><i>Meldingsformat</i></avsnitt><avsnitt id="/kapittel/i/ledd/6/liste/a/avsnitt/2">Meldinger etter denne forskrift skal oversendes i henhold til Ediel.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/b"><lverdi>b.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/b/avsnitt/1"><i>Utvekslingsprotokoll</i></avsnitt><avsnitt id="/kapittel/i/ledd/6/liste/b/avsnitt/2">Ediel-meldinger etter denne forskrift skal kunne sendes og mottas med utvekslingsprotokoll godkjent av Systemstøtten for Ediel.</avsnitt><avsnitt id="/kapittel/i/ledd/6/liste/b/avsnitt/3">Norges vassdrags- og energidirektorat kan fatte vedtak om utvekslingsprotokoll for å sende og motta Ediel-meldinger etter denne forskrift.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/c/avsnitt/1"><i>Systemstøtten for Ediels godkjennelse</i></avsnitt><avsnitt id="/kapittel/i/ledd/6/liste/c/avsnitt/2">Det kreves godkjennelse av Systemstøtten for Ediel for å kunne utveksle Ediel-meldinger etter denne forskrift. Det kan i godkjennelsen settes vilkår om bruk av bestemte utvekslingsprotokoller for å sende og motta Ediel-meldinger.</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/d"><lverdi>d.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/d/avsnitt/1"><i>Systemstøtten for Ediels adresseregister</i></avsnitt><avsnitt id="/kapittel/i/ledd/6/liste/d/avsnitt/2">Det kreves registrering med oppdatert adresseinformasjon i Systemstøtten for Ediels adresseregister for å kunne utveksle Ediel-meldinger etter denne forskrift.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/7">Vesentlige endringer i Ediel skal forelegges Norges vassdrags- og energidirektorat i god tid før implementering. Norges vassdrags- og energidirektorat kan fatte vedtak om endring av Ediel.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/8">Ny § 1-5 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/9">§ 1-5. <i>Nettavregningsområde</i></ledd>
+      <ledd id="/kapittel/i/ledd/10">Avregningsansvarlig skal etablere og oppdatere nettavregningsområder i forbindelse med regulerkraftavregning. I arbeidet med å etablere nettavregningsområder skal avregningsansvarlig konsultere systemansvarlig og nettselskaper som bidrar med nødvendige opplysninger.</ledd>
+      <ledd id="/kapittel/i/ledd/11">Et nettavregningsområde skal til enhver tid kun tilordnes ett elspotområde.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/12">§ 2-9 oppheves.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/13">Ny § 3-4 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/14">§ 3-4. <i>Måling av produksjon</i></ledd>
+      <ledd id="/kapittel/i/ledd/15">For nye produksjonsanlegg eller ved utskifting av måler på eksisterende produksjonsanlegg, skal måling etableres for netto produksjon.</ledd>
+      <ledd id="/kapittel/i/ledd/16">Dersom etablering av netto måling etter første ledd medfører en urimelig høy kostnad, kan måling etableres et annet sted.</ledd>
+      <ledd id="/kapittel/i/ledd/17">Med netto produksjon etter første ledd menes brutto produksjon i et kraftverk, referert til generatorklemme, minus forbruk i eventuelt hjelpeutstyr i forbindelse med produksjon av elektrisk energi, tap i hovedtransformatoren relatert til produksjonen i kraftverket og energi fra eventuell hjelpegenerator.</ledd>
+      <ledd id="/kapittel/i/ledd/18">Dersom innrapporterte måledata baserer seg på måling etablert på generatorklemme, skal det trekkes i fra 2 %, eller korrigeres med en korreksjonsfaktor. Dersom innrapporterte måledata baserer seg på måling etablert på et annet sted i kraftverket, skal det korrigeres med en korreksjonsfaktor.</ledd>
+      <ledd id="/kapittel/i/ledd/19">Korreksjonsfaktor kan utarbeides av kraftverkseier og nettselskap i fellesskap.</ledd>
+      <ledd id="/kapittel/i/ledd/20">Korreksjonsfaktoren skal reflektere det faktiske forbruket og nettapet.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/21">§ 3-11 oppheves.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/22">§ 5-2 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/23">§ 5-2. <i>Betalingsforpliktelser og tilgodehavender i regulerkraftmarkedet</i></ledd>
+      <ledd id="/kapittel/i/ledd/24">Avregningsansvarlig skal beregne betalingsforpliktelser eller tilgodehavender for hver enkelt balanseansvarlig på bakgrunn av hver enkelt balanseansvarliges separate regulerkraftbalanser for kraftforbruk og kraftproduksjon. Regulerkraftubalanser ved kraftforbruk skal avregnes etter prisene i regulerkraftmarkedet. Regulerkraftubalanser ved kraftproduksjon skal avregnes etter prisene i spotmarkedet når ubalanser reduserer den totale ubalansen i systemet, mens ubalanser som øker den totale ubalansen i systemet skal avregnes etter prisene i regulerkraftmarkedet.</ledd>
+      <ledd id="/kapittel/i/ledd/25">Kraftstasjoner med en samlet installert ytelse under 3 MW skal ved avregning behandles som forbruk etter første ledd annet punktum.</ledd>
+      <ledd id="/kapittel/i/ledd/26">Betalingsforpliktelser eller tilgodehavender skal innen 18 kalenderdager etter hvert driftsdøgn gjøres kjent for hver enkelt balanseansvarlig.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/27">§ 5-4 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/28">§ 5-4. <i>Nettselskapets oversendelse av avregningsdata og informasjon om forbruk</i></ledd>
+      <ledd id="/kapittel/i/ledd/29">Nettselskapet skal for hver balanseansvarlig i sitt nett sende melding til avregningsansvarlig som inneholder avregningsdata for regulerkraftbalanse.</ledd>
+      <ledd id="/kapittel/i/ledd/30">Avregningsdata for regulerkraftbalanse skal oversendes innen tre virkedager etter avregningsukens slutt. Avregningsansvarlig skal deretter uten ugrunnet opphold gjøre avregningsdata for regulerkraftbalanse tilgjengelig for den enkelte balanseansvarlige.</ledd>
+      <ledd id="/kapittel/i/ledd/31">Nettselskapet skal sende melding til den enkelte balanseansvarlige som inneholder informasjon om det totale forbruket i nettet for foregående døgn. Meldingen skal være sendt innen klokken 10.00 påfølgende virkedag.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/32">§ 5-7 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/33">§ 5-7. <i>Avtale om regulerkraftavregning</i></ledd>
+      <ledd id="/kapittel/i/ledd/34">Balanseansvarlig og avregningsansvarlig skal regulere forhold i forbindelse med avregning av regulerkraft i en egen avtale.</ledd>
+      <ledd id="/kapittel/i/ledd/35">Håndtering av balanseansvaret kan settes bort til tredjepart som har avtale etter første ledd.</ledd>
+      <ledd id="/kapittel/i/ledd/36">Avtalene skal ivareta hensynet til et effektivt kraftmarked og likebehandling av partene i markedet. Avregningsansvarlig skal forelegge avtalene for Norges vassdrags- og energidirektorat.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/37">Gjeldende § 5-9 oppheves. Ny § 5-9 skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/38">§ 5-9. <i>Bortsetting av oppgaver</i></ledd>
+      <ledd id="/kapittel/i/ledd/39">Avregningsansvarlig kan overlate til tredjepart å utføre oppgaver i forbindelse med koordinering av regulerkraftavregning.</ledd>
+      <ledd id="/kapittel/i/ledd/40">Følgende oppgaver kan ikke overlates til tredjepart etter første ledd:
+<liste id="/kapittel/i/ledd/40/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/40/liste/a/avsnitt/1">inngåelse og endring av avtale jf. § 5-7 første ledd,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/40/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/40/liste/b/avsnitt/1">fastsetting av ekstraordinært krav til sikkerhetsstillelse fra balanseansvarlig for regulerkraftoppgjør,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/40/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/40/liste/c/avsnitt/1">suspensjon eller ekskludering av balanseansvarlig fra regulerkraftavregningen og handel i engrosmarkedet for kraft og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/40/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/40/liste/d/avsnitt/1">annen avgjørelse i forbindelse med koordinering av regulerkraftavregning som innebærer utøvelse av offentlig myndighet og er bestemmende for rettigheter eller plikter til en eller flere bestemte aktører.
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/41">§ 6-8 oppheves.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2015-03-10-301/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Ny § 3-4 trer i kraft 1. juli 2015.</ledd>
+      <ledd id="/kapittel/ii/ledd/2">Ny § 1-5 trer i kraft fra den tid NVE bestemmer.</ledd>
+      <ledd id="/kapittel/ii/ledd/3">§ 2-9, § 3-11 og § 6-8 oppheves fra den tid NVE bestemmer.</ledd>
+      <ledd id="/kapittel/ii/ledd/4">Endringene i § 1-3, § 1-4, § 5-2, § 5-4, § 5-7 og § 5-9 trer i kraft fra den tid NVE bestemmer.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

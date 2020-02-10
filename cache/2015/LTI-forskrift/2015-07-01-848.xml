@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2015-07-01-848" type="lt" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2015-07-01-848</id>
+    <dato>01.07.2015 nr. 848</dato>
+    <dato type="iso">2015-07-01</dato>
+    <publisert>I 2015 hefte 8 s 1412</publisert>
+    <ikraft>01.07.2015</ikraft>
+    <ikraft type="iso">2015-07-01</ikraft>
+    <departement>Samferdselsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1993-06-11-100-§6a">L11.06.1993 nr. 100 § 6a</ref>, <ref id="for-2015-06-30-827">F30.06.2015 nr. 827</ref></hjemmel>
+    <rettet/>
+    <journalnummer>2015-0721</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om sikring på jernbane</korttittel>
+    <korttittel>3 Forskrift om sikring på jernbane (Nr. 848)</korttittel>
+    <tittel>Forskrift om sikring på jernbane</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Statens jernbanetilsyn 1. juli 2015 med hjemmel i lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 6a, jf. delegeringsvedtak 30. juni 2015 nr. 827.</marg>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Innledende bestemmelser</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1-1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k1/p1-1">
+        <pverdi>§ 1-1.</pverdi>
+        <ptittel>Formål</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/1">Formålet med denne forskriften er at jernbanevirksomheten skal arbeide systematisk og proaktivt for å unngå tilsiktede uønskede handlinger og begrense konsekvensene av dem.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k1/p1-2">
+        <pverdi>§ 1-2.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-2/ledd/1">Forskriften gjelder for jernbanevirksomheter på det nasjonale jernbanenettet og for jernbanevirksomheter som driver tunnelbane.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-2/ledd/2">Forskriften gjelder for arbeid rettet mot terror og sabotasje og trussel om dette samt hærverk og tyveri med særlig stort skadepotensiale.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-3" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k1/p1-3">
+        <pverdi>§ 1-3.</pverdi>
+        <ptittel>Definisjoner</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-3/ledd/1">I forskriften her forstås med:
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/a/avsnitt/1"><i>beredskap</i>: forberedt evne til på kort varsel å kunne øke sikkerhetsnivå, håndtere en uønsket hendelse eller tilstand, eller evne til å gjenopprette tilfredsstillende tilstand etter en uønsket hendelse eller tilstand,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/b/avsnitt/1"><i>jernbanevirksomhet</i>: drift av infrastruktur, trafikkstyring og/eller gods- og/eller persontransport, eller den som driver infrastruktur, trafikkstyring og/eller gods- og/eller persontransport,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/c/avsnitt/1"><i>risiko</i>: uttrykk for forholdet mellom trusselen mot en gitt verdi og denne verdiens sårbarhet overfor den spesifiserte trusselen,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/d/avsnitt/1"><i>risikovurdering</i>: helhetsvurdering basert på verdivurdering (eller konsekvensvurdering), trusselvurdering og sårbarhetsvurdering, med mål om å angi en entitets risiko i en definert sikringsmessig kontekst,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/e/avsnitt/1"><i>sikkerhet</i>: reell eller oppfattet tilstand som innebærer fravær av uønskede hendelser, frykt eller fare,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/f/avsnitt/1"><i>styringssystem for sikring</i>: organisasjon og systemer opprettet av en jernbanevirksomhet med henblikk på håndtering av risiko forbundet med tilsiktede uønskede handlinger,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/g/avsnitt/1"><i>sikring</i>: bruk av sikringstiltak ved håndtering av risiko forbundet med tilsiktede uønskede handlinger,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/h/avsnitt/1"><i>sikringstiltak</i>: tiltak for å redusere risiko forbundet med tilsiktede uønskede handlinger,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/i/avsnitt/1"><i>sårbarhet</i>: manglende evne til å motstå en uønsket hendelse eller opprette ny stabil tilstand dersom en verdi er utsatt for uønsket påvirkning,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/j/avsnitt/1"><i>tilsiktet uønsket handling</i>: uønsket hendelse som forårsakes av en aktør som handler med hensikt, begrenset til terror og sabotasje og trussel om dette samt hærverk og tyveri med særlig stort skadepotensiale,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/k/avsnitt/1"><i>trussel</i>: mulig uønsket handling som kan gi en negativ konsekvens for en entitets sikkerhet,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/l"><lverdi>l)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/l/avsnitt/1"><i>trusselvurdering</i>: beskrivelse av en entitets trusselbilde og en vurdering av trusselaktørenes intensjon og kapasitet,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/m"><lverdi>m)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/m/avsnitt/1"><i>uønsket hendelse</i>: hendelse som kan utsette en verdi for uønsket påvirkning,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/n"><lverdi>n)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/n/avsnitt/1"><i>verdi</i>: ressurs som hvis den blir utsatt for uønsket påvirkning vil medføre en negativ konsekvens for den som eier, forvalter eller drar fordel av ressursen.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Overordnede krav om styring av sikring</ktittel>
+      <paragraf id="/kapittel/2/paragraf/2-1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k2/p2-1">
+        <pverdi>§ 2-1.</pverdi>
+        <ptittel>Overordnet ansvar for sikring</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/1">Jernbanevirksomheten har ansvaret for sikker drift.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k2/p2-2">
+        <pverdi>§ 2-2.</pverdi>
+        <ptittel>Krav om styring av sikring</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/1">Jernbanevirksomheten skal utøve styring av sikring i den virksomheten som drives.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/2">Styring av sikring skal utøves på alle nivåer i organisasjonen. Jernbanevirksomheten skal også sikre at styringen utøves i oppgaver som utføres av leverandør.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-3" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k2/p2-3">
+        <pverdi>§ 2-3.</pverdi>
+        <ptittel>Sikringsutvalg for jernbane og tunnelbane</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-3/ledd/1">Jernbaneverket skal etablere et sikringsutvalg for jernbane og tunnelbane. Sikringsutvalget er ansvarlig for samordning og evaluering av sikringstiltak ved jernbane og tunnelbane og koordinering av planlegging og gjennomføring av beredskapsøvelser.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-3/ledd/2">Sikringsutvalget skal bestå av representanter fra utvalgte jernbanevirksomheter på det nasjonale jernbanenettet og jernbanevirksomheter som driver tunnelbane. Representantene har plikt til å delta i sikringsutvalget. Politiet har rett til å delta i sikringsutvalget.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>System for styring av sikring</ktittel>
+      <paragraf id="/kapittel/3/paragraf/3-1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k3/p3-1">
+        <pverdi>§ 3-1.</pverdi>
+        <ptittel>Krav til styringssystem for sikring</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/1">Jernbanevirksomheten skal ha et styringssystem som dekker sikring.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/2">Styringssystemet skal være tilpasset arten og omfanget av den aktuelle virksomheten, og andre forhold ved denne. Styringssystemet skal videre sikre håndtering av risikoer som følge av tilsiktede uønskede handlinger forbundet med virksomheten.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/3">Styringssystemet skal ta hensyn til alle relevante risikoer som kan oppstå som følge av tilsiktede uønskede handlinger. Styringssystemet skal vise hvordan kontrollen er sikret fra den øverste ledelsens side på ulike nivåer, hvordan personalet på alle nivåer er involvert og hvordan den kontinuerlige forbedringen av styringssystemet sikres.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/4">Jernbanevirksomheten skal gjennom avtale stille de samme styrings- og sikringskrav til aktiviteter utført av leverandører, som til aktiviteter utført av egen virksomhet.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/5">Infrastrukturforvalters styringssystem skal ta hensyn til virkningene av annen virksomhet, og omfatte bestemmelser som skal gjøre det mulig for alle jernbanevirksomheter å drive sikringsarbeid i samsvar med krav i jernbanelovgivningen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k3/p3-2">
+        <pverdi>§ 3-2.</pverdi>
+        <ptittel>Dokumentasjon</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/1">Styringssystemet for sikring skal dokumenteres. Dokumentasjonen skal gjøres tilgjengelig og kjent på en hensiktsmessig måte for alt personell med behov for slik tilgang.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/2">Jernbanevirksomheten skal ha en oppdatert oversikt over alle bestemmelser i styringssystemet der blant annet status for gyldighet for bestemmelsene er angitt.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/3">Dokumentasjonen skal være styrt og sporbar. Jernbanevirksomheten skal ha bestemmelser om styring og kontroll av dokumenter som inngår i styringssystemet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-3" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k3/p3-3">
+        <pverdi>§ 3-3.</pverdi>
+        <ptittel>Informasjon</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/1">Jernbanevirksomheten skal sikre at personell får nødvendig og korrekt informasjon for å utføre sine arbeidsoppgaver. Informasjon som det er nødvendig å skjerme, skal være identifisert og underlagt nødvendig kontroll.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-4" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k3/p3-4">
+        <pverdi>§ 3-4.</pverdi>
+        <ptittel>Taushetsplikt</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-4/ledd/1">Enhver som utfører tjeneste eller arbeid for den som driver jernbanevirksomhet, for tilsynsmyndigheten eller for overordnet myndighet, har taushetsplikt om det vedkommende får vite om informasjon jernbanevirksomheten har funnet det nødvendig å skjerme etter § 3-3. Det samme gjelder informasjon vedkommende får vite om i tjenesten eller arbeidet som det er nødvendig å skjerme etter § 3-3.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-4/ledd/2">Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet eller oppdraget.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-5" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k3/p3-5">
+        <pverdi>§ 3-5.</pverdi>
+        <ptittel>Prosedyrer m.m.</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-5/ledd/1">Jernbanevirksomheten skal utarbeide prosedyrer og/eller bestemmelser som dekker alle forhold av betydning for sikring, herunder behandling av trusselvurderinger.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Ledelsens ansvar</ktittel>
+      <paragraf id="/kapittel/4/paragraf/4-1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k4/p4-1">
+        <pverdi>§ 4-1.</pverdi>
+        <ptittel>Ledelsens ansvar</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/1">Den øverste ledelsen har ansvaret for at styringssystemet for sikring er vedtatt, dokumentert og etterlevd. Videre har den øverste ledelsen ansvaret for at styringssystemet kontinuerlig forbedres.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k4/p4-2">
+        <pverdi>§ 4-2.</pverdi>
+        <ptittel>Klare ansvarsforhold</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/1">Den øverste ledelsen har ansvaret for at jernbanevirksomheten er organisert slik at personellets ansvar og myndighet klart fremgår.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/2">Den øverste ledelsen har ansvaret for at alle arbeidsoppgaver av betydning for sikring er identifisert. Videre har den øverste ledelsen ansvaret for at ansvar og myndighet knyttet til arbeidsoppgavene er klart beskrevet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-3" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k4/p4-3">
+        <pverdi>§ 4-3.</pverdi>
+        <ptittel>Beredskap</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/1">Den øverste ledelsen har ansvaret for at jernbanevirksomheten har beredskap for nødssituasjoner som følge av tilsiktede uønskede handlinger. Beredskapen skal være dimensjonert på grunnlag av resultatene fra beredskapsanalyser og trusselvurderinger og være beskrevet i beredskapsplaner.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/2">Jernbanevirksomheten skal sikre at nødvendige tiltak blir satt i verk raskest mulig slik at faresituasjoner ikke utvikler seg til ulykkessituasjoner og personer kan evakueres effektivt og trygt.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/3">Beredskapen skal omfatte blant annet:
+<liste id="/kapittel/4/paragraf/4-3/ledd/3/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/4-3/ledd/3/liste/a/avsnitt/1">kompetent og øvet personell,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-3/ledd/3/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/4-3/ledd/3/liste/b/avsnitt/1">organisering, utstyr og materiell for effektiv beredskapsinnsats,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-3/ledd/3/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/4-3/ledd/3/liste/c/avsnitt/1">oversikt over grensesnitt mot andre relevante virksomheter som har beredskapsressurser,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-3/ledd/3/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/4/paragraf/4-3/ledd/3/liste/d/avsnitt/1">et dokumentert beredskapsplanverk, med tydelig rollefordeling, varslingslister og innsatsplaner og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-3/ledd/3/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/4/paragraf/4-3/ledd/3/liste/e/avsnitt/1">informasjonsberedskap i krisesituasjoner som sikrer at reisende og publikum får informasjon om hvordan de skal forholde seg.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/4">Beredskapen skal være samordnet med relevante offentlige myndigheter.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/5">Jernbaneverket har ansvaret for at egne beredskapsplaner og beredskapsplanene til andre relevante jernbanevirksomheter er koordinert.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/6">Jernbaneverket skal fastsette og formidle bestemmelser som er nødvendige for å opprettholde effektiv kommunikasjon med relevante jernbanevirksomheter og andre aktører i nødssituasjoner. Bestemmelsene skal utarbeides i samarbeid med jernbanevirksomhetene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-4" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k4/p4-4">
+        <pverdi>§ 4-4.</pverdi>
+        <ptittel>Ledelsens gjennomgåelse</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/1">Jernbanevirksomhetens øverste ledelse skal ved behov og minst en gang per år, gjennomgå styringssystemet for sikring for å sikre at styringssystemet fortsatt er hensiktsmessig og oppdatert. Ved gjennomgåelsen skal det tas hensyn til blant annet:
+<liste id="/kapittel/4/paragraf/4-4/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/4-4/ledd/1/liste/a/avsnitt/1">endrede forutsetninger,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-4/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/4-4/ledd/1/liste/b/avsnitt/1">nye og oppdaterte risikovurderinger,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-4/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/4-4/ledd/1/liste/c/avsnitt/1">avvik og oppfølging av disse,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-4/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/4/paragraf/4-4/ledd/1/liste/d/avsnitt/1">resultater og gjennomføring av tiltak etter interne revisjoner og revisjoner av leverandører, samt vurdering av samsvar med lovgivningens krav og interne krav,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-4/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/4/paragraf/4-4/ledd/1/liste/e/avsnitt/1">analyser av tilsiktede uønskede handlinger og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-4/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/4/paragraf/4-4/ledd/1/liste/f/avsnitt/1">oppfølgingstiltak etter ledelsens tidligere gjennomgåelser.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/2">Ledelsens gjennomgåelse skal avdekke eventuelle behov for endring i handlingsplaner og andre deler av styringssystemet.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k5">
+      <kverdi>Kapittel 5</kverdi>
+      <ktittel>Ressursstyring</ktittel>
+      <paragraf id="/kapittel/5/paragraf/5-1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k5/p5-1">
+        <pverdi>§ 5-1.</pverdi>
+        <ptittel>Kompetansekrav</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/1">Jernbanevirksomheten skal ha kompetansekrav som angir nødvendig minimumskompetanse for utførelse av alle oppgaver og funksjoner av betydning for sikringsarbeidet. Jernbanevirksomheten skal videre sørge for at kompetansekrav for oppgaver som utføres av leverandører sikrer den kompetanse som jernbanevirksomheten anser som nødvendig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k5/p5-2">
+        <pverdi>§ 5-2.</pverdi>
+        <ptittel>Kompetanse</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/1">Jernbanevirksomheten skal ha tilgjengelig nødvendig kompetanse for å drive innenfor den risiko jernbanevirksomheten aksepterer.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/2">Dersom oppgavene av betydning for sikringsarbeidet utføres av leverandør skal jernbanevirksomheten ha nødvendig kompetanse blant annet til å kunne spesifisere krav til leveranser, følge opp leverandøren og ta stilling til leveransen.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/3">Egne ansatte og ansatte hos leverandører, som utfører oppgaver av betydning for jernbanevirksomhetens arbeid med sikring, skal ha tilstrekkelig kompetanse i forhold til oppgavene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-3" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k5/p5-3">
+        <pverdi>§ 5-3.</pverdi>
+        <ptittel>Opplæring</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/1">Jernbanevirksomheten skal ha opplæringsprogrammer for egne ansatte, samt krav og systemer som sikrer at deres kompetanse opprettholdes slik at arbeid av betydning for sikring kan utføres på en tilfredsstillende måte.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/2">Jernbanevirksomheten skal stille krav til at leverandører har systemer for å sikre at deres ansattes kompetanse opprettholdes i forhold til arbeid av betydning for sikring som vedkommende skal utføre.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/6" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k6">
+      <kverdi>Kapittel 6</kverdi>
+      <ktittel>Risikovurderinger</ktittel>
+      <paragraf id="/kapittel/6/paragraf/6-1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k6/p6-1">
+        <pverdi>§ 6-1.</pverdi>
+        <ptittel>Risikovurderinger</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/1">Jernbanevirksomheten skal planlegge og gjennomføre de nødvendige risikovurderinger for å fastslå om driften av virksomheten er innenfor den risiko jernbanevirksomheten aksepterer. Risikovurderingene skal planlegges og gjennomføres på en systematisk og koordinert måte.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/2">Det skal fremgå hva som er formålet med de enkelte risikovurderinger samt hvilke forutsetninger og avgrensninger som er lagt til grunn.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/3">Risikovurderinger skal gjennomføres i henhold til anerkjente og hensiktsmessige metoder.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/4">Fareidentifiseringen som inngår i risikovurderingen skal være på et tilstrekkelig detaljert nivå.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k6/p6-2">
+        <pverdi>§ 6-2.</pverdi>
+        <ptittel>Oppfølging og oppdatering av risikovurderinger</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/1">Jernbanevirksomheten skal systematisk følge opp forutsetningene for, avgrensningene og resultatene av risikovurderingene. Jernbanevirksomheten skal gjennomføre nødvendige tiltak for håndtering av risikoer identifisert i risikovurderinger, eventuelt i samarbeid med andre jernbanevirksomheter og/eller tredjeparter.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/2">Ved endringer i forutsetninger eller avgrensninger av risikovurderinger, eller når det foreligger annen ny kunnskap av betydning for vurderingene, skal risikovurderingene oppdateres.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/3">Jernbanevirksomheten skal ha oversikt over utførte risikovurderinger, samt deres gyldighetsstatus, forutsetninger og avgrensninger. Det skal sikres samsvar mellom vurderinger som utfyller eller bygger på hverandre.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/4">Jernbanevirksomheten skal ha sikringstiltak som hindrer eller forsinker uønsket adgang til verdier og som er dimensjonert i forhold til trusselbildet.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/5">Sikringstiltak skal være identifisert, og det skal være kjent for relevant personell hvilke sikringstiltak som er etablert og hvilke funksjoner de skal ivareta. Der det er nødvendig med flere sikringstiltak, skal det være tilstrekkelig uavhengighet mellom dem.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/7" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k7">
+      <kverdi>Kapittel 7</kverdi>
+      <ktittel>Måling, oppfølging og forbedring</ktittel>
+      <paragraf id="/kapittel/7/paragraf/7-1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k7/p7-1">
+        <pverdi>§ 7-1.</pverdi>
+        <ptittel>Revisjoner</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/1">Jernbanevirksomheten skal systematisk gjennomføre revisjoner av sitt styringssystem for sikring for å kontrollere om det er tilfredsstillende dokumentert og etterlevd og om det tilfredsstiller krav i jernbanelovgivningen.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/2">Jernbanevirksomheten skal systematisk gjennomføre revisjoner av leverandører for å kontrollere om leverandører overholder krav i eller i medhold av avtaler.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/3">Revisjoner skal gjennomføres i henhold til anerkjent metodikk, vedtatte revisjonsprogrammer og på en måte som ivaretar objektivitet og uavhengighet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k7/p7-2">
+        <pverdi>§ 7-2.</pverdi>
+        <ptittel>Oppfølging av uønskede hendelser</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/1">Jernbanevirksomheten skal ha system for intern rapportering, registrering, granskning og analyse av uønskede hendelser.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/2">Jernbanevirksomheten skal registrere, undersøke, analysere og følge opp uønskede hendelser. Hendelsene skal analyseres både enkeltvis og i forhold til andre hendelser for å sikre at nødvendige tiltak identifiseres.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/3">Tiltakene skal følges opp og effekten evalueres. Inntil nødvendige tiltak er iverksatt skal det ved behov gjennomføres kompenserende tiltak.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-3" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k7/p7-3">
+        <pverdi>§ 7-3.</pverdi>
+        <ptittel>Beredskapsøvelser</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/1">Jernbanevirksomheten skal regelmessig gjennomføre øvelser for å verifisere at beredskapen fungerer etter sin hensikt.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/2">Jernbanevirksomhetene skal samordne slike øvelser i den grad det er nødvendig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-4" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k7/p7-4">
+        <pverdi>§ 7-4.</pverdi>
+        <ptittel>Oppfølging av avvik</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-4/ledd/1">Jernbanevirksomheten skal registrere og følge opp avvik fra krav om sikring i jernbanelovgivningen og interne bestemmelser. Det skal tas stilling til avvikenes betydning for sikkerheten, både enkeltvis og i forhold til andre avvik.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-4/ledd/2">Jernbanevirksomheten skal korrigere avvik, avdekke årsakene til avvikene og iverksette tiltak for å hindre gjentakelse. Tiltakene skal følges opp og effekten av tiltakene evalueres. Inntil avvik er korrigert skal det ved behov gjennomføres kompenserende tiltak.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/8" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k8">
+      <kverdi>Kapittel 8</kverdi>
+      <ktittel>Avsluttende bestemmelser</ktittel>
+      <paragraf id="/kapittel/8/paragraf/8-1" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k8/p8-1">
+        <pverdi>§ 8-1.</pverdi>
+        <ptittel>Unntak fra forskriften</ptittel>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/1">Statens jernbanetilsyn kan i det enkelte tilfellet gjøre unntak fra denne forskriften dersom særlige grunner tilsier det.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/8/paragraf/8-2" url="https://lovdata.no/lovtidend/forskrift/2015-07-01-848/k8/p8-2">
+        <pverdi>§ 8-2.</pverdi>
+        <ptittel>Ikrafttredelse</ptittel>
+        <ledd id="/kapittel/8/paragraf/8-2/ledd/1">Forskriften trer i kraft 1. juli 2015.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

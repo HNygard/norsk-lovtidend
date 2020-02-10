@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2019-12-13-1767" type="lt" url="https://lovdata.no/lovtidend/forskrift/2019-12-13-1767">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2019-12-13-1767</id>
+    <dato>13.12.2019 nr. 1767</dato>
+    <dato type="iso">2019-12-13</dato>
+    <ikraft>01.01.2020</ikraft>
+    <ikraft type="iso">2020-01-01</ikraft>
+    <departement>Kommunal- og moderniseringsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2003-07-04-83-§7-1">L04.07.2003 nr. 83 § 7-1</ref>, <ref id="for-2019-06-21-788">F21.06.2019 nr. 788</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2004-02-16-426</endrer>
+    <rettet/>
+    <journalnummer>2019-1132</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i nummerforskriften</korttittel>
+    <tittel>Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Nasjonal kommunikasjonsmyndighet 13. desember 2019 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 7-1 første ledd, jf. delegeringsvedtak 21. juni 2019 nr. 788.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2019-12-13-1767/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 16. februar 2004 nr. 426 om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften) gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 3 bokstav e) til h) skal lyde:
+<liste id="/kapittel/i/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/e/avsnitt/1"><i>fastnettnummer:</i> nummer fra nasjonal nummerplan som brukes til fasttelefontjeneste</avsnitt></liste>
+<liste id="/kapittel/i/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/f/avsnitt/1"><i>spesialnummer:</i> nummer fra nasjonal nummerplan som brukes til særskilte tjenester</avsnitt></liste>
+<liste id="/kapittel/i/ledd/2/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/g/avsnitt/1"><i>mobilnummer:</i> nummer fra nasjonal nummerplan som brukes til mobiltelefontjeneste med tilleggstjenester</avsnitt></liste>
+<liste id="/kapittel/i/ledd/2/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/h/avsnitt/1"><i>nummer for maskin-til-maskin og tingenes Internett (M2M/IoT) kommunikasjon:</i> nummer fra nasjonal nummerplan som brukes til automatiserte eller delautomatiserte kommunikasjonstjenester for tale eller datatrafikk der nummeret har liten eller ingen selvstendig betydning for brukeren
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/3">§ 16 annet ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/4">Hovedkategoriene i nasjonal nummerplan for telefon m.m. (E.164) er følgende:
+<marg niv="1" id="/kapittel/i/ledd/4/marg/1">00: Internasjonalt prefiks</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/2">01: Reservert for fremtidige endringer i nummerplanen</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/3">02000-09999: 5-sifrede spesialnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/4">100-115: 3-sifrede standardiserte spesialnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/5">116 000-116 999: 6-sifrede EØS-harmoniserte nummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/6">117-179: 3-sifrede standardiserte spesialnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/7">1800-1899: 4-sifrede nummer for nummeropplysningstjenester</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/8">190-199: 3-sifrede tilbyderspesifikke spesialnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/9">20 00 00 00-39 99 99 99: 8-sifrede fastnettnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/10">40 00 00 00-49 99 99 99: 8-sifrede mobilnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/11">50 00 00 00-57 99 99 99: 8-sifrede fastnettnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/12">58 00 00 00 00 00-58 99 99 99 99 99: 12-sifrede nummer for M2M/IoT-kommunikasjon 59 00 00 00-59 99  99 99: 8-sifrede nummer for M2M/IoT-kommunikasjon</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/13">60 00 00 00-79 99 99 99: 8-sifrede fastnettnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/14">800 00 000-899 99 999: 8-sifrede spesialnummerserier</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/15">90 00 00 00-99 99 99 99: 8-sifrede mobilnummer.
+<br/></marg></ledd>
+      <ledd id="/kapittel/i/ledd/5">Overskriften til § 20f skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/5/avsnitt/1">§ 20f. <i>Takstprinsipper ved anrop til visse spesialnummer</i>
+<br/></avsnitt>
+      <ledd id="/kapittel/i/ledd/6">§ 20f første ledd bokstav b skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/7">02000-09999, 100-109, 114-115, 117-179, 190-199, 810 00 000-810 99 999, 815 00 000-815 99 999, 850 00  000-859 99 999: Anrop til nummer i disse seriene skal ikke koste mer enn hva anrop til mobilnummer koster for anropende sluttbruker. Dersom anrop ikke faktureres basert på faktisk forbruk, skal samme faktureringsmetode som ellers benyttes legges til grunn for de nevnte nummerseriene. Dette gjelder både for anrop fra fastnett og mobilnett.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/8">Overskriften til § 22 skal lyde</ledd>
+      <ledd id="/kapittel/i/ledd/9">
+        <i>Tillatelse og bruk av 5-sifrede spesialnummer (02000-09999)</i>
+      </ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2019-12-13-1767/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Endringene trer i kraft 1. januar 2020.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

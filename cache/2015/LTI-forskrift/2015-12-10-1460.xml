@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2015-12-10-1460" type="lt" url="https://lovdata.no/lovtidend/forskrift/2015-12-10-1460">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2015-12-10-1460</id>
+    <dato>10.12.2015 nr. 1460</dato>
+    <dato type="iso">2015-12-10</dato>
+    <publisert>I 2015 hefte 14 s 2336</publisert>
+    <ikraft>20.04.2016</ikraft>
+    <ikraft type="iso">2016-04-20</ikraft>
+    <departement>Nærings- og fiskeridepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <endrer type="ref">https://lovdata.no/for/2007-12-21-1735</endrer>
+    <rettet>12.01.2016 (<ref id="lov-2007-01-26-4-§6">§ 6</ref>, <ref id="lov-2007-01-26-4-§10">§ 10</ref>)</rettet>
+    <journalnummer>2015-1222</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om krav til ikke-automatiske vekter</korttittel>
+    <korttittel>4 Endr. i forskrift om krav til ikke-automatiske vekter (Nr. 1460)</korttittel>
+    <tittel>Forskrift om endring i forskrift om krav til ikke-automatiske vekter</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Justervesenet 10. desember 2015 med hjemmel i lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid § 7.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2015-12-10-1460/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 21. desember 2007 nr. 1735 om krav til ikke-automatiske vekter skal følgende bestemmelser lyde:
+<br/></ledd>
+      <avsnitt id="/kapittel/i/ledd/1/avsnitt/1">§ 2. <i>Krav for vekter som benyttes eller skal benyttes til andre bruksformål</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/2">Alle ikke-automatiske vekter som benyttes eller skal benyttes til andre bruksformål enn de som er nevnt i § 1 annet ledd, skal påføres følgende merking før de selges eller tilbys for salg:
+<liste id="/kapittel/i/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/a/avsnitt/1">produsentens navn, registrerte firmanavn eller registrerte varemerke,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/b/avsnitt/1">størstelasten i form av Maks...</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/3">Merkingen skal være godt synlig, lett leselig og uutslettelig. Vektene må ikke være påført samsvarsmerking.
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/3/marg/1">§ 6 tabell 1:
+<br/></marg>
+<marg niv="1" id="/kapittel/i/ledd/3/marg/2"><i>Tabell 1 - Nøyaktighetsklasser</i></marg></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="8*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="26*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="34*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Klasse</i>
+              </entry>
+              <entry colname="2">
+                <i>Verifiseringsminstedeling (e)</i>
+              </entry>
+              <entry colname="3">
+                <i>Minstelast (Min)</i>
+              </entry>
+              <entry colname="4">
+                <i>Antall verifiseringsminstedelinger</i>
+                <br/>
+                <i>n = ((Maks)/(e))</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <thgroup cols="5" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="8*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="26*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="22*"/>
+          <colspec colname="5" align="center" valign="top" colwidth="12*"/>
+          <tbody>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2"/>
+              <entry colname="3"/>
+              <entry colname="4">
+                <i>Minste verdi</i>
+              </entry>
+              <entry colname="5">
+                <i>Største verdi</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="5" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="8*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="26*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="22*"/>
+          <colspec colname="5" align="center" valign="top" colwidth="12*"/>
+          <tbody>
+            <row>
+              <entry colname="1">I </entry>
+              <entry colname="2">0,001 g ≤ e </entry>
+              <entry colname="3">100 e </entry>
+              <entry colname="4">50 000 </entry>
+              <entry colname="5">- </entry>
+            </row>
+            <row>
+              <entry colname="1">II </entry>
+              <entry colname="2">0,001 g ≤ e ≤ 0,05 g </entry>
+              <entry colname="3">20 e </entry>
+              <entry colname="4">100 </entry>
+              <entry colname="5">100 000 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">0,1 g ≤ e </entry>
+              <entry colname="3">50 e </entry>
+              <entry colname="4">5 000 </entry>
+              <entry colname="5">100 000 </entry>
+            </row>
+            <row>
+              <entry colname="1">III </entry>
+              <entry colname="2">0,1 g ≤ e ≤ 2 g </entry>
+              <entry colname="3">20 e </entry>
+              <entry colname="4">100 </entry>
+              <entry colname="5">10 000 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">5 g ≤ e </entry>
+              <entry colname="3">20 e </entry>
+              <entry colname="4">500 </entry>
+              <entry colname="5">10 000 </entry>
+            </row>
+            <row>
+              <entry colname="1">IIII </entry>
+              <entry colname="2">5 g ≤ e </entry>
+              <entry colname="3">10 e </entry>
+              <entry colname="4">100 </entry>
+              <entry colname="5">1 000 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <marg niv="1" id="/kapittel/i/ledd/3/marg/3">§ 10 tabell 2:
+<br/></marg>
+      <marg niv="1" id="/kapittel/i/ledd/3/marg/4">Tabell 2 - Flerskalavekter</marg>
+      <table niv="1" frame="1">
+        <thgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="26*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="15*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="25*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Klasse</i>
+              </entry>
+              <entry colname="2">
+                <i>Verifiseringsminstedeling</i>
+              </entry>
+              <entry colname="3">
+                <i>Minstelast
+<br/> (Min)
+<br/> Minste
+<br/> verdi</i>
+              </entry>
+              <entry colname="4">
+                <i>Antall verifiseringsminstedelinger</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <thgroup cols="5" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="26*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="15*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="15*"/>
+          <colspec colname="5" align="center" valign="top" colwidth="10*"/>
+          <tbody>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2"/>
+              <entry colname="3"/>
+              <entry colname="4">
+                <i>Minste verdi<fref id="/kapittel/i/fotnote/1">1</fref> </i>
+                <br/>
+                <i>n = ((Maks<sub>i</sub> )/(e<sub>i</sub> ))</i>
+              </entry>
+              <entry colname="5">
+                <i>Største</i>
+                <br/>
+                <i>verdi</i>
+                <br/>
+                <i>n =</i>
+                <br/>
+                <i>((Maks<sub>i</sub> )/(e<sub>i</sub> ))</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="5" rowsep="0" colsep="0">
+          <colspec colname="1" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="26*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="15*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="15*"/>
+          <colspec colname="5" align="center" valign="top" colwidth="10*"/>
+          <tbody>
+            <row>
+              <entry colname="1">I </entry>
+              <entry colname="2">0,001 g ≤ e<sub>i</sub> </entry>
+              <entry colname="3">100 e<sub>i</sub> </entry>
+              <entry colname="4">50 000 </entry>
+              <entry colname="5">- </entry>
+            </row>
+            <row>
+              <entry colname="1">II </entry>
+              <entry colname="2">0,001 g ≤ e<sub>i</sub> ≤ 0,05 </entry>
+              <entry colname="3">20 e<sub>i</sub> </entry>
+              <entry colname="4">5 000 </entry>
+              <entry colname="5">100 000 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">0,1 g ≤ e<sub>i</sub> </entry>
+              <entry colname="3">50 e<sub>i</sub> </entry>
+              <entry colname="4">5 000 </entry>
+              <entry colname="5">100 000 </entry>
+            </row>
+            <row>
+              <entry colname="1">III </entry>
+              <entry colname="2">0,1 g ≤ e<sub>i</sub> </entry>
+              <entry colname="3">20 e<sub>i</sub> </entry>
+              <entry colname="4">500 </entry>
+              <entry colname="5">10 000 </entry>
+            </row>
+            <row>
+              <entry colname="1">IIII </entry>
+              <entry colname="2">5 g ≤ e<sub>i</sub> </entry>
+              <entry colname="3">10 e<sub>i</sub> </entry>
+              <entry colname="4">50 </entry>
+              <entry colname="5">1 000 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <fotnote id="/kapittel/i/fotnote/1">1 Når i = r, får den tilsvarende kolonne i tabell 1 anvendelse, med e erstattet av e<sub>r</sub> .</fotnote>
+      <marg niv="2" id="/kapittel/i/ledd/3/marg/5">i= 1, 2, ... r</marg>
+      <marg niv="2" id="/kapittel/i/ledd/3/marg/6">i = delveieområdets nummer</marg>
+      <marg niv="2" id="/kapittel/i/ledd/3/marg/7">r = samlet antall delveieområder.</marg>
+      <avsnitt id="/kapittel/i/ledd/3/avsnitt/1">Kapittel 4 - Krav ved salg av ikke-automatiske vekter</avsnitt>
+      <avsnitt id="/kapittel/i/ledd/3/avsnitt/2">§ 23. <i>Generelle bestemmelser</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/4">Ikke-automatiske vekter som selges eller tilbys for salg, skal oppfylle kravene i forskrift om målenheter og måling kapittel 4 med de presiseringer som fremgår her i forskriften.</ledd>
+      <avsnitt id="/kapittel/i/ledd/4/avsnitt/1">§ 25. <i>Krav til teknisk dokumentasjon</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/5">Dokumenter og korrespondanse skal utarbeides på norsk eller på et språk som er offisielt i den medlemsstaten der prosedyrene gjennomføres, eller på et språk som godtas av teknisk kontrollorgan.</ledd>
+      <avsnitt id="/kapittel/i/ledd/5/avsnitt/1">§ 26. <i>Krav til merking</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/6">Vekter som skal brukes til formålene nevnt i § 1 andre ledd skal være påført følgende merking tydelig, lesbart og uutslettelig:
+<liste id="/kapittel/i/ledd/6/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/1/avsnitt/1">EU-typegodkjenningssertifikatets nummer der dette er hensiktsmessig,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/2/avsnitt/1">produsentens navn, registrerte firmanavn eller registrerte varemerke,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/3/avsnitt/1">nøyaktighetsklasse innskrevet i en oval eller plassert mellom to vannrette linjer som bindes sammen av to halvsirkler,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/4"><lverdi>4.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/4/avsnitt/1">størstelast i form av Maks...,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/5"><lverdi>5.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/5/avsnitt/1">minstelast i form av Min...,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/6"><lverdi>6.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/6/avsnitt/1">verifiseringsminstedeling i form av e =...,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/6/liste/7"><lverdi>7.</lverdi><avsnitt id="/kapittel/i/ledd/6/liste/7/avsnitt/1">type-, parti- eller serienummer</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/7">Hvor det er hensiktsmessig, skal også følgende merking påføres:
+<liste id="/kapittel/i/ledd/7/liste/1"><lverdi>1.</lverdi><avsnitt id="/kapittel/i/ledd/7/liste/1/avsnitt/1">identifikasjonsmerke på hver enhet for vekter som består av deler som er atskilte, men som likevel hører sammen,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/7/liste/2"><lverdi>2.</lverdi><avsnitt id="/kapittel/i/ledd/7/liste/2/avsnitt/1">minstedeling dersom den er forskjellig fra e, i form av d =...,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/7/liste/3"><lverdi>3.</lverdi><avsnitt id="/kapittel/i/ledd/7/liste/3/avsnitt/1">største additive tara, i form av T = +...,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/7/liste/4"><lverdi>4.</lverdi><avsnitt id="/kapittel/i/ledd/7/liste/4/avsnitt/1">største subtraktive tara dersom den er forskjellig fra Maks, i form av T= -...,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/7/liste/5"><lverdi>5.</lverdi><avsnitt id="/kapittel/i/ledd/7/liste/5/avsnitt/1">taraens minstedeling dersom den er forskjellig fra d, i form av d<sub>T</sub>=...,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/7/liste/6"><lverdi>6.</lverdi><avsnitt id="/kapittel/i/ledd/7/liste/6/avsnitt/1">grenselast dersom den er forskjellig fra Maks, i form av Lim...,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/7/liste/7"><lverdi>7.</lverdi><avsnitt id="/kapittel/i/ledd/7/liste/7/avsnitt/1">spesielle temperaturgrenser, i form av... °C/... °C,</avsnitt></liste>
+<liste id="/kapittel/i/ledd/7/liste/8"><lverdi>8.</lverdi><avsnitt id="/kapittel/i/ledd/7/liste/8/avsnitt/1">forhold mellom loddbærer og lastebærer.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/8">Vektene skal være laget slik at det er mulig å påføre CE-merket og øvrig merking. Merkingen skal være slik at det er umulig å fjerne dem uten at de tar skade, og slik at de er synlige når vekten er i vanlig driftsstilling.</ledd>
+      <ledd id="/kapittel/i/ledd/9">Dersom det benyttes merkeplate, skal det være mulig å forsegle platen med mindre den ikke kan fjernes uten å bli ødelagt. Dersom platen lar seg forsegle, skal den kunne påføres et kontrollmerke.</ledd>
+      <ledd id="/kapittel/i/ledd/10">Merkingen Maks, Min, e, d, skal også plasseres i nærheten av det sted der veieresultatet avleses, med mindre den allerede er plassert der.</ledd>
+      <ledd id="/kapittel/i/ledd/11">Enhver massebestemmelsesinnretning som er knyttet til eller kan knyttes til én eller flere lastbærere, skal være påført den merking som er relevant i forbindelse med lastbærerne.</ledd>
+      <ledd id="/kapittel/i/ledd/12">Identifikasjonsnummeret til det eller de aktuelle tekniske kontrollorgan skal, dersom organet er involvert i produksjonskontrollfasen som nevnt i forskrift om målenheter og måling vedlegg 1, følge etter CE-merkingen og den supplerende metrologiske merkingen.</ledd>
+      <avsnitt id="/kapittel/i/ledd/12/avsnitt/1">§ 27. <i>CE-overensstemmelsesmerking</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/13">CE-overensstemmelsesmerkingen består av bokstavene «CE» i samsvar med utformingen i forordning (EF) nr. 765/2008 artikkel 30, som inntatt i EØS-vareloven.</ledd>
+      <avsnitt id="/kapittel/i/ledd/13/avsnitt/1">§ 28. <i>Merking av innretninger som ikke har gjennomgått samsvarsvurderingen</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/14">Når en vekt benyttet på ett av bruksområdene nevnt i § 1 annet ledd er utstyrt med eller knyttet til innretninger som ikke har gjennomgått samsvarsvurderingen nevnt i § 24 skal hver enkelt av innretningene være påført en stor, svart «M» trykket på en rød, kvadratisk bakgrunn der siden er minst 25 mm, og det hele skal krysses av kvadratets to diagonaler. Merket skal være tydelig og uutslettelig.</ledd>
+      <avsnitt id="/kapittel/i/ledd/14/avsnitt/1">§ 29. <i>Felles bestemmelser om samsvarsvurderinger</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/15">Samsvarsvurderingen i henhold til forskrift om målenheter og måling vedlegg 1 modul D, D1, F1 eller G kan foretas i produsentens lokaler eller på ethvert annet sted med mindre frakten av vekten til bruksstedet nødvendiggjør demontering, med mindre idriftsetting på bruksstedet nødvendiggjør montering av vekten eller andre tekniske installasjonsarbeider som kan ha innvirkning på vektens yteevne, og så sant tyngdekraftens verdi på bruksstedet tas i betraktning eller vektens yteevne ikke påvirkes av variasjoner i tyngdekraften. I alle andre tilfeller skal de foretas på vektens brukssted.</ledd>
+      <ledd id="/kapittel/i/ledd/16">Dersom vektens yteevne påvirkes av variasjoner i tyngdekraften, kan prosedyrene som nevnt i første ledd, gjennomføres i to omganger. Annen omgang skal omfatte alle undersøkelser og prøver hvis resultatet er avhengig av tyngdekraften, og i første omgang alle øvrige undersøkelser og prøver. Annen omgang skal gjennomføres på vektens brukssted. Når en medlemsstat har opprettet tyngdekraftsoner på sitt territorium, kan det med uttrykket «på vektens brukssted» menes «i tyngdekraftsonen der vekten brukes».</ledd>
+      <ledd id="/kapittel/i/ledd/17">Hvor en produsent har valgt å gjennomføre en av prosedyrene som nevnt i første ledd i to stadier, og hvor disse to stadier vil bli utført av forskjellige parter, skal en vekt som har gjennomgått første stadium av den pågjeldende prosedyre være påført identifikasjonsnummeret for det tekniske kontrollorgan som var involvert i dette stadium.</ledd>
+      <ledd id="/kapittel/i/ledd/18">Den part som har utført første stadium av den gjeldende prosedyre, utsteder for hver vekt en skriftlig overensstemmelsesattest inneholdende de opplysninger som er nødvendige for å identifisere vekten og spesifisere de her foretatte undersøkelser og prøver. Den part som utfører andre stadium av den pågjeldende prosedyre, gjennomfører de ennå ikke foretatte undersøkelser og prøver.</ledd>
+      <ledd id="/kapittel/i/ledd/19">Produsenten eller den autoriserte representanten skal på oppfordring kunne forevise den overensstemmelsesattest som det tekniske kontrollorgan har utstedt.</ledd>
+      <ledd id="/kapittel/i/ledd/20">Produsenten som i første omgang har valgt modul D eller D1, kan i annen omgang enten bruke samme prosedyre, eller beslutte å benytte modul F eller F1.</ledd>
+      <ledd id="/kapittel/i/ledd/21">CE-merkingen og den supplerende metrologiske merkingen skal anbringes på vekten etter avslutningen av andre stadium sammen med identifikasjonsnummeret for det bemyndige organ som er involvert i andre stadium.</ledd>
+      <avsnitt id="/kapittel/i/ledd/21/avsnitt/1">§ 30. <i>Produsentens forpliktelser</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/22">Alle vekter som skal brukes til formål som angitt i § 1 andre ledd, skal merkes av produsent som angitt i § 26.</ledd>
+      <ledd id="/kapittel/i/ledd/23">Alle vekter som ikke skal brukes til formål som angitt i § 1 andre ledd, skal merkes av produsent som angitt i § 2.</ledd>
+      <ledd id="/kapittel/i/ledd/24">Dersom en vekt som skal brukes til formål som angitt i § 1 andre ledd er utstyrt med eller knyttet til innretninger som ikke benyttes til slike formål, skal produsent påføre merket som angitt i § 28 på hver innretning.</ledd>
+      <ledd id="/kapittel/i/ledd/25">I tillegg gjelder kravene i forskrift om målenheter og måling kapittel 4 avsnitt 3.</ledd>
+      <avsnitt id="/kapittel/i/ledd/25/avsnitt/1">§ 31. <i>Importørens forpliktelser</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/26">Før en ikke-automatisk vekt som ikke skal brukes til de formål nevnt i § 1 andre ledd første gang gjøres tilgjengelig på markedet, skal importør sørge for at produsenten har oppfylt kravene i
+<liste id="/kapittel/i/ledd/26/liste/1"><lverdi>-</lverdi><avsnitt id="/kapittel/i/ledd/26/liste/1/avsnitt/1">§ 30, og</avsnitt></liste>
+<liste id="/kapittel/i/ledd/26/liste/2"><lverdi>-</lverdi><avsnitt id="/kapittel/i/ledd/26/liste/2/avsnitt/1">forskrift om målenheter og måling § 4-14 punkt 5 og 6.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/27">I tillegg gjelder kravene i forskrift om målenheter og måling kapittel 4 avsnitt 3.</ledd>
+      <avsnitt id="/kapittel/i/ledd/27/avsnitt/1">§ 32. <i>Distributørens forpliktelser</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/28">Før distributør gjør en ikke-automatisk vekt som ikke er ment å brukes til formålene angitt i § 1 andre ledd tilgjengelig på markedet, skal han verifisere at
+<liste id="/kapittel/i/ledd/28/liste/a"><lverdi>(a)</lverdi><avsnitt id="/kapittel/i/ledd/28/liste/a/avsnitt/1">produsent har oppfylt kravene i</avsnitt><liste id="/kapittel/i/ledd/28/liste/a-1"><lverdi>-</lverdi><avsnitt id="/kapittel/i/ledd/28/liste/a-1/avsnitt/1">§ 30 og</avsnitt></liste><liste id="/kapittel/i/ledd/28/liste/a-2"><lverdi>-</lverdi><avsnitt id="/kapittel/i/ledd/28/liste/a-2/avsnitt/1">forskrift om målenheter og måling 4-14 punkt 5 og 6, og</avsnitt></liste></liste>
+<liste id="/kapittel/i/ledd/28/liste/b"><lverdi>(b)</lverdi><avsnitt id="/kapittel/i/ledd/28/liste/b/avsnitt/1">importør har oppfylt kravene i FMM § 4-16 punkt 3.</avsnitt></liste>
+<marg niv="1" id="/kapittel/i/ledd/28/liste/b/avsnitt/1/marg/1">I tillegg gjelder kravene i forskrift om målenheter og måling kapittel 4 avsnitt 3.
+<br/></marg></ledd>
+      <ledd id="/kapittel/i/ledd/29">§ 33 til § 48 oppheves.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2015-12-10-1460/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Forskriften trer i kraft 20. april 2016.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

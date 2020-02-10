@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2016-02-23-185" type="lt" url="https://lovdata.no/lovtidend/forskrift/2016-02-23-185">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2016-02-23-185</id>
+    <dato>23.02.2016 nr. 185</dato>
+    <dato type="iso">2016-02-23</dato>
+    <publisert>I 2016 hefte 3 s 442</publisert>
+    <ikraft>23.02.2016</ikraft>
+    <ikraft type="iso">2016-02-23</ikraft>
+    <departement>Kommunal- og moderniseringsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2010-09-03-56-§2">L03.09.2010 nr. 56 § 2</ref>, <ref id="lov-2010-09-03-56-§5">§ 5</ref>, <ref id="lov-2010-09-03-56-§8">§ 8</ref>, <ref id="lov-2010-09-03-56-§10">§ 10</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2012-08-08-797</endrer>
+    <rettet/>
+    <journalnummer>2016-0162</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i geodataforskriften</korttittel>
+    <korttittel>4 Endr. i forskrift om infrastruktur for geografisk informasjon (geodataforskriften) (Nr. 185)</korttittel>
+    <tittel>Forskrift om endring i forskrift om infrastruktur for geografisk informasjon (geodataforskriften)</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Kommunal- og moderniseringsdepartementet 23. februar 2016 med hjemmel i lov 3. september 2010 nr. 56 om infrastruktur for geografisk informasjon (geodataloven) § 2, § 5, § 8 og § 10.
+<br/><b>EØS-henvisninger:</b> EØS-avtalen vedlegg XX nr. 1j (direktiv 2007/2/EF), nr. 1jc (forordning (EF) nr. 976/2009 endret ved forordning (EU) nr. 1088/2010 og forordning (EU) nr. 1311/2014) og nr. 1je (forordning (EU) nr. 1089/2010 endret ved forordning (EU) nr. 102/2011, forordning (EU) nr. 1253/2013 og forordning (EU) nr. 1312/2014).</marg>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2016-02-23-185/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 8. august 2012 nr. 797 om infrastruktur for geografisk informasjon (geodataforskriften) gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 6 andre ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/3">EØS-avtalen vedlegg XX nr. 1je (forordning (EU) nr. 1089/2010) om gjennomføring av direktiv 2007/2/EF med hensyn til samvirkningsevnen til geodatasett og -tjenester med endringer (forordning (EU) nr. 102/2011, forordning (EU) nr. 1253/2013 og forordning (EU) nr. 1312/2014) gjelder som forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig. Kravene gjelder geodatasett og tilhørende geodatatjenester etter § 2 første ledd. Kravene gjelder for kommuner og fylkeskommuner når de etter annen lov eller forskrift har plikt til å samle inn eller formidle slike geodata.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/4">§ 7 første og andre ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/5">Deltakende virksomheter skal for geodatasett og geodatatjenester etter § 2 første ledd, opprette og drive et nett av følgende tjenester:
+<liste id="/kapittel/i/ledd/5/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/5/liste/a/avsnitt/1">søketjenester som gjør det mulig å søke etter geodatasett og geodatatjenester og vise metadata</avsnitt></liste>
+<liste id="/kapittel/i/ledd/5/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/5/liste/b/avsnitt/1">visningstjenester som gjør det mulig å vise geodatasett med forklarende informasjon og tilhørende metadata</avsnitt></liste>
+<liste id="/kapittel/i/ledd/5/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/5/liste/c/avsnitt/1">nedlastningstjenester som gjør det mulig å laste ned eller få direkte tilgang til kopier av hele eller deler av geodatasett</avsnitt></liste>
+<liste id="/kapittel/i/ledd/5/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/5/liste/d/avsnitt/1">omformingstjenester som gjør det mulig å omdanne geodatasett slik at de kan virke sammen med andre geodata</avsnitt></liste>
+<liste id="/kapittel/i/ledd/5/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/5/liste/e/avsnitt/1">tjenester som gjør det mulig å aktivere geodatatjenester.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/6">EØS-avtalen vedlegg XX nr. 1jc (forordning (EF) nr. 976/2009) om gjennomføring av direktiv 2007/2/EF med hensyn til nettjenester med endringer (forordning (EU) nr. 1088/2010 og forordning (EU) nr. 1311/2014) gjelder som forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig. Omformingstjenestene skal kombineres med de andre nettjenestene slik at de kan virke sammen, jf. § 6.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/7">§ 15 andre til femte ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/8">Geodatasett etter § 2 første ledd skal være tilgjengelige med samvirkningsevne etter kravene i § 6 andre ledd innen
+<liste id="/kapittel/i/ledd/8/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/8/liste/a/avsnitt/1">23. november 2015 for data etter nummer 1 til 9 som nyetableres eller gjennomgår vesentlig omstrukturering</avsnitt></liste>
+<liste id="/kapittel/i/ledd/8/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/8/liste/b/avsnitt/1">21. oktober 2018 for data etter nummer 10 til 34 som nyetableres eller gjennomgår vesentlig omstrukturering</avsnitt></liste>
+<liste id="/kapittel/i/ledd/8/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/8/liste/c/avsnitt/1">23. november 2020 for andre data etter nummer 1 til 9</avsnitt></liste>
+<liste id="/kapittel/i/ledd/8/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/8/liste/d/avsnitt/1">21. oktober 2023 for andre data etter nummer 10 til 34.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/9">Aktiverbare geodatatjenester som opererer på geodatasett etter § 2 første ledd, skal ha samvirkningsevne etter kravene i § 6 andre ledd innen
+<liste id="/kapittel/i/ledd/9/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/a/avsnitt/1">10. desember 2018 i samsvar med forordning (EU) nr. 1089/2010 vedlegg V</avsnitt></liste>
+<liste id="/kapittel/i/ledd/9/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/b/avsnitt/1">10. desember 2019 i samsvar med forordning (EU) nr. 1089/2010 vedlegg VI, og dersom det er mulig vedlegg VII, for tjenester som opererer på datasett som er nyetablert eller har gjennomgått vesentlig omstrukturering i samsvar med forordning (EU) nr. 1089/2010</avsnitt></liste>
+<liste id="/kapittel/i/ledd/9/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/ledd/9/liste/c/avsnitt/1">10. desember 2024 i samsvar med forordning (EU) nr. 1089/2010 vedlegg VI, og dersom det er mulig vedlegg VII, for tjenester som opererer på andre datasett som er strukturert i samsvar med forordning (EU) nr. 1089/2010.</avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/10">Andre krav til harmonisering og samvirkningsevne etter § 6 skal være oppfylt innen 9. mai 2014.</ledd>
+      <ledd id="/kapittel/i/ledd/11">Søke- og visningstjenester for geodatasett og geodatatjenester som det er etablert metadata for, skal leveres etter kravene i § 7 andre ledd med innledende driftskapasitet innen 9. mai 2014 og med full driftskapasitet innen 9. november 2014. Nedlastnings- og omformingstjenester for geodatasett og geodatatjenester som det er etablert metadata for, skal leveres etter kravene i § 7 andre ledd med innledende driftskapasitet innen 28. juni 2015 og med full driftskapasitet innen 28. desember 2015. Alle nettjenester skal håndtere nye krav til metadata som følger av forordning (EU) nr. 1311/2014 innen 31. desember 2017.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/12">Gjeldende § 15 fjerde til sjette ledd blir nytt sjette til åttende ledd.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2016-02-23-185/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Forskriften trer i kraft straks.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

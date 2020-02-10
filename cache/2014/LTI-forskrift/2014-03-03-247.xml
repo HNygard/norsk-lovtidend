@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2014-03-03-247" type="lt" url="https://lovdata.no/lovtidend/forskrift/2014-03-03-247">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2014-03-03-247</id>
+    <dato>03.03.2014 nr. 247</dato>
+    <dato type="iso">2014-03-03</dato>
+    <publisert>I 2014 hefte 3 s 457</publisert>
+    <ikraft>03.03.2014</ikraft>
+    <ikraft type="iso">2014-03-03</ikraft>
+    <departement>Nærings- og fiskeridepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="for-1998-03-04-173-§2">F04.03.1998 nr. 173 § 2</ref>, <ref id="for-1998-03-04-173-§5">§ 5</ref><ref id="lov-1972-06-16-57-§6">L16.06.1972 nr. 57 § 6</ref>, <ref id="for-1993-10-29">F29.10.1993</ref>nr. 955, <ref id="lov-1983-06-03-40-§4">L03.06.1983 nr. 40 § 4</ref>, <ref id="lov-1983-06-03-40-§9">§ 9</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/1999-06-30-1499</endrer>
+    <rettet/>
+    <journalnummer>2014-0165</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om registrering og rapportering mv.</korttittel>
+    <korttittel>4 Endr. i forskrift om registrering og rapportering ved fiske i farvann utenfor noen stats fiskerijurisdiksjon (Nr. 247)</korttittel>
+    <tittel>Forskrift om endring i forskrift om registrering og rapportering ved fiske i farvann utenfor noen stats fiskerijurisdiksjon</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Fiskeridirektoratet 3. mars 2014 med hjemmel i forskrift 4. mars 1998 nr. 173 om regulering av fiske i farvann utenfor noen stats fiskerijurisdiksjon § 2 og § 5.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2014-03-03-247/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 30. juni 1999 nr. 1499 om registrering og rapportering ved fiske i farvann utenfor noen stats fiskerijurisdiksjon gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 3 punkt 2 Fangstmelding (endret) skal lyde:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/3">
+        <i>Daglig fangstmelding</i>
+      </ledd>
+      <ledd id="/kapittel/i/ledd/4">Fangstmelding skal sendes daglig og senest kl. 1200 UTC neste dag. På dager det ikke er tatt fangst skal det rapporteres 0 i den daglige fangstmeldingen.</ledd>
+      <ledd id="/kapittel/i/ledd/5">Meldingen skal inneholde følgende opplysninger:</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="20*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Dataelement:</i>
+              </entry>
+              <entry colname="2">
+                <i>Kode:</i>
+              </entry>
+              <entry colname="3">
+                <i>Påkrevd/Valgfritt:</i>
+              </entry>
+              <entry colname="4">
+                <i>Innhold:</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="20*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Meldingstype </entry>
+              <entry colname="2">TM </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">CAT, Daglig fangstmelding </entry>
+            </row>
+            <row>
+              <entry colname="1">Meldingsnummer </entry>
+              <entry colname="2">RN </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Serienummer for meldingen i inneværende år </entry>
+            </row>
+            <row>
+              <entry colname="1">Autentisering </entry>
+              <entry colname="2">AU </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Avtalt autentiseringskode </entry>
+            </row>
+            <row>
+              <entry colname="1">Radiokallesignal </entry>
+              <entry colname="2">RC </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Fartøyets radiokallesignal </entry>
+            </row>
+            <row>
+              <entry colname="1">Fartøynavn </entry>
+              <entry colname="2">NA </entry>
+              <entry colname="3">V </entry>
+              <entry colname="4">Fartøyets navn </entry>
+            </row>
+            <row>
+              <entry colname="1">Registreringsmerke </entry>
+              <entry colname="2">XR </entry>
+              <entry colname="3">V </entry>
+              <entry colname="4">Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer </entry>
+            </row>
+            <row>
+              <entry colname="1">Daglig fangst </entry>
+              <entry colname="2">CA </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt. </entry>
+            </row>
+            <row>
+              <entry colname="1">Antall fiskedager </entry>
+              <entry colname="2">DF </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Antall fiskedager i området siden fiskestart eller siste daglige fangstmelding </entry>
+            </row>
+            <row>
+              <entry colname="1">Fangstområde </entry>
+              <entry colname="2">RA </entry>
+              <entry colname="3">P<fref id="/kapittel/i/fotnote/1">1</fref> </entry>
+              <entry colname="4">Kode for område der fangsten er tatt </entry>
+            </row>
+            <row>
+              <entry colname="1">Meldingsdato </entry>
+              <entry colname="2">DA </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) </entry>
+            </row>
+            <row>
+              <entry colname="1">Meldingstid </entry>
+              <entry colname="2">TI </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Tidspunkt når meldingen er sendt i UTC (TTMM) </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <fotnote id="/kapittel/i/fotnote/1">1 Påkrevd i fiskerier der forvaltningstiltak krever det.
+<br/></fotnote>
+      <ledd id="/kapittel/i/ledd/6">§ 3 punkt 5 Melding om avslutning av fiske (endret) skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/7">Melding om avslutning av fiske skal sendes tidligst 8 timer og senest 2 timer før fartøyet går ut av området.</ledd>
+      <ledd id="/kapittel/i/ledd/8">Meldingen skal inneholde følgende opplysninger:</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="20*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Dataelement:</i>
+              </entry>
+              <entry colname="2">
+                <i>Kode:</i>
+              </entry>
+              <entry colname="3">
+                <i>Påkrevd/Valgfritt:</i>
+              </entry>
+              <entry colname="4">
+                <i>Forklaring:</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="20*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="10*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Meldingstype </entry>
+              <entry colname="2">TM </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">COX, Melding om avslutning av fiske </entry>
+            </row>
+            <row>
+              <entry colname="1">Meldingsnummer </entry>
+              <entry colname="2">RN </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Serienummer for meldingen i inneværende år </entry>
+            </row>
+            <row>
+              <entry colname="1">Autentisering </entry>
+              <entry colname="2">AU </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Avtalt autentiseringskode </entry>
+            </row>
+            <row>
+              <entry colname="1">Radiokallesignal </entry>
+              <entry colname="2">RC </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Fartøyets radiokallesignal </entry>
+            </row>
+            <row>
+              <entry colname="1">Fartøynavn </entry>
+              <entry colname="2">NA </entry>
+              <entry colname="3">V </entry>
+              <entry colname="4">Fartøyets navn </entry>
+            </row>
+            <row>
+              <entry colname="1">Registreringsmerke </entry>
+              <entry colname="2">XR </entry>
+              <entry colname="3">V </entry>
+              <entry colname="4">Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer </entry>
+            </row>
+            <row>
+              <entry colname="1">Fangst </entry>
+              <entry colname="2">CA </entry>
+              <entry colname="3">P<fref id="/kapittel/i/fotnote/1">1</fref> </entry>
+              <entry colname="4">Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt. </entry>
+            </row>
+            <row>
+              <entry colname="1">Antall fiskedager </entry>
+              <entry colname="2">DF </entry>
+              <entry colname="3">P<fref id="/kapittel/i/fotnote/1">1</fref> </entry>
+              <entry colname="4">Antall fiskedager i området siden fiskestart eller siste daglige fangstmelding </entry>
+            </row>
+            <row>
+              <entry colname="1">Fangstområde </entry>
+              <entry colname="2">RA </entry>
+              <entry colname="3">P<fref id="/kapittel/i/fotnote/2">2</fref> </entry>
+              <entry colname="4">Kode for område der fangsten er tatt </entry>
+            </row>
+            <row>
+              <entry colname="1">Meldingsdato </entry>
+              <entry colname="2">DA </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) </entry>
+            </row>
+            <row>
+              <entry colname="1">Meldingstid </entry>
+              <entry colname="2">TI </entry>
+              <entry colname="3">P </entry>
+              <entry colname="4">Tidspunkt når meldingen er sendt i UTC (TTMM) </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <fotnote id="/kapittel/i/fotnote/1+">1 Meldingen skal inneholde fangst og antall fiskedager siden forrige daglige fangstmelding.</fotnote>
+      <fotnote id="/kapittel/i/fotnote/2">2 Påkrevd i fiskerier der forvaltningstiltak krever det.</fotnote>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2014-03-03-247/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Denne forskriften trer i kraft straks.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

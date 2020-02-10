@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2015-08-25-999" type="lt" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2015-08-25-999</id>
+    <dato>25.08.2015 nr. 999</dato>
+    <dato type="iso">2015-08-25</dato>
+    <publisert>I 2015 hefte 10 s 1681</publisert>
+    <ikraft>01.01.2016</ikraft>
+    <ikraft type="iso">2016-01-01</ikraft>
+    <departement>Finansdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2015-04-10-17-§1-7">L10.04.2015 nr. 17 § 1-7</ref>, <ref id="lov-2015-04-10-17-§13-4">§ 13-4</ref>, <ref id="lov-2015-04-10-17-§13-5">§ 13-5</ref>, <ref id="lov-2015-04-10-17-§13-6">§ 13-6</ref>, <ref id="lov-2015-04-10-17-§13-8">§ 13-8</ref>, <ref id="lov-2015-04-10-17-§13-10">§ 13-10</ref>, <ref id="lov-2015-04-10-17-§14-8">§ 14-8</ref>, <ref id="lov-2015-04-10-17-§14-9">§ 14-9</ref>, <ref id="lov-2015-04-10-17-§14-10">§ 14-10</ref>, <ref id="lov-2015-04-10-17-§14-11">§ 14-11</ref>, <ref id="lov-2015-04-10-17-§14-12">§ 14-12</ref>, <ref id="lov-2015-04-10-17-§14-13">§ 14-13</ref>, <ref id="lov-2015-04-10-17-§14-14">§ 14-14</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/1991-05-10-301</endrer>
+    <endrer type="ref">https://lovdata.no/for/1992-11-18-1242</endrer>
+    <endrer type="ref">https://lovdata.no/for/1995-05-19-482</endrer>
+    <endrer type="ref">https://lovdata.no/for/1996-12-19-1320</endrer>
+    <endrer type="ref">https://lovdata.no/for/2006-12-22-1616</endrer>
+    <endrer type="ref">https://lovdata.no/for/2007-12-17-1456</endrer>
+    <rettet/>
+    <journalnummer>2015-0839</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Solvens II-forskriften</korttittel>
+    <korttittel>3 Forskrift til finansforetaksloven om gjennomføring av Solvens II-direktivet (Solvens II-forskriften) (Nr. 999)</korttittel>
+    <tittel>Forskrift til finansforetaksloven om gjennomføring av Solvens II-direktivet (Solvens II-forskriften)</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Finansdepartementet 25. august 2015 med hjemmel i lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 1-7, § 13-4 fjerde ledd, § 13-5 sjette ledd, § 13-6 syvende ledd, § 13-8, § 13-10 tredje ledd, § 14-8 syvende ledd, § 14-9 tredje ledd, § 14-10 fjerde ledd, § 14-11 femte ledd, § 14-12 annet ledd, § 14-13 tredje ledd og § 14-14 fjerde ledd.
+<br/><b>EØS-henvisninger:</b> EØS-avtalen vedlegg IX nr. 1 (direktiv 2009/138/EF).</marg>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Forsikringstekniske avsetninger</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k1/p1">
+        <pverdi>§ 1.</pverdi>
+        <ptittel>Prinsipper for beregning av forsikringstekniske avsetninger</ptittel>
+        <ledd id="/kapittel/1/paragraf/1/ledd/1">(1) Beregningen av avsetninger for forsikringsforpliktelser skal utføres ved bruk av relevante og hensiktsmessige forsikringstekniske og statistiske metoder og skal være basert på pålitelige opplysninger og realistiske forutsetninger. Data som benyttes i beregningen skal være fullstendige, nøyaktige og hensiktsmessige.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k1/p2">
+        <pverdi>§ 2.</pverdi>
+        <ptittel>Unntak fra separat verdivurdering av forsikringsforpliktelser</ptittel>
+        <ledd id="/kapittel/1/paragraf/2/ledd/1">(1) Beste estimat på verdien av forsikringsforetakets forsikringsforpliktelser og risikomarginen skal vurderes separat, med mindre kontantstrømmene relatert til de aktuelle forpliktelsene kan gjenskapes (replikeres) på en pålitelig måte ved å benytte finansielle instrumenter med pålitelige og observerbare markedsverdier.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k1/p3">
+        <pverdi>§ 3.</pverdi>
+        <ptittel>Rentekurve</ptittel>
+        <ledd id="/kapittel/1/paragraf/3/ledd/1">(1) Ved verdivurderingen av forsikringsforpliktelsene skal forsikringsforetak benytte de risikofrie rentekurvene som til enhver tid er offentliggjort av Finanstilsynet.</ledd>
+        <ledd id="/kapittel/1/paragraf/3/ledd/2">(2) Foretaket kan benytte rentekurver med volatilitetsjustering, med mindre annet er fastsatt av Finanstilsynet.</ledd>
+        <ledd id="/kapittel/1/paragraf/3/ledd/3">(3) Finanstilsynet kan tillate at rentekurven tilpasses renten på en portefølje bestående av obligasjoner og andre aktiva med lignende kontantstrømegenskaper som er direkte knyttet til forpliktelsene (matching-justering).</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k1/p4">
+        <pverdi>§ 4.</pverdi>
+        <ptittel>Sammenligning med foretakets erfaringer</ptittel>
+        <ledd id="/kapittel/1/paragraf/4/ledd/1">(1) Forsikringsforetaket skal regelmessig sammenligne de forutsetningene som ligger til grunn for beregningen av beste estimat med egne erfaringer.</ledd>
+        <ledd id="/kapittel/1/paragraf/4/ledd/2">(2) Hvis sammenligningen i henhold til første ledd viser systematiske avvik, skal foretaket foreta nødvendige justeringer i de forsikringstekniske metodene som benyttes og/eller de forutsetningene som er lagt til grunn.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Ansvarlig kapital</ktittel>
+      <paragraf id="/kapittel/2/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k2/p5">
+        <pverdi>§ 5.</pverdi>
+        <ptittel>Deltakerinteresser i andre finansforetak mv.</ptittel>
+        <ledd id="/kapittel/2/paragraf/5/ledd/1">(1) Forsikringsforetakets basiskapital skal reduseres i samsvar med regler i forskrift fastsatt av Finanstilsynet hvis foretaket har deltakerinteresser som definert i § 38 tredje og femte ledd, i verdipapirforetak, forvaltningsselskap for verdipapirfond, forvaltere av alternative investeringsfond, låneformidlingsforetak og finansforetak som ikke er forsikringsforetak eller pensjonsforetak. Bestemmelsen i første punktum gjelder tilsvarende for fordringer i form av annen ansvarlig kapital som forsikringsforetaket har på slike foretak.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k2/p6">
+        <pverdi>§ 6.</pverdi>
+        <ptittel>Inndeling av foretakets ansvarlige kapital</ptittel>
+        <ledd id="/kapittel/2/paragraf/6/ledd/1">(1) Forsikringsforetakets ansvarlige kapital skal inndeles i tre kapitalgrupper etter følgende kriterier:
+<liste id="/kapittel/2/paragraf/6/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/6/ledd/1/liste/a/avsnitt/1">Kapitalen kan benyttes til eller innbetales etter påkrav for å dekke ethvert tap til enhver tid.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/6/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/6/ledd/1/liste/b/avsnitt/1">Kapitalen kan ved avvikling benyttes til å dekke tap og skal ikke tilbakebetales før alle andre krav er dekket, herunder krav som følger av forsikrings- og gjenforsikringsavtaler.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/6/ledd/2">(2) Ved inndelingen skal det tas hensyn til varighet og løpetid, vilkår om og insentiver til tilbakekjøp, og påheftede kostnader og rettigheter.</ledd>
+        <ledd id="/kapittel/2/paragraf/6/ledd/3">(3) Basiskapital som tilfredsstiller kriteriene i første ledd bokstav a og b inngår i kapitalgruppe 1.</ledd>
+        <ledd id="/kapittel/2/paragraf/6/ledd/4">(4) Basiskapital som tilfredsstiller kriteriet i første ledd bokstav b og supplerende kapital som tilfredsstiller kriteriene i første ledd bokstav a og b, inngår i kapitalgruppe 2.</ledd>
+        <ledd id="/kapittel/2/paragraf/6/ledd/5">(5) Basiskapital og supplerende kapital som ikke omfattes av tredje eller fjerde ledd, inngår i kapitalgruppe 3.</ledd>
+        <ledd id="/kapittel/2/paragraf/6/ledd/6">(6) Andre beløp i den ansvarlige kapitalen som ikke omfattes av kapitalposter i kapitalgruppe 1, 2 eller 3, skal godkjennes av Finanstilsynet etter nærmere regler fastsatt i forskrift av Finanstilsynet.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Solvenskapitalkrav</ktittel>
+      <paragraf id="/kapittel/3/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p7">
+        <pverdi>§ 7.</pverdi>
+        <ptittel>Beregningshyppighet</ptittel>
+        <ledd id="/kapittel/3/paragraf/7/ledd/1">(1) Forsikringsforetaket skal beregne solvenskapitalkravet minst en gang i året og rapportere resultatet av beregningen til Finanstilsynet.</ledd>
+        <ledd id="/kapittel/3/paragraf/7/ledd/2">(2) Hvis foretakets risikoprofil avviker vesentlig fra de forutsetninger som ligger til grunn for sist innrapporterte solvenskapitalkrav, skal foretaket straks beregne solvenskapitalkravet på nytt og rapportere dette til Finanstilsynet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p8">
+        <pverdi>§ 8.</pverdi>
+        <ptittel>Standardmetode for beregning av solvenskapitalkravet</ptittel>
+        <ledd id="/kapittel/3/paragraf/8/ledd/1">(1) Solvenskapitalkravet etter standardmetoden skal utgjøre summen av
+<liste id="/kapittel/3/paragraf/8/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/8/ledd/1/liste/a/avsnitt/1">kapitalkravene for skadeforsikringsrisiko, livsforsikringsrisiko, helseforsikringsrisiko, markedsrisiko og motpartsrisiko,</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/8/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/8/ledd/1/liste/b/avsnitt/1">kapitalkravet for risikoen knyttet til immaterielle eiendeler,</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/8/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/8/ledd/1/liste/c/avsnitt/1">kapitalkravet for operasjonell risiko og</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/8/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/3/paragraf/8/ledd/1/liste/d/avsnitt/1">justeringen for den tapsabsorberende evnen til forsikringstekniske avsetninger, herunder fremtidig overskuddstildeling, og utsatt skatt.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/8/ledd/2">(2) Kapitalkravene som nevnt i første ledd bokstav a skal summeres ved å anvende korrelasjonsmatrisen i vedlegg 1 til forskriften.</ledd>
+        <ledd id="/kapittel/3/paragraf/8/ledd/3">(3) Finanstilsynet kan tillate at enkelte av parametere i standardmetoden erstattes med parametere som er spesifikke for det berørte forsikringsforetaket ved beregning av risikomodulene for forsikringsrisiko. Foretaksspesifikke data som benyttes ved fastsettelsen av slike parametere, skal være fullstendige, nøyaktige og hensiktsmessige.</ledd>
+        <ledd id="/kapittel/3/paragraf/8/ledd/4">(4) Finanstilsynet kan tillate at livsforsikringsforetak anvender en durasjonsbasert undermodul for aksjerisiko.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p9">
+        <pverdi>§ 9.</pverdi>
+        <ptittel>Forenklede beregninger av solvenskapitalkravet etter standardmetoden</ptittel>
+        <ledd id="/kapittel/3/paragraf/9/ledd/1">(1) Forsikringsforetaket kan benytte en forenklet beregning for deler av solvenskapitalkravet når det er forsvarlig ut fra arten, omfanget og kompleksiteten til risikoene foretaket står overfor, og det er uforholdsmessig å kreve full beregning. De nærmere vilkår for bruk av forenklede beregninger følger av regler i forskrift fastsatt av Finanstilsynet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p10">
+        <pverdi>§ 10.</pverdi>
+        <ptittel>Interne modeller for beregning av solvenskapitalkravet</ptittel>
+        <ledd id="/kapittel/3/paragraf/10/ledd/1">(1) Et forsikringsforetak kan etter tillatelse fra Finanstilsynet beregne hele eller deler av solvenskapitalkravet etter interne modeller.</ledd>
+        <ledd id="/kapittel/3/paragraf/10/ledd/2">(2) Tillatelse til bruk av interne modeller kan gis foretak som oppfyller kravene i § 15 til § 20 og nærmere regler i forskrift fastsatt av Finanstilsynet, og som har et tilfredsstillende system for å identifisere, måle, overvåke og styre risiko. Finanstilsynet skal avgjøre søknaden innen seks måneder etter at en fullstendig søknad er mottatt.</ledd>
+        <ledd id="/kapittel/3/paragraf/10/ledd/3">(3) Et foretak som har fått tillatelse til å bruke en intern modell, kan ikke gå over til helt eller delvis å benytte standardmetoden uten samtykke fra Finanstilsynet.</ledd>
+        <ledd id="/kapittel/3/paragraf/10/ledd/4">(4) Finanstilsynet kan tillate at foretak med morselskap i annen EØS-stat benytter en intern modell godkjent av denne statens tilsynsmyndighet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p11">
+        <pverdi>§ 11.</pverdi>
+        <ptittel>Tilleggskrav for bruk av en partiell intern modell</ptittel>
+        <ledd id="/kapittel/3/paragraf/11/ledd/1">(1) Tillatelse til bruk av intern modell for å beregne deler av solvenskapitalkravet (partiell intern modell) forutsetter at forsikringsforetaket
+<liste id="/kapittel/3/paragraf/11/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/11/ledd/1/liste/a/avsnitt/1">begrunner det begrensede anvendelsesområde for den interne modellen,</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/11/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/11/ledd/1/liste/b/avsnitt/1">godtgjør at solvenskapitalkravet som følger av den interne modellen reflekterer foretakets risikoprofil og prinsippene i finansforetaksloven § 14-10 på en bedre måte enn standardmetoden, og</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/11/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/11/ledd/1/liste/c/avsnitt/1">godtgjør at den interne modellen er utformet slik at den kan kombineres med standardmetoden for beregning av det samlede solvenskapitalkravet.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/11/ledd/2">(2) Finanstilsynet kan kreve at en intern modell som bare omfatter visse undermoduler av en bestemt risikomodul eller enkelte forretningsområder, utvides slik at modellen dekker den overveiende del av den aktuelle risikomodulen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/12" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p12">
+        <pverdi>§ 12.</pverdi>
+        <ptittel>Styrets ansvar</ptittel>
+        <ledd id="/kapittel/3/paragraf/12/ledd/1">(1) Styret i forsikringsforetaket skal godkjenne søknad om bruk av en intern modell og søknad om eventuelle påfølgende større endringer i modellen.</ledd>
+        <ledd id="/kapittel/3/paragraf/12/ledd/2">(2) Styret skal sørge for at foretaket har systemer som sikrer at modellen til enhver tid fungerer i henhold til kravene og reflekterer foretakets risikoprofil på en hensiktsmessig måte.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/13" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p13">
+        <pverdi>§ 13.</pverdi>
+        <ptittel>Endringer i en intern modell</ptittel>
+        <ledd id="/kapittel/3/paragraf/13/ledd/1">(1) Forsikringsforetaket kan ikke endre den interne modellen på annen måte enn fastsatt i retningslinjer som er godkjent av Finanstilsynet.</ledd>
+        <ledd id="/kapittel/3/paragraf/13/ledd/2">(2) Retningslinjene skal spesifisere hvilke endringer som anses vesentlige. Slike endringer skal godkjennes av Finanstilsynet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/14" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p14">
+        <pverdi>§ 14.</pverdi>
+        <ptittel>Manglende oppfyllelse av krav til en intern modell</ptittel>
+        <ledd id="/kapittel/3/paragraf/14/ledd/1">(1) Et forsikringsforetak som ikke lenger oppfyller kravene til en intern modell som fastsatt i § 15 til § 20, skal umiddelbart gi melding til Finanstilsynet. I meldingen skal det redegjøres for hvordan kravene vil oppfylles og hvilke konsekvenser manglende oppfyllelse av kravene kan ha. Hvis foretaket ikke oppfyller kravene i løpet av rimelig tid, kan Finanstilsynet kreve at foretaket beregner solvenskapitalkravet etter standardmetoden.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/15" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p15">
+        <pverdi>§ 15.</pverdi>
+        <ptittel>Bruk av en intern modell (anvendelseskrav)</ptittel>
+        <ledd id="/kapittel/3/paragraf/15/ledd/1">(1) En intern modell skal utgjøre en sentral del av forsikringsforetakets system for risikostyring og internkontroll. Modellen skal benyttes i foretakets prosesser for vurdering og allokering av kapital og i foretakets egenvurdering av risiko og solvens.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/16" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p16">
+        <pverdi>§ 16.</pverdi>
+        <ptittel>Utformingen av en intern modell</ptittel>
+        <ledd id="/kapittel/3/paragraf/16/ledd/1">(1) En intern modell skal utformes slik at den tilfredsstiller følgende krav:
+<liste id="/kapittel/3/paragraf/16/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/16/ledd/1/liste/a/avsnitt/1">Modellen skal baseres på hensiktsmessige forsikringstekniske og statistiske metoder, realistiske forutsetninger og pålitelige data og annen informasjon.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/16/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/16/ledd/1/liste/b/avsnitt/1">Dataene skal oppdateres minst årlig.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/16/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/16/ledd/1/liste/c/avsnitt/1">Modellen skal dekke alle relevante risikoer slik at den kan anvendes i samsvar med § 15.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/16/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/3/paragraf/16/ledd/1/liste/d/avsnitt/1">Modellen skal reflektere risikoer knyttet til vesentlige finansielle garantier og avtalefestede opsjoner samt ta hensyn til forventede utbetalinger til forsikringstakere og andre forsikrede.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/16/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/3/paragraf/16/ledd/1/liste/e/avsnitt/1">Modellen kan hensynta diversifiseringseffekter hvis de er målt på en tilfredsstillende måte.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/16/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/3/paragraf/16/ledd/1/liste/f/avsnitt/1">Ved bruk av risikoreduserende teknikker skal modellen gjenspeile kredittrisiko og andre risikoer på en hensiktsmessig måte.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/16/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/3/paragraf/16/ledd/1/liste/g/avsnitt/1">Modellen kan bare ta hensyn til handlingsregler fastsatt av foretakets ledelse (fremtidige ledelseshandlinger) hvis det er sannsynlig at de blir iverksatt og modellen tar høyde for tiden det tar å gjennomføre handlingene.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/17" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p17">
+        <pverdi>§ 17.</pverdi>
+        <ptittel>Kalibrering av en intern modell</ptittel>
+        <ledd id="/kapittel/3/paragraf/17/ledd/1">(1) Forsikringsforetaket kan benytte en annen tidshorisont eller et annet risikomål ved beregning av solvenskapitalkravet etter en intern modell hvis beregningen gir samme grad av sikkerhet som beregning av solvenskapitalkravet etter finansforetaksloven § 14-10 annet ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/2">(2) Hvis det ikke er mulig å utlede solvenskapitalkravet direkte fra den interne modellen, kan Finanstilsynet tillate bruk av tilnærmede verdier (approksimasjoner) hvis foretaket godtgjør at kravet i første ledd er oppfylt.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/3">(3) Foretaket skal anvende den interne modellen på relevante referanseporteføljer og bruke forutsetninger basert på eksterne data der Finanstilsynet krever dette som ledd i vurderingen av modellen.</ledd>
+        <ledd id="/kapittel/3/paragraf/17/ledd/4">(4) Hvis foretaket benytter rentekurve med volatilitetsjustering, skal den interne modellen ikke omfatte risiko for tap som følge av endringer i volatilitetsjusteringen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/18" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p18">
+        <pverdi>§ 18.</pverdi>
+        <ptittel>Resultatanalyse ved bruk av en intern modell</ptittel>
+        <ledd id="/kapittel/3/paragraf/18/ledd/1">(1) Forsikringsforetaket skal minst årlig foreta en resultatanalyse og påvise årsakene og kildene til overskudd og tap for hvert hovedforretningsområde.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/19" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p19">
+        <pverdi>§ 19.</pverdi>
+        <ptittel>Etterprøving (validering) av en intern modell</ptittel>
+        <ledd id="/kapittel/3/paragraf/19/ledd/1">(1) Forsikringsforetaket skal regelmessig og minst årlig validere modellen. Valideringen skal omfatte forutsetningene som ligger til grunn for modellen og parameterne som benyttes. Modellresultater skal sammenlignes med foretakets erfaringer for å undersøke modellens prediksjonsevne. Det skal undersøkes om det beregnede kapitalkravet er tilstrekkelig til å dekke risikoen i virksomheten.</ledd>
+        <ledd id="/kapittel/3/paragraf/19/ledd/2">(2) Modellen skal valideres på hele det relevante datagrunnlaget og på nye data samlet inn siden forrige validering. Valideringen skal omfatte en vurdering av datagrunnlaget. Statistiske metoder skal benyttes i valideringen.</ledd>
+        <ledd id="/kapittel/3/paragraf/19/ledd/3">(3) Analyser av modellens stabilitet og sensitivitetsanalyser skal vise hvordan modellen påvirkes av endringer i de underliggende forutsetningene.</ledd>
+        <ledd id="/kapittel/3/paragraf/19/ledd/4">(4) Valideringsresultatene skal rapporteres til styret.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/20" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k3/p20">
+        <pverdi>§ 20.</pverdi>
+        <ptittel>Dokumentasjon av en intern modell</ptittel>
+        <ledd id="/kapittel/3/paragraf/20/ledd/1">(1) Forsikringsforetaket skal dokumentere den interne modellens utforming, herunder teoretisk, metodisk og empirisk grunnlag, forutsetninger og begrensninger samt at foretaket etterlever kravene som følger av denne forskrift § 15 til § 19.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Minstekapitalkrav</ktittel>
+      <paragraf id="/kapittel/4/paragraf/21" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k4/p21">
+        <pverdi>§ 21.</pverdi>
+        <ptittel>Beregning av minstekapitalkravet</ptittel>
+        <ledd id="/kapittel/4/paragraf/21/ledd/1">(1) Minstekapitalkravet skal beregnes ved en funksjon av en eller flere av følgende variabler: forsikringstekniske avsetninger, forfalte premier, udekket risiko, utsatt skatt og administrative kostnader. Det skal fastsettes separate funksjoner for livsforsikringsforpliktelser og skadeforsikringsforpliktelser.</ledd>
+        <ledd id="/kapittel/4/paragraf/21/ledd/2">(2) Forsikringsforetaket skal beregne minstekapitalkravet minst én gang hvert kvartal og rapportere resultatet til Finanstilsynet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/22" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k4/p22">
+        <pverdi>§ 22.</pverdi>
+        <ptittel>Beregning av minstekapitalkrav for livsforsikringsforetak som tilbyr skadeforsikring</ptittel>
+        <ledd id="/kapittel/4/paragraf/22/ledd/1">(1) Livsforsikringsforetak som i medhold av finansforetaksloven § 2-13 første ledd tilbyr ulykkes- eller sykdomsforsikringer, skal i samsvar med nærmere regler i forskrift fastsatt av Finanstilsynet beregne separate minstekapitalkrav for henholdsvis livsforsikringsvirksomheten og skadeforsikringsvirksomheten som om foretaket bare tilbød forsikringer innenfor vedkommende virksomhetsområde.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k5">
+      <kverdi>Kapittel 5</kverdi>
+      <ktittel>Kapitalforvaltning</ktittel>
+      <paragraf id="/kapittel/5/paragraf/23" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k5/p23">
+        <pverdi>§ 23.</pverdi>
+        <ptittel>Derivater</ptittel>
+        <ledd id="/kapittel/5/paragraf/23/ledd/1">(1) Derivater kan kun anvendes for å redusere risikoen i forsikringsforetakets eiendeler eller for å effektivisere forvaltningen av disse.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/6" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k6">
+      <kverdi>Kapittel 6</kverdi>
+      <ktittel>Systemet for risikostyring og internkontroll</ktittel>
+      <paragraf id="/kapittel/6/paragraf/24" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k6/p24">
+        <pverdi>§ 24.</pverdi>
+        <ptittel>Systemet for risikostyring</ptittel>
+        <ledd id="/kapittel/6/paragraf/24/ledd/1">(1) Forsikringsforetakets system for risikostyring etter finansforetaksloven § 13-5 første ledd skal omfatte de risikoer som inngår i beregningen av solvenskapitalkravet, samt eventuelle andre relevante risikoer.</ledd>
+        <ledd id="/kapittel/6/paragraf/24/ledd/2">(2) Systemet for risikostyring skal minst omfatte
+<liste id="/kapittel/6/paragraf/24/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/6/paragraf/24/ledd/2/liste/a/avsnitt/1">tegning av forsikringer,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/24/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/6/paragraf/24/ledd/2/liste/b/avsnitt/1">fastsettelse av forsikringstekniske avsetninger,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/24/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/6/paragraf/24/ledd/2/liste/c/avsnitt/1">balansestyring,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/24/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/6/paragraf/24/ledd/2/liste/d/avsnitt/1">investeringer, herunder derivater og tilsvarende (bindende) avtaler,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/24/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/6/paragraf/24/ledd/2/liste/e/avsnitt/1">styring av likviditets- og konsentrasjonsrisiko,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/24/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/6/paragraf/24/ledd/2/liste/f/avsnitt/1">styring av operasjonell risiko og</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/24/ledd/2/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/6/paragraf/24/ledd/2/liste/g/avsnitt/1">gjenforsikring og andre risikoreduserende teknikker.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/25" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k6/p25">
+        <pverdi>§ 25.</pverdi>
+        <ptittel>Risikostyring ved bruk av justeringer i rentekurven</ptittel>
+        <ledd id="/kapittel/6/paragraf/25/ledd/1">(1) Forsikringsforetaket skal vurdere hvor sensitive de forsikringstekniske avsetningene og den tellende ansvarlige kapitalen er for valget av forutsetningene som ligger til grunn for
+<liste id="/kapittel/6/paragraf/25/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/6/paragraf/25/ledd/1/liste/a/avsnitt/1">ekstrapoleringen av rentekurven,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/25/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/6/paragraf/25/ledd/1/liste/b/avsnitt/1">volatilitetsjusteringen og</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/25/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/6/paragraf/25/ledd/1/liste/c/avsnitt/1">matching-justeringen, herunder endringer i sammensetningen av den tilordnede porteføljen av eiendeler.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/6/paragraf/25/ledd/2">(2) I tilfeller som nevnt i første ledd bokstav b og c skal foretaket også vurdere mulige virkninger av førtidig salg av eiendeler.</ledd>
+        <ledd id="/kapittel/6/paragraf/25/ledd/3">(3) Foretaket skal utarbeide en likviditetsplan for kontantstrømmer som er gjenstand for volatilitets- eller matching-justering og jevnlig vurdere virkningen av at slik justering bortfaller. Hvis virkningen er at solvenskapitalkravet ikke lenger er oppfylt, skal foretaket vurdere tiltak som kan iverksettes for å øke den ansvarlige kapitalen eller redusere risikoprofilen slik at solvenskapitalkravet oppfylles. Vurderingen skal sendes Finanstilsynet.</ledd>
+        <ledd id="/kapittel/6/paragraf/25/ledd/4">(4) Foretak som benytter volatilitetsjustering skal ha skriftlige retningslinjer som omfatter kriteriene for anvendelse av slik justering.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/26" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k6/p26">
+        <pverdi>§ 26.</pverdi>
+        <ptittel>Egenvurdering av risiko og solvens</ptittel>
+        <ledd id="/kapittel/6/paragraf/26/ledd/1">(1) I vurderingen i henhold til finansforetaksloven § 13-6 sjette ledd, skal forsikringsforetaket gjøre rede for metoder og prosesser foretaket benytter for å påvise og vurdere risikoer.</ledd>
+        <ledd id="/kapittel/6/paragraf/26/ledd/2">(2) Hvis foretaket anvender volatilitets- eller matching-justering eller overgangsbestemmelse for forsikringstekniske avsetninger, skal egenvurderingen også omfatte en vurdering av hvordan kravene ville ha vært oppfylt uten slike tilpasninger.</ledd>
+        <ledd id="/kapittel/6/paragraf/26/ledd/3">(3) Egenvurderingen skal gjennomføres umiddelbart ved vesentlige endringer i foretakets risikoprofil.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/27" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k6/p27">
+        <pverdi>§ 27.</pverdi>
+        <ptittel>Risikostyringsfunksjonen</ptittel>
+        <ledd id="/kapittel/6/paragraf/27/ledd/1">(1) Hvis forsikringsforetaket benytter en intern modell for beregning av kapitalkravet, skal den uavhengige kontrollfunksjonen med ansvar for risikostyring (risikostyringsfunksjonen) ha ansvar for
+<liste id="/kapittel/6/paragraf/27/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/6/paragraf/27/ledd/1/liste/a/avsnitt/1">utforming og bruk av modellen,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/27/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/6/paragraf/27/ledd/1/liste/b/avsnitt/1">uavhengig testing og etterprøving av modellen,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/27/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/6/paragraf/27/ledd/1/liste/c/avsnitt/1">dokumentasjon av modellen og av eventuelle påfølgende endringer av denne,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/27/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/6/paragraf/27/ledd/1/liste/d/avsnitt/1">analyser av modellen og utarbeidelse av resultatrapportering, og</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/27/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/6/paragraf/27/ledd/1/liste/e/avsnitt/1">rapportering til styret og ledelsen om modellens funksjon, forslag til forbedringer og om status for eventuelle utbedringer.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/28" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k6/p28">
+        <pverdi>§ 28.</pverdi>
+        <ptittel>Aktuarfunksjonen</ptittel>
+        <ledd id="/kapittel/6/paragraf/28/ledd/1">(1) Den uavhengige kontrollfunksjonen med ansvar for aktuarfaglige oppgaver (aktuarfunksjonen) skal utføres av personer som har kunnskap om forsikringsteknisk og finansiell matematikk på et nivå som står i forhold til arten, omfanget og kompleksiteten av risikoene i virksomheten og som kan godtgjøre at de har relevant erfaring med gjeldende faglige standarder.</ledd>
+        <ledd id="/kapittel/6/paragraf/28/ledd/2">(2) Aktuarfunksjonen skal
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/a/avsnitt/1">samordne beregningen av forsikringstekniske avsetninger,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/b/avsnitt/1">sikre at metoder, modeller og forutsetninger i beregningen av forsikringstekniske avsetninger er hensiktsmessige,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/c/avsnitt/1">vurdere om dataene som benyttes i beregningen av forsikringstekniske avsetninger er tilstrekkelige og av nødvendig kvalitet,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/d/avsnitt/1">sammenlikne beste estimat mot foretakets erfaringer,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/e/avsnitt/1">informere styret og ledelsen om hvorvidt beregningen av forsikringstekniske avsetninger er pålitelige og tilstrekkelige,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/f/avsnitt/1">etterprøve forenklede beregninger av beste estimat som er basert på tilnærmede verdier (approksimasjoner) og individuelle vurderinger av meldte skadetilfeller (saksavsetninger),</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/g/avsnitt/1">uttale seg om foretakets retningslinjer for tegning av forsikringer,</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/h/avsnitt/1">uttale seg om foretakets gjenforsikringsordninger er tilstrekkelige, og</avsnitt></liste>
+<liste id="/kapittel/6/paragraf/28/ledd/2/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/6/paragraf/28/ledd/2/liste/i/avsnitt/1">bidra til effektiv gjennomføring av risikostyringssystemet, særlig med hensyn til risikomodelleringen som danner grunnlaget for beregningen av solvenskapitalkravet og egenvurderingen av foretakets kapitalbehov.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/29" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k6/p29">
+        <pverdi>§ 29.</pverdi>
+        <ptittel>Melding om brudd på kravene til egnethet</ptittel>
+        <ledd id="/kapittel/6/paragraf/29/ledd/1">(1) Forsikringsforetak skal gi særskilt melding til Finanstilsynet i tilfeller der personer som nevnt i finansforetaksloven § 3-1 fjerde ledd er skiftet ut fordi de ikke lenger oppfyller kravene til egnethet i loven § 3-5.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/7" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k7">
+      <kverdi>Kapittel 7</kverdi>
+      <ktittel>Kapitalkravstillegg</ktittel>
+      <paragraf id="/kapittel/7/paragraf/30" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k7/p30">
+        <pverdi>§ 30.</pverdi>
+        <ptittel>Kapitalkravstillegg</ptittel>
+        <ledd id="/kapittel/7/paragraf/30/ledd/1">(1) Hvis forsikringsforetak anvender volatilitets- eller matching-justering eller benytter overgangsbestemmelse for forsikringstekniske avsetninger, kan Finanstilsynet pålegge foretaket å ha høyere ansvarlig kapital dersom foretakets risikoprofil avviker vesentlig fra forutsetningene lagt til grunn for forannevnte justeringer eller overgangsbestemmelse.</ledd>
+        <ledd id="/kapittel/7/paragraf/30/ledd/2">(2) Solvenskapitalkravene som anvendes i beregningen av risikomarginen, skal ikke omfatte kapitalkravstillegg som er pålagt med hjemmel i finansforetaksloven § 14-13 tredje ledd bokstav c.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/8" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k8">
+      <kverdi>Kapittel 8</kverdi>
+      <ktittel>Forsikringsforetak med svekket finansiell stilling</ktittel>
+      <paragraf id="/kapittel/8/paragraf/31" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k8/p31">
+        <pverdi>§ 31.</pverdi>
+        <ptittel>Plan ved manglende oppfyllelse av kapitalkravene</ptittel>
+        <ledd id="/kapittel/8/paragraf/31/ledd/1">(1) Ved manglende oppfyllelse av solvenskapitalkravet eller minstekapitalkravet skal forsikringsforetaket uten ugrunnet opphold legge frem en gjenopprettingsplan. Planen skal godkjennes av Finanstilsynet.</ledd>
+        <ledd id="/kapittel/8/paragraf/31/ledd/2">(2) Planen skal være realistisk og minst inneholde følgende opplysninger:
+<liste id="/kapittel/8/paragraf/31/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/8/paragraf/31/ledd/2/liste/a/avsnitt/1">anslag over administrasjonskostnader, herunder løpende generelle kostnader og provisjoner,</avsnitt></liste>
+<liste id="/kapittel/8/paragraf/31/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/8/paragraf/31/ledd/2/liste/b/avsnitt/1">anslag over inntekter og utgifter for direkte forsikringsvirksomhet samt mottatt og avgitt gjenforsikring,</avsnitt></liste>
+<liste id="/kapittel/8/paragraf/31/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/8/paragraf/31/ledd/2/liste/c/avsnitt/1">prognose for balansen,</avsnitt></liste>
+<liste id="/kapittel/8/paragraf/31/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/8/paragraf/31/ledd/2/liste/d/avsnitt/1">anslag over de økonomiske midlene som skal dekke forsikringstekniske avsetninger, solvenskapitalkrav og minstekapitalkrav, og</avsnitt></liste>
+<liste id="/kapittel/8/paragraf/31/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/8/paragraf/31/ledd/2/liste/e/avsnitt/1">det samlede gjenforsikringsprogrammet.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/8/paragraf/32" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k8/p32">
+        <pverdi>§ 32.</pverdi>
+        <ptittel>Dispensasjon fra solvenskapitalkravet</ptittel>
+        <ledd id="/kapittel/8/paragraf/32/ledd/1">(1) Forsikringsforetak kan gis dispensasjon fra solvenskapitalkravet i inntil seks måneder når dette er nødvendig for å gjenopprette solvenssituasjonen. Finanstilsynet kan forlenge dispensasjonen i inntil tre måneder eller i særskilte tilfeller gi lengre frist for å oppfylle solvenskapitalkravet.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/9" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k9">
+      <kverdi>Kapittel 9</kverdi>
+      <ktittel>Informasjon til markedet</ktittel>
+      <paragraf id="/kapittel/9/paragraf/33" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k9/p33">
+        <pverdi>§ 33.</pverdi>
+        <ptittel>Forsikringsforetakets årlige rapport om solvens og finansiell stilling, systemer og rutiner for offentliggjøring mv.</ptittel>
+        <ledd id="/kapittel/9/paragraf/33/ledd/1">(1) Forsikringsforetaket kan i sin årlige offentlige rapport om solvens og finansiell stilling henvise til opplysninger som er offentliggjort i henhold til lov eller forskrift.</ledd>
+        <ledd id="/kapittel/9/paragraf/33/ledd/2">(2) Foretaket skal ha systemer og rutiner for å sikre etterlevelse av informasjonsplikten etter finansforetaksloven § 14-12. Foretaket skal i tillegg ha retningslinjer som skal bidra til å sikre at informasjon som offentliggjøres er hensiktsmessig.</ledd>
+        <ledd id="/kapittel/9/paragraf/33/ledd/3">(3) Rapporten om foretakets solvens og finansielle stilling skal godkjennes av styret før den offentliggjøres.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/34" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k9/p34">
+        <pverdi>§ 34.</pverdi>
+        <ptittel>Unntak fra kravet til offentliggjøring av informasjon</ptittel>
+        <ledd id="/kapittel/9/paragraf/34/ledd/1">(1) Finanstilsynet kan gjøre unntak fra kravet i finansforetaksloven § 14-12 om offentliggjøring av informasjon for enkelte opplysninger hvis
+<liste id="/kapittel/9/paragraf/34/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/9/paragraf/34/ledd/1/liste/a/avsnitt/1">offentliggjøring vil gi foretakets konkurrenter betydelige og urimelige konkurransefortrinn, eller</avsnitt></liste>
+<liste id="/kapittel/9/paragraf/34/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/9/paragraf/34/ledd/1/liste/b/avsnitt/1">opplysningene er underlagt taushetsplikt.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/9/paragraf/34/ledd/2">(2) Hvis foretaket gis tillatelse til ikke å offentliggjøre visse opplysninger, skal foretaket avgi en begrunnet erklæring om dette i sin rapport om solvens og finansiell stilling.</ledd>
+        <ledd id="/kapittel/9/paragraf/34/ledd/3">(3) Første ledd gjelder ikke for opplysninger om foretakets kapitalforhold.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/10" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k10">
+      <kverdi>Kapittel 10</kverdi>
+      <ktittel>Rapportering til Finanstilsynet</ktittel>
+      <paragraf id="/kapittel/10/paragraf/35" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k10/p35">
+        <pverdi>§ 35.</pverdi>
+        <ptittel>Systemer og rutiner for rapportering til Finanstilsynet</ptittel>
+        <ledd id="/kapittel/10/paragraf/35/ledd/1">(1) Forsikringsforetaket skal ha systemer og rutiner for å sikre etterlevelse av foretakets rapporteringsforpliktelser til Finanstilsynet. Foretaket skal i tillegg ha styregodkjente retningslinjer som skal bidra til å sikre at informasjon som oversendes Finanstilsynet til enhver tid er hensiktsmessig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/36" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k10/p36">
+        <pverdi>§ 36.</pverdi>
+        <ptittel>Begrensninger i rapporteringsfrekvens</ptittel>
+        <ledd id="/kapittel/10/paragraf/36/ledd/1">(1) Finanstilsynet kan gjøre unntak fra kravet om kvartalsvis rapportering for forsikringsforetak hvis
+<liste id="/kapittel/10/paragraf/36/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/10/paragraf/36/ledd/1/liste/a/avsnitt/1">innrapporteringen av opplysningene vil være uforholdsmessig sett i forhold til arten, omfanget og kompleksiteten av de risikoer som knytter seg til foretakets eller gruppens virksomhet, og</avsnitt></liste>
+<liste id="/kapittel/10/paragraf/36/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/10/paragraf/36/ledd/1/liste/b/avsnitt/1">opplysningene oversendes Finanstilsynet minst årlig.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/37" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k10/p37">
+        <pverdi>§ 37.</pverdi>
+        <ptittel>Unntak fra rapporteringskrav</ptittel>
+        <ledd id="/kapittel/10/paragraf/37/ledd/1">(1) Finanstilsynet kan gjøre unntak fra kravene i den regelmessige tilsynsrapporteringen eller gjøre helt unntak fra krav om å sende inn detaljerte oppgaver (post-for-post-rapportering) hvis
+<liste id="/kapittel/10/paragraf/37/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/10/paragraf/37/ledd/1/liste/a/avsnitt/1">rapporteringen av opplysningene vil være uforholdsmessig sett i forhold til arten, omfanget og kompleksiteten av de risikoer som knytter seg til virksomheten,</avsnitt></liste>
+<liste id="/kapittel/10/paragraf/37/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/10/paragraf/37/ledd/1/liste/b/avsnitt/1">rapporteringen av de aktuelle opplysningene ikke er nødvendig for et effektivt tilsyn med foretaket,</avsnitt></liste>
+<liste id="/kapittel/10/paragraf/37/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/10/paragraf/37/ledd/1/liste/c/avsnitt/1">unntaket ikke undergraver stabiliteten av de berørte finansielle systemer i EØS, og</avsnitt></liste>
+<liste id="/kapittel/10/paragraf/37/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/10/paragraf/37/ledd/1/liste/d/avsnitt/1">foretaket kan fremlegge opplysningene på forespørsel.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/11" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11">
+      <kverdi>Kapittel 11</kverdi>
+      <ktittel>Forsikringsgrupper</ktittel>
+      <paragraf id="/kapittel/11/paragraf/38" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p38">
+        <pverdi>§ 38.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/11/paragraf/38/ledd/1">(1) Bestemmelsene i dette kapittel gjelder
+<liste id="/kapittel/11/paragraf/38/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/11/paragraf/38/ledd/1/liste/a/avsnitt/1">forsikringsforetak som er morselskap til eller har deltakerinteresser i eller er underlagt felles ledelse med minst ett annet forsikringsforetak, og</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/38/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/11/paragraf/38/ledd/1/liste/b/avsnitt/1">forsikringsforetak der morselskapet er et holdingforetak i finanskonsern i EØS.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/11/paragraf/38/ledd/2">(2) Finanstilsynet kan bestemme at regler i dette kapittelet også skal gjelde forsikringsforetak der morselskapet er et holdingforetak i finanskonsern eller et forsikringsforetak utenfor EØS og for morselskap som nevnt i finansforetaksloven § 17-6 annet ledd bokstav c.</ledd>
+        <ledd id="/kapittel/11/paragraf/38/ledd/3">(3) Som deltakerinteresser regnes foretak som har direkte eller indirekte eierandel på 20 prosent eller mer av stemmene eller kapitalen i et annet foretak.</ledd>
+        <ledd id="/kapittel/11/paragraf/38/ledd/4">(4) Finanstilsynet kan beslutte at foretak som anses å utøve dominerende innflytelse over et annet foretak på annen måte enn gjennom eierandeler, skal anses som morselskap.</ledd>
+        <ledd id="/kapittel/11/paragraf/38/ledd/5">(5) Finanstilsynet kan beslutte at foretak som gjennom stemmeretter eller kapital anses å utøve vesentlig innflytelse over et annet foretak, skal anses å ha deltakerinteresser selv om eierandelen er lavere enn 20 prosent.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/39" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p39">
+        <pverdi>§ 39.</pverdi>
+        <ptittel>Unntak fra virkeområdet</ptittel>
+        <ledd id="/kapittel/11/paragraf/39/ledd/1">(1) Bestemmelsene i dette kapittelet gjelder ikke foretak som nevnt i § 38 første ledd som selv er datterforetak til et annet forsikringsforetak eller annet holdingforetak i finanskonsern med hovedkontor i en EØS-stat.</ledd>
+        <ledd id="/kapittel/11/paragraf/39/ledd/2">(2) Finanstilsynet kan bestemme at reglene i dette kapittel ikke får anvendelse for holdingforetak i finanskonsern som i tillegg til å eie forsikringsforetak også eier annet finansforetak, hvis holdingforetaket er underlagt tilsvarende regler på gruppenivå.</ledd>
+        <ledd id="/kapittel/11/paragraf/39/ledd/3">(3) Finanstilsynet kan bestemme at et foretak ikke skal omfattes av gruppetilsynet når
+<liste id="/kapittel/11/paragraf/39/ledd/3/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/11/paragraf/39/ledd/3/liste/a/avsnitt/1">foretaket har forretningskontor i en tredjestat der det foreligger rettslige hindringer for overføring av nødvendige opplysninger,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/39/ledd/3/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/11/paragraf/39/ledd/3/liste/b/avsnitt/1">foretaket har ubetydelig interesse med hensyn til formålene med gruppetilsynet, eller</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/39/ledd/3/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/11/paragraf/39/ledd/3/liste/c/avsnitt/1">innlemmingen av foretaket ville være uhensiktsmessig eller villedende med hensyn til formålene for gruppetilsyn.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/40" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p40">
+        <pverdi>§ 40.</pverdi>
+        <ptittel>Tilsyn med undergruppe</ptittel>
+        <ledd id="/kapittel/11/paragraf/40/ledd/1">(1) Finanstilsynet kan beslutte at bestemmelsene om
+<liste id="/kapittel/11/paragraf/40/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/11/paragraf/40/ledd/1/liste/a/avsnitt/1">gruppesolvens,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/40/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/11/paragraf/40/ledd/1/liste/b/avsnitt/1">risikokonsentrasjon og gruppeinterne transaksjoner og</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/40/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/11/paragraf/40/ledd/1/liste/c/avsnitt/1">risikostyring og internkontroll</avsnitt></liste>
+<marg niv="2" id="/kapittel/11/paragraf/40/ledd/1/liste/c/avsnitt/1/marg/1">helt eller delvis også skal få anvendelse for forsikringsforetak som selv er datterforetak til et annet forsikringsforetak eller annet holdingforetak i finanskonsern med hovedkontor i annen stat i EØS.</marg></ledd>
+        <ledd id="/kapittel/11/paragraf/40/ledd/2">(2) Finanstilsynet kan bestemme at beregning av gruppesolvens skal foretas etter en metode og ved bruk av en intern modell som er godkjent i annen EØS-stat.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/41" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p41">
+        <pverdi>§ 41.</pverdi>
+        <ptittel>Gruppesolvens</ptittel>
+        <ledd id="/kapittel/11/paragraf/41/ledd/1">(1) Ved beregningen av gruppesolvens skal holdingforetak som omtalt i § 38 første ledd bokstav b, anses som et forsikringsforetak.</ledd>
+        <ledd id="/kapittel/11/paragraf/41/ledd/2">(2) Bestemmelsene gitt i eller i medhold av finansforetaksloven § 14-8 første ledd og § 14-9, § 14-10 og § 14-14 første ledd skal oppfylles på gruppenivå.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/42" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p42">
+        <pverdi>§ 42.</pverdi>
+        <ptittel>Konsolideringsregler mv.</ptittel>
+        <ledd id="/kapittel/11/paragraf/42/ledd/1">(1) Gruppesolvensen skal beregnes i samsvar med finansforetaksloven § 18-2 og prinsippene i annet ledd samt § 43 til § 47. Hvis regnskapsmessig konsolidering ikke anses hensiktsmessig, kan Finanstilsynet bestemme at gruppesolvensen helt eller delvis skal beregnes etter en alternativ metode.</ledd>
+        <ledd id="/kapittel/11/paragraf/42/ledd/2">(2) Finanstilsynet kan fastsette prosentandelen som skal inngå ved konsolidering for foretak med felles ledelse og for foretak som er omfattet av gruppetilsyn etter § 38 fjerde og femte ledd.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/43" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p43">
+        <pverdi>§ 43.</pverdi>
+        <ptittel>Eliminering av intern finansiering av ansvarlig kapital</ptittel>
+        <ledd id="/kapittel/11/paragraf/43/ledd/1">(1) Verdien av eiendeler i et foretak innenfor en gruppe som representerer finansiering av tellende ansvarlig kapital i et forsikringsforetak i gruppen, skal trekkes fra ved beregning av gruppesolvens.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/44" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p44">
+        <pverdi>§ 44.</pverdi>
+        <ptittel>Overførbarhet av ansvarlig kapital</ptittel>
+        <ledd id="/kapittel/11/paragraf/44/ledd/1">(1) Ansvarlig kapital i et tilknyttet foretak som etter Finanstilsynets vurdering ikke kan gjøres tilgjengelig for å dekke solvenskapitalkravet på gruppenivå, kan bare inngå i beregningen av gruppesolvens i den utstrekning kapitalen kan dekke solvenskapitalkravet i det tilknyttede forsikringsforetaket.</ledd>
+        <ledd id="/kapittel/11/paragraf/44/ledd/2">(2) Tegnede, men ikke innbetalte, kapitalandeler som dekker solvenskapitalkravet i et tilknyttet forsikringsforetak, kan inngå i beregningen av gruppesolvens med mindre de utgjør mulige forpliktelser for et annet forsikringsforetak i gruppen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/45" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p45">
+        <pverdi>§ 45.</pverdi>
+        <ptittel>Bruk av beregningsmetoder</ptittel>
+        <ledd id="/kapittel/11/paragraf/45/ledd/1">(1) Gruppesolvensen skal omfatte alle foretak som inngår i en gruppe. Mellomliggende holdingforetak skal i denne sammenheng anses som forsikringsforetak slik at reglene gitt i eller i medhold av finansforetaksloven § 14-8 første ledd, § 14-9 og § 14-10 får tilsvarende anvendelse for det mellomliggende holdingforetaket.</ledd>
+        <ledd id="/kapittel/11/paragraf/45/ledd/2">(2) Hvis et tilknyttet forsikringsforetak har sitt hovedkontor i annen EØS-stat, skal beregningen ta hensyn til solvenskapitalkravet og den tellende ansvarlige kapitalen som er fastsatt i denne staten med mindre annet er fastsatt av Finanstilsynet.</ledd>
+        <ledd id="/kapittel/11/paragraf/45/ledd/3">(3) Hvis et tilknyttet forsikringsforetak har sitt hovedkontor i stat utenfor EØS, skal reglene i første ledd gjelde med mindre annet er fastsatt av Finanstilsynet.</ledd>
+        <ledd id="/kapittel/11/paragraf/45/ledd/4">(4) Hvis et tilknyttet foretak er verdipapirforetak eller finansforetak som ikke er forsikringsforetak eller pensjonsforetak skal gruppesolvensen beregnes etter metode 1 eller metode 2 i Anneks I til direktiv 2002/87/EF (konglomeratdirektivet), med mindre Finanstilsynet beslutter at det skal gjøres fradrag for verdien av deltakerinteressen i den ansvarlige kapitalen for gruppen.</ledd>
+        <ledd id="/kapittel/11/paragraf/45/ledd/5">(5) Hvis det ikke foreligger tilstrekkelig informasjon om foretak som skal inkluderes i beregningen av gruppesolvens, skal den balanseførte verdien av investeringen trekkes fra i den ansvarlige kapitalen som kan inngå i gruppesolvensen. Urealiserte gevinster tilknyttet slik investering skal ikke inngå i ansvarlig kapital.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/46" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p46">
+        <pverdi>§ 46.</pverdi>
+        <ptittel>Metode for beregning av gruppesolvens</ptittel>
+        <ledd id="/kapittel/11/paragraf/46/ledd/1">(1) Solvenskapitalkravet på gruppenivå basert på konsoliderte data skal beregnes etter standardmetoden eller en godkjent intern modell for gruppen.</ledd>
+        <ledd id="/kapittel/11/paragraf/46/ledd/2">(2) Gruppens konsoliderte solvenskapitalkrav skal minst beløpe seg til summen av den forholdsmessige andelen av minstekapitalkravet for foretak som inngår i gruppen.</ledd>
+        <ledd id="/kapittel/11/paragraf/46/ledd/3">(3) Minstekravet i henhold til annet ledd skal dekkes av ansvarlig kapital fra kapitalgruppe 1 og 2. Prinsippene i § 42 til § 45 får tilsvarende anvendelse. Reglene i finansforetaksloven § 14-14 første ledd gjelder tilsvarende.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/47" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p47">
+        <pverdi>§ 47.</pverdi>
+        <ptittel>Kapitalkravstillegg på gruppenivå</ptittel>
+        <ledd id="/kapittel/11/paragraf/47/ledd/1">(1) Hvis gruppens konsoliderte solvenskapitalkrav ikke gir et tilfredsstillende bilde av gruppens risikoprofil, kan Finanstilsynet pålegge kapitalkravstillegg i samsvar med bestemmelser gitt i eller i medhold av finansforetaksloven § 14-13 tredje ledd.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/48" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p48">
+        <pverdi>§ 48.</pverdi>
+        <ptittel>Tilsyn med grupper som har sentralisert risikostyring</ptittel>
+        <ledd id="/kapittel/11/paragraf/48/ledd/1">(1) Forsikringsforetak som er datterforetak av et annet forsikringsforetak, kan underlegges særskilt gruppetilsyn etter EØS-regler som svarer til artikkel 238 og 239 i direktiv 2009/138/EF hvis følgende vilkår er oppfylt:
+<liste id="/kapittel/11/paragraf/48/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/11/paragraf/48/ledd/1/liste/a/avsnitt/1">Systemet for risikostyring og internkontroll i morselskapet dekker virksomheten i datterforetaket og morselskapet anses å utøve forsvarlig virksomhetsstyring i datterforetaket.</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/48/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/11/paragraf/48/ledd/1/liste/b/avsnitt/1">Morselskapet har fått tillatelse til å rapportere egenvurderingen av risiko og solvens samlet.</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/48/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/11/paragraf/48/ledd/1/liste/c/avsnitt/1">Morselskapet har fått tillatelse til å utferdige én rapport om solvens og finansiell stilling.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/11/paragraf/48/ledd/2">(2) Søknad skal sendes tilsynsmyndigheten for datterforetaket. Finanstilsynet skal behandle søknader fra morselskap med datterforetak som er hjemmehørende i Norge og fremlegge denne for Finansdepartementet for endelig avgjørelse.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/49" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p49">
+        <pverdi>§ 49.</pverdi>
+        <ptittel>Rapportering om risikokonsentrasjon og transaksjoner innenfor en gruppe</ptittel>
+        <ledd id="/kapittel/11/paragraf/49/ledd/1">(1) Forsikringsforetak som nevnt i § 38 første ledd skal minst årlig avgi en rapport til Finanstilsynet om enhver signifikant risikokonsentrasjon på gruppenivå samt alle signifikante transaksjoner mellom forsikringsforetak i gruppen og transaksjoner som er gjennomført med en fysisk person med nære forbindelser til gruppen. Særlig signifikante transaksjoner skal meldes uten ugrunnet opphold.</ledd>
+        <ledd id="/kapittel/11/paragraf/49/ledd/2">(2) Finanstilsynet kan bestemme hvilke typer risikoer og hvilke typer transaksjoner en bestemt gruppe under enhver omstendighet skal rapportere, herunder unnta foretak fra rapporteringsplikt etter første ledd.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/50" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p50">
+        <pverdi>§ 50.</pverdi>
+        <ptittel>Risikostyring og internkontroll på gruppenivå</ptittel>
+        <ledd id="/kapittel/11/paragraf/50/ledd/1">(1) Bestemmelser gitt i eller i medhold av finansforetaksloven § 13-5 til § 13-8 skal oppfylles på gruppenivå.</ledd>
+        <ledd id="/kapittel/11/paragraf/50/ledd/2">(2) Finanstilsynet kan tillate at egenvurderingen av risiko og solvens på gruppenivå samordnes med vurderingen i et datterforetak i gruppen og rapporteres i ett felles dokument som inneholder alle vurderinger. Tillatelse til å sende en felles egenvurdering medfører ingen lempinger i det enkelte forsikringsforetaks plikt til å sikre at kravene til egenvurdering er oppfylt.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/51" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p51">
+        <pverdi>§ 51.</pverdi>
+        <ptittel>Rapportering til markedet</ptittel>
+        <ledd id="/kapittel/11/paragraf/51/ledd/1">(1) Bestemmelsene gitt i eller i medhold av finansforetaksloven § 14-12 skal oppfylles på gruppenivå.</ledd>
+        <ledd id="/kapittel/11/paragraf/51/ledd/2">(2) Finanstilsynet kan tillate at det utarbeides en samlet rapport som skal inneholde opplysninger om gruppens solvens og finansielle stilling samt opplysninger om ethvert datterforetak i gruppen, som skal identifiseres individuelt.</ledd>
+        <ledd id="/kapittel/11/paragraf/51/ledd/3">(3) Hvis en samlet rapport som nevnt i annet ledd ikke inneholder tilstrekkelige opplysninger om et datterforetak og utelatelsen anses som vesentlig, kan Finanstilsynet kreve at datterforetaket offentliggjør de nødvendige tilleggsopplysninger.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/52" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k11/p52">
+        <pverdi>§ 52.</pverdi>
+        <ptittel>Offentliggjøring av gruppestruktur</ptittel>
+        <ledd id="/kapittel/11/paragraf/52/ledd/1">(1) Foretak som nevnt i § 38 første ledd skal årlig offentliggjøre den juridiske foretaksstrukturen samt ledelses- og organisasjonsstrukturen, herunder en beskrivelse av alle datterforetak, vesentlige tilknyttede virksomheter og betydelige underavdelinger i gruppen.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/12" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k12">
+      <kverdi>Kapittel 12</kverdi>
+      <ktittel>Gjennomføring av kommisjonsforordning</ktittel>
+      <paragraf id="/kapittel/12/paragraf/53" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k12/p53">
+        <pverdi>§ 53.</pverdi>
+        <ptittel>Gjennomføring av kommisjonsforordning (EU) 2015/35</ptittel>
+        <ledd id="/kapittel/12/paragraf/53/ledd/1">(1) Finanstilsynet kan fastsette forskrift som tilsvarer reglene i kommisjonsforordning (EU) 2015/35 av 10. oktober 2014 om supplerende regler til direktiv 2009/138/EF (Solvens II-direktivet), med nødvendige tilpasninger.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/13" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13">
+      <kverdi>Kapittel 13</kverdi>
+      <ktittel>Ikrafttreden, overgangsbestemmelser mv.</ktittel>
+      <paragraf id="/kapittel/13/paragraf/54" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p54">
+        <pverdi>§ 54.</pverdi>
+        <ptittel>Ikrafttreden</ptittel>
+        <ledd id="/kapittel/13/paragraf/54/ledd/1">(1) Forskriften trer i kraft 1. januar 2016.</ledd>
+        <ledd id="/kapittel/13/paragraf/54/ledd/2">(2) Finanstilsynet kan fra dato for fastsettelsen av forskriften her fatte vedtak om godkjenning av
+<liste id="/kapittel/13/paragraf/54/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/13/paragraf/54/ledd/2/liste/a/avsnitt/1">supplerende kapital, jf. finansforetaksloven § 14-9 annet ledd og nærmere regler i forskrift fastsatt av Finanstilsynet,</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/54/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/13/paragraf/54/ledd/2/liste/b/avsnitt/1">klassifisering av kapitalposter etter § 6 sjette ledd,</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/54/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/13/paragraf/54/ledd/2/liste/c/avsnitt/1">bruk av foretaksspesifikke parametere etter § 8 tredje ledd,</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/54/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/13/paragraf/54/ledd/2/liste/d/avsnitt/1">bruk av full eller partiell intern modell etter § 10 første ledd og § 11 første ledd,</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/54/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/13/paragraf/54/ledd/2/liste/e/avsnitt/1">spesialforetak som har til formål å overta forsikringsrisiko, jf. finansforetaksloven § 2-12 fjerde ledd og nærmere regler i forskrift fastsatt av Finanstilsynet, og</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/54/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/13/paragraf/54/ledd/2/liste/f/avsnitt/1">bruk av overgangsbestemmelsen for forsikringstekniske avsetninger i § 56.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/13/paragraf/54/ledd/3">(3) Finanstilsynet kan fra dato for fastsettelse av forskriften her fatte vedtak om anvendelsen av reglene om forsikringsgrupper, jf. § 38 og § 39.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/55" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p55">
+        <pverdi>§ 55.</pverdi>
+        <ptittel>Unntak for forsikringsforetak under avvikling</ptittel>
+        <ledd id="/kapittel/13/paragraf/55/ledd/1">(1) Finanstilsynet kan unnta forsikringsforetak som ikke inngår nye forsikringsavtaler etter 1. januar 2016, fra reglene gitt i eller i medhold av finansforetaksloven § 13-5 annet ledd, § 13-6 sjette ledd, § 13-8 og § 14-7 til § 14-12.</ledd>
+        <ledd id="/kapittel/13/paragraf/55/ledd/2">(2) Unntak kan ikke gis til foretak som er del av en gruppe, med mindre alle foretak i gruppen er under avvikling.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/56" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p56">
+        <pverdi>§ 56.</pverdi>
+        <ptittel>Forsikringstekniske avsetninger</ptittel>
+        <ledd id="/kapittel/13/paragraf/56/ledd/1">(1) Finanstilsynet kan godkjenne at livsforsikringsforetak frem til og med 31. desember 2031 reduserer verdien av forsikringstekniske avsetninger etter finansforetaksloven § 14-8. Reduksjonen skal tilsvare en andel av differansen mellom
+<liste id="/kapittel/13/paragraf/56/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/13/paragraf/56/ledd/1/liste/a/avsnitt/1">forsikringstekniske avsetninger for livsforsikringsvirksomheten beregnet etter reglene i finansforetaksloven § 14-8 med forskrifter, etter fradrag for beløp som kan innkreves i henhold til gjenforsikringsavtaler og fra spesialforetak som har til formål å overta forsikringsrisiko, og</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/56/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/13/paragraf/56/ledd/1/liste/b/avsnitt/1">summen av premiereserve, tilleggsavsetninger, kursreguleringsfond, premiefond, innskuddsfond og pensjonistenes overskuddsfond beregnet etter reglene i forsikringsvirksomhetsloven kapittel 3 med forskrifter,</avsnitt></liste>
+<marg niv="2" id="/kapittel/13/paragraf/56/ledd/1/liste/b/avsnitt/1/marg/1">for de tilfeller der beløpet nevnt i bokstav a er større enn beløpet nevnt i bokstav b.</marg></ledd>
+        <ledd id="/kapittel/13/paragraf/56/ledd/2">(2) Differansen i første ledd kan beregnes for likeartede risikogrupper.</ledd>
+        <ledd id="/kapittel/13/paragraf/56/ledd/3">(3) Den maksimale reduksjonen etter første ledd skal avtrappes lineært ved begynnelsen av hvert år, fra 100 prosent 1. januar 2016 til 0 prosent 1. januar 2032.</ledd>
+        <ledd id="/kapittel/13/paragraf/56/ledd/4">(4) Reduksjonen i første ledd skal ikke være større enn at livsforsikringsforetakets forsikringstekniske avsetninger minst tilsvarer det laveste av beløpet nevnt i første ledd bokstav a og beløpet nevnt i første ledd bokstav b.</ledd>
+        <ledd id="/kapittel/13/paragraf/56/ledd/5">(5) Beløpet i første ledd bokstav a skal beregnes med en volatilitetsjustering, hvis forsikringsforetaket benytter en slik justering.</ledd>
+        <ledd id="/kapittel/13/paragraf/56/ledd/6">(6) Differansen i første ledd skal beregnes på nytt ved utgangen av hvert år. Finanstilsynet kan etter søknad eller ved pålegg fastsette hyppigere beregning.</ledd>
+        <ledd id="/kapittel/13/paragraf/56/ledd/7">(7) Hvis forsikringsforetaket ikke oppfyller solvenskapitalkravet uten bruk av overgangsbestemmelsen, skal det umiddelbart informere Finanstilsynet om dette og oversende en plan over tiltak for å sikre at solvenskapitalkravet oppfylles innen 1. januar 2032. Foretaket skal årlig oversende en rapport til Finanstilsynet med beskrivelse av gjennomførte tiltak og fremdrift med hensyn til å oppfylle solvenskapitalkravet innen 1. januar 2032.</ledd>
+        <ledd id="/kapittel/13/paragraf/56/ledd/8">(8) Finanstilsynet skal trekke tilbake tillatelsen til å benytte overgangsbestemmelsen hvis den fremlagte rapporten viser at det er urealistisk at foretaket vil oppfylle solvenskapitalkravet ved utgangen av overgangsperioden.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/57" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p57">
+        <pverdi>§ 57.</pverdi>
+        <ptittel>Ansvarlig kapital</ptittel>
+        <ledd id="/kapittel/13/paragraf/57/ledd/1">(1) Ansvarlige lån uten fastsatt løpetid skal inngå i kapitalgruppe 1 frem til og med 31. desember 2025, hvis de er godkjent som tilleggskapital til dekning av inntil 50 prosent av det laveste av solvensmarginkravet og solvensmarginkapitalen ved utgangen av 2015.</ledd>
+        <ledd id="/kapittel/13/paragraf/57/ledd/2">(2) Ansvarlige lån med fastsatt løpetid skal inngå i kapitalgruppe 2 frem til og med 31. desember 2025, hvis de er godkjent som tilleggskapital til dekning av inntil 25 prosent av det laveste av solvensmarginkravet og solvensmarginkapitalen ved utgangen av 2015.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/58" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p58">
+        <pverdi>§ 58.</pverdi>
+        <ptittel>Solvenskapitalkravet etter standardmetoden</ptittel>
+        <ledd id="/kapittel/13/paragraf/58/ledd/1">(1) I 2016 og 2017 skal det ikke beregnes solvenskapitalkrav etter standardmetoden for kredittmarginrisiko og konsentrasjonsrisiko for eksponeringer mot stater eller sentralbanker i EØS, hvis disse er denominert i valutaen til en annen EØS-stat. I 2018 skal solvenskapitalkravet for slike eksponeringer beregnes ved å redusere standardparameterne for beregning av kredittmarginrisiko og konsentrasjonsrisiko med 80 prosent. I 2019 skal solvenskapitalkravet for slike eksponeringer beregnes ved å redusere standardparameterne for beregning av kredittmarginrisiko og konsentrasjonsrisiko med 50 prosent.</ledd>
+        <ledd id="/kapittel/13/paragraf/58/ledd/2">(2) Forsikringsforetak kan i en overgangsperiode på inntil syv år beregne solvenskapitalkravet for aksjerisiko slik at det for aksjer ervervet den 1. januar 2016 eller tidligere benyttes et vektet gjennomsnitt av
+<liste id="/kapittel/13/paragraf/58/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/13/paragraf/58/ledd/2/liste/a/avsnitt/1">standardparameteren for den durasjonsbaserte undermodulen for aksjerisiko og</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/58/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/13/paragraf/58/ledd/2/liste/b/avsnitt/1">standardparameteren for aksjerisiko uten bruk av denne undermodulen.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/13/paragraf/58/ledd/3">Vekten for parameteren nevnt i bokstav b skal øke minst lineært ved begynnelsen av hvert år, fra 0 prosent 1. januar 2016 til 100 prosent 1. januar 2023.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/59" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p59">
+        <pverdi>§ 59.</pverdi>
+        <ptittel>Investeringer i verdipapiriserte lån</ptittel>
+        <ledd id="/kapittel/13/paragraf/59/ledd/1">(1) Utfyllende regler om forsvarlig kapitalforvaltning gitt i forskrift fastsatt av Finanstilsynet gjelder ikke for investeringer i verdipapiriserte lån som er utstedt før 1. januar 2011 og som ikke er tilført nye eksponeringer etter 31. desember 2014.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/60" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p60">
+        <pverdi>§ 60.</pverdi>
+        <ptittel>Forsikringsforetak med svekket finansiell stilling</ptittel>
+        <ledd id="/kapittel/13/paragraf/60/ledd/1">(1) Finanstilsynet kan gi tillatelse til at forsikringsforetak som oppfylte solvensmarginkravet pr. 31. desember 2015, men som ikke oppfyller solvenskapitalkravet i 2016, skal oppfylle solvenskapitalkravet innen 31. desember 2017.</ledd>
+        <ledd id="/kapittel/13/paragraf/60/ledd/2">(2) Foretaket skal hver tredje måned oversende en rapport til Finanstilsynet med beskrivelse av gjennomførte tiltak og fremdrift med hensyn til å oppfylle solvenskapitalkravet ved utgangen av overgangsperioden.</ledd>
+        <ledd id="/kapittel/13/paragraf/60/ledd/3">(3) Dersom den fremlagte rapporten viser at det ikke har vært signifikant fremgang med hensyn til å oppfylle solvenskapitalkravet, skal Finanstilsynet trekke tilbake tillatelsen gitt etter første ledd.</ledd>
+        <ledd id="/kapittel/13/paragraf/60/ledd/4">(4) Forsikringsforetak som oppfylte solvensmarginkravet pr. 31. desember 2015, men som ikke oppfyller minstekapitalkravet, skal oppfylle minstekapitalkravet innen 31. desember 2016.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/61" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p61">
+        <pverdi>§ 61.</pverdi>
+        <ptittel>Rapporteringsfrister</ptittel>
+        <ledd id="/kapittel/13/paragraf/61/ledd/1">(1) I perioden 1. januar 2016 til 31. desember 2018 gjelder følgende frister for forsikringsforetakets rapporteringsforpliktelser:
+<liste id="/kapittel/13/paragraf/61/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/13/paragraf/61/ledd/1/liste/a/avsnitt/1">Opplysninger som forsikringsforetaket skal oversende Finanstilsynet på årlig basis eller sjeldnere, skal oversendes senest</avsnitt><liste id="/kapittel/13/paragraf/61/ledd/1/liste/a.i"><lverdi>i)</lverdi><avsnitt id="/kapittel/13/paragraf/61/ledd/1/liste/a.i/avsnitt/1">20 uker etter regnskapsåret som avsluttes senest 31. desember 2016</avsnitt></liste><liste id="/kapittel/13/paragraf/61/ledd/1/liste/a.ii"><lverdi>ii)</lverdi><avsnitt id="/kapittel/13/paragraf/61/ledd/1/liste/a.ii/avsnitt/1">18 uker etter regnskapsåret som avsluttes senest 31. desember 2017</avsnitt></liste><liste id="/kapittel/13/paragraf/61/ledd/1/liste/a.iii"><lverdi>iii)</lverdi><avsnitt id="/kapittel/13/paragraf/61/ledd/1/liste/a.iii/avsnitt/1">16 uker etter regnskapsåret som avsluttes senest 31. desember 2018.</avsnitt></liste></liste>
+<liste id="/kapittel/13/paragraf/61/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/13/paragraf/61/ledd/1/liste/b/avsnitt/1">Opplysninger som forsikringsforetaket skal oversende Finanstilsynet hvert kvartal, skal oversendes senest</avsnitt><liste id="/kapittel/13/paragraf/61/ledd/1/liste/b.i"><lverdi>i)</lverdi><avsnitt id="/kapittel/13/paragraf/61/ledd/1/liste/b.i/avsnitt/1">8 uker etter kvartaler som avsluttes i 2016</avsnitt></liste><liste id="/kapittel/13/paragraf/61/ledd/1/liste/b.ii"><lverdi>ii)</lverdi><avsnitt id="/kapittel/13/paragraf/61/ledd/1/liste/b.ii/avsnitt/1">7 uker etter kvartaler som avsluttes i 2017</avsnitt></liste><liste id="/kapittel/13/paragraf/61/ledd/1/liste/b.iii"><lverdi>iii)</lverdi><avsnitt id="/kapittel/13/paragraf/61/ledd/1/liste/b.iii/avsnitt/1">6 uker etter kvartaler som avsluttes i 2018.</avsnitt></liste></liste>
+<liste id="/kapittel/13/paragraf/61/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/13/paragraf/61/ledd/1/liste/c/avsnitt/1">For forsikringsforetakets offentliggjøring av årlig rapport om solvens og finansiell stilling, jf. finansforetaksloven § 14-12, gjelder fristene i bokstav a) tilsvarende.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/13/paragraf/61/ledd/2">(2) For rapportering på gruppenivå forlenges fristene som nevnt i første ledd bokstav a) til c), med 6 uker.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/62" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p62">
+        <pverdi>§ 62.</pverdi>
+        <ptittel>Anvendelse av overgangsbestemmelsene på gruppenivå</ptittel>
+        <ledd id="/kapittel/13/paragraf/62/ledd/1">(1) Bestemmelsene i § 56, § 57, § 58, § 59 og § 60 første til tredje ledd gjelder tilsvarende for grupper.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/63" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/k13/p63">
+        <pverdi>§ 63.</pverdi>
+        <ptittel>Oppheving av forskrifter</ptittel>
+        <ledd id="/kapittel/13/paragraf/63/ledd/1">(1) Følgende forskrifter oppheves fra 1. januar 2016:
+<liste id="/kapittel/13/paragraf/63/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/13/paragraf/63/ledd/1/liste/a/avsnitt/1">Forskrift 10. mai 1991 nr. 301 om minstekrav til forsikringstekniske avsetninger og utarbeiding av risikostatistikk i skadeforsikring og gjenforsikring.</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/63/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/13/paragraf/63/ledd/1/liste/b/avsnitt/1">Forskrift 18. november 1992 nr. 1242 om minstekrav til forsikringstekniske avsetninger og utarbeiding av risikostatistikk i skadeforsikring og gjenforsikring (utfyllende).</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/63/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/13/paragraf/63/ledd/1/liste/c/avsnitt/1">Forskrift 19. mai 1995 nr. 482 om beregning av solvensmarginkrav og solvensmarginkapital for norske skadeforsikringsselskaper og gjenforsikringsselskaper.</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/63/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/13/paragraf/63/ledd/1/liste/d/avsnitt/1">Forskrift 19. desember 1996 nr. 1320 om forsikringstekniske avsetninger ved koassuranse i skadeforsikring innen EØS.</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/63/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/13/paragraf/63/ledd/1/liste/e/avsnitt/1">Forskrift 22. desember 2006 nr. 1616 om minstekrav til kapitaldekning i forsikringsselskaper, pensjonskasser, innskuddspensjonsforetak og holdingsselskap i forsikringskonsern.</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/63/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/13/paragraf/63/ledd/1/liste/f/avsnitt/1">Forskrift 17. desember 2007 nr. 1456 om skadeforsikringsselskapers kapitalforvaltning.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="vedlegg" id="/vedlegg/1" url="https://lovdata.no/lovtidend/forskrift/2015-08-25-999/v1">
+      <kverdi>Vedlegg 1</kverdi>
+      <ktittel>Standardmetoden for beregning av solvenskapitalkravet (SCR)</ktittel>
+      <ledd id="/vedlegg/1/ledd/1">Ved anvendelse av standardmetoden skal solvenskapitalkravet beregnes på følgende måte:
+<br/>
+<marg niv="1" id="/vedlegg/1/ledd/1/marg/1">SCR = BSCR + SCR<sub>OR</sub> + Adj<sub>TA_US'</sub>
+<br/></marg>
+<marg niv="1" id="/vedlegg/1/ledd/1/marg/2">der</marg>
+<marg niv="1" id="/vedlegg/1/ledd/1/marg/3">SCR = solvenskapitalkravet beregnet etter standardmetoden,</marg>
+<marg niv="1" id="/vedlegg/1/ledd/1/marg/4">BSCR = basiskravet til solvenskapital beregnet etter standardmetoden,</marg>
+<marg niv="1" id="/vedlegg/1/ledd/1/marg/5">SCR<sub>OR</sub> = bidraget til solvenskapitalkravet fra operasjonell risiko beregnet etter standardmetoden og</marg>
+<marg niv="1" id="/vedlegg/1/ledd/1/marg/6">Adj<sub>TA_US</sub> = justeringen for den tapsabsorberende evnen til forsikringstekniske avsetninger (herunder fremtidig overskuddstildeling) og utsatt skatt.</marg></ledd>
+      <ledd id="/vedlegg/1/ledd/2">Basiskravet til solvenskapital skal beregnes på følgende måte:
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/1"><img src="/ltavd1/filer/grafikk/sf-20150825-0999-01-01.png" alt="ikon"/><br/></marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/2">der indeksene i og j har en av følgende verdier: MR, KR, LR, HR eller SR.
+<br/></marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/3">Videre er</marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/4">Korr<sub>i,j</sub> = korrelasjonen mellom risikomodul i og risikomodul j,</marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/5">SCR<sub>MR</sub> = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for markedsrisiko,</marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/6">SCR<sub>KR</sub> = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for motpartsrisiko (kredittrisiko),</marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/7">SCR<sub>LR</sub> = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for livsforsikringsrisiko,</marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/8">SCR<sub>HR</sub> = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for helseforsikringsrisiko,</marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/9">SCR<sub>SR</sub> = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for skadeforsikringsrisiko
+<br/></marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/10">og
+<br/></marg>
+<marg niv="1" id="/vedlegg/1/ledd/2/marg/11">SCR<sub>IR</sub> = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for immaterielle eiendeler.</marg></ledd>
+      <ledd id="/vedlegg/1/ledd/3">Korrelasjonen mellom risikomodul i og risikomodul j er gitt ved cellen i rad i og kolonne j i følgende korrelasjonsmatrise:
+<br/>
+<marg niv="1" id="/vedlegg/1/ledd/3/marg/1"><img src="/ltavd1/filer/grafikk/sf-20150825-0999-02-01.png" alt="ikon"/></marg></ledd>
+    </kapittel>
+  </tekst>
+</dokument>

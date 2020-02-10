@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2017-12-19-2346" type="lt" url="https://lovdata.no/lovtidend/forskrift/2017-12-19-2346">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2017-12-19-2346</id>
+    <dato>19.12.2017 nr. 2346</dato>
+    <dato type="iso">2017-12-19</dato>
+    <ikraft>01.01.2018</ikraft>
+    <ikraft type="iso">2018-01-01</ikraft>
+    <departement>Kulturdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1996-06-07-31-§9">L07.06.1996 nr. 31 § 9</ref>, <ref id="lov-1996-06-07-31-§14">§ 14</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2003-09-25-1215</endrer>
+    <rettet/>
+    <journalnummer>2017-1528</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om økonomiforvaltningen i kirken</korttittel>
+    <tittel>Forskrift om endring i forskrift om økonomiforvaltningen for kirkelige fellesråd og menighetsråd i Den norske kirke</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Kulturdepartementet 19. desember 2017 med hjemmel i lov 7. juni 1996 nr. 31 om Den norske kirke (kirkeloven) § 9 tredje ledd og § 14 tredje ledd.</marg>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2017-12-19-2346/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">Departementet har fastsatt nytt vedlegg 4A og nytt vedlegg 4B til forskrift 25. september 2003 nr. 1215 om økonomiforvaltningen for kirkelige fellesråd og menighetsråd i Den norske kirke. Disse følger som vedlegg til denne forskriften og erstatter gjeldende vedlegg 4A og 4B.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2017-12-19-2346/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Forskriften gjelder fra 1. januar 2018.</ledd>
+      <ledd id="/kapittel/ii/ledd/2">Vedlegg 4A</ledd>
+      <ledd id="/kapittel/ii/ledd/3">Kirkelige fellesråd, og menighetsråd i ettsoknskommuner, skal registrere økonomiske data slik at det kan rapporteres på funksjonene og artene oppgitt nedenfor. Ved rapportering av regnskapsopplysningene til Statistisk sentralbyrå skal driftsutgifter og -inntekter rapporteres på kontoklasse 3 og investeringsutgifter og -inntekter på kontoklasse 4.
+<br/></ledd>
+      <table niv="1" frame="0">
+        <tgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="66*"/>
+          <tbody>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">
+                <i>Funksjoner</i>
+              </entry>
+            </row>
+            <row>
+              <entry colname="1">041 </entry>
+              <entry colname="2">Kirkelig Administrasjon </entry>
+            </row>
+            <row>
+              <entry colname="1">042 </entry>
+              <entry colname="2">Kirker </entry>
+            </row>
+            <row>
+              <entry colname="1">043 </entry>
+              <entry colname="2">Gravplasser </entry>
+            </row>
+            <row>
+              <entry colname="1">044 </entry>
+              <entry colname="2">Annen kirkelig virksomhet </entry>
+            </row>
+            <row>
+              <entry colname="1">045 </entry>
+              <entry colname="2">Barnehager </entry>
+            </row>
+            <row>
+              <entry colname="1">089 </entry>
+              <entry colname="2">Finansieringstransaksjoner </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">
+                <i>Arter</i>
+              </entry>
+            </row>
+            <row>
+              <entry colname="1">010 </entry>
+              <entry colname="2">Fastlønn </entry>
+            </row>
+            <row>
+              <entry colname="1">020 </entry>
+              <entry colname="2">Vikarer </entry>
+            </row>
+            <row>
+              <entry colname="1">030 </entry>
+              <entry colname="2">Ekstrahjelp </entry>
+            </row>
+            <row>
+              <entry colname="1">040 </entry>
+              <entry colname="2">Overtid </entry>
+            </row>
+            <row>
+              <entry colname="1">050 </entry>
+              <entry colname="2">Annen lønn </entry>
+            </row>
+            <row>
+              <entry colname="1">060 </entry>
+              <entry colname="2">Trekkpliktige godtgjørelser </entry>
+            </row>
+            <row>
+              <entry colname="1">080 </entry>
+              <entry colname="2">Godtgjørelse folkevalgte </entry>
+            </row>
+            <row>
+              <entry colname="1">090 </entry>
+              <entry colname="2">Pensjonsinnskudd </entry>
+            </row>
+            <row>
+              <entry colname="1">095 </entry>
+              <entry colname="2">Trekkpliktige forsikringsordninger </entry>
+            </row>
+            <row>
+              <entry colname="1">099 </entry>
+              <entry colname="2">Arbeidsgiveravgift </entry>
+            </row>
+            <row>
+              <entry colname="1">100 </entry>
+              <entry colname="2">Kontormateriell </entry>
+            </row>
+            <row>
+              <entry colname="1">110 </entry>
+              <entry colname="2">Aktivitetsrelatert forbruksmateriell/utstyr/tjenester </entry>
+            </row>
+            <row>
+              <entry colname="1">120 </entry>
+              <entry colname="2">Annet forbruksmateriell </entry>
+            </row>
+            <row>
+              <entry colname="1">130 </entry>
+              <entry colname="2">Post, bank, telefoni og datalinjer </entry>
+            </row>
+            <row>
+              <entry colname="1">140 </entry>
+              <entry colname="2">Annonser, reklame, informasjon og representasjon </entry>
+            </row>
+            <row>
+              <entry colname="1">150 </entry>
+              <entry colname="2">Opplæring, kurs (ikke oppg.pl.) </entry>
+            </row>
+            <row>
+              <entry colname="1">155 </entry>
+              <entry colname="2">Reiseutgifter, opplæring (ikke oppg.pl.) </entry>
+            </row>
+            <row>
+              <entry colname="1">160 </entry>
+              <entry colname="2">Utgifter og godtgjørelser for reiser og diett, bil mv. som er oppgavepliktige, men ikke trekkpliktige </entry>
+            </row>
+            <row>
+              <entry colname="1">165 </entry>
+              <entry colname="2">Andre oppgavepliktige, men ikke trekkpliktige ytelser </entry>
+            </row>
+            <row>
+              <entry colname="1">170 </entry>
+              <entry colname="2">Reiseutgifter/drift av egne transportmidler </entry>
+            </row>
+            <row>
+              <entry colname="1">180 </entry>
+              <entry colname="2">Strøm/energi </entry>
+            </row>
+            <row>
+              <entry colname="1">185 </entry>
+              <entry colname="2">Forsikringer </entry>
+            </row>
+            <row>
+              <entry colname="1">190 </entry>
+              <entry colname="2">Leie av lokaler og grunn </entry>
+            </row>
+            <row>
+              <entry colname="1">195 </entry>
+              <entry colname="2">Avgifter, gebyrer og lisenser </entry>
+            </row>
+            <row>
+              <entry colname="1">200 </entry>
+              <entry colname="2">Inventar og utstyr </entry>
+            </row>
+            <row>
+              <entry colname="1">210 </entry>
+              <entry colname="2">Leie, leasing, kjøp av transportmidler </entry>
+            </row>
+            <row>
+              <entry colname="1">220 </entry>
+              <entry colname="2">Leie, leasing, kjøp av maskiner </entry>
+            </row>
+            <row>
+              <entry colname="1">230 </entry>
+              <entry colname="2">Vedlikehold og byggetjenester, nybygg </entry>
+            </row>
+            <row>
+              <entry colname="1">240 </entry>
+              <entry colname="2">Serviceavtaler og reparasjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">250 </entry>
+              <entry colname="2">Materialer til vedlikehold </entry>
+            </row>
+            <row>
+              <entry colname="1">260 </entry>
+              <entry colname="2">Renhold, vaskeri og vaktmestertjenester </entry>
+            </row>
+            <row>
+              <entry colname="1">265 </entry>
+              <entry colname="2">Vakthold og vektertjenester, alarmsystemer </entry>
+            </row>
+            <row>
+              <entry colname="1">270 </entry>
+              <entry colname="2">Konsulenttjenester/kjøpte tjenester </entry>
+            </row>
+            <row>
+              <entry colname="1">280 </entry>
+              <entry colname="2">Grunnerverv </entry>
+            </row>
+            <row>
+              <entry colname="1">285 </entry>
+              <entry colname="2">Kjøp av eksisterende bygg og anlegg </entry>
+            </row>
+            <row>
+              <entry colname="1">300 </entry>
+              <entry colname="2">Refusjon til staten/statlige institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">305 </entry>
+              <entry colname="2">Refusjon til rettssubjektet Den norske kirke </entry>
+            </row>
+            <row>
+              <entry colname="1">330 </entry>
+              <entry colname="2">Refusjon til kommune </entry>
+            </row>
+            <row>
+              <entry colname="1">340 </entry>
+              <entry colname="2">Refusjon til fellesråd </entry>
+            </row>
+            <row>
+              <entry colname="1">350 </entry>
+              <entry colname="2">Refusjon til menighetsråd </entry>
+            </row>
+            <row>
+              <entry colname="1">370 </entry>
+              <entry colname="2">Refusjoner til andre </entry>
+            </row>
+            <row>
+              <entry colname="1">380 </entry>
+              <entry colname="2">Interne overføringer </entry>
+            </row>
+            <row>
+              <entry colname="1">390 </entry>
+              <entry colname="2">Kalkulatoriske utgifter ved kommunal tjenesteyting </entry>
+            </row>
+            <row>
+              <entry colname="1">400 </entry>
+              <entry colname="2">Tilskudd til staten/statlige institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">405 </entry>
+              <entry colname="2">Tilskudd til rettssubjektet Den norske kirke </entry>
+            </row>
+            <row>
+              <entry colname="1">429 </entry>
+              <entry colname="2">Merverdiavgift som gir rett til momskompensasjon </entry>
+            </row>
+            <row>
+              <entry colname="1">430 </entry>
+              <entry colname="2">Tilskudd til kommunen/kommunale institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">440 </entry>
+              <entry colname="2">Tilskudd/gaver til fellesråd </entry>
+            </row>
+            <row>
+              <entry colname="1">450 </entry>
+              <entry colname="2">Tilskudd/gaver til menighetsråd </entry>
+            </row>
+            <row>
+              <entry colname="1">465 </entry>
+              <entry colname="2">Overføring av ofringer/innsamlede midler til andre </entry>
+            </row>
+            <row>
+              <entry colname="1">470 </entry>
+              <entry colname="2">Tilskudd/gaver til andre </entry>
+            </row>
+            <row>
+              <entry colname="1">500 </entry>
+              <entry colname="2">Renteutgifter </entry>
+            </row>
+            <row>
+              <entry colname="1">510 </entry>
+              <entry colname="2">Avdragsutgifter </entry>
+            </row>
+            <row>
+              <entry colname="1">520 </entry>
+              <entry colname="2">Utlån, kjøp av aksjer og andeler </entry>
+            </row>
+            <row>
+              <entry colname="1">530 </entry>
+              <entry colname="2">Dekning av tidligere års regnskapsmessige merforbruk/Dekning av tidligere års udekket </entry>
+            </row>
+            <row>
+              <entry colname="1">540 </entry>
+              <entry colname="2">Avsetninger til ubundne fond </entry>
+            </row>
+            <row>
+              <entry colname="1">550 </entry>
+              <entry colname="2">Avsetninger til bundne fond </entry>
+            </row>
+            <row>
+              <entry colname="1">570 </entry>
+              <entry colname="2">Overføring til investeringsregnskapet </entry>
+            </row>
+            <row>
+              <entry colname="1">580 </entry>
+              <entry colname="2">Regnskapsmessig mindreforbruk (overskudd)/udisponert </entry>
+            </row>
+            <row>
+              <entry colname="1">590 </entry>
+              <entry colname="2">Avskrivninger </entry>
+            </row>
+            <row>
+              <entry colname="1">600 </entry>
+              <entry colname="2">Brukerbetaling ved kirkelige tjenester </entry>
+            </row>
+            <row>
+              <entry colname="1">610 </entry>
+              <entry colname="2">Betaling fra deltakere </entry>
+            </row>
+            <row>
+              <entry colname="1">620 </entry>
+              <entry colname="2">Salg av varer og tjenester, gebyrer mv. utenfor avgiftsområdet </entry>
+            </row>
+            <row>
+              <entry colname="1">630 </entry>
+              <entry colname="2">Husleieinntekter/utleie av lokaler/festeavgift </entry>
+            </row>
+            <row>
+              <entry colname="1">650 </entry>
+              <entry colname="2">Avgiftspliktig salg av varer og tjenester </entry>
+            </row>
+            <row>
+              <entry colname="1">660 </entry>
+              <entry colname="2">Salg av driftsmidler </entry>
+            </row>
+            <row>
+              <entry colname="1">670 </entry>
+              <entry colname="2">Salg av fast eiendom </entry>
+            </row>
+            <row>
+              <entry colname="1">700 </entry>
+              <entry colname="2">Refusjoner fra staten/statlige institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">705 </entry>
+              <entry colname="2">Refusjon fra rettssubjektet Den norske kirke </entry>
+            </row>
+            <row>
+              <entry colname="1">710 </entry>
+              <entry colname="2">Sykelønnsrefusjon//refusjoner fra trygdeetaten </entry>
+            </row>
+            <row>
+              <entry colname="1">729 </entry>
+              <entry colname="2">Kompensasjon for merverdiavgift </entry>
+            </row>
+            <row>
+              <entry colname="1">730 </entry>
+              <entry colname="2">Refusjon fra kommunen/kommunale institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">740 </entry>
+              <entry colname="2">Refusjon fra fellesråd </entry>
+            </row>
+            <row>
+              <entry colname="1">750 </entry>
+              <entry colname="2">Refusjon fra menighetsråd </entry>
+            </row>
+            <row>
+              <entry colname="1">770 </entry>
+              <entry colname="2">Refusjon fra andre </entry>
+            </row>
+            <row>
+              <entry colname="1">780 </entry>
+              <entry colname="2">Interne overføringer </entry>
+            </row>
+            <row>
+              <entry colname="1">790 </entry>
+              <entry colname="2">Kalkulatoriske inntekter ved kommunal tjenesteyting </entry>
+            </row>
+            <row>
+              <entry colname="1">800 </entry>
+              <entry colname="2">Tilskudd fra staten/statlige institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">805 </entry>
+              <entry colname="2">Tilskudd fra rettssubjektet Den norske kirke </entry>
+            </row>
+            <row>
+              <entry colname="1">830 </entry>
+              <entry colname="2">Tilskudd fra kommunen/kommunale institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">840 </entry>
+              <entry colname="2">Tilskudd fra fellesråd </entry>
+            </row>
+            <row>
+              <entry colname="1">850 </entry>
+              <entry colname="2">Tilskudd fra menighetsråd </entry>
+            </row>
+            <row>
+              <entry colname="1">860 </entry>
+              <entry colname="2">Offer/innsamlet til egen virksomhet </entry>
+            </row>
+            <row>
+              <entry colname="1">865 </entry>
+              <entry colname="2">Offer/innsamlet til annen virksomhet (eksterne offer) </entry>
+            </row>
+            <row>
+              <entry colname="1">870 </entry>
+              <entry colname="2">Tilskudd/gaver fra andre </entry>
+            </row>
+            <row>
+              <entry colname="1">900 </entry>
+              <entry colname="2">Renteinntekter </entry>
+            </row>
+            <row>
+              <entry colname="1">905 </entry>
+              <entry colname="2">Utbytte </entry>
+            </row>
+            <row>
+              <entry colname="1">910 </entry>
+              <entry colname="2">Bruk av lån </entry>
+            </row>
+            <row>
+              <entry colname="1">920 </entry>
+              <entry colname="2">Mottatte avdrag på utlån, aksjesalg, andeler mv. </entry>
+            </row>
+            <row>
+              <entry colname="1">930 </entry>
+              <entry colname="2">Bruk av tidligere års regnskapsmessige mindreforbruk/Bruk av tidligere års udisponert </entry>
+            </row>
+            <row>
+              <entry colname="1">940 </entry>
+              <entry colname="2">Bruk av ubundne fond </entry>
+            </row>
+            <row>
+              <entry colname="1">950 </entry>
+              <entry colname="2">Bruk av bundne fond </entry>
+            </row>
+            <row>
+              <entry colname="1">970 </entry>
+              <entry colname="2">Overført fra driftsregnskapet </entry>
+            </row>
+            <row>
+              <entry colname="1">980 </entry>
+              <entry colname="2">Regnskapsmessig merforbruk (underskudd)/Udekket </entry>
+            </row>
+            <row>
+              <entry colname="1">990 </entry>
+              <entry colname="2">Motpost avskrivninger </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ledd id="/kapittel/ii/ledd/4">Vedlegg 4B</ledd>
+      <ledd id="/kapittel/ii/ledd/5">Menighetsråd i flersoknskommuner skal registrere økonomiske data slik at det kan rapporteres på artene oppgitt nedenfor. Det er ikke krav til at regnskapsopplysningene skal spesifiseres på funksjoner.
+<br/></ledd>
+      <table niv="1" frame="0">
+        <tgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="66*"/>
+          <tbody>
+            <row>
+              <entry colname="1">010-099 </entry>
+              <entry colname="2">Lønn, sosiale utgifter, arbeidsgiveravgift </entry>
+            </row>
+            <row>
+              <entry colname="1">100-299 </entry>
+              <entry colname="2">Kjøp av varer, tjenester og utstyr </entry>
+            </row>
+            <row>
+              <entry colname="1">300 </entry>
+              <entry colname="2">Refusjon til staten/statlige institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">305 </entry>
+              <entry colname="2">Refusjon til rettssubjektet Den norske kirke </entry>
+            </row>
+            <row>
+              <entry colname="1">330 </entry>
+              <entry colname="2">Refusjon til kommune </entry>
+            </row>
+            <row>
+              <entry colname="1">340 </entry>
+              <entry colname="2">Refusjon til fellesråd </entry>
+            </row>
+            <row>
+              <entry colname="1">350 </entry>
+              <entry colname="2">Refusjon til menighetsråd </entry>
+            </row>
+            <row>
+              <entry colname="1">370 </entry>
+              <entry colname="2">Refusjoner til andre </entry>
+            </row>
+            <row>
+              <entry colname="1">390 </entry>
+              <entry colname="2">Kalkulatoriske utgifter ved kommunal tjenesteyting </entry>
+            </row>
+            <row>
+              <entry colname="1">400 </entry>
+              <entry colname="2">Tilskudd til staten/statlige institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">405 </entry>
+              <entry colname="2">Tilskudd til rettssubjektet Den norske kirke </entry>
+            </row>
+            <row>
+              <entry colname="1">429 </entry>
+              <entry colname="2">Merverdiavgift som gir rett til momskompensasjon </entry>
+            </row>
+            <row>
+              <entry colname="1">430 </entry>
+              <entry colname="2">Tilskudd til kommunen/kommunale institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">440 </entry>
+              <entry colname="2">Tilskudd/gaver til fellesråd </entry>
+            </row>
+            <row>
+              <entry colname="1">450 </entry>
+              <entry colname="2">Tilskudd//gaver til menighetsråd </entry>
+            </row>
+            <row>
+              <entry colname="1">465 </entry>
+              <entry colname="2">Overføring av ofringer/innsamlede midler til andre </entry>
+            </row>
+            <row>
+              <entry colname="1">470 </entry>
+              <entry colname="2">Tilskudd/gaver til andre </entry>
+            </row>
+            <row>
+              <entry colname="1">500 </entry>
+              <entry colname="2">Renteutgifter </entry>
+            </row>
+            <row>
+              <entry colname="1">510 </entry>
+              <entry colname="2">Avdragsutgifter </entry>
+            </row>
+            <row>
+              <entry colname="1">520 </entry>
+              <entry colname="2">Utlån, kjøp av aksjer og andeler </entry>
+            </row>
+            <row>
+              <entry colname="1">530 </entry>
+              <entry colname="2">Dekning av tidligere års regnskapsmessige merforbruk/Dekning av tidligere års udekket </entry>
+            </row>
+            <row>
+              <entry colname="1">540 </entry>
+              <entry colname="2">Avsetninger til ubundne fond </entry>
+            </row>
+            <row>
+              <entry colname="1">550 </entry>
+              <entry colname="2">Avsetninger til bundne fond </entry>
+            </row>
+            <row>
+              <entry colname="1">570 </entry>
+              <entry colname="2">Overføring til investeringsregnskapet </entry>
+            </row>
+            <row>
+              <entry colname="1">580 </entry>
+              <entry colname="2">Regnskapsmessig mindreforbruk (overskudd)/udisponert </entry>
+            </row>
+            <row>
+              <entry colname="1">590 </entry>
+              <entry colname="2">Avskrivninger </entry>
+            </row>
+            <row>
+              <entry colname="1">600 </entry>
+              <entry colname="2">Brukerbetaling ved kirkelige tjenester </entry>
+            </row>
+            <row>
+              <entry colname="1">610 </entry>
+              <entry colname="2">Betaling fra deltakere </entry>
+            </row>
+            <row>
+              <entry colname="1">620 </entry>
+              <entry colname="2">Salg av varer og tjenester, gebyrer mv. utenfor avgiftsområdet </entry>
+            </row>
+            <row>
+              <entry colname="1">630 </entry>
+              <entry colname="2">Husleieinntekter/utleie av lokaler/festeavgift </entry>
+            </row>
+            <row>
+              <entry colname="1">650 </entry>
+              <entry colname="2">Avgiftspliktig salg av varer og tjenester </entry>
+            </row>
+            <row>
+              <entry colname="1">660 </entry>
+              <entry colname="2">Salg av driftsmidler </entry>
+            </row>
+            <row>
+              <entry colname="1">670 </entry>
+              <entry colname="2">Salg av fast eiendom </entry>
+            </row>
+            <row>
+              <entry colname="1">700 </entry>
+              <entry colname="2">Refusjoner fra staten/statlige institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">705 </entry>
+              <entry colname="2">Refusjon fra rettssubjektet Den norske kirke </entry>
+            </row>
+            <row>
+              <entry colname="1">710 </entry>
+              <entry colname="2">Sykelønnsrefusjon/refusjoner fra trygdeetaten </entry>
+            </row>
+            <row>
+              <entry colname="1">729 </entry>
+              <entry colname="2">Kompensasjon for merverdiavgift </entry>
+            </row>
+            <row>
+              <entry colname="1">730 </entry>
+              <entry colname="2">Refusjon fra kommunen/kommunale institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">740 </entry>
+              <entry colname="2">Refusjon fra fellesråd </entry>
+            </row>
+            <row>
+              <entry colname="1">750 </entry>
+              <entry colname="2">Refusjon fra menighetsråd </entry>
+            </row>
+            <row>
+              <entry colname="1">770 </entry>
+              <entry colname="2">Refusjon fra andre </entry>
+            </row>
+            <row>
+              <entry colname="1">790 </entry>
+              <entry colname="2">Kalkulatoriske inntekter ved kommunal tjenesteyting </entry>
+            </row>
+            <row>
+              <entry colname="1">800 </entry>
+              <entry colname="2">Tilskudd fra staten//statlige institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">805 </entry>
+              <entry colname="2">Tilskudd fra rettssubjektet Den norske kirke </entry>
+            </row>
+            <row>
+              <entry colname="1">830 </entry>
+              <entry colname="2">Tilskudd fra kommunen/kommunale institusjoner </entry>
+            </row>
+            <row>
+              <entry colname="1">840 </entry>
+              <entry colname="2">Tilskudd fra fellesråd </entry>
+            </row>
+            <row>
+              <entry colname="1">850 </entry>
+              <entry colname="2">Tilskudd fra menighetsråd </entry>
+            </row>
+            <row>
+              <entry colname="1">860 </entry>
+              <entry colname="2">Offer/innsamlet til egen virksomhet </entry>
+            </row>
+            <row>
+              <entry colname="1">865 </entry>
+              <entry colname="2">Offer/innsamlet til annen virksomhet </entry>
+            </row>
+            <row>
+              <entry colname="1">870 </entry>
+              <entry colname="2">Tilskudd/gaver fra andre </entry>
+            </row>
+            <row>
+              <entry colname="1">900 </entry>
+              <entry colname="2">Renteinntekter </entry>
+            </row>
+            <row>
+              <entry colname="1">905 </entry>
+              <entry colname="2">Utbytte </entry>
+            </row>
+            <row>
+              <entry colname="1">910 </entry>
+              <entry colname="2">Bruk av lån </entry>
+            </row>
+            <row>
+              <entry colname="1">920 </entry>
+              <entry colname="2">Mottatte avdrag på utlån, aksjesalg, andeler mv. </entry>
+            </row>
+            <row>
+              <entry colname="1">930 </entry>
+              <entry colname="2">Bruk av tidligere års regnskapsmessige mindreforbruk/Bruk av tidligere års udisponert </entry>
+            </row>
+            <row>
+              <entry colname="1">940 </entry>
+              <entry colname="2">Bruk av ubundne fond </entry>
+            </row>
+            <row>
+              <entry colname="1">950 </entry>
+              <entry colname="2">Bruk av bundne fond </entry>
+            </row>
+            <row>
+              <entry colname="1">970 </entry>
+              <entry colname="2">Overført fra driftsregnskapet </entry>
+            </row>
+            <row>
+              <entry colname="1">980 </entry>
+              <entry colname="2">Regnskapsmessig merforbruk (underskudd)/udekket </entry>
+            </row>
+            <row>
+              <entry colname="1">990 </entry>
+              <entry colname="2">Motpost avskrivninger </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </kapittel>
+  </tekst>
+</dokument>

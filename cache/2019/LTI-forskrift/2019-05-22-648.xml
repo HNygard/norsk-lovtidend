@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2019-05-22-648" type="lt" url="https://lovdata.no/lovtidend/forskrift/2019-05-22-648">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2019-05-22-648</id>
+    <dato>22.05.2019 nr. 648</dato>
+    <dato type="iso">2019-05-22</dato>
+    <ikraft>22.05.2019</ikraft>
+    <ikraft type="iso">2019-05-22</ikraft>
+    <departement>Kommunal- og moderniseringsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2003-07-04-83-§7-1">L04.07.2003 nr. 83 § 7-1</ref>, <ref id="for-2017-03-17-338">F17.03.2017 nr. 338</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2004-02-16-426</endrer>
+    <rettet/>
+    <journalnummer>2019-0390</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i nummerforskriften</korttittel>
+    <tittel>Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Nasjonal kommunikasjonsmyndighet 22. mai 2019 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 7-1 jf. delegeringsvedtak 17. mars 2017 nr. 338.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2019-05-22-648/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 16. februar 2004 nr. 426 om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften) gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 3 bokstav h skal lyde:
+<liste id="/kapittel/i/ledd/2/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/h/avsnitt/1"><i>nummer for maskin-til-maskin og tingenes Internett (M2M/IoT) kommunikasjon:</i> stedsuavhengig nummer fra nasjonal nummerplan som brukes til automatiserte eller delautomatiserte kommunikasjonstjenester for tale eller datatrafikk der nummeret har liten eller ingen selvstendig betydning for brukeren
+<br/></avsnitt></liste></ledd>
+      <ledd id="/kapittel/i/ledd/3">§ 16 annet ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/4">Hovedkategoriene i nasjonal nummerplan for telefon m.m. (E.164) er følgende:
+<marg niv="1" id="/kapittel/i/ledd/4/marg/1">00: Internasjonalt prefiks</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/2">01: Reservert for fremtidige endringer i nummerplanen</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/3">02000-09999: 5-sifrede stedsuavhengige nummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/4">100-115: Standardiserte spesialnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/5">116 000-116 999: 6-sifrede EØS-harmoniserte nummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/6">117-179: Standardiserte spesialnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/7">1800-1899: 4-sifrede nummer for nummeropplysningstjenester</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/8">190-199: Tilbyderspesifikke spesialnummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/9">20 00 00 00-39 99 99 99: 8-sifrede geografiske nummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/10">40 00 00 00-49 99 99 99: 8-sifrede nummer for landmobile tjenester</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/11">50 00 00 00-57 99 99 99: 8-sifrede geografiske nummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/12">58 00 00 00 00 00-58 99 99 99 99 99: 12-sifrede nummer for M2M/IoT-kommunikasjon</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/13">59 00 00 00-59 99 99 99: 8-sifrede nummer for M2M/IoT-kommunikasjon</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/14">60 00 00 00-79 99 99 99: 8-sifrede geografiske nummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/15">800 00 000-899 99 999: 8-sifrede stedsuavhengige nummer</marg>
+<marg niv="1" id="/kapittel/i/ledd/4/marg/16">90 00 00 00-99 99 99 99: 8-sifrede nummer for landmobile tjenester.
+<br/></marg></ledd>
+      <ledd id="/kapittel/i/ledd/5">§ 16 tredje ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/6">Tildelte nummer kan ikke tilbys for permanent bruk utenfor Norge uten tillatelse fra Nkom. Dette gjelder likevel ikke for tildelte nummer for M2M/IoT-kommunikasjon.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/7">Overskriften til § 19 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/7/avsnitt/1">§ 19. <i>Tillatelse og bruk av 8- og 12-sifrede nummer</i>
+<br/></avsnitt>
+      <ledd id="/kapittel/i/ledd/8">§ 19 første ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/9">Nkom kan gi tillatelse til bruk av 8- og 12-sifrede nummerserier til tilbyder av offentlig elektronisk kommunikasjonsnett og -tjeneste etter søknad. Tilbyder tildeler 8- og 12-sifrede nummer videre til sluttbrukere og andre tilbydere.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/10">Overskriften til § 20e skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/10/avsnitt/1">§ 20e. <i>Bortfall av bruksrett til EØS-harmonisert nummer ved manglende bruk</i>
+<br/></avsnitt>
+      <ledd id="/kapittel/i/ledd/11">§ 20e første ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/12">Bruksretten til det EØS-harmoniserte nummeret bortfaller dersom nummeret ikke tas i bruk innen seks måneder etter tildelingen, eller den senere over en periode på minst ett år ikke har vært i vedvarende bruk.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/13">§ 22a skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/13/avsnitt/1">§ 22a. <i>Årlige avgifter til staten for tillatelse til bruk av 5-sifret nummer</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/14">Nasjonal kommunikasjonsmyndighet innkrever årlig avgift til staten for tillatelse til bruk av 5-sifret nummer. Avgiftenes størrelse fastsettes årlig i Stortingsvedtak om særavgifter til statskassen.</ledd>
+      <ledd id="/kapittel/i/ledd/15">For 5-sifret nummer for ikke-kommersielle formål av samfunnsnyttig karakter betales det ikke avgift til staten.</ledd>
+      <ledd id="/kapittel/i/ledd/16">Dersom oppsigelse av 5-sifret nummer er sendt Nkom innen 31. desember, skal det ikke betales avgift for det påfølgende året. Avgift bortfaller hvis oppsigelse er sendt innen 1. april eller nytt nummer er tildelt 1. oktober eller senere.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/17">§ 32 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/17/avsnitt/1">§ 32. <i>Nummerplan for identifikasjonssignaler for skip</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/18">Telenor ASA fastsetter og forvalter nummerplan for identifikasjonssignaler for skip (Maritime Mobile Service Identities, MMSI) i henhold til ITUs radioreglement samt gjeldene versjon av ITU-T rekommandasjon ITU-R M.585, etter fullmakt fra Nkom.</ledd>
+      <ledd id="/kapittel/i/ledd/19">Telenor ASA tildeler MMSI-nummer beregnet på automatisk trafikkutveksling mellom stasjoner som deltar i den maritime mobile tjenesten.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/20">§ 33 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/20/avsnitt/1">§ 33. <i>Tildeling av brukernummer for Inmarsatstasjoner i Norge</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/21">Telenor ASA tildeler brukernummer for maritime og landmobile Inmarsatstasjoner i Norge, i henhold til ITU-T rekommandasjon E.217, etter fullmakt fra Nkom.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/22">§ 35a skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/22/avsnitt/1">§ 35a. <i>Nummerplan for identifikasjon av radiokanaler</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/23">Nkom fastsetter og forvalter nummerplan for identifikasjon av radiokanaler, RDS PI-, SId- og EId- og andre koder relatert til analog og digital radiodistribusjon i henhold til standardene IEC 62106-2, IEC 62106-4 og ETSI EN 300 401.</ledd>
+      <ledd id="/kapittel/i/ledd/24">RDS PI-, SId- og EId-koder kan ikke tas i bruk uten at det foreligger tillatelse fra Nkom. Bruken av kodene skal være i henhold til standardene IEC 62106-2, IEC 62106-4 og ETSI EN 300 401.</ledd>
+      <ledd id="/kapittel/i/ledd/25">Øvrige koder relatert til digital radiodistribusjon tillates brukt i henhold til standarden ETSI EN 300 401.</ledd>
+      <ledd id="/kapittel/i/ledd/26">Øvrige koder relatert til analog radiodistribusjon tillates brukt i henhold til standardene IEC 62106-2 og IEC 62106-4.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2019-05-22-648/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Endringene trer i kraft straks.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

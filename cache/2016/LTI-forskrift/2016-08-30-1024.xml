@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2016-08-30-1024" type="lt" url="https://lovdata.no/lovtidend/forskrift/2016-08-30-1024">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2016-08-30-1024</id>
+    <dato>30.08.2016 nr. 1024</dato>
+    <dato type="iso">2016-08-30</dato>
+    <publisert>I 2016 hefte 12 s 1909</publisert>
+    <ikraft>30.08.2016</ikraft>
+    <ikraft type="iso">2016-08-30</ikraft>
+    <departement>Samferdselsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1993-06-11-101-§5-1">L11.06.1993 nr. 101 § 5-1</ref>, <ref id="lov-1993-06-11-101-§9-1">§ 9-1</ref>, <ref id="lov-1993-06-11-101-§15-4">§ 15-4</ref>, <ref id="for-1994-03-11-202">F11.03.1994 nr. 202</ref>, <ref id="for-1999-12-10-1265">F10.12.1999 nr. 1265</ref>, <ref id="for-1999-12-10-1273">F10.12.1999 nr. 1273</ref></hjemmel>
+    <rettet/>
+    <journalnummer>2016-0879</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Driftsforskrifter for privatflyging</korttittel>
+    <korttittel>3 Driftsforskrifter for ikke-ervervsmessig flyging med fly (privatflyging) (Nr. 1024)</korttittel>
+    <tittel>Driftsforskrifter for ikke-ervervsmessig flyging med fly (privatflyging)</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Luftfartstilsynet 30. august 2016 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 5-1, § 9-1 og § 15-4, jf. forskrift 11. mars 1994 nr. 202 om gjennomføringsbestemmelser til luftfartsloven, delegeringsvedtak 10. desember 1999 nr. 1265 og delegeringsvedtak 10. desember 1999 nr. 1273.
+<br/></marg>
+    <liste id="/ledd/1/liste/1">
+      <lverdi>1</lverdi>
+      <avsnitt id="/ledd/1/liste/1/avsnitt/1">
+        <i>Definisjoner</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/1/avsnitt/2">I denne forskrift menes med:</avsnitt>
+      <liste id="/ledd/1/liste/1.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/1.a/avsnitt/1"><i>ELT (Emergency Locator Transmitter):</i> Nødpeilesender beregnet for luftfartøy.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/1.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/1.b/avsnitt/1"><i>Automatisk:</i> Senderen er konstruert for å aktiviseres ved havari ved hjelp av en mekanisme (for eksempel G-bryter).</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/1.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/1.c/avsnitt/1"><i>ELT121:</i> Nødpeilesender som sender analogt signal på 121,5 MHz og 243 MHz.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/1.d">
+        <lverdi>d)</lverdi>
+        <avsnitt id="/ledd/1/liste/1.d/avsnitt/1"><i>ELT406:</i> Fastmontert nødpeilesender som sender digitalt signal på frekvensbåndet 406,0 til 406,1 MHz samt analogt signal på 121,5 MHz.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/1.e">
+        <lverdi>e)</lverdi>
+        <avsnitt id="/ledd/1/liste/1.e/avsnitt/1"><i>PLB406 med GPS (Personal Locator Beacon):</i> Nødpeilesender med innebygd GPS-mottaker som sender posisjon på frekvensbåndet 406,0 til 406,1 MHz.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/2">
+      <lverdi>2</lverdi>
+      <avsnitt id="/ledd/1/liste/2/avsnitt/1">
+        <i>Gyldighetsområde</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/2.1">
+      <lverdi>2.1</lverdi>
+      <avsnitt id="/ledd/1/liste/2.1/avsnitt/1">Disse forskrifter gjelder for ikke ervervsmessig luftfart (privatflyging) innenfor norsk område og uten norsk område når dette er forenlig med fremmed rett som skal få anvendelse, jf. luftfartsloven § 2, første ledd, og vedkommende som utfører slik luftfart er innehaver av:</avsnitt>
+      <liste id="/ledd/1/liste/2.1.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/2.1.a/avsnitt/1">Norsk luftsertifikat. Hvor vedkommende benytter utenlandsk registrert luftfartøy kan det med vedkommende utenlandske myndighet avtales at andre forskrifter skal gjelde.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/2.1.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/2.1.b/avsnitt/1">Utenlandsk luftfartssertifikat når vedkommende benytter norsk registrert luftfartøy. Det kan med vedkommende utenlandske myndighet avtales at andre forskrifter skal gjelde.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/2.1.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/2.1.c/avsnitt/1">Utenlandsk luftfartssertifikat når vedkommende benytter utenlandsk registrert luftfartøy og det spesielt er avtalt med vedkommende utenlandske myndigheter at norske forskrifter skal gjelde.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/2.2">
+      <lverdi>2.2</lverdi>
+      <avsnitt id="/ledd/1/liste/2.2/avsnitt/1">Forskriften gjelder ikke for ikke ervervsmessig luftfart som er regulert i forordning (EU) nr. 965/2012 som gjennomført ved forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/3">
+      <lverdi>3</lverdi>
+      <avsnitt id="/ledd/1/liste/3/avsnitt/1">
+        <i>Generelt</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/3.1">
+      <lverdi>3.1</lverdi>
+      <avsnitt id="/ledd/1/liste/3.1/avsnitt/1">Fartøysjefen og andre flygebesetningsmedlemmer skal følge de lover, forskrifter og fremgangsmåter for luftfart som er fastsatt av den stat innen hvis område det drives luftfart.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/3.2">
+      <lverdi>3.2</lverdi>
+      <avsnitt id="/ledd/1/liste/3.2/avsnitt/1">Fartøysjefen er ansvarlig for sikker drift av flyet og for sikkerheten til alle ombordværende personer under flyging.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/3.3">
+      <lverdi>3.3</lverdi>
+      <avsnitt id="/ledd/1/liste/3.3/avsnitt/1">Hvis en nødssituasjon, som bringer flyet eller personer i fare, nødvendiggjør en handlemåte som medfører overtredelse av lokale forskrifter og fremgangsmåter, skal fartøysjefen uoppholdelig melde dette til vedkommende lokale myndighet og Luftfartstilsynet. Fartøysjefen skal avgi rapport angående overtredelsen til vedkommende stats behørige myndighet, hvis dette fordres i den stat hvor hendelsen inntreffer. I slike tilfeller skal han også avgi utførlig rapport til Luftfartstilsynet. Rapporten skal innsendes snarest mulig og normalt innen 10 dager.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/3.4">
+      <lverdi>3.4</lverdi>
+      <avsnitt id="/ledd/1/liste/3.4/avsnitt/1">Fartøysjefen er ansvarlig for å melde av til nærmeste behørige myndighet på hurtigst måte om luftfartsulykke med flyet som har til følge at personer kommer alvorlig til skade eller avgår ved døden, eller hvor flyet eller annen eiendom påføres betydelig skade. (Jf. BSL D 1-3 Rapporteringsplikt).</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/3.5">
+      <lverdi>3.5</lverdi>
+      <avsnitt id="/ledd/1/liste/3.5/avsnitt/1">Medføring av sprengstoff, krigsskytevåpen, krigsammunisjon, eksplosive varer og annet farlig gods, unntatt det som er nødvendig for flyets betjening og navigering eller for ombordværende personers sikkerhet, kan bare finne sted i samsvar med luftfartsloven § 1-12 og tilhørende forskrifter.</avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Brannfarlige væsker og faste stoffer, oksyderende stoffer, etsende væsker, brannfarlige og ikke brannfarlige komprimerte gasser, giftgass, giftvæske og giftige flytende og faste stoffer, tåregass, og radioaktive stoffer, skal blant annet betraktes som farlig gods. Visse stoffer kan bli farlige når de anbringes i nærheten av andre stoffer. Forskrift om befordring av gods i luftfartøy er tatt inn i BSL D 1-7. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/3.6">
+      <lverdi>3.6</lverdi>
+      <avsnitt id="/ledd/1/liste/3.6/avsnitt/1">Hvis mer enn en flyger gjør tjeneste om bord skal det avgjøres hvem som er fartøysjef før flygingen påbegynnes.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/3.7">
+      <lverdi>3.7</lverdi>
+      <avsnitt id="/ledd/1/liste/3.7/avsnitt/1">Luftfartstilsynet kan, når særlige grunner tilsier det, dispensere fra denne forskrift.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4">
+      <lverdi>4</lverdi>
+      <avsnitt id="/ledd/1/liste/4/avsnitt/1">
+        <i>Forberedelse og utførelse av flyging</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.1">
+      <lverdi>4.1</lverdi>
+      <avsnitt id="/ledd/1/liste/4.1/avsnitt/1">
+        <i>Bakkeinstallasjoner (Hjelpemidler)</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.1/avsnitt/2">En flyging skal ikke påbegynnes før fartøysjefen ved hjelp av alle rimelige midler til disposisjon, har forvisset seg om at de hjelpemidler på land og/eller vann som er nødvendige for en sikker gjennomføring av flygingen, er tilgjengelige.</avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">«Rimelige midler» er ment å omfatte opplysninger som er tilgjengelige på avgangsstedet gjennom offisielle publikasjoner fra flygeinformasjonstjenesten eller er lett tilgjengelig fra andre kilder. Tilgjengelige og direkte nødvendige hjelpemidler er ikke ment å omfatte katastrofeutstyr for brann- og redningstjeneste. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/4.2">
+      <lverdi>4.2</lverdi>
+      <avsnitt id="/ledd/1/liste/4.2/avsnitt/1">
+        <i>Informasjon til ombordværende personer</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.2.1">
+      <lverdi>4.2.1</lverdi>
+      <avsnitt id="/ledd/1/liste/4.2.1/avsnitt/1">Fartøysjefen skal sørge for at besetningsmedlemmer og passasjerer er gjort kjent med plasseringen og bruk av:</avsnitt>
+      <liste id="/ledd/1/liste/4.2.1.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.2.1.a/avsnitt/1">Sikkerhetsbelter</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.2.1.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.2.1.b/avsnitt/1">Nødutganger</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.2.1.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.2.1.c/avsnitt/1">Redningsvester, hvis medføring av slike er påbudt</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.2.1.d">
+        <lverdi>d)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.2.1.d/avsnitt/1">Oksygenutstyret, hvis det er bestemt at det skal medføres oksygen</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.2.1.e">
+        <lverdi>e)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.2.1.e/avsnitt/1">Annet nødutstyr som forefinnes til individuelt eller felles bruk.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/4.2.2">
+      <lverdi>4.2.2</lverdi>
+      <avsnitt id="/ledd/1/liste/4.2.2/avsnitt/1">I fly med fast utstyr for VOR/ADF/ILS skal fartøysjefen gjøre alle personer om bord kjent med at transportable elektroniske apparater (radiomottaker, lydbåndopptaker etc.) ikke må anvendes under flyging når navigasjonsutstyret er i bruk.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.3">
+      <lverdi>4.3</lverdi>
+      <avsnitt id="/ledd/1/liste/4.3/avsnitt/1">
+        <i>Forholdsregler for flyets luftdyktighet og sikkerhet</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.3/avsnitt/2">En flyging må ikke påbegynnes før fartøysjefen har forvisset seg om at:</avsnitt>
+      <liste id="/ledd/1/liste/4.3.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.3.a/avsnitt/1">flyet er luftdyktig og registrert, og at gyldig luftdyktighetsbevis, registreringsbevis, miljødyktighetsbevis - støy, flygehåndbok, radiokonsesjonsbevis samt reisedagbok eller annet tilsvarende godkjent dokument finnes om bord. Innførte anmerkninger i reisedagboken eller tilsvarende skal vurderes for å forvisse seg om at eventuelle gjenstående anmerkninger ikke påvirker luftdyktigheten.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.3.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.3.b/avsnitt/1">installerte instrumenter og utstyr i flyet er tilstrekkelig, alle ventede flygeforhold tatt i betraktning</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.3.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.3.c/avsnitt/1">flyets last er fordelt og ombordværende personer plassert slik at flyets tyngdepunkt ligger innenfor tillatte grenser</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.3.d">
+        <lverdi>d)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.3.d/avsnitt/1">medført last er stuet og sikret slik at flyet ikke settes i fare under flygingen</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.3.e">
+        <lverdi>e)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.3.e/avsnitt/1">flyets driftsbegrensninger, som fremgår av flygehåndboken eller annet tilsvarende dokument, kan overholdes under den påtenkte flyging</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.3.f">
+        <lverdi>f)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.3.f/avsnitt/1">flyets propeller, vinger, stabilisatorer og rorflater er fri for rim, sne og is, med mindre fabrikanten av angjeldende flytype har godkjent noe annet</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.3.g">
+        <lverdi>g)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.3.g/avsnitt/1">at fartøysjefen eller annen bemyndiget og kvalifisert person har undersøkt luftfartøyet for eventuell skade eller påkjenning som materiellet ikke er konstruert for og som kan ha betydning for luftdyktigheten. Med undersøkelse av luftfartøyet menes en gjennomgang av luftfartøyet for om mulig å avdekke skade eller påkjenning på luftfartøyet før, under eller etter flyging. Oppdager man som følge av slik undersøkelse skade eller påkjenning på luftfartøyet, kan luftfartøyet ikke benyttes før luftdyktigheten er bekreftet av godkjent vedlikeholdsinstans, jf. forskrift om vedlikehold og modifikasjon av flymateriell, BSL B 3-2.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/4.4">
+      <lverdi>4.4</lverdi>
+      <avsnitt id="/ledd/1/liste/4.4/avsnitt/1">
+        <i>Værrapporter og planlegging av flyging</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.4.1">
+      <lverdi>4.4.1</lverdi>
+      <avsnitt id="/ledd/1/liste/4.4.1/avsnitt/1">En flyging må ikke påbegynnes før fartøysjefen har gjort seg kjent med alle tilgjengelige meteorologiske opplysninger som er nødvendige for den påtenkte flyging. Forberedelse for en flyging skal innbefatte:</avsnitt>
+      <liste id="/ledd/1/liste/4.4.1.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.4.1.a/avsnitt/1">gransking av aktuelle værrapporter og værvarsel</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.4.1.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.4.1.b/avsnitt/1">planlegging av en alternativ fremgangsmåte dersom flygingen på grunn av værforholdene ikke kan gjennomføres slik som planlagt</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.4.1.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.4.1.c/avsnitt/1">utarbeidelse av en operativ flygeplan for all IFR-flyging og for VFR-flyging som skal utføres mer enn 50 NM fra startplassen.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/4.4.2">
+      <lverdi>4.4.2</lverdi>
+      <avsnitt id="/ledd/1/liste/4.4.2/avsnitt/1">Operativ flygeplan i samsvar med pkt. 4.4.1 c) skal medføres og ajourføres under flyging og inneholde følgende opplysninger:</avsnitt>
+      <liste id="/ledd/1/liste/4.4.2.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.4.2.a/avsnitt/1">For VFR-flyging:</avsnitt>
+        <avsnitt id="/ledd/1/liste/4.4.2.a/avsnitt/2">Det som fremgår av Bilag 1 til disse forskrifter</avsnitt>
+      </liste>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Når reiseplanen innleveres for å oppnå alarm- og redningstjeneste, er det iht. BSL F 1-3 pkt. 3.3.1.3.1 krav om at reiseplanen skal være fullstendig. Dette gjelder også opplysninger om alternativ flyplass for VFR-flygingen. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/b">
+      <lverdi>b)</lverdi>
+      <avsnitt id="/ledd/1/liste/b/avsnitt/1">For IFR-flyging:</avsnitt>
+      <liste id="/ledd/1/liste/b.i">
+        <lverdi>(i)</lverdi>
+        <avsnitt id="/ledd/1/liste/b.i/avsnitt/1">Det som fremgår av Bilag II til disse forskrifter og</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/b.ii">
+        <lverdi>(ii)</lverdi>
+        <avsnitt id="/ledd/1/liste/b.ii/avsnitt/1">minste sikre flygehøyde i samsvar med 4.4.3 for den planlagte strekning, samt værminima for bestemmelsesstedet og alternative flyplasser hvis disse opplysninger ikke fremgår av rutehåndbok eller annen dokumentasjon som medfølger under flyging.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/4.4.3">
+      <lverdi>4.4.3</lverdi>
+      <avsnitt id="/ledd/1/liste/4.4.3/avsnitt/1">Ved beregning av minste sikre flygehøyder for IFR-flyginger gjelder følgende bestemmelser:</avsnitt>
+      <liste id="/ledd/1/liste/4.4.3.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.4.3.a/avsnitt/1">Flygehøydene må ikke ligge under se som måtte være fastsatt av den stat over hvilken flygingen foretas, med mindre de er spesielt godkjent av denne stat.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.4.3.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.4.3.b/avsnitt/1">Flygehøyden skal beregnes for en korridor, som skal ha en bredde av minst 10 NM på hver side på den planlagte rutetrase, og strekke seg 10 NM forbi de enkelte ruteavsnitts endepunkter.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.4.3.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.4.3.c/avsnitt/1">Ved beregning av korridorbredden skal det tas hensyn til de tilgjengelige navigasjonshjelpemidlers sannsynlige feilkilder på en slik måte at flyet når som helst under flygingen vil befinne seg innenfor de fastsatte korridorgrenser.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.4.3.d">
+        <lverdi>d)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.4.3.d/avsnitt/1">Flygehøyden skal ikke være mindre enn det høyeste hinder innenfor den beregnede korridorbredde pluss en hinderfrihet på:
+<marg niv="5" id="/ledd/1/liste/4.4.3.d/avsnitt/1/marg/1">1000 fot hvis høyden av hinderet ikke overstiger 6000 for høyde over havet (MSL)</marg>
+<marg niv="5" id="/ledd/1/liste/4.4.3.d/avsnitt/1/marg/2">2000 fot hvis høyden av hinderet overstiger 6000 fot over havet (MSL)</marg></avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.4.3.e">
+        <lverdi>e)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.4.3.e/avsnitt/1">Ved salg av flygehøyde skal det alltid tas hensyn til de aktuelle og forventede atmosfæriske forhold slik at den foreskrevne hinderfrihet kan overholdes.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/4.5">
+      <lverdi>4.5</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5/avsnitt/1">
+        <i>Operative begrensninger som følge av værforholdene</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.5.1">
+      <lverdi>4.5.1</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5.1/avsnitt/1">
+        <i>For VFR-flyging</i>
+      </avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Sikt og skydekkehøyde som angitt i pkt. 4.5.1.1, 4.5.1.2 og 4.5.1.3 nedenfor gjelder for planlegging av flyging. Det er den dårligste del av tilgjengelige værobservasjoner/-informasjoner for beregnet passeringstid/ankomsttid som skal legges til grunn. Under utførelse av flyging gjelder de minstekrav til flysikt og avstand fra skyer som fremgår av lufttrafikkreglene, BSL F 1-4. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/4.5.1.1">
+      <lverdi>4.5.1.1</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5.1.1/avsnitt/1">En VFR-flyging som planlegges utført under skyer mer enn 50 NM fra startplassen, må ikke påbegynnes hvis det fra de tilgjengelige værobservasjoner/-informasjoner langs ruten som skal flyges VFR, fremgår at sikten og skydekkehøyden vil være mindre enn 5 km og 1000 fot.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.5.1.2">
+      <lverdi>4.5.1.2</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5.1.2/avsnitt/1">En VFR-flyging over skyer - «on top» - er kun tillatt i dagslys og må ikke påbegynnes med mindre det foreligger værobservasjoner/-informasjoner som viser at følgende krav kan oppfylles under den aktuelle flyging:</avsnitt>
+      <liste id="/ledd/1/liste/4.5.1.2.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.5.1.2.a/avsnitt/1">Langs den rute eller del av ruten som skal flyges VFR, skal skyenes utstrekning og skikt være slik at det er mulig å gjennomføre flygingen i VFR-forhold.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.5.1.2.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.5.1.2.b/avsnitt/1">Ved bestemmelsesstedet eller i området rundt landingsplassen, skal skymengden ikke overstige 4/8 i de skikt som flygingen planlegges utført over.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.5.1.2.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.5.1.2.c/avsnitt/1">Ved bestemmelsesstedet eller i området rundt landingsplassen, skal sikten og skydekkehøyden ikke være mindre enn 5 km respektive 1000 fot.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/4.5.1.3">
+      <lverdi>4.5.1.3</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5.1.3/avsnitt/1">En VFR-flyging som planlegges utført i mørke og mer enn 50 NM fra startplassen, må ikke påbegynnes hvis det fra de tilgjengelige værobservasjoner/-informasjoner langs ruten som skal flyges VFR, fremgår at sikten og skydekkehøyden vil være mindre enn 10 km og 2000 fot.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.5.2">
+      <lverdi>4.5.2</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5.2/avsnitt/1">
+        <i>For IFR-flyging</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.5.2.1">
+      <lverdi>4.5.2.1</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5.2.1/avsnitt/1">En IFR-flyging skal med hensyn til tilgjengelige alternative flyplasser planlegges slik at forskriftene i BSL D 1-11 (værminima) kan overholdes.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.5.2.2">
+      <lverdi>4.5.2.2</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5.2.2/avsnitt/1">Innflyging og landing på en flyplass som ikke har godkjent innflygingsprosedyre skal utføres i VFR-forhold (VMC). Kan innflygingen ikke utføres i VFR-forhold, skal skygjennomgang foretas over et radiohjelpemiddel i nærheten av flyplassen ned til en høyde av 1000 fot over høyeste hinder innenfor 8 km fra flyets beregnede posisjon. Derfra foretas den videre flyging i VFR-forhold.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.5.2.3">
+      <lverdi>4.5.2.3</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5.2.3/avsnitt/1">En flyging må ikke fortsette mot bestemmelsesstedet med mindre de siste foreliggende meteorologiske informasjoner viser at forholdene på denne flyplass (bestemmelsesstedet) eller på minst en alternativ flyplass ved beregnet ankomsttid vil være like gode som eller bedre enn de i BSL D 1-11 (værminima) angitte begrensninger for de innflygingsprosedyrer som kan komme til anvendelse.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.5.3">
+      <lverdi>4.5.3</lverdi>
+      <avsnitt id="/ledd/1/liste/4.5.3/avsnitt/1">
+        <i>Flyging under isingsforhold</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.5.3/avsnitt/2">En flyging som skal utføres i kjente eller ventede isingsforhold må ikke påbegynnes, med mindre flyet har tilstrekkelig avisingsutstyr for slike forhold.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.6">
+      <lverdi>4.6</lverdi>
+      <avsnitt id="/ledd/1/liste/4.6/avsnitt/1">
+        <i>Drivstoff- og oljeforsyning</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.6.1">
+      <lverdi>4.6.1</lverdi>
+      <avsnitt id="/ledd/1/liste/4.6.1/avsnitt/1">En flyging må ikke påbegynnes med mindre det - under hensyntagen til så vel de meteorologiske forhold som slike forsinkelser som kan ventes under flygingen - føres med tilstrekkelig drivstoff og olje til at flygingen kan gjennomføres på en sikker måte.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.6.2">
+      <lverdi>4.6.2</lverdi>
+      <avsnitt id="/ledd/1/liste/4.6.2/avsnitt/1">
+        <i>For VFR-flyging</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.6.2/avsnitt/2">Det skal medføres minst tilstrekkelig drivstoff og olje til at flyet kan fly til bestemmelsesstedet og deretter i 45 minutter.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.6.3">
+      <lverdi>4.6.3</lverdi>
+      <avsnitt id="/ledd/1/liste/4.6.3/avsnitt/1">
+        <i>For IFR-flyging</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.6.3/avsnitt/2">Det skal medføres minst tilstrekkelig drivstoff og olje til at flyet kan fly til bestemmelsesstedet og derfra til den alternative flyplass og deretter i 45 minutter.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.7">
+      <lverdi>4.7</lverdi>
+      <avsnitt id="/ledd/1/liste/4.7/avsnitt/1">
+        <i>Oksygenforsyning</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.7/avsnitt/2">Fartøysjefen skal sørge for at det ved flyging som skal utføres i høyde over 10 000 fot med fly uten trykkabin medføres tilstrekkelig mengde oksygen til å forsyne:</avsnitt>
+      <liste id="/ledd/1/liste/4.7.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.7.a/avsnitt/1">Besetningsmedlemmene for en hvilken som helst periode ut over 30 minutter når flygehøyden er mellom 10 000 og 13 000 fot, og</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.7.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.7.b/avsnitt/1">Besetningsmedlemmer og andre ombordværende personer så lenge flygehøyden er mer enn 13 000 fot.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/4.8">
+      <lverdi>4.8</lverdi>
+      <avsnitt id="/ledd/1/liste/4.8/avsnitt/1">
+        <i>Nødssituasjon under flyging</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.8/avsnitt/2">Hvis en nødssituasjon oppstår under flyging skal fartøysjefen sørge for at alle personer om bord instrueres i de nødprosedyrer og tiltak som situasjonen måtte kreve.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.9">
+      <lverdi>4.9</lverdi>
+      <avsnitt id="/ledd/1/liste/4.9/avsnitt/1">
+        <i>Sjekkliste</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.9/avsnitt/2">Fartøysjefen er ansvarlig for at de til flyet tilhørende sjekklister anvendes under flyging.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.10">
+      <lverdi>4.10</lverdi>
+      <avsnitt id="/ledd/1/liste/4.10/avsnitt/1">
+        <i>Farlige forhold</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.10/avsnitt/2">Når farlige forhold påtreffes underveis, skal det snarest mulig sendes melding om dette. Slike meldinger skal inneholde alle opplysninger som kan være av betydning for andre luftfartøyers sikkerhet.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.11">
+      <lverdi>4.11</lverdi>
+      <avsnitt id="/ledd/1/liste/4.11/avsnitt/1">
+        <i>Flygebesetningsmedlemmers fysiske og psykiske skikkethet</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/4.11/avsnitt/2">Fartøysjefen er ansvarlig for at en flyging:</avsnitt>
+      <liste id="/ledd/1/liste/4.11.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.11.a/avsnitt/1">Ikke påbegynnes hvis et flygebesetningsmedlem er ute av stand til å utføre sine plikter på grunn av skade, sykdom, tretthet eller påvirkning av alkohol eller annet berusende eller bedøvende middel.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/4.11.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/4.11.b/avsnitt/1">Ikke fortsette forbi den nærmeste brukbare flyplass hvis besetningsmedlemmers evne til å utføre sine funksjoner er betraktelig nedsatt av tretthet, sykdom, mangel på oksygen eller andre årsaker.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/4.12">
+      <lverdi>4.12</lverdi>
+      <avsnitt id="/ledd/1/liste/4.12/avsnitt/1">
+        <i>Bemanning i førerrommet</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.12.1">
+      <lverdi>4.12.1</lverdi>
+      <avsnitt id="/ledd/1/liste/4.12.1/avsnitt/1">Under start og landing skal hvert flygebesetningsmedlem som inngår i den minimumsbesetning som fremgår av bestemmelsen i flygehåndboken, bemanne den plass som er avsatt for ham i førerrommet.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.12.2">
+      <lverdi>4.12.2</lverdi>
+      <avsnitt id="/ledd/1/liste/4.12.2/avsnitt/1">Underveis skal flygebesetningsmedlem, som inngår i den minimumsbesetning som fremgår av bestemmelsene i flygehåndboken, forbli på sin plass i førerrommet. En av plassene kan være ubemannet for kortere perioder når det er nødvendig av hensyn til flysikkerheten eller fysiologiske behov.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/4.12.3">
+      <lverdi>4.12.3</lverdi>
+      <avsnitt id="/ledd/1/liste/4.12.3/avsnitt/1">Flygebesetningsmedlem skal være fastspent med sikkerhetsbelte når han er på sin plass i førerrommet. Hvis skulderseler er montert i flyet skal disse benyttes under start og landing, i tillegg til sikkerhetsbelte.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/5">
+      <lverdi>5</lverdi>
+      <avsnitt id="/ledd/1/liste/5/avsnitt/1">
+        <i>Ytelseskrav og driftsbegrensninger for fly</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/5.1">
+      <lverdi>5.1</lverdi>
+      <avsnitt id="/ledd/1/liste/5.1/avsnitt/1">Fartøysjefen er ansvarlig for at flyet opereres innenfor de driftsbegrensinger, betjeningsforskrifter og ytelser som fremgår av flygehåndboken.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/5.2">
+      <lverdi>5.2</lverdi>
+      <avsnitt id="/ledd/1/liste/5.2/avsnitt/1">For fly med høyeste tillatte startvekt over 5700 kg gjelder bestemmelsene i BSL D 1-4.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/5.3">
+      <lverdi>5.3</lverdi>
+      <avsnitt id="/ledd/1/liste/5.3/avsnitt/1">Start og landing må ikke utføres hvis sidevindskomponenten er større enn det som er angitt i flygehåndboken. Det skal tas hensyn til vindkast og den aktuelle bremseeffekt.</avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Hvis høyeste tillatte sidevindskomponent ikke fremgår av flygehåndboken bør denne begrenses ved at flyets steilehastighet med fulle klaffer multipliseres med 0,2. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/6">
+      <lverdi>6</lverdi>
+      <avsnitt id="/ledd/1/liste/6/avsnitt/1">
+        <i>Instrumenter og utstyr for fly</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/6.1">
+      <lverdi>6.1</lverdi>
+      <avsnitt id="/ledd/1/liste/6.1/avsnitt/1">
+        <i>Alle fly for enhver flyging</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/6.1.1">
+      <lverdi>6.1.1</lverdi>
+      <avsnitt id="/ledd/1/liste/6.1.1/avsnitt/1">Alle fly skal være utstyrt med:</avsnitt>
+      <liste id="/ledd/1/liste/6.1.1.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.1.a/avsnitt/1">lett tilgjengelig medisinsk utstyr i samsvar med forskriftene i BSL D 1-9.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.1.1.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.1.b/avsnitt/1">transportable brannslokkingsapparater av en hensiktsmessig type hvorav:</avsnitt>
+        <liste id="/ledd/1/liste/6.1.1.b.i">
+          <lverdi>i)</lverdi>
+          <avsnitt id="/ledd/1/liste/6.1.1.b.i/avsnitt/1">minst ett skal være anbrakt i førerrommet</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.1.1.b.ii">
+          <lverdi>ii)</lverdi>
+          <avsnitt id="/ledd/1/liste/6.1.1.b.ii/avsnitt/1">minst ett skal være anbrakt i passasjerkabinen hvis denne er adskilt fra førerrommet.</avsnitt>
+        </liste>
+      </liste>
+      <liste id="/ledd/1/liste/6.1.1.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.1.c/avsnitt/1">faste sitteplasser med sikkerhetsbelte for hver person om bord som er mer enn 2 år gammel. Bestemmelser om plassering av to barn i samme stol fremgår av BSL D 1-6.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.1.1.d">
+        <lverdi>d)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.1.d/avsnitt/1">følgende håndbøker, kart og dokumenter:</avsnitt>
+        <liste id="/ledd/1/liste/6.1.1.d.i">
+          <lverdi>i)</lverdi>
+          <avsnitt id="/ledd/1/liste/6.1.1.d.i/avsnitt/1">flygehåndboken og andre dokumenter som inneholder ytelsesdata nødvendige for at bestemmelsene under pkt. 5 kan følges, og enhver annen opplysning som er nødvendig for at flyet skal kunne betjenes forskriftsmessig.</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.1.1.d.ii">
+          <lverdi>ii)</lverdi>
+          <avsnitt id="/ledd/1/liste/6.1.1.d.ii/avsnitt/1">ajourførte hensiktsmessige kart som dekker den planlagte rute og hvilken som helst annen rute hvortil det med rimelighet kan ventes at flygingen kan bli omdirigert.</avsnitt>
+        </liste>
+      </liste>
+      <liste id="/ledd/1/liste/6.1.1.e">
+        <lverdi>e)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.1.e/avsnitt/1">elektriske reservesikringer av hver type og størrelse som er installert og som kan byttes ut under flyging.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/6.1.2">
+      <lverdi>6.1.2</lverdi>
+      <avsnitt id="/ledd/1/liste/6.1.2/avsnitt/1">
+        <i>Automatisk nødradiopeilesender</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/6.1.2/avsnitt/2">Alle fly i normal- og eksperimentalklassen, med unntak av mikrolette fly og seilfly, skal ha fastmontert automatisk ELT406 med unik kode tildelt av Luftfartstilsynet. ELT406 må tilfredsstille teknisk standard angitt i EASA ETSO 2C126, samt spesifikasjoner i ICAO Annex 10, Aeronautical Telecommunications, Volume III, 2. utgave, juli 2008. Senderen skal:</avsnitt>
+      <liste id="/ledd/1/liste/6.1.2.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.2.a/avsnitt/1">kunne begynne å sende automatisk ved havari,</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.1.2.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.2.b/avsnitt/1">kunne anvendes manuelt,</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.1.2.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.2.c/avsnitt/1">kunne funksjonere uavhengig av flyets batteri,</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.1.2.d">
+        <lverdi>d)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.2.d/avsnitt/1">være vanntett, og</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.1.2.e">
+        <lverdi>e)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.1.2.e/avsnitt/1">være tilstrekkelig motstandsdyktig slik at den normalt ikke blir ubrukelig som følge av havari.</avsnitt>
+      </liste>
+      <avsnitt id="/ledd/1/liste/6.1.2.e/avsnitt/2">Dersom fly er utrustet på en slik måte at personer om bord vil separere fra flyet i en nødssituasjon, skal samtlige personer utrustes med personlig nødpeilesender av typen PLB406 med GPS. Det er da ikke krav til fastmontert ELT406.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/6.2">
+      <lverdi>6.2</lverdi>
+      <avsnitt id="/ledd/1/liste/6.2/avsnitt/1">
+        <i>Flyging i samsvar med VFR-reglene</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/6.2/avsnitt/2">Alle fly skal, under flyging i samsvar med VFR-reglene være utstyrt med:</avsnitt>
+      <liste id="/ledd/1/liste/6.2.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.2.a/avsnitt/1">magnetkompass</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.2.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.2.b/avsnitt/1">et ur som indikerer timer, minutter og sekunder</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.2.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.2.c/avsnitt/1">en trykkhøydemåler</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.2.d">
+        <lverdi>d)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.2.d/avsnitt/1">en fartsmåler</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.2.e">
+        <lverdi>e)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.2.e/avsnitt/1">det kommunikasjons- og navigasjonsutstyr som kreves av vedkommende luftfartsmyndighet.</avsnitt>
+      </liste>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">I visse land kan luftfartsmyndighetene ha fastsatt minstekrav til instrumentutstyr for IFR- og VFR-flyging. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/6.3">
+      <lverdi>6.3</lverdi>
+      <avsnitt id="/ledd/1/liste/6.3/avsnitt/1">
+        <i>Flyging over vann</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/6.3.1">
+      <lverdi>6.3.1</lverdi>
+      <avsnitt id="/ledd/1/liste/6.3.1/avsnitt/1">
+        <i>Sjøfly</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/6.3.1/avsnitt/2">Et hvert sjøfly skal under flyging være utstyrt med:</avsnitt>
+      <liste id="/ledd/1/liste/6.3.1.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.3.1.a/avsnitt/1">en redningsvest eller likeverdig flyteanordning til hver enkelt person om bord, anbrakt på et sted som er lett tilgjengelig fra vedkommende sitteplass</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.3.1.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.3.1.b/avsnitt/1">drivanker, når dette er nødvendig som hjelp ved manøvrering</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/6.3.1.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/6.3.1.c/avsnitt/1">padleåre, lensepumpe og tauverk med kasteline.</avsnitt>
+      </liste>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">«Sjøfly» innbefatter amfibiefly når disse brukes som sjøfly. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/6.3.2">
+      <lverdi>6.3.2</lverdi>
+      <avsnitt id="/ledd/1/liste/6.3.2/avsnitt/1">
+        <i>Landfly</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/6.3.2/avsnitt/2">Et hvert enmotors landfly skal ved start og landing over vann og når det underveis flyr over vann i større avstand fra land enn glidedistansen, være utstyrt med en redningsvest eller likeverdig flyteanordning til hver enkelt person om bord, anbrakt på et sted som er lett tilgjengelig fra vedkommende sitteplass.</avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">«Landfly» innbefatter amfibiefly når disse brukes som landfly. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/6.3.3">
+      <lverdi>6.3.3</lverdi>
+      <avsnitt id="/ledd/1/liste/6.3.3/avsnitt/1">
+        <i>På langdistanseflyging over vann</i>
+        <avsnitt id="/ledd/1/liste/6.3.3/avsnitt/2">Alle fly på langdistanseflyging over vann skal være utstyrt med:</avsnitt>
+        <liste id="/ledd/1/liste/6.3.3.a">
+          <lverdi>a)</lverdi>
+          <avsnitt id="/ledd/1/liste/6.3.3.a/avsnitt/1">når flyet kan befinne seg mer enn 50 NM fra landområde:</avsnitt>
+          <liste id="/ledd/1/liste/6.3.3.a.i">
+            <lverdi>i)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.3.3.a.i/avsnitt/1">en redningsvest eller likeverdig flyteanordning til hver enkelt om bord, anbrakt på et sted som er lett tilgjengelig fra vedkommende sitte- eller liggeplass.</avsnitt>
+          </liste>
+        </liste>
+        <liste id="/ledd/1/liste/b+">
+          <lverdi>b)</lverdi>
+          <avsnitt id="/ledd/1/liste/b/avsnitt/1+">Når flyet kan befinne seg mer enn 100 NM i tilfelle av enmotors fly, og 200 NM i tilfelle av flermotors fly fra landområde:</avsnitt>
+          <liste id="/ledd/1/liste/b.i+">
+            <lverdi>i)</lverdi>
+            <avsnitt id="/ledd/1/liste/b.i/avsnitt/1+">redningsflåter i tilstrekkelig antall til å bære alle om bord, anbrakt slik at de er lett tilgjengelig i en nødssituasjon og forsynt med slikt redningsutstyr - inklusive midler til livets opprettholdelse - som må anses for passende for den angjeldende flyging og midler til å sende de i lufttrafikkreglene beskrevne nødlyssignaler.</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/b.ii+">
+            <lverdi>ii)</lverdi>
+            <avsnitt id="/ledd/1/liste/b.ii/avsnitt/1+">Minst en VHF-nødradiosender, som oppfyller ICAO Annex 10s krav til slik utrustning. Radiosenderen skal være transportabel og anbrakt på et sted som er lett tilgjengelig i en nødssituasjon. Den skal kunne flyte, være vanntett, ha egen strømforsyning og kunne betjenes av ikke fagfolk.</avsnitt>
+          </liste>
+        </liste>
+        <liste id="/ledd/1/liste/6.4">
+          <lverdi>6.4</lverdi>
+          <avsnitt id="/ledd/1/liste/6.4/avsnitt/1">
+            <i>Flyging over øde områder</i>
+          </avsnitt>
+          <avsnitt id="/ledd/1/liste/6.4/avsnitt/2">Rednings- og nødutstyr som skal medbringes ved flyging med enmotors fly over øde områder fremgår av BSL D 1-8.</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.5">
+          <lverdi>6.5</lverdi>
+          <avsnitt id="/ledd/1/liste/6.5/avsnitt/1">
+            <i>Flyging i store høyder</i>
+          </avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.5.1">
+          <lverdi>6.5.1</lverdi>
+          <avsnitt id="/ledd/1/liste/6.5.1/avsnitt/1">Alle fly som ikke har trykkabin og som skal brukes i store høyder, skal være tilstrekkelig med oksygen og masker til å dekke og fordele oksygenforsyningen som er forlangt i 4.7.</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.5.2">
+          <lverdi>6.5.2</lverdi>
+          <avsnitt id="/ledd/1/liste/6.5.2/avsnitt/1">Alle fly med trykkabin som skal brukes i store høyder skal medføre nødforsyning av oksygen og masker til bruk for flygebesetningen.</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.6">
+          <lverdi>6.6</lverdi>
+          <avsnitt id="/ledd/1/liste/6.6/avsnitt/1">
+            <i>Flyging i samsvar med instrumentflygereglene</i>
+          </avsnitt>
+          <avsnitt id="/ledd/1/liste/6.6/avsnitt/2">Alle fly som brukes i samsvar med instrumentflygereglene skal være utstyrt med:</avsnitt>
+          <liste id="/ledd/1/liste/6.6.a">
+            <lverdi>a)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.a/avsnitt/1">Krengings- og svingviser</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.b">
+            <lverdi>b)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.b/avsnitt/1">Horisontgyro</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.c">
+            <lverdi>c)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.c/avsnitt/1">Retningsgyro</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.d">
+            <lverdi>d)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.d/avsnitt/1">Midler til å vise om energitilførselen til gyroinstrumentene er tilstrekkelig</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.e">
+            <lverdi>e)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.e/avsnitt/1">To følsomme barometriske høydemålere</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.f">
+            <lverdi>f)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.f/avsnitt/1">Et instrument i førerrommet som viser den utvendige lufts temperatur</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.g">
+            <lverdi>g)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.g/avsnitt/1">Et ur som indikerer timer, minutter og sekunder</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.h">
+            <lverdi>h)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.h/avsnitt/1">Fartsmåler med pitotsystem som kan avises</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.i">
+            <lverdi>i)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.i/avsnitt/1">Vertikal fartsmåler</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.j">
+            <lverdi>j)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.j/avsnitt/1">Magnetkompass</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.k">
+            <lverdi>k)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.k/avsnitt/1">Rutehåndbok som gir opplysninger om kommunikasjons- og navigasjonshjelpemidler, samt flyplasser og innflygingshjelpemidler for den rute som skal flyges</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.6.l">
+            <lverdi>l)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.6.l/avsnitt/1">En holder for IAL-kart.</avsnitt>
+          </liste>
+        </liste>
+        <liste id="/ledd/1/liste/6.7">
+          <lverdi>6.7</lverdi>
+          <avsnitt id="/ledd/1/liste/6.7/avsnitt/1">
+            <i>Flyging i mørke</i>
+          </avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.7.1">
+          <lverdi>6.7.1</lverdi>
+          <avsnitt id="/ledd/1/liste/6.7.1/avsnitt/1">Alle fly som brukes i tiden mellom solnedgang og soloppgang skal være utstyrt med:</avsnitt>
+          <liste id="/ledd/1/liste/6.7.1.a">
+            <lverdi>a)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.7.1.a/avsnitt/1">Alt det utstyr som er foreskrevet i pkt. 6.6 unntatt f), g), k) og l) samt e) hvor det kun er krav til en høydemåler og h) hvor det ikke er krav til pitotsystem som kan avises</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.7.1.b">
+            <lverdi>b)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.7.1.b/avsnitt/1">Landingslyskaster</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.7.1.c">
+            <lverdi>c)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.7.1.c/avsnitt/1">Belysning for alle instrumenter og alt utstyr som brukes av flygebesetningen og som er nødvendig for en sikker betjening av flyet</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.7.1.d">
+            <lverdi>d)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.7.1.d/avsnitt/1">Lys i passasjerkabinen</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.7.1.e">
+            <lverdi>e)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.7.1.e/avsnitt/1">En elektrisk håndlykt ved hvert tjenestegjørende besetningsmedlems plass</avsnitt>
+          </liste>
+          <liste id="/ledd/1/liste/6.7.1.f">
+            <lverdi>f)</lverdi>
+            <avsnitt id="/ledd/1/liste/6.7.1.f/avsnitt/1">Navigasjonslanterner som angitt i Bilag V til BSL D 2-1.</avsnitt>
+          </liste>
+        </liste>
+        <liste id="/ledd/1/liste/6.8">
+          <lverdi>6.8</lverdi>
+          <avsnitt id="/ledd/1/liste/6.8/avsnitt/1">
+            <i>Flyging under isingsforhold</i>
+          </avsnitt>
+          <avsnitt id="/ledd/1/liste/6.8/avsnitt/2">Fly skal være forsynt med avisingsutstyr når de brukes under forhold og på steder hvor det er rapportert isingsfare eller hvor isingsforhold kan ventes.</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.9">
+          <lverdi>6.9</lverdi>
+          <avsnitt id="/ledd/1/liste/6.9/avsnitt/1">
+            <i>Flyging til og fra vann, is- og snølagte flater</i>
+          </avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.9.1">
+          <lverdi>6.9.1</lverdi>
+          <avsnitt id="/ledd/1/liste/6.9.1/avsnitt/1">Fly som skal lande på vann, is- og snølagte flater skal være utstyrt med en vertikal fartsmåler.</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/6.9.2">
+          <lverdi>6.9.2</lverdi>
+          <avsnitt id="/ledd/1/liste/6.9.2/avsnitt/1">For start og landing med sjøfly i mørke eller om natten skal avgangs- og landingsområdet ha slik belysning at start og landing kan foregå på en betryggende måte.</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/7">
+          <lverdi>7</lverdi>
+          <avsnitt id="/ledd/1/liste/7/avsnitt/1">
+            <i>Kommunikasjons- og navigasjonsutstyr i fly</i>
+          </avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/7.1">
+          <lverdi>7.1</lverdi>
+          <avsnitt id="/ledd/1/liste/7.1/avsnitt/1">
+            <i>Kommunikasjonsutstyr</i>
+          </avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/7.1.1">
+          <lverdi>7.1.1</lverdi>
+          <avsnitt id="/ledd/1/liste/7.1.1/avsnitt/1">Fly skal være utstyrt med kommunikasjonsutstyr som gjør det mulig å holde to-veis forbindelse med angjeldende enhet av lufttrafikktjenesten på de frekvenser som er foreskrevet. Det kan dispenseres fra denne bestemmelse.</avsnitt>
+        </liste>
+      </avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Kravet anses oppfylt hvis mulighetene for å utveksle de foreskrevne meddelelser er til stede under normale radiomessige forhold på strekningen. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/7.1.1.1">
+      <lverdi>7.1.1.1</lverdi>
+      <avsnitt id="/ledd/1/liste/7.1.1.1/avsnitt/1">Hvis det behøves mer enn et sett kommunikasjonsutstyr for å kunne etterfølge 7.1.1 skal hvert enkelt sett være uavhengig av det/de andre på en slik måte at hvis det oppstår feil i ett sett, så skal dette ikke resultere i feilfunksjon i et annet sett.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/7.2">
+      <lverdi>7.2</lverdi>
+      <avsnitt id="/ledd/1/liste/7.2/avsnitt/1">
+        <i>Navigasjonsutstyr</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/7.2.1">
+      <lverdi>7.2.1</lverdi>
+      <avsnitt id="/ledd/1/liste/7.2.1/avsnitt/1">Fly skal være utstyrt med navigasjonsutstyr i henhold til BSL D 1-14 og skal ha utstyr som gjør det mulig å utføre flygingen:</avsnitt>
+      <liste id="/ledd/1/liste/7.2.1.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/7.2.1.a/avsnitt/1">I samsvar med den operative flygeplan</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/7.2.1.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/7.2.1.b/avsnitt/1">I samsvar med instruksjoner fra flygekontrolltjenesten, med mindre flygingen utføres i samsvar med de visuelle flygeregler og navigasjonen kan gjennomføres med referanse til landemerker for minst hvert 60 NM og vedkommende luftfartsmyndighet ikke stiller krav til navigasjonsutstyr for VFR-flyging.</avsnitt>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/7.2.2">
+      <lverdi>7.2.2</lverdi>
+      <avsnitt id="/ledd/1/liste/7.2.2/avsnitt/1">Fly som brukes over havområder hvor det ifølge regional overenskomst foreligger krav til spesiell navigasjonsnøyaktighet, skal dessuten ha navigasjonsutstyr som:</avsnitt>
+      <liste id="/ledd/1/liste/7.2.2.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/7.2.2.a/avsnitt/1">gir flybesetningen løpende informasjon med angitt nøyaktighet om flyets posisjon i forhold til den planlagte rutetrasé, og</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/7.2.2.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/7.2.2.b/avsnitt/1">er godkjent av Luftfartstilsynet for bruk av flyginger over slike havområder.</avsnitt>
+      </liste>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Krav til ovennevnte navigasjonsnøyaktighet kalles av ICAO: Minimum Navigation Performance Specifications (MNPS). </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/7.2.3">
+      <lverdi>7.2.3</lverdi>
+      <avsnitt id="/ledd/1/liste/7.2.3/avsnitt/1">Fly skal ha navigasjonsutstyr som det gjør det mulig, hvis feil oppstår i noen enhet av utstyret under flyging, å fortsette navigeringen i samsvar med kravene i 7.2.1.</avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Dette krav kan oppfylles på en annen måte enn ved dublering av utstyret. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/7.2.4">
+      <lverdi>7.2.4</lverdi>
+      <avsnitt id="/ledd/1/liste/7.2.4/avsnitt/1">Ved flyging hvor det er hensikten å foreta instrumentlanding, skal flyet ha radioutstyr som gjør det mulig å motta signaler som kan lede til et punkt hvorfra landing kan gjennomføres visuelt med bakkesikt. Dette utstyr skal kunne benyttes ved instrumentinnflyging til så vel bestemmelsesstedet som de alternative flyplasser.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/7.3">
+      <lverdi>7.3</lverdi>
+      <avsnitt id="/ledd/1/liste/7.3/avsnitt/1">
+        <i>Transponderutstyr</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/7.3/avsnitt/2">Fly skal være utstyrt med automatisk svarsender for sekundærradar - transponder - når flygingen skal utføres i et område eller ved en flyplass hvor slikt utstyr er obligatorisk.</avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Transponderutstyr anbefales om man flyr ofte til og fra flyplasser eller i områder hvor flygekontrolltjenesten benytter sekundærradar selv om transponder ikke er obligatorisk. Med henblikk på den forventede utvikling bør transponder ha mulighet for fremtidig innkopling av automatisk høyderapportering hvis dette ikke installeres fra begynnelsen av. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/8">
+      <lverdi>8</lverdi>
+      <avsnitt id="/ledd/1/liste/8/avsnitt/1">
+        <i>Vedlikehold av fly</i>
+      </avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">«Fly» i dette kapittel dekker også motorer, propeller, komponenter og tilbehør, instrumenter, radio, utstyr og apparater, samt nødutstyr. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/8.1">
+      <lverdi>8.1</lverdi>
+      <avsnitt id="/ledd/1/liste/8.1/avsnitt/1">
+        <i>Ansvarsforhold</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/8.1.1">
+      <lverdi>8.1.1</lverdi>
+      <avsnitt id="/ledd/1/liste/8.1.1/avsnitt/1">Eieren eller brukeren av et fly er ansvarlig for at det vedlikeholdes slik at kravene i luftfartsloven § 43 om luftdyktighet er oppfylt.</avsnitt>
+      <avsnitt id="/ledd/1/liste/8.1.1/avsnitt/2">For fly med høyeste tillatte startvekt over 2000 kg skal den som står ansvarlig for vedlikeholdet være en autorisert mekaniker, eller en godkjent vedlikeholdsorganisasjon. Melding om ansvarlig person eller organisasjon skal sendes til Luftfartstilsynet.</avsnitt>
+      <avsnitt id="/ledd/1/liste/8.1.1/avsnitt/3">For fly med høyeste tillatte startvekt over 5700 kg skal vedlikeholdsordningen være godkjent av Luftfartstilsynet.</avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Er flyet leiet ut skal det av leiekontrakten fremgå om vedlikeholdsansvaret er overført til brukeren. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/8.1.2">
+      <lverdi>8.1.2</lverdi>
+      <avsnitt id="/ledd/1/liste/8.1.2/avsnitt/1">Eieren eller brukeren av fly er ansvarlig for at:</avsnitt>
+      <liste id="/ledd/1/liste/8.1.2.i">
+        <lverdi>i)</lverdi>
+        <avsnitt id="/ledd/1/liste/8.1.2.i/avsnitt/1">Vedlikehold, ettersyn og reparasjon utføres i samsvar med Luftfartstilsynet bestemmelser.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/8.1.2.ii">
+        <lverdi>ii)</lverdi>
+        <avsnitt id="/ledd/1/liste/8.1.2.ii/avsnitt/1">Vedlikeholdspersonell gjør de nødvendige notater i flyets journaler eller tilsvarende dokumenter om at flyet er luftdyktig.</avsnitt>
+      </liste>
+      <liste id="/ledd/1/liste/8.1.2.iii">
+        <lverdi>iii)</lverdi>
+        <avsnitt id="/ledd/1/liste/8.1.2.iii/avsnitt/1">Vedlikeholdsattest er utfylt og undertegnet av godkjent personell. Attesten skal inneholde forsikring om at vedlikeholdsarbeidet er tilfredsstillende utført på foreskrevet måte.</avsnitt>
+      </liste>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">De utførlige bestemmelser om ansvarsfordelingen finnes i KfL nr. 1/Tekn./1964 2. utgave av 1. juli 1975. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/8.2">
+      <lverdi>8.2</lverdi>
+      <avsnitt id="/ledd/1/liste/8.2/avsnitt/1">
+        <i>Luftdyktighetserklæring</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/8.2/avsnitt/2">Enhver person som skal undertegne erklæringer om flys luftdyktighet, skal være i besittelse av gyldig sertifikat eller bevis herfor.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/8.3">
+      <lverdi>8.3</lverdi>
+      <avsnitt id="/ledd/1/liste/8.3/avsnitt/1">
+        <i>Dokumentasjon av vedlikeholdsarbeider</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/8.3.1">
+      <lverdi>8.3.1</lverdi>
+      <avsnitt id="/ledd/1/liste/8.3.1/avsnitt/1">Flyeieren skal sørge for at det føres oppgave over følgende:</avsnitt>
+      <liste id="/ledd/1/liste/8.3.1.a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/ledd/1/liste/8.3.1.a/avsnitt/1">For hele flyet:</avsnitt>
+        <liste id="/ledd/1/liste/8.3.1.a.i">
+          <lverdi>(i)</lverdi>
+          <avsnitt id="/ledd/1/liste/8.3.1.a.i/avsnitt/1">Tomvekten og tyngdepunktet for tomt fly</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/8.3.1.a.ii">
+          <lverdi>(ii)</lverdi>
+          <avsnitt id="/ledd/1/liste/8.3.1.a.ii/avsnitt/1">Tillegg eller fjerning av utstyr</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/8.3.1.a.iii">
+          <lverdi>(iii)</lverdi>
+          <avsnitt id="/ledd/1/liste/8.3.1.a.iii/avsnitt/1">De forskjellige vedlikeholdsreparasjoner og forandringer, som er utført med angivelse av gangtid og datoen for utførelsen</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/8.3.1.a.iv">
+          <lverdi>(iv)</lverdi>
+          <avsnitt id="/ledd/1/liste/8.3.1.a.iv/avsnitt/1">Kronologisk oppgave over og metoden for oppfyllelse av luftdyktighet.</avsnitt>
+        </liste>
+      </liste>
+      <liste id="/ledd/1/liste/8.3.1.b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/ledd/1/liste/8.3.1.b/avsnitt/1">For flyets hoveddeler:</avsnitt>
+        <liste id="/ledd/1/liste/8.3.1.b.i">
+          <lverdi>(i)</lverdi>
+          <avsnitt id="/ledd/1/liste/8.3.1.b.i/avsnitt/1">Total gangtid</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/8.3.1.b.ii">
+          <lverdi>(ii)</lverdi>
+          <avsnitt id="/ledd/1/liste/8.3.1.b.ii/avsnitt/1">Gangtid siden siste overhaling og datoen for denne</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/8.3.1.b.iii">
+          <lverdi>(iii)</lverdi>
+          <avsnitt id="/ledd/1/liste/8.3.1.b.iii/avsnitt/1">Datoen for siste ettersyn.</avsnitt>
+        </liste>
+      </liste>
+      <liste id="/ledd/1/liste/8.3.1.c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/ledd/1/liste/8.3.1.c/avsnitt/1">For instrumenter og utstyr hvor gangtiden er avgjørende for brukbarheten:</avsnitt>
+        <liste id="/ledd/1/liste/8.3.1.c.i">
+          <lverdi>(i)</lverdi>
+          <avsnitt id="/ledd/1/liste/8.3.1.c.i/avsnitt/1">Nødvendige oppgaver over gangtiden for å kunne utstyrets brukbarhet og levetid</avsnitt>
+        </liste>
+        <liste id="/ledd/1/liste/8.3.1.c.ii">
+          <lverdi>(ii)</lverdi>
+          <avsnitt id="/ledd/1/liste/8.3.1.c.ii/avsnitt/1">Datoen for siste ettersyn.</avsnitt>
+        </liste>
+      </liste>
+    </liste>
+    <liste id="/ledd/1/liste/8.3.2">
+      <lverdi>8.3.2</lverdi>
+      <avsnitt id="/ledd/1/liste/8.3.2/avsnitt/1">Bruker eller eier av fly skal oppfylle kravene i 8.3 i samsvar med bestemmelsene i BSL B.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/8.3.3">
+      <lverdi>8.3.3</lverdi>
+      <avsnitt id="/ledd/1/liste/8.3.3/avsnitt/1">Oppgavene i 8.3.1 og 8.3.2 skal oppbevares i minst 90 dager etter at den enhet de gjelder for, er endelig tatt i bruk.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/9">
+      <lverdi>9</lverdi>
+      <avsnitt id="/ledd/1/liste/9/avsnitt/1">
+        <i>Flygebesetningen</i>
+      </avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/9.1">
+      <lverdi>9.1</lverdi>
+      <avsnitt id="/ledd/1/liste/9.1/avsnitt/1">
+        <i>Sertifikatkrav</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/9.1/avsnitt/2">Flygebesetningsmedlemmene skal under utøvelse av flygetjeneste være innehaver av og medføre gyldige luftfartssertifikat, som gir rett til utøvelse av tjenesten i samsvar med sertifikatforskriftene (BSL C).</avsnitt>
+      <avsnitt id="/ledd/1/liste/9.1/avsnitt/3">Fartøysjefen skal være innehaver av flytelefonsertifikat.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/9.2">
+      <lverdi>9.2</lverdi>
+      <avsnitt id="/ledd/1/liste/9.2/avsnitt/1">
+        <i>Flygebesetningens sammensetning</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/9.2/avsnitt/2">Flygebesetningen må ikke være mindre i antall enn det som er foreskrevet i flygehåndboken eller annet dokument som er knyttet til luftdyktighetsbeviset.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/9.3">
+      <lverdi>9.3</lverdi>
+      <avsnitt id="/ledd/1/liste/9.3/avsnitt/1">
+        <i>Flyging med passasjerer</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/9.3/avsnitt/2">For å medbringe passasjerer skal sertifikatinnehaveren har utført minst 5 avganger og landinger på aktuell klasse av fly i løpet av de siste 90 dager.</avsnitt>
+    </liste>
+    <table niv="4" frame="0">
+      <tgroup cols="2" rowsep="0" colsep="0">
+        <colspec colname="1" align="left" valign="top" colwidth="7*"/>
+        <colspec colname="2" align="left" valign="top" colwidth="61*"/>
+        <tbody>
+          <row>
+            <entry colname="1">Anm.: </entry>
+            <entry colname="2">Avganger og landinger utført på en modell gjelder også for annen modell innen samme klasse. For fly som kommer inn under betegnelsen «type», kreves ovennevnte antall avganger og landinger for hver enkelt type. Det vises til BSL C 2-1, bilag 1. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <liste id="/ledd/1/liste/10">
+      <lverdi>10</lverdi>
+      <avsnitt id="/ledd/1/liste/10/avsnitt/1">
+        <i>Operativ organisasjon</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/10/avsnitt/2">For fly over 5700 kg skal fartøysjefen ha støtte i en operativ organisasjon godkjent av Luftfartstilsynet.</avsnitt>
+    </liste>
+    <liste id="/ledd/1/liste/11">
+      <lverdi>11</lverdi>
+      <avsnitt id="/ledd/1/liste/11/avsnitt/1">
+        <i>Ikrafttredelse</i>
+      </avsnitt>
+      <avsnitt id="/ledd/1/liste/11/avsnitt/2">Forskriften trer i kraft straks.</avsnitt>
+    </liste>
+    <kapittel type="bilag" id="/bilag/i" url="https://lovdata.no/lovtidend/forskrift/2016-08-30-1024/bi">
+      <kverdi>Bilag I</kverdi>
+      <ktittel>Eksempel på operativ flygeplan VFR</ktittel>
+      <ledd id="/bilag/i/ledd/1">
+        <img src="/ltavd1/filer/grafikk/sf-20160830-1024-01-01.gif" alt="ikon"/>
+      </ledd>
+    </kapittel>
+    <kapittel type="bilag" id="/bilag/ii" url="https://lovdata.no/lovtidend/forskrift/2016-08-30-1024/bii">
+      <kverdi>Bilag II</kverdi>
+      <ktittel>Eksempel på operativ flygeplan IFR</ktittel>
+      <ledd id="/bilag/ii/ledd/1">
+        <img src="/ltavd1/filer/grafikk/sf-20160830-1024-02-01.gif" alt="ikon"/>
+      </ledd>
+    </kapittel>
+  </tekst>
+</dokument>

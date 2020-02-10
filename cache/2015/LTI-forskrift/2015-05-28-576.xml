@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2015-05-28-576" type="lt" url="https://lovdata.no/lovtidend/forskrift/2015-05-28-576">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2015-05-28-576</id>
+    <dato>28.05.2015 nr. 576</dato>
+    <dato type="iso">2015-05-28</dato>
+    <publisert>I 2015 hefte 5 s 791</publisert>
+    <ikraft>28.05.2015, 01.07.2015</ikraft>
+    <ikraft type="iso">2015-05-28, 2015-07-01</ikraft>
+    <departement>Nærings- og fiskeridepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2008-06-06-37-§34">L06.06.2008 nr. 37 § 34</ref>, <ref id="lov-2008-06-06-37-§36">§ 36</ref>, <ref id="lov-2008-06-06-37-§37">§ 37</ref>, <ref id="lov-2008-06-06-37-§39">§ 39</ref>, <ref id="lov-2008-06-06-37-§43">§ 43</ref>, <ref id="for-2009-12-21">F21.12.2009 nr.</ref>1743 <ref id="for-2009-12-21-§22">§ 22</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2009-12-21-1743</endrer>
+    <rettet/>
+    <journalnummer>2015-0452</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om posisjonsrapportering mv.</korttittel>
+    <korttittel>4 Endr. i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy (Nr. 576)</korttittel>
+    <tittel>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Fiskeridirektoratet 28. mai 2015 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 34, § 36, § 37, § 39 og § 43 og forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy § 22.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2015-05-28-576/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 12 femte ledd dataelementet «innsats» skal lyde:</ledd>
+      <table niv="1" frame="1">
+        <tgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="22*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="8*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="34*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Innsats </entry>
+              <entry colname="2">FO </entry>
+              <entry colname="3">PD </entry>
+              <entry colname="4">Antall krok og teiner eller totallengde garn (meter) samlet per døgn.
+<br/>PD: påkrevd dersom fartøyet driver fiske med line, garn eller fangst med teiner etter snøkrabbe (CA=CRQ) </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <ledd id="/kapittel/i/ledd/3">§ 13 første ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/4">Fartøy som nevnt i § 10 skal, uavhengig av om det skal landes fangst, sende melding om havneanløp (POR) senest 2 timer før anløp til havn. Fartøy som foretar siste fiskeoperasjon nærmere havn enn 2 timer, skal snarest mulig før anløp havn sende melding om havneanløp. Det samme gjelder fartøy som skal foreta omlasting av fangst til lås/steng eller merd mindre enn 2 timer fra havn.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/5">§ 13 femte ledd oppheves. Gjeldende § 13 sjette og syvende ledd blir femte og sjette ledd.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/6">§ 13 nytt femte ledd skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/7">Fartøy som fører norsk flagg, herunder transportfartøy, som har fangst om bord fanget av utenlandske fartøy i NEAFCs konvensjonsområde som skal lande eller på annen måte bruke norsk havn, skal forholde seg som beskrevet i forskrift 13. mai 1977 nr. 2 om utlendingers fiske og fangst i Norges økonomiske sone og landinger til eller annen bruk av norsk havn § 13. Fartøy som fører norsk flagg, herunder transportfartøy, som har fangst om bord fanget av utenlandske fartøy i NAFOs reguleringsområde og som skal lande i norsk havn, skal sende forhåndsmelding minst 3 virkedager før ankomst havn.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/8">I vedlegg 3 - Sending av manuelle meldinger ved feilsituasjoner, skal feltet «MA» lyde:
+<marg niv="2" id="/kapittel/i/ledd/8/marg/1">MA = HANS HANSEN</marg></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2015-05-28-576/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Endringen av forskriftens § 12 femte ledd, § 13 første ledd og vedlegg 3 trer i kraft straks.</ledd>
+      <ledd id="/kapittel/ii/ledd/2">Endringen av forskriftens § 13 femte ledd (nytt) trer i kraft 1. juli 2015.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

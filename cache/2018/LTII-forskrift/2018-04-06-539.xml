@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2018-04-06-539" type="lt" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2018-04-06-539</id>
+    <dato>06.04.2018 nr. 539</dato>
+    <dato type="iso">2018-04-06</dato>
+    <ikraft>06.04.2018</ikraft>
+    <ikraft type="iso">2018-04-06</ikraft>
+    <departement>FV (Fiskeri/fangst/havbruk)</departement>
+    <etat/>
+    <gjelder>Sogn og Fjordane</gjelder>
+    <hjemmel><ref id="lov-1992-05-15-47-§15">L15.05.1992 nr. 47 § 15</ref>, <ref id="lov-1992-05-15-47-§34">§ 34</ref>, <ref id="lov-1992-05-15-47-§40">§ 40</ref>, <ref id="lov-1992-05-15-47-§41">§ 41</ref>, <ref id="for-1992-11-27-864">F27.11.1992 nr. 864</ref>, <ref id="for-2003-06-20-737-§2">F20.06.2003 nr. 737 § 2</ref>, <ref id="for-2012-05-10-431-§8">F10.05.2012 nr. 431 § 8</ref>, <ref id="for-2012-05-10-438-§6">F10.05.2012 nr. 438 § 6</ref>, <ref id="lov-2009-06-19-100-§15">L19.06.2009 nr. 100 § 15</ref>, <ref id="lov-2009-06-19-100-§16">§ 16</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2002-06-21-881</endrer>
+    <endrer type="ref">https://lovdata.no/for/2010-02-24-685</endrer>
+    <endrer type="ref">https://lovdata.no/for/2005-06-30-767</endrer>
+    <rettet/>
+    <journalnummer>2018-0388</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om fiske i og utanfor vassdrag med anadrome laksefisk, Sogn og Fjordane</korttittel>
+    <tittel>Forskrift om fiske i og utanfor vassdrag med anadrome laksefisk, Sogn og Fjordane</tittel>
+    <redaksjonell_note><b>Heimel:</b> Fastsett av Fylkesmannen i Sogn og Fjordane 6. april 2018 med heimel i lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv. (lakse- og innlandsfiskloven) § 15, § 34, § 40 og § 41, jf. delegeringsvedtak 27. november 1992 nr. 864, forskrift 20. juni 2003 nr. 737 om nedsenking av garnredskap § 2, forskrift 10. mai 2012 nr. 431 om fisketider for fiske etter anadrome laksefisk i sjøen § 8 og forskrift 10. mai 2012 nr. 438 om fisketider for fiske etter anadrome laksefisk i vassdrag § 6, jf. lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 15 og § 16.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Verkeområde</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k1/p1">
+        <pverdi>§ 1.</pverdi>
+        <ptittel>Verkeområde</ptittel>
+        <ledd id="/kapittel/1/paragraf/1/ledd/1">Forskrifta gjeld fiske i vassdrag med anadrome laksefisk (laks/sjøaure) og i nærare definerte område i sjøen i Sogn og Fjordane.</ledd>
+        <ledd id="/kapittel/1/paragraf/1/ledd/2">Denne forskrifta kjem i tillegg til gjeldande reglar i nasjonale fiskeforskrifter (reiskap, fisketid m.m.).</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Fiske etter innlandsfisk i vassdrag med anadrome laksefisk</ktittel>
+      <paragraf id="/kapittel/2/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k2/p2">
+        <pverdi>§ 2.</pverdi>
+        <ptittel>Fiske etter innlandsfisk med stong og handsnøre</ptittel>
+        <ledd id="/kapittel/2/paragraf/2/ledd/1">I innsjøar med androme laksefisk som ikkje er nemnd i andre ledd, er det tillate å fiske innlandsfisk med stong og handsnøre også i den tida det ikkje er opna for fiske etter laks eller sjøaure. Slikt fiske gjeld berre i ein avstand på minst 100 m i luftline frå lakse- eller sjøaureførande elveos eller kanal.</ledd>
+        <ledd id="/kapittel/2/paragraf/2/ledd/2">I følgjande innsjøar er det berre tillate å fiske innlandsfisk med stong og handsnøre i den tida det er opna for fiske etter laks eller sjøaure:</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="15*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="25*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="35*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Kommune</i>
+                </entry>
+                <entry colname="2">
+                  <i>Vassdrag</i>
+                </entry>
+                <entry colname="3">
+                  <i>Innsjø</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="15*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="25*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="35*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Aurland </entry>
+                <entry colname="2">Aurlandsvassdraget </entry>
+                <entry colname="3">Vassbygdvatnet </entry>
+              </row>
+              <row>
+                <entry colname="1">Luster </entry>
+                <entry colname="2">Fortunsvassdraget </entry>
+                <entry colname="3">Eidsvatnet </entry>
+              </row>
+              <row>
+                <entry colname="1">Selje </entry>
+                <entry colname="2">Dalsbøvassdraget </entry>
+                <entry colname="3">Ervikvatnet </entry>
+              </row>
+              <row>
+                <entry colname="1">Årdal </entry>
+                <entry colname="2">Årdalsvassdraget </entry>
+                <entry colname="3">Årdalsvatnet </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <ledd id="/kapittel/2/paragraf/2/ledd/3">I følgjande elvar/elvestrekningar er det, i tillegg til den tida det er opna for fiske etter laks eller sjøaure, tillate å fiske innlandsfisk (og marin fisk i utløpskanalen til Østerbøvatnet) i dei oppgitte tidsromma (frå og med - til og med):</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="4" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="8*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="23*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="20*"/>
+            <colspec colname="4" align="left" valign="top" colwidth="24*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Kommune</i>
+                </entry>
+                <entry colname="2">
+                  <i>Vassdrag</i>
+                </entry>
+                <entry colname="3">
+                  <i>Vassdrag</i>
+                </entry>
+                <entry colname="4">
+                  <i>Tidsrom</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="4" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="8*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="23*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="20*"/>
+            <colspec colname="4" align="left" valign="top" colwidth="24*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Flora </entry>
+                <entry colname="2">Vassdraget Osen - Vestre Hyen </entry>
+                <entry colname="3">Ovanfor Blåmannsfossen </entry>
+                <entry colname="4">1. mai - 31. mai </entry>
+              </row>
+              <row>
+                <entry colname="1">Gaular </entry>
+                <entry colname="2">Gaula </entry>
+                <entry colname="3">Ovanfor Alværfossen </entry>
+                <entry colname="4">1. mai - 31. mai. </entry>
+              </row>
+              <row>
+                <entry colname="1">Hornindal </entry>
+                <entry colname="2">Hornindalsvassdraget </entry>
+                <entry colname="3">Storelva ved Grodås </entry>
+                <entry colname="4">15. mars - 30. september </entry>
+              </row>
+              <row>
+                <entry colname="1">Høyanger </entry>
+                <entry colname="2">Østerbøvassdraget </entry>
+                <entry colname="3">Utløpskanalen frå Østerbøvatnet </entry>
+                <entry colname="4">Heile året (gjeld både marin fisk og laksefisk). </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k2/p3">
+        <pverdi>§ 3.</pverdi>
+        <ptittel>Fiske etter innlandsfisk med garn</ptittel>
+        <ledd id="/kapittel/2/paragraf/3/ledd/1">I innsjøar med androme laksefisk som ikkje er nemnd i andre ledd, er det tillate å fiske innlandsfisk med botngarn med største maskevidd 31 mm (20 omfar) i tidsrommet 15. mai-31. august. I innsjøar med røye er det også tillate å fiske med garn med største maskevidd 31 mm senka ned til minst 10 m djupne i tidsrommet 1. september-15. desember. Garna skal stå på botnen og med alle flytarar under vatn.</ledd>
+        <ledd id="/kapittel/2/paragraf/3/ledd/2">I følgjande innsjøar gjeld særreglar for å fiske med garn etter innlandsfisk (sortert etter kommune):</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="15*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="25*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="35*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Kommune</i>
+                </entry>
+                <entry colname="2">
+                  <i>Vassdrag</i>
+                </entry>
+                <entry colname="3">
+                  <i>Reglar</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="15*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="25*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="35*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Aurland </entry>
+                <entry colname="2">Vassbygdvatnet i Aurlandsvassdraget </entry>
+                <entry colname="3">Garnfiske er ikkje tillate. </entry>
+              </row>
+              <row>
+                <entry colname="1">Eid og Hornindal </entry>
+                <entry colname="2">Hornindalsvatnet i Hornindalsvassdraget </entry>
+                <entry colname="3">Aust for ei line mellom merke ved Bakkeneset (UTM 32V 348515 6867605) i syd og merke på ein godt synleg stein ved Grønløkjen (UTM 32V 348926 6868034) i nord er det tillate å fiske med botngarn og flytegarn med største maskevidd 39 mm i tidsrommet 15. mai-25. september og med botngarn og neddykte garn med største maskevidd 31 mm elles i året. Mellom denne grenselina og ei grenseline frå merke på godt synleg stein vest for Årvikneset (UTM 32V 348308 6868210) og rett syd til merke vest for Andeneset (UTM 32 V 348270 6868073), er det tillate å fiske med botngarn og neddykte garn med største maskevidd 31 mm heile året.
+<br/> I Hornindalsvatnet ved utløpet av Storelva (Horndøla) er garnfiske tillate inn til merke i syd ved naustvegg (UTM 32V 369966 6873277) og i nord til merke ved land (UTM 32 V 369835 6873368). Grenselina i syd går i retning saga ved sjøen i vest (UTM 32V 369438 6872624), og grenselina i nord i retning loddrett vegg på Kjøsahammaren (UTM 32V 366908 6871911). Begge grenselinene er avskåre av ei line frå Svor-museet i syd (UTM 32V 370153 6872793) til hus på Ytrehorn i nord (UTM 32V 369297 6873638). </entry>
+              </row>
+              <row>
+                <entry colname="1">Flora og Gloppen </entry>
+                <entry colname="2">Endestadvannet, Lykkjebøvannet og Krogstadvannet i vassdraget Osen - Vestre Hyen </entry>
+                <entry colname="3">Fiske med botngarn, flytegarn og ruse er tillate heile året. Maksimum maskevidde på garn er 31 mm. Dei generelle avgrensingane for garnfiske gjeld også for rusefiske. </entry>
+              </row>
+              <row>
+                <entry colname="1">Luster </entry>
+                <entry colname="2">Eidsvatnet i Fortunsvassdraget </entry>
+                <entry colname="3">Garnfiske er ikkje tillate. </entry>
+              </row>
+              <row>
+                <entry colname="1">Selje </entry>
+                <entry colname="2">Ervikvatnet i Dalsbøvassdraget </entry>
+                <entry colname="3">Garnfiske er ikkje tillate. </entry>
+              </row>
+              <row>
+                <entry colname="1">Selje </entry>
+                <entry colname="2">Dalsbøvassdraget </entry>
+                <entry colname="3">Under røyefisket med nedsenka garn i Dalsbøvatnet, Morkavatnet og Sætrevatnet kan garna fortøyast i land med tau, men garna skal stå minst 2 m frå land. </entry>
+              </row>
+              <row>
+                <entry colname="1">Stryn </entry>
+                <entry colname="2">Strynevassdraget </entry>
+                <entry colname="3">I Nedrefloen er garnfiske berre tillate med største maskevidd 26 mm nedsenka til 5 m djup i tidsrommet 15. mai til 15. september og nedsenka til minst 10 m djupne i tidsrommet 15. september til 15. desember. </entry>
+              </row>
+              <row>
+                <entry colname="1">Årdal </entry>
+                <entry colname="2">Årdalsvatnet i Årdalsvassdraget </entry>
+                <entry colname="3">Garnfiske er ikkje tillate. </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <ledd id="/kapittel/2/paragraf/3/ledd/3">Garnfiske er berre tillate i større avstand enn 100 m i luftline frå lakse- eller sjøaureførande elveos eller kanal. Garna må ikkje dekkje meir enn ein fjerdedel av breidda på innsjøen eller sundet på den aktuelle staden. Garnfiske er ikkje tillate i sund eller delar av innsjøar der breidda er mindre enn 100 m målt på tvers av sundet eller innsjøen ved middels sommarvasstand. Alle garnlenker skal merkast med fiskaren sitt namn eller gards- og bruksnummer på endeflottøren mot land.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k2/p4">
+        <pverdi>§ 4.</pverdi>
+        <ptittel>Fiske etter innlandsfisk med oter</ptittel>
+        <ledd id="/kapittel/2/paragraf/4/ledd/1">I ein avstand på minst 100 m i luftline frå lakse- eller sjøaureførande elveos eller kanal, er det i perioden 15. mai-31. august tillate å fiske etter innlandsfisk med oter i følgjande innsjøar:</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="15*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="60*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Kommune</i>
+                </entry>
+                <entry colname="2">
+                  <i>Vassdrag</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="15*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="60*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Fjaler </entry>
+                <entry colname="2">Breidvatnet og Hovlandsvatnet i Flekke- og Guddalsvassdraget </entry>
+              </row>
+              <row>
+                <entry colname="1">Flora og Gloppen </entry>
+                <entry colname="2">Svardalsvatnet, Vassetevatnet, Blåmannsvatnet, Endestadvatnet Lykkjebøvatnet og Krokstadvatnet i vassdraget Osen - Vestre Hyen </entry>
+              </row>
+              <row>
+                <entry colname="1">Selje </entry>
+                <entry colname="2">Dalsbøvatnet, Morkavatnet og Sætrevatnet i Dalsbøvassdraget </entry>
+              </row>
+              <row>
+                <entry colname="1">Stryn </entry>
+                <entry colname="2">Strynevatnet (Oppstrynsvatnet) i Strynevassdraget </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Fredingssoner ved fisketrapper</ktittel>
+      <paragraf id="/kapittel/3/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k3/p5">
+        <pverdi>§ 5.</pverdi>
+        <ptittel>Fredingssoner ved fisketrapper</ptittel>
+        <ledd id="/kapittel/3/paragraf/5/ledd/1">For følgjande fisketrapper er alt fiske forbode innanfor definert fredingssone (sortert etter kommune):</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="15*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="20*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="43*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Kommune </entry>
+                <entry colname="2">Vassdrag </entry>
+                <entry colname="3">Fredingssone </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="15*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="20*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="43*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Eid </entry>
+                <entry colname="2">Kviafossen i Eidselva </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line ca. 40 m frå nedste kulpen i trappa, som er trekt frå ein bolt i øvste enden av den nedste kvernmuren på sørsida av elva til eit punkt merkt med ein raud kross midt på fjerde karet i jernrøyrgata på nordsida av elva rekna frå kraftstasjonen. Avgrensa oppstraums av ei rett line tvers over elva, ca. 70 m ovanfor demningsmuren, frå vestre kanten av bustadhuset på gnr. 4, bnr. 12 på sørsida til ei kraftleidningsmast på nordsida av elva. </entry>
+              </row>
+              <row>
+                <entry colname="1">Eid </entry>
+                <entry colname="2">Laksetrappa v/Rv 15 i Hjalma (Naustdalselva) </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line på tvers over elva i sørleg retning frå austre kant av midtre brukar, og oppstraums av ei rett line tvers over elva 30 m ovanfor øvste punkt på trappa. </entry>
+              </row>
+              <row>
+                <entry colname="1">Flora </entry>
+                <entry colname="2">Fisketrappa i Svardalsfossen i Osenvassdraget </entry>
+                <entry colname="3">Har ikkje fredingssone. </entry>
+              </row>
+              <row>
+                <entry colname="1">Gloppen </entry>
+                <entry colname="2">Evebøfossen i Gloppenelva </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line trekt frå eit innhogd kryss i ein fjellskrent på høgre (nordre) elvebreidd, omtrent 50 m nedanfor trappeutløpet, til eit kryss på venstre (søre) side av fossen innhogd i ein framspringande fjellknaus mellom hovudlaupet og ei vik som går forbi kraftstasjonen. Avgrensa oppstraums av Evebøfoss bru. </entry>
+              </row>
+              <row>
+                <entry colname="1">Gloppen </entry>
+                <entry colname="2">Eidsfossen i Gloppenelva </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line på tvers av elva trekt i forlenginga av vestveggen på den nye kraftstasjonen. Avgrensa oppstraums av ei rett line på tvers av elva trekt over den gamle demninga ca. 100 meter ovanfor trappa. </entry>
+              </row>
+              <row>
+                <entry colname="1">Gloppen </entry>
+                <entry colname="2">Trysilfossen i Gloppenelva </entry>
+                <entry colname="3">Avgrensa nedstraums av ein sirkelsektor med radius 25 meter trekt frå vestre hjørne av trappa til midtstraumslina i Trysilfossen. Avgrensa oppstraums av ei rett line på tvers av elva mellom to boltar i fjellet 103 m ovanfor austre kant av brua over Trysilfossen. </entry>
+              </row>
+              <row>
+                <entry colname="1">Gaular </entry>
+                <entry colname="2">Osfossen i Gaula </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line frå merke på søre elvebreidd ca. 60 m nedanfor trappeutløpet, til den mest synbare knaus midt i nedre del av fossen og vidare til eit merke på lite nes på nordre elvebreidd nedanfor gamal kraftstasjon. Avgrensa oppstraums av ei rett line over elva mellom to brukar. </entry>
+              </row>
+              <row>
+                <entry colname="1">Gaular </entry>
+                <entry colname="2">Rekvikfossen i Gaula </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line frå merke på nordre elvebreidd ca. 60 m nedanfor trappeutløpet til merke i fjellet på søre elvebreidd. Avgrensa oppstraums av ei skrå line frå nes på søre elvebreidd, via øvre kant av holme, til merke på nordre elvebreidd. </entry>
+              </row>
+              <row>
+                <entry colname="1">Gaular </entry>
+                <entry colname="2">Alværfossen i Gaula </entry>
+                <entry colname="3">Frå nordleg elvebreidd til midtstrømslina innanfor eit område avgrensa nedstraums av merke (bolt) på lite nes nedanfor nedste laksetrapp og til merke (bolt) oppstraums midt mellom laksetrapp og bru. Retninga på øvre og nedre sonegrense er gitt med tilsvarande boltar på søre breidd. </entry>
+              </row>
+              <row>
+                <entry colname="1">Gaular </entry>
+                <entry colname="2">Sandefossen i Gaula </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line, vinkelrett på straumen, frå merke på framskote berg på nordre elvebreidd til merke på søre elvebreidd. Avgrensa oppstraums av ei rett line over elva ved utløpet av øvre Sandefoss. </entry>
+              </row>
+              <row>
+                <entry colname="1">Lærdal </entry>
+                <entry colname="2">Sjurhaugfossen i Lærdalselvi </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line mellom jordfaste merke på begge sider av elva ca. 25 m nedanfor nedste kant av utløpstunnelen. Avgrensa oppstraums av ei rett line mellom jordfaste merke på begge sider av elva ca. 25 meter ovanfor trappeinntaket. </entry>
+              </row>
+              <row>
+                <entry colname="1">Lærdal </entry>
+                <entry colname="2">Husumfossen i Lærdalselvi </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line mellom jordfaste merke på begge sider av elva ca. 10 m nedanfor utløpet av trappa. Avgrensa oppstraums av ei rett line mellom jordfaste merke på begge sider av elva ca. 25 meter ovanfor trappeinntaket. </entry>
+              </row>
+              <row>
+                <entry colname="1">Naustdal </entry>
+                <entry colname="2">Hovefossen i Nausta </entry>
+                <entry colname="3">Øvre fisketrapp: Avgrensa nedstraums av ei rett line nord-sør 5 meter utanfor sørsida av nedre trappeopning. Avgrensa oppstraums av ei rett line aust-vest frå det første stryket i Hovefossen (ved gamle Hove bru).
+<br/> Nedre fisketrapp: Vest for ei rett line ved nedre fisketrapp frå eit punkt 3 meter utanfor nordsida av øvre trappeopning til eit punkt 2 meter utanfor sørsida av nedre trappeopning. </entry>
+              </row>
+              <row>
+                <entry colname="1">Sogndal </entry>
+                <entry colname="2">Fossfossen i Sogndalselvi </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line over elva frå nedsida av Rundeknubben på nordsida av elva og tvers over elva til eit merke nedanfor nedre trappa på sørsida av elva. Avgrensa oppstraums av ei rett line trekt over elva frå ein stein framom trappeinntaket på nordsida av elva og tvers over elva til merke på motsett side. </entry>
+              </row>
+              <row>
+                <entry colname="1">Sogndal </entry>
+                <entry colname="2">Ingafossen (Skjellestadfossen) i Sogndalselvi </entry>
+                <entry colname="3">Avgrensa nedstraums frå eit merke 5 m nedanfor nedste trappa og tvers over elva til ei fjellhylle på motsett side. Avgrensa oppstraums av ei rett line frå eit merke 5 meter ovanfor den øvste trappa til merke på skjær midt i elva. </entry>
+              </row>
+              <row>
+                <entry colname="1">Sogndal </entry>
+                <entry colname="2">Flugheimfossen i Sogndalselvi </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line trekt frå merke på fjellnabb nr. 2, 20 meter nedanfor trappa og tvers over elva til merke på fjellnabb på motsett side. Avgrensa oppstraums frå merke på fjellnabb 10 m ovanfor trappa og på skrå over dammen til ein stein på motsett side. </entry>
+              </row>
+              <row>
+                <entry colname="1">Vågsøy </entry>
+                <entry colname="2">Maurstadelva </entry>
+                <entry colname="3">Avgrensa nedstraums av ei rett line mellom to nedsette jernstenger på kvar side av elva 41 m nedanfor nedre trappeutløp. Avgrensa oppstraums av ei line mellom to nedsette boltar på kvar side av elva 22 meter ovanfor øvre trappeinntak. </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <ledd id="/kapittel/3/paragraf/5/ledd/2">For fisketrapper som ikkje er ført opp med særreglar i første ledd, er alt fiske forbode på ei strekning frå 50 m nedanfor til 50 m ovanfor trappa (jf. § 15 i lov om laksefisk og innlandsfisk).</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Fiske i sjø utanfor vassdrag med anadrome laksefisk</ktittel>
+      <paragraf id="/kapittel/4/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k4/p6">
+        <pverdi>§ 6.</pverdi>
+        <ptittel>Fiske utanfor vassdrag med anadrome laksefisk</ptittel>
+        <ledd id="/kapittel/4/paragraf/6/ledd/1">Frå grensa mellom elv og sjø og ut til ein avstand på 100 m i luftline er det berre tillate å fiske frå land med stong i den tida fiske er tillate i vassdraget. Det er likevel tillate å pilke etter marine artar frå båt heile året.</ledd>
+        <ledd id="/kapittel/4/paragraf/6/ledd/2">I munningssonene utanfor 100-metersgrensa, definert i tredje ledd, er alt fiske forbode med følgjande unntak:
+<liste id="/kapittel/4/paragraf/6/ledd/2/liste/1"><lverdi>-</lverdi><avsnitt id="/kapittel/4/paragraf/6/ledd/2/liste/1/avsnitt/1">Fiske etter anadrome laksefisk med stong frå land i den tida vassdraget innanfor er ope for sjøaurefiske. I munningssoner som omfattar fleire vassdrag følgjer fisketida det strengast regulerte vassdraget.</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/6/ledd/2/liste/2"><lverdi>-</lverdi><avsnitt id="/kapittel/4/paragraf/6/ledd/2/liste/2/avsnitt/1">Fiske etter marine artar med stong og handsnøre frå land og frå båt som ligg i ro.</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/6/ledd/2/liste/3"><lverdi>-</lverdi><avsnitt id="/kapittel/4/paragraf/6/ledd/2/liste/3/avsnitt/1">Fiske etter marine artar frå båt i bevegelse i tida frå og med 1. oktober til og med 1. mars.</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/6/ledd/2/liste/4"><lverdi>-</lverdi><avsnitt id="/kapittel/4/paragraf/6/ledd/2/liste/4/avsnitt/1">Fiske med not etter marine artar er berre tillate når reiskapen vert brukt i yrkesfiske av fiskarar som er oppført i fiskarmanntalet og frå fartøy som er registrert i merkeregisteret for norske fiskefartøy. Det skal ikkje fiskast med not nærare grensa mellom elv og sjø (elvemunning) enn 500 meter.</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/6/ledd/2/liste/5"><lverdi>-</lverdi><avsnitt id="/kapittel/4/paragraf/6/ledd/2/liste/5/avsnitt/1">Fiske med andre elles tillatne reiskapar etter andre artar enn anadrome laksefisk er tillate når heile fangstdelen står minst 3 meter under havoverflata. Nedsenkingspåbodet gjeld heile året og for alle maskestorleikar, og gjeld også reiskapen til registrerte fiskarar.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/4/paragraf/6/ledd/3">Munningssonene omfattar følgjande område, sortert etter kommune (UTM-koordinatane gir endepunkta for ytterlina i munningssona, og desse skal vere merka med skilt):
+<br/></ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="4" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="10*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="13*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="45*"/>
+            <colspec colname="4" align="left" valign="top" colwidth="10*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Kommune</i>
+                </entry>
+                <entry colname="2">
+                  <i>Vassdrag</i>
+                </entry>
+                <entry colname="3">
+                  <i>Soneforklaring (ytre grense for munningssona) Koordinatfesting: UTM (EUREF 89), sone 32</i>
+                </entry>
+                <entry colname="4">
+                  <i>Storleik (ca. meter)</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="4" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="10*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="13*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="45*"/>
+            <colspec colname="4" align="left" valign="top" colwidth="10*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Aurland </entry>
+                <entry colname="2">Nærøydalselvi </entry>
+                <entry colname="3">Innanfor ei line frå eit punkt på Hestaneset på vestsida av fjorden i sydaustleg retning til eit lite nes på austsida av fjorden (frå 383346 6752279 til 383805 6752018). </entry>
+                <entry colname="4">1000 </entry>
+              </row>
+              <row>
+                <entry colname="1">Aurland </entry>
+                <entry colname="2">Flåmselvi </entry>
+                <entry colname="3">Innanfor ei line i nordvestleg retning frå Dorganeset til eit punkt på vestsida av fjorden (frå 399096 6749804 til 398272 6750142). </entry>
+                <entry colname="4">1500 </entry>
+              </row>
+              <row>
+                <entry colname="1">Aurland </entry>
+                <entry colname="2">Aurlandselvi </entry>
+                <entry colname="3">Innanfor ei line mellom Otnes og Neset (frå 400845 6753438 til 401793 6754714). </entry>
+                <entry colname="4">1100 </entry>
+              </row>
+              <row>
+                <entry colname="1">Balestrand </entry>
+                <entry colname="2">Vetlefjordelva </entry>
+                <entry colname="3">Innanfor ei line frå eit punkt ved Otteruri på vestsida av fjorden til eit punkt på austsida ved Grytenes (frå 368688 6797657 til 369452 6797692). </entry>
+                <entry colname="4">1000 </entry>
+              </row>
+              <row>
+                <entry colname="1">Eid </entry>
+                <entry colname="2">Eidselva </entry>
+                <entry colname="3">Innanfor ei line i nordleg retning frå nes ved Nibba til punkt ytst på nes ved Eide på nordsida av Eidsfjorden (frå 340505 6866715 til 341306 6867968). </entry>
+                <entry colname="4">1000 </entry>
+              </row>
+              <row>
+                <entry colname="1">Fjaler </entry>
+                <entry colname="2">Flekkeelva </entry>
+                <entry colname="3">Innanfor ei line frå eit punkt på nes ved Grottehaugen på vestsida av fjorden i austleg retning til eit punkt på nes på austsida av fjorden (frå 303841 6804643 til 303997 6804669). </entry>
+                <entry colname="4">2000 </entry>
+              </row>
+              <row>
+                <entry colname="1">Fjaler </entry>
+                <entry colname="2">Dalselva (Dale) </entry>
+                <entry colname="3">Innanfor ei line i nordaustleg retning frå eit lite nes aust for Bjerga til Nishammaren (frå 306477 6808702 til 307688 6809655). </entry>
+                <entry colname="4">600 </entry>
+              </row>
+              <row>
+                <entry colname="1">Flora </entry>
+                <entry colname="2">Osenelva </entry>
+                <entry colname="3">Innanfor utløpet av Osstrupen (frå 306149 6830252 til 306313 6830332). </entry>
+                <entry colname="4">2500 </entry>
+              </row>
+              <row>
+                <entry colname="1">Førde </entry>
+                <entry colname="2">Jølstra </entry>
+                <entry colname="3">Innanfor ei line frå nes ved Kyrkjeteigen på vestsida av fjorden i nordaustleg retning til punkt på austsida av fjorden (frå 329425 6819332 til 329909 6819564). </entry>
+                <entry colname="4">2000 </entry>
+              </row>
+              <row>
+                <entry colname="1">Gaular </entry>
+                <entry colname="2">Gaula </entry>
+                <entry colname="3">Innanfor ei line strekt frå nord til sør over munninga av Svædsundet (frå 320426 6809052 til 320446 6808914) </entry>
+                <entry colname="4">2000 </entry>
+              </row>
+              <row>
+                <entry colname="1">Gloppen </entry>
+                <entry colname="2">Gloppenelva </entry>
+                <entry colname="3">Innanfor ei line mellom Arnestad og eit punkt på nes ved Austrheim (frå 350428 6851857 til 351864 6853180). </entry>
+                <entry colname="4">1600 </entry>
+              </row>
+              <row>
+                <entry colname="1">Gloppen </entry>
+                <entry colname="2">Åelva/
+<br/> Ommedalselva og Hopselva </entry>
+                <entry colname="3">Innanfor ei line i vestleg retning frå nes ved Liafjellet på austsida av Hyefjorden til vestre punkt av 250 m-grensa for Straumselva (frå 337558 6849164 til 337043 6849316). </entry>
+                <entry colname="4">1000 </entry>
+              </row>
+              <row>
+                <entry colname="1">Høyanger </entry>
+                <entry colname="2">Daleelva </entry>
+                <entry colname="3">Innanfor ei line mellom Sæbøneset og utløp av elv frå Mjåtunga (frå 343040 6789800 til 341994 6790007). </entry>
+                <entry colname="4">500 </entry>
+              </row>
+              <row>
+                <entry colname="1">Luster </entry>
+                <entry colname="2">Fortunselvi og Mørkridselvi </entry>
+                <entry colname="3">Innanfor ei line frå utløpet av Sagagrovi på vestsida av fjorden i søraustleg retning til eit punkt på austsida av fjorden (frå 423913 6817636 til 425030 6817151). </entry>
+                <entry colname="4">1600 </entry>
+              </row>
+              <row>
+                <entry colname="1">Luster </entry>
+                <entry colname="2">Jostedøla </entry>
+                <entry colname="3">Innanfor ei line frå nordvestre tunnelmunninga ved Lammaskori til eit punkt ved Hotla (frå 408681 6807278 til 409567 6807856). </entry>
+                <entry colname="4">500 </entry>
+              </row>
+              <row>
+                <entry colname="1">Lærdal </entry>
+                <entry colname="2">Lærdalselvi </entry>
+                <entry colname="3">Innanfor ei line frå punkt ved Flaskheller i nordleg retning over fjorden til punkt ved utløpet av elv frå Timmergjelet (frå 416504 6776410 til 416382 6775611). </entry>
+                <entry colname="4">1500 </entry>
+              </row>
+              <row>
+                <entry colname="1">Naustdal </entry>
+                <entry colname="2">Nausta </entry>
+                <entry colname="3">Innanfor ei line frå eit nes ved vegen mot Kringla til Strileverpet (frå 324206 6823336 til 325919 6823196). </entry>
+                <entry colname="4">600 </entry>
+              </row>
+              <row>
+                <entry colname="1">Selje </entry>
+                <entry colname="2">Ervikelva </entry>
+                <entry colname="3">Innanfor ei line i nordaustleg retning frå eit punkt på nes ved Hovden til eit punkt på nes på austsida av Ervika (frå 296875 6898776 til 297642 6899180). </entry>
+                <entry colname="4">500 </entry>
+              </row>
+              <row>
+                <entry colname="1">Sogndal </entry>
+                <entry colname="2">Årøyelvi </entry>
+                <entry colname="3">Innanfor ei line frå eit punkt ved utløpet av Skoddøla på austsida av fjorden i nordvestleg retning til lite nes ved Sundhella (frå 401775 6792371 til 400770 6793074). </entry>
+                <entry colname="4">1500 </entry>
+              </row>
+              <row>
+                <entry colname="1">Sogndal </entry>
+                <entry colname="2">Sogndalselvi </entry>
+                <entry colname="3">Innanfor ei line mellom ytste nes ved Stedje til eit punkt ved austre side av munninga av Barsnesfjorden (frå 398208 6788962 til 399008 6789996). </entry>
+                <entry colname="4">700 </entry>
+              </row>
+              <row>
+                <entry colname="1">Sogndal </entry>
+                <entry colname="2">Storelva (Fjærland) </entry>
+                <entry colname="3">Innanfor ei line frå Sandaneset eit punkt nord for Moshammarteigen (frå 379574 6810272 til 380368 6810275). </entry>
+                <entry colname="4">1100 </entry>
+              </row>
+              <row>
+                <entry colname="1">Stryn </entry>
+                <entry colname="2">Loelva </entry>
+                <entry colname="3">Innanfor ei line frå nordsida av Tyvanes til eit lite nes vest for Hellevika på nordsida av Lobukta (frå 385409 6861314 til 385271 6862126). </entry>
+                <entry colname="4">1100 </entry>
+              </row>
+              <row>
+                <entry colname="1">Stryn </entry>
+                <entry colname="2">Stryneelva </entry>
+                <entry colname="3">Innanfor ei line frå Skoganeset på austsida av Strynebukta til Hestodden på vestsida (frå 378639 6864115 til 379484 6863942). </entry>
+                <entry colname="4">1600 </entry>
+              </row>
+              <row>
+                <entry colname="1">Stryn </entry>
+                <entry colname="2">Oldenelva </entry>
+                <entry colname="3">Innanfor ei line i austleg retning frå utløp av elv frå Indre Skarstein på vestsida av Oldebukta til utløp av elv på austsida (frå 384147 6859043 til 384887 6858975). </entry>
+                <entry colname="4">1100 </entry>
+              </row>
+              <row>
+                <entry colname="1">Vik </entry>
+                <entry colname="2">Vikja </entry>
+                <entry colname="3">Innanfor ei line frå punkt ved Kyrelvi rett over fjorden til eit punkt på vestsida av fjorden (frå 370129 6775578 til 369274 6775559). </entry>
+                <entry colname="4">600 </entry>
+              </row>
+              <row>
+                <entry colname="1">Årdal </entry>
+                <entry colname="2">Hæreid/Utla </entry>
+                <entry colname="3">Innanfor ei line mellom Raudnobbi til et nes ved Kloppurdi (frå 429386 6789389 til 430461 6788533). </entry>
+                <entry colname="4">750 </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k4/p7">
+        <pverdi>§ 7.</pverdi>
+        <ptittel>Nedsenking av garn utanfor munningssonene</ptittel>
+        <ledd id="/kapittel/4/paragraf/7/ledd/1">Garn som blir nytta til fangst av saltvassfisk, skal i perioden frå og med 1. mars til og med 30. september senkast slik at heile fangstdelen står minst 3 meter under havoverflata til ei kvar tid.</ledd>
+        <ledd id="/kapittel/4/paragraf/7/ledd/2">Påbodet gjeld ikkje for reiskap som under utøving av yrkesfiske er sett ut for å fange anna enn laksefisk, av fiskarar som er oppførte i fiskarmanntalet, frå fartøy som er registrerte i merkeregisteret for norske fartøy, jf. lov 26. mars 1999 nr. 15 om retten til å delta i fiske og fangst (deltakarloven).</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k4/p8">
+        <pverdi>§ 8.</pverdi>
+        <ptittel>Fiske utanfor kraftverksutløp</ptittel>
+        <ledd id="/kapittel/4/paragraf/8/ledd/1">I ei sone på 100 meter i sjøen utanfor Kraftverk 5 i Høyangsfjorden er det ikkje tillate å fiske etter anadrome laksefisk.</ledd>
+        <ledd id="/kapittel/4/paragraf/8/ledd/2">Utanfor kraftverka Svelgen I og II i Svelgen er det ikkje lov til å fiske anadrome laksefisk frå søre elvebreidd der Svelgselva møter fjorden (6854217 304550) og om lag 140 meter nord aust til eit knekkpunkt på kaia nord for stasjonskaia (6854343 304606).</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k5">
+      <kverdi>Kapittel 5</kverdi>
+      <ktittel>Avsluttande reglar</ktittel>
+      <paragraf id="/kapittel/5/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k5/p9">
+        <pverdi>§ 9.</pverdi>
+        <ptittel>Fangstrapportering</ptittel>
+        <ledd id="/kapittel/5/paragraf/9/ledd/1">Fylkesmannen kan påleggje fiskerettshavarane å rapportere fangstar og fangstinnsats for fiske etter innlandsfisk.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k5/p10">
+        <pverdi>§ 10.</pverdi>
+        <ptittel>Dispensasjon</ptittel>
+        <ledd id="/kapittel/5/paragraf/10/ledd/1">Fylkesmannen kan i spesielle tilfelle dispensere frå reglane i denne forskrifta.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k5/p11">
+        <pverdi>§ 11.</pverdi>
+        <ptittel>Straff</ptittel>
+        <ledd id="/kapittel/5/paragraf/11/ledd/1">Brot på denne forskrifta er straffbart, jf. lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv. § 49.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/12" url="https://lovdata.no/lovtidend/forskrift/2018-04-06-539/k5/p12">
+        <pverdi>§ 12.</pverdi>
+        <ptittel>Iverksetting</ptittel>
+        <ledd id="/kapittel/5/paragraf/12/ledd/1">Denne forskrifta trer i kraft straks. Samtidig vert forskrift 21. juni 2002 nr. 881 om fiske utanfor vassdrag med laks og sjøaure og nedseinking av garn, Sogn og Fjordane, forskrift 24. februar 2010 nr. 685 om fiske i vassdrag med laks og sjøaure, Sogn og Fjordane og forskrift 30. juni 2005 nr. 767 om fiske etter innlandsfisk i innsjøar med anadrome laksefisk i Sogn og Fjordane oppheva.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

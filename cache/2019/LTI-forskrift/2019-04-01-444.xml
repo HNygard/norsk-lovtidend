@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2019-04-01-444" type="lt" url="https://lovdata.no/lovtidend/forskrift/2019-04-01-444">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2019-04-01-444</id>
+    <dato>01.04.2019 nr. 444</dato>
+    <dato type="iso">2019-04-01</dato>
+    <ikraft>02.04.2019</ikraft>
+    <ikraft type="iso">2019-04-02</ikraft>
+    <departement>Kommunal- og moderniseringsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <rettet/>
+    <journalnummer>2019-0256</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om elektronisk faktura i offentlige anskaffelser</korttittel>
+    <tittel>Forskrift om elektronisk faktura i offentlige anskaffelser</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Kommunal- og moderniseringsdepartementet 1. april 2019 med hjemmel i lov 17. juni 2016 nr. 73 om offentlige anskaffelser (anskaffelsesloven) § 16 tredje ledd.
+<br/> <b>EØS-henvisninger:</b> EØS-avtalen vedlegg XVI nr. 6e (direktiv 2014/55/EU).</marg>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2019-04-01-444/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Formål</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Forskriften skal fremme effektiv og miljøvennlig fakturahåndtering i offentlige anskaffelser.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2019-04-01-444/p2">
+      <pverdi>§ 2.</pverdi>
+      <ptittel>Virkeområde</ptittel>
+      <ledd id="/paragraf/2/ledd/1">Forskriften gjelder fakturering knyttet til anskaffelser som er omfattet av anskaffelsesloven.</ledd>
+      <ledd id="/paragraf/2/ledd/2">Forskriften gjelder for oppdragsgivere som angitt i anskaffelsesloven § 2 annet ledd.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2019-04-01-444/p3">
+      <pverdi>§ 3.</pverdi>
+      <ptittel>Elektronisk faktura</ptittel>
+      <ledd id="/paragraf/3/ledd/1">Med elektronisk faktura menes betalingskrav som er utformet, oversendt og mottatt elektronisk fra fakturautsteder til fakturamottaker, og som kan behandles automatisk i fakturamottakers økonomisystem.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2019-04-01-444/p4">
+      <pverdi>§ 4.</pverdi>
+      <ptittel>Godkjente standardformater</ptittel>
+      <ledd id="/paragraf/4/ledd/1">Godkjente standardformater for fakturaer knyttet til kontrakter under EØS-terskelverdi er EHF (Elektronisk handelsformat) fakturering versjon 3.0 eller nyere og PEPPOL BIS (PEPPOL Business Interoperability Specification) Billing v3.0 eller nyere.</ledd>
+      <ledd id="/paragraf/4/ledd/2">Godkjente standarder for fakturaer knyttet til kontrakter over EØS-terskelverdi er EHF fakturering versjon 3.0 eller nyere, PEPPOL BIS Billing v3.0 eller nyere og andre godkjente standardformater som implementerer den europeiske normen for elektronisk faktura (EN16931).</ledd>
+      <ledd id="/paragraf/4/ledd/3">Difi skal sørge for at lenker til godkjente standardformater finnes på Difi.no som del av Referansekatalogen for IT-standarder som er obligatoriske eller anbefalte for offentlig sektor.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2019-04-01-444/p5">
+      <pverdi>§ 5.</pverdi>
+      <ptittel>Oppdragsgiverens forpliktelser</ptittel>
+      <ledd id="/paragraf/5/ledd/1">Oppdragsgiveren skal i sine kontrakter stille krav om bruk av elektronisk faktura i godkjent standardformat.</ledd>
+      <ledd id="/paragraf/5/ledd/2">Dersom leverandøren ikke etterkommer krav om bruk av elektronisk faktura stilt i medhold av første ledd, kan oppdragsgiveren holde tilbake betaling inntil elektronisk faktura i godkjent standardformat leveres. Oppdragsgiveren skal uten unødig opphold gi melding om dette. Dersom slik melding er gitt, løper opprinnelig betalingsfrist fra tidspunktet elektronisk faktura i godkjent standardformat er levert.</ledd>
+      <ledd id="/paragraf/5/ledd/3">Oppdragsgiveren skal kunne ta imot elektronisk faktura i standardformat gjennom PEPPOL-nettverket.</ledd>
+      <ledd id="/paragraf/5/ledd/4">Oppdragsgiveren skal behandle faktura elektronisk.</ledd>
+      <ledd id="/paragraf/5/ledd/5">Oppdragsgiveren skal kunne rapportere til Difi hvor mange fakturaer de mottar totalt og på godkjent standardformat.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2019-04-01-444/p6">
+      <pverdi>§ 6.</pverdi>
+      <ptittel>Faktura eller fakturagrunnlag med sensitivt innhold</ptittel>
+      <ledd id="/paragraf/6/ledd/1">Dersom opplysninger i faktura eller fakturagrunnlag inneholder opplysninger som er underlagt lovbestemt taushetsplikt, og det vil være fare for avsløring av slike opplysninger, kan krav om elektronisk faktura fravikes, med mindre det finnes tilfredsstillende tekniske sikringsløsninger som ivaretar konfidensialitet.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2019-04-01-444/p7">
+      <pverdi>§ 7.</pverdi>
+      <ptittel>Ikrafttredelse</ptittel>
+      <ledd id="/paragraf/7/ledd/1">Forskriften trer i kraft 2. april 2019.</ledd>
+      <ledd id="/paragraf/7/ledd/2">Forskriften gjelder fakturering knyttet til anskaffelser iverksatt etter forskriftens ikrafttredelse. En anskaffelse er iverksatt når den er kunngjort. En anskaffelse som ikke kunngjøres, er iverksatt når oppdragsgiveren har sendt ut en forespørsel til en eller flere leverandører om å melde sin interesse eller inngi tilbud i forbindelse med en planlagt anskaffelse.</ledd>
+    </paragraf>
+  </tekst>
+</dokument>

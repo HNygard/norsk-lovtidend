@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2017-12-19-2292" type="lt" url="https://lovdata.no/lovtidend/forskrift/2017-12-19-2292">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2017-12-19-2292</id>
+    <dato>19.12.2017 nr. 2292</dato>
+    <dato type="iso">2017-12-19</dato>
+    <ikraft>01.01.2018</ikraft>
+    <ikraft type="iso">2018-01-01</ikraft>
+    <departement>Helse- og omsorgsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <endrer type="ref">https://lovdata.no/for/2015-10-29-1232</endrer>
+    <rettet/>
+    <journalnummer>2017-1508</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om private virksomheters spesialisthelsetjenester</korttittel>
+    <tittel>Forskrift om endring i forskrift om private virksomheters adgang til å yte spesialisthelsetjenester mot betaling fra staten</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Helse- og omsorgsdepartementet 19. desember 2017 med hjemmel i lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 4-3.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2017-12-19-2292/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 29. oktober 2015 nr. 1232 om private virksomheters adgang til å yte spesialisthelsetjenester mot betaling fra staten gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">Ny § 11 første ledd nr. 2 a) Hjerte og kar skal lyde:
+<liste id="/kapittel/i/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/ledd/2/liste/a/avsnitt/1"><i>Hjerte og kar</i></avsnitt></liste></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="36*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Tjeneste</i>
+              </entry>
+              <entry colname="2">
+                <i>Diagnosekode</i>
+              </entry>
+              <entry colname="3">
+                <i>Prosedyre</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="36*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Hjerteutredning hos spesialist inkludert arbeids-EKG </entry>
+              <entry colname="2"/>
+              <entry colname="3">FPFE50 Arbeids-EKG </entry>
+            </row>
+            <row>
+              <entry colname="1">Hjerteutredning hos spesialist inkludert ultralyd hjerte </entry>
+              <entry colname="2"/>
+              <entry colname="3">SFY0HK Fullstendig ekkokardiografi
+<br/>SFY0LK Transøsofageal ekkokardiografi
+<br/>SFY0GK Enkel ekkokardiografi </entry>
+            </row>
+            <row>
+              <entry colname="1">Hjerteutredning hos spesialist inkludert arbeids-EKG og ultralyd hjerte </entry>
+              <entry colname="2"/>
+              <entry colname="3">FPFE50 Arbeids-EKG
+<br/>SFY0HK Fullstendig ekkokardiografi
+<br/>SFY0LK Transøsofageal ekkokardiografi
+<br/>SFY0GK Enkel ekkokardiografi </entry>
+            </row>
+            <row>
+              <entry colname="1">Hjerteutredning hos spesialist (inkludert andre undersøkelser enn arbeids-EKG og ultralyd hjerte som er indisert) </entry>
+              <entry colname="2"/>
+              <entry colname="3"> </entry>
+            </row>
+            <row>
+              <entry colname="1">Ultralyd halskar </entry>
+              <entry colname="2"/>
+              <entry colname="3">SPY0AK UL Halskar </entry>
+            </row>
+            <row>
+              <entry colname="1">Kontroll hos spesialist inkludert arbeids-EKG eller ultralyd hjerte </entry>
+              <entry colname="2"/>
+              <entry colname="3">FPFE50 Arbeids-EKG
+<br/>SFY0HK Fullstendig ekkokardiografi
+<br/>SFY0LK Transøsofageal ekkokardiografi
+<br/>SFY0GK Enkel ekkokardiografi </entry>
+            </row>
+            <row>
+              <entry colname="1">Kontroll hos spesialist inkludert arbeids-EKG og ultralyd hjerte </entry>
+              <entry colname="2"/>
+              <entry colname="3">FPFE50 Arbeids-EKG
+<br/>SFY0HK Fullstendig ekkokardiografi
+<br/>SFY0LK Transøsofageal ekkokardiografi
+<br/>SFY0GK Enkel ekkokardiografi </entry>
+            </row>
+            <row>
+              <entry colname="1">Kontroll hos spesialist (inkludert andre undersøkelser enn arbeids-EKG og ultralyd hjerte som er indisert) </entry>
+              <entry colname="2"/>
+              <entry colname="3"> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <ledd id="/kapittel/i/ledd/3">Ny § 11 første ledd nr. 2 d) Bevegelsesapparatet skal lyde:
+<liste id="/kapittel/i/ledd/3/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/ledd/3/liste/d/avsnitt/1"><i>Bevegelsesapparatet</i></avsnitt></liste></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="36*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Tjeneste</i>
+              </entry>
+              <entry colname="2">
+                <i>Diagnosekode</i>
+              </entry>
+              <entry colname="3">
+                <i>Prosedyre</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="36*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Hofteartrose behandling med totalprotese </entry>
+              <entry colname="2">M16.0 Primær hofteleddsartrose, bilateral
+<br/>M16.1 Primær hofteleddsartrose, uten opplysning om bilateral manifestasjon
+<br/>M16.2 Hofteleddsartrose som følge av dysplasi, bilateral
+<br/>M16.3 Hofteleddsartrose som følge av dysplasi, uten opplysning om bilateral manifestasjon
+<br/>M16.4 Posttraumatisk hofteleddsartrose, bilateral
+<br/>M16.5 Posttraumatisk hofteleddsartrose, uten opplysning om bilateral manifestasjon
+<br/>M16.6 Annen sekundær hofteleddsartrose, bilateral
+<br/>M16.7 Annen sekundær hofteleddsartrose, uten opplysning om bilateral manifestasjon </entry>
+              <entry colname="3">NFB 20 Implantasjon av primær totalprotese i hofteledd uten sement
+<br/>NFB 30 Implantasjon av primær totalprotese i hofteledd med hybrid teknikk
+<br/>NFB 40 Implantasjon av primær totalprotese i hofteledd med sement </entry>
+            </row>
+            <row>
+              <entry colname="1">Kneleddsartrose behandling med protese </entry>
+              <entry colname="2">M17.0 Primær kneleddsartrose, bilateral
+<br/>M17.1 Primær kneleddsartrose, uten opplysning om bilateral manifestasjon
+<br/>M17.2 Posttraumatisk kneleddsartrose, bilateral
+<br/>M17.3 Posttraumatisk kneleddsartrose, uten opplysning om bilateral manifestasjon
+<br/>M17.4 Annen sekundær kneleddsartrose, bilateral
+<br/>M17.5 Annen sekundær kneleddsartrose, uten opplysning om bilateral manifestasjon </entry>
+              <entry colname="3">NGB 20 Implantasjon av primær totalprotese i kneledd uten sement
+<br/>NGB 30 Implantasjon av primær totalprotese i kneledd med hybrid teknikk
+<br/>NGB 40 Implantasjon av primær totalprotese i kneledd med sement
+<br/>NGB 01 Implantasjon av medial primær delprotese i kneledd uten sement
+<br/>NGB 02 Implantasjon av lateral primær delprotese i kneledd uten sement
+<br/>NGB 03 Implantasjon av patellofemoral primær delprotese uten sement
+<br/>NGB 04 Implantasjon av flere primære delprotesekomponenter i kneledd uten sement
+<br/>NGB 11 Implantasjon av medial primær delprotese i kneledd med sement
+<br/>NGB 12 Implantasjon av lateral primær delprotese i kneledd med sement
+<br/>NGB 13 Implantasjon av patellofemoral primær delprotese med sement
+<br/>NGB 14 Implantasjon av flere primære delprotesekomponenter i kneledd med sement </entry>
+            </row>
+            <row>
+              <entry colname="1">Ganglion hånd </entry>
+              <entry colname="2">M67.4 Ganglion </entry>
+              <entry colname="3">NDM 39 Eksisjon av synovialt ganglion i håndledd eller hånd </entry>
+            </row>
+            <row>
+              <entry colname="1">Ganglion fot </entry>
+              <entry colname="2">M67.4 Ganglion </entry>
+              <entry colname="3">NHM 39 Eksisjon av synovialt ganglion i ankel eller fot </entry>
+            </row>
+            <row>
+              <entry colname="1">Fjerning av metall (ikke i nakke og rygg) </entry>
+              <entry colname="2">Z47.0 Etterbehandling som omfatter fjerning av osteosyntesemateriale </entry>
+              <entry colname="3">NBU 49 Fjerning av osteosyntesemateriale fra skulder eller overarm
+<br/>NCU 49 Fjerning av osteosyntesemateriale fra albue eller underarm
+<br/>NDU 49 Fjerning av osteosyntesemateriale fra håndledd eller hånd
+<br/>NFU 49 Fjerning av osteosyntesemateriale fra femur
+<br/>NGU 49 Fjerning av osteosyntesemateriale fra kne eller legg
+<br/>NHU 49 Fjerning av osteosyntesemateriale fra ankel eller fot </entry>
+            </row>
+            <row>
+              <entry colname="1">Hallux valgus </entry>
+              <entry colname="2">M20.1 Hallux valgus (ervervet) </entry>
+              <entry colname="3">NHK 17 Reseksjon eller eksisjon av metatars
+<br/>NHK 18 Reseksjon eller eksisjon av bein i tå
+<br/>NHK 57 Osteotomi i metatars med aksekorreksjon, rotasjon eller forskyvning
+<br/>NHK 58 Osteotomi i tå med aksekorreksjon, rotasjon eller forskyvning
+<br/>NHG 09 Eksisjonsartroplastikk i annet ledd i fot
+<br/>NHG 44 Artrodese av første tarsometatarsalledd med intern fiksasjon
+<br/>NHG 46 Artrodese av første metatarsofalangealledd med intern fiksasjon
+<br/>NHG 49 Artrodese av annet ledd i fot med intern fiksasjon </entry>
+            </row>
+            <row>
+              <entry colname="1">Hammertå </entry>
+              <entry colname="2">M20.4 Annen hammertå (ervervet) </entry>
+              <entry colname="3">NHK 17 Reseksjon eller eksisjon av metatars
+<br/>NHK 18 Reseksjon eller eksisjon av bein i tå
+<br/>NHK 57 Osteotomi i metatars med aksekorreksjon, rotasjon eller forskyvning
+<br/>NHK 58 Osteotomi i tå med aksekorreksjon, rotasjon eller forskyvning
+<br/>NHG 09 Eksisjonsartroplastikk i annet ledd i fot </entry>
+            </row>
+            <row>
+              <entry colname="1">Carpal tunnel syndrom </entry>
+              <entry colname="2">G56.0 «Carpal tunnel syndrome» </entry>
+              <entry colname="3">ACC 51 Dekompresjon og adheranseløsning av nervus medianus
+<br/>NDE 11 Endoskopisk deling eller eksisjon av ligament i håndledd eller hånd
+<br/>NDE 12 Åpen deling eller eksisjon av ligament i håndledd eller hånd </entry>
+            </row>
+            <row>
+              <entry colname="1">Triggerfinger </entry>
+              <entry colname="2">M65.3 </entry>
+              <entry colname="3">NDM 49 Spalting av seneskjede i håndledd eller hånd </entry>
+            </row>
+            <row>
+              <entry colname="1">Inngrodd negl </entry>
+              <entry colname="2"/>
+              <entry colname="3">QDH 10 Eksisjon av negleseng på tå </entry>
+            </row>
+            <row>
+              <entry colname="1">Slitasje i tommelens rotledd </entry>
+              <entry colname="2">M18.1
+<br/>M18.2
+<br/>M18.3
+<br/>M18.4
+<br/>M18.5
+<br/>M18.9 </entry>
+              <entry colname="3">NDG 02 Eksisjonsartroplastikk i første karpometakarpalledd
+<br/>NDG 12 Interposisjonsartroplastikk i første karpometakarpalledd
+<br/>NDG 22 Annen artroplastikk i første karpometakarpalledd uten protese
+<br/>NDG 32 Artrodese i første karpometakarpalledd uten fiksasjon
+<br/>NDG 42 Artrodese i første karpometakarpalledd med intern fiksasjon
+<br/>NDG 52 Artrodese i første karpometakarpalledd med ekstern fiksasjon
+<br/>NDG 92 Annen eksisjon, rekonstruksjon eller artrodese i første karpometakarpalledd </entry>
+            </row>
+            <row>
+              <entry colname="1">Interdigitalt nevrom i fot (inkl. Mortons metatarsalgi) </entry>
+              <entry colname="2">G57.8 Andre spesifiserte mononevropatier i underekstremitet </entry>
+              <entry colname="3">ACB 15 Eksisjon av lesjon i nervus tibialis
+<br/>ACB 19 Eksisjon av lesjon i annen eller uspesifisert perifer nerve
+<br/>ACC 19 Overskjæring av annen eller uspesifisert nerve
+<br/>ACC 99 Annen operasjon for funksjonsforstyrrelse i annen eller uspesifisert perifer nerve </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <ledd id="/kapittel/i/ledd/4">Ny § 11 første ledd nr. 2 e) Fordøyelsessystemet skal lyde:
+<liste id="/kapittel/i/ledd/4/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/ledd/4/liste/e/avsnitt/1"><i>Fordøyelsessystemet</i></avsnitt></liste></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="36*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Tjeneste</i>
+              </entry>
+              <entry colname="2">
+                <i>Diagnosekode</i>
+              </entry>
+              <entry colname="3">
+                <i>Prosedyre</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="36*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="30*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Mage-tarm undersøkelser
+<br/>Gastroskopi </entry>
+              <entry colname="2"/>
+              <entry colname="3">JUD 02 Gastroskopi
+<br/>JUD 05 Gastroskopi med biopsi </entry>
+            </row>
+            <row>
+              <entry colname="1">Mage-tarm undersøkelser
+<br/>Koloskopi </entry>
+              <entry colname="2"/>
+              <entry colname="3">JUF 32 Koloskopi
+<br/>JUF 35 Koloskopi med biopsi
+<br/>JFA 15 Endoskopisk polypektomi i colon </entry>
+            </row>
+            <row>
+              <entry colname="1">Mage-tarm undersøkelser
+<br/>Sigmoidoskopi </entry>
+              <entry colname="2"/>
+              <entry colname="3">JUF 42 Fleksibel sigmoidoskopi
+<br/>JUF 45 Fleksibel sigmoidoskopi med biopsi
+<br/>JFA 15 Endoskopisk polypektomi i colon </entry>
+            </row>
+            <row>
+              <entry colname="1">Mage-tarm undersøkelser
+<br/>Rektoskopi </entry>
+              <entry colname="2"/>
+              <entry colname="3">JUG 02 Rektoskopi
+<br/>JUG 05 Rektoskopi med biopsi
+<br/>JBH 30 Gummiringligatur av hemoroider eller slimhinneprolaps </entry>
+            </row>
+            <row>
+              <entry colname="1">Åpen enkeltsidig brokkoperasjon hos voksne, lår og lyske </entry>
+              <entry colname="2">K40.9
+<br/>K41.9 </entry>
+              <entry colname="3">JAB 10 Operasjon for lyskebrokk
+<br/>JAB 30 Operasjon for lyskebrokk med fremmed materiale
+<br/>JAB 96 Annen operasjon for lyskebrokk
+<br/>JAC 10 Operasjon for lårbrokk
+<br/>JAC 30 Operasjon for lårbrokk med fremmed materiale
+<br/>JAC 96 Annen operasjon for lårbrokk </entry>
+            </row>
+            <row>
+              <entry colname="1">Åpen dobbeltsidig brokkoperasjon hos voksne, lår og lyske </entry>
+              <entry colname="2">K40.2
+<br/>K41.2 </entry>
+              <entry colname="3">JAB 10 Operasjon for lyskebrokk
+<br/>JAB 30 Operasjon for lyskebrokk med fremmed materiale
+<br/>JAB 96 Annen operasjon for lyskebrokk
+<br/>JAC 10 Operasjon for lårbrokk
+<br/>JAC 30 Operasjon for lårbrokk med fremmed materiale
+<br/>JAC 96 Annen operasjon for lårbrokk </entry>
+            </row>
+            <row>
+              <entry colname="1">Laparaskopisk enkeltsidig brokkoperasjon hos voksne, lår og lyske </entry>
+              <entry colname="2">K40.9
+<br/>K41.9 </entry>
+              <entry colname="3">JAB 11 Laparoskopisk operasjon for lyskebrokk
+<br/>JAC 11 Laparoskopisk operasjon for lårbrokk </entry>
+            </row>
+            <row>
+              <entry colname="1">Laparaskopisk dobbeltsidig brokkoperasjon hos voksne, lår og lyske </entry>
+              <entry colname="2">K40.2
+<br/>K41.2 </entry>
+              <entry colname="3">JAB11 Laparoskopisk operasjon for lyskebrokk
+<br/>JAC11 Laparoskopisk operasjon for lårbrokk </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2017-12-19-2292/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Endringene gjelder fra 1. januar 2018.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

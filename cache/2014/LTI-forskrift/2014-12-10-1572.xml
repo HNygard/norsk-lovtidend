@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2014-12-10-1572" type="lt" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2014-12-10-1572</id>
+    <dato>10.12.2014 nr. 1572</dato>
+    <dato type="iso">2014-12-10</dato>
+    <publisert>I 2014 hefte 16 s 2602</publisert>
+    <ikraft>01.01.2015</ikraft>
+    <ikraft type="iso">2015-01-01</ikraft>
+    <departement>Samferdselsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1993-06-11-100-§4">L11.06.1993 nr. 100 § 4</ref>, <ref id="lov-1993-06-11-100-§5">§ 5</ref>, <ref id="lov-1993-06-11-100-§6">§ 6</ref>,</hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2006-12-06-1356</endrer>
+    <rettet/>
+    <journalnummer>2014-1163</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Kravforskriften</korttittel>
+    <korttittel>3 Forskrift om krav til sporvei, tunnelbane, forstadsbane m.m. (kravforskriften) (Nr. 1572)</korttittel>
+    <tittel>Forskrift om krav til sporvei, tunnelbane, forstadsbane m.m. (kravforskriften)</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Statens jernbanetilsyn 10. desember 2014 med hjemmel i lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 4, § 5 og § 6, jf. forskrift 10. desember 2010 nr. 1569 om tillatelse til å drive trafikkvirksomhet og infrastruktur for sporvei, tunnelbane, forstadsbane og godsbane, samt sidespor, havnespor m.m. (tillatelsesforskriften) § 1-6.</marg>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Innledende bestemmelser</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k1/p1-1">
+        <pverdi>§ 1-1.</pverdi>
+        <ptittel>Formål</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/1">Formålet med denne forskriften er å fastsette minimumskrav for å sikre at virksomhetene arbeider systematisk og proaktivt slik at det etablerte sikkerhetsnivået opprettholdes og i den grad det er nødvendig forbedres, samt at jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser unngås.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k1/p1-2">
+        <pverdi>§ 1-2.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-2/ledd/1">Forskriften gjelder for drift av sporvei, tunnelbane, forstadsbane m.m.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k1/p1-3">
+        <pverdi>§ 1-3.</pverdi>
+        <ptittel>Definisjoner</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-3/ledd/1">I forskriften her forstås med:
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/a/avsnitt/1"><i>alvorlig jernbanehendelse:</i> en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/b/avsnitt/1"><i>automatisk hastighetsovervåkning:</i> den del av signalanlegget som overvåker togets hastighet og aktiverer togets bremser dersom hastigheten overstiges,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/c/avsnitt/1"><i>barrierer:</i> tekniske, operasjonelle, organisatoriske eller andre planlagte og iverksatte tiltak som har til hensikt å bryte en identifisert uønsket hendelseskjede,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/d/avsnitt/1"><i>infrastruktur:</i> trasé, over- og underbygning, strømforsyningsanlegg, signalanlegg og kommunikasjonssystem,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/e/avsnitt/1"><i>infrastrukturforvalter:</i> den som har tillatelse til å drive infrastruktur,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/f/avsnitt/1"><i>jernbanehendelse:</i> enhver annen uønsket hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på sikkerheten,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/g/avsnitt/1"><i>jernbaneulykke:</i> en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på infrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/h/avsnitt/1"><i>jernbanevirksomhet:</i> drift av infrastruktur, trafikkstyring og/eller trafikkvirksomhet eller den som driver infrastruktur, trafikkstyring og/eller trafikkvirksomhet,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/i/avsnitt/1"><i>kjøretøy:</i> et kjøretøy som kjører på egne hjul på jernbane, herunder sporvei, tunnelbane og forstadsbane, med eller uten egen trekkraft,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/j/avsnitt/1"><i>kompetanse:</i> kunnskaper, ferdigheter og holdninger,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/k/avsnitt/1"><i>risikoakseptkriterier:</i> kriterier som legges til grunn for beslutning om akseptabel risiko,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/l"><lverdi>l)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/l/avsnitt/1"><i>risikoanalyse:</i> systematisk bruk av all tilgjengelig informasjon for å identifisere farer og estimere risiko,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/m"><lverdi>m)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/m/avsnitt/1"><i>risikoevaluering:</i> prosess for å sammenligne beskrevet eller beregnet risiko med gitte risikoakseptkriterier,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/n"><lverdi>n)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/n/avsnitt/1"><i>risikovurdering:</i> den samlede prosessen som omfatter en risikoanalyse og en risikoevaluering,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/o"><lverdi>o)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/o/avsnitt/1"><i>sikkerhetsstyring:</i> systematiske tiltak en organisasjon iverksetter for å oppnå, opprettholde og videreutvikle sikkerhetsnivå i overensstemmelse med fastlagte mål,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/p"><lverdi>p)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/p/avsnitt/1"><i>sikkerhetsstyringssystem:</i> organisasjon og systemer opprettet av en jernbanevirksomhet med henblikk på sikker forvaltning av deres virksomhet,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/q"><lverdi>q)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/q/avsnitt/1"><i>signal:</i> de fastsatte lyssignal, skilt, stolper, flagg, tegn og lyder som brukes ved togframføring og ved skifting,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/r"><lverdi>r)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/r/avsnitt/1"><i>signalanlegg:</i> teknisk anlegg som blant annet kan inkludere sikringsanlegg, optiske signaler, linjeblokk, fjernstyring og automatisk hastighetsovervåkning,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/s"><lverdi>s)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/s/avsnitt/1"><i>sikringsanlegg:</i> den del av signalanlegget som sikrer at kjørsignal bare gis dersom bestemte betingelser er oppfylt,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/t"><lverdi>t)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/t/avsnitt/1"><i>skift:</i> kjøretøy som flyttes under skifting,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/u"><lverdi>u)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/u/avsnitt/1"><i>skifting:</i> flytting av kjøretøy som ikke er tog,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/v"><lverdi>v)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/v/avsnitt/1"><i>tog:</i> ett eller flere sammenkoblede kjøretøy som skal framføres fra et bestemt utgangssted til et bestemt ankomststed,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/w"><lverdi>w)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/w/avsnitt/1"><i>trafikkstyring:</i> togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for framføringen,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-3/ledd/1/liste/x"><lverdi>x)</lverdi><avsnitt id="/kapittel/1/paragraf/1-3/ledd/1/liste/x/avsnitt/1"><i>trafikkutøver:</i> den som har tillatelse til å drive trafikkvirksomhet.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Overordnede krav til sikkerhetsstyring</ktittel>
+      <paragraf id="/kapittel/2/paragraf/2-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k2/p2-1">
+        <pverdi>§ 2-1.</pverdi>
+        <ptittel>Overordnet ansvar for sikkerhet</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/1">Jernbanevirksomheten har ansvaret for en sikker drift og kontroll på risikoer der disse oppstår. Jernbanevirksomheten har plikt til å iverksette nødvendig risikohåndtering, og der det er relevant, samarbeide med de øvrige virksomheter.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k2/p2-2">
+        <pverdi>§ 2-2.</pverdi>
+        <ptittel>Krav om sikkerhetsstyring</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/1">Jernbanevirksomheten skal utøve sikkerhetsstyring av den virksomheten som drives med det formål at det etablerte sikkerhetsnivået på jernbanen opprettholdes og i den grad det er nødvendig forbedres.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/2">Sikkerhetsstyring skal utøves på alle nivåer i organisasjonen. Jernbanevirksomheten skal også sikre at sikkerhetsstyring utøves i oppgaver som utføres av leverandør.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k2/p2-3">
+        <pverdi>§ 2-3.</pverdi>
+        <ptittel>Enkeltfeilprinsippet og barrierer</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-3/ledd/1">Virksomheten skal planlegges, organiseres og utføres med henblikk på at en enkeltfeil ikke skal føre til en jernbaneulykke.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-3/ledd/2">Jernbanevirksomheten skal ha barrierer som reduserer sannsynligheten for at feil, fare- og ulykkessituasjoner utvikler seg. Barrierene skal begrense mulige skader og ulemper.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-3/ledd/3">Barrierene skal være identifisert, og det skal være kjent i virksomheten hvilke barrierer som er etablert og hvilke funksjoner de skal ivareta. Der det er nødvendig med flere barrierer, skal det være tilstrekkelig uavhengighet mellom barrierene.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>System for sikkerhetsstyring</ktittel>
+      <paragraf id="/kapittel/3/paragraf/3-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k3/p3-1">
+        <pverdi>§ 3-1.</pverdi>
+        <ptittel>Krav til sikkerhetsstyringssystem</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/1">Jernbanevirksomheten skal ha et sikkerhetsstyringssystem.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/2">Sikkerhetsstyringssystemet skal være tilpasset arten og omfanget av den aktuelle virksomheten og andre forhold ved denne. Sikkerhetsstyringssystemet skal videre sikre håndtering av alle risikoer forbundet med virksomheten.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/3">Sikkerhetsstyringssystemet skal ta hensyn til alle relevante risikoer som oppstår som følge av annen virksomhet. Sikkerhetsstyringssystemet skal vise hvordan kontrollen er sikret fra den øverste ledelsens side på ulike nivåer, hvordan personalet på alle nivåer er involvert og hvordan den kontinuerlige forbedringen av sikkerhetsstyringssystemet sikres.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/4">Sikkerhetsstyringssystemet skal omfatte bruk av leverandører. Jernbanevirksomheten skal stille de samme styrings- og sikkerhetskrav til aktiviteter utført av leverandører som til aktiviteter utført av egen virksomhet.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/5">Infrastrukturforvalters sikkerhetsstyringssystem skal ta hensyn til virkningene av forskjellige trafikkutøveres virksomhet og omfatte bestemmelser som skal gjøre det mulig for alle trafikkutøvere å drive i samsvar med krav i jernbanelovgivningen, samt krav i og vilkår fastsatt i deres tillatelse.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k3/p3-2">
+        <pverdi>§ 3-2.</pverdi>
+        <ptittel>Dokumentasjon</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/1">Sikkerhetsstyringssystemet skal dokumenteres. Dokumentasjonen skal gjøres tilgjengelig og kjent på en hensiktsmessig måte for alt personell med behov for slik tilgang.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/2">Jernbanevirksomheten skal ha en oppdatert oversikt over alle bestemmelser i sikkerhetsstyringssystemet der blant annet status for gyldighet for bestemmelsene er angitt.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/3">Dokumentasjonen skal være styrt og sporbar. Jernbanevirksomheten skal ha bestemmelser om styring og kontroll av dokumenter som inngår i sikkerhetsstyringssystemet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k3/p3-3">
+        <pverdi>§ 3-3.</pverdi>
+        <ptittel>Prosedyrer m.m.</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/1">Jernbanevirksomheten skal utarbeide prosedyrer og/eller bestemmelser som dekker alle relevante forhold av betydning for sikkerheten.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/2">Prosedyrene og/eller bestemmelsene skal sikre overholdelse av gjeldende, nye og endrede tekniske og operasjonelle standarder og andre krav fastsatt i:
+<liste id="/kapittel/3/paragraf/3-3/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/2/liste/a/avsnitt/1">jernbanelovgivningen,</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-3/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/2/liste/b/avsnitt/1">andre relevante regler og</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-3/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/3-3/ledd/2/liste/c/avsnitt/1">enkeltvedtak truffet av myndighetene.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Ledelsens ansvar</ktittel>
+      <paragraf id="/kapittel/4/paragraf/4-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k4/p4-1">
+        <pverdi>§ 4-1.</pverdi>
+        <ptittel>Ledelsens ansvar</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/1">Den øverste ledelsen har ansvaret for at sikkerhetsstyringssystemet er vedtatt, dokumentert og etterlevd. Videre har den øverste ledelsen ansvaret for at sikkerhetsstyringssystemet kontinuerlig forbedres.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k4/p4-2">
+        <pverdi>§ 4-2.</pverdi>
+        <ptittel>Sikkerhetspolitikk</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-2/ledd/1">Jernbanevirksomhetens øverste ledelse skal utarbeide en dokumentert sikkerhetspolitikk. Sikkerhetspolitikken skal:
+<liste id="/kapittel/4/paragraf/4-2/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/4-2/ledd/1/liste/a/avsnitt/1">angi prinsipper for arbeidet med sikkerheten,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-2/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/4-2/ledd/1/liste/b/avsnitt/1">være formålstjenlig som et rammeverk for etablering og gjennomgåelse av sikkerhetsmål,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-2/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/4-2/ledd/1/liste/c/avsnitt/1">være innarbeidet på alle nivåer i jernbanevirksomheten og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-2/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/4/paragraf/4-2/ledd/1/liste/d/avsnitt/1">være formidlet til alle som arbeider for eller på vegne av jernbanevirksomheten.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k4/p4-3">
+        <pverdi>§ 4-3.</pverdi>
+        <ptittel>Sikkerhetsmål</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/1">Jernbanevirksomhetens øverste ledelse skal utarbeide mål som er egnet til å opprettholde og i den grad det er nødvendig forbedre sikkerheten. Målene skal utformes i tråd med virksomhetens sikkerhetspolitikk. Videre skal målene være utformet slik at resultatene av arbeidet med sikkerheten kan sammenlignes med målene.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-3/ledd/2">Jernbanevirksomheten skal ha planer som viser når og hvordan de fastsatte målene for sikkerheten skal oppnås.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-4" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k4/p4-4">
+        <pverdi>§ 4-4.</pverdi>
+        <ptittel>Risikoakseptkriterier</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/1">Den øverste ledelsen har ansvaret for å etablere risikoakseptkriterier. Kriteriene skal omfatte personer, eiendom og miljø.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/2">Risikoakseptkriteriene må være egnet som beslutningskriterier for de problemstillinger og det detaljeringsnivå risikovurderingene skal dekke.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/3">Kriteriene skal omfatte risiko som virksomheten representerer og blir eksponert for samlet sett samt den risiko virksomheten utgjør for individer og lokale forhold.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/4">Kriteriene skal være fastlagt før risikovurderingen gjennomføres.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-4/ledd/5">Risikoakseptkriteriene skal være basert på sannsynlighet og konsekvens. Vurderingene som ligger til grunn for utformingen av kriteriene skal dokumenteres.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-5" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k4/p4-5">
+        <pverdi>§ 4-5.</pverdi>
+        <ptittel>Klare ansvarsforhold</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-5/ledd/1">Den øverste ledelsen har ansvaret for at jernbanevirksomheten er organisert slik at personellets ansvar og myndighet klart fremgår.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-5/ledd/2">Den øverste ledelsen har ansvaret for at alle arbeidsoppgaver av betydning for sikkerheten er identifisert. Videre har den øverste ledelsen ansvaret for at arbeidsoppgaver av sikkerhetsmessig betydning, samt ansvar og myndighet i forhold til arbeidsoppgavene er klart beskrevet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-6" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k4/p4-6">
+        <pverdi>§ 4-6.</pverdi>
+        <ptittel>Informasjonsoverføring</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-6/ledd/1">Den øverste ledelsen har ansvaret for at det er utformet et system for informasjonsoverføring mellom de ulike nivåer og funksjoner i virksomheten, samt med andre jernbanevirksomheter i den grad det er relevant, slik at kunnskap om forhold av betydning for arbeidet med sikkerheten formidles til og behandles på relevant nivå.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-7" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k4/p4-7">
+        <pverdi>§ 4-7.</pverdi>
+        <ptittel>Beredskap</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-7/ledd/1">Den øverste ledelsen har ansvaret for at jernbanevirksomheten har beredskap for nødssituasjoner. Beredskapen skal være dimensjonert på grunnlag av resultatene fra beredskapsanalyser og være beskrevet i egne beredskapsplaner.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-7/ledd/2">Jernbanevirksomheten skal sikre at nødvendige tiltak blir satt i verk raskest mulig slik at faresituasjoner ikke utvikler seg til ulykkessituasjoner og personer kan evakueres effektivt og trygt.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-7/ledd/3">Beredskapen skal omfatte blant annet:
+<liste id="/kapittel/4/paragraf/4-7/ledd/3/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/4-7/ledd/3/liste/a/avsnitt/1">kompetent og øvet personell,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-7/ledd/3/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/4-7/ledd/3/liste/b/avsnitt/1">organisering, utstyr og materiell for effektiv beredskapsinnsats,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-7/ledd/3/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/4-7/ledd/3/liste/c/avsnitt/1">oversikt over grensesnitt mot andre relevante virksomheter som har beredskapsressurser,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-7/ledd/3/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/4/paragraf/4-7/ledd/3/liste/d/avsnitt/1">et dokumentert beredskapsplanverk, med tydelig rollefordeling, varslingslister og innsatsplaner og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-7/ledd/3/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/4/paragraf/4-7/ledd/3/liste/e/avsnitt/1">informasjonsberedskap i krisesituasjoner som sikrer at reisende og publikum får informasjon om hvordan de skal forholde seg.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/4/paragraf/4-7/ledd/4">Beredskapen skal være samordnet med relevante offentlig myndigheter.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-7/ledd/5">Den som driver trafikkstyring har ansvaret for at egne beredskapsplaner og beredskapsplanene til andre jernbanevirksomheter er koordinert.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-7/ledd/6">Den som driver trafikkstyring skal fastsette og formidle bestemmelser som er nødvendige for å opprettholde effektiv kommunikasjon med andre jernbanevirksomheter og andre relevante aktører i nødssituasjoner. Bestemmelsene skal utarbeides i samarbeid med de andre jernbanevirksomhetene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/4-8" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k4/p4-8">
+        <pverdi>§ 4-8.</pverdi>
+        <ptittel>Ledelsens gjennomgåelse</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-8/ledd/1">Jernbanevirksomhetens øverste ledelse skal ved behov og minst en gang per år, gjennomgå sikkerhetsstyringssystemet og resultater fra virksomhetens sikkerhetsarbeid for å sikre at sikkerhetsstyringssystemet fortsatt er hensiktsmessig og oppdatert. Ved gjennomgåelsen skal det tas hensyn til blant annet:
+<liste id="/kapittel/4/paragraf/4-8/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/4-8/ledd/1/liste/a/avsnitt/1">resultater og gjennomføring av tiltak etter interne revisjoner og revisjoner av leverandører, samt vurdering av samsvar med lovgivningens krav og interne krav,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-8/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/4-8/ledd/1/liste/b/avsnitt/1">i hvilken grad sikkerhetsmål er oppnådd,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-8/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/4-8/ledd/1/liste/c/avsnitt/1">nye og oppdaterte risikovurderinger,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-8/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/4/paragraf/4-8/ledd/1/liste/d/avsnitt/1">endrede forutsetninger, herunder endringer i lover og/eller forskrifter,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-8/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/4/paragraf/4-8/ledd/1/liste/e/avsnitt/1">analyser av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser,</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-8/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/4/paragraf/4-8/ledd/1/liste/f/avsnitt/1">avvik og oppfølging av disse og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/4-8/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/4/paragraf/4-8/ledd/1/liste/g/avsnitt/1">oppfølgingstiltak etter ledelsens tidligere gjennomgåelser.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/4/paragraf/4-8/ledd/2">Ledelsens gjennomgåelse skal avdekke eventuelle behov for endring i sikkerhetspolitikk, sikkerhetsmål og handlingsplaner og andre deler av sikkerhetsstyringssystemet.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k5">
+      <kverdi>Kapittel 5</kverdi>
+      <ktittel>Ressursstyring</ktittel>
+      <paragraf id="/kapittel/5/paragraf/5-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k5/p5-1">
+        <pverdi>§ 5-1.</pverdi>
+        <ptittel>Kompetansekrav</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/1">Jernbanevirksomheten skal ha kompetansekrav som angir nødvendig minimumskompetanse for utførelse av alle oppgaver og funksjoner av betydning for jernbanevirksomhetens arbeid med sikkerheten. Jernbanevirksomheten skal videre sørge for at kompetansekrav for oppgaver som utføres av leverandører sikrer den kompetanse som jernbanevirksomheten anser som nødvendig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k5/p5-2">
+        <pverdi>§ 5-2.</pverdi>
+        <ptittel>Kompetanse</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/1">Jernbanevirksomheten skal ha tilgjengelig den kompetanse som er nødvendig for at virksomheten skal drives innenfor akseptabel risiko.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/2">Dersom oppgavene av sikkerhetsmessig betydning utføres av leverandør skal jernbanevirksomheten ha nødvendig kompetanse blant annet til å kunne spesifisere krav til leveranser, følge opp leverandøren og ta stilling til leveransen.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/3">Egne ansatte og ansatte hos leverandører, som utfører oppgaver av betydning for jernbanevirksomhetens arbeid med sikkerhet, skal ha tilstrekkelig kompetanse i forhold til oppgavene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k5/p5-3">
+        <pverdi>§ 5-3.</pverdi>
+        <ptittel>Opplæring</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/1">Jernbanevirksomheten skal ha opplæringsprogrammer for egne ansatte, samt krav og systemer som sikrer at deres kompetanse opprettholdes slik at arbeid av betydning for sikkerheten kan utføres på en tilfredsstillende måte.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/2">Jernbanevirksomheten skal stille krav til at leverandører har systemer for å sikre at deres ansattes kompetanse opprettholdes i forhold til arbeid av betydning for sikkerheten som vedkommende skal utføre.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-4" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k5/p5-4">
+        <pverdi>§ 5-4.</pverdi>
+        <ptittel>Sikkerhetsmessig tilrettelegging av arbeidsmiljøet</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-4/ledd/1">Jernbanevirksomheten skal tilrettelegge arbeidsmiljøet for mestring av arbeidsoppgaver av betydning for sikkerheten.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/6" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k6">
+      <kverdi>Kapittel 6</kverdi>
+      <ktittel>Risikovurderinger</ktittel>
+      <paragraf id="/kapittel/6/paragraf/6-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k6/p6-1">
+        <pverdi>§ 6-1.</pverdi>
+        <ptittel>Risikovurderinger</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/1">Jernbanevirksomheten skal planlegge og gjennomføre de risikovurderinger som er nødvendige for å fastslå om driften av virksomheten er innenfor akseptabel risiko. Risikovurderingene skal planlegges og gjennomføres på en systematisk og koordinert måte gjennom alle virksomhetsfaser.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/2">Det skal fremgå hva som er formålet med de enkelte risikovurderinger samt hvilke forutsetninger og avgrensninger som er lagt til grunn.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/3">Risikovurderinger skal gjennomføres i henhold til anerkjente og hensiktsmessige metoder.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/4">Fareidentifiseringen som inngår i risikovurderingen skal være på et tilstrekkelig detaljert nivå.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/5">Ved behov skal det utføres sensitivitetsvurdering for å fastslå om risikovurderingen er tilstrekkelig robust.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k6/p6-2">
+        <pverdi>§ 6-2.</pverdi>
+        <ptittel>Oppfølging og oppdatering av risikovurderinger</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/1">Jernbanevirksomheten skal systematisk følge opp forutsetningene for, avgrensningene og resultatene av risikovurderingene. Jernbanevirksomheten skal gjennomføre nødvendige tiltak for håndtering av risikoer identifisert i risikovurderinger, eventuelt i samarbeid med annen virksomhet.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/2">Ved endringer i forutsetninger eller avgrensninger av risikovurderinger, eller når det foreligger annen ny kunnskap av betydning for vurderingene, skal risikovurderingene oppdateres.</ledd>
+        <ledd id="/kapittel/6/paragraf/6-2/ledd/3">Jernbanevirksomheten skal ha oversikt over utførte risikovurderinger, samt deres gyldighetsstatus, forutsetninger og avgrensninger. Det skal sikres samsvar mellom vurderinger som utfyller eller bygger på hverandre.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/7" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k7">
+      <kverdi>Kapittel 7</kverdi>
+      <ktittel>Måling, oppfølging og forbedring</ktittel>
+      <paragraf id="/kapittel/7/paragraf/7-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k7/p7-1">
+        <pverdi>§ 7-1.</pverdi>
+        <ptittel>Revisjoner</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/1">Jernbanevirksomheten skal systematisk gjennomføre revisjoner av sitt sikkerhetsstyringssystem for å vurdere om det er tilfredsstillende dokumentert og etterlevd og om det tilfredsstiller krav i jernbanelovgivningen.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/2">Jernbanevirksomheten skal systematisk gjennomføre revisjoner av leverandører for å vurdere om leverandører overholder krav i eller i medhold av avtaler.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-1/ledd/3">Revisjoner skal gjennomføres i henhold til anerkjent metodikk, vedtatte revisjonsprogrammer og på en måte som ivaretar objektivitet og uavhengighet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k7/p7-2">
+        <pverdi>§ 7-2.</pverdi>
+        <ptittel>Oppfølging av jernbaneulykker og jernbanehendelser</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/1">Jernbanevirksomheten skal ha system for intern rapportering, registrering, granskning og analyse av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/2">Jernbanevirksomheten skal undersøke og analysere jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser. Hendelsene skal analyseres både enkeltvis og i forhold til andre hendelser for å sikre at nødvendige tiltak identifiseres.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-2/ledd/3">Tiltakene skal følges opp og effekten evalueres. Inntil nødvendige tiltak er iverksatt skal det ved behov gjennomføres kompenserende tiltak.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k7/p7-3">
+        <pverdi>§ 7-3.</pverdi>
+        <ptittel>Beredskapsøvelser</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/1">Jernbanevirksomheten skal regelmessig gjennomføre øvelser for å verifisere at beredskapen fungerer etter sin hensikt.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-3/ledd/2">Jernbanevirksomhetene skal samordne slike øvelser i den grad det er nødvendig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/7-4" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k7/p7-4">
+        <pverdi>§ 7-4.</pverdi>
+        <ptittel>Oppfølging av avvik</ptittel>
+        <ledd id="/kapittel/7/paragraf/7-4/ledd/1">Jernbanevirksomheten skal registrere og følge opp avvik fra jernbanelovgivningen og interne bestemmelser. Det skal tas stilling til avvikenes betydning for sikkerheten, både enkeltvis og i forhold til andre avvik.</ledd>
+        <ledd id="/kapittel/7/paragraf/7-4/ledd/2">Jernbanevirksomheten skal rette avvik, avdekke årsakene til avvikene og iverksette tiltak for å hindre gjentakelse. Tiltakene skal følges opp og effekten av tiltakene evalueres. Inntil avvik er rettet skal det ved behov gjennomføres kompenserende tiltak.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/8" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k8">
+      <kverdi>Kapittel 8</kverdi>
+      <ktittel>Årlig rapportering til tilsynet</ktittel>
+      <paragraf id="/kapittel/8/paragraf/8-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k8/p8-1">
+        <pverdi>§ 8-1.</pverdi>
+        <ptittel>Årlig rapportering</ptittel>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/1">Jernbanevirksomheten skal årlig rapportere foregående års jernbaneulykker og sikkerhetsindikatorer. Rapporteringen skal sendes Statens jernbanetilsyn innen 31. januar på den form Statens jernbanetilsyn bestemmer.</ledd>
+        <ledd id="/kapittel/8/paragraf/8-1/ledd/2">Jernbanevirksomheten skal utarbeide en årlig sikkerhetsrapport om foregående kalenderår. Sikkerhetsrapporten skal sendes Statens jernbanetilsyn innen 30. juni på den form Statens jernbanetilsyn bestemmer.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/9" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9">
+      <kverdi>Kapittel 9</kverdi>
+      <ktittel>Krav til forvaltning av infrastruktur</ktittel>
+      <paragraf id="/kapittel/9/paragraf/9-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-1">
+        <pverdi>§ 9-1.</pverdi>
+        <ptittel>Generelle krav til forvaltning av infrastruktur</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/1">Infrastrukturforvalter skal sikre at infrastrukturen til enhver tid er utformet og i en slik tilstand at det legges til rette for sikker drift. Det skal kun gis adgang til kjøretøy som er kompatibelt med infrastrukturen.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/2">Infrastrukturforvalter skal drifte og vedlikeholde infrastrukturen i henhold til kravene i forskriften her, samt nasjonale og internasjonale standarder.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-1/ledd/3">Forutsetninger og begrensninger knyttet til infrastrukturens utforming skal legges til grunn for prosedyrer for drift og vedlikehold av infrastrukturen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-2">
+        <pverdi>§ 9-2.</pverdi>
+        <ptittel>Prinsipper for trafikkavvikling (romblokkprinsippet)</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-2/ledd/1">Jernbanevirksomheten skal utforme og drifte infrastrukturen samt drive trafikkstyring, slik at kjøring av tog på en strekning eller på et spor kontrolleres på en måte som sikrer at et tog ikke kjører inn på en strekning eller et spor der det befinner seg kjøretøy (romblokkprinsippet).</ledd>
+        <ledd id="/kapittel/9/paragraf/9-2/ledd/2">På dobbeltsporede strekninger hvor hvert spor kun trafikkeres i en retning, kan tog kjøres på sikt dersom hastigheten begrenses slik at de til enhver tid kan stoppe på synlig strekning.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-3">
+        <pverdi>§ 9-3.</pverdi>
+        <ptittel>Signalprinsipper</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-3/ledd/1">Infrastrukturforvalter skal ha prinsipper for tillatte signaler og deres plassering, nødvendige signalavstander og sikkerhetssoner samt bestemmelser for utforming av tegningsunderlag, sporplaner og forriglingstabeller.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-4" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-4">
+        <pverdi>§ 9-4.</pverdi>
+        <ptittel>Kontroll og vedlikehold av infrastruktur</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-4/ledd/1">Infrastrukturforvalter skal føre kontroll med infrastrukturen. Infrastrukturforvalter skal ha sikkerhetsmessige minimumskrav til systemer, deler og komponenter.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-4/ledd/2">Infrastrukturforvalter skal ha en vedlikeholdsplan for hver strekning. Vedlikeholdsplanen skal inneholde grenseverdier for alle systemer, deler og komponenter av sikkerhetsmessig betydning som angir når umiddelbare tiltak skal iverksettes. Planen skal videre inneholde en beskrivelse av tiltak som skal gjennomføres når disse grensene er overskredet, samt intervaller for vedlikehold og tidspunkt for utskifting av sikkerhetskritiske komponenter. Ved fastsettelse av grenseverdiene skal det blant annet tas hensyn til kjøretøy som tillates brukt på strekningen og strekningens tillatte kjørehastigheter.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-4/ledd/3">Infrastrukturforvalter skal dokumentere utført vedlikehold.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-5" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-5">
+        <pverdi>§ 9-5.</pverdi>
+        <ptittel>Teknisk dokumentasjon</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-5/ledd/1">Infrastrukturforvalter skal ha teknisk dokumentasjon for alle systemer, deler og komponenter.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-5/ledd/2">Dokumentasjonen skal bekrefte at systemer, deler og komponenter er i samsvar med de nasjonale og internasjonale standarder som er lagt til grunn for prosjektering og bygging av infrastruktur.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-5/ledd/3">Dokumentasjonen skal beskrive de forutsetninger og begrensninger som er knyttet til infrastrukturens utforming.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-6" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-6">
+        <pverdi>§ 9-6.</pverdi>
+        <ptittel>Register over infrastrukturen</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-6/ledd/1">Infrastrukturforvalter skal ha et register over systemer, deler og komponenter som inngår i infrastrukturen. Registeret skal identifisere systemer, deler og komponenter ved hjelp av en stedsangivelse.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-7" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-7">
+        <pverdi>§ 9-7.</pverdi>
+        <ptittel>Kjøring av tog i forbindelse med drift av infrastruktur</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-7/ledd/1">Infrastrukturforvalter kan ved drift av infrastruktur kjøre tog i forbindelse med kontroll, arbeid, rydding av snø eller vegetasjon mv. på infrastrukturen. Ved slik kjøring stilles samme sikkerhetsmessige krav som til øvrig trafikkutøvelse.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-8" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-8">
+        <pverdi>§ 9-8.</pverdi>
+        <ptittel>Trafikkstyring</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-8/ledd/1">All trafikk på infrastrukturen skal overvåkes og ledes på en slik måte at virksomheten drives innenfor akseptabel risiko.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-8/ledd/2">Når framføring skjer etter romblokkprinsippet, skal trafikkstyringen bl.a. sikre at det til enhver tid er oversikt over de enkelte togs retning, posisjon og rekkefølge. På spor som ikke er bekreftet fri for tog, kan framføring skje på sikt dersom hastigheten begrenses slik at toget kan stoppe på halvparten av synlig strekning.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-8/ledd/3">Trafikkstyrer skal ha velegnet utstyr for å drive trafikkstyring, herunder for å kunne kommunisere med togbetjening.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-8/ledd/4">Kommunikasjon i forbindelse med trafikkstyringen skal lagres sikkert og i tilstrekkelig tid i forhold til behovet for eventuell undersøkelse av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-9" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-9">
+        <pverdi>§ 9-9.</pverdi>
+        <ptittel>Bestemmelser for sikker trafikkavvikling</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-9/ledd/1">Infrastrukturforvalter skal ha bestemmelser for trafikkavvikling tilpasset banens sikringsstandard. Bestemmelsene skal gjenspeile systemet for trafikkavvikling og skal minst inneholde bestemmelser om signaler og deres betydning i trafikkavviklingen, og ansvarsforhold, ordrelinjer og kommunikasjonsprosedyrer i trafikkavviklingen for både ordinær drift og avvikssituasjoner.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-9/ledd/2">Infrastrukturforvalter skal ha en beskrivelse av infrastrukturen. Beskrivelsen skal være på norsk.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-10" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-10">
+        <pverdi>§ 9-10.</pverdi>
+        <ptittel>Tillatelse til kjøring av tog og skifting</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-10/ledd/1">Det skal innhentes tillatelse før tog kan kjøres på en strekning.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-10/ledd/2">Det skal innhentes tillatelse før skifting kan starte.</ledd>
+        <ledd id="/kapittel/9/paragraf/9-10/ledd/3">Det skal til enhver tid være en oversikt over alle som har fått tillatelse til å kjøre på strekningen. Oversikten skal være tilgjengelig for relevant personell.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/9/paragraf/9-11" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k9/p9-11">
+        <pverdi>§ 9-11.</pverdi>
+        <ptittel>Bestemmelser for sikring av arbeid i spor</ptittel>
+        <ledd id="/kapittel/9/paragraf/9-11/ledd/1">Infrastrukturforvalter skal utarbeide bestemmelser for arbeid i spor som minimum skal inneholde:
+<liste id="/kapittel/9/paragraf/9-11/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/9/paragraf/9-11/ledd/1/liste/a/avsnitt/1">retningslinjer for oppstart av arbeid,</avsnitt></liste>
+<liste id="/kapittel/9/paragraf/9-11/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/9/paragraf/9-11/ledd/1/liste/b/avsnitt/1">hvordan man sikrer arbeidsstedet slik at tog ikke kommer utilsiktet inn på det angitte området og</avsnitt></liste>
+<liste id="/kapittel/9/paragraf/9-11/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/9/paragraf/9-11/ledd/1/liste/c/avsnitt/1">retningslinjer for å sikre at personell og utstyr ikke kommer i konflikt med tog som kjøres på nabospor.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/10" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10">
+      <kverdi>Kapittel 10</kverdi>
+      <ktittel>Krav til trafikkutøvelse</ktittel>
+      <paragraf id="/kapittel/10/paragraf/10-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-1">
+        <pverdi>§ 10-1.</pverdi>
+        <ptittel>Generelle krav til trafikkutøver</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-1/ledd/1">Trafikkutøver skal sikre at trafikken skjer innenfor akseptabel risiko, herunder at kjøretøyet som brukes til enhver tid driftes og vedlikeholdes i henhold til kravene i forskriften her, samt nasjonale og internasjonale standarder.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-1/ledd/2">Forutsetninger og begrensninger knyttet til kjøretøyets utforming skal legges til grunn for prosedyrer for drift og vedlikehold av kjøretøyet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-2">
+        <pverdi>§ 10-2.</pverdi>
+        <ptittel>Kontroll og vedlikehold av kjøretøy</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-2/ledd/1">Trafikkutøver skal føre kontroll med kjøretøyet, og ha sikkerhetsmessige minimumskrav til systemer, deler og komponenter.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-2/ledd/2">Trafikkutøver skal vedlikeholde kjøretøyet. Vedlikeholdet skal sikre at ingen systemer, deler eller komponenter forringes så mye at det fører til funksjonssvikt. Blant annet skal sikkerhetsmessige slitasjegrenser for slitasjeutsatte deler være angitt, og intervall for vedlikehold og utskifting for alle sikkerhetskritiske komponenter skal være angitt.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-2/ledd/3">Trafikkutøver skal dokumentere utført vedlikehold.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-3">
+        <pverdi>§ 10-3.</pverdi>
+        <ptittel>Teknisk dokumentasjon</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-3/ledd/1">Trafikkutøver skal ha tilgang til oppdatert teknisk dokumentasjon for alle systemer, deler og komponenter.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-3/ledd/2">Dokumentasjonen skal kunne bekrefte at systemer, deler og komponenter er i samsvar med de nasjonale og internasjonale standarder som er lagt til grunn for prosjektering og bygging av kjøretøyet.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-3/ledd/3">Dokumentasjonen skal beskrive de forutsetninger og begrensninger som er knyttet til kjøretøyets utforming.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-4" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-4">
+        <pverdi>§ 10-4.</pverdi>
+        <ptittel>Register over kjøretøy</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-4/ledd/1">Trafikkutøver skal ha et register over alle kjøretøy som virksomheten bruker. Registeret skal som et minimum identifisere kjøretøy individuelt.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-5" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-5">
+        <pverdi>§ 10-5.</pverdi>
+        <ptittel>Bestemmelser for togframføring</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-5/ledd/1">Trafikkutøver skal ha utarbeidet nødvendige bestemmelser for togframføring. Bestemmelsene skal være tilpasset infrastrukturforvalters bestemmelser for sikker trafikkavvikling.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-5/ledd/2">Trafikkutøver skal sikre at personell som har tilknytning til framføringen, har den nødvendige dokumentasjon som kreves for å utføre sine arbeidsoppgaver. Dokumentasjonen må omfatte alle bestemmelser og prosedyrer som er nødvendig for drift under normale forhold, ved uregelmessigheter og i nødsituasjoner.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-5/ledd/3">Trafikkutøver skal på grunnlag av beskrivelsen av infrastrukturen utarbeide en strekningsbeskrivelse. Trafikkutøver skal sørge for at personellet til enhver tid har oppdatert dokumentasjon om strekningen som er relevant for den enkelte. Strekningsbeskrivelsen skal minst omfatte:
+<liste id="/kapittel/10/paragraf/10-5/ledd/3/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/10/paragraf/10-5/ledd/3/liste/a/avsnitt/1">generelle driftsegenskaper,</avsnitt></liste>
+<liste id="/kapittel/10/paragraf/10-5/ledd/3/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/10/paragraf/10-5/ledd/3/liste/b/avsnitt/1">detaljert strekningsinformasjon,</avsnitt></liste>
+<liste id="/kapittel/10/paragraf/10-5/ledd/3/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/10/paragraf/10-5/ledd/3/liste/c/avsnitt/1">nødutganger for evakuering og</avsnitt></liste>
+<liste id="/kapittel/10/paragraf/10-5/ledd/3/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/10/paragraf/10-5/ledd/3/liste/d/avsnitt/1">særskilte forhold med betydning for sikker framføring.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-6" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-6">
+        <pverdi>§ 10-6.</pverdi>
+        <ptittel>Bestemmelser om kommunikasjon</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-6/ledd/1">Trafikkutøver skal ha bestemmelser om kommunikasjonsprosedyrer for trafikkavviklingen.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-6/ledd/2">Ved muntlig kommunikasjon mellom fører og trafikkstyrer skal det bare brukes det kommunikasjonssystem som er fastsatt av infrastrukturforvalter. Meldinger av betydning for sikker framføring og skifting skal følge fastsatte rutiner og skal gjentas. For nødmeldinger kan gjentakelse sløyfes.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-6/ledd/3">Ved muntlig kommunikasjon mellom fører og trafikkstyrer skal fører oppgi identifikasjon og stedsangivelse og trafikkstyrer skal oppgi navn på trafikkstyringssentral eller strekning.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-6/ledd/4">Det er trafikkstyrers ansvar å forsikre seg om at vedkommende snakker med rette fører.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-7" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-7">
+        <pverdi>§ 10-7.</pverdi>
+        <ptittel>Bestemmelser om skifting</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-7/ledd/1">Trafikkutøver skal ha bestemmelser om skifting av kjøretøyene som benyttes, herunder bruk av skiftebevegelser, ansvar og oppgaver for personell som deltar i skiftingen, kontroll av kjøretøyene og bruk av bremser.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-7/ledd/2">Et skift skal til enhver tid ha tilstrekkelig bremsekraft til å kunne stoppes i største fall på skifteområdet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-8" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-8">
+        <pverdi>§ 10-8.</pverdi>
+        <ptittel>Beskrivelse av teknisk funksjonsdyktighet</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-8/ledd/1">Trafikkutøver skal ha bestemmelser om teknisk funksjonsdyktighet for kjøretøyene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-9" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-9">
+        <pverdi>§ 10-9.</pverdi>
+        <ptittel>Sammenkobling av kjøretøy</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-9/ledd/1">Trafikkutøver skal ha bestemmelser om sammenkobling av kjøretøy som ivaretar krav til funksjonsdyktige grensesnitt mellom kjøretøy som skal kobles sammen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-10" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-10">
+        <pverdi>§ 10-10.</pverdi>
+        <ptittel>Gjennomgående automatisk bremsesystem</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-10/ledd/1">Kjøretøyene i toget skal være koblet til det gjennomgående automatiske bremsesystemet.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-10/ledd/2">Hvis toget utilsiktet deles, skal de atskilte delene automatisk bringes til stopp ved maksimal aktivering av bremsene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-11" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-11">
+        <pverdi>§ 10-11.</pverdi>
+        <ptittel>Krav om håndbrems eller parkeringsbrems</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-11/ledd/1">Toget skal være utstyrt med håndbrems eller parkeringsbrems slik at det kan fastholdes i største stigning eller fall på den banestrekningen toget skal kjøre. Bremsesko eller lignende kan nyttes i stedet for håndbrems eller parkeringsbrems.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-12" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-12">
+        <pverdi>§ 10-12.</pverdi>
+        <ptittel>Krav til fører</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-12/ledd/1">Føreren har ansvaret for at toget kjøres sikkerhetsmessig forsvarlig i henhold til hastighet, signaler og skilt, togets bremseevne m.m.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-12/ledd/2">Fører skal sikre at avganger fra stasjon og holdeplass gjennomføres på en sikker måte.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-12/ledd/3">Fører skal tilpasse hastigheten under skifting til forholdene på stedet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-13" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-13">
+        <pverdi>§ 10-13.</pverdi>
+        <ptittel>Spesielle bestemmelser om kjøring av tog</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-13/ledd/1">I forbindelse med føreropplæring kan en person under opplæring kjøre tog under oppsyn av fører.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-13/ledd/2">Ved kjøring av tog for vedlikehold av infrastruktur, prøvekjøring og kjøring i forbindelse med berging, kan en annen enn føreren kjøre toget fra samme førerrom dersom føreren av toget ikke har kompetanse til å kjøre dette toget.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-14" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-14">
+        <pverdi>§ 10-14.</pverdi>
+        <ptittel>Før kjøring av tog</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-14/ledd/1">Før kjøring av tog fra det stedet der toget er klargjort, skal føreren minst kontrollere at bremseprøve er utført, at system for årvåkenhetskontroll er koblet inn og prøvd, og at eventuelt utstyr for automatisk hastighetsovervåkning er koblet inn.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-15" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-15">
+        <pverdi>§ 10-15.</pverdi>
+        <ptittel>Krav til tog i trafikk</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-15/ledd/1">Togets for- og bakende skal markeres med lys.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-15/ledd/2">Toget skal kunne varsle med lydsignal.</ledd>
+        <ledd id="/kapittel/10/paragraf/10-15/ledd/3">Kjøretøyets identitetsnummer skal være godt synlig på kjøretøyet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/10/paragraf/10-16" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k10/p10-16">
+        <pverdi>§ 10-16.</pverdi>
+        <ptittel>Sikring av tog som står på strekningen</ptittel>
+        <ledd id="/kapittel/10/paragraf/10-16/ledd/1">Trafikkutøver skal ha bestemmelser som sikrer at tog som står på strekningen ikke kommer utilsiktet i bevegelse.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/11" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11">
+      <kverdi>Kapittel 11</kverdi>
+      <ktittel>Krav til infrastruktur</ktittel>
+      <paragraf id="/kapittel/11/paragraf/11-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-1">
+        <pverdi>§ 11-1.</pverdi>
+        <ptittel>Generelle krav til infrastruktur</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-1/ledd/1">Infrastrukturen skal utformes slik at virksomheten drives innenfor akseptabel risiko. Trasé, over- og underbygning, strømforsyningsanlegg, signalanlegg og kommunikasjonsanlegg skal være teknisk og funksjonelt harmonisert.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-1/ledd/2">Infrastrukturen skal prosjekteres, bygges og testes i henhold til nasjonale og internasjonale standarder. Infrastrukturforvalter skal gjøre en sikkerhetsmessig vurdering av avvik fra valgte standarder. Vurderingen skal dokumenteres.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-1/ledd/3">Infrastrukturforvalter skal benytte prosesstandarden EN 50126 ved bygging av ny infrastruktur og ved endring av programmerbare tekniske systemer. Ved andre endringer av infrastruktur skal infrastrukturforvalter vurdere om endringen er av en slik karakter at bruk av EN 50126 er hensiktsmessig. Vurderingen skal dokumenteres.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-1/ledd/4">Infrastrukturforvalter skal benytte standardene EN 50128 og EN 50129 ved anskaffelse av nye signalanlegg og ved endring av elektroniske signalanlegg.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-1/ledd/5">Der det ikke er oppgitt noe annet i denne forskriften er det den siste versjonen av standardene som gjelder.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/11-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-2">
+        <pverdi>§ 11-2.</pverdi>
+        <ptittel>Trasé m.m.</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-2/ledd/1">Trasé, under- og overbygning samt sporgeometri skal utformes og vedlikeholdes slik at muligheten for avsporinger minimaliseres. Sikkerhetsmessige grenseverdier for sporfeil, herunder vindskjevhet, sporutvidelser, høyde- og sidefeil skal fastsettes i forhold til kjøretøy som tillates brukt på strekningen og strekningens tillatte kjørehastigheter.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-2/ledd/2">For traseer som ligger i rasfarlige områder eller områder med ustabile grunnforhold, skal det iverksettes tiltak slik at virksomheten drives innenfor akseptabel risiko.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-2/ledd/3">Spor for parkering skal sikres slik at kjøretøy ikke kommer i konflikt med spor der det kjøres tog.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/11-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-3">
+        <pverdi>§ 11-3.</pverdi>
+        <ptittel>Plattformer m.m.</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-3/ledd/1">Plattformer og atkomst til disse skal være utformet og utstyrt, herunder skiltet og oppmerket, slik at ferdsel til plattform, opphold på plattform og av- og påstigning til tog kan foregå innenfor akseptabel risiko.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-3/ledd/2">Plattformenes bredde skal være tilpasset antall reisende og hastighet på passerende tog.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-3/ledd/3">Plattformenes lengde skal være tilpasset lengde og utrustning på tog som stopper for av- og påstigning. Høyde- og avstandsforskjeller mellom tog og plattform skal minimaliseres. Plattformen og plattformutrustningen skal være utformet slik at føreren har oversikt langs hele toget ved av- og påstigning.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-3/ledd/4">Ved bygging av nye plattformer og ved vesentlige endringer av eksisterende plattformer skal infrastrukturforvalter sørge for universell utforming av plattformene og adkomsten til disse.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/11-4" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-4">
+        <pverdi>§ 11-4.</pverdi>
+        <ptittel>Tunneler og broer m.m.</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-4/ledd/1">Tunneler og broer skal utformes og utstyres slik at det gir muligheter for evakuering og selvberging i tilfelle av brann og andre ulykker. Det skal legges til rette for at redningspersonell kan drive effektivt redningsarbeid, herunder av orienterings- og bevegelseshemmede.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-4/ledd/2">Gangbaner på broer skal være skjermet med rekkverk. Gangbaner skal være fri for hindringer i høyden og bredden slik at evakuering kan foregå på en sikker måte.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-4/ledd/3">Tunneler skal ikke inneholde lett antennelige materialer. Materialene som skal brukes skal i minst mulig grad avgi røyk og skadelige branngasser ved en eventuell brann.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/11-5" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-5">
+        <pverdi>§ 11-5.</pverdi>
+        <ptittel>Planoverganger</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-5/ledd/1">Planoverganger skal være tilrettelagt for sikker passering for veifarende.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-5/ledd/2">Det skal ikke bygges nye planoverganger der kjøretøy framføres på eget banelegeme. Det kan likevel bygges planoverganger på verksted- og depotområder som er stengt for alminnelig ferdsel, samt midlertidige planoverganger på anleggsområder.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/11-6" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-6">
+        <pverdi>§ 11-6.</pverdi>
+        <ptittel>Signalanlegg</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-6/ledd/1">Signalanlegg skal være konstruert slik at de feiler til sikker tilstand. Anleggets sikkerhetsfunksjoner skal være automatiske og uavhengige av den som betjener anlegget.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-6/ledd/2">Signaler skal plasseres slik at det klart går fram hvilke spor signalene gjelder for, og signalbildet skal være synlig for togets fører i god tid før signalpassering.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-6/ledd/3">Strekning med fjernstyrte signalanlegg skal være utbygd med automatisk hastighetsovervåkning.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-6/ledd/4">På strekninger med fjernstyring skal signalbilder logges kontinuerlig og lagres sikkert og i tilstrekkelig tid i forhold til behovet ved eventuell undersøkelse av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/11-7" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-7">
+        <pverdi>§ 11-7.</pverdi>
+        <ptittel>Kommunikasjonssystem</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-7/ledd/1">Strekning med fjernstyrte signalanlegg skal være utbygd med radiosystem for kommunikasjon til bruk i togframføringen.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-7/ledd/2">På all infrastruktur skal det være et system for nødkommunikasjon, slik at det til enhver tid er gjensidig mulighet for rask kontakt mellom fører og trafikkstyrer.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/11-8" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-8">
+        <pverdi>§ 11-8.</pverdi>
+        <ptittel>Tillatelse til å ta i bruk infrastruktur</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-8/ledd/1">Før infrastruktur settes i drift skal Statens jernbanetilsyn gi tillatelse til å ta infrastrukturen i bruk. Dersom det senere foretas endring av infrastrukturen, herunder signalprinsipper, skal dette meldes til Statens jernbanetilsyn som vil vurdere om endringen er av en slik art at ny tillatelse til å ta i bruk infrastrukturen, eventuelt tillatelse til å ta i bruk endringen, er nødvendig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/11-9" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-9">
+        <pverdi>§ 11-9.</pverdi>
+        <ptittel>Melding om ny eller endret infrastruktur</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-9/ledd/1">Det skal sendes melding til Statens jernbanetilsyn om ny eller endret infrastruktur så tidlig som mulig.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-9/ledd/2">Meldingen skal minst inneholde:
+<liste id="/kapittel/11/paragraf/11-9/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/11/paragraf/11-9/ledd/2/liste/a/avsnitt/1">navn på og kontaktopplysninger til kontaktperson,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-9/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/11/paragraf/11-9/ledd/2/liste/b/avsnitt/1">planlagt fremdrift i prosjektet,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-9/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/11/paragraf/11-9/ledd/2/liste/c/avsnitt/1">systembeskrivelse,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-9/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/11/paragraf/11-9/ledd/2/liste/d/avsnitt/1">sikkerhetsplan,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-9/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/11/paragraf/11-9/ledd/2/liste/e/avsnitt/1">oversikt over planlagt anvendte standarder og</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-9/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/11/paragraf/11-9/ledd/2/liste/f/avsnitt/1">risikovurdering.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/11/paragraf/11-10" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k11/p11-10">
+        <pverdi>§ 11-10.</pverdi>
+        <ptittel>Søknad om tillatelse til å ta infrastruktur i bruk</ptittel>
+        <ledd id="/kapittel/11/paragraf/11-10/ledd/1">Søknad om tillatelse til å ta infrastruktur i bruk skal minst inneholde:
+<liste id="/kapittel/11/paragraf/11-10/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/11/paragraf/11-10/ledd/1/liste/a/avsnitt/1">beskrivelse av ferdig infrastruktur,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-10/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/11/paragraf/11-10/ledd/1/liste/b/avsnitt/1">oversikt over verifikasjoner,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-10/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/11/paragraf/11-10/ledd/1/liste/c/avsnitt/1">sikkerhetsrapport,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-10/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/11/paragraf/11-10/ledd/1/liste/d/avsnitt/1">oppdatert liste over anvendte standarder med oversikt over avvik fra standarder og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-10/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/11/paragraf/11-10/ledd/1/liste/e/avsnitt/1">oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp og</avsnitt></liste>
+<liste id="/kapittel/11/paragraf/11-10/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/11/paragraf/11-10/ledd/1/liste/f/avsnitt/1">sikkerhetsoppfølgingsplan (SOP).</avsnitt></liste></ledd>
+        <ledd id="/kapittel/11/paragraf/11-10/ledd/2">Er assessor eller andre uavhengige parter benyttet, skal utarbeidete rapporter og oppfølgningen av disse, vedlegges.</ledd>
+        <ledd id="/kapittel/11/paragraf/11-10/ledd/3">Statens jernbanetilsyn kan kreve at det benyttes en assessor, og at Statens jernbanetilsyn får ha direkte kontakt med vedkommende. Assessoren skal aksepteres av Statens jernbanetilsyn. Statens jernbanetilsyn kan også kreve at det benyttes uavhengige parter til andre typer aktiviteter, herunder verifiseringer og granskninger.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/12" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12">
+      <kverdi>Kapittel 12</kverdi>
+      <ktittel>Krav til kjøretøy</ktittel>
+      <paragraf id="/kapittel/12/paragraf/12-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-1">
+        <pverdi>§ 12-1.</pverdi>
+        <ptittel>Generelle krav til kjøretøy</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-1/ledd/1">Kjøretøy skal ha en teknisk utforming og driftsmessig tilstand som gjør at virksomheten drives innenfor akseptabel risiko.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-1/ledd/2">Kjøretøy skal prosjekteres, konstrueres, testes, oppgraderes og fornyes i henhold til anerkjente, tidsmessige standarder. Valgte standarder skal opprettholde eller forbedre sikkerheten for det aktuelle kjøretøyet. Det skal gjøres en sikkerhetsmessig vurdering av avvik fra valgte standarder. Vurderingen skal dokumenteres.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-1/ledd/3">For alle nye kjøretøy eller ved vesentlige oppgraderinger skal prosesstandard EN 50126 følges.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-1/ledd/4">Der det ikke er oppgitt noe annet i denne forskriften er det den siste versjonen av standarden som gjelder.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-1/ledd/5">Kjøretøy skal være konstruert slik at det tåler de driftsmessige og klimamessige belastninger det utsettes for under drift.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-1/ledd/6">Kjøretøy skal være identitetsmerket samt teknisk og bruksmessig merket.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/12/paragraf/12-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-2">
+        <pverdi>§ 12-2.</pverdi>
+        <ptittel>Kompatibilitet med infrastrukturen</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-2/ledd/1">Kjøretøy skal være dokumentert kompatibelt med infrastrukturen det skal brukes på, herunder profil, over- og underbygning, strømforsyningsanlegg, signalanlegg og kommunikasjonsanlegg.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-2/ledd/2">Kjøretøy skal ha fastmontert utstyr tilpasset infrastrukturens system for nødkommunikasjon, slik at det til enhver tid er gjensidig mulighet for rask kontakt mellom fører og trafikkstyrer.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-2/ledd/3">Kjøretøy som benyttes på strekninger med automatisk hastighetsovervåkning skal ha utstyr som kan samvirke med dette.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/12/paragraf/12-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-3">
+        <pverdi>§ 12-3.</pverdi>
+        <ptittel>Bremser</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-3/ledd/1">Alle kjøretøy skal ha bremser. Bremsene skal under alle forhold kunne stanse kjøretøyet innenfor en maksimal bremseveilengde definert av trafikkutøver. Bremsesystemene skal være konstruert slik at de feiler til sikker tilstand.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-3/ledd/2">Kjøretøy skal ha parkeringsbrems eller annet utstyr for sikker parkering av kjøretøyet.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-3/ledd/3">Kjøretøy beregnet for persontransport skal ha nødbremsutløser som kan betjenes fra alle vogner i toget. På nytt kjøretøy skal fører kunne utsette aktivering av nødbremsen.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-3/ledd/4">Førerrom skal være utstyrt med et system for årvåkenhetskontroll som aktiverer bremsene om føreren faller i søvn eller mister bevisstheten.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/12/paragraf/12-4" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-4">
+        <pverdi>§ 12-4.</pverdi>
+        <ptittel>Dører, vinduer og innredning</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-4/ledd/1">Dører, vinduer og innredning i kjøretøy skal være utformet slik at sikkerheten for passasjerer og personell ivaretas.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-4/ledd/2">Fjernstyrte dører skal være låst under fart, og fører skal fra førerplass kunne overvåke at dørene er lukket. Videre skal det finnes innretning til å åpne dørene i nødstilfelle, beskyttelse mot at passasjerer eller personell blir fastklemt og avstengingsmulighet for den enkelte dør.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/12/paragraf/12-5" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-5">
+        <pverdi>§ 12-5.</pverdi>
+        <ptittel>Materialer og brannsikkerhet</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-5/ledd/1">Kjøretøy skal ikke inneholde lett antennelige materialer. Materialene som brukes skal i minst mulig grad avgi røyk og skadelige branngasser ved en eventuell brann.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/12/paragraf/12-6" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-6">
+        <pverdi>§ 12-6.</pverdi>
+        <ptittel>Evakuering</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-6/ledd/1">Kjøretøy skal være utformet slik at evakuering og selvberging kan skje i tilfelle brann og andre ulykker. Det skal legges til rette for at redningspersonell kan drive effektivt redningsarbeid, herunder av orienterings- og bevegelseshemmede. Nødutganger og rømningsveier skal være plassert, dimensjonert og merket slik at evakuering kan foretas på en forsvarlig måte.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-6/ledd/2">Kjøretøy skal ha nødutstyr om bord tilpasset kjøretøyets bruk. Nødutstyr og plassering av dette skal være merket.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-6/ledd/3">Kjøretøy skal ha nødlys.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/12/paragraf/12-7" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-7">
+        <pverdi>§ 12-7.</pverdi>
+        <ptittel>Kontrollrutiner</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-7/ledd/1">Trafikkutøver skal ha bestemmelser for prøving av bremser, og kontrollrutiner som sikrer at kjøretøyet til enhver tid er i full driftssikker stand.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/12/paragraf/12-8" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-8">
+        <pverdi>§ 12-8.</pverdi>
+        <ptittel>Tillatelse til å ta i bruk kjøretøy</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-8/ledd/1">Før kjøretøy tas i bruk på infrastrukturen, skal Statens jernbanetilsyn gi tillatelse til å ta kjøretøyet i bruk. Dersom det senere foretas endring av kjøretøyet, skal dette meldes til Statens jernbanetilsyn som vil vurdere om endringen er av en slik art at ny tillatelse til å ta i bruk kjøretøyet, eventuelt tillatelse til å ta i bruk endringen, er nødvendig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/12/paragraf/12-9" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-9">
+        <pverdi>§ 12-9.</pverdi>
+        <ptittel>Melding om nytt eller endret kjøretøy</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-9/ledd/1">Det skal sendes melding til Statens jernbanetilsyn om nytt eller endret kjøretøy så tidlig som mulig.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-9/ledd/2">Meldingen skal minst inneholde:
+<liste id="/kapittel/12/paragraf/12-9/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/12/paragraf/12-9/ledd/2/liste/a/avsnitt/1">navn på og kontaktopplysninger til kontaktperson,</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-9/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/12/paragraf/12-9/ledd/2/liste/b/avsnitt/1">planlagt fremdrift i prosjektet,</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-9/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/12/paragraf/12-9/ledd/2/liste/c/avsnitt/1">systembeskrivelse,</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-9/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/12/paragraf/12-9/ledd/2/liste/d/avsnitt/1">sikkerhetsplan,</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-9/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/12/paragraf/12-9/ledd/2/liste/e/avsnitt/1">oversikt over planlagt anvendte standarder og</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-9/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/12/paragraf/12-9/ledd/2/liste/f/avsnitt/1">risikovurdering.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/12/paragraf/12-10" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k12/p12-10">
+        <pverdi>§ 12-10.</pverdi>
+        <ptittel>Søknad om tillatelse til å ta i bruk kjøretøy</ptittel>
+        <ledd id="/kapittel/12/paragraf/12-10/ledd/1">Søknad om tillatelse til å ta kjøretøy i bruk skal minst inneholde:
+<liste id="/kapittel/12/paragraf/12-10/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/12/paragraf/12-10/ledd/1/liste/a/avsnitt/1">oversiktstegninger og beskrivelser av kjøretøytypen,</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-10/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/12/paragraf/12-10/ledd/1/liste/b/avsnitt/1">oversikt over verifikasjoner,</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-10/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/12/paragraf/12-10/ledd/1/liste/c/avsnitt/1">sikkerhetsrapport,</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-10/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/12/paragraf/12-10/ledd/1/liste/d/avsnitt/1">oppdatert liste over anvendte standarder med oversikt over avvik og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-10/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/12/paragraf/12-10/ledd/1/liste/e/avsnitt/1">oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene, samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp,</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-10/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/12/paragraf/12-10/ledd/1/liste/f/avsnitt/1">sikkerhetsoppfølgingsplan (SOP),</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-10/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/12/paragraf/12-10/ledd/1/liste/g/avsnitt/1">kompatibilitetserklæring og</avsnitt></liste>
+<liste id="/kapittel/12/paragraf/12-10/ledd/1/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/12/paragraf/12-10/ledd/1/liste/h/avsnitt/1">eventuell godkjenning fra andre land.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/12/paragraf/12-10/ledd/2">Er assessor eller andre uavhengige parter benyttet, skal utarbeidete rapporter og oppfølgningen av disse, vedlegges.</ledd>
+        <ledd id="/kapittel/12/paragraf/12-10/ledd/3">Statens jernbanetilsyn kan kreve at det benyttes assessor, og at Statens jernbanetilsyn har direkte kontakt med vedkommende. Assessoren skal aksepteres av Statens jernbanetilsyn. Statens jernbanetilsyn kan også kreve at det benyttes uavhengige parter til andre typer aktiviteter, herunder verifisering og granskninger.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/13" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13">
+      <kverdi>Kapittel 13</kverdi>
+      <ktittel>Autorisasjon av fører</ktittel>
+      <paragraf id="/kapittel/13/paragraf/13-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-1">
+        <pverdi>§ 13-1.</pverdi>
+        <ptittel>Krav til alder og førerkort</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-1/ledd/1">Fører skal ha fylt 20 år. Fører av tog i blandet trafikk skal ha førerkort klasse B.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/13-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-2">
+        <pverdi>§ 13-2.</pverdi>
+        <ptittel>Overordnede kompetansekrav</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-2/ledd/1">Førere skal ha overordnet forståelse for det trafikksystemet de opererer i.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-2/ledd/2">Førere skal kunne kjøre tog på en sikker måte, og anvende bestemmelsene for framføring.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-2/ledd/3">Førere skal kunne foreta nødvendig klargjøring av kjøretøy, herunder sikkerhetsmessig kontroll av tekniske overvåkingssystemer.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-2/ledd/4">Førere skal kunne vurdere hvilken bremseevne et tog har, og hvilke konsekvenser dette har for kjøringen på den aktuelle strekningen.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-2/ledd/5">Førere skal ha tilstrekkelige norskkunnskaper, slik at de kan kommunisere med trafikkstyrer.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-2/ledd/6">Førere skal kunne anvende bestemmelsene for skifting og skal kunne framføre kjøretøy under skifting.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/13-3" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-3">
+        <pverdi>§ 13-3.</pverdi>
+        <ptittel>Krav til teknisk kompetanse</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-3/ledd/1">Førere skal ha kjennskap til kjøretøyets oppbygging og konstruksjon, herunder mekanisk og elektrisk oppbygging, automatisk hastighetsovervåkning, kommunikasjonssystem og dørsystem, slik at vedkommende kan vurdere kjøretøyets tilstand i forhold til kravet om sikker framføring.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-3/ledd/2">Førere skal ha forståelse for virkemåten til bremsesystemer på kjøretøyer og beherske bruk og behandling av disse.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/13-4" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-4">
+        <pverdi>§ 13-4.</pverdi>
+        <ptittel>Krav til kompetanse om infrastruktur</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-4/ledd/1">Førere skal ha gode kunnskaper om og forståelse for den grunnleggende virkemåten til signalanlegg.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-4/ledd/2">Førere skal videre ha kjennskap til hvordan spor- og strømforsyningsanlegg er bygget opp, og ha kjennskap til kommunikasjonssystemer.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/13-5" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-5">
+        <pverdi>§ 13-5.</pverdi>
+        <ptittel>Krav til kompetanse om samspill mellom kjøretøy og spor</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-5/ledd/1">Førere skal forstå hvordan adhesjonsforholdet virker inn på trekkraft og bremsekraft, samt kjenne til hvilke krefter som oppstår mellom spor og kjøretøy ved kjøring.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-5/ledd/2">Førere skal videre ha kjennskap til samspillet mellom kjøretøyets og infrastrukturens strømforsynings- og signalanlegg.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/13-6" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-6">
+        <pverdi>§ 13-6.</pverdi>
+        <ptittel>Krav til kompetanse i forhold til beredskap og nødsituasjoner</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-6/ledd/1">Førere skal kunne håndtere nødsituasjoner, herunder nødprosedyrer og evakuering.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/13-7" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-7">
+        <pverdi>§ 13-7.</pverdi>
+        <ptittel>Krav til strekningskunnskap</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-7/ledd/1">Førere skal være godt kjent på strekningen de kjører på.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/13-8" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-8">
+        <pverdi>§ 13-8.</pverdi>
+        <ptittel>Krav om autorisasjon</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-8/ledd/1">Førere skal ha autorisasjon gitt av jernbanevirksomheten. Autorisasjon kan bare gis til personell som gjennom teoretiske og praktiske prøver har vist at de tilfredsstiller de kompetansekrav som stilles i forskriften her, tilfredsstiller krav til fysisk og psykisk helse og for øvrig er skikket til å utføre arbeidsoppgaver som er tillagt førere på en sikker måte. For førere som kjører i blandet trafikk er det krav om førerkort klasse B.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-8/ledd/2">Det skal utstedes et autorisasjonsbevis som minst skal inneholde:
+<liste id="/kapittel/13/paragraf/13-8/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/13/paragraf/13-8/ledd/2/liste/a/avsnitt/1">navn og adresse på jernbanevirksomheten som har gitt autorisasjonen,</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/13-8/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/13/paragraf/13-8/ledd/2/liste/b/avsnitt/1">navn på føreren,</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/13-8/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/13/paragraf/13-8/ledd/2/liste/c/avsnitt/1">utstedelsesdato og gyldighetstid,</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/13-8/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/13/paragraf/13-8/ledd/2/liste/d/avsnitt/1">hvilke typer kjøretøy føreren kan kjøre,</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/13-8/ledd/2/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/13/paragraf/13-8/ledd/2/liste/e/avsnitt/1">hvilke strekninger føreren kan kjøre og</avsnitt></liste>
+<liste id="/kapittel/13/paragraf/13-8/ledd/2/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/13/paragraf/13-8/ledd/2/liste/f/avsnitt/1">eventuelle begrensninger i autorisasjonen.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/13-9" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-9">
+        <pverdi>§ 13-9.</pverdi>
+        <ptittel>Tilbaketrekking av autorisasjon</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-9/ledd/1">Jernbanevirksomheten skal trekke tilbake autorisasjonen til førere som ikke tilfredsstiller kravene i § 13-8, og skal ha utfyllende bestemmelser for når autorisasjon skal tilbaketrekkes.</ledd>
+        <ledd id="/kapittel/13/paragraf/13-9/ledd/2">En eventuell ny autorisasjon gis i henhold til § 13-8 i forskriften her.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/13/paragraf/13-10" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k13/p13-10">
+        <pverdi>§ 13-10.</pverdi>
+        <ptittel>Krav om førerregister</ptittel>
+        <ledd id="/kapittel/13/paragraf/13-10/ledd/1">Den som driver jernbanevirksomhet skal ha et oppdatert register over autoriserte førere av kjøretøy som virksomheten benytter.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/14" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k14">
+      <kverdi>Kapittel 14</kverdi>
+      <ktittel>Avsluttende bestemmelser</ktittel>
+      <paragraf id="/kapittel/14/paragraf/14-1" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k14/p14-1">
+        <pverdi>§ 14-1.</pverdi>
+        <ptittel>Unntak</ptittel>
+        <ledd id="/kapittel/14/paragraf/14-1/ledd/1">Statens jernbanetilsyn kan i det enkelte tilfellet gjøre unntak fra denne forskriften dersom særlige grunner tilsier det.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/14/paragraf/14-2" url="https://lovdata.no/lovtidend/forskrift/2014-12-10-1572/k14/p14-2">
+        <pverdi>§ 14-2.</pverdi>
+        <ptittel>Ikrafttredelse</ptittel>
+        <ledd id="/kapittel/14/paragraf/14-2/ledd/1">Forskriften trer i kraft 1. januar 2015. Fra samme tidspunkt oppheves forskrift 6. desember 2006 nr. 1356 om krav til sporvei, tunnelbane og forstadsbane, og sidespor m.m. (kravforskriften).</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2017-01-06-10" type="lt" url="https://lovdata.no/lovtidend/forskrift/2017-01-06-10">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2017-01-06-10</id>
+    <dato>06.01.2017 nr. 10</dato>
+    <dato type="iso">2017-01-06</dato>
+    <ikraft>01.01.2017</ikraft>
+    <ikraft type="iso">2017-01-01</ikraft>
+    <departement>Finansdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="for-2015-12-18-1824-§5-13">F18.12.2015 nr. 1824 § 5-13</ref>, <ref id="for-2011-12-20-1457-§5-11">F20.12.2011 nr. 1457 § 5-11</ref>, <ref id="lov-1998-07-17-56-§8-1">L17.07.1998 nr. 56 § 8-1</ref>, <ref id="lov-1998-07-17-56-§10-1">§ 10-1</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2009-05-26-575</endrer>
+    <rettet>14.03.2017 (se nederst)</rettet>
+    <journalnummer>2017-0018</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om beregning av kapitalavkastning i livsforsikrings- og pensjonsforetak</korttittel>
+    <tittel>Forskrift om beregning av kapitalavkastning i livsforsikrings- og pensjonsforetak</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Finanstilsynet 6. januar 2017 med hjemmel i forskrift 18. desember 2015 nr. 1824 om årsregnskap for livsforsikringsforetak § 5-13 tredje ledd og forskrift 20. desember 2011 nr. 1457 om årsregnskap for pensjonsforetak § 5-11 tredje ledd.</redaksjonell_note>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2017-01-06-10/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Virkeområde</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Forskriften gjelder for livsforsikringsforetak som har sitt hovedsete og er underlagt tilsyn i Norge.</ledd>
+      <ledd id="/paragraf/1/ledd/2">Forskriften gjelder også norske pensjonsforetak, likevel slik at pensjonsforetak som ved inngangen til regnskapsåret har en forvaltningskapital mindre enn to milliarder kroner kan foreta kvartalsvise beregninger.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2017-01-06-10/p2">
+      <pverdi>§ 2.</pverdi>
+      <ptittel>Beregning av kapitalavkastningsrente for kollektivportefølje og delporteføljer</ptittel>
+      <ledd id="/paragraf/2/ledd/1">Foretaket skal beregne kapitalavkastning for kollektivporteføljen samlet og for hver underportefølje i kollektivporteføljen. For hver portefølje skal det beregnes bokført avkastning og verdijustert avkastning etter reglene i § 3. Avkastningsberegningene skal legge verdivurderingsprinsippene i årsregnskapsforskriftene til grunn.</ledd>
+      <ledd id="/paragraf/2/ledd/2">Med kollektivporteføljen menes her eiendeler som angitt i forskrift om årsregnskap for livsforsikringsforetak § 4-5 balansepost 6 og forskrift om årsregnskap for pensjonsforetak § 4-7 balansepost 6. Eiendeler i kollektivporteføljen inkluderer også markedsverdien av derivater i kollektivporteføljen ført som forpliktelse i regnskapet og andre poster som det er naturlig å medregne i kollektivporteføljen. Forfalte, ikke betalte premier inngår ikke.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2017-01-06-10/p3">
+      <pverdi>§ 3.</pverdi>
+      <ptittel>Mål for kapitalavkastning</ptittel>
+      <ledd id="/paragraf/3/ledd/1">Kapitalavkastningen skal beregnes månedlig.</ledd>
+      <ledd id="/paragraf/3/ledd/2">For hver periode beregnes kapitalavkastningsrenten ved å se på endringer i porteføljens markedsverdi justert for inn- og utbetalinger i hver periode ved bruk av Modifisert Dietz-metode som følger:</ledd>
+      <ledd id="/paragraf/3/ledd/3">Bokført avkastning (r<sub>p</sub> ) = <img src="sf-20170106-0010-01-01.gif" alt="ikon"/>
+<marg niv="1" id="/paragraf/3/ledd/3/marg/1">der</marg>
+<marg niv="2" id="/paragraf/3/ledd/3/marg/2">P<sub>0</sub> = verdien av eiendelene i porteføljen ved periodens start</marg>
+<marg niv="2" id="/paragraf/3/ledd/3/marg/3">P<sub>1</sub> = verdien av eiendelene i porteføljen ved periodens slutt</marg>
+<marg niv="2" id="/paragraf/3/ledd/3/marg/4">Kf<sub>0</sub> = verdien av kursreguleringsfondet ved periodens start</marg>
+<marg niv="2" id="/paragraf/3/ledd/3/marg/5">Kf<sub>1</sub> = verdien av kursreguleringsfondet ved periodens slutt</marg>
+<marg niv="2" id="/paragraf/3/ledd/3/marg/6">T = antall dager i perioden</marg>
+<marg niv="2" id="/paragraf/3/ledd/3/marg/7">i = dag-nummer i perioden</marg>
+<marg niv="2" id="/paragraf/3/ledd/3/marg/8">d<sub>i</sub> = total netto inn-/utbetaling (kontantstrøm eksklusive netto inntekter fra investeringer) på dag nr. i.</marg></ledd>
+      <ledd id="/paragraf/3/ledd/4">Kvartalsvis, halvårlig og årlig beregning av bokført avkastning fremkommer ved geometrisk sammenkobling av beregnet avkastning for delperiodene:
+<marg niv="2" id="/paragraf/3/ledd/4/marg/1">R<sub>P</sub> = (1+r<sub>p1</sub> )*(1+ r<sub>p2</sub> )*(1+r<sub>p3</sub> )*....*(1+r<sub>pn</sub> ) - 1</marg>
+<marg niv="1" id="/paragraf/3/ledd/4/marg/2">der</marg>
+<marg niv="2" id="/paragraf/3/ledd/4/marg/3">R<sub>P</sub> = avkastning for en periode bestående av flere delperioder</marg>
+<marg niv="2" id="/paragraf/3/ledd/4/marg/4">r<sub>pn</sub> = bokført avkastning for delperiode n.</marg></ledd>
+      <ledd id="/paragraf/3/ledd/5">Det skal beregnes verdijustert avkastning på tilsvarende måte som foran, likevel slik at kursreguleringsfondet holdes utenfor beregningene i formelen (Kf<sub>0</sub> og Kf<sub>1</sub> settes lik 0).</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2017-01-06-10/p4">
+      <pverdi>§ 4.</pverdi>
+      <ptittel>Ikrafttreden</ptittel>
+      <ledd id="/paragraf/4/ledd/1">Forskriften trer i kraft 1. januar 2017.</ledd>
+      <ledd id="/paragraf/4/ledd/2">Fra samme tidspunkt oppheves forskrift 26. mai 2009 nr. 575 om beregning av kapitalavkastning i livsforsikringsselskaper mv.</ledd>
+    </paragraf>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2017-01-06-10/k1">
+      <kverdi/>
+      <ktittel> Rettelser <br/> <br/></ktittel>
+      <redaksjonell_note>Det som er rettet er satt i kursiv.
+<br/></redaksjonell_note>
+      <marg niv="1" id="/kapittel/1/marg/1">§ 3 tredje ledd formelen skal lyde:</marg>
+      <ledd id="/kapittel/1/ledd/1">R<sub>P</sub> = (<i>1+r<sub>p1</sub> </i>)<i>×</i>(1+ r<sub>p2</sub> )<i>×</i>(1+r<sub>p3</sub>)<i>×</i>....<i>×</i>(1+r<sub>pn</sub> ) <i>- 1</i></ledd>
+    </kapittel>
+  </tekst>
+</dokument>

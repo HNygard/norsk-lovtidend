@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2014-03-14-279" type="lt" url="https://lovdata.no/lovtidend/forskrift/2014-03-14-279">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2014-03-14-279</id>
+    <dato>14.03.2014 nr. 279</dato>
+    <dato type="iso">2014-03-14</dato>
+    <publisert>I 2014 hefte 3 s 473</publisert>
+    <ikraft>14.03.2014</ikraft>
+    <ikraft type="iso">2014-03-14</ikraft>
+    <departement>Nærings- og fiskeridepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2008-06-06-37-§34">L06.06.2008 nr. 37 § 34</ref>, <ref id="lov-2008-06-06-37-§36">§ 36</ref>, <ref id="lov-2008-06-06-37-§37">§ 37</ref>, <ref id="lov-2008-06-06-37-§39">§ 39</ref>, <ref id="lov-2008-06-06-37-§43">§ 43</ref>, <ref id="for-2009-12-21">F21.12.2009 nr.</ref>1743 <ref id="for-2009-12-21-§22">§ 22</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2009-12-21-1743</endrer>
+    <rettet/>
+    <journalnummer>2014-0197</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om posisjonsrapportering mv.</korttittel>
+    <korttittel>4 Endr. i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy (Nr. 279)</korttittel>
+    <tittel>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Fiskeridirektoratet 14. mars 2014 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 34, § 36, § 37, § 39 og § 43 og forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy § 22.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2014-03-14-279/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 12 femte ledd blokk B, dataelement IN, SE, LE, CI og BM skal lyde:</ledd>
+      <table niv="1" frame="1">
+        <tgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="22*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="8*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="34*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Individnummer </entry>
+              <entry colname="2">IN </entry>
+              <entry colname="3">PD </entry>
+              <entry colname="4">Verdi 1-999 per år.
+<br/>PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7). Samme IN som sendes manuelt ved feilsituasjoner, skal brukes når meldingen registreres og ettersendes elektronisk. </entry>
+            </row>
+            <row>
+              <entry colname="1">Kjønn </entry>
+              <entry colname="2">SE </entry>
+              <entry colname="3">PD </entry>
+              <entry colname="4">Ved fangst av dyr av hannkjønn føres 1, dyr av hunnkjønn føres 2.
+<br/>PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8) </entry>
+            </row>
+            <row>
+              <entry colname="1">Lengde </entry>
+              <entry colname="2">LE </entry>
+              <entry colname="3">PD </entry>
+              <entry colname="4">Dyrets lengde skal føres i centimeter (cm).
+<br/>PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8) </entry>
+            </row>
+            <row>
+              <entry colname="1">Omkrets </entry>
+              <entry colname="2">CI </entry>
+              <entry colname="3">PD </entry>
+              <entry colname="4">Dyrets omkrets skal føres i centimeter (cm).
+<br/>PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8) </entry>
+            </row>
+            <row>
+              <entry colname="1">Spekkmål </entry>
+              <entry colname="2">BM </entry>
+              <entry colname="3">PD </entry>
+              <entry colname="4">3 (A, B og C) spekkmål av dyret skal føres i millimeter (mm).
+<br/>PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8) </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <ledd id="/kapittel/i/ledd/3">§ 13 andre ledd første setning skal lyde:</ledd>
+      <ledd id="/kapittel/i/ledd/4">Fartøy som skal avgi fangst av tare til et mottaksfartøy som ligger i havn (omlasting), er unntatt fra kravet om å sende melding om havneanløp (POR). Det samme gjelder for fartøy som skal ligge i havn mens det mottar fangst av tare.</ledd>
+      <avsnitt id="/kapittel/i/ledd/4/avsnitt/1">Vedlegg 3. Sending av manuelle meldinger ved feilsituasjoner
+<br/></avsnitt>
+      <ledd id="/kapittel/i/ledd/5">
+        <i>2. Melding om fangst (DCA)</i>
+        <br/>
+      </ledd>
+      <ledd id="/kapittel/i/ledd/6">Eksempler på registrering i blokk B skal lyde:
+<br/>
+<marg niv="2" id="/kapittel/i/ledd/6/marg/1"><i>Blokk B gjentas for hver fangstoperasjon av hval</i></marg></ledd>
+      <table niv="2" frame="0">
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="4*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="3*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="65*"/>
+          <tbody>
+            <row>
+              <entry colname="1">BD </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">20090930 </entry>
+            </row>
+            <row>
+              <entry colname="1">BD </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">20090930 </entry>
+            </row>
+            <row>
+              <entry colname="1">BT </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">0130 </entry>
+            </row>
+            <row>
+              <entry colname="1">ZO </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">NOR </entry>
+            </row>
+            <row>
+              <entry colname="1">LT </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">64,790 </entry>
+            </row>
+            <row>
+              <entry colname="1">LG </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">9,041 </entry>
+            </row>
+            <row>
+              <entry colname="1">GE </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">HAR </entry>
+            </row>
+            <row>
+              <entry colname="1">GP </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">0 </entry>
+            </row>
+            <row>
+              <entry colname="1">XT </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">65,010 </entry>
+            </row>
+            <row>
+              <entry colname="1">XG </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">8,901 </entry>
+            </row>
+            <row>
+              <entry colname="1">DU </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">48 </entry>
+            </row>
+            <row>
+              <entry colname="1">CA </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">Vågehval 2100 </entry>
+            </row>
+            <row>
+              <entry colname="1">IN </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">12 </entry>
+            </row>
+            <row>
+              <entry colname="1">SE </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">2 </entry>
+            </row>
+            <row>
+              <entry colname="1">LE </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">670 </entry>
+            </row>
+            <row>
+              <entry colname="1">CI </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">300 </entry>
+            </row>
+            <row>
+              <entry colname="1">BM </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">A35 B142 C38 </entry>
+            </row>
+            <row>
+              <entry colname="1">GN </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">12-0050 </entry>
+            </row>
+            <row>
+              <entry colname="1">LF </entry>
+              <entry colname="2">= </entry>
+              <entry colname="3">60 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2014-03-14-279/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Forskriften trer i kraft straks.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

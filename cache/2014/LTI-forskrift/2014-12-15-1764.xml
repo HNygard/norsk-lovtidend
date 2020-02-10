@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2014-12-15-1764" type="lt" url="https://lovdata.no/lovtidend/forskrift/2014-12-15-1764">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2014-12-15-1764</id>
+    <dato>15.12.2014 nr. 1764</dato>
+    <dato type="iso">2014-12-15</dato>
+    <publisert>I 2014 hefte 17 s 2827</publisert>
+    <ikraft>01.01.2015</ikraft>
+    <ikraft type="iso">2015-01-01</ikraft>
+    <departement>Justis- og beredskapsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1929-05-24-4-§4">L24.05.1929 nr. 4 § 4</ref>, <ref id="for-2003-09-01-1161">F01.09.2003 nr. 1161</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/1987-12-18-991</endrer>
+    <rettet/>
+    <journalnummer>2014-1257</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om avgiftsregulativ for sterkstrømanlegg</korttittel>
+    <korttittel>4 Endr. i forskrift om regulativ for erleggelse av avgift for godkjennelse av og tilsyn med elektriske sterkstrømanlegg (Nr. 1764)</korttittel>
+    <tittel>Forskrift om endring i forskrift om regulativ for erleggelse av avgift for godkjennelse av og tilsyn med elektriske sterkstrømanlegg</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Direktoratet for samfunnssikkerhet og beredskap 15. desember 2014 med hjemmel i lov 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven) § 4, jf. delegeringsvedtak 1. september 2003 nr. 1161.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2014-12-15-1764/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 18. desember 1987 nr. 991 om regulativ for erleggelse av avgift for godkjennelse av og tilsyn med elektriske sterkstrømanlegg gjøres følgende endring:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/2/avsnitt/1">§ 1. For første besiktigelse (godkjennelse) av et elektrisk sterkstrømanlegg i land betales en avgift beregnet etter følgende satser for anleggets forskjellige deler.
+<br/></avsnitt>
+      <ledd id="/kapittel/i/ledd/3">
+        <i>Generatorer med apparatanlegg:</i>
+      </ledd>
+      <table niv="1" frame="1">
+        <tgroup cols="9" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="16*"/>
+          <colspec colname="2" align="right" valign="top" colwidth="9*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="1*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="5" align="right" valign="top" colwidth="9*"/>
+          <colspec colname="6" align="center" valign="top" colwidth="7*"/>
+          <colspec colname="7" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="8" align="right" valign="top" colwidth="3*"/>
+          <colspec colname="9" align="right" valign="top" colwidth="9*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Ytelse inntil </entry>
+              <entry colname="2">100 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA </entry>
+              <entry colname="5"/>
+              <entry colname="6"/>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">514,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">100 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">500 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">668,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">500 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">1 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">884,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">1 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">2 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 172,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">2 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">5 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 491,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">5 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">10 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 974,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">10 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">20 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">2 570,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">20 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">50 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">3 300,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">50 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">100 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">3 958,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">100 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA </entry>
+              <entry colname="5"/>
+              <entry colname="6"/>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">4 616,- </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <ledd id="/kapittel/i/ledd/4">
+        <i>Omformere, fasekompensatorer, likerettere, elektrokjeler e.l.:</i>
+      </ledd>
+      <table niv="1" frame="1">
+        <tgroup cols="9" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="16*"/>
+          <colspec colname="2" align="right" valign="top" colwidth="9*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="1*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="5" align="right" valign="top" colwidth="9*"/>
+          <colspec colname="6" align="center" valign="top" colwidth="7*"/>
+          <colspec colname="7" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="8" align="right" valign="top" colwidth="3*"/>
+          <colspec colname="9" align="right" valign="top" colwidth="9*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Ytelse inntil </entry>
+              <entry colname="2">1 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA </entry>
+              <entry colname="5"/>
+              <entry colname="6"/>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">380,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">1 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">2 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">668,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">2 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">5 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 007,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">5 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">10 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 234,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">10 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">20 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 655,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">20 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">50 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 974,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">50 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">100 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">2 231,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">100 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA </entry>
+              <entry colname="5"/>
+              <entry colname="6"/>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">2 580,- </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <marg niv="1" id="/kapittel/i/ledd/4/marg/1">Luftledninger med spenning over 1 000 V: pr. km. kr 36,-
+<br/></marg>
+      <ledd id="/kapittel/i/ledd/5">
+        <i>Transformatorer med apparatanlegg:</i>
+      </ledd>
+      <table niv="1" frame="1">
+        <tgroup cols="9" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="16*"/>
+          <colspec colname="2" align="right" valign="top" colwidth="9*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="1*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="5" align="right" valign="top" colwidth="9*"/>
+          <colspec colname="6" align="center" valign="top" colwidth="7*"/>
+          <colspec colname="7" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="8" align="right" valign="top" colwidth="3*"/>
+          <colspec colname="9" align="right" valign="top" colwidth="9*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Ytelse inntil </entry>
+              <entry colname="2">50 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA </entry>
+              <entry colname="5"/>
+              <entry colname="6"/>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">175,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">50 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">100 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">278,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">100 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">250 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">380,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">250 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">500 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">514,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">500 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">1 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">668,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">1 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">2 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">905,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">2 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">5 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 100,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">5 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">10 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 491,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">10 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">20 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 717,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">20 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">50 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">2 231,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">50 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">100 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">3 300,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">100 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA </entry>
+              <entry colname="5"/>
+              <entry colname="6"/>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">4 616,- </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <ledd id="/kapittel/i/ledd/6">
+        <i>Fordeling for høy og lav spenning:</i>
+      </ledd>
+      <table niv="1" frame="1">
+        <tgroup cols="9" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="16*"/>
+          <colspec colname="2" align="right" valign="top" colwidth="9*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="1*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="5" align="right" valign="top" colwidth="9*"/>
+          <colspec colname="6" align="center" valign="top" colwidth="7*"/>
+          <colspec colname="7" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="8" align="right" valign="top" colwidth="3*"/>
+          <colspec colname="9" align="right" valign="top" colwidth="9*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Ytelse inntil </entry>
+              <entry colname="2">50 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA </entry>
+              <entry colname="5"/>
+              <entry colname="6"/>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">257,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">50 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">100 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">514,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">100 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">250 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 007,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">250 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">500 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">1 491,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">500 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">1 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">2 200,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">1 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">2 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">3 300,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">2 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">5 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">4 616,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">5 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">10 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">5 942,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">10 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">20 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">7 916,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">20 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">50 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">10 558,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">50 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA inntil </entry>
+              <entry colname="5">100 000 </entry>
+              <entry colname="6">kVA </entry>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">12 973,- </entry>
+            </row>
+            <row>
+              <entry colname="1">Ytelse over </entry>
+              <entry colname="2">100 000 </entry>
+              <entry colname="3"/>
+              <entry colname="4">kVA </entry>
+              <entry colname="5"/>
+              <entry colname="6"/>
+              <entry colname="7">pr. stk. </entry>
+              <entry colname="8">kr </entry>
+              <entry colname="9">19 563,- </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ledd id="/kapittel/i/ledd/7">Avgiftssatsene reguleres årlig i samsvar med justeringene i de årlige statsbudsjetter for lønns- og prisvekst.</ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2014-12-15-1764/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Endringen trer i kraft 1. januar 2015.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

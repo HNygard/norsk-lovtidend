@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2018-05-09-771" type="lt" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2018-05-09-771</id>
+    <dato>09.05.2018 nr. 771</dato>
+    <dato type="iso">2018-05-09</dato>
+    <ikraft>09.05.2018</ikraft>
+    <ikraft type="iso">2018-05-09</ikraft>
+    <departement>OV (Andre off vedtekter)</departement>
+    <etat/>
+    <gjelder>Østre Toten kommune, Oppland</gjelder>
+    <hjemmel><ref id="for-2004-06-01-931-§12-6">F01.06.2004 nr. 931 § 12-6</ref>,</hjemmel>
+    <rettet/>
+    <journalnummer>2018-0481</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om utslipp av avløpsvann fra mindre avløpsanlegg, Østre Toten</korttittel>
+    <tittel>Forskrift om utslipp av avløpsvann fra mindre avløpsanlegg, Østre Toten kommune, Oppland</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Østre Toten kommunestyre 9. mai 2018 med hjemmel i forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 12-6, jf. lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 9.</redaksjonell_note>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Formål</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Denne forskriften setter krav til forvaltningsmessige forhold, tekniske løsninger, utslippskonsentrasjoner, drift og vedlikehold knyttet til mindre avløpsanlegg i Østre Toten kommune, slik at hensynet til resipienten og brukerinteressene ivaretas.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p2">
+      <pverdi>§ 2.</pverdi>
+      <ptittel>Virkeområde</ptittel>
+      <ledd id="/paragraf/2/ledd/1">Forskriften gjelder for utslipp av sanitært avløpsvann fra bolig-, fritids- og annen bebyggelse med innlagt vann i hele kommunen, hvor utslippet ikke overskrider 50 personenheter (pe).</ledd>
+      <ledd id="/paragraf/2/ledd/2">Forskriften gjelder ved nyetablering eller utskifting av avløpsanlegg, samt ved vesentlig økning av utslipp. Unntatt fra forskriftens virkeområde:
+<liste id="/paragraf/2/ledd/2/liste/1"><lverdi>-</lverdi><avsnitt id="/paragraf/2/ledd/2/liste/1/avsnitt/1">Bebyggelse der avløpet føres til offentlig avløpsanlegg i medhold av plan- og bygningsloven § 27-2.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/2/ledd/3">Ved saksbehandling etter denne forskriften skal forurensningslovgivningen og plan- og bygningslovgivningen legges til grunn.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p3">
+      <pverdi>§ 3.</pverdi>
+      <ptittel>Definisjoner</ptittel>
+      <ledd id="/paragraf/3/ledd/1">Definisjonene i forurensningsforskriftens § 11-3, gjelder for denne forskriften. I tillegg gjelder følgende:
+<br/>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/1"><i>Svartvann:</i> Avløpsvann fra vannklosett.
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/2"><i>Gråvann:</i> Alt avløpsvann utenom vann fra vannklosett.
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/3"><i>Innlagt vann:</i> Vann fra vannverk, brønn, cisterneanlegg eller lignende som gjennom rør eller ledninger er ført innendørs. Innvendige cisterneanlegg eller andre beholdere med totalkapasitet over 25 liter tilknyttet innendørs distribusjonsnett regnes også som innlagt vann.
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/4"><i>Resipient:</i> Vannforekomst som mottar utslipp fra avløpsanlegg. Resipient for infiltrasjonsanlegg er grunnvann. Resipient for alle andre type anlegg er overflatevann (bekk, elv, innsjø, tjern).
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/5"><i>Tot-P:</i> Total fosfor (summen av alle fosforforbindelser)
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/6"><i>BOF<sub>5</sub> :</i> Biokjemisk oksygenforbruk over fem døgn. Dette er et mål på innhold av lett nedbrytbar organisk stoff i vann.
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/7"><i>E-coli (Escherichia coli):</i> Et mål på om det er ferske tarmbakterier i vannet.
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/8"><i>Hydrogeologisk kompetanse:</i> Kompetanse om grunnvann og rensing av avløpsvann i infiltrasjonsanlegg.
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/9"><i>Personekvivalent (pe):</i> Den mengde lett nedbrytbart organisk stoff som brytes ned biologisk med et biokjemisk oksygenforbruk over fem døgn, BOF<sup>5</sup>, på 60 gram oksygen per døgn. Avløpsanleggets størrelse i pe beregnes på grunnlag av største ukentlige mengde som går til renseanlegg eller utslippspunkt i løpet av året, med unntak av uvanlige forhold som for eksempel skyldes kraftig nedbør. 1 pe tilsvarer utslipp fra 1 person.
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/10"><i>ADK-1 kurs:</i> Kurs i praktisk utførelse av ledningsanlegg for vann og avløp.
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/11"><i>Nøytral fagkyndig:</i> Foretak som tilfredsstiller krav til både faglig kompetanse og nøytralitet. Ideelt sett skal være at foretaket har fokus på å etablere den renseløsningen som er best egnet ut fra de naturgitte forutsetningene, miljø, brukerens interesser og økonomi, uavhengig av type renseløsning eller produsent.
+<br/></marg>
+<marg niv="1" id="/paragraf/3/ledd/1/marg/12"><i>Årssikker vannføring:</i> Vannføring som ved middeltemperatur over frysepunktet ikke tørker ut av naturlige årsaker oftere enn hvert tiende år i gjennomsnitt.</marg></ledd>
+      <ledd id="/paragraf/3/ledd/2">§ 4 til § 15 i denne forskriften erstatter kravene i forurensningsforskriften § 12-7 til § 12-13.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p4">
+      <pverdi>§ 4.</pverdi>
+      <ptittel>Avløpsnett</ptittel>
+      <ledd id="/paragraf/4/ledd/1">Avløpsnettet i forbindelse med den private renseløsningen skal, uten at det medfører uforholdsmessig store kostnader, dimensjoneres, bygges, drives og vedlikeholdes med utgangspunkt i den beste tilgjengelige teknologi og fagkunnskap, særlig med hensyn til:
+<liste id="/paragraf/4/ledd/1/liste/1"><lverdi>-</lverdi><avsnitt id="/paragraf/4/ledd/1/liste/1/avsnitt/1">avløpsvannets mengde og egenskaper</avsnitt></liste>
+<liste id="/paragraf/4/ledd/1/liste/2"><lverdi>-</lverdi><avsnitt id="/paragraf/4/ledd/1/liste/2/avsnitt/1">forebygging av lekkasjer og innlekking av overvann</avsnitt></liste>
+<liste id="/paragraf/4/ledd/1/liste/3"><lverdi>-</lverdi><avsnitt id="/paragraf/4/ledd/1/liste/3/avsnitt/1">begrensning av forurensning av resipienten som følge av overløp.</avsnitt></liste></ledd>
+    </paragraf>
+    <paragraf id="/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p5">
+      <pverdi>§ 5.</pverdi>
+      <ptittel>Oppmalt matavfall (matavfallskvern)</ptittel>
+      <ledd id="/paragraf/5/ledd/1">Det er ikke tillatt å montere avfallskvern på røropplegg som tilknyttes private avløpsanlegg.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p6">
+      <pverdi>§ 6.</pverdi>
+      <ptittel>Rensekrav</ptittel>
+      <ledd id="/paragraf/6/ledd/1">Anleggene skal oppfylle følgende utslippskonsentrasjoner eller renseeffekter, regnet som årlig middelverdi:</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="25*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="25*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="25*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Parameter:</i>
+              </entry>
+              <entry colname="2">
+                <i>Utslippskonsentrasjon:</i>
+              </entry>
+              <entry colname="3">
+                <i>Renseeffekt:</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="25*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="25*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="25*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Total fosfor (Tot P) </entry>
+              <entry colname="2">&lt; 1,0 mg/l </entry>
+              <entry colname="3">&gt;90 % </entry>
+            </row>
+            <row>
+              <entry colname="1">Organisk stoff (BOF<sub>5</sub> ) </entry>
+              <entry colname="2">&lt; 25 mg/l </entry>
+              <entry colname="3">&gt;90 % </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ledd id="/paragraf/6/ledd/2">Det er ikke satt opp måleverdier for E-Coli. Disse måleresultatene brukes kun som indikator. Kommunen kan sette krav til maksimum utslipp av bakterier for enkelte vannforekomster, og risikoreduserende tiltak der hvor særskilte brukerinteresser (fiske, bading, drikkevann, jordvanning, osv.) blir berørt. Et krav om risikoreduserende tiltak, kan stilles som et krav til teknisk løsning, eller som et krav til hygienisk utslippskvalitet (innhold av bakterier eller andre sykdomsfremkallende organismer i avløpsvannet).</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p7">
+      <pverdi>§ 7.</pverdi>
+      <ptittel>Godkjente renseløsninger</ptittel>
+      <ledd id="/paragraf/7/ledd/1">Det er krav om at man kobler seg til offentlig ledningsnett når dette er mulig, jamfør plan- og bygningsloven.</ledd>
+      <ledd id="/paragraf/7/ledd/2">Der det ikke er mulig å koble seg til offentlig ledningsnett gjelder følgende;
+<liste id="/paragraf/7/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/paragraf/7/ledd/2/liste/a/avsnitt/1">Der forholdene ligger til rette for det, skal det benyttes følgende renseløsning:</avsnitt><liste id="/paragraf/7/ledd/2/liste/a-1"><lverdi>-</lverdi><avsnitt id="/paragraf/7/ledd/2/liste/a-1/avsnitt/1"><i>Lukket infiltrasjonsanlegg for svart- og gråvann samlet</i></avsnitt></liste></liste></ledd>
+      <avsnitt id="/paragraf/7/ledd/2/liste/a-1/avsnitt/1.1">Prosjekteres og utføres i henhold til VA/Miljøblad om lukkede infiltrasjonsanlegg og Norsk Vann rapport 178/2010.</avsnitt>
+      <liste id="/paragraf/7/ledd/2/liste/b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/paragraf/7/ledd/2/liste/b/avsnitt/1">Der forholdene ikke ligger til rette for å benytte lukket infiltrasjonsanlegg, tillates følgende renseløsninger:</avsnitt>
+        <liste id="/paragraf/7/ledd/2/liste/b-1">
+          <lverdi>-</lverdi>
+          <avsnitt id="/paragraf/7/ledd/2/liste/b-1/avsnitt/1">
+            <i>Våtmarksfilter:</i>
+          </avsnitt>
+        </liste>
+      </liste>
+      <avsnitt id="/paragraf/7/ledd/2/liste/b-1/avsnitt/1.1">Utføres i henhold til VA/Miljøblad om våtmarksfilter. Slamavskillere skal benyttes før våtmarksfilter. Våtmarksfilter skal ha forfilter og tett membran. Alle våtmarksfiltre må ha serviceavtale, med tilsyn minimum 1 gang i året.</avsnitt>
+      <liste id="/paragraf/7/ledd/2/liste/b-2">
+        <lverdi>-</lverdi>
+        <avsnitt id="/paragraf/7/ledd/2/liste/b-2/avsnitt/1">
+          <i>Biologisk/kjemisk renseanlegg(minirenseanlegg):</i>
+        </avsnitt>
+      </liste>
+      <avsnitt id="/paragraf/7/ledd/2/liste/b-2/avsnitt/12">Minirenseanlegg skal ha dokumentasjon som tilfredsstiller NS-EN 12566-3 med nasjonalt tillegg, eller tilsvarende standard, for rensegrad, slamproduksjon og gjennomsnittlig lufttemperatur. Dokumentasjonen skal inkludere prøvetaking for fosfor jamfør NS-EN 12566-3 vedlegg B. Alle minirenseanlegg må ha serviceavtale, med tilsyn og rapportering til kommunen minimum 1 gang i året. Etter minirenseanlegg skal det være en slamfluktkum på minimum 1 m<sup>3</sup> , dykker og deretter skal det være etterpolering. Som etterpolering skal infiltrasjon i stedegen masse, sandfilter eller biologisk filter benyttes. Andre etterpoleringsmetoder kan vurderes. Etter etterpoleringen kan det rensede vannet føres til vannresipient med årssikker vannføring. Eksisterende sandfilter- og infiltrasjonsanlegg kan etter søknad og vurdering av funksjonsevne, godkjennes som etterpolering. Det forutsettes at anlegget har god nok hydraulisk kapasitet og at det er gitt utslippstillatelse ved etablering.</avsnitt>
+      <liste id="/paragraf/7/ledd/2/liste/b-3">
+        <lverdi>-</lverdi>
+        <avsnitt id="/paragraf/7/ledd/2/liste/b-3/avsnitt/1">
+          <i>Tett tank:</i>
+        </avsnitt>
+      </liste>
+      <avsnitt id="/paragraf/7/ledd/2/liste/b-3/avsnitt/13">Godkjenningen gjelder bare for svartvann. Løsningen godkjennes kun i kombinasjon med godkjent renseløsning for gråvann og vannbesparende toalett. Det skal være lyd/lysalarm for høy vannstand. Tankvolum skal være minimum 6 m<sup>3</sup> . Ved prosjektering skal det vises at det er valgt tankstørrelse på bakgrunn av tiltenkt bruk/belastning. Leverandør og dokumentasjon på tank skal oppgis og kommunen kan stille krav til materiale og styrke. Det skal ikke under noen omstendigheter lages overløp, eller etableres andre ut- eller innløp på tanken.</avsnitt>
+      <liste id="/paragraf/7/ledd/2/liste/b-4">
+        <lverdi>-</lverdi>
+        <avsnitt id="/paragraf/7/ledd/2/liste/b-4/avsnitt/1">
+          <i>Biologisk filter:</i>
+        </avsnitt>
+      </liste>
+      <avsnitt id="/paragraf/7/ledd/2/liste/b-4/avsnitt/14">Godkjenningen gjelder bare for gråvann. Utføres i henhold til VA/Miljøblad. Alle biologiske filtre må ha serviceavtale, med tilsyn minimum 2 ganger i året. Dersom det ikke er mulig å føre utløpsvannet til infiltrasjon, skal det rensede vannet føres til vannresipient med årssikker vannføring.</avsnitt>
+      <ledd id="/paragraf/7/ledd/3">Kommunen vil ved skjønn kunne kreve spesielle løsninger i særlig sårbare områder, eksempelvis i det kommunen definerer som strandsoner.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/7-1" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p7-1">
+      <pverdi>§ 7-1.</pverdi>
+      <ptittel>Generelle bestemmelser for renseløsningene:</ptittel>
+      <liste id="/paragraf/7-1/ledd/1/liste/a">
+        <lverdi>a)</lverdi>
+        <avsnitt id="/paragraf/7-1/ledd/1/liste/a/avsnitt/1">Alle renseanlegg skal ha dokumentasjon på at anerkjent dimensjonering og utforming er benyttet.</avsnitt>
+      </liste>
+      <liste id="/paragraf/7-1/ledd/1/liste/b">
+        <lverdi>b)</lverdi>
+        <avsnitt id="/paragraf/7-1/ledd/1/liste/b/avsnitt/1">Alle nye infiltrasjonsanlegg skal ha peilerør i enden av infiltrasjonsgrøfta/grøftene.</avsnitt>
+      </liste>
+      <liste id="/paragraf/7-1/ledd/1/liste/c">
+        <lverdi>c)</lverdi>
+        <avsnitt id="/paragraf/7-1/ledd/1/liste/c/avsnitt/1">Tette tanker og anlegg med pumper skal ha fungerende lyd-/lysalarm.</avsnitt>
+      </liste>
+      <liste id="/paragraf/7-1/ledd/1/liste/d">
+        <lverdi>d)</lverdi>
+        <avsnitt id="/paragraf/7-1/ledd/1/liste/d/avsnitt/1">Landbruksdrenering er ikke godkjent løsning for infiltrasjon eller etterpolering av avløpsvann.</avsnitt>
+      </liste>
+      <liste id="/paragraf/7-1/ledd/1/liste/e">
+        <lverdi>e)</lverdi>
+        <avsnitt id="/paragraf/7-1/ledd/1/liste/e/avsnitt/1">Ved fordeling av avløpsvann fra 2 grøfter skal det etableres fordelingskum. Grenrør eller lignende godkjennes ikke.</avsnitt>
+      </liste>
+      <liste id="/paragraf/7-1/ledd/1/liste/f">
+        <lverdi>f)</lverdi>
+        <avsnitt id="/paragraf/7-1/ledd/1/liste/f/avsnitt/1">Ved 2 grøfter eller flere, skal det brukes pumpe eller annen støtbelastning for fordeling. Dersom det bygges jordhauganlegg, skal det alltid benyttes støtbelastning.</avsnitt>
+      </liste>
+      <liste id="/paragraf/7-1/ledd/1/liste/g">
+        <lverdi>g)</lverdi>
+        <avsnitt id="/paragraf/7-1/ledd/1/liste/g/avsnitt/1">Tank/anlegg som skal tømmes for slam skal plasseres slik at den/det kan tømmes hele året med tankbil. Avstanden fra kjørbar vei til tank/anlegg skal maksimalt være 30 meter. Løftehøyden skal maksimalt være 5 meter. Øvrige forhold vedrørende slamtømming er regulert i kommunens lokale forskrift om tvungen tømming av slamavskillere og tette tanker mv.</avsnitt>
+      </liste>
+      <liste id="/paragraf/7-1/ledd/1/liste/h">
+        <lverdi>h)</lverdi>
+        <avsnitt id="/paragraf/7-1/ledd/1/liste/h/avsnitt/1">Slamavskiller skal utføres i henhold til VA/Miljøblad. For gråvannsanlegg kan prefabrikert filterposekum benyttes istedenfor slamavskiller. Type filterposekum skal godkjennes av kommunen.</avsnitt>
+      </liste>
+      <liste id="/paragraf/7-1/ledd/1/liste/i">
+        <lverdi>i)</lverdi>
+        <avsnitt id="/paragraf/7-1/ledd/1/liste/i/avsnitt/1">Det tillates ikke å føre avløp fra vannklosett i driftsbygning til lager for husdyrgjødsel.</avsnitt>
+      </liste>
+    </paragraf>
+    <paragraf id="/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p8">
+      <pverdi>§ 8.</pverdi>
+      <ptittel>Fritidsboliger</ptittel>
+      <ledd id="/paragraf/8/ledd/1">For fritidsboliger gjelder samme krav til renseløsninger som for helårsboliger, med følgende unntak:
+<liste id="/paragraf/8/ledd/1/liste/1"><lverdi>-</lverdi><avsnitt id="/paragraf/8/ledd/1/liste/1/avsnitt/1">Tett tank for svartvann skal være minimum 3 m<sup>3</sup> og det skal benyttes vannbesparende toalett.</avsnitt></liste></ledd>
+    </paragraf>
+    <paragraf id="/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p9">
+      <pverdi>§ 9.</pverdi>
+      <ptittel>Nye avløpsløsninger</ptittel>
+      <ledd id="/paragraf/9/ledd/1">Nye anleggstyper skal ha utførlig dokumentasjon på anleggets renseløsning og funksjon.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p10">
+      <pverdi>§ 10.</pverdi>
+      <ptittel>Krav til prosjektering og utførelse</ptittel>
+      <ledd id="/paragraf/10/ledd/1">VA-Miljøblad skal benyttes som veiledning for dimensjonering og utforming av avløpsløsningen.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/10-1" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p10-1">
+      <pverdi>§ 10-1.</pverdi>
+      <ptittel>Krav til prosjektering</ptittel>
+      <ledd id="/paragraf/10-1/ledd/1">Dokumentasjon av renseløsning skal utføres av nøytral fagkyndig.
+<br/></ledd>
+      <ledd id="/paragraf/10-1/ledd/2">
+        <i>Kompetanse</i>
+      </ledd>
+      <ledd id="/paragraf/10-1/ledd/3">Foretak som utfører prosjektering skal erklære ansvarsrett i henhold til plan- og bygningsloven. Den som utfører grunnundersøkelse eller prosjektering av mindre avløpsanlegg med infiltrasjon, skal i tillegg dokumentere kompetanse i hydrogeologi, avløpsteknikk og jord som rensemedium, samt ha erfaring fra tilsvarende arbeider. Som grunnlag for prosjektering av avløpsanlegg med infiltrasjon i grunn (infiltrasjonsanlegg og jordhauganlegg) skal det utføres hydrogeologiske grunnundersøkelser for å vurdere infiltrasjonskapasitet, hydraulisk kapasitet, løsmassenes egenskaper som rensemedium og risiko for forurensning.
+<br/></ledd>
+      <ledd id="/paragraf/10-1/ledd/4">
+        <i>Brukerinteresser</i>
+      </ledd>
+      <ledd id="/paragraf/10-1/ledd/5">Det skal innhentes opplysninger om tilstanden for drikkevannskilder, rekreasjon og næringsvirksomhet, som kan tenkes å bli berørt av utslippet. Avstand til drikkevannskilder, overflatevann, ledningstraseer og grunnvann/fjell/tette lag skal være vurdert. Det skal dokumenteres av fagkyndige at drikkevannet ikke vil bli påvirket av utslippet.
+<br/></ledd>
+      <ledd id="/paragraf/10-1/ledd/6">
+        <i>Tinglysing</i>
+      </ledd>
+      <ledd id="/paragraf/10-1/ledd/7">Ved etablering av anlegg på annenmanns grunn, skal eier av anlegget tinglyse erklæring fra grunneier om tillatelse til dette. Dette gjelder både for ledningsanlegg og renseanlegg. Kopi av erklæring som skal tinglyses skal vedlegges søknaden.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/10-2" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p10-2">
+      <pverdi>§ 10-2.</pverdi>
+      <ptittel>Krav til utførelse</ptittel>
+      <br/>
+      <ledd id="/paragraf/10-2/ledd/1">
+        <i>Kompetanse</i>
+      </ledd>
+      <ledd id="/paragraf/10-2/ledd/2">Foretak som utfører avløpsanlegg skal erklære ansvarsrett i medhold av plan- og bygningsloven. Den som utfører arbeidene på stedet skal kunne dokumentere relevant kompetanse, for eksempel utdannelse som maskinentreprenør eller rørlegger, og tilleggsutdannelse i form av ADK-1 kurs eller tilsvarende. Vedkommende kunne dokumentere erfaring fra tilsvarende arbeider og tilstrekkelig kursing i bygging av mindre avløpsanlegg. For infiltrasjonsanlegg skal prosjekterende eller annet kvalifisert firma utføre kontroll av utførelsen.
+<br/></ledd>
+      <ledd id="/paragraf/10-2/ledd/3">
+        <i>Dimensjonering og utforming</i>
+      </ledd>
+      <ledd id="/paragraf/10-2/ledd/4">Renseanlegget skal dimensjoneres og bygges slik at det har tilstrekkelig yteevne under alle klimatiske forhold som er normale for stedet der de ligger. Ved utformingen av anlegget skal det tas hensyn til variasjoner i mengde sanitært avløpsvann i løpet av året. Kun sanitært avløpsvann skal ledes til avløpsrenseanlegget. Overvann/drensvann/takvann skal ikke ledes til avløpsrenseanlegget.
+<br/></ledd>
+      <ledd id="/paragraf/10-2/ledd/5">
+        <i>Brukerinteresser</i>
+      </ledd>
+      <ledd id="/paragraf/10-2/ledd/6">Brukerinteresser og mulige konflikter med disse skal være vurdert. Kommunen kan også kreve at resipientens tålegrense skal være vurdert.
+<br/></ledd>
+      <ledd id="/paragraf/10-2/ledd/7">
+        <i>Helhetlig vurdering</i>
+      </ledd>
+      <ledd id="/paragraf/10-2/ledd/8">I tettbygde områder, både boliger og fritidsboliger, skal avløpsløsningene sees i sammenheng. Dette gjelder også områder hvor vann ikke legges inn på byggetidspunktet. Kommunen avgjør i hvilke områder dette gjelder og hvilke krav til områdeplanlegging som gjelder. Også i andre særlige tilfeller, kan kommunen kreve en helhetlig plan for avløpet.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p11">
+      <pverdi>§ 11.</pverdi>
+      <ptittel>Krav til dokumentasjon ved søknad om utslippstillatelse</ptittel>
+      <ledd id="/paragraf/11/ledd/1">Utslipp av sanitært avløpsvann er søknadspliktig etter forurensningsforskriften § 12-4. Krav til dokumentasjon fremgår av forurensningsforskriftens § 12-4 første ledd bokstav a-i.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/12" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p12">
+      <pverdi>§ 12.</pverdi>
+      <ptittel>Utslippssted</ptittel>
+      <ledd id="/paragraf/12/ledd/1">Utslippssted for avløpsvann fra renseanlegg skal lokaliseres i henhold til følgende alternativer:
+<liste id="/paragraf/12/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/paragraf/12/ledd/1/liste/a/avsnitt/1">utslipp til innsjø minst 2 meter under laveste vannstand,</avsnitt></liste>
+<liste id="/paragraf/12/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/paragraf/12/ledd/1/liste/b/avsnitt/1">utslipp til elv/bekk med årssikker vannføring,</avsnitt></liste>
+<liste id="/paragraf/12/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/paragraf/12/ledd/1/liste/c/avsnitt/1">utslipp til landbruksdrenering som ledes til elv/bekk med årssikker vannføring,</avsnitt></liste>
+<liste id="/paragraf/12/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/paragraf/12/ledd/1/liste/d/avsnitt/1">utslipp til grunnen i stedegne løsmasser,</avsnitt></liste>
+<liste id="/paragraf/12/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/paragraf/12/ledd/1/liste/e/avsnitt/1">utslipp til grunnen i stedegne løsmasser via kum med filtermedium.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/12/ledd/2">Utslippssted for avløpsvann fra renseanlegg skal for øvrig lokaliseres og utformes slik at påvirkningen av utslippet på resipienten og på biologisk mangfold blir minst mulig. Brukerkonflikter skal unngås, og utslippet skal ikke medføre fare for forurensning av drikkevann.</ledd>
+      <ledd id="/paragraf/12/ledd/3">Utslippspunktet skal utformes slik at utslippet ikke er enkelt tilgjengelig for uvedkommende, og slik at igjenslamming og gjenfrysing hindres.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/13" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p13">
+      <pverdi>§ 13.</pverdi>
+      <ptittel>Tilsyn, drift og vedlikehold</ptittel>
+    </paragraf>
+    <paragraf id="/paragraf/13-1" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p13-1">
+      <pverdi>§ 13-1.</pverdi>
+      <ptittel>Tilsyn</ptittel>
+      <ledd id="/paragraf/13-1/ledd/1">Kommunen, eller den som kommunen bemyndiger, har anledning til å foreta tilsynsbesøk til anleggene, og kan ta utløpsprøver for kontroll av at rensekrav overholdes. Alle avløpsanlegg skal ha godt tilrettelagt mulighet for representativ prøvetaking på utløp der det er mulig. Prøvetakingsstedet skal være enkelt tilgjengelig. Det skal monteres prøvetakingsslange på minirenseanlegg der det er mulig.</ledd>
+      <ledd id="/paragraf/13-1/ledd/2">Eier skal ved anmodning fra kommunen dokumentere at utslippsvannet tilfredsstiller kravene i § 6 ved prøvetaking og analyse av utslippsvannet. Prøvetakingen skal være representativ og skal tas av kommunen eller annen med nødvendig kompetanse, og prøvene skal analyseres av et laboratorium som er akkreditert for de aktuelle analysene. Analysemetoden for total fosfor skal følge NS-EN ISO 6878 og analysemetoden for BOF<sub>5</sub> skal følge NS-EN 1899-1 eller NS-EN 1899-2.</ledd>
+      <ledd id="/paragraf/13-1/ledd/3">Alternativt kan analysemetoder som er direkte sammenlignbare med disse analysemetodene benyttes. Kostnadene for prøvetaking og analyser belastes anleggseier.</ledd>
+      <ledd id="/paragraf/13-1/ledd/4">Alle slamavskillere og tette tanker skal sjekkes av slamtømmer ved hver tømming og rapporteres til kommunen.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/13-2" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p13-2">
+      <pverdi>§ 13-2.</pverdi>
+      <ptittel>Drift og vedlikehold</ptittel>
+      <br/>
+      <ledd id="/paragraf/13-2/ledd/1">
+        <i>Generelt</i>
+      </ledd>
+      <ledd id="/paragraf/13-2/ledd/2">Eier av anlegg er ansvarlig for at det drives og vedlikeholdes slik at alle krav følges, samt at anlegget ikke påføres skade.</ledd>
+      <ledd id="/paragraf/13-2/ledd/3">Krav til tømmehyppighet, kjørbar veg og abonnentens plikter er fastsatt i kommunens lokale forskrift, «forskrift om tvungen tømming av slamavskillere og tette tanker mv.»
+<br/></ledd>
+      <ledd id="/paragraf/13-2/ledd/4">
+        <i>Infiltrasjon</i>
+      </ledd>
+      <ledd id="/paragraf/13-2/ledd/5">Fordelingskum og støtbelaster skal kontrolleres og rengjøres ved behov. Alarm for høy vannstand skal kontrolleres. Dette skal utføres av huseier minimum 1 gang i året. Det anbefales at det inngås serviceavtale med fagkyndig foretak som sikrer årlig gjennomgang av hele avløpsanlegget.
+<br/></ledd>
+      <ledd id="/paragraf/13-2/ledd/6">
+        <i>Biologisk/kjemisk renseanlegg(minirenseanlegg):</i>
+      </ledd>
+      <ledd id="/paragraf/13-2/ledd/7">Innomhusanlegg skal tømmes av den leverandør/fagkyndig virksomhet som det er inngått serviceavtale med. Den som foretar service må ha gjennomgått en nødvendig grunnopplæring samt fått praktisk opplæring i montering og service på det aktuelle anlegget. Slammet skal leveres på godkjent avfallsplass. Slam fra utomhus (slamavskiller) skal tømmes på lik linje med vanlig ordning for slamavskillere.
+<br/></ledd>
+      <ledd id="/paragraf/13-2/ledd/8">
+        <i>Biologisk filter og våtmarksanlegg:</i>
+      </ledd>
+      <ledd id="/paragraf/13-2/ledd/9">Filtermassen skal skiftes ut når prøveresultatene ikke overholder kravene.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/14" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p14">
+      <pverdi>§ 14.</pverdi>
+      <ptittel>Lukt</ptittel>
+      <ledd id="/paragraf/14/ledd/1">Avløpsanlegget skal dimensjoneres, bygges, drives og vedlikeholdes på en slik måte at omgivelsene ikke utsettes for sjenerende lukt.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/15" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p15">
+      <pverdi>§ 15.</pverdi>
+      <ptittel>Eldre utslipp</ptittel>
+      <ledd id="/paragraf/15/ledd/1">Utslipp etablert før 1. januar 2007, og hvor datidens regelverk ikke krevde at det ble innhentet tillatelse (i praksis: anlegg etablert før 1972) er ulovlig fra 1. juni 2018. Eldre biologiske/kjemiske renseanlegg, som ikke er godkjent etter NS-EN 12566-3, er ikke lenger tillatt og kommunen vil kreve utslippssøknad jamfør § 7 ovenfor.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/16" url="https://lovdata.no/lovtidend/forskrift/2018-05-09-771/p16">
+      <pverdi>§ 16.</pverdi>
+      <ptittel>Ikrafttredelse</ptittel>
+      <ledd id="/paragraf/16/ledd/1">Denne forskriften trer i kraft umiddelbart.</ledd>
+    </paragraf>
+  </tekst>
+</dokument>

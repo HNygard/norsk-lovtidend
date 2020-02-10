@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2019-12-20-2081" type="lt" url="https://lovdata.no/lovtidend/forskrift/2019-12-20-2081">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2019-12-20-2081</id>
+    <dato>20.12.2019 nr. 2081</dato>
+    <dato type="iso">2019-12-20</dato>
+    <ikraft>01.01.2020</ikraft>
+    <ikraft type="iso">2020-01-01</ikraft>
+    <departement>Landbruks- og matdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <endrer type="ref">https://lovdata.no/for/2009-06-10-636</endrer>
+    <rettet/>
+    <journalnummer>2019-1367</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i RÅK-tilskuddsforskriften</korttittel>
+    <tittel>Forskrift om endring i forskrift om råvareprisutjevning for bearbeidede jordbruksvarer</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Landbruks- og matdepartementet 20. desember 2019 med hjemmel i lov 12. mai 1995 nr. 23 om jord (jordlova) § 18.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2019-12-20-2081/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 10. juni 2009 nr. 636 om råvareprisutjevning for bearbeidede jordbruksvarer gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">Vedlegg 1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/2/avsnitt/1">Vedlegg 1: Råvarer omfattet av forskriften</avsnitt>
+      <ledd id="/kapittel/i/ledd/3">Kolonnen «XR-sats når utbetalt PNS» benyttes når det utbetales både XR og PNS for ferdigvaren. Kolonnen «XR-sats når ikke utbetalt PNS» benyttes når det ikke utbetales PNS for ferdigvaren.</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="6" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="24*"/>
+          <colspec colname="4" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="5" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="6" align="left" valign="top" colwidth="10*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Jordbruksråvarer</i>
+              </entry>
+              <entry colname="2">
+                <i>Råvarenr.</i>
+              </entry>
+              <entry colname="3">
+                <i>Råvarenavn</i>
+              </entry>
+              <entry colname="4">
+                <i>PNS-sats
+<br/>(kr/kg)</i>
+              </entry>
+              <entry colname="5">
+                <i>XR-sats når utbetalt PNS
+<br/> (kr/kg)</i>
+              </entry>
+              <entry colname="6">
+                <i>XR-sats når ikke utbetalt PNS
+<br/> (kr/kg)</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="6" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="10*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="24*"/>
+          <colspec colname="4" align="right" valign="top" colwidth="10*"/>
+          <colspec colname="5" align="right" valign="top" colwidth="10*"/>
+          <colspec colname="6" align="right" valign="top" colwidth="10*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Melk</i>
+              </entry>
+              <entry colname="2">1100 </entry>
+              <entry colname="3">Helmelk flytende </entry>
+              <entry colname="4">2,20 </entry>
+              <entry colname="5">1,44 </entry>
+              <entry colname="6">1,84 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1200 </entry>
+              <entry colname="3">Skummet melk flytende </entry>
+              <entry colname="4">2,10 </entry>
+              <entry colname="5">1,08 </entry>
+              <entry colname="6">1,37 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1300 </entry>
+              <entry colname="3">Yoghurt </entry>
+              <entry colname="4">4,80 </entry>
+              <entry colname="5">0,00 </entry>
+              <entry colname="6">2,97 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1500 </entry>
+              <entry colname="3">Kondensert melk fet </entry>
+              <entry colname="4">2,40 </entry>
+              <entry colname="5">4,93 </entry>
+              <entry colname="6">6,41 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1550 </entry>
+              <entry colname="3">Kondensert melk mager </entry>
+              <entry colname="4">2,40 </entry>
+              <entry colname="5">4,72 </entry>
+              <entry colname="6">6,09 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1600 </entry>
+              <entry colname="3">Helmelkpulver 28 % </entry>
+              <entry colname="4">6,00 </entry>
+              <entry colname="5">11,39 </entry>
+              <entry colname="6">17,39 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1601 </entry>
+              <entry colname="3">Helmelkpulver 28 % til iskrem </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">17,39 </entry>
+              <entry colname="6">17,39 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1650 </entry>
+              <entry colname="3">Melkepulver 20 % </entry>
+              <entry colname="4">5,80 </entry>
+              <entry colname="5">11,42 </entry>
+              <entry colname="6">14,70 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1651 </entry>
+              <entry colname="3">Melkepulver 20 % til iskrem </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">14,70 </entry>
+              <entry colname="6">14,70 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1700 </entry>
+              <entry colname="3">Skummetmelkpulver </entry>
+              <entry colname="4">12,60 </entry>
+              <entry colname="5">12,18 </entry>
+              <entry colname="6">17,75 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1701 </entry>
+              <entry colname="3">Skummetmelkpulver til iskrem </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">17,75 </entry>
+              <entry colname="6">17,75 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1750 </entry>
+              <entry colname="3">Yoghurtpulver </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">17,66 </entry>
+              <entry colname="6">17,66 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">1800 </entry>
+              <entry colname="3">Kjernemelkpulver </entry>
+              <entry colname="4">- </entry>
+              <entry colname="5">15,37 </entry>
+              <entry colname="6">15,37 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">2100 </entry>
+              <entry colname="3">Fløte </entry>
+              <entry colname="4">12,30 </entry>
+              <entry colname="5">4,43 </entry>
+              <entry colname="6">5,78 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">2101 </entry>
+              <entry colname="3">Fløte til iskrem </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">5,78 </entry>
+              <entry colname="6">5,78 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">2300 </entry>
+              <entry colname="3">Rømme </entry>
+              <entry colname="4">10,40 </entry>
+              <entry colname="5">6,72 </entry>
+              <entry colname="6">8,63 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">2400 </entry>
+              <entry colname="3">Helmelkpulver 35 % </entry>
+              <entry colname="4">12,80 </entry>
+              <entry colname="5">10,81 </entry>
+              <entry colname="6">13,87 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">2440 </entry>
+              <entry colname="3">Fløtepulver 42 % </entry>
+              <entry colname="4">16,10 </entry>
+              <entry colname="5">8,00 </entry>
+              <entry colname="6">24,10 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">2450 </entry>
+              <entry colname="3">Fløtepulver 55 % </entry>
+              <entry colname="4">11,00 </entry>
+              <entry colname="5">10,34 </entry>
+              <entry colname="6">21,34 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">3200 </entry>
+              <entry colname="3">Mysepulver </entry>
+              <entry colname="4">7,70 </entry>
+              <entry colname="5">2,95 </entry>
+              <entry colname="6">3,86 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">3201 </entry>
+              <entry colname="3">Mysepulver til iskrem </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">3,86 </entry>
+              <entry colname="6">3,86 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">5100 </entry>
+              <entry colname="3">Smør<fref id="/kapittel/i/fotnote/1">1</fref> </entry>
+              <entry colname="4">5,00 </entry>
+              <entry colname="5">12,76 </entry>
+              <entry colname="6">16,41 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">5101 </entry>
+              <entry colname="3">Smør til iskrem </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">16,41 </entry>
+              <entry colname="6">16,41 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">5300 </entry>
+              <entry colname="3">Smørolje<fref id="/kapittel/i/fotnote/2">2</fref> </entry>
+              <entry colname="4">6,50 </entry>
+              <entry colname="5">14,89 </entry>
+              <entry colname="6">20,01 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">6100 </entry>
+              <entry colname="3">Ost<fref id="3">3</fref> </entry>
+              <entry colname="4">14,20 </entry>
+              <entry colname="5">21,28 </entry>
+              <entry colname="6">27,15 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">6200 </entry>
+              <entry colname="3">Ostepulver </entry>
+              <entry colname="4">- </entry>
+              <entry colname="5">15,35 </entry>
+              <entry colname="6">15,35 </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Egg</i>
+              </entry>
+              <entry colname="2">11100 </entry>
+              <entry colname="3">Heleggmasse </entry>
+              <entry colname="4">8,60 </entry>
+              <entry colname="5">12,01 </entry>
+              <entry colname="6">13,43 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">11200 </entry>
+              <entry colname="3">Heleggpulver </entry>
+              <entry colname="4">40,00 </entry>
+              <entry colname="5">49,10 </entry>
+              <entry colname="6">65,52 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">12100 </entry>
+              <entry colname="3">Eggeplomme konservert </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">31,85 </entry>
+              <entry colname="6">31,85 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">12200 </entry>
+              <entry colname="3">Eggeplommepulver </entry>
+              <entry colname="4">10,70 </entry>
+              <entry colname="5">68,84 </entry>
+              <entry colname="6">79,54 </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Korn</i>
+              </entry>
+              <entry colname="2">20300 </entry>
+              <entry colname="3">Bygg </entry>
+              <entry colname="4">- </entry>
+              <entry colname="5">0,71 </entry>
+              <entry colname="6">0,71 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">20400 </entry>
+              <entry colname="3">Havre </entry>
+              <entry colname="4">- </entry>
+              <entry colname="5">0,24 </entry>
+              <entry colname="6">0,24 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">21100 </entry>
+              <entry colname="3">Kli av hvete, rug, bygg og havre </entry>
+              <entry colname="4">- </entry>
+              <entry colname="5">3,04 </entry>
+              <entry colname="6">3,04 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">22300 </entry>
+              <entry colname="3">Mel og flak av bygg </entry>
+              <entry colname="4">- </entry>
+              <entry colname="5">3,04 </entry>
+              <entry colname="6">3,04 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">22400 </entry>
+              <entry colname="3">Mel, flak og gryn av havre </entry>
+              <entry colname="4">- </entry>
+              <entry colname="5">3,04 </entry>
+              <entry colname="6">3,04 </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Potet</i>
+              </entry>
+              <entry colname="2">30100 </entry>
+              <entry colname="3">Poteter </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">0,00 </entry>
+              <entry colname="6">0,00 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">31200 </entry>
+              <entry colname="3">Mel og flak av poteter </entry>
+              <entry colname="4">10,90 </entry>
+              <entry colname="5">11,99 </entry>
+              <entry colname="6">12,38 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">32100 </entry>
+              <entry colname="3">Potetstivelse </entry>
+              <entry colname="4">1,80 </entry>
+              <entry colname="5">- </entry>
+              <entry colname="6">- </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">40200 </entry>
+              <entry colname="3">Glukose, glukosesirup (dekstrose)<fref id="4">4</fref> </entry>
+              <entry colname="4">3,20 </entry>
+              <entry colname="5">- </entry>
+              <entry colname="6">- </entry>
+            </row>
+            <row>
+              <entry colname="1">
+                <i>Kjøtt</i>
+              </entry>
+              <entry colname="2">70750 </entry>
+              <entry colname="3">Svinekjøttsortering 23 % </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">11,62 </entry>
+              <entry colname="6">11,62 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">71400 </entry>
+              <entry colname="3">Storfekjøttsortering 14 % </entry>
+              <entry colname="4">28,10 </entry>
+              <entry colname="5">25,85 </entry>
+              <entry colname="6">31,44 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">73000 </entry>
+              <entry colname="3">Fårekjøttsortering 25 % </entry>
+              <entry colname="4">0,00 </entry>
+              <entry colname="5">0,00 </entry>
+              <entry colname="6">0,00 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">74000 </entry>
+              <entry colname="3">MUK-fjørfe<fref id="5">5</fref> </entry>
+              <entry colname="4">5,60 </entry>
+              <entry colname="5">3,68 </entry>
+              <entry colname="6">3,68 </entry>
+            </row>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">74200 </entry>
+              <entry colname="3">Fjørfe, annet enn MUK-fjørfe </entry>
+              <entry colname="4">8,40 </entry>
+              <entry colname="5">3,68 </entry>
+              <entry colname="6">3,68 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <fotnote id="/kapittel/i/fotnote/1">1 PNS gis ikke til råvaren smør med unntak for ferdigvarer tariffert på varenummer ex 19.01.9099 iskremblandinger, glutenfri diettmat, laktoseredusert diettmat, ellers andre produkter til bakeri.</fotnote>
+      <fotnote id="/kapittel/i/fotnote/2">2 PNS gis ikke til råvaren smørolje med unntak for sjokolade som tarifferes på varenummer 18.06.2090, 18.06.3100, 18.06.3200 eller 18.06.9010.</fotnote>
+      <fotnote id="/kapittel/i/fotnote/3">3 Gjelder modnet ost til industri og fast formet ost til industri.</fotnote>
+      <fotnote id="/kapittel/i/fotnote/4">4 Gjelder kun våt glukose.</fotnote>
+      <fotnote id="/kapittel/i/fotnote/5">5 MUK-fjørfe: Maskinelt utbeinet kjøtt av fjørfe.
+<br/></fotnote>
+      <ledd id="/kapittel/i/ledd/4">Vedlegg 2 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/4/avsnitt/1">Vedlegg 2: Ferdigvarer omfattet av forskriften</avsnitt>
+      <ledd id="/kapittel/i/ledd/5">Varebetegnelsen kan avvike fra fullstendig varebetegnelse i Tolltariffen. For varenumre angitt med «ex» kan det kun gis tilskudd for varer spesifisert i varebetegnelsen.</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="30*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="30*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="8*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="8*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Varenummer i Tolltariffen</i>
+              </entry>
+              <entry colname="2">
+                <i>Varebetegnelse</i>
+              </entry>
+              <entry colname="3">
+                <i>XR</i>
+              </entry>
+              <entry colname="4">
+                <i>PNS</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="4" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="30*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="30*"/>
+          <colspec colname="3" align="center" valign="top" colwidth="8*"/>
+          <colspec colname="4" align="center" valign="top" colwidth="8*"/>
+          <tbody>
+            <row>
+              <entry colname="1">17.04.9010 </entry>
+              <entry colname="2">Marsipanmasse </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">17.04.9091 </entry>
+              <entry colname="2">Karameller </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">17.04.9092 </entry>
+              <entry colname="2">Pastiller, sukkertøy og drops </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">17.04.9099 </entry>
+              <entry colname="2">Sukkervarer uten innhold av kakao, ellers </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">ex 18.06.2090 </entry>
+              <entry colname="2">Sjokolademasse, i beholdere med innhold over 2 kg </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">18.06.3100 </entry>
+              <entry colname="2">Sjokolade, med fyll </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">18.06.3200 </entry>
+              <entry colname="2">Sjokolade, uten fyll </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">18.06.9010 </entry>
+              <entry colname="2">Annen sjokolade, herunder sukkervarer med innhold av kakao </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">18.06.9090 </entry>
+              <entry colname="2">Andre næringsmidler med innhold av kakao </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">ex 18.06.9090 </entry>
+              <entry colname="2">Sjokoladepålegg og pulver til sjokoladedrikk </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.01.1010 </entry>
+              <entry colname="2">Næringsmidler bestemt for barn i pakninger for detaljsalg av varer som hører under pos. 04.01.-04.04. </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.01.1090 </entry>
+              <entry colname="2">Næringsmidler bestemt for barn i pakninger for detaljsalg ellers </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.01.2010 </entry>
+              <entry colname="2">Kakemiks i beholdere med netto innhold inntil 2 kg </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.01.2091 </entry>
+              <entry colname="2">Kakemiks i beholdere med netto innhold 2 kg eller derover </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.01.2097 </entry>
+              <entry colname="2">Deiger, tilformede, som inneholder ost og/eller høyst 20 % pølse, kjøtt, flesk, slakteavfall eller blandinger av disse </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">ex 19.01.2097 </entry>
+              <entry colname="2">Ustekt pizza </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.01.2098 </entry>
+              <entry colname="2">Blandinger og deiger til fremstilling av bakverk som hører under posisjon 19.05., andre </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">ex 19.01.2098 </entry>
+              <entry colname="2">Andre kake- eller bakerimiks i tørr form, glutenfri diettmat og laktoseredusert diettmat </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.01.9098 </entry>
+              <entry colname="2">Ellers, andre </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">ex 19.01.9098 </entry>
+              <entry colname="2">Iskremblandinger, glutenfri diettmat, laktoseredusert diettmat, ellers andre produkter til bakeri </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.02.1100 </entry>
+              <entry colname="2">Pasta m/innhold av egg, ukokt </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.02.1900 </entry>
+              <entry colname="2">Pasta, ukokt, ellers </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.02.2091 </entry>
+              <entry colname="2">Fylt pasta, kokt fylt med mindre enn 20 % kjøtt, flesk eller slakteavfall </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.02.2099 </entry>
+              <entry colname="2">Fylt pasta, tilberedt, ikke kokt, fylt med mindre enn 20 % kjøtt, flesk eller slakteavfall </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.02.3001 </entry>
+              <entry colname="2">Annen pasta, kokt </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.02.3009 </entry>
+              <entry colname="2">Annen pasta, ellers </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.04.9090 </entry>
+              <entry colname="2">Næringsmidler av korn, ellers, annet </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.1000 </entry>
+              <entry colname="2">Knekkebrød </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.3100 </entry>
+              <entry colname="2">Søte kjeks og småkaker </entry>
+              <entry colname="3">X<fref id="1">1</fref> </entry>
+              <entry colname="4">X<fref id="1">1</fref> </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.3200 </entry>
+              <entry colname="2">Vafler og vaffelkjeks </entry>
+              <entry colname="3">X<fref id="1">1</fref> </entry>
+              <entry colname="4">X<fref id="1">1</fref> </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.9010 </entry>
+              <entry colname="2">Pizza, herunder porsjonspizza o.l.: med innhold av pølse, kjøtt eller slakteavfall </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.9021 </entry>
+              <entry colname="2">Pizza, herunder porsjonspizza o.l.: ikke inneholdende pølse, kjøtt eller slakteavfall </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.9022 </entry>
+              <entry colname="2">Pizzabunner </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.9031 </entry>
+              <entry colname="2">Andre kaker </entry>
+              <entry colname="3">X<fref id="1">1</fref> </entry>
+              <entry colname="4">X<fref id="1">1</fref> </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.9032 </entry>
+              <entry colname="2">Flatbrød </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.9033 </entry>
+              <entry colname="2">Wienerbrød (herunder wienerbrødstang og lignende) </entry>
+              <entry colname="3">X<fref id="1">1</fref> </entry>
+              <entry colname="4">X<fref id="1">1</fref> </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.9091 </entry>
+              <entry colname="2">Brød og brødvarer </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">ex 19.05.9092 </entry>
+              <entry colname="2">Brød og brødvarer, samt paier og lignende, unntatt påsmurte, fylt med innhold av høyst 20 % pølse, kjøtt, flesk, slakteavfall </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X<fref id="1">1</fref> </entry>
+            </row>
+            <row>
+              <entry colname="1">19.05.9098 </entry>
+              <entry colname="2">Annet, ellers </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4"> </entry>
+            </row>
+            <row>
+              <entry colname="1">ex 19.05.9098 </entry>
+              <entry colname="2">Annet bakverk </entry>
+              <entry colname="3">X<fref id="1">1</fref> </entry>
+              <entry colname="4">X<fref id="1">1</fref> </entry>
+            </row>
+            <row>
+              <entry colname="1">21.03.9010 </entry>
+              <entry colname="2">Majones og remulade </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">21.03.9099 </entry>
+              <entry colname="2">Sauser og preparater, ellers </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">21.04.10 </entry>
+              <entry colname="2">Supper og buljonger </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">21.04.2001 </entry>
+              <entry colname="2">Homogeniserte næringsmidler bestemt for småbarn i pakninger for detaljsalg </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">21.05 </entry>
+              <entry colname="2">Spise-is </entry>
+              <entry colname="3">X </entry>
+              <entry colname="4">X </entry>
+            </row>
+            <row>
+              <entry colname="1">ex 21.06.9098 </entry>
+              <entry colname="2">Næringsmidler for barn, stuinger og gryteretter, glutenfri diettmat, laktoseredusert diettmat og varmestabilt eggeplommepulver </entry>
+              <entry colname="3"/>
+              <entry colname="4">X </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <fotnote id="/kapittel/i/fotnote/1+">1 Gjelder langtidsholdbare bakverk. Med langtidsholdbar menes med holdbarhetsdato minst 5 døgn etter produksjonstidspunktet, angitt ved «siste forbruksdag» «best før» eller «best før utgangen av», på emballasje, dokumenter, skilt eller etiketter av enhver art som følger, eller som viser til næringsmidlet.</fotnote>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2019-12-20-2081/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Endringene trer i kraft 1. januar 2020.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

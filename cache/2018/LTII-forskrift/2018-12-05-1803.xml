@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2018-12-05-1803" type="lt" url="https://lovdata.no/lovtidend/forskrift/2018-12-05-1803">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2018-12-05-1803</id>
+    <dato>05.12.2018 nr. 1803</dato>
+    <dato type="iso">2018-12-05</dato>
+    <ikraft>01.01.2019</ikraft>
+    <ikraft type="iso">2019-01-01</ikraft>
+    <departement>OV (Andre off vedtekter)</departement>
+    <etat/>
+    <gjelder>Oslo, Akershus, Buskerud</gjelder>
+    <hjemmel><ref id="lov-1993-06-11-101-§9-1">L11.06.1993 nr. 101 § 9-1</ref>, <ref id="lov-1993-06-11-101-§9-1a">§ 9-1a</ref>, <ref id="lov-1993-06-11-101-§15-4">§ 15-4</ref>, <ref id="for-1999-12-10-1273">F10.12.1999 nr. 1273</ref></hjemmel>
+    <rettet/>
+    <journalnummer>2018-0966</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om opprettelse av åtte permanente restriksjonsområder over Oslo-området</korttittel>
+    <tittel>Forskrift om opprettelse av åtte permanente restriksjonsområder over Oslo-området, Oslo, Akershus og Buskerud</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Luftfartstilsynet 5. desember 2018 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 9-1, § 9-1a og § 15-4, jf. delegeringsvedtak 10. desember 1999 nr. 1273.</marg>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2018-12-05-1803/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Formål</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Formålet med forskriften er å opprette åtte permanente restriksjonsområder over Oslo-området som ansvarlig politimyndighet kan aktivere for å ivareta viktige samfunnsmessige interesser.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2018-12-05-1803/p2">
+      <pverdi>§ 2.</pverdi>
+      <ptittel>Stedlig virkeområde - horisontal utstrekning</ptittel>
+      <ledd id="/paragraf/2/ledd/1">De åtte restriksjonsområdenes horisontale utstrekning er begrenset av rette linjer mellom stedsnavn som definert med koordinater oppgitt i grader, minutter og sekunder i WGS84 i listen under:
+<br/></ledd>
+      <table niv="2" frame="0">
+        <tgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="25*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="25*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Ahus </entry>
+              <entry colname="2">595555N-0105935E </entry>
+            </row>
+            <row>
+              <entry colname="1">Aurevann Demning </entry>
+              <entry colname="2">595945N-0102730E </entry>
+            </row>
+            <row>
+              <entry colname="1">Geitholmen </entry>
+              <entry colname="2">595300N-0103800E </entry>
+            </row>
+            <row>
+              <entry colname="1">Grefsenkollen </entry>
+              <entry colname="2">595732N-0104814E </entry>
+            </row>
+            <row>
+              <entry colname="1">Gåsøya </entry>
+              <entry colname="2">595100N-0103500E </entry>
+            </row>
+            <row>
+              <entry colname="1">Haukåsen </entry>
+              <entry colname="2">595418N-0105348E </entry>
+            </row>
+            <row>
+              <entry colname="1">Huseby Leir </entry>
+              <entry colname="2">595630N-0103930E </entry>
+            </row>
+            <row>
+              <entry colname="1">Langøyene </entry>
+              <entry colname="2">595215N-0104315E </entry>
+            </row>
+            <row>
+              <entry colname="1">Liertoppen Senter </entry>
+              <entry colname="2">594835N-0101800E </entry>
+            </row>
+            <row>
+              <entry colname="1">Maridalsvannet </entry>
+              <entry colname="2">595900N-0104700E </entry>
+            </row>
+            <row>
+              <entry colname="1">Marikollen </entry>
+              <entry colname="2">595510N-0110300E </entry>
+            </row>
+            <row>
+              <entry colname="1">Mønevannet Demning </entry>
+              <entry colname="2">595214N-0105946E </entry>
+            </row>
+            <row>
+              <entry colname="1">Nittedal </entry>
+              <entry colname="2">600300N-0105300E </entry>
+            </row>
+            <row>
+              <entry colname="1">Olavsgaard </entry>
+              <entry colname="2">595845N-0110000E </entry>
+            </row>
+            <row>
+              <entry colname="1">OSL-CTR SV </entry>
+              <entry colname="2">600240N-0105453E </entry>
+            </row>
+            <row>
+              <entry colname="1">OSL-CTR SØ </entry>
+              <entry colname="2">600047N-0110804E </entry>
+            </row>
+            <row>
+              <entry colname="1">Romsåstårnet </entry>
+              <entry colname="2">595848N-0105346E </entry>
+            </row>
+            <row>
+              <entry colname="1">Sandvika </entry>
+              <entry colname="2">595330N-0103100E </entry>
+            </row>
+            <row>
+              <entry colname="1">Sørum </entry>
+              <entry colname="2">600000N-0111300E </entry>
+            </row>
+            <row>
+              <entry colname="1">Ullevålseter </entry>
+              <entry colname="2">600034N-0104242E </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <br/>
+      <ledd id="/paragraf/2/ledd/2">
+        <i>EN R108 Romerike 1</i>
+        <br/>
+        <marg niv="1" id="/paragraf/2/ledd/2/marg/1">Horisontalt:</marg>
+        <marg niv="1" id="/paragraf/2/ledd/2/marg/2">Nittedal - OSL-CTR SV - OSL-CTR SØ - Sørum - Olavsgaard - Ahus - Romsåstårnet - Grefsenkollen - Maridalsvannet - (Nittedal)
+<br/></marg>
+      </ledd>
+      <ledd id="/paragraf/2/ledd/3">
+        <i>EN R109 Romerike 2</i>
+        <br/>
+        <marg niv="1" id="/paragraf/2/ledd/3/marg/1">Horisontalt:</marg>
+        <marg niv="1" id="/paragraf/2/ledd/3/marg/2">Grefsenkollen - Romsåstårnet - Ahus - Haukåsen - (Grefsenkollen)
+<br/></marg>
+      </ledd>
+      <ledd id="/paragraf/2/ledd/4">
+        <i>EN R110 Romerike 3</i>
+        <br/>
+        <marg niv="1" id="/paragraf/2/ledd/4/marg/1">Horisontalt:</marg>
+        <marg niv="1" id="/paragraf/2/ledd/4/marg/2">Ahus - Marikollen - Mønevannet Demning - Haukåsen - (Ahus)
+<br/></marg>
+      </ledd>
+      <ledd id="/paragraf/2/ledd/5">
+        <i>EN R111 Oslo 2</i>
+        <br/>
+        <marg niv="1" id="/paragraf/2/ledd/5/marg/1">Horisontalt:</marg>
+        <marg niv="1" id="/paragraf/2/ledd/5/marg/2">Maridalsvannet - Grefsenkollen - Haukåsen - Langøyene - Geitholmen - Huseby Leir - (Maridalsvannet)
+<br/></marg>
+      </ledd>
+      <ledd id="/paragraf/2/ledd/6">
+        <i>EN R112 Oslo 3</i>
+        <br/>
+        <marg niv="1" id="/paragraf/2/ledd/6/marg/1">Horisontalt:</marg>
+        <marg niv="1" id="/paragraf/2/ledd/6/marg/2">Sandvika - Huseby Leir - Geitholmen - Gåsøya - (Sandvika)
+<br/></marg>
+      </ledd>
+      <ledd id="/paragraf/2/ledd/7">
+        <i>EN R113 Oslo 4</i>
+        <br/>
+        <marg niv="1" id="/paragraf/2/ledd/7/marg/1">Horisontalt:</marg>
+        <marg niv="1" id="/paragraf/2/ledd/7/marg/2">Sandvika - Gåsøya - Liertoppen Senter - (Sandvika)
+<br/></marg>
+      </ledd>
+      <ledd id="/paragraf/2/ledd/8">
+        <i>EN R114 Oslo 5</i>
+        <br/>
+        <marg niv="1" id="/paragraf/2/ledd/8/marg/1">Horisontalt:</marg>
+        <marg niv="1" id="/paragraf/2/ledd/8/marg/2">Huseby Leir - Sandvika - Liertoppen Senter - Aurevann Demning - (Huseby Leir)
+<br/></marg>
+      </ledd>
+      <ledd id="/paragraf/2/ledd/9">
+        <i>EN R115 Oslo 6</i>
+        <br/>
+        <marg niv="1" id="/paragraf/2/ledd/9/marg/1">Horisontalt:</marg>
+        <marg niv="1" id="/paragraf/2/ledd/9/marg/2">Aurevann Demning - Ullevålseter - Maridalsvannet - Huseby Leir - (Aurevann Demning)</marg>
+      </ledd>
+      <ledd id="/paragraf/2/ledd/10">Vertikal utstrekning er fra bakken/vannet opp til nedre del av kontrollert luftrom, og i særlige tilfeller fra bakken/vannet og inn i kontrollert luftrom. Vertikal utstrekning skal publiseres i NOTAM hver gang et restriksjonsområde aktiveres.</ledd>
+      <ledd id="/paragraf/2/ledd/11">Beslutning om at et restriksjonsområde skal aktiveres tas av ansvarlig politimyndighet. Tidsrom for aktivering skal publiseres i NOTAM hver gang et område aktiveres.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2018-12-05-1803/p3">
+      <pverdi>§ 3.</pverdi>
+      <ptittel>Luftromsrestriksjoner</ptittel>
+      <ledd id="/paragraf/3/ledd/1">All flyging i restriksjonsområdet når det er publisert som aktivert er forbudt, med mindre særskilt tillatelse er gitt av ansvarlig politimyndighet eller Luftfartstilsynet. Kontaktpunkt for søknad om særskilt tillatelse skal fremgå av NOTAM.</ledd>
+      <ledd id="/paragraf/3/ledd/2">Restriksjonene gjelder all luftfart inkludert ubemannet luftfartøy og modellfly, med mindre NOTAM gir annen informasjon.</ledd>
+      <ledd id="/paragraf/3/ledd/3">Forbudet gjelder ikke flyging i forbindelse med militær-, politi-, ambulanse-, søke- og redningsoppdrag eller øvelser på slike oppdrag, samt flygninger etter Avtalen om det åpne luftrom.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2018-12-05-1803/p4">
+      <pverdi>§ 4.</pverdi>
+      <ptittel>Overtredelsesgebyr</ptittel>
+      <ledd id="/paragraf/4/ledd/1">Luftfartstilsynet kan gi pålegg om et overtredelsesgebyr etter luftfartsloven § 13a-5 nr. 6, for overtredelse av luftromsrestriksjonene i § 2 og § 3.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2018-12-05-1803/p5">
+      <pverdi>§ 5.</pverdi>
+      <ptittel>Ikrafttredelse og opphør</ptittel>
+      <ledd id="/paragraf/5/ledd/1">Forskriften trer i kraft 1. januar 2019.</ledd>
+      <avsnitt id="/paragraf/5/ledd/1/avsnitt/1"/>
+    </paragraf>
+  </tekst>
+</dokument>

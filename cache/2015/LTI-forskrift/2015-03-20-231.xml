@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2015-03-20-231" type="lt" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2015-03-20-231</id>
+    <dato>20.03.2015 nr. 231</dato>
+    <dato type="iso">2015-03-20</dato>
+    <publisert>I 2015 hefte 2 s 299</publisert>
+    <ikraft>01.05.2015, 01.09.2015</ikraft>
+    <ikraft type="iso">2015-05-01, 2015-09-01</ikraft>
+    <departement>Helse- og omsorgsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1999-07-02-61-§2-1a">L02.07.1999 nr. 61 § 2-1a</ref>, <ref id="lov-2011-06-24-30-§3-1">L24.06.2011 nr. 30 § 3-1</ref>, <ref id="lov-2011-06-24-30-§3-2">§ 3-2</ref>, <ref id="lov-2011-06-24-30-§11-1">§ 11-1</ref>, <ref id="lov-2000-06-23-56-§2-2">L23.06.2000 nr. 56 § 2-2</ref>, <ref id="lov-2000-06-23-56-§6-2">§ 6-2</ref>, <ref id="lov-1999-07-02-64-§4">L02.07.1999 nr. 64 § 4</ref>, <ref id="lov-1999-07-02-64-§39">§ 39</ref>, <ref id="lov-2014-06-20">L20.06.2014</ref>nr. 42 <ref id="lov-2014-06-20-§7">§ 7</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2005-03-18-252</endrer>
+    <endrer type="ref">https://lovdata.no/for/2000-12-20-1556</endrer>
+    <rettet/>
+    <journalnummer>2015-0217</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Akuttmedisinforskriften</korttittel>
+    <korttittel>3 Forskrift om krav til og organisering av kommunal legevaktordning, ambulansetjeneste, medisinsk nødmeldetjeneste mv. (akuttmedisinforskriften) (Nr. 231)</korttittel>
+    <tittel>Forskrift om krav til og organisering av kommunal legevaktordning, ambulansetjeneste, medisinsk nødmeldetjeneste mv. (akuttmedisinforskriften)</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt ved kgl.res. 20. mars 2015 med hjemmel i lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 2-1a, lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) § 3-1, § 3-2 og § 11-1, lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap (helseberedskapsloven) § 2-2 og § 6-2, lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 4 og § 39 og lov 20. juni 2014 nr. 42 om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven) § 7. Fremmet av Helse- og omsorgsdepartementet.</marg>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Generelle bestemmelser</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k1/p1">
+        <pverdi>§ 1.</pverdi>
+        <ptittel>Formål</ptittel>
+        <ledd id="/kapittel/1/paragraf/1/ledd/1">Forskriften skal bidra til at befolkningen ved behov for øyeblikkelig hjelp mottar forsvarlige og koordinerte akuttmedisinske tjenester utenfor sykehus.</ledd>
+        <ledd id="/kapittel/1/paragraf/1/ledd/2">Forskriften skal også bidra til at utstyr som inngår i helse- og omsorgstjenestens kommunikasjonsberedskap fungerer i et landsdekkende nett og sikrer prioritert informasjonsflyt både innenfor og mellom medisinske institusjoner, til mobile enheter og til samarbeidende etater.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k1/p2">
+        <pverdi>§ 2.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/1/paragraf/2/ledd/1">Forskriften regulerer kommunenes og de regionale helseforetakenes akuttmedisinske tjenester utenfor sykehus. Dette omfatter kommunal legevaktordning, ambulansetjeneste, medisinsk nødmeldetjeneste og tjenester som ytes av andre etter avtale med kommunen eller regionalt helseforetak.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k1/p3">
+        <pverdi>§ 3.</pverdi>
+        <ptittel>Definisjoner</ptittel>
+        <liste id="/kapittel/1/paragraf/3/ledd/1/liste/a">
+          <lverdi>a)</lverdi>
+          <avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/a/avsnitt/1">Med <i>akuttmedisin</i> menes i denne forskriften medisinsk diagnostikk, rådgivning, behandling og/eller overvåking ved akutt oppstått/forverring av sykdom eller skade, blant annet akutte psykiske lidelser og rusproblemer og akutte tilstander etter vold og overgrep, der rask medisinsk hjelp kan være avgjørende for pasientens liv og helse.</avsnitt>
+        </liste>
+        <liste id="/kapittel/1/paragraf/3/ledd/1/liste/b">
+          <lverdi>b)</lverdi>
+          <avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/b/avsnitt/1">Med <i>akuttmedisinsk beredskap</i> menes i denne forskriften planer, utstyr og personell som skal sikre befolkningen nødvendige akuttmedisinske tjenester.</avsnitt>
+        </liste>
+        <liste id="/kapittel/1/paragraf/3/ledd/1/liste/c">
+          <lverdi>c)</lverdi>
+          <avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/c/avsnitt/1">Med <i>kommunal legevaktordning</i> menes i denne forskriften virksomhet som gjennom hele døgnet skal vurdere henvendelser om øyeblikkelig hjelp og foreta nødvendig oppfølging.</avsnitt>
+        </liste>
+        <liste id="/kapittel/1/paragraf/3/ledd/1/liste/d">
+          <lverdi>d)</lverdi>
+          <avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/d/avsnitt/1">Med <i>medisinsk nødmeldetjeneste</i> menes i denne forskriften et landsdekkende, organisatorisk og kommunikasjonsteknisk system for varsling og håndtering av henvendelser ved behov for akuttmedisinsk hjelp og kommunikasjon innen helse- og omsorgstjenesten, der kommunenes legevaktnumre, nasjonalt legevaktnummer (116 117) og medisinsk nødtelefon (113) inngår.</avsnitt>
+        </liste>
+        <liste id="/kapittel/1/paragraf/3/ledd/1/liste/e">
+          <lverdi>e)</lverdi>
+          <avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/e/avsnitt/1">Med <i>ambulansetjeneste</i> menes i denne forskriften bil-, båt- og luftambulansetjeneste (ambulansehelikoptre og ambulansefly) som inngår i de regionale helseforetakenes akuttmedisinske beredskap utenfor sykehus og der det under transporten er behov for akuttmedisinsk behandling eller overvåking.</avsnitt>
+        </liste>
+        <liste id="/kapittel/1/paragraf/3/ledd/1/liste/f">
+          <lverdi>f)</lverdi>
+          <avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/f/avsnitt/1">Med <i>personell i akuttmedisinsk beredskap</i> menes personell ved AMK- og legevaktsentraler, personell i ambulansetjenesten, personell ved sykehusavdelinger med øyeblikkelig-hjelp-funksjon innen somatikk, psykiatri og tverrfaglig spesialisert rusbehandling og helsepersonell i akuttmedisinsk beredskap i kommunen, inkludert lege i vakt.</avsnitt>
+        </liste>
+        <liste id="/kapittel/1/paragraf/3/ledd/1/liste/g">
+          <lverdi>g)</lverdi>
+          <avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/g/avsnitt/1">Med <i>kommunikasjonsteknisk utstyr</i> menes i denne forskriften teknisk utstyr og programvare som inngår i helse- og omsorgstjenestens landsdekkende kommunikasjonsberedskap.</avsnitt>
+        </liste>
+        <liste id="/kapittel/1/paragraf/3/ledd/1/liste/h">
+          <lverdi>h)</lverdi>
+          <avsnitt id="/kapittel/1/paragraf/3/ledd/1/liste/h/avsnitt/1">Med <i>utstyr for lydopptak</i> menes et system for opptak, avspilling og lagring av muntlig kommunikasjon mellom innringer og AMK- og legevaktsentral.</avsnitt>
+        </liste>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k1/p4">
+        <pverdi>§ 4.</pverdi>
+        <ptittel>Samhandling og samarbeid mellom virksomheter som yter akuttmedisinske tjenester</ptittel>
+        <ledd id="/kapittel/1/paragraf/4/ledd/1">Kommunene og de regionale helseforetakene skal sikre en hensiktsmessig og koordinert innsats i de ulike tjenestene i den akuttmedisinske kjeden, og sørge for at innholdet i disse tjenestene er samordnet med de øvrige nødetatene, hovedredningssentralene og andre myndigheter.</ledd>
+        <ledd id="/kapittel/1/paragraf/4/ledd/2">Virksomheter som yter akuttmedisinske tjenester skal sikre at personellet som utfører tjenestene får nødvendig opplæring og trening i å utføre egne arbeidsoppgaver og trening i samhandling og samarbeid mellom alle leddene i den akuttmedisinske kjeden.</ledd>
+        <ledd id="/kapittel/1/paragraf/4/ledd/3">Alle deler av helse- og omsorgstjenesten som er en del av den akuttmedisinske beredskapen, skal kunne kommunisere internt og på tvers av etablerte kommune- og regiongrenser i et felles, lukket, enhetlig og landsdekkende kommunikasjonsnett.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k1/p5">
+        <pverdi>§ 5.</pverdi>
+        <ptittel>Avtale om bistand fra personer utenfor helse- og omsorgstjenesten (akutthjelper)</ptittel>
+        <ledd id="/kapittel/1/paragraf/5/ledd/1">Kommunene og de regionale helseforetakene kan, som del av sin akuttmedisinske beredskap, inngå avtale om bistand fra akutthjelpere. Slike akutthjelpere kan være medlemmer av frivillige organisasjoner eller kommunalt brannvesen. Slik bistand kan komme i tillegg til, eller i påvente av, at personell fra de øvrige akuttmedisinske tjenestene kan yte akuttmedisinsk hjelp. Personer som skal yte slik bistand må ha fått nødvendig opplæring.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Kommunal legevaktordning</ktittel>
+      <paragraf id="/kapittel/2/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k2/p6">
+        <pverdi>§ 6.</pverdi>
+        <ptittel>Kommunens ansvar for kommunal legevaktordning</ptittel>
+        <ledd id="/kapittel/2/paragraf/6/ledd/1">Kommunen skal tilby legevaktordning som sikrer befolkningens behov for øyeblikkelig hjelp, og må sørge for at minst en lege er tilgjengelig for legevakt hele døgnet. Legevaktordningen skal blant annet
+<liste id="/kapittel/2/paragraf/6/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/6/ledd/1/liste/a/avsnitt/1">vurdere, gi råd og veilede ved henvendelser om øyeblikkelig hjelp</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/6/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/6/ledd/1/liste/b/avsnitt/1">diagnostisere og behandle akutte medisinske tilstander ved legekonsultasjoner og sykebesøk og ved behov henvise til andre tjenester i kommunen, blant annet fastlege, og eventuelt spesialisthelsetjeneste og</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/6/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/6/ledd/1/liste/c/avsnitt/1">yte hjelp ved ulykker og andre akutte situasjoner, blant annet rykke ut umiddelbart når det er nødvendig.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k2/p7"><pverdi>§ 7.</pverdi><ptittel>Kompetansekrav til lege i vakt mv</ptittel>.
+<ledd id="/kapittel/2/paragraf/7/ledd/1">En lege kan ha legevakt alene, uten kvalifisert bakvakt, når vilkårene i bokstav a eller bokstav b er oppfylt:
+<liste id="/kapittel/2/paragraf/7/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/7/ledd/1/liste/a/avsnitt/1">Legen har godkjenning som spesialist i allmennmedisin og har gjennomført kurs i volds- og overgrepshåndtering.</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/7/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/7/ledd/1/liste/b/avsnitt/1">Legen har godkjenning som allmennlege etter § 3 første ledd bokstav a, jf. § 8 eller § 11 fjerde ledd, i forskrift 19. desember 2005 nr. 1653 om veiledet tjeneste for allmennleger, eller § 10 i forskrift 8. oktober 2008 nr. 1130 om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits. Legen må ha gjennomført 40 legevakter, eller ha arbeidet ett år som allmennlege i den kommunale helse- og omsorgstjenesten. Legen må i tillegg ha gjennomført kurs i akuttmedisin og volds- og overgrepshåndtering.</avsnitt></liste></ledd><ledd id="/kapittel/2/paragraf/7/ledd/2">Kommunen plikter å etablere bakvaktordninger for leger i vakt som ikke oppfyller kravene i første ledd. Kompetansekravene i første ledd gjelder tilsvarende for leger som skal ha bakvakt. Bakvaktlege må kunne rykke ut når det er nødvendig.</ledd><ledd id="/kapittel/2/paragraf/7/ledd/3">Dersom det ikke er mulig for kommunen å skaffe leger som oppfyller kompetansekravene, kan fylkesmannen gjøre unntak fra kravene i første ledd. Det kan bare gjøres unntak for leger som tiltrer i vikariater av inntil to måneders varighet og som har gjennomført minst et og et halvt års veiledet tjeneste etter forskrift 19. desember 2005 nr. 1653 om veiledet tjeneste for allmennleger § 4. Det kan ikke gjøres unntak for leger som skal ha bakvakt.</ledd></paragraf>
+      <paragraf id="/kapittel/2/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k2/p8">
+        <pverdi>§ 8.</pverdi>
+        <ptittel>Kompetansekrav til annet helsepersonell</ptittel>
+        <ledd id="/kapittel/2/paragraf/8/ledd/1">Helsepersonell som arbeider sammen med lege i vakt, blant annet operatører av kommunale legevaktsentraler, jf. § 13 bokstav f, skal ha gjennomført kurs i akuttmedisin og kurs i volds- og overgrepshåndtering.</ledd>
+        <ledd id="/kapittel/2/paragraf/8/ledd/2">Fylkesmannen kan etter henvendelse fra kommunen gjøre tidsbestemt unntak fra første ledd, dersom det midlertidig ikke er mulig å skaffe nok helsepersonell som tilfredsstiller kravene i første ledd.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k2/p9">
+        <pverdi>§ 9.</pverdi>
+        <ptittel>Krav til utstyr i kommunal legevakt</ptittel>
+        <ledd id="/kapittel/2/paragraf/9/ledd/1">Kommunen skal sørge for at legevakten er utstyrt slik at helsepersonellet i vakt kan gjennomføre diagnostikk og iverksette nødvendig medisinsk behandling og overvåkning i akutte situasjoner.</ledd>
+        <ledd id="/kapittel/2/paragraf/9/ledd/2">Kommunen skal sørge for at legevakten er organisert og utstyrt slik at helsepersonell i vakt kan rykke ut umiddelbart.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Ambulansetjenesten</ktittel>
+      <paragraf id="/kapittel/3/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k3/p10">
+        <pverdi>§ 10.</pverdi>
+        <ptittel>De regionale helseforetakenes ansvar for ambulansetjenester</ptittel>
+        <ledd id="/kapittel/3/paragraf/10/ledd/1">De regionale helseforetakenes ansvar for ambulansetjenester omfatter
+<liste id="/kapittel/3/paragraf/10/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/10/ledd/1/liste/a/avsnitt/1">å bringe kompetent personell og akuttmedisinsk utstyr raskt frem til alvorlig syke eller skadde pasienter</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/10/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/10/ledd/1/liste/b/avsnitt/1">å utføre nødvendige undersøkelser, prioriteringer, behandling og overvåking, enten alene eller sammen med andre deler av tjenesten</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/10/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/10/ledd/1/liste/c/avsnitt/1">å bringe syke eller skadde pasienter med behov for overvåking og/eller behandling til forsvarlig behandlingssted og mellom behandlingssteder</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/10/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/3/paragraf/10/ledd/1/liste/d/avsnitt/1">å ha beredskap for å kunne dekke behovet for ambulansetjenester ved større ulykker og kriser innenfor egen helseregion og på tvers av regions- og landegrensene</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/10/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/3/paragraf/10/ledd/1/liste/e/avsnitt/1">å ha beredskap for nødvendig følgetjeneste for gravide til fødestedet og</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/10/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/3/paragraf/10/ledd/1/liste/f/avsnitt/1">å delta i enkle søk og redningsoperasjoner.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/10/ledd/2">De regionale helseforetakene har ansvar for at bil-, båt- og luftambulansetjenesten i nødvendig grad er samordnet nasjonalt.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k3/p11">
+        <pverdi>§ 11.</pverdi>
+        <ptittel>Bemanning og helsefaglig kompetanse i ambulansetjenesten</ptittel>
+        <ledd id="/kapittel/3/paragraf/11/ledd/1">Ambulansebiler som yter ambulansetjenester skal være bemannet med minst to personer, hvorav minst én skal ha autorisasjon som ambulansearbeider. Der det er bare én ambulansearbeider, må den andre personen ha autorisasjon eller lisens som helsepersonell og nødvendig ambulansefaglig kompetanse. Begge personene skal ha førerkort for kjøretøyklassen og kompetansebevis for førere av utrykningskjøretøy.</ledd>
+        <ledd id="/kapittel/3/paragraf/11/ledd/2">Ambulansebiler som utfører oppgaver etter denne forskriften skal være bemannet med tilstedevakt. Unntak kan gjøres der det er et lavt antall akuttoppdrag pr. år og ambulansen kan være bemannet innen forsvarlig tid etter varsling.</ledd>
+        <ledd id="/kapittel/3/paragraf/11/ledd/3">Ambulansebåter som yter ambulansetjenester skal i tillegg til båtfører være bemannet med minst én person med autorisasjon som ambulansearbeider.</ledd>
+        <ledd id="/kapittel/3/paragraf/11/ledd/4">Ambulansefly skal være bemannet med sykepleier med nødvendig kompetanse. Ambulanse- og redningshelikoptre skal være bemannet med lege og redningsmann med nødvendig kompetanse.</ledd>
+        <ledd id="/kapittel/3/paragraf/11/ledd/5">Når ambulansetjenesten skal transportere pasienter som har behov for behandling eller overvåking mellom ulike behandlingssteder i helsetjenesten, skal ambulansetjenesten, i samråd med den som rekvirerer transporten, vurdere behovet for ytterligere personell ut i fra oppdragets art.</ledd>
+        <ledd id="/kapittel/3/paragraf/11/ledd/6">For vikariater av inntil to måneders varighet kan det gjøres unntak fra kravet i første ledd om at begge personene på ambulansebilen må ha førerkort for kjøretøyklassen og kompetansebevis for førere av utrykningskjøretøy, dersom det ikke er mulig å skaffe personell som oppfyller disse kravene.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Medisinsk nødmeldetjeneste</ktittel>
+      <paragraf id="/kapittel/4/paragraf/12" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k4/p12">
+        <pverdi>§ 12.</pverdi>
+        <ptittel>Kommunens ansvar for nødmeldetjenesten</ptittel>
+        <ledd id="/kapittel/4/paragraf/12/ledd/1">Kommunen har ansvar for
+<liste id="/kapittel/4/paragraf/12/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/12/ledd/1/liste/a/avsnitt/1">å etablere et døgnbemannet telefonnummer med nødvendig linjekapasitet for kobling til et nasjonalt legevaktnummer</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/12/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/12/ledd/1/liste/b/avsnitt/1">å etablere et fast og offentlig kjent 8-sifret direktenummer til legevaktsentralen</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/12/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/12/ledd/1/liste/c/avsnitt/1">å etablere og drifte døgnbemannet legevaktsentral</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/12/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/4/paragraf/12/ledd/1/liste/d/avsnitt/1">å legge til rette for sikker drift av nasjonalt legevaktnummer, blant annet å sørge for alternative svarsteder</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/12/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/4/paragraf/12/ledd/1/liste/e/avsnitt/1">å ha et system for sporing/posisjonering av samtaler</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/12/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/4/paragraf/12/ledd/1/liste/f/avsnitt/1">å ha kommunikasjonsberedskap og nødvendig kommunikasjonsutstyr knyttet til et felles, lukket, enhetlig og landsdekkende kommunikasjonsnett for helsepersonell i akuttmedisinsk beredskap i kommunen og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/12/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/4/paragraf/12/ledd/1/liste/g/avsnitt/1">å samarbeide med regionale helseforetak for å samordne kommunikasjonen mellom legevaktsentralen, den kommunale legevaktordningen, AMK-sentralene og øvrige akuttmedisinske tjenester.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/13" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k4/p13">
+        <pverdi>§ 13.</pverdi>
+        <ptittel>Krav til organisering og bemanning av legevaktsentralene</ptittel>
+        <ledd id="/kapittel/4/paragraf/13/ledd/1">Legevaktsentralene (LV-sentralene) skal
+<liste id="/kapittel/4/paragraf/13/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/13/ledd/1/liste/a/avsnitt/1">motta og håndtere henvendelser om øyeblikkelig hjelp innenfor legevaktdistriktet via et nasjonalt legevaktnummer</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/13/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/13/ledd/1/liste/b/avsnitt/1">kunne kommunisere direkte og videreformidle eller konferansekoble henvendelser om akuttmedisinsk hjelp til AMK-sentral, eller øyeblikkelig hjelp til annen legevaktsentral</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/13/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/13/ledd/1/liste/c/avsnitt/1">gi medisinskfaglige råd og veiledning, prioritere, registrere, iverksette og følge opp henvendelser om behov for øyeblikkelig hjelp, blant annet å videreformidle henvendelser til helse- og omsorgstjenesten i kommunen, lege i vakt, fastlege, jordmor, kriseteam og andre relevante instanser</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/13/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/4/paragraf/13/ledd/1/liste/d/avsnitt/1">innrette systemet for mottak av telefonhenvendelser slik at 80 prosent av alle henvendelser normalt kan besvares innen to minutter</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/13/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/4/paragraf/13/ledd/1/liste/e/avsnitt/1">ha utstyr for lydopptak av viktig trafikk, herunder lydopptak til bruk for dokumentasjon og kvalitetssikring av virksomheten og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/13/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/4/paragraf/13/ledd/1/liste/f/avsnitt/1">bemannes med personell med relevant helsefaglig utdanning på bachelornivå, nødvendig klinisk praksis og gjennomført tilleggsopplæring for arbeid som operatør.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/14" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k4/p14">
+        <pverdi>§ 14.</pverdi>
+        <ptittel>Det regionale helseforetakets ansvar for nødmeldetjenesten</ptittel>
+        <ledd id="/kapittel/4/paragraf/14/ledd/1">Det regionale helseforetaket har ansvar for
+<liste id="/kapittel/4/paragraf/14/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/14/ledd/1/liste/a/avsnitt/1">å etablere og drifte det til en hver tid gjeldende telefonnummer for medisinsk nødhjelp i helseregionen</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/14/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/14/ledd/1/liste/b/avsnitt/1">å etablere og drifte AMK-sentraler</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/14/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/14/ledd/1/liste/c/avsnitt/1">å ha kommunikasjonsberedskap og nødvendig kommunikasjonsutstyr for AMK-sentraler, sykehus med akuttfunksjon, ambulansetjenesten og andre deler av spesialisthelsetjenesten som inngår i det regionale helseforetakets akuttmedisinske beredskap</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/14/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/4/paragraf/14/ledd/1/liste/d/avsnitt/1">å samarbeide med relevante parter for å sikre nødvendig samordning med den kommunale legevaktordningen, legevaktsentralene, brannvesen, politi, hovedredningssentralene og andre samarbeidspartnere og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/14/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/4/paragraf/14/ledd/1/liste/e/avsnitt/1">å fastsette hvilken AMK-sentral som skal ha overordnet koordineringsansvar i regionen.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/15" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k4/p15">
+        <pverdi>§ 15.</pverdi>
+        <ptittel>Krav til AMK-sentralene</ptittel>
+        <ledd id="/kapittel/4/paragraf/15/ledd/1">AMK-sentralene skal
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/a/avsnitt/1">håndtere henvendelser om akuttmedisinsk bistand</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/b/avsnitt/1">besvare 90 prosent av henvendelser fra publikum innen 10 sekunder</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/c/avsnitt/1">gi nødvendige råd og veiledning, prioritere, registrere, iverksette, koordinere og følge opp akuttmedisinske oppdrag</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/d/avsnitt/1">umiddelbart iverksette varsling (trippelvarsling) ved behov for samtidig innsats fra flere nødetater</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/e/avsnitt/1">ved behov varsle hovedredningssentralene samt AMK-sentraler som er berørt</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/f/avsnitt/1">varsle den kommunale legevaktsentralen om behov for øyeblikkelig hjelp i kommunen</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/g/avsnitt/1">som hovedregel sette samtalen over til legevaktsentral på forhåndsdefinerte linjer når henvendelsen gjelder allmennmedisinske problemstillinger uten behov for utrykning fra spesialisthelsetjenesten</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/h/avsnitt/1">ha nødvendig utstyr for å koordinere og følge opp ambulanseoppdrag</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/i/avsnitt/1">ha et system for å holde oversikt over den akuttmedisinske beredskapen i og utenfor eget ansvarsområde</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/j/avsnitt/1">ha utstyr for lydopptak av viktig trafikk, inkludert lydopptak til bruk for dokumentasjon og kvalitetssikring av egen virksomhet</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/k/avsnitt/1">ha et system for sporing/posisjonering av samtaler</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/l"><lverdi>l)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/l/avsnitt/1">bemannes med sykepleier eller ambulansearbeider som har gjennomført tilleggsopplæring for arbeid som operatør</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/m"><lverdi>m)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/m/avsnitt/1">ha tilgjengelig lege med akuttmedisinsk kompetanse på døgnbasis</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/n"><lverdi>n)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/n/avsnitt/1">i tillegg til norsk kunne kommunisere med innringer på engelsk og ha etablert beredskap med tolketjeneste for samiske språk og aktuelle fremmedspråk</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/o"><lverdi>o)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/o/avsnitt/1">ha beredskap for å dekke behovet for kapasitet ved større ulykker og kriser og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/15/ledd/1/liste/p"><lverdi>p)</lverdi><avsnitt id="/kapittel/4/paragraf/15/ledd/1/liste/p/avsnitt/1">ha reserveløsninger for AMK-sentralenes funksjoner ved svikt.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/16" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k4/p16">
+        <pverdi>§ 16.</pverdi>
+        <ptittel>Nærmere om sykehus med akuttfunksjoner</ptittel>
+        <ledd id="/kapittel/4/paragraf/16/ledd/1">Sykehus med akuttfunksjoner er en del av medisinsk nødmeldetjeneste og skal kunne
+<liste id="/kapittel/4/paragraf/16/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/4/paragraf/16/ledd/1/liste/a/avsnitt/1">håndtere og koordinere henvendelser om øyeblikkelig-hjelp-innleggelser i sykehuset</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/16/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/4/paragraf/16/ledd/1/liste/b/avsnitt/1">håndtere, kommunisere direkte, videreformidle og konferansekoble henvendelser om akuttmedisinsk hjelp til AMK-sentraler og legevaktsentraler og</avsnitt></liste>
+<liste id="/kapittel/4/paragraf/16/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/4/paragraf/16/ledd/1/liste/c/avsnitt/1">sette personell i akuttmedisinsk beredskap utenfor sykehus i kontakt med personell i sykehus.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/17" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k4/p17">
+        <pverdi>§ 17.</pverdi>
+        <ptittel>Kommunikasjonsberedskap</ptittel>
+        <ledd id="/kapittel/4/paragraf/17/ledd/1">Kommunen og regionalt helseforetak skal sørge for at personell i akuttmedisinsk beredskap er umiddelbart tilgjengelig i et felles, lukket, enhetlig og landsdekkende kommunikasjonsnett for helsetjenesten, jf. § 4, og kan kommunisere med hverandre og med andre nødetater.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k5">
+      <kverdi>Kapittel 5</kverdi>
+      <ktittel>Funksjonskrav til kommunikasjonsteknisk utstyr</ktittel>
+      <paragraf id="/kapittel/5/paragraf/18" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k5/p18">
+        <pverdi>§ 18.</pverdi>
+        <ptittel>Ansvar</ptittel>
+        <ledd id="/kapittel/5/paragraf/18/ledd/1">De regionale helseforetakene, helseforetakene og kommunene skal sikre og kunne dokumentere at kommunikasjonsteknisk utstyr som inngår i deres kommunikasjonsberedskap, opplæring i bruken av utstyret, organisering, bruk, drift og vedlikehold av utstyret til enhver tid tilfredsstiller krav fastsatt av Helsedirektoratet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/19" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k5/p19">
+        <pverdi>§ 19.</pverdi>
+        <ptittel>Krav til teknisk organisering, kravspesifikasjoner og kommunikasjonsprotokoller/grensesnitt og funksjonsgodkjenning</ptittel>
+        <ledd id="/kapittel/5/paragraf/19/ledd/1">For å sikre at alle deler av helse- og omsorgstjenesten som er en del av den akuttmedisinske beredskapen skal kunne kommunisere på en forsvarlig og sikker måte i et landsdekkende nett, jf. § 17, kan Helsedirektoratet fastsette nødvendige krav til teknisk organisering, bruk og vedlikehold av det kommunikasjonstekniske utstyret, kravspesifikasjoner, kommunikasjonsprotokoller og grensesnitt for slikt utstyr og krav til opplæring i bruk av utstyret.</ledd>
+        <ledd id="/kapittel/5/paragraf/19/ledd/2">Dersom det foreligger tvil om kommunikasjonsteknisk utstyr er i samsvar med kravspesifikasjoner eller kommunikasjonsprotokoller og grensesnitt, kan Helsedirektoratet kreve at utstyret skal funksjonsgodkjennes. Helsedirektoratet gir funksjonsgodkjenning og kan fastsette nærmere prosedyrer for slik godkjenning.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/6" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k6">
+      <kverdi>Kapittel 6</kverdi>
+      <ktittel>Krav om oppbevaring av lydopptak</ktittel>
+      <paragraf id="/kapittel/6/paragraf/20" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k6/p20">
+        <pverdi>§ 20.</pverdi>
+        <ptittel>Oppbevaring av lydopptak</ptittel>
+        <ledd id="/kapittel/6/paragraf/20/ledd/1">AMK- og legevaktsentralers lydopptak er å anse som en del av pasientens journal. Opptaket skal oppbevares i tre år etter opptaksdato og deretter slettes. Lydopptaket skal likevel ikke slettes der opptaket er brukt som del av beslutningsgrunnlag i tilsyns-, klage- eller erstatningssaker, inngår i annen saksbehandling eller opptaket av andre årsaker har verdi som dokumentasjon. Arkivforskriften § 3-18 gjelder tilsvarende.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/7" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k7">
+      <kverdi>Kapittel 7</kverdi>
+      <ktittel>Overgangsordninger. Ikrafttredelse</ktittel>
+      <paragraf id="/kapittel/7/paragraf/21" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k7/p21">
+        <pverdi>§ 21.</pverdi>
+        <ptittel>Overgangsordninger</ptittel>
+        <ledd id="/kapittel/7/paragraf/21/ledd/1">Krav til grunnkompetanse for lege etter § 7 første ledd skal være oppfylt innen tre år fra forskriften trer i kraft.</ledd>
+        <ledd id="/kapittel/7/paragraf/21/ledd/2">Krav til kurs for lege etter § 7 første ledd og til annet helsepersonell etter § 8 første ledd skal være oppfylt innen fem år fra forskriften trer i kraft.</ledd>
+        <ledd id="/kapittel/7/paragraf/21/ledd/3">Kompetansekrav til bemanning i ambulansebiler etter § 11 første ledd skal være oppfylt innen tre år fra forskriften trer i kraft.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/7/paragraf/22" url="https://lovdata.no/lovtidend/forskrift/2015-03-20-231/k7/p22">
+        <pverdi>§ 22.</pverdi>
+        <ptittel>Ikrafttredelse</ptittel>
+        <ledd id="/kapittel/7/paragraf/22/ledd/1">Forskriften, med unntak av § 13 bokstav a, trer i kraft 1. mai 2015.</ledd>
+        <ledd id="/kapittel/7/paragraf/22/ledd/2">Forskriften § 13 bokstav a trer i kraft 1. september 2015.</ledd>
+        <ledd id="/kapittel/7/paragraf/22/ledd/3">Fra samme tid oppheves forskrift 18. mars 2005 nr. 252 om krav til akuttmedisinske tjenester utenfor sykehus og forskrift 20. desember 2000 nr. 1556 om tekniske funksjonskrav til kommunikasjonsteknisk utstyr som inngår i helse- og omsorgstjenestens kommunikasjonsberedskap.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

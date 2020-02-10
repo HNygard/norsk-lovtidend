@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2017-08-29-1318" type="lt" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2017-08-29-1318</id>
+    <dato>29.08.2017 nr. 1318</dato>
+    <dato type="iso">2017-08-29</dato>
+    <ikraft>29.08.2017, dep. bestemmer</ikraft>
+    <ikraft type="iso">2017-08-29, dep. bestemmer</ikraft>
+    <departement>Nærings- og fiskeridepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2003-12-19-124-§6">L19.12.2003 nr. 124 § 6</ref>, <ref id="lov-2003-12-19-124-§7">§ 7</ref>, <ref id="lov-2003-12-19-124-§13">§ 13</ref>, <ref id="lov-2003-12-19-124-§14">§ 14</ref>, <ref id="lov-2003-12-19-124-§15">§ 15</ref>, <ref id="lov-2003-12-19-124-§19">§ 19</ref>, <ref id="lov-2003-12-19-124-§23">§ 23</ref>, <ref id="lov-2003-12-19-124-§28">§ 28</ref>, <ref id="lov-2003-12-19-124-§33">§ 33</ref>, <ref id="for-2003-12-19-1790">F19.12.2003 nr. 1790</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2007-11-20-1315</endrer>
+    <endrer type="ref">https://lovdata.no/for/2012-11-06-1056</endrer>
+    <rettet>06.09.2017 (<ref id="for-2003-12-19-1790-§1">§ 1</ref>).</rettet>
+    <journalnummer>2017-0924</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om tiltak for å forebygge, begrense og bekjempe PD hos akvakulturdyr</korttittel>
+    <tittel>Forskrift om tiltak for å forebygge, begrense og bekjempe pankreassykdom (PD) hos akvakulturdyr</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Nærings- og fiskeridepartementet 29. august 2017 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 6, § 7, § 13, § 14, § 15, § 19, § 23, § 28 og § 33 jf. delegeringsvedtak 19. desember 2003 nr. 1790.</marg>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/ki">
+      <kverdi>Kapittel I</kverdi>
+      <ktittel>Formål, virkeområde og definisjoner</ktittel>
+      <paragraf id="/kapittel/i/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/ki/p1">
+        <pverdi>§ 1.</pverdi>
+        <ptittel>Formål</ptittel>
+        <ledd id="/kapittel/i/paragraf/1/ledd/1">Formålet med denne forskriften er å redusere konsekvensen av pankreassykdom (PD) i en PD-sone, å hindre at PD etablerer seg i en overvåkningssone og å begrense utbredelse av de enkelte subtypene av Salmonid alphavirus (SAV).</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/i/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/ki/p2">
+        <pverdi>§ 2.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/i/paragraf/2/ledd/1">Forskriften gjelder for akvakulturanlegg for fiskearter som inngår i definisjonen av fisk i § 3.</ledd>
+        <ledd id="/kapittel/i/paragraf/2/ledd/2">Forskriften gjelder for akkrediterte laboratorier som mottar og tester prøver for forekomst av SAV.</ledd>
+        <ledd id="/kapittel/i/paragraf/2/ledd/3">Forskriften gjelder for servicefartøy, servicepersonell og notvaskerier som opererer i PD-sonen.</ledd>
+        <ledd id="/kapittel/i/paragraf/2/ledd/4">Forskriften gjelder i en PD-sone som strekker seg fra Jærens rev ved Søre Revtangen til Skjemta, Flatanger.</ledd>
+        <ledd id="/kapittel/i/paragraf/2/ledd/5">Forskriften gjelder i to overvåkingssoner. Overvåkingssonen i sør strekker seg fra Jærens rev ved Søre Revtangen til grensen mellom Norge og Sverige. Overvåkingssonen i nord strekker seg fra fylkesgrensen ved Skjemta, Flatanger til grensen mellom Norge og Russland.</ledd>
+        <ledd id="/kapittel/i/paragraf/2/ledd/6">Kapittel I, II og V gjelder hele landet. Kapittel III gjelder i PD-sonen. Kapittel IV gjelder i overvåkingssonene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/i/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/ki/p3">
+        <pverdi>§ 3.</pverdi>
+        <ptittel>Definisjoner</ptittel>
+        <ledd id="/kapittel/i/paragraf/3/ledd/1">I denne forskrift forstås med:
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/a/avsnitt/1"><i>Akkreditert laboratorium:</i> Et laboratorium som er akkreditert i samsvar med europeisk standard EN ISO/IEC 17025 «generelle krav til prøvetakings- og kalibreringslaboratoriers kompetanse» for testing for SAV.</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/b/avsnitt/1"><i>Fisk:</i> Fisk tilhørende slektene Salmo (atlantisk laks og ørret), Salvelinus (røye) og Oncorhynchus (stillehavslaks og regnbueørret) og rensefisk.</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/c/avsnitt/1"><i>Mistanke om PD:</i> Påvisning av SAV med PCR eller dyrking, kliniske eller patologiske forandringer forenlig med PD, eller påvisning av antistoff mot PD (serologi).</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/d/avsnitt/1"><i>PD:</i> Infeksjon med Salmonid alphavirus (SAV).</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/e/avsnitt/1"><i>Påvist PD:</i> Påvising av SAV med PCR eller dyrking, i tillegg til kliniske symptomer eller patologiske forandringer forenlig med PD.</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/f/avsnitt/1"><i>Rensefisk:</i> Alle arter av fisk som benyttes i akvakulturanlegg for å redusere antall lakselus.</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/g/avsnitt/1"><i>SAV:</i> Salmonid alphavirus.</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/h/avsnitt/1"><i>Servicefartøy:</i> Båter og installasjoner som benyttes ved driftsmessige oppgaver i et akvakulturanlegg, inkludert ensilasjebåter som anløper flåte eller landbase, men unntatt fôrbåter.</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/i/avsnitt/1"><i>Servicepersonell:</i> Dykkere og andre som utfører arbeid i et akvakulturanlegg.</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/j/avsnitt/1"><i>Ubehandlet sjøvann:</i> Sjøvann som ikke er behandlet i henhold til krav fastsatt i forskrift 20. februar 1997 nr. 192 om desinfeksjon av inntaksvann til og avløpsvann fra akvakulturrelatert virksomhet, § 10 pkt. 1.</avsnitt></liste>
+<liste id="/kapittel/i/paragraf/3/ledd/1/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/i/paragraf/3/ledd/1/liste/k/avsnitt/1"><i>Åpen slaktemerd:</i> Slaktemerd som slipper ut ubehandlet sjøvann</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kii">
+      <kverdi>Kapittel II</kverdi>
+      <ktittel>Generelle bestemmelser</ktittel>
+      <paragraf id="/kapittel/ii/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kii/p4">
+        <pverdi>§ 4.</pverdi>
+        <ptittel>Krav til rutinemessig prøvetaking og testing</ptittel>
+        <ledd id="/kapittel/ii/paragraf/4/ledd/1">Fisk, unntatt rensefisk, i akvakulturanlegg med ubehandlet sjøvann der SAV ikke er påvist, skal undersøkes for SAV minst en gang i måneden. Ved hver undersøkelse skal det tas ut prøver av hjerte og nyre fra minst 20 fisk.</ledd>
+        <ledd id="/kapittel/ii/paragraf/4/ledd/2">Fisk som skal flyttes fra akvakulturanlegg med sjøvann til andre akvakulturanlegg, unntatt av slaktemerder, skal undersøkes for SAV i løpet av de tre siste ukene før fisken flyttes. Det skal tas ut prøver av hjerte og nyre fra minst 60 fisk. Fisk skal ikke flyttes før analyseresultatene foreligger.</ledd>
+        <ledd id="/kapittel/ii/paragraf/4/ledd/3">Prøveuttak som pålagt i første og andre ledd skal tas fra fisk som gir størst sannsynlighet for å avdekke eventuell forekomst av SAV. Prøvene skal tas ut av veterinær eller fiskehelsebiolog. Medhjelper kan benyttes i tråd med bestemmelsene i dyrehelsepersonelloven § 15. Prøvene skal sendes til akkreditert laboratorium for individuell analyse med PCR for SAV innen to virkedager.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/ii/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kii/p5">
+        <pverdi>§ 5.</pverdi>
+        <ptittel>Krav til akkrediterte laboratorier</ptittel>
+        <ledd id="/kapittel/ii/paragraf/5/ledd/1">Akkrediterte laboratorier skal gjennomføre individuelle analyser av prøver som er tatt ut i henhold til § 4, § 6 og § 13 første ledd. Prøvene skal undersøkes med PCR for SAV, og eventuelle påvisninger av SAV skal subtypes. Resultatet skal foreligge senest syv dager etter at prøvene har ankommet laboratoriet.</ledd>
+        <ledd id="/kapittel/ii/paragraf/5/ledd/2">Prøvene skal sendes videre til Nasjonalt referanselaboratorium dersom analyseresultatet er uklart og det er nødvendig for å avklare smittestatusen.</ledd>
+        <ledd id="/kapittel/ii/paragraf/5/ledd/3">Akkrediterte laboratorier skal sende månedlige oppsummeringer av analyseresultater til Nasjonalt referanselaboratorium etter nærmere anvisning fra Mattilsynet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/ii/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kii/p6">
+        <pverdi>§ 6.</pverdi>
+        <ptittel>Krav til prøvetaking og innsendelse av prøver ved mistanke om PD</ptittel>
+        <ledd id="/kapittel/ii/paragraf/6/ledd/1">Ved mistanke om PD i et akvakulturanlegg der sykdommen ikke er påvist, skal det umiddelbart tas ut 60 nye prøver av hjerte og nyre som analyseres slik beskrevet i § 5. I tillegg skal det sendes inn organprøver på formalin, samt vev fra hjerte og nyre på RNAlater fra minst 10 fisk til Nasjonalt referanselaboratorium. I overvåkingssonene skal det også tas ut vev på virustransportmedium fra de samme 10 fiskene.</ledd>
+        <ledd id="/kapittel/ii/paragraf/6/ledd/2">Dersom det oppstår mistanke om PD som ikke blir bekreftet gjennom analyser av prøver etter første ledd, skal det søkes å bekrefte eller avkrefte mistanken gjennom følgende prøvetakingsopplegg:
+<liste id="/kapittel/ii/paragraf/6/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/ii/paragraf/6/ledd/2/liste/a/avsnitt/1">Det skal tas ut prøver av hjerte og nyre fra minst 60 fisk minst 1 gang i måneden i 4 måneder etter siste positive prøve.</avsnitt></liste>
+<liste id="/kapittel/ii/paragraf/6/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/ii/paragraf/6/ledd/2/liste/b/avsnitt/1">Prøvene skal sendes til akkreditert laboratorium for individuell analyse med PCR for SAV innen to virkedager.</avsnitt></liste>
+<liste id="/kapittel/ii/paragraf/6/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/ii/paragraf/6/ledd/2/liste/c/avsnitt/1">Ved nye positive prøver, skal det umiddelbart sendes inn organprøver på formalin, samt vev fra hjerte og nyre på RNAlater fra minst 10 fisk til Nasjonalt referanselaboratorium. I overvåkingssonene skal det i tillegg tas ut vev på virustransportmedium fra de samme 10 fiskene.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/ii/paragraf/6/ledd/3">Såfremt det gjennom undersøkelsene etter annet ledd ikke avdekkes noen nye positive prøver, anses mistanken som avkreftet.</ledd>
+        <ledd id="/kapittel/ii/paragraf/6/ledd/4">Prøveuttak som pålagt i første og andre ledd skal tas fra fisk som gir størst sannsynlighet for å avdekke eventuell forekomst av PD.</ledd>
+        <ledd id="/kapittel/ii/paragraf/6/ledd/5">Prøvene etter første ledd og andre ledd bokstav c, skal tas ut av veterinær eller fiskehelsebiolog. For prøver tatt ut etter andre ledd bokstav a kan medhjelper benyttes i tråd med bestemmelsene i dyrehelsepersonelloven § 15.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/ii/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kii/p7">
+        <pverdi>§ 7.</pverdi>
+        <ptittel>Vaksinering mot PD</ptittel>
+        <ledd id="/kapittel/ii/paragraf/7/ledd/1">Laks og regnbueørret som settes ut i matfisk og stamfiskanlegg i området som strekker seg fra Taskneset (Fræna) i sør, til Langøya ved Kvaløya (Sømna) i nord, skal være vaksinert mot PD.</ledd>
+        <ledd id="/kapittel/ii/paragraf/7/ledd/2">Mattilsynet kan pålegge vaksinasjon mot PD i andre områder dersom dette er nødvendig.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/ii/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kii/p8">
+        <pverdi>§ 8.</pverdi>
+        <ptittel>Tiltak ved mistanke om eller påvisning av PD</ptittel>
+        <ledd id="/kapittel/ii/paragraf/8/ledd/1">Det er forbudt å flytte fisk inn til eller ut av et akvakulturanlegg med mistanke om eller påvist PD uten tillatelse fra Mattilsynet.</ledd>
+        <ledd id="/kapittel/ii/paragraf/8/ledd/2">Unntatt fra forbudet i første ledd er flytting av rensefisk inn i et akvakulturanlegg.</ledd>
+        <ledd id="/kapittel/ii/paragraf/8/ledd/3">Valg av slakteri for slakting av fisk fra akvakulturanlegg med mistanke om eller påvist PD skal godkjennes av Mattilsynet.</ledd>
+        <ledd id="/kapittel/ii/paragraf/8/ledd/4">Fisk fra akvakulturanlegg med mistanke om eller påvist PD skal ikke settes ut i åpen slaktemerd ved slakteri. Mattilsynet kan gjøre unntak fra dette kravet dersom smitterisikoen er lav eller det er nødvendig for å kontrollere utbruddet.</ledd>
+        <ledd id="/kapittel/ii/paragraf/8/ledd/5">Etter at akvakulturanlegget er tømt for fisk, skal fartøy, fôrflåter, flyteringer og annet utstyr rengjøres og desinfiseres før utstyret flyttes eller tas i bruk igjen.</ledd>
+        <ledd id="/kapittel/ii/paragraf/8/ledd/6">Mattilsynet kan opprette kontrollområde for bekjempelse av PD i samsvar med omsetnings- og sykdomsforskriften for akvatiske dyr § 40.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/iii" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kiii">
+      <kverdi>Kapittel III</kverdi>
+      <ktittel>Tiltak i PD-sonen</ktittel>
+      <paragraf id="/kapittel/iii/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kiii/p9">
+        <pverdi>§ 9.</pverdi>
+        <ptittel>Flytting av sjøsatt fisk</ptittel>
+        <ledd id="/kapittel/iii/paragraf/9/ledd/1">Det er forbudt å flytte fisk fra akvakulturanlegg med ubehandlet sjøvann til andre akvakulturanlegg, med mindre flyttingen er en del av en godkjent driftsplan.</ledd>
+        <ledd id="/kapittel/iii/paragraf/9/ledd/2">Unntatt fra forbudet i første ledd er rensefisk som har vært utsatt for ubehandlet sjøvann dersom fisken har blitt undersøkt i henhold til § 4 annet ledd, og negativt prøvesvar foreligger.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/iii/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kiii/p10">
+        <pverdi>§ 10.</pverdi>
+        <ptittel>Krav til servicefartøy, servicepersonell og utstyr</ptittel>
+        <ledd id="/kapittel/iii/paragraf/10/ledd/1">Servicefartøy og utstyr skal ikke forlate PD-sonen før de er forsvarlig rengjort og desinfisert. Gjennomført rengjøring og desinfeksjon skal være inspisert og attestert av veterinær eller fiskehelsebiolog.</ledd>
+        <ledd id="/kapittel/iii/paragraf/10/ledd/2">Servicefartøy som har vært brukt i oppdrag med håndtering av levende fisk i akvakulturanlegg, skal i tillegg gjennomgå en karantenetid for å hindre spredning av smitte. Karantenetiden skal være på minst 48 timer fra rengjøringen er attestert.</ledd>
+        <ledd id="/kapittel/iii/paragraf/10/ledd/3">Båtfører på servicefartøy og servicepersonell skal føre logg over sin aktivitet i PD-sonen. Loggen skal inneholde oversikt over gjennomført vask og desinfeksjon av båt og utstyr, og hvilke akvakulturanlegg som er besøkt, herunder tidspunkt og type oppdrag.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/iii/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kiii/p11">
+        <pverdi>§ 11.</pverdi>
+        <ptittel>Tiltak ved påvisning av PD</ptittel>
+        <ledd id="/kapittel/iii/paragraf/11/ledd/1">Mattilsynet kan etter en vurdering av smittesituasjonen pålegge at fisk i akvakulturanlegg nord for Hustadvika med påvist PD med subtype SAV3, skal slaktes eller destrueres. Mattilsynet kan også tillate at fisken flyttes til PD-sonen sør for Hustavika for videre vekst før slakting dersom smitterisikoen er lav. Valg av transportrute skal godkjennes av Mattilsynet.</ledd>
+        <ledd id="/kapittel/iii/paragraf/11/ledd/2">Mattilsynet kan fatte vedtak om å tømme akvakulturanlegg med påvisning av PD av alle subtyper av SAV, dersom hensynet til å begrense smittespredning tilsier det.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/iii/paragraf/12" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kiii/p12">
+        <pverdi>§ 12.</pverdi>
+        <ptittel>Krav til transport og håndtering av oppdrettsnøter</ptittel>
+        <ledd id="/kapittel/iii/paragraf/12/ledd/1">Oppdrettsnøter fra akvakulturanlegg i sonen skal transporteres i tett beholder, og alt avrenningsvann fra beholderen skal samles opp på notvaskeriet og desinfiseres.</ledd>
+        <ledd id="/kapittel/iii/paragraf/12/ledd/2">Ved rengjøring av nøter fra sonen skal avløpsvannet samles opp, filtreres og desinfiseres før utslipp eller gjenbruk. Filtratet skal håndteres på en smittehygienisk forsvarlig måte.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/iv" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kiv">
+      <kverdi>Kapittel IV</kverdi>
+      <ktittel>Tiltak i overvåkingssonene</ktittel>
+      <paragraf id="/kapittel/iv/paragraf/13" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kiv/p13">
+        <pverdi>§ 13.</pverdi>
+        <ptittel>Tiltak ved mistanke om eller påvisning av PD</ptittel>
+        <ledd id="/kapittel/iv/paragraf/13/ledd/1">Når SAV er påvist i et akvakulturanlegg i overvåkingssonen, skal akvakulturanlegg innenfor en radius på 30 km fra det berørte akvakulturanlegget, eller akvakulturanlegg utenfor dette området som har hatt kontakt som medfører smitterisiko, undersøkes innen syv dager for å dokumentere smittestatus. Undersøkelsene skal gjennomføres i henhold til kravene i § 4 første ledd andre punktum og tredje ledd.</ledd>
+        <ledd id="/kapittel/iv/paragraf/13/ledd/2">Mattilsynet kan etter en vurdering av smittesituasjonen pålegge at fisk i akvakulturanlegg der PD påvises, skal slaktes ut eller destrueres. Mattilsynet kan også tillate at fisken flyttes til PD-sonen for videre vekst før slakting dersom smitterisikoen er lav. Valg av transportrute skal godkjennes av Mattilsynet.</ledd>
+        <ledd id="/kapittel/iv/paragraf/13/ledd/3">Oppdrettsnøter fra akvakulturanlegg med mistanke om eller påvist PD skal transporteres i tett beholder, og alt avrenningsvann fra beholderen skal samles opp på notvaskeriet og desinfiseres.</ledd>
+        <ledd id="/kapittel/iv/paragraf/13/ledd/4">Ved rengjøring av nøter fra akvakulturanlegg med mistanke om eller påvist PD skal avløpsvannet samles opp, filtreres og desinfiseres før utslipp eller gjenbruk. Filtratet skal håndteres på en smittehygienisk forsvarlig måte.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/v" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kv">
+      <kverdi>Kapittel V</kverdi>
+      <ktittel>Andre bestemmelser</ktittel>
+      <paragraf id="/kapittel/v/paragraf/14" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kv/p14">
+        <pverdi>§ 14.</pverdi>
+        <ptittel>Tilsyn og vedtak</ptittel>
+        <ledd id="/kapittel/v/paragraf/14/ledd/1">Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for å gjennomføre bestemmelsene gitt i denne forskriften i samsvar med matloven.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/v/paragraf/15" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kv/p15">
+        <pverdi>§ 15.</pverdi>
+        <ptittel>Dispensasjon</ptittel>
+        <ledd id="/kapittel/v/paragraf/15/ledd/1">Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskrift.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/v/paragraf/16" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kv/p16">
+        <pverdi>§ 16.</pverdi>
+        <ptittel>Straffebestemmelser</ptittel>
+        <ledd id="/kapittel/v/paragraf/16/ledd/1">Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til matloven § 28.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/v/paragraf/17" url="https://lovdata.no/lovtidend/forskrift/2017-08-29-1318/kv/p17">
+        <pverdi>§ 17.</pverdi>
+        <ptittel>Ikrafttredelse og oppheving av andre forskrifter</ptittel>
+        <ledd id="/kapittel/v/paragraf/17/ledd/1">Denne forskrift trer i kraft straks.</ledd>
+        <ledd id="/kapittel/v/paragraf/17/ledd/2">§ 7 trer i kraft fra den tid departementet bestemmer.</ledd>
+        <ledd id="/kapittel/v/paragraf/17/ledd/3">Fra samme dato oppheves forskrift 20. november 2007 nr. 1315 om sone for å hindre smitte og bekjempe pankreassjukdom hos akvakulturdyr, og forskrift 6. november 2012 nr. 1056 om sone for å begrense spredning og utbrudd av pankreassjukdom forårsaket av SAV2 hos akvakulturdyr.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2017-09-29-1713" type="lt" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2017-09-29-1713</id>
+    <dato>29.09.2017 nr. 1713</dato>
+    <dato type="iso">2017-09-29</dato>
+    <ikraft>01.10.2017</ikraft>
+    <ikraft type="iso">2017-10-01</ikraft>
+    <departement>Kunnskapsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-2003-06-20-56-§4">L20.06.2003 nr. 56 § 4</ref>, <ref id="lov-2003-06-20-56-§6">§ 6</ref></hjemmel>
+    <rettet>28.02.2018 (se nederst)</rettet>
+    <journalnummer>2017-1095</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om opptak m.m. klagebehandling ved Fagskolen Rogaland</korttittel>
+    <tittel>Forskrift om opptak, vurdering, disiplinære sanksjoner og klagebehandling ved Fagskolen Rogaland</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av styret ved Fagskolen Rogaland 29. september 2017 med hjemmel i lov 20. juni 2003 nr. 56 om fagskoleutdanning (fagskoleloven) § 4 og § 6.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Generelle bestemmelser</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1-1" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k1/p1-1">
+        <pverdi>§ 1-1.</pverdi>
+        <ptittel>Forholdet til forvaltningsloven</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/1">Ved saksbehandling etter denne forskrift gjelder følgende bestemmelser i forvaltningsloven, jf. fagskolelovens § 1b:
+<marg niv="1" id="/kapittel/1/paragraf/1-1/ledd/1/marg/1">§ 6 - § 10 om habilitet.</marg>
+<marg niv="1" id="/kapittel/1/paragraf/1-1/ledd/1/marg/2">§ 13 - § 13e om taushetsplikt.</marg>
+<marg niv="1" id="/kapittel/1/paragraf/1-1/ledd/1/marg/3">Kap. III til VI og VIII for avgjørelser om opptak, avsluttende vurdering, annullering av eksamen, bortvisning, utestenging, skikkethetsvurdering, innpassing og fritak etter fagskoleloven.</marg></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-2" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k1/p1-2">
+        <pverdi>§ 1-2.</pverdi>
+        <ptittel>Forholdet til annet lovverk</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-2/ledd/1">Er bestemmelsene i denne forskrift i strid med lov om fagskoleutdanning og/eller forskrift om fagskoleutdanning av 17. mars 2017 nr. 334 gjelder bestemmelsene i lov med forskrift.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-3" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k1/p1-3">
+        <pverdi>§ 1-3.</pverdi>
+        <ptittel>Definisjoner</ptittel>
+        <br/>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/1"><i>Arbeidskrav</i> - obligatoriske vurderingssituasjoner (som innleveringer og prøver) som danner grunnlaget for vurderingen i emnet.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/2"><i>Emne</i> - minste resultatbærende enhet som gir uttelling i form av fagskolepoeng(studiepoeng), som gis selvstendig karakter og som studenten må bestå for å få godkjent et vitnemålsgivende utdanningstilbud.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/3"><i>Emnekarakter</i> - avsluttende karakter i et emne.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/4"><i>Fagretning</i> - betegnelse på enhet i underinndelingen av et fagfelt (for eksempel Elektro).
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/5"><i>Fagskolepoeng</i> (studiepoeng) - betegnelse på enhet for omfang i fagskoleutdanningen. Et års fulltidsstudium utgjør 60 fagskolepoeng.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/6"><i>Fordypning</i> - betegnelse på enhet i underinndelingen av en fagretning (for eksempel automatisering).
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/7"><i>Klagenemnder/klageinstans</i> - Fagskolestyret, lokal klagenemnd og nasjonal klagenemd behandler klager. Se kap 5.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/8"><i>Læringsutbytte</i> - det en person vet, kan og er i stand til å gjøre som et resultat av en læringsprosess. Læringsutbytte er beskrevet i kategoriene kunnskap, ferdigheter og generell kompetanse.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/9"><i>Nasjonal plan for teknisk fagskoleutdanning, generell del</i> - betegnelse på plan felles for alle fagretningene som inneholder overordnet mål for utdanningen, organisering, arbeidsformer, vurdering, eksamensordning, dokumentasjon etc.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/10"><i>Ny eksamen</i> - vurdering som arrangeres for studenter som har gjennomført, men ikke bestått eller ønsker å forbedre resultatet på ordinær eksamen.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/11"><i>Sluttvurdering</i> - Sluttvurdering i fagskolen er emnekarakterer og eksamenskarakterer eller en kombinasjon av disse. Disse resultatene framkommer på studentens dokumentasjon av fullført utdanning (vitnemål og karakterutskrift).
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/12"><i>Studieplan</i> - betegnelse på den enkelte skoles plan for tilbudet. Normalt basert på en nasjonal plan. Denne planen utgjør den faglige delen av skolens NOKUT-søknad.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/13"><i>Student</i> - en person som er tatt opp til et fagskolestudium ved fagskolen Rogaland.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/14"><i>Underveisvurdering</i> - vurdering gitt underveis i et emne som har til hensikt å gi studenten informasjon om nivået, men ikke nødvendigvis karakter, på studentens kunnskaper, ferdigheter og generelle kompetanse og veiledning om hvordan hun eller han kan utvikle nivået i emnet.
+<br/></marg>
+        <marg niv="1" id="/kapittel/1/paragraf/1-3/marg/15"><i>Utsatt eksamen</i> - vurdering som arrangeres for studenter som har levert legeerklæring eller hatt annet dokumentert gyldig fravær ved ordinær eksamen.</marg>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-4" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k1/p1-4">
+        <pverdi>§ 1-4.</pverdi>
+        <ptittel>Søkerens og studentens undersøkelses- og opplysningsplikt</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-4/ledd/1">(1) Enhver søker/student plikter å sette seg inn i den til enhver tid gjeldende forskrift om opptak, studier og vurdering ved Fagskolen Rogaland og de spesifikke bestemmelsene som gjelder det studietilbudet søkeren søker til eller studenten følger.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-4/ledd/2">(2) Som student plikter man å sette seg inn i kvalitetssystem, studieplaner, reglement, retningslinjer og frister som er relevant for studieprogrammet, eksamensplaner, rutiner for eksamen, regler for behandling av fusk og nødvendige forutsetninger for å gå opp til eksamen. De ovennevnte regler, planer og rutiner finnes på Fagskolen Rogalands hjemmeside.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-4/ledd/3">(3) Manglende kjennskap til ovennevnte kan ikke påberopes som et befriende forhold.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-4/ledd/4">(4) Studenten plikter skriftlig å underrette Fagskolen Rogaland om navneendringer. Navneendring må dokumenteres. All post blir sendt digital postkasse. Dersom den digitale posten ikke åpnes, sendes posten til studentens folkeregistrerte adresse. Unnlatt oppdatering av adresse og telefonnummer innebærer at studenten må bære risikoen for at underretninger fra Fagskolen Rogaland ikke mottas, eller ikke mottas i tide.</ledd>
+        <ledd id="/kapittel/1/paragraf/1-4/ledd/5">(5) Alle studenter ved Fagskolen Rogaland har tilgang til og må bruke skolens læringsplattform og egen skolee-postadresse som bl.a. benyttes til viktig studentinformasjon fra Fagskolen Rogaland. Studenten plikter å sjekke læringsplattform og e-post jevnlig. Studenter som velger å videresende e-posten til en annen adresse enn skolee-postadressen, plikter selv å sørge for at e-post kan bli mottatt av denne e-postadressen, og må selv bære risikoen for at underretning fra Fagskolen Rogaland ev. ikke mottas.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Opptak</ktittel>
+      <paragraf id="/kapittel/2/paragraf/2-1" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-1">
+        <pverdi>§ 2-1.</pverdi>
+        <ptittel>Generelt opptakskrav</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/1">(1) Fullført og bestått videregående opplæring, med fagbrev eller vitnemål for yrkeskompetanse. Hvilke fagbrev eller yrkeskompetanser som gir rett til opptak på den enkelte fordypning framgår av studieplanene for den enkelte fordypning. Disse er tilgjengelige på skolens nettsider. Dersom studenten kan dokumentere at han/hun skal gjennomføre fagprøve etter opptaksfristen, kan det tildeles plass. Studenten mister plassen hvis han/hun ikke består fagprøven innen 1. oktober i opptaksåret. Utfyllende opptaksregler er gitt i studieplanen til den enkelte fordypning. Studieplanen er tilgjengelig på skolens hjemmeside.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/2">(2) Realkompetansevurdering slik det framgår av § 2-6 i denne forskrift.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-2" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-2">
+        <pverdi>§ 2-2.</pverdi>
+        <ptittel>Poengberegning og rangering</ptittel>
+        <table niv="1" frame="1">
+          <thgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="50*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="26*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Beskrivelse</i>
+                </entry>
+                <entry colname="2">
+                  <i>Poeng</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="2" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="50*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="26*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Det generelle opptakskravet jf. § 2-1 </entry>
+                <entry colname="2">100 poeng </entry>
+              </row>
+              <row>
+                <entry colname="1">Minst 5 års relevant praksis uten fagbrev, og med realkompetanse i felles allmenne fag </entry>
+                <entry colname="2">100 poeng </entry>
+              </row>
+              <row>
+                <entry colname="1">Praksis/dokumentert fartstid utover det generelle grunnlag for opptak </entry>
+                <entry colname="2">1 poeng per måned </entry>
+              </row>
+              <row>
+                <entry colname="1">Fagprøve med «bestått meget godt» </entry>
+                <entry colname="2">25 poeng </entry>
+              </row>
+              <row>
+                <entry colname="1">Fagprøve i annet relevant fag utover det generelle opptakskrav inkl. praksistid </entry>
+                <entry colname="2">50 poeng </entry>
+              </row>
+              <row>
+                <entry colname="1">Det gis gjennomsnittlig karakterpoeng av karakterene i alle fag på Vg2 og tverrfaglig eksamen </entry>
+                <entry colname="2">Multipliseres med 10 </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/1">Den med høyest poengsum rangeres først. Ved lik poengsum skal det kjønn som er underrepresentert i det yrket eller den profesjon opplæringen skal føre fram til, kvoteres.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-3" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-3">
+        <pverdi>§ 2-3.</pverdi>
+        <ptittel>Spesielle opptakskrav</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-3/ledd/1">Enkelte fordypninger kan ha spesielle opptakskrav. Dette vil framgå av studieplanene.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-4" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-4">
+        <pverdi>§ 2-4.</pverdi>
+        <ptittel>Kompetanse fra utlandet</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-4/ledd/1">(1) Søkere med fullført videregående opplæring fra de andre nordiske landene er kvalifiserte for opptak når den videregående opplæringen i de respektive landene gir generelt opptaksgrunnlag til tertiærutdanning tilsvarende norsk fagskoleutdanning. I tillegg må fagbrev fra hjemlandet tilsvare norsk fagbrev med samme faglige krav og som gir rett til opptak til den enkelte fordypning vist i den enkelte studieplan. Skolen foretar realkompetansevurdering.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-4/ledd/2">(2) Søkere utenfor Norden kan, jf. opplæringslova § 3-4a, søke NOKUT om godkjenning av utenlandsk fag- og yrkesutdanning. Alternativt må søker dokumentere opplæring og praksis ved autorisert translatør og ha bestått eller ha likeverdig realkompetanse tilsvarende Vg2/Vg3 innen relevante yrkesfaglige studieprogram. Søkere med utdanning utenfor Norden må få sin kompetanse realkompetansevurdert av skolen jf. § 2-6 i denne forskrift. Søkere må ha kunnskaper i norsk tilsvarende B2 i «Test for høyere nivå» (Bergenstesten).</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-5" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-5">
+        <pverdi>§ 2-5.</pverdi>
+        <ptittel>Realkompetansevurdering</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/1">(1) Fagskolen Rogaland gjennomfører realkompetansevurdering i tråd med rettledning fra
+<lenke url="https://www.kompetansenorge.no/contentassets/3b9b61b65e5148e6966b98909f667f0f/opptak_fagskolesektor_veiledning1.pdf">Kompetanse Norge</lenke>. Kompetansen til søkeren blir vurdert opp mot læreplanmål i videregående opplæring innen relevant programområde. Informasjon om hva som er relevant yrkesutdanning, er nedfelt i studieplanene. Opptak gjort på bakgrunn av realkompetanse vil bare gjelde for den utdanningen det blir realkompetansevurdert til.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/2">(2) Søkere som søker studieplass på bakgrunn av realkompetanse kan være:
+<liste id="/kapittel/2/paragraf/2-5/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/2-5/ledd/2/liste/a/avsnitt/1">Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravet</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-5/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/2-5/ledd/2/liste/b/avsnitt/1">Søkere som ikke har fullført videregående opplæring</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-5/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/2-5/ledd/2/liste/c/avsnitt/1">Søkere med utenlandsk utdanning.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/3">(3) Søkere må dokumentere kompetanse i felles allmenne fag som svarer til nivå 4 i Nasjonalt kvalifikasjonsrammeverk (NKR), ha fylt 23 år i søkeåret og må ha minst 5 års relevant arbeidserfaring i forhold til utdanningen.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/4">(4) Det er rektor som fatter vedtak om opptak på bakgrunn av realkompetanse etter innstilling fra opptaksrådet jf. § 2-8 i denne forskrift.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-6" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-6">
+        <pverdi>§ 2-6.</pverdi>
+        <ptittel>Søknad</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/1">Søknad må sendes innen fristen. Oppdaterte søknadsfrister og adresser legges på skolens hjemmeside. En søker kan ikke påbegynne et studium ved Fagskolen Rogaland mer enn 3 ganger. Søkere som kommer inn, men som ikke møter, eller ikke fraskriver seg studieplassen senest en uke før skolestart, regnes som å ha brukt et forsøk.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-7" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-7">
+        <pverdi>§ 2-7.</pverdi>
+        <ptittel>Annullering av vedtak om opptak og realkompetansevurdering</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/1">(1) Styret kan annullere vedtak om opptak eller godkjent realkompetanse til en fagskoleutdanning ved fagskolen Rogaland dersom en student er blitt tatt opp til utdanningen ved hjelp av falsk vitnemål eller annen form for utilbørlig oppførsel jf. lov om fagskoleutdanning § 9.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/2">(2) Grunnlaget for annullering foreldes ikke. Studenten kan klage på vedtak om annullering til Nasjonal klagenemnd for fagskoleutdanning jf. kap. 5 i denne forskrift.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-8" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-8">
+        <pverdi>§ 2-8.</pverdi>
+        <ptittel>Ansvar for opptak - opptaksråd</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/1">Rektor er ansvarlig for opptak og skal sørge for at opptak til fagskoleutdanningene blir gjennomført etter gjeldene regler. Rektor oppnevner medlemmer til opptaksrådet. Rådet skal gjennomføre det praktiske opptaket og vurdere realkompetanse. Det er rektor som fatter endelig vedtak om opptak.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-9" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-9">
+        <pverdi>§ 2-9.</pverdi>
+        <ptittel>Klage på vedtak om opptak</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-9/ledd/1">Opptak til fagskolen er et enkeltvedtak etter forvaltningsloven § 2b og kan klages på etter denne lova (§ 28 og § 29). Klage sendes Fagskolen Rogaland som vurderer saken. Dersom utfallet er negativt for søker, oversendes klagen til lokal klagenemd. Nærmere retningslinjer for klagebehandling er gitt i kap. 5 i denne forskrift.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-10" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-10">
+        <pverdi>§ 2-10.</pverdi>
+        <ptittel>Innpassing og fritak</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-10/ledd/1">(1) I henhold til § 1-1 i forskrift om fagskoleutdanning, skal studenter som kan dokumentere å ha bestått likeverdig eller tilsvarende emne, ved samme eller annen institusjon, gis innpass av deler av tidligere utdanning. Studenten må søke om innpass. Læringsutbyttebeskrivelse eller studieplan brukes for å vurdere om studenten har rett på innpassing,</ledd>
+        <ledd id="/kapittel/2/paragraf/2-10/ledd/2">(2) Studenter kan gis fritak for emner på grunnlag av annen dokumentert relevant utdanning og kompetanse. Dokumentasjon av realkompetanse kan gi grunnlag for fritak. Studenten må selv søke om fritak for et eller flere emner. Fritaket skal bygge på læringsutbyttebeskrivelse og en faglig vurdering av om den helhetlige kompetansen til søkeren samlet sett kan gi grunnlag for fritak for en del av fagskoleutdanningen.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-10/ledd/3">(3) For å få skrive ut vitnemål eller annen dokumentasjon for fullført utdanning ved fagskolen, må minst 30 fagskolepoeng som skal inngå i utregningsgrunnlaget, være avlagt ved Fagskolen Rogaland som siste del av utdanningen, jf. § 2 i forskrift om fagskoleutdanning.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-10/ledd/4">(4) Søknad om innpassing eller fritak må leveres til skolen senest 2 uker før oppstart av emnet. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke innpass eller fritak for, nærmere bestemt:
+<liste id="/kapittel/2/paragraf/2-10/ledd/4/liste/a"><lverdi>a.</lverdi><avsnitt id="/kapittel/2/paragraf/2-10/ledd/4/liste/a/avsnitt/1">Vitnemål/karakterutskrift/realkompetansevurdering</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-10/ledd/4/liste/b"><lverdi>b.</lverdi><avsnitt id="/kapittel/2/paragraf/2-10/ledd/4/liste/b/avsnitt/1">Oversikt over hvilke delemner som inngår i emnet</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-10/ledd/4/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/2/paragraf/2-10/ledd/4/liste/c/avsnitt/1">Oversikt over læringsutbyttebeskrivelsen av emnet.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/2-10/ledd/5">(5) Har en student fått godkjent søknad om fritak av et emne, skal dette framkomme på vitnemålet med referanse til bestått emne ved samme eller annen institusjon. Vitnemålet er bare gyldig sammen med dokumentasjonen som det blir referert til. Ved innpassing av et eller flere emner er det siste utdanningsinstitusjon som skriver ut vitnemål jf. § 2-11 tredje ledd.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-10/ledd/6">(6) Vedtak om innpassing og fritak av et emne blir fattet av rektor etter innstilling fra opptaksrådet. Vedtak om innpassing eller fritak er et enkeltvedtak etter forvaltningsloven § 2b og kan påklages etter denne lov (§ 28 og § 29). Klage sendes rektor som vurderer saken. Opprettholdes vedtaket, oversendes klagen til klageorganet. Nærmere bestemmelser om klagebehandling er gitt i kap. 5 i denne forskrift.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-11" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-11">
+        <pverdi>§ 2-11.</pverdi>
+        <ptittel>Annullering av vedtak om innpassing og fritak</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-11/ledd/1">(1) Styret kan annullere vedtak om innpassing eller fritak av et eller flere emner ved en fagskoleutdanning ved FR dersom en student har fått innpassing eller fritak ved hjelp av falsk vitnemål eller annen form for utilbørlig oppførsel jf. lov om fagskoleutdanning § 9.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-11/ledd/2">(3) Grunnlaget for annullering foreldes ikke. Studenten kan klage på vedtak om annullering til Nasjonal klagenemnd for fagskoleutdanning jf. kap. 5. i denne forskrifta.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-12" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k2/p2-12">
+        <pverdi>§ 2-12.</pverdi>
+        <ptittel>Krav til politiattest</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-12/ledd/1">(1) Ved utdanninger der studenter kan komme i kontakt med mindreårige eller andre sårbare grupper som del av praksis eller klinisk undervisning, er det krav om at studenten legger fram politiattest ved opptak eller i løpet av utdanninga, jf. fagskoleloven § 12 og politiregisterloven § 39. Politiattesten skal være slik som det går fram av barnevernlova § 6-10 andre ledd. Krav om politiattest skal gjøres kjent for studenten ved opptak til studier som er omfattet av disse bestemmelsene.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-12/ledd/2">(2) Styret fatter vedtak om at en student skal miste retten til å delta i praksis eller klinisk undervisning basert på politiattest og innstilling fra rektor ved fagskolen. Studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Se kap. 5 om klage og klagebehandling.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Vurdering</ktittel>
+      <paragraf id="/kapittel/3/paragraf/3-1" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-1">
+        <pverdi>§ 3-1.</pverdi>
+        <ptittel>Generelt</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/1">Studenter ved Fagskolen Rogaland har rett til vurdering etter reglene i dette kapittel. Retten til vurdering innebærer både en rett til underveisvurdering og sluttvurdering og en rett til dokumentasjon av opplæringen. Det skal være en helhetlig vurdering i emnene. Formålet med vurdering i emne er å fremme læring underveis og uttrykke den kunnskap, ferdighet og generelle kompetanse studenten har ved avslutningen av opplæringen i emnet. Vurderingen underveis skal gi god tilbakemelding og framovermelding til studenten. Grunnlaget for vurdering i emner er læringsutbyttebeskrivelsene for de aktuelle emnene og utfyllende regler, slik de er fastsatt i utdanningens studieplan.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-2" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-2">
+        <pverdi>§ 3-2.</pverdi>
+        <ptittel>Vurderingsuttrykk</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/1">I den enkelte studieplan framgår det hvordan underveis- og sluttvurdering gjennomføres i det enkelte emne. Dersom bestått/ikke bestått benyttes, skal det være som et selvstendig vurderingsuttrykk og ikke i kombinasjon med karakterskalaen A-F.</ledd>
+        <table niv="1" frame="1">
+          <thgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="10*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="16*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="50*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Symbol</i>
+                </entry>
+                <entry colname="2">
+                  <i>Betegnelse</i>
+                </entry>
+                <entry colname="3">
+                  <i>Generell, ikke fagspesifikk beskrivelse av vurderingskriterier</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="10*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="16*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="50*"/>
+            <tbody>
+              <row>
+                <entry colname="1">A </entry>
+                <entry colname="2">Fremragende </entry>
+                <entry colname="3">Fremragende prestasjon som klart utmerker seg.
+<br/>Studenten viser svært god vurderingsevne og stor grad av selvstendighet. </entry>
+              </row>
+              <row>
+                <entry colname="1">B </entry>
+                <entry colname="2">Meget god </entry>
+                <entry colname="3">Meget god prestasjon.
+<br/>Studenten viser meget god vurderingsevne og selvstendighet. </entry>
+              </row>
+              <row>
+                <entry colname="1">C </entry>
+                <entry colname="2">God </entry>
+                <entry colname="3">Jevnt god prestasjon som er tilfredsstillende på de fleste områder.
+<br/>Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. </entry>
+              </row>
+              <row>
+                <entry colname="1">D </entry>
+                <entry colname="2">Nokså god </entry>
+                <entry colname="3">En akseptabel prestasjon med noen vesentlige mangler.
+<br/>Studenten viser en viss grad av vurderingsevne og selvstendighet. </entry>
+              </row>
+              <row>
+                <entry colname="1">E </entry>
+                <entry colname="2">Tilstrekkelig </entry>
+                <entry colname="3">Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer.
+<br/>Studenten viser liten vurderingsevne og selvstendighet. </entry>
+              </row>
+              <row>
+                <entry colname="1">F </entry>
+                <entry colname="2">Ikke bestått </entry>
+                <entry colname="3">Prestasjon som ikke tilfredsstiller de faglige minimumskravene.
+<br/>Studenten viser både manglende vurderingsevne og selvstendighet. </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <br/>
+        <table niv="1" frame="1">
+          <thgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="10*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="16*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="50*"/>
+            <tbody>
+              <row>
+                <entry colname="1">
+                  <i>Symbol</i>
+                </entry>
+                <entry colname="2">
+                  <i>Betegnelse</i>
+                </entry>
+                <entry colname="3">
+                  <i>Generell, ikke fagspesifikk beskrivelse av vurderingskriterier</i>
+                </entry>
+              </row>
+            </tbody>
+          </thgroup>
+          <tgroup cols="3" rowsep="0" colsep="0">
+            <colspec colname="1" align="left" valign="top" colwidth="10*"/>
+            <colspec colname="2" align="left" valign="top" colwidth="16*"/>
+            <colspec colname="3" align="left" valign="top" colwidth="50*"/>
+            <tbody>
+              <row>
+                <entry colname="1">Bestått </entry>
+                <entry colname="2">Bestått </entry>
+                <entry colname="3">Prestasjon som tilfredsstiller de faglige minimumskravene.
+<br/>Studenten viser både tilfredsstillende vurderingsevne og selvstendighet. </entry>
+              </row>
+              <row>
+                <entry colname="1">Ikke bestått </entry>
+                <entry colname="2">Ikke bestått </entry>
+                <entry colname="3">Prestasjon som ikke tilfredsstiller de faglige minimumskravene.
+<br/>Studenten viser både manglende vurderingsevne og selvstendighet. </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-3" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-3">
+        <pverdi>§ 3-3.</pverdi>
+        <ptittel>Underveisvurdering - løpende vurdering</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/1">Underveisvurdering skal brukes som et verktøy i læringsprosessen, og bidra til at studenten øker sine kunnskaper, ferdigheter og generelle kompetanse. Underveisvurderingen skal gis løpende og systematisk, den kan være både muntlig og skriftlig. For at underveisvurderingen skal bli effektiv, skal studenten gjøres kjent med målet for opplæringen i ei økt eller en begrenset periode.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-3/ledd/2">Undervegsvurderingen skal inneholde informasjon om nivået, men ikke nødvendigvis karakter, på studentens kunnskaper, ferdigheter og generelle kompetanse og veiledning om hvordan hun eller han kan utvikle nivået i emnet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-4" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-4">
+        <pverdi>§ 3-4.</pverdi>
+        <ptittel>Begrunnelse av vurdering med karakter</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-4/ledd/1">(1) En student har rett til begrunnelse av karakter på alle arbeidskrav som danner grunnlag for, eller på annen måte inngår på vitnemålet. Krav om begrunnelse må framsettes innen tre uker fra karakteren ble kunngjort, eller at kandidaten kunne ha gjort seg kjent med den. Ved muntlig eksamen eller vurdering av praktiske ferdigheter må krav om begrunnelse framsettes straks etter at studenten er gjort kjent med karakteren, eller kunne ha gjort seg kjent med den. Hvis karakteren kunngjøres elektronisk og studenten kan kreve begrunnelse på tilsvarende måte, må krav om begrunnelse fremsettes innen én uke fra karakteren blir kunngjort. Ved annen type kunngjøring må krav om begrunnelse fremsettes innen én uke fra studenten fikk kjennskap til karakteren, men likevel ikke mer enn tre uker fra karakteren ble kunngjort.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-4/ledd/2">(2) Er krav om begrunnelse framsatt i rett tid, skal begrunnelse være gitt innen to uker. Begrunnelse gis skriftlig. I begrunnelsen skal det redegjøres for de generelle prinsippene som ligger til grunn for vurderingen og for vurdering av studenten sin prestasjon. Dersom det er gitt skriftlige retningslinjer for vurderingen, skal disse være tilgjengelige for studentene etter at karakteren er fastsatt.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-4/ledd/3">(3) Om studenten har bedt om begrunnelse innen fristen, må studenten framsette klage innen tre uker etter å ha mottatt begrunnelse av karakter. Av hensyn til klagebehandlingen, bes studenten om å be om begrunnelse før klage framsettes, selv om det ikke er et krav. Se kap. 5 om klage og klagebehandling.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-5" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-5">
+        <pverdi>§ 3-5.</pverdi>
+        <ptittel>Skikkethetsvurdering</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-5/ledd/1">(1) Ved enkelte utdanninger skal fagskolen vurdere om studenten er skikket for yrket. Krav til skikkhetsvurdering framgår av studieplanen. Vurderingen skjer løpende som en integrert del av opplæringen gjennom hele studiet og er en forutsetning for at studenten skal få vitnemål for fullført utdanning, jf. fagskoleloven § 11.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-5/ledd/2">(2) Det er styret som gjør vedtak om at en student ikke er skikket for yrket. Dette innebærer at studenten blir utestengt fra utdanningen. Studenten har rett til å uttale seg før det blir gjort vedtak. Det kreves 2/3 flertall for vedtak om utestengelse. Studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Se kap. 4 om disiplinære sanksjoner og kap. 5 om klage og klagebehandling.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-6" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-6">
+        <pverdi>§ 3-6.</pverdi>
+        <ptittel>Sluttvurdering</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-6/ledd/1">Sluttvurderingen skal gi informasjon om studentens kunnskaper, ferdigheter og generelle kompetanse ved avslutningen av opplæringen i emner i henhold til studieplanen. Sluttvurdering i fagskolen er emnekarakterer og eksamenskarakterer, eller en kombinasjon av disse, slik det framgår av studieplan. Karakterer settes på bakgrunn av en helhetlig vurdering, kjente kriterier og i henhold til oppsatte arbeidskrav, slik det framgår av studieplanen.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-7" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-7">
+        <pverdi>§ 3-7.</pverdi>
+        <ptittel>Vurdering, eksamen og sensur</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-7/ledd/1">(1) Styret har delegert rektor ansvar for oppnevning av sensor ved eksamen, prøve, bedømmelse av oppgave eller annet arbeid når resultatet inngår på vitnemålet eller innregnes i karakter for utdanningen. jf fagskoleloven § 6 2. ledd.
+<liste id="/kapittel/3/paragraf/3-7/ledd/1/liste/a"><lverdi>a.</lverdi><avsnitt id="/kapittel/3/paragraf/3-7/ledd/1/liste/a/avsnitt/1">Arbeidskrav som inngår på vitnemål vurderes av emnelærer(e).</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-7/ledd/1/liste/b"><lverdi>b.</lverdi><avsnitt id="/kapittel/3/paragraf/3-7/ledd/1/liste/b/avsnitt/1">Ved fastsettelse av endelig emnekarakter, skal rektor sørge for lærerne i emnet setter en felles karakter slik det framgår av studieplan. Det samme gjelder i de tilfeller hvor det skal settes en felles karakter for emne og eksamen.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-7/ledd/1/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/3/paragraf/3-7/ledd/1/liste/c/avsnitt/1">Ved eksamen benyttes lokal og ekstern sensor, ved uenighet avgjør ekstern sensor.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-7/ledd/1/liste/d"><lverdi>d.</lverdi><avsnitt id="/kapittel/3/paragraf/3-7/ledd/1/liste/d/avsnitt/1">Ved klagesensur brukes eksterne sensorer. Jf. § 5-4 i denne forskrift.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-7/ledd/1/liste/e"><lverdi>e.</lverdi><avsnitt id="/kapittel/3/paragraf/3-7/ledd/1/liste/e/avsnitt/1">Det legges til grunn en helhetlig vurdering basert på kjente vurderingskriterier.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/3-7/ledd/2">(2) Eksamensplanen for fagskolen skal være tilgjengelig på hjemmeside/intranett to måneder før første eksamensdato. I tillegg skal det opplyses når sensuren faller. I henhold til fagskoleloven § 6, 3. ledd skal sensur foreligge innen tre uker dersom ikke særlige grunner gjør det nødvendig å bruke mer tid.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-8" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-8">
+        <pverdi>§ 3-8.</pverdi>
+        <ptittel>Eksamen</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-8/ledd/1">Styret selv gir forskrift om avlegging og gjennomføring av eksamen og arbeidskrav. Dette omfatter vilkår for å gå opp til eksamen eller prøve på nytt og vilkår for tilgang til ny praksisperiode. Styret kan gi forskrift om forhold som er spesielle for den enkelte eksamen, slik det framkommer her.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-9" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-9">
+        <pverdi>§ 3-9.</pverdi>
+        <ptittel>Rett til å gå opp til eksamen</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-9/ledd/1">(1) Studenter som er tatt opp til et emne eller studium ved fagskolen, har rett til å gå opp til de eksamener og prøver som inngår i emnet eller studiet, dersom ikke annet er bestemt. Det er ikke mulig å gå opp som privatist ved fagskolene. I hvert emne er det fastsatt bestemte arbeidskrav som må være fullført før eksamen kan gjennomføres. Nærmere opplysninger finnes i studieplanen. Studenter som ikke oppfyller eller består arbeidskravene som er bestemt i studieplanen, har ikke rett til å gå opp til eksamen. Om en emnekarakter ikke er fastsatt før eksamen, tillates likevel studenten å avlegge eksamen, men med forbehold om at emnet blir bestått, hvis ikke annulleres eksamen.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-9/ledd/2">(2) Studenten blir automatisk meldt opp til ordinær eksamen. Studenter må selv melde seg opp til ny eller utsatt eksamen. Det må gjøres til første oppsatte eksamen.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-9/ledd/3">(3) En student har rett til å ta eksamen ved fagskolen tre ganger i samme emne, ordinær eksamen, ny/utsatt eksamen og forbedringseksamen. Dersom en student får «ikke bestått» på ordinær eksamen, er det mulig å ta ny eksamen. Studenten anses for å ha møtt til eksamen og brukt av sin rett om han eller hun:
+<liste id="/kapittel/3/paragraf/3-9/ledd/3/liste/a"><lverdi>a.</lverdi><avsnitt id="/kapittel/3/paragraf/3-9/ledd/3/liste/a/avsnitt/1">ikke møter på eksamen uten å kunne framlegge dokumentert gyldig grunn.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-9/ledd/3/liste/b"><lverdi>b.</lverdi><avsnitt id="/kapittel/3/paragraf/3-9/ledd/3/liste/b/avsnitt/1">ikke leverer besvarelse.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-9/ledd/3/liste/c"><lverdi>c.</lverdi><avsnitt id="/kapittel/3/paragraf/3-9/ledd/3/liste/c/avsnitt/1">møter på eksamen og trekker seg under eksamen</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/3-9/ledd/4">(4) En student som er forhindret fra å møte til eksamen på grunn av sykdom og/eller sterke velferdsgrunner, og dette er dokumentert av sakkyndig, gis mulighet til utsatt eksamen. Skolen må få beskjed eksamensdagen, og skriftlig dokumentasjon som beskriver at studenten ikke var i stand til å gjennomføre eksamen av helsemessige eller sterke velferdsgrunner må leveres eller være poststemplet senest tre virkedager etter eksamensdato.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-9/ledd/5">(5) En student kan melde seg opp til eksamen med tanke på forbedring av karakter utover bestått nivå. Høyeste karakter blir da gjeldende. Det er knyttet et eksamensgebyr til slik oppmelding. Gebyret fastsettes årlig.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-9/ledd/6">(6) Det er mulig å ta eventuell praksisperiode på ny om den ikke ble bestått i første omgang, med mindre noe annet er bestemt i studieplanen. Vedtak om ikke bestått praksisperiode er et enkeltvedtak, og studenten har klagerett. Se kap. 5 om klage og klagebehandling.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-9/ledd/7">(7) Når en student ikke fullfører studiet/emnet innen normert studietid og det i mellomtiden er gjort vesentlige endringer i fagplan eller studieplan, gjelder retten til å fullføre etter den opprinnelige studieplan i ett år etter at endringen ble gjort gjeldende, dersom ikke annet er bestemt av sertifikatgivende eller annen myndighet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-10" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-10">
+        <pverdi>§ 3-10.</pverdi>
+        <ptittel>Eksamensformer og ordninger</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-10/ledd/1">Eksamensformer og -ordninger som er gjeldende for FR utdanninger er beskrevet i studieplanen for den enkelte fordypning og følger rammene gitt i nasjonale planer for utdanningene. Studieplanene angir hvilke emner som avsluttes med obligatorisk eksamen, hvilke emner som kan trekkes til eksamen og hva slags eksamensform som skal benyttes.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-11" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-11">
+        <pverdi>§ 3-11.</pverdi>
+        <ptittel>Studieprogresjon ved de tekniske fagskoleutdanningene</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-11/ledd/1">(1) Ved de tekniske fagskoleutdanningene kan studenten ha «ikke bestått» i maksimum ett emne, og likevel gå videre med utdanningen.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-11/ledd/2">(2) Det er ikke mulig å utsette et emne fullt ut til året etter med mindre det foreligger særskilte forhold. Rektor kan gi dispensasjon til å utsette, eller ta opp et emne på nytt, ved særskilte forhold og etter søknad. Ved tap av rettigheter har studenten klagerett. Se kap. 5 om klage og klagebehandling.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-12" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-12">
+        <pverdi>§ 3-12.</pverdi>
+        <ptittel>Studieprogresjon ved de helsefaglige fagskoleutdanningene</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-12/ledd/1">De helsefaglige utdanningene er emnestrukturerte, og de ulike emnene bygger på hverandre. En student må ha bestått et emne for å kunne fortsette i studiet på det neste. Alle emner og praksis skal være bestått før studenten kan ta avsluttende eksamen. Rektor kan, etter søknad og ved særskilte forhold, gi dispensasjon til å utsette, eller ta et emne på nytt. Ved tap av rettigheter har studenten klagerett. Se kap. 5 for klage.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-13" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-13">
+        <pverdi>§ 3-13.</pverdi>
+        <ptittel>Studieprogresjon ved de toårige maritime fagskoleutdanningene</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-13/ledd/1">Maritim utdanningen er emnestrukturert, de ulike emnene bygger på hverandre, og er styrt av internasjonal konvensjon STCW.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-13/ledd/2">En student må underveis i utdanningen ha bestått alle emner og arbeidskrav for å kunne fortsette studiet til neste nivå (gjelder også redskapsfagene matematikk, fysikk, maritim engelsk og norsk). Alle emner og obligatoriske øvelser og arbeidskrav skal være bestått før studenten kan ta avsluttende eksamen.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-13/ledd/3">Rektor kan, etter søknad og ved særskilte forhold, gi dispensasjon til å utsette, eller ta et emne på nytt. Ved tap av rettigheter har studenten klagerett, jf. kap. 5 om klage.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-14" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-14">
+        <pverdi>§ 3-14.</pverdi>
+        <ptittel>Krav om frammøte</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-14/ledd/1">Det er et generelt krav om 80 % frammøte til undervisningen per emne. Deltidsstudier eller spesielt tilrettelagte studier kan ha andre krav til frammøte. I enkelte emner eller delemner kan kravet til frammøte være inntil 100 %. Utfyllende regler er gitt i studieplanen for den enkelte fordypning.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-14/ledd/2">Studenter som ikke fyller disse kravene, mister retten til sluttvurdering og mister derved retten til å fortsette studiet. Ved tap av rettigheter har studenten klagerett, jf kap. 5 om klage og klagebehandling.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-17" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-17">
+        <pverdi>§ 3-17.</pverdi>
+        <ptittel>Eksamen under særlige vilkår</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-17/ledd/1">(1) Studenter som av medisinske eller andre grunner kan ha behov for spesiell tilrettelegging ved den praktiske gjennomføringen av eksamen, må sende søknad til rektor om dette så tidlig som mulig, og senest seks uker før eksamensdato. Ved akutt behov for tilrettelegging, kan det gjøres unntak fra søknadsfristen. Søknaden må inneholde dokumentasjon fra sakkyndig instans (for eksempel lege, logoped, psykolog) som beskriver behovet for særlig tilrettelegging knyttet til eksamenssituasjonen, jf. fagskoleloven § 4a, 3. ledd.
+<liste id="/kapittel/3/paragraf/3-17/ledd/1/liste/2"><lverdi>(2)</lverdi><avsnitt id="/kapittel/3/paragraf/3-17/ledd/1/liste/2/avsnitt/1">Særordninger skal ikke være av en slik karakter at det påvirker den faglige prestasjonen, og besvarelsen skal vurderes etter kriterier gitt for eksamen.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-17/ledd/1/liste/3"><lverdi>(3)</lverdi><avsnitt id="/kapittel/3/paragraf/3-17/ledd/1/liste/3/avsnitt/1">Sertifikatkrav eller andre krav gitt av myndighet kan begrense muligheter for tilrettelegging.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-17/ledd/1/liste/4"><lverdi>(4)</lverdi><avsnitt id="/kapittel/3/paragraf/3-17/ledd/1/liste/4/avsnitt/1">Særordninger kan være spesiell fysisk tilrettelegging, bruk av særskilte hjelpemidler og/eller utvidet tid til eksamen, eller i spesielle tilfelle alternativ eksamensform. Eksempler på særordninger er: Eget eksamenslokale, bruk av PC, skrivehjelp, muntlig eksamen i stedet for skriftlig, opplesing av oppgave, opplesing av besvarelse for korrektur, ekstra pauser med mulighet for å hvile, ammepauser og liknende.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-17/ledd/1/liste/5"><lverdi>(5)</lverdi><avsnitt id="/kapittel/3/paragraf/3-17/ledd/1/liste/5/avsnitt/1">Ved skriftlig eksamen med tilsyn kan det innvilges utvidet tid med inntil 25 % av normal eksamenstid; maksimalt en time.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-17/ledd/1/liste/6"><lverdi>(6)</lverdi><avsnitt id="/kapittel/3/paragraf/3-17/ledd/1/liste/6/avsnitt/1">Avslag på søknad om tilrettelagt eksamen er et enkeltvedtak som kan påklages, jf. kap. 5 i denne forskrift.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-18" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-18">
+        <pverdi>§ 3-18.</pverdi>
+        <ptittel>Dokumentasjon</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-18/ledd/1">(1) Studenter som fullfører og består en utdanning, vil få utdelt vitnemål jf. § 5 i lov om fagskoleutdanning. Vitnemålet skal inneholde:
+<liste id="/kapittel/3/paragraf/3-18/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/3-18/ledd/1/liste/a/avsnitt/1">Emner som inngår i utdanningen.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-18/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/3-18/ledd/1/liste/b/avsnitt/1">Omfang av emner og oppnådd karakter skal føres på vitnemålet.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-18/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/3/paragraf/3-18/ledd/1/liste/c/avsnitt/1">Overordnet læringsutbytte.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-18/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/3/paragraf/3-18/ledd/1/liste/d/avsnitt/1">Omtale av eventuell praksis.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-18/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/3/paragraf/3-18/ledd/1/liste/e/avsnitt/1">Nivå i Nasjonalt kvalifikasjonsrammeverk (NKR) og kvalifikasjonen som oppnås.</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-18/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/3/paragraf/3-18/ledd/1/liste/f/avsnitt/1">Karaktersystemet som benyttes.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/3-18/ledd/2">(2) På vitnemål for teknisk fagskole skal fagretning, fordypning og tittel på hovedprosjektet gå fram.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-18/ledd/3">(3) En student som ikke har fullført hele utdanningen, kan be om en karakterutskrift som viser fullført og bestått emne, eksamener og eventuelle andre vurderinger.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-19" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-19">
+        <pverdi>§ 3-19.</pverdi>
+        <ptittel>Fusk og forsøk på fusk</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-19/ledd/1">(1) Det blir vurdert som fusk om en student benytter ulovlige hjelpemidler under eksamen eller prøve eller på andre måter handler i strid med eksamensreglement eller regler om kildebruk slik det framgår av studieplanen. Om det under eksamen eller prøve med tilsyn oppstår situasjoner som gjør at en student kan mistenkes for fusk, skal studenten straks gjøres oppmerksom på at forholdet vil bli rapportert til administrasjonen ved fagskolen for videre behandling.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-19/ledd/2">(2) Studenten skal ha mulighet til å velge om hun/han ønsker å avbryte eller fortsette eksamen. Det samme gjelder for studenter som har hjulpet andre til fusk. Studenter som har fusket eller forsøkt å fuske, vil få eksamen eller prøve annullert. Det er styret som fatter vedtak om annullering (jf. § 3-20) på grunn av fusk eller forsøk på fusk, og eventuelle disiplinære sanksjoner (§ 4-1 tredje ledd).</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-20" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k3/p3-20">
+        <pverdi>§ 3-20.</pverdi>
+        <ptittel>Annullering av eksamen</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-20/ledd/1">(1) Styret kan annullere eksamen/emnekarakter om studenten har fusket eller er blitt tatt opp til utdanningen ved hjelp av falsk vitnemål eller annen form for utilbørlig oppførsel, jf. lov om fagskoleutdanning § 9. Muligheten til annullering foreldes ikke. Se § 4-1 tredje ledd knyttet til disiplinære sanksjoner i forbindelse med annullering på dette grunnlag.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-20/ledd/2">(2) Etter vedtak om annullering skal eventuelt vitnemål og/eller karakterutskrift leveres tilbake til fagskolen. Om vitnemålet og/eller karakterutskriften ikke blir levert tilbake til skolen i rett tid, kan skolen kreve hjelp fra namsmannen i samsvar med reglene i tvangsfullbyrdingsloven kap. 13. Er vitnemålet grunnlag for autorisasjon for yrkesutøvelse, skal fagskolen melde fra om annullering til vedkommende myndighet. Vedtaket foreldes ikke.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-20/ledd/3">(3) Studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Se kap. 5 for framgangsmåte og rettigheter for studenten ved disiplinære reaksjoner.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Disiplinære sanksjoner</ktittel>
+      <paragraf id="/kapittel/4/paragraf/4-1" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k4/p4-1">
+        <pverdi>§ 4-1.</pverdi>
+        <ptittel>Utestenging og bortvisning</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/1">(1) En student som tross skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid, eller for virksomheten ved fagskolen ellers, kan etter vedtak av styret bortvises fra fagskolen i inntil ett år. Hvis en student på tross av skriftlig advarsel fra fagskolen ikke etterkommer et vedtak om bortvisning, kan styret vedta å utestenge studenten fra utdanningen i inntil ett år. Se kap. 5 for klage.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/2">(2) Styret kan vedta at en student som har skapt fare for liv eller helse for, eller har opptrådt grovt usømmelig overfor, noen som studenten har møtt i forbindelse med undervisning eller praksisopplæring, skal utestenges fra fagskoleutdanning med klinisk undervisning og praksisstudier og fratas retten til å gå opp til eksamen i slik utdanning ved fagskolen i inntil tre år. Det samme gjelder dersom en student har brutt lovfestet taushetsplikt. Se kap. 5 om klage og klagebehandling.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/3">(3) Styret kan vedta at en student som har benyttet et falsk vitnemål, andre falske dokumenter eller annen form for uredelig opptreden som nevnt i § 9 første og annet ledd, eller som har fusket eller forsøkt å fuske som nevnt i § 9 første ledd tredje punktum, skal utestenges fra all utdanning ved fagskolen og fratas retten til å gå opp til eksamen ved fagskolen i inntil ett år. Tilsvarende gjelder for en student som forsettlig har medvirket.</ledd>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/4">(4) Et vedtak om å bortvise eller utestenge en student kan bare treffes med minst to tredelsflertall i styret. En student har rett til å uttale seg før det treffes vedtak i en sak om bortvisning og utestenging. Vedtaket kan påklages til Nasjonal klagenemnd for fagskoleutdanning. jf. kap. 5 om klage og klagebehandling.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/5" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k5">
+      <kverdi>Kapittel 5</kverdi>
+      <ktittel>Klage og klagebehandling</ktittel>
+      <paragraf id="/kapittel/5/paragraf/5-1" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k5/p5-1">
+        <pverdi>§ 5-1.</pverdi>
+        <ptittel>Klageorganer</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/1">(1) Ledelsen ved fagskolen oppretter lokal klagenemnd med fem medlemmer. Leder med personlig vara, begge skal tilfredsstille de lovmessige kravene for lagdommere. Studentene velger selv to medlemmer med personlig vara. Det skal være to personer med personlig vara fra de ansatte. Det utarbeides Instruks for klagenemd og prosedyre for valg av medlemmer. Lokal klagenemd skal behandle klager over enkeltvedtak. Klagenemda er vedtaksfør når leder og to andre medlemmer er til stede. Jf. lov om fagskoleutdanning § 13.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/2">(2) Styret kan bestemme at lokal klagenemd også skal behandle andre saker for studentene, og saker etter § 7 - Klage over formelle feil ved eksamen, § 9 - Annullering av eksamen m.m., § 10 - Utestenging og bortvisning, § 11 - Vurdering av skikkethet og § 12 - Krav om politiattest. Ingen andre enn styret kan behandle klager etter § 7, § 9, § 10, § 11 og § 12, eller lokal klagenemd om styret har bestemt det. Vedtak etter § 10 og § 11 kan bare fattes med minst to tredels flertall.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/3">(3) Det er opprettet en nasjonal klagenemd for fagskolen. Denne nemnda er klageorgan for klager etter § 9 - § 12.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-1/ledd/4">(4) Ved klage på eksamensresultat går klagen til klagesensur.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-2" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k5/p5-2">
+        <pverdi>§ 5-2.</pverdi>
+        <ptittel>Framgangsmåte ved klage</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/1">(1) Alle klager skal sendes Fagskolen Rogaland.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/2">(2) Studenten må sende klagen senest tre uker etter at han/hun har fått kjennskap til vedtaket, eller kunne ha gjort seg kjent med det. Studenten skal få svar på klagen innen 3 uker. Dersom behandlingen antas å ta lengre tid, gis klager et midlertidig svar om når saksbehandlingen antas å være ferdig. Klagen skal være skriftlig og sendes til fagskolen sitt post-mottak (e-post eller brev).</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/3">(3) Klage over formelle feil ved eksamen må varsles innen tre uker etter at studenten er eller burde kunne være kjent med det forhold som gir grunnlag for klage.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/4">(4) Finner lokal klagenemnd at det er gjort formelle feil, og det er rimelig å tro at dette kan ha vært viktig for prestasjon eller vurdering for en eller flere studenter, skal det gjennomføres ny sensur, eller holdes ny eksamen snarest mulig.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-2/ledd/5">(5) Den skriftlige klagen skal inneholde:
+<liste id="/kapittel/5/paragraf/5-2/ledd/5/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/5/paragraf/5-2/ledd/5/liste/a/avsnitt/1">hvem som klager (navn, klasse og adresse)</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-2/ledd/5/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/5/paragraf/5-2/ledd/5/liste/b/avsnitt/1">vedtak det klages på</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-2/ledd/5/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/5/paragraf/5-2/ledd/5/liste/c/avsnitt/1">hva klagen gjelder og begrunnelse</avsnitt></liste>
+<liste id="/kapittel/5/paragraf/5-2/ledd/5/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/5/paragraf/5-2/ledd/5/liste/d/avsnitt/1">dato og underskrift/er.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/5/paragraf/5-3" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k5/p5-3">
+        <pverdi>§ 5-3.</pverdi>
+        <ptittel>Hva som kan påklages</ptittel>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/1">(1) Alle enkeltvedtak og vedtak knyttet til § 7, § 9, § 10, § 11 og § 12 kan påklages.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/2">(2) Studenten har rett til å klage på karakterfastsetting ved alle arbeidskrav som har konsekvens for sluttvurdering i et emne. Studenten må framsette klage innen tre uker fra karakteren ble bekjentgjort, eller studenten kunne gjort seg kjent med vurderingen. Har studenten framsatt krav om begrunnelse, løper fristen fra begrunnelse er gitt. Ved klage på endelig karakter ved mappevurdering/emnekarakter er det bare mulig å klage på sluttvurderingen og ikke på enkeltstående arbeidskrav tilbake i tid.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/3">(3) Om studenten framsetter klage på karakter ved prøve, innlevering og andre arbeidskrav som har konsekvens for sluttvurdering, skal det gjøres en ny faglig vurdering av en annen part. Studenten oppfordres til å be om begrunnelse før klage framsettes. Resultat av klagebehandling kan ikke påklages.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/4">(4) Studenten kan klage på emnekarakter og har rett på begrunnelse. Det oppfordres til å be om begrunnelse før eventuell klage framsettes.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/5">(5) Bedømmelse av muntlig prestasjon og vurdering av praksisopplæring eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages. Det kan imidlertid klages på formelle feil, og om studenten får medhold, vil han/hun gis anledning til ny prøve ved første anledning.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/6">(6) Ved klage på karakter på gruppeeksamen (der en får gruppekarakter), må alle gruppemedlemmene underskrive klagen.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/7">(7) Ved klage på karakterfastsetting ved en eksamen, skal det benyttes to nye eksterne sensorer. Disse skal ikke gjøres kjent med eventuell begrunnelse for opprinnelig karakter, opprinnelig karakter eller klagers begrunnelse. Jf. fagskoleloven § 8 fjerde ledd. Ny sensur skal normalt foreligge innen samme frister som gjelder for ordinær eksamen. Klager skal ha melding ved eventuell forsinkelse. Karakteren kan forbli uendret, eller endres både til gunst eller ugunst for klager. Karakterfastsettelse ved ny sensur etter denne paragraf kan ikke påklages.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/8">(8) Blir den endelige karakteren fastsatt på grunnlag av en muntlig prøve/justering, i forbindelse med en skriftlig deleksamen, og klager får medhold i klage på sensuren av den skriftlige delen av eksamen, skal det holdes ny muntlig eksamen før ny endelig karakter kan fastsettes.</ledd>
+        <ledd id="/kapittel/5/paragraf/5-3/ledd/9">(9) Vurdering av muntlig prestasjon eller annen type vurderingssituasjon som vanskelig lar seg etterprøve eller dokumentere, kan ikke påklages. Formelle feil kan imidlertid påklages, og får klager medhold, vil det normalt medføre ny prøve ved første anledning.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/6" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k6">
+      <kverdi>Kapittel 6</kverdi>
+      <ktittel>Avsluttende bestemmelser</ktittel>
+      <paragraf id="/kapittel/6/paragraf/6-1" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k6/p6-1">
+        <pverdi>§ 6-1.</pverdi>
+        <ptittel>Mindre endringer i forskriften</ptittel>
+        <ledd id="/kapittel/6/paragraf/6-1/ledd/1">Fagskolestyret kan gjøre mindre endringer i denne forskrift slik at den er i tråd med gjeldende lover, tilhørende forskrifter, krav framsatt av Nasjonalt organ for kvalitet i utdanningen (NOKUT), eller annen autorisasjons- eller sertifikatmyndighet knyttet til opplæringen, det uten høringsrunde.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/6/paragraf/6-2" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k6/p6-2">
+        <pverdi>§ 6-2.</pverdi>
+        <ptittel>Ikrafttredelse og opphevelse</ptittel>
+        <liste id="/kapittel/6/paragraf/6-2/ledd/1/liste/a">
+          <lverdi>a)</lverdi>
+          <avsnitt id="/kapittel/6/paragraf/6-2/ledd/1/liste/a/avsnitt/1">Denne forskrift trer i kraft 1. oktober 2017.</avsnitt>
+        </liste>
+        <liste id="/kapittel/6/paragraf/6-2/ledd/1/liste/b">
+          <lverdi>b)</lverdi>
+          <avsnitt id="/kapittel/6/paragraf/6-2/ledd/1/liste/b/avsnitt/1">Samtidig blir midlertidig studiereglement for Fagskolen Rogaland<fref id="/kapittel/6/paragraf/6-2/fotnote/1">1</fref>gjeldende fra 25. april 2017 opphevet.
+<fotnote id="/kapittel/6/paragraf/6-2/fotnote/1">1 Ikke kunngjort i Norsk Lovtidend.</fotnote></avsnitt>
+        </liste>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/1+" url="https://lovdata.no/lovtidend/forskrift/2017-09-29-1713/k1">
+      <kverdi/>
+      <ktittel> Rettelser <br/> <br/></ktittel>
+      <redaksjonell_note>Det som er rettet er satt i kursiv.
+<br/></redaksjonell_note>
+      <marg niv="1" id="/kapittel/1/marg/1">§ 1-3 definisjonen av «Fordypning» skal lyde:</marg>
+      <marg niv="1" id="/kapittel/1/marg/2">Fordypning - betegnelse på enhet i underinndelingen av en fagretning (for eksempel <i>Automatisering</i>).
+<br/></marg>
+      <marg niv="1" id="/kapittel/1/marg/3">§ 1-4 første ledd skal lyde:</marg>
+      <ledd id="/kapittel/1/ledd/1">(1) Enhver søker/student plikter å sette seg inn i den til enhver tid gjeldende forskrift om opptak, <i>vurdering, disiplinære sanksjoner og klagebehandling</i> ved Fagskolen Rogaland og de spesifikke bestemmelsene som gjelder det studietilbudet søkeren søker til eller studenten følger.
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/1/marg/1">§ 1-4 fjerde ledd første punktum skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/2">(4) Studenten plikter skriftlig å underrette Fagskolen Rogaland om <i>endring av navn, adresse og telefonnummer</i>.
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/2/marg/1">§ 1-4 femte ledd skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/3">(5) Alle studenter ved Fagskolen Rogaland har tilgang <i>til, og</i> må bruke skolens læringsplattform og <i>e-postadresse tildelt av skolen. Denne e-postadressen</i> benyttes til viktig studentinformasjon fra Fagskolen Rogaland. Studenten plikter å sjekke læringsplattform og e-post jevnlig. Studenter som velger å videresende e-posten til en annen adresse enn <i>tildelt e-postadresse</i>, plikter selv å sørge for at e-post kan bli mottatt av denne e-postadressen, og må selv bære risikoen for at underretning fra Fagskolen Rogaland ev. ikke mottas.
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/3/marg/1">§ 2-1 første ledd første punktum skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/4"><i>Generelt opptakskrav er fullført</i> og bestått videregående opplæring, med fagbrev eller vitnemål for yrkeskompetanse.
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/4/marg/1">§ 2-1 annet ledd skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/5">(2) Realkompetansevurdering slik det framgår av § <i>2-5</i> i denne forskrift.
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/5/marg/1">§ 2-10 femte ledd siste punktum skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/6">Ved innpassing av et eller flere emner er det siste utdanningsinstitusjon som skriver ut <i>vitnemål.</i>
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/6/marg/1">§ 2-10 sjette ledd annet punktum skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/7">Vedtak om innpassing eller fritak er et enkeltvedtak etter forvaltningsloven § 2b og kan påklages etter denne <i>loven</i> (§ 28 og § 29).
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/7/marg/1">§ 2-11 første ledd skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/8">(1) Styret kan annullere vedtak om innpassing eller fritak av et eller flere emner ved en fagskoleutdanning ved <i>Fagskolen Rogaland</i>, dersom en student har fått innpassing eller fritak ved hjelp av falsk vitnemål eller annen form for utilbørlig oppførsel jf. lov om fagskoleutdanning § 9.
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/8/marg/1">§ 3-10 første punktum skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/9">Eksamensformer og -ordninger som er gjeldende ved <i>Fagskolen Rogaland</i>, er beskrevet i studieplanen for den enkelte fordypning og følger rammene gitt i nasjonale planer for utdanningene.
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/9/marg/1">§ 3-17, § 3-18, § 3-19 og § 3-20 skal være henholdsvis § 3-15, § 3-16, § 3-17 og § 3-18.
+<br/></marg>
+<marg niv="1" id="/kapittel/1/ledd/9/marg/2">§ 3-18 annet til fjerde ledd skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/10">
+        <i>(2) Adgangen til annullering foreldes ikke.</i>
+      </ledd>
+      <ledd id="/kapittel/1/ledd/11"><i>(3)</i> Etter vedtak om annullering skal eventuelt vitnemål og/eller karakterutskrift leveres tilbake til fagskolen. Om vitnemålet og/eller karakterutskriften ikke blir levert tilbake til skolen i rett tid, kan skolen kreve hjelp fra namsmannen i samsvar med reglene i tvangsfullbyrdingsloven kap. 13. Er vitnemålet grunnlag for autorisasjon for yrkesutøvelse, skal fagskolen melde fra om annullering til vedkommende <i>myndighet.</i></ledd>
+      <ledd id="/kapittel/1/ledd/12"><i>(4)</i> Studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Se kap. 5. for framgangsmåte og rettigheter for studenten ved disiplinære reaksjoner.
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/12/marg/1">§ 5-1 første ledd femte, sjette og syvende punktum skal lyde:</marg></ledd>
+      <ledd id="/kapittel/1/ledd/13">Det utarbeides <i>instruks</i> for <i>klagenemnd</i> og prosedyre for valg av medlemmer. Lokal <i>klagenemnd</i> skal behandle klager over enkeltvedtak. <i>Klagenemnda</i> er vedtaksfør når leder og to andre medlemmer er til stede.
+<br/>
+<marg niv="1" id="/kapittel/1/ledd/13/marg/1">§ 6-2 bokstav b skal lyde:</marg>
+<liste id="/kapittel/1/ledd/13/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/ledd/13/liste/b/avsnitt/1">Samtidig blir midlertidig studiereglement for Fagskolen Rogaland<fref id="1">1</fref>gjeldende fra <i>1. august 2017</i> opphevet.
+<fotnote id="/kapittel/1/fotnote/1">1 Ikke kunngjort i Norsk Lovtidend.</fotnote></avsnitt></liste></ledd>
+    </kapittel>
+  </tekst>
+</dokument>

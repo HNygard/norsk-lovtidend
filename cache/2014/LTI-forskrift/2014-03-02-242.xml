@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2014-03-02-242" type="lt" url="https://lovdata.no/lovtidend/forskrift/2014-03-02-242">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2014-03-02-242</id>
+    <dato>02.03.2014 nr. 242</dato>
+    <dato type="iso">2014-03-02</dato>
+    <publisert>I 2014 hefte 3 s 452</publisert>
+    <ikraft>10.06.2014</ikraft>
+    <ikraft type="iso">2014-06-10</ikraft>
+    <departement>Kunnskapsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel>
+      <ref id="lov-2005-06-03-37">L03.06.2005 nr. 37</ref>
+    </hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2013-12-16-1610</endrer>
+    <rettet/>
+    <journalnummer>2014-0168</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i forskrift om forrentning m.m. av utdanningslån</korttittel>
+    <korttittel>4 Endr. i forskrift om forrentning og tilbakebetaling av utdanningslån og tap av rettigheter 2014 (Nr. 242)</korttittel>
+    <tittel>Forskrift om endring i forskrift om forrentning og tilbakebetaling av utdanningslån og tap av rettigheter 2014</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Kunnskapsdepartementet 2. mars 2014 med hjemmel i lov 3. juni 2005 nr. 37 om utdanningsstøtte (utdanningsstøtteloven) kapittel III.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2014-03-02-242/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 16. desember 2013 nr. 1610 om forrentning og tilbakebetaling av utdanningslån og tap av rettigheter 2014 gjøres følgende endringer:
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/2">§ 1-1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/2/avsnitt/1">§ 1-1. <i>Forrentning av utdanningslånet</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/3">Utdanningslånet blir satt rentebærende fra det første månedsskifte etter at låntakeren har avsluttet eller avbrutt utdanningen, eller når låntaker ikke lenger har rett til støtte etter forskrift om tildeling av utdanningsstøtte, første og fjerde del. Det blir også regnet renter når låntakeren er i utdanning, men ikke får støtte, se kapittel 11.</ledd>
+      <ledd id="/kapittel/i/ledd/4">Gjeld fra tidligere utdanning er rentebærende når låntakeren er i deltidsutdanning.</ledd>
+      <ledd id="/kapittel/i/ledd/5">Ved omgjøring av stipend til lån som følge av behovsprøving i henhold til kapittel 29 i tildelingsforskriften, rentebelastes dette lånet fra den datoen beløpet legges til låntakerens konto.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/6">§ 2-1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/6/avsnitt/1">§ 2-1. <i>Beregning av renter</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/7">Lån i Lånekassen har flytende rente med mindre låntaker inngår avtale om å binde renten.</ledd>
+      <ledd id="/kapittel/i/ledd/8">Utgangspunktet for beregning av renter på lån i Lånekassen er statens antatte lånekostnader for tilsvarende rentebindingstid med et påslag på ett prosentpoeng årlig effektiv rente. Staten har et begrenset antall utestående statspapirer (lån som enten er statskasseveksler eller statsobligasjoner), og det vil ofte være nødvendig å interpolere (finne en veid gjennomsnittsrente) mellom to statspapirer. Lånekostnaden anslås ved å observere markedskursen på Oslo Børs på slutten av dagen. Ved beregning av renten for en bestemt observasjonsperiode brukes kursobservasjoner på dager med oppgjør i den gitte perioden. Gjennomsnittet for alle daglige kursobservasjoner avrundes til nærmeste 0,1 prosentpoeng.</ledd>
+      <ledd id="/kapittel/i/ledd/9">De nominelle rentene på det enkelte lån til kunden beregnes ut fra en oppgitt årlig effektiv rente inkludert påslaget på ett prosentpoeng. Årlige effektive renter for faste og flytende renter før gebyrer beregnes av Finansdepartementet og publiseres på Lånekassens nettsider. Formelen for å beregne den årlige nominelle renten er:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/9/marg/1"><img src="/ltavd1/filer/grafikk/sf-20140302-0242-01-01.png" alt="ikon"/><br/></marg>
+<marg niv="1" id="/kapittel/i/ledd/9/marg/2">der:
+<br/></marg>
+<marg niv="1" id="/kapittel/i/ledd/9/marg/3">r<sub>n</sub> = årlig nominell rente i prosent</marg>
+<marg niv="1" id="/kapittel/i/ledd/9/marg/4">r<sub>e</sub> = årlig effektiv rente før gebyrer i prosent inkludert påslaget på 1,0 pst.</marg>
+<marg niv="1" id="/kapittel/i/ledd/9/marg/5">n = antall årlige renteinnbetalinger.</marg></ledd>
+      <ledd id="/kapittel/i/ledd/10">Ved beregning av de nominelle rentene legges det til grunn tolv terminer per år. Rentene oppgis med tre desimaler. Det er Lånekassen som fastsetter de nominelle rentene. Ved beregning av effektiv rente på det enkelte lån til kunden, kommer i tillegg gebyrer hjemlet i lov 3. juni 2005 nr. 37 om utdanningsstøtte § 8 og tilhørende forskrifter.</ledd>
+      <ledd id="/kapittel/i/ledd/11">Hovedstolen og kapitaliserte renter blir rentebelastet på etterskudd med en nominell perioderente som tilsvarer den årlige nominelle renten dividert med 365 eller 366 dager. Nye påløpte renter som ikke er betalt før hvert terminforfall blir kapitalisert etter forfallet.</ledd>
+      <ledd id="/kapittel/i/ledd/12">Utgangspunktet for fastsetting av flytende rente er gjennomsnittet av observerte markedsrenter over to måneder på statspapirer (statskasseveksler) med gjenstående løpetid fra null til tre måneder. Observasjonsperiodene starter ved årsskiftet, og ny rente trer i kraft to måneder etter endt observasjonsperiode.</ledd>
+      <ledd id="/kapittel/i/ledd/13">Lånekassen tilbyr fast rente hver annen måned, for perioder på tre, fem eller ti år. Utgangspunktet for fastsetting av de faste rentene er gjennomsnittet av observerte markedsrenter i løpet av én måned for statspapirer (obligasjoner) med tilsvarende løpetid. Observasjonsperiodene starter ved årsskiftet, og ny rente trer i kraft én måned etter endt observasjonsperiode. For eksempel er den faste renten fra 1. januar beregnet ut fra observasjoner i november. Ved avtale om binding av renten gjelder den aktuelle fastrenten fra én måned etter endt observasjonsperiode.</ledd>
+      <ledd id="/kapittel/i/ledd/14">Det blir regnet renter etter lov om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) av forfalt beløp fra dagen etter forfallsdato, og av hele lånet fra den datoen lånet er sagt opp som følge av mislighold.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/15">§ 2-5 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/15/avsnitt/1">§ 2-5. <i>Rentesrente</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/16">Det blir regnet rentesrente med den rentesatsen som gjelder. Renter som ikke blir betalt, blir satt rentebærende etter hvert forfall. For låntaker som har lån fra før 1. juli 1985, blir det ikke regnet renter av rentegjeld som er opparbeidet før 1. januar 1990. Det blir ikke regnet renter av rentegjeld som er påløpt etter reglene i lov om renter ved forsinket betaling m.m. (forsinkelsesrenteloven).
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/17">§ 3-1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/17/avsnitt/1">§ 3-1. <i>Fastsettelse av terminbeløp</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/18">Terminbeløpene fastsettes etter annuitetsprinsippet, slik at gjelden nedbetales i løpet av den fastsatte nedbetalingstiden.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/19">§ 4-2 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/19/avsnitt/1">§ 4-2. <i>Utvidet nedbetalingstid</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/20">Når det gis betalingsutsettelse for en termin, blir nedbetalingstiden normalt utvidet tilsvarende. Nedbetalingstiden kan ikke bli utvidet til mer enn 30 år.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/21">§ 6-1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/21/avsnitt/1">§ 6-1. <i>Terminforfall og betalingspause</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/22">Første terminforfall blir fastsatt til om lag sju måneder etter at utdanningen er avsluttet eller avbrutt, eller når låntakeren ikke lenger mottar støtte fra Lånekassen (betalingspause). Dette gjelder også ved ny tilbakebetalingsplan etter § 1-2.</ledd>
+      <ledd id="/kapittel/i/ledd/23">En låntaker som får støtte til deltidsutdanning og har lån det tidligere er utstedt tilbakebetalingsplan for, kan ikke få ny betalingspause.</ledd>
+      <ledd id="/kapittel/i/ledd/24">Utdanningsgjelden har månedlige terminforfall. Første månedlige terminforfall er 15. august 2014.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/25">§ 6-3 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/25/avsnitt/1">§ 6-3. <i>Gebyr ved førstegangs betalingsvarsel</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/26">Ved varsling om terminbeløp som forfaller, påløper et gebyr på 18 kroner. Gebyret påløper ikke for låntakere som benytter elektronisk varsling, eller for låntakere som ikke kan benytte elektronisk varsling på grunn av dokumentert synshemming.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/27">§ 7-1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/27/avsnitt/1">§ 7-1. <i>Følger av unnlatt innbetaling etter tredjegangs betalingsvarsel</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/28">Lånekassen kan kreve at hele gjelden blir innfridd før forfallstiden dersom låntakeren vesentlig misligholder låneavtalen. Dersom låntakeren ikke betaler innen fristen gitt i tredjegangsvarsel, fatter Lånekassen vedtak om oppsigelse av hele gjelden, og Statens innkrevingssentral overtar innkreving av den misligholdte gjelden. Oppsigelsen oppheves dersom låntakeren betaler eller får innvilget betalingsutsettelse for forfalte, ubetalte terminbeløp. Det vises til bestemmelsene om betalingslettelser i annen del. Ved oppheving av oppsigelsen trekker Lånekassen saken tilbake fra Statens innkrevingssentral.</ledd>
+      <ledd id="/kapittel/i/ledd/29">Det blir regnet renter etter lov om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) av forfalt beløp fra dagen etter forfallsdato, og av hele lånet fra den datoen lånet er sagt opp som følge av mislighold.</ledd>
+      <ledd id="/kapittel/i/ledd/30">Med gjeld menes lån, renter, gebyr og omkostninger.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/31">§ 14-1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/31/avsnitt/1">§ 14-1. <i>Betalingsutsettelse av terminbeløp</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/32">Det kan gis utsettelse med betaling av hele terminbeløp i inntil tre år, se likevel kapittel 4 og kapittel 17.
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/32/marg/1">§ 14-2 utgår.
+<br/></marg></ledd>
+      <ledd id="/kapittel/i/ledd/33">Endret § 14-3 blir § 14-2 og skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/33/avsnitt/1">§ 14-2. <i>Rett til betalingsutsettelse for terminbeløpene ved rentefritak</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/34">En låntaker som oppfyller kravene til rentefritak, har rett til betalingsutsettelse for terminbeløpene i den samme perioden, se likevel kapittel 4. Hvis det er sannsynlig at låntakeren vil få innvilget søknad om rentefritak, kan det gis betalingsutsettelse selv om likningen for den aktuelle perioden ikke foreligger.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/35">§ 15-1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/35/avsnitt/1">§ 15-1. <i>Rett til ettergivelse ved varig uførhet</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/36">Blir låntakeren minst 50 prosent ufør og får varig uførepensjon fra folketrygden eller tilsvarende pensjonsordning i utlandet, har låntakeren rett til ettergivelse av hele gjelden når person- og kapitalinntekten er kr 239 356 eller lavere. Når person- og kapitalinntekten er mellom kr 239 357 og kr 361 091, har låntakeren rett til nedskriving av gjelden og nedsettelse av terminbeløpet, se tabellen nedenfor. Grensene blir hevet med kr 12 969 per år for hvert barn som låntakeren forsørger, til og med det året barnet fyller 16 år. Inntekt som er registrert på låntakerens barn inngår ikke i behovsprøvingsgrunnlaget.</ledd>
+      <ledd id="/kapittel/i/ledd/37">All pensjon og inntekt må dokumenteres, og fødselsattest må sendes inn for eventuelle barn under 16 år som låntakeren forsørger.
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/37/marg/1"><i>Tabell over inntektsgrenser ved delvis ettergivelse ved uførhet for 2014</i></marg></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="26*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="25*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="25*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Person- og kapitalinntekt per år</i>
+              </entry>
+              <entry colname="2">
+                <i>Ny gjeld</i>
+              </entry>
+              <entry colname="3">
+                <i>Nytt terminbeløp</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="26*"/>
+          <colspec colname="2" align="right" valign="top" colwidth="25*"/>
+          <colspec colname="3" align="right" valign="top" colwidth="25*"/>
+          <tbody>
+            <row>
+              <entry colname="1">kr 239 356-269 700 </entry>
+              <entry colname="2">kr 55 673 </entry>
+              <entry colname="3">kr 1 780 </entry>
+            </row>
+            <row>
+              <entry colname="1">kr 269 701-299 094 </entry>
+              <entry colname="2">kr 64 926 </entry>
+              <entry colname="3">kr 2 142 </entry>
+            </row>
+            <row>
+              <entry colname="1">kr 299 095-330 113 </entry>
+              <entry colname="2">kr 74 313 </entry>
+              <entry colname="3">kr 2 525 </entry>
+            </row>
+            <row>
+              <entry colname="1">kr 330 114-361 091 </entry>
+              <entry colname="2">kr 83 566 </entry>
+              <entry colname="3">kr 2 877 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ledd id="/kapittel/i/ledd/38">Låntakere som har fått nedsatte terminbeløp før overgangen til månedlig forfall, skal også betale hver måned. Det tidligere nedsatte terminbeløpet deles på tre.
+<br/></ledd>
+      <ledd id="/kapittel/i/ledd/39">§ 25-1 skal lyde:</ledd>
+      <avsnitt id="/kapittel/i/ledd/39/avsnitt/1">§ 25-1. <i>Rentevilkår</i></avsnitt>
+      <ledd id="/kapittel/i/ledd/40">Fordringer som blir permanent overført til Statens innkrevingssentral, får lagt til renter etter den rentesatsen som blir fastsatt for lån i Lånekassen etter § 2-1 og § 2-5.
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/1">§ 25-2 Rentesrente utgår.
+<br/></marg>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/2">Etterfølgende bestemmelser forskyves tilsvarende slik at:
+<br/></marg>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/3">§ 25-3 Prioriteringsrekkefølge ved innbetaling blir</marg>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/4">§ 25-2 Prioriteringsrekkefølge ved innbetaling
+<br/></marg>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/5">§ 25-4 Statens innkrevingssentral og myndighetsutøvelse blir</marg>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/6">§ 25-3 Statens innkrevingssentral og myndighetsutøvelse
+<br/></marg>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/7">§ 25-5 Ettergivelse ved manglende betalingsevne blir</marg>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/8">§ 25-4 Ettergivelse ved manglende betalingsevne
+<br/></marg>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/9">§ 25-6 Ettergivelse ved død blir</marg>
+<marg niv="1" id="/kapittel/i/ledd/40/marg/10">§ 25-5 Ettergivelse ved død.</marg></ledd>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2014-03-02-242/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Endringene trer i kraft fra 10. juni 2014.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

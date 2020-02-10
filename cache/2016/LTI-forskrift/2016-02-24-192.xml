@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2016-02-24-192" type="lt" url="https://lovdata.no/lovtidend/forskrift/2016-02-24-192">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2016-02-24-192</id>
+    <dato>24.02.2016 nr. 192</dato>
+    <dato type="iso">2016-02-24</dato>
+    <publisert>I 2016 hefte 3 s 468</publisert>
+    <ikraft>24.05.2017, 24.11.2017</ikraft>
+    <ikraft type="iso">2017-05-24, 2017-11-24</ikraft>
+    <departement>Klima- og miljødepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1976-06-11-79-§4">L11.06.1976 nr. 79 § 4</ref>, <ref id="for-1990-09-07-730">F07.09.1990 nr. 730</ref></hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2013-11-18-143</endrer>
+    <rettet/>
+    <journalnummer>2016-0170</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Endr. i leketøyforskriften</korttittel>
+    <korttittel>4 Endr. i forskrift om sikkerhet ved leketøy (fastsettelse av grenseverdier for tre isothiazolinoner og formamid) (Nr. 192)</korttittel>
+    <tittel>Forskrift om endring i forskrift om sikkerhet ved leketøy (fastsettelse av grenseverdier for tre isothiazolinoner og formamid)</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Klima- og miljødepartementet 24. februar 2016 med hjemmel i lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4, jf. delegeringsvedtak 7. september 1990 nr. 730.
+<br/><b>EØS-henvisninger:</b> EØS-avtalen vedlegg II kap. XXIII nr. 1a (direktiv (EU) 2015/2115, direktiv (EU) 2015/2116 og direktiv (EU) 2015/2117).</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/i" url="https://lovdata.no/lovtidend/forskrift/2016-02-24-192/ki">
+      <kverdi>I</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/i/ledd/1">I forskrift 18. november 2013 nr. 1403 om sikkerhet ved leketøy (leketøyforskriften) gjøres følgende endringer:
+<br/>
+<marg niv="1" id="/kapittel/i/ledd/1/marg/1">I vedlegg II del VI tillegg C - Særlige grenseverdier for kjemikalier som brukes i leketøy beregnet på å brukes av barn under 36 måneder eller i annet leketøy beregnet på å puttes i munnen tilføyes følgende rader i tabellen:
+<br/></marg></ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="38*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="26*"/>
+          <tbody>
+            <row>
+              <entry colname="1">
+                <i>Stoff</i>
+              </entry>
+              <entry colname="2">
+                <i>CAS-nr.</i>
+              </entry>
+              <entry colname="3">
+                <i>Grenseverdi</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="3" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="38*"/>
+          <colspec colname="2" align="left" valign="top" colwidth="12*"/>
+          <colspec colname="3" align="left" valign="top" colwidth="26*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Formamid </entry>
+              <entry colname="2">75-12-7 </entry>
+              <entry colname="3">20 µg/m<sup>3</sup> (emisjonsgrense) etter maksimalt 28 dager fra oppstart av testing av utslipp fra materiale av skum som inneholder mer enn 200 mg/kg. Testing av utslipp kreves ikke for materiale som inneholder 200 mg/kg formamid eller mindre. </entry>
+            </row>
+            <row>
+              <entry colname="1">1,2-benzisothiazol-3(2H)-one (BIT) </entry>
+              <entry colname="2">2634-33-5 </entry>
+              <entry colname="3">5 mg/kg (innholdsgrense) i vannbaserte materialer i overenstemmelse med metodene fastlagt i EN 71-10:2005 og EN 71-11:2005 </entry>
+            </row>
+            <row>
+              <entry colname="1">Blanding av: 5-chloro-2-methyl-4-isothiazolin-3-one [EC nr. 247-500-7] (CMIT) og 2-methyl-2H-isothiazol-3-one [EC nr. 220-239-6] (MIT) (3:1) </entry>
+              <entry colname="2">55965-849 </entry>
+              <entry colname="3">1 mg/kg (innholdsgrense) i vannbaserte materialer </entry>
+            </row>
+            <row>
+              <entry colname="1">5-chloro-2-methyl-4-isothiazolin-3-one [EC nr. 247-500-7] (CMIT) </entry>
+              <entry colname="2">26172-55-4 </entry>
+              <entry colname="3">0,75 mg/kg (innholdsgrense) i vannbaserte materialer </entry>
+            </row>
+            <row>
+              <entry colname="1">2-methyl-2H-isothiazol-3-one [EC nr. 220-239-6] (MIT) </entry>
+              <entry colname="2">2682-20-4 </entry>
+              <entry colname="3">0,25mg/kg (innholdsgrense) i vannbaserte materialer </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/ii" url="https://lovdata.no/lovtidend/forskrift/2016-02-24-192/kii">
+      <kverdi>II</kverdi>
+      <ktittel/>
+      <ledd id="/kapittel/ii/ledd/1">Endringene i tillegg C i tabellen som gjelder formamid og 1,2-benzisothiazol-3(2H)-one (BIT) trer i kraft den 24. mai 2017. De øvrige tre endringene i tillegg C trer i kraft den 24. november 2017.</ledd>
+    </kapittel>
+  </tekst>
+</dokument>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2019-02-15-152" type="lt" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2019-02-15-152</id>
+    <dato>15.02.2019 nr. 152</dato>
+    <dato type="iso">2019-02-15</dato>
+    <ikraft>01.04.2019</ikraft>
+    <ikraft type="iso">2019-04-01</ikraft>
+    <departement>Finansdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1999-12-17-95-§3-3">L17.12.1999 nr. 95 § 3-3</ref>,</hjemmel>
+    <endrer type="ref">https://lovdata.no/for/2015-12-17-1731</endrer>
+    <rettet/>
+    <journalnummer>2019-0113</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om systemer for betalingstjenester</korttittel>
+    <tittel>Forskrift om systemer for betalingstjenester</tittel>
+    <marg niv="1" id="/marg/1"><b>Hjemmel:</b> Fastsatt av Finansdepartementet 15. februar 2019 med hjemmel i lov 17. desember 1999 nr. 95 om betalingssystemer m.v. § 3-3 første ledd annet punktum og lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 2-10a femte ledd.</marg>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Virkeområde</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Forskriften gjelder for banker, kredittinstitusjoner, e-pengeforetak, betalingsforetak, opplysningsfullmektiger og filialer av slike foretak med hovedsete i annen EØS-stat jf. finansforetaksloven § 2-3. Forskriften gjelder likevel ikke for betalingsforetak med begrenset tillatelse, jf. finansforetaksloven § 2-10 fjerde ledd.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p2">
+      <pverdi>§ 2.</pverdi>
+      <ptittel>Risikovurdering og etterlevelse av regelverk</ptittel>
+      <ledd id="/paragraf/2/ledd/1">Betalingstjenestetilbydere skal gjennomføre risiko- og sårbarhetsvurderinger før en ny betalingstjeneste lanseres og ved hendelser eller endringer av betydning for sikkerhetsnivået.</ledd>
+      <ledd id="/paragraf/2/ledd/2">Betalingstjenestetilbydere skal ha systemer og kontrollmekanismer for operasjonell og sikkerhetsmessig risiko knyttet til ytelsen av betalingstjenester, samt effektive fremgangsmåter for å håndtere hendelser, inkludert alvorlige operasjonelle hendelser og sikkerhetshendelser. Systemene skal sikre etterlevelse av regelverk, avtaler og interne rutiner. Datatrafikk i elektroniske betalingstjenester skal overvåkes for å sikre tilstrekkelig sikkerhetsnivå og kunne avdekke og hindre uautorisert bruk av tjenesten.</ledd>
+      <ledd id="/paragraf/2/ledd/3">Betalingstjenestetilbydere skal minst årlig gi Finanstilsynet en samlet vurdering av operasjonell risiko og sikkerhetsrisiko knyttet til tilbyderens betalingstjenester, samt om tilbyderens tiltak er tilstrekkelige.</ledd>
+      <ledd id="/paragraf/2/ledd/4">Betalingstjenestetilbydere skal minst årlig rapportere statistikk om svindel knyttet til betalingstjenestene til Finanstilsynet, på den måten Finanstilsynet angir.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p3">
+      <pverdi>§ 3.</pverdi>
+      <ptittel>Underretning om hendelser</ptittel>
+      <ledd id="/paragraf/3/ledd/1">Dersom hendelse som angitt i forskrift 21. mai 2003 nr. 630 om bruk av informasjons- og kommunikasjonsteknologi (IKT) § 9 tredje ledd påvirker eller kan påvirke betalingstjenestebrukernes økonomiske interesser, skal betalingstjenestetilbyderen uten ugrunnet opphold underrette brukerne om hendelsen. Meldingen skal omtale tiltak brukeren kan iverksette.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p4">
+      <pverdi>§ 4.</pverdi>
+      <ptittel>Krav til sikker ytelse av betalingstjenester</ptittel>
+      <ledd id="/paragraf/4/ledd/1">Betalingstjenestetilbydere skal på bakgrunn av risiko- og sårbarhetsvurderingen etablere tiltak for å sikre nødvendig konfidensialitet, integritet og tilgjengelighet for tjenestene. Gjeldende nasjonale standarder og internasjonalt anerkjente standarder skal følges.</ledd>
+      <ledd id="/paragraf/4/ledd/2">Betalingstjenestetilbyderen er ansvarlig for at tjenesten i sin helhet (ende til ende) er beskyttet gjennom logiske og fysiske sikringstiltak.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p5">
+      <pverdi>§ 5.</pverdi>
+      <ptittel>Krav til sterk kundeautentisering</ptittel>
+      <ledd id="/paragraf/5/ledd/1">En betalingstjenestetilbyder skal anvende sterk kundeautentisering når brukeren
+<liste id="/paragraf/5/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/paragraf/5/ledd/1/liste/a/avsnitt/1">logger seg inn på sin betalingskonto via nettet,</avsnitt></liste>
+<liste id="/paragraf/5/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/paragraf/5/ledd/1/liste/b/avsnitt/1">initierer en elektronisk betalingstransaksjon, eller</avsnitt></liste>
+<liste id="/paragraf/5/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/paragraf/5/ledd/1/liste/c/avsnitt/1">gjennomfører handling som kan innebære risiko for svindel eller annet misbruk.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/5/ledd/2">For transaksjoner som nevnt i første ledd bokstav b skal betalingstjenestetilbyderen ved elektroniske fjernbetalingstransaksjoner anvende sterk kundeautentisering som kobler transaksjonen til et spesifikt beløp og en spesifikk betalingsmottaker.</ledd>
+      <ledd id="/paragraf/5/ledd/3">Med «sterk kundeautentisering» menes en løsning basert på bruk av to eller flere elementer, som er uavhengig av hverandre slik at kompromitteringen av ett element likevel ikke vil påvirke de andre elementene.</ledd>
+      <ledd id="/paragraf/5/ledd/4">Betalingstjenestetilbyderen skal innføre egnede tiltak for å beskytte brukerens personlige sikkerhetsinformasjon. Videre skal foretaket sikre at kunden på en hensiktsmessig måte kan beskytte sine autentiseringskjennetegn, og foretaket skal etablere løsninger som gjør at kunden kan sperre videre bruk av autentiseringskjennetegn.</ledd>
+      <ledd id="/paragraf/5/ledd/5">Kontotilbyder skal gi betalingstjenestetilbydere som tilbyr avtale om betalingsfullmakt og kontoinformasjonstjeneste adgang til å benytte seg av autentiseringsprosedyrene kontotilbyder har gjort tilgjengelig for brukeren.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p6">
+      <pverdi>§ 6.</pverdi>
+      <ptittel>Betalingsfullmakttjenester</ptittel>
+      <ledd id="/paragraf/6/ledd/1">I forbindelse med betalingsfullmakttjenesten skal betalingsfullmektigen
+<liste id="/paragraf/6/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/a/avsnitt/1">ikke på noe tidspunkt ha rådighet over betalerens midler</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/b/avsnitt/1">ikke endre betalingsmottaker, beløp eller noe annet kjennetegn ved transaksjonen</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/c/avsnitt/1">legitimere seg overfor brukerens kontotilbyder, når de iverksetter en betaling</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/d/avsnitt/1">kommunisere på sikker måte med kontotilbyder, betaleren og betalingsmottakeren</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/e/avsnitt/1">sikre at betalingstjenestebrukerens personlige sikkerhetsinformasjon (autentiseringskjennetegn) ikke er tilgjengelig for andre enn brukeren og utstederen av den personlige sikkerhetsinformasjonen, og at sikkerhetsinformasjonen overføres gjennom sikre og effektive kanaler</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/f/avsnitt/1">ikke benytte, ha tilgang til eller lagre opplysninger for andre formål enn utføring av betalingsfullmakttjenesten i samsvar med betalerens uttrykkelige anmodning</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/g/avsnitt/1">ikke lagre sensitive betalingsopplysninger om betaleren</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/h"><lverdi>h)</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/h/avsnitt/1">ikke be betalingstjenestebrukeren om opplysninger som ikke er nødvendige for å utføre betalingsfullmakttjenesten</avsnitt></liste>
+<liste id="/paragraf/6/ledd/1/liste/i"><lverdi>i)</lverdi><avsnitt id="/paragraf/6/ledd/1/liste/i/avsnitt/1">sikre at eventuelle andre opplysninger om betalingstjenestebrukeren som er innhentet om betaleren i forbindelse med betalingstjenesten, bare gis til betalingsmottakeren og bare med betalerens uttrykkelige samtykke.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/6/ledd/2">Betalingsfullmektigen skal gjøre betalingstransaksjonens referanse tilgjengelig for kontotilbyderen ved iverksetting av en betalingsordre.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p7">
+      <pverdi>§ 7.</pverdi>
+      <ptittel>Kontoinformasjonstjenester</ptittel>
+      <ledd id="/paragraf/7/ledd/1">I forbindelse med kontoinformasjonstjenesten skal opplysningsfullmektigen
+<liste id="/paragraf/7/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/paragraf/7/ledd/1/liste/a/avsnitt/1">legitimere seg overfor brukerens kontotilbyder for hver kommunikasjonsøkt</avsnitt></liste>
+<liste id="/paragraf/7/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/paragraf/7/ledd/1/liste/b/avsnitt/1">kommunisere på sikker måte med kontotilbyder og brukeren</avsnitt></liste>
+<liste id="/paragraf/7/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/paragraf/7/ledd/1/liste/c/avsnitt/1">sikre at brukerens personlige sikkerhetsinformasjon (autentiseringskjennetegn) ikke er tilgjengelig for andre enn brukeren og utstederen av den personlige sikkerhetsinformasjonen, og at sikkerhetsinformasjonen overføres gjennom sikre og effektive kanaler</avsnitt></liste>
+<liste id="/paragraf/7/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/paragraf/7/ledd/1/liste/d/avsnitt/1">kun ha tilgang til opplysninger fra angitte betalingskontoer og tilknyttede betalingstransaksjoner</avsnitt></liste>
+<liste id="/paragraf/7/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/paragraf/7/ledd/1/liste/e/avsnitt/1">ikke be om sensitive betalingsopplysninger knyttet til betalingskontoen</avsnitt></liste>
+<liste id="/paragraf/7/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/paragraf/7/ledd/1/liste/f/avsnitt/1">ikke bruke, ha tilgang til eller lagre opplysninger for andre formål enn for å utføre kontoinformasjonstjenesten i samsvar med brukerens anmodning.</avsnitt></liste></ledd>
+    </paragraf>
+    <paragraf id="/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p8">
+      <pverdi>§ 8.</pverdi>
+      <ptittel>Kontotilbyderens plikter</ptittel>
+      <ledd id="/paragraf/8/ledd/1">I samsvar med reglene i forskrift om betalingstjenester § 5 første ledd, fastsatt med hjemmel i finansavtaleloven § 9a, skal utføring av avtale om betalingsfullmakt eller kontoinformasjonstjeneste ikke gjøres betinget på vilkår om at det foreligger en avtale mellom kontotilbyderen og betalingsfullmektigen eller opplysningsfullmektigen om utføring av tjenesten.</ledd>
+      <ledd id="/paragraf/8/ledd/2">Kontotilbyderen skal gi fullmaktforetaket nødvendig tilgang til brukerens egne internettbaserte betalingskontoer, med mindre det foreligger objektivt begrunnede og dokumenterte forhold som gir grunn til å tro at nødvendig autorisasjon for utføring av avtale om betalingsfullmakt eller kontoinformasjonstjeneste mangler. Kontotilbyder skal umiddelbart underrette Finanstilsynet dersom det har nektet betalings- eller opplysningsfullmektig tilgang. Underretningen skal angi begrunnelsen for at tilgangen ble nektet.</ledd>
+      <ledd id="/paragraf/8/ledd/3">Kontotilbyder skal ikke forskjellsbehandle mellom en betalingsordre som gis av betaler gjennom tilbyder som tilbyr avtale om betalingsfullmakt og betalingsordre som gis direkte fra betaler, særlig med hensyn til tidspunkt, prioritet og gebyrer, med mindre det foreligger saklig grunn.</ledd>
+      <ledd id="/paragraf/8/ledd/4">Kontotilbyder skal ikke forskjellsbehandle forespørsler om informasjon som gis gjennom en betalingstjenestetilbyder som tilbyr avtale om kontoinformasjonstjeneste, med mindre det foreligger saklig grunn.</ledd>
+      <ledd id="/paragraf/8/ledd/5">Kontotilbyderen skal umiddelbart etter mottak av betalingsordren fra betalingstjenestetilbyder som tilbyr avtale om betalingsfullmakt gjøre all relevant informasjon om initieringen og gjennomføringen av betalingstransaksjonen tilgjengelig for fullmektigen.</ledd>
+      <ledd id="/paragraf/8/ledd/6">Kontotilbyder skal kommunisere på sikker måte med betalingstjenestetilbydere som tilbyr avtale om betalingsfullmakt og kontoinformasjonstjeneste.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p9">
+      <pverdi>§ 9.</pverdi>
+      <ptittel>Kortbaserte betalingstransaksjoner</ptittel>
+      <ledd id="/paragraf/9/ledd/1">Kontotilbyder skal ved henvendelse fra en betalingstjenestetilbyder som har utstedt et kortbasert betalingsinstrument umiddelbart angi om transaksjonen knyttet til instrumentet har dekning i betalingskontoen, når denne er tilgjengelig på internett. Dette gjelder bare dersom betalingstjenestebrukeren har gitt sitt samtykke til at kontotilbyderen på anmodning fra en annen betalingstjenestetilbyder, som utsteder kortbaserte betalingsinstrumenter, kan bekrefte at det er dekning på betalingskontoen for et bestemt beløp som den kortbaserte betalingstransaksjonen gjelder.</ledd>
+      <ledd id="/paragraf/9/ledd/2">Kontotilbyders svar på om transaksjonen har dekning i kontoen skal være et bekreftende «ja» eller avkreftende «nei». Forespørselen skal ikke gi grunnlag for å reservere midler på betalerens betalingskonto.</ledd>
+      <ledd id="/paragraf/9/ledd/3">På forespørsel fra betalingstjenestebrukeren skal kontotilbyderen alltid gi betalingstjenestebrukeren opplysninger om identiteten til betalingstjenestetilbyder som har anmodet om slik dekningsbekreftelse og svaret som ble gitt av kontotilbyderen.</ledd>
+      <ledd id="/paragraf/9/ledd/4">Betalingstjenestetilbyderen skal legitimere seg overfor kontotilbyder før hver anmodning om bekreftelse, og kommunisere på sikker måte med kontotilbyder.</ledd>
+      <ledd id="/paragraf/9/ledd/5">Bestemmelsene i denne paragrafen gjelder ikke kortbaserte betalingsinstrumenter som er e-penger.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p10">
+      <pverdi>§ 10.</pverdi>
+      <ptittel>Tilgang til brukerens sikkerhetsinformasjon</ptittel>
+      <ledd id="/paragraf/10/ledd/1">Betalingstjenestetilbydere skal sikre at brukerens personlige sikkerhetsinformasjon til elektronisk identifikasjon og signatur ikke er tilgjengelig for andre enn brukeren og utstederen, når identifikasjonen eller signaturen gir tilgang til elektroniske tjenester fra offentlig sektor og som omfattes av regler som svarer til Europaparlaments- og Rådsforordning (EU) nr. 910/2014.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2019-02-15-152/p11">
+      <pverdi>§ 11.</pverdi>
+      <ledd id="/paragraf/11/ledd/1">
+        <b>Ikrafttredelse</b>
+      </ledd>
+      <ledd id="/paragraf/11/ledd/2">Forskriften trer i kraft 1. april 2019. Fra samme tidspunkt oppheves forskrift 17. desember 2015 nr. 1731 om systemer for betalingstjenester.</ledd>
+      <ledd id="/paragraf/11/ledd/3">Fra 14. september 2019 vil også regler i samsvar med delegert kommisjonsforordning (EU) 2018/389 gjelde.</ledd>
+    </paragraf>
+  </tekst>
+</dokument>

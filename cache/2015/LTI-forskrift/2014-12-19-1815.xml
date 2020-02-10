@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2014-12-19-1815" type="lt" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2014-12-19-1815</id>
+    <dato>19.12.2014 nr. 1815</dato>
+    <dato type="iso">2014-12-19</dato>
+    <publisert>I 2014 hefte 18 s 2958</publisert>
+    <ikraft>01.01.2015</ikraft>
+    <ikraft type="iso">2015-01-01</ikraft>
+    <departement>Landbruks- og matdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <rettet/>
+    <journalnummer>2014-1338</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om tilskudd for husdyrgjødsel til biogassanlegg</korttittel>
+    <korttittel>3 Forskrift om tilskudd for levering av husdyrgjødsel til biogassanlegg (Nr. 1815)</korttittel>
+    <tittel>Forskrift om tilskudd for levering av husdyrgjødsel til biogassanlegg</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Landbruks- og matdepartementet 19. desember 2014 med hjemmel i lov 12. mai 1995 nr. 23 om jord (jordlova) § 18.</redaksjonell_note>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Formål</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Formålet med forskriften er å stimulere til at husdyrgjødsel blir levert til biogassanlegg.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p2">
+      <pverdi>§ 2.</pverdi>
+      <ptittel>Virkeområde</ptittel>
+      <ledd id="/paragraf/2/ledd/1">Forskriften gjelder for alle typer husdyrgjødsel som leveres til biogassanlegg lokalisert i Norge.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p3">
+      <pverdi>§ 3.</pverdi>
+      <ptittel>Vilkår</ptittel>
+      <ledd id="/paragraf/3/ledd/1">Tilskudd etter denne forskriften kan gis til foretak som har husdyr og leverer husdyrgjødsel til biogassanlegg såfremt foretaket oppfyller grunnvilkår etter forskrift 19. desember 2014 nr. 1341 om produksjonstilskudd og avløsertilskudd i jordbruket, og kan dokumentere at anlegget som mottar og behandler gjødselen produserer biogass.</ledd>
+      <ledd id="/paragraf/3/ledd/2">Foretaket må ha gjødslingsplan der dette gjelder, jf. forskrift om gjødslingsplanlegging.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p4">
+      <pverdi>§ 4.</pverdi>
+      <ptittel>Beregning av tilskudd</ptittel>
+      <ledd id="/paragraf/4/ledd/1">Tilskudd gis per tonn husdyrgjødsel, vektet for vanninnholdet i gjødselen. Gjødsel med 0 vanninnhold danner referanse, og vektes med faktor 1. Faktoren avtar med økende andel vann etter formelen 1-x<sup>2</sup> der x er andelen vann i gjødselen. Satsen er kr 250 per tonn levert husdyrgjødsel.</ledd>
+      <ledd id="/paragraf/4/ledd/2">Der foretaket benytter eget biogassanlegg, kan tilskudd utmåles direkte ut fra foretakets dyretall såfremt all husdyrgjødsel benyttes i anlegget. Satsen for de ulike dyreslagene er:</ledd>
+      <table niv="1" frame="1">
+        <thgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="61*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="15*"/>
+          <tbody>
+            <row>
+              <entry colname="1"/>
+              <entry colname="2">
+                <i>Tilskudd (kr)</i>
+              </entry>
+            </row>
+          </tbody>
+        </thgroup>
+        <tgroup cols="2" rowsep="0" colsep="0">
+          <colspec colname="1" align="left" valign="top" colwidth="61*"/>
+          <colspec colname="2" align="center" valign="top" colwidth="15*"/>
+          <tbody>
+            <row>
+              <entry colname="1">Melkeku<fref id="/paragraf/4/fotnote/1">1</fref> </entry>
+              <entry colname="2">830 </entry>
+            </row>
+            <row>
+              <entry colname="1">Ammeku<fref id="1">1</fref> </entry>
+              <entry colname="2">475 </entry>
+            </row>
+            <row>
+              <entry colname="1">Ungdyr av storfe<fref id="1">1</fref> </entry>
+              <entry colname="2">285 </entry>
+            </row>
+            <row>
+              <entry colname="1">Avlsgris<fref id="1">1</fref> </entry>
+              <entry colname="2">170 </entry>
+            </row>
+            <row>
+              <entry colname="1">Slaktegris<fref id="2">2</fref> </entry>
+              <entry colname="2">17 </entry>
+            </row>
+            <row>
+              <entry colname="1">1000 Verpehøns og slaktekyllingmødre<fref id="1">1</fref> </entry>
+              <entry colname="2">5000 </entry>
+            </row>
+            <row>
+              <entry colname="1">1000 Livkylling<fref id="2">2</fref> </entry>
+              <entry colname="2">640 </entry>
+            </row>
+            <row>
+              <entry colname="1">1000 Slaktekylling<fref id="2">2</fref> </entry>
+              <entry colname="2">255 </entry>
+            </row>
+            <row>
+              <entry colname="1">1000 Slaktekalkun<fref id="2">2</fref> </entry>
+              <entry colname="2">3190 </entry>
+            </row>
+            <row>
+              <entry colname="1">1000 And<fref id="2">2</fref> </entry>
+              <entry colname="2">640 </entry>
+            </row>
+            <row>
+              <entry colname="1">Sau &gt; 1 år<fref id="1">1</fref> </entry>
+              <entry colname="2">90 </entry>
+            </row>
+            <row>
+              <entry colname="1">Mjølkegeit<fref id="1">1</fref> </entry>
+              <entry colname="2">90 </entry>
+            </row>
+            <row>
+              <entry colname="1">Hest<fref id="1">1</fref> </entry>
+              <entry colname="2">390 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <fotnote id="/paragraf/4/fotnote/1">1 Oppgitt faktor gjelder gjødselmengde per årsdyr.</fotnote>
+      <fotnote id="/paragraf/4/fotnote/2">2 Oppgitt faktor gjelder gjødselmengde per slaktede eller leverte dyr.</fotnote>
+      <ledd id="/paragraf/4/ledd/3">Dersom det omsøkte volum pr. år overstiger det beløp som er avsatt til ordningen, reduseres tilskuddssatsen relativt slik at forbruket tilpasses bevilgningen.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p5">
+      <pverdi>§ 5.</pverdi>
+      <ptittel>Søknad og utbetaling</ptittel>
+      <ledd id="/paragraf/5/ledd/1">Foretak som søker tilskudd skal benytte søknadsskjema fastsatt av Landbruksdirektoratet. Søknad om tilskudd må være levert innen 20. januar året etter at leveringen av husdyrgjødselen har funnet sted.</ledd>
+      <ledd id="/paragraf/5/ledd/2">Beregnet tilskudd under kr 1 000 utbetales ikke.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p6">
+      <pverdi>§ 6.</pverdi>
+      <ptittel>Administrasjon, dispensasjon og klage</ptittel>
+      <ledd id="/paragraf/6/ledd/1">Vedtak om tilskudd fattes av Landbruksdirektoratet.</ledd>
+      <ledd id="/paragraf/6/ledd/2">Landbruksdirektoratet kan i særlige tilfeller dispensere fra reglene i § 3 og § 5 første ledd.</ledd>
+      <ledd id="/paragraf/6/ledd/3">Vedtak fattet av Landbruksdirektoratet kan påklages til Landbruks- og matdepartementet.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p7">
+      <pverdi>§ 7.</pverdi>
+      <ptittel>Opplysningsplikt og kontroll</ptittel>
+      <ledd id="/paragraf/7/ledd/1">Søkere av tilskudd plikter å gi alle opplysninger som Landbruksdirektoratet finner nødvendig for å kunne forvalte ordningen.</ledd>
+      <ledd id="/paragraf/7/ledd/2">Landbruksdirektoratet fører tilsyn med at utbetalinger av tilskudd er riktig og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer tilskuddet. Landbruksdirektoratet kan foreta stedlig kontroll hos foretaket.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p8">
+      <pverdi>§ 8.</pverdi>
+      <ptittel>Avkorting</ptittel>
+      <ledd id="/paragraf/8/ledd/1">Hele eller deler av tilskuddet kan avkortes dersom foretaket uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknad, rapportering eller på annen måte, som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet. Tilskuddet kan også avkortes ved brudd på annet regelverk for jordbruksvirksomhet.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p9">
+      <pverdi>§ 9.</pverdi>
+      <ptittel>Tilbakebetaling og renter mv.</ptittel>
+      <ledd id="/paragraf/9/ledd/1">Dersom foretaket som følge av manglende oppfyllelse av vilkår i denne forskriften eller av andre grunner har mottatt en utbetaling som ikke er berettiget, kan det feilutbetalte beløpet kreves tilbakebetalt fra mottakeren eller motregnes i senere tilskuddsutbetaling. Tilsvarende gjelder differansen mellom utbetalt beløp og redusert tilskudd som følge av vedtak om avkorting etter § 8.</ledd>
+      <ledd id="/paragraf/9/ledd/2">For tilbakebetalingskrav kan det kreves renter når kravet ikke innfris ved forfall. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av det urettmessige tilskuddet. Størrelsen på renten følger rentesatsen fastsatt med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.</ledd>
+      <ledd id="/paragraf/9/ledd/3">Krav fra offentlig myndighet som utspringer av foretakets jordbruksvirksomhet kan motregnes i senere tilskuddsutbetalinger til foretaket.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2014-12-19-1815/p10">
+      <pverdi>§ 10.</pverdi>
+      <ptittel>Ikrafttredelse</ptittel>
+      <ledd id="/paragraf/10/ledd/1">Denne forskriften trer i kraft fra 1. januar 2015.</ledd>
+    </paragraf>
+  </tekst>
+</dokument>

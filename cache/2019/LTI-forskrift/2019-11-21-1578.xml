@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2019-11-21-1578" type="lt" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2019-11-21-1578</id>
+    <dato>21.11.2019 nr. 1578</dato>
+    <dato type="iso">2019-11-21</dato>
+    <ikraft>21.11.2019</ikraft>
+    <ikraft type="iso">2019-11-21</ikraft>
+    <departement>Kommunal- og moderniseringsdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <endrer type="ref">https://lovdata.no/for/2005-11-21-1296</endrer>
+    <rettet/>
+    <journalnummer>2019-0989</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Selvdeklarasjonsforskriften</korttittel>
+    <tittel>Forskrift om selvdeklarasjon av ordninger for elektronisk identifikasjon (selvdeklarasjonsforskriften)</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt av Kommunal- og moderniseringsdepartementet 21. november 2019 med hjemmel i lov 15. juni 2018 nr. 44 om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester) § 2.</redaksjonell_note>
+    <kapittel type="del" id="/del/i" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/di">
+      <kverdi>Del I</kverdi>
+      <ktittel> formål og definisjoner</ktittel>
+      <paragraf id="/del/i/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/di/p1">
+        <pverdi>§ 1.</pverdi>
+        <ptittel>Formål og virkeområde</ptittel>
+        <ledd id="/del/i/paragraf/1/ledd/1">Formålet med forskriften er å definere sikkerhetsnivåer og tilsynsregime for elektroniske identifikasjonsordninger (eID-ordninger) og dermed øke tilliten til og bruken av elektroniske identifikasjonstjenester i Norge.</ledd>
+        <ledd id="/del/i/paragraf/1/ledd/2">Forskriften skal også legge til rette for grenseoverskridende bruk av elektronisk identifikasjon, ved at selvdeklarerte eID-ordninger kan meldes til EU-kommisjonen og deretter omfattes av anerkjennelsesplikten i eIDAS-forordningen artikkel 6.</ledd>
+        <ledd id="/del/i/paragraf/1/ledd/3">Forskriften etablerer en selvdeklarasjonsordning hvor tilbydere av eID-ordninger ved selvdeklarasjon kan melde fra til et oppnevnt tilsynsorgan om at forskriftens krav er oppfylt.</ledd>
+        <ledd id="/del/i/paragraf/1/ledd/4">Forskriften gjelder for tilbydere som er etablert i Norge.</ledd>
+      </paragraf>
+      <paragraf id="/del/i/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/di/p2">
+        <pverdi>§ 2.</pverdi>
+        <ptittel>Definisjoner</ptittel>
+        <liste id="/del/i/paragraf/2/ledd/1/liste/a">
+          <lverdi>a.</lverdi>
+          <avsnitt id="/del/i/paragraf/2/ledd/1/liste/a/avsnitt/1"><i>eIDAS-forordningen:</i> forordning om elektronisk identifisering og tillitstjenester for elektroniske transaksjoner i det indre markedet (forordning (EU) nr. 910/2014)</avsnitt>
+        </liste>
+        <liste id="/del/i/paragraf/2/ledd/1/liste/b">
+          <lverdi>b.</lverdi>
+          <avsnitt id="/del/i/paragraf/2/ledd/1/liste/b/avsnitt/1"><i>identifikasjonsnivåforskriften:</i> Kommisjonens gjennomføringsforordning (EU) 2015/1502 av 8. september 2015 til eIDAS-forordningen, jf. forskrift 21. november 2019 nr. 1577 om tillitstjenester for elektroniske transaksjoner § 6</avsnitt>
+        </liste>
+        <liste id="/del/i/paragraf/2/ledd/1/liste/c">
+          <lverdi>c.</lverdi>
+          <avsnitt id="/del/i/paragraf/2/ledd/1/liste/c/avsnitt/1"><i>eID:</i> elektronisk identitetsbevis, tilsvarer elektronisk identifikasjonsmiddel i eIDAS-forordningen</avsnitt>
+        </liste>
+        <liste id="/del/i/paragraf/2/ledd/1/liste/d">
+          <lverdi>d.</lverdi>
+          <avsnitt id="/del/i/paragraf/2/ledd/1/liste/d/avsnitt/1"><i>eID-ordninger:</i> ordninger for elektronisk identifikasjon.</avsnitt>
+        </liste>
+        <marg niv="1" id="/del/i/paragraf/2/ledd/1/liste/d/avsnitt/1/marg/1">Med mindre annet fremgår av sammenhengen gjelder eIDAS-forordningens definisjoner i artikkel 3.</marg>
+      </paragraf>
+    </kapittel>
+    <kapittel type="del" id="/del/ii" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii">
+      <kverdi>Del II</kverdi>
+      <ktittel> selvdeklarasjon av eID-ordninger</ktittel>
+      <kapittel type="del" id="/del/ii/overskrift/1" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?1">
+        <kverdi/>
+        <ktittel> Krav til selvdeklarerte eID-ordninger</ktittel>
+        <paragraf id="/del/ii/overskrift/1/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?1/p3">
+          <pverdi>§ 3.</pverdi>
+          <ptittel>Selvdeklarasjon - eID nivå høyt</ptittel>
+          <ledd id="/del/ii/overskrift/1/paragraf/3/ledd/1">Tilbyder av eID-ordning skal oppfylle alle krav som er beskrevet for nivå høyt i denne forskriftens del III.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/1/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?1/p4">
+          <pverdi>§ 4.</pverdi>
+          <ptittel>Selvdeklarasjon - eID nivå betydelig</ptittel>
+          <ledd id="/del/ii/overskrift/1/paragraf/4/ledd/1">Tilbyder av eID-ordning skal oppfylle alle krav som er beskrevet for nivå betydelig i denne forskriftens del III.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/1/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?1/p5">
+          <pverdi>§ 5.</pverdi>
+          <ptittel>Selvdeklarasjon - eID nivå lavt</ptittel>
+          <ledd id="/del/ii/overskrift/1/paragraf/5/ledd/1">Tilbyder av eID-ordning skal oppfylle alle krav som er beskrevet for nivå lavt i denne forskriftens del III.</ledd>
+        </paragraf>
+      </kapittel>
+      <kapittel type="del" id="/del/ii/overskrift/2" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?2">
+        <kverdi/>
+        <ktittel> Melding om frivillig selvdeklarasjon mv.</ktittel>
+        <paragraf id="/del/ii/overskrift/2/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?2/p6">
+          <pverdi>§ 6.</pverdi>
+          <ptittel>Tilsyn</ptittel>
+          <ledd id="/del/ii/overskrift/2/paragraf/6/ledd/1">Tilsynsorgan etter denne forskriften skal være Nasjonal kommunikasjonsmyndighet.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/2/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?2/p7">
+          <pverdi>§ 7.</pverdi>
+          <ptittel>Krav til meldingens innhold</ptittel>
+          <ledd id="/del/ii/overskrift/2/paragraf/7/ledd/1">Selvdeklarasjon etter denne forskriften skal sendes tilsynsorganet og inneholde beskrivelse av hvordan kravene etter § 3, § 4 eller § 5 er oppfylt.</ledd>
+          <ledd id="/del/ii/overskrift/2/paragraf/7/ledd/2">Tilsynsorganet skal utarbeide standardskjema som skal benyttes ved melding etter første ledd.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/2/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?2/p8">
+          <pverdi>§ 8.</pverdi>
+          <ptittel>Meldeplikt om endringer i opplysninger gitt etter § 7</ptittel>
+          <ledd id="/del/ii/overskrift/2/paragraf/8/ledd/1">Endrede forhold som påvirker opplysninger gitt etter § 7 skal uten ugrunnet opphold meldes til tilsynsorganet.</ledd>
+        </paragraf>
+      </kapittel>
+      <kapittel type="del" id="/del/ii/overskrift/3" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?3">
+        <kverdi/>
+        <ktittel> Tilsynsorganets oppgaver mv.</ktittel>
+        <paragraf id="/del/ii/overskrift/3/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?3/p9">
+          <pverdi>§ 9.</pverdi>
+          <ptittel>Tilsynets kontrolloppgaver</ptittel>
+          <ledd id="/del/ii/overskrift/3/paragraf/9/ledd/1">Tilsynsorganet skal kontrollere at mottatt melding etter § 7 er fullstendig og at kravene etter § 3, § 4 eller § 5 er oppfylt.</ledd>
+          <ledd id="/del/ii/overskrift/3/paragraf/9/ledd/2">Når særlige grunner tilsier det kan tilsynsorganet gjøre unntak fra bestemmelsene i denne forskrift.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/3/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?3/p10">
+          <pverdi>§ 10.</pverdi>
+          <ptittel>Krav om tilleggsinformasjon og revisjon</ptittel>
+          <ledd id="/del/ii/overskrift/3/paragraf/10/ledd/1">Dersom tilsynsorganet finner at tilbyder av eID-ordning ikke oppfyller kravene etter § 3, § 4 eller § 5, eller at meldingen etter § 7 ikke er fullstendig, kan tilsynsorganet pålegge tilbyder av eID-ordning innen en angitt tidsfrist å dokumentere at kravene er oppfylt eller å komplettere meldingen. Dette kan skje ved fremleggelse av dokumentasjon eller på annen måte som tilsynsorganet finner hensiktsmessig.</ledd>
+          <ledd id="/del/ii/overskrift/3/paragraf/10/ledd/2">Tilsynsorganet kan også kreve at tilbyder av eID-ordning foretar en revisjon for å vise at kravene i § 3, § 4 eller § 5 er oppfylt. Revisjonen skal foretas av en uavhengig tredjepart godtatt av tilsynsorganet og resultatet av revisjonen skal sendes tilsynsorganet.</ledd>
+          <ledd id="/del/ii/overskrift/3/paragraf/10/ledd/3">Tilbyder av eID-ordning kan pålegges å betale for revisjonen.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/3/paragraf/11" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?3/p11">
+          <pverdi>§ 11.</pverdi>
+          <ptittel>Tilsynsorganets kompetanse</ptittel>
+          <ledd id="/del/ii/overskrift/3/paragraf/11/ledd/1">Tilsynsorganet for selvdeklarasjonsordningen har kompetanse til å avgjøre om kravene i denne forskriftens del III er oppfylt. Tilsynsorganet skal vurdere alle relevante forhold, både eventuelle sikkerhetsbrudd og andre erfaringer med aktuelle løsninger.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/3/paragraf/12" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?3/p12">
+          <pverdi>§ 12.</pverdi>
+          <ptittel>Tilsynsorganets dispensasjonsadgang</ptittel>
+          <ledd id="/del/ii/overskrift/3/paragraf/12/ledd/1">Tilsynet kan dispensere fra kravene i denne forskriftens del III, dersom en risikovurdering viser at avviket fra kravet etter tilsynets mening må anses kompensert av andre risikoreduserende tiltak, slik at løsningen samlet sett likevel tilfredsstiller det aktuelle sikkerhetsnivået.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/3/paragraf/13" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?3/p13">
+          <pverdi>§ 13.</pverdi>
+          <ptittel>Offentliggjøring av informasjon om tilbyder av eID-ordning mv.</ptittel>
+          <ledd id="/del/ii/overskrift/3/paragraf/13/ledd/1">Tilsynsorganet skal publisere en liste over selvdeklarerte eID-ordninger med opplysninger om hvilke eID-nivåer som tilbydere av eID-ordninger har selvdeklarert etter denne forskriften, sammen med mottatt melding etter § 7.</ledd>
+          <ledd id="/del/ii/overskrift/3/paragraf/13/ledd/2">Tilsynsorganet kan nekte publisering etter første ledd dersom mottatt melding ikke oppfyller kravene i § 7, eller at det er åpenbart for tilsynsorganet at kravene etter § 3, § 4 eller § 5 ikke er oppfylt.</ledd>
+          <ledd id="/del/ii/overskrift/3/paragraf/13/ledd/3">Tilsynsorganet skal fjerne aktuelt eID-nivå fra publisert liste etter første ledd dersom tilbyder av eID-ordning ikke etterkommer kravene i § 8 eller tilsynsorganets pålegg etter § 10.</ledd>
+        </paragraf>
+      </kapittel>
+      <kapittel type="del" id="/del/ii/overskrift/4" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?4">
+        <kverdi/>
+        <ktittel> Øvrige bestemmelser</ktittel>
+        <paragraf id="/del/ii/overskrift/4/paragraf/14" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?4/p14">
+          <pverdi>§ 14.</pverdi>
+          <ptittel>Tvangsmulkt</ptittel>
+          <ledd id="/del/ii/overskrift/4/paragraf/14/ledd/1">Tilsynsorganet kan ilegge tilbyder av eID-ordning tvangsmulkt etter lov om elektroniske tillitstjenester § 4. Tvangsmulkt kan også ilegges næringsdrivende som i salgs- og markedsføringsøyemed uriktig angir at de tilbyr en ordning som er oppført på liste publisert etter § 13 første ledd.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/4/paragraf/15" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?4/p15">
+          <pverdi>§ 15.</pverdi>
+          <ptittel>Sektoravgift</ptittel>
+          <ledd id="/del/ii/overskrift/4/paragraf/15/ledd/1">Tilbyder av eID-ordning som sender inn melding etter § 7 kan pålegges å betale årlig sektoravgift til tilsynsorganet etter lov om elektroniske tillitstjenester § 7 og forskrift 20. mars 2017 nr. 386 om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndighet § 7.</ledd>
+          <ledd id="/del/ii/overskrift/4/paragraf/15/ledd/2">Tilsynsorganet kan nekte oppføring på liste publisert etter § 13 første ledd før sektoravgiften er betalt.</ledd>
+        </paragraf>
+        <paragraf id="/del/ii/overskrift/4/paragraf/16" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/dii/?4/p16">
+          <pverdi>§ 16.</pverdi>
+          <ptittel>Klageinstans</ptittel>
+          <ledd id="/del/ii/overskrift/4/paragraf/16/ledd/1">Kommunal- og moderniseringsdepartementet er klageinstans for tilsynsorganets enkeltvedtak fastsatt i henhold til § 9 til § 14.</ledd>
+          <ledd id="/del/ii/overskrift/4/paragraf/16/ledd/2">Klage på fastsatt sektoravgift avgjøres av Kommunal- og moderniseringsdepartementet etter forskrift 20. mars 2017 nr. 386 om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndighet.</ledd>
+        </paragraf>
+      </kapittel>
+    </kapittel>
+    <kapittel type="del" id="/del/iii" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/diii">
+      <kverdi>Del III</kverdi>
+      <ktittel> Sikkerhetsnivåer for ordninger for elektronisk identifikasjon for fysiske personer</ktittel>
+      <paragraf id="/del/iii/paragraf/17" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/diii/p17">
+        <pverdi>§ 17.</pverdi>
+        <ptittel>Gjenbruk av kravsettet i identifikasjonsnivåforskriften (Kommisjonens gjennomføringsforordning (EU) 2015/1502)</ptittel>
+        <ledd id="/del/iii/paragraf/17/ledd/1">Alle kravene i identifikasjonsnivåforskriften gjelder med de tilpasninger som fremgår nedenfor.</ledd>
+        <ledd id="/del/iii/paragraf/17/ledd/2">Henvisninger i identifikasjonsnivåforskriften pkt. 2.1.2 til bekreftelser fra et samsvarsvurderingsorgan tilfredsstilles også av selvdeklarerte løsninger etter denne forskrift.</ledd>
+      </paragraf>
+      <paragraf id="/del/iii/paragraf/18" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/diii/p18">
+        <pverdi>§ 18.</pverdi>
+        <ptittel>Identifikasjonen skal gi entydig kobling til Folkeregistrert person</ptittel>
+        <ledd id="/del/iii/paragraf/18/ledd/1">Identitetspåstanden må gjelde en person som finnes i Folkeregisteret. eID-tilbyderen må kunne gi en sikker og entydig kobling til denne personens identifikator i Folkeregisteret (fødsels- eller d-nummer). Det at koblingen er sikker og entydig innebærer at koblingen ikke kan baseres på personens navn eller andre kjennetegn som kan være i bruk av flere personer.</ledd>
+      </paragraf>
+      <paragraf id="/del/iii/paragraf/19" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/diii/p19">
+        <pverdi>§ 19.</pverdi>
+        <ptittel>Tilpasninger for nivå høyt</ptittel>
+        <ledd id="/del/iii/paragraf/19/ledd/1">For identifikasjonsnivåforskriften pkt. 2.1.2 høyt nr. 1 bokstav a gjelder følgende tilpasning:
+<liste id="/del/iii/paragraf/19/ledd/1/liste/1"><lverdi>-</lverdi><avsnitt id="/del/iii/paragraf/19/ledd/1/liste/1/avsnitt/1">Som gyldig identitetsbevis regnes pass eller nasjonalt identitetskort. For utenlandsk identitetsbevis må entydig knytning til norsk identitetsnummer godtgjøres.</avsnitt></liste>
+<liste id="/del/iii/paragraf/19/ledd/1/liste/2"><lverdi>-</lverdi><avsnitt id="/del/iii/paragraf/19/ledd/1/liste/2/avsnitt/1">Kravet er også oppfylt for eID på nivå 4 iht. rammeverket fra 2008 for autentisering og uavviselighet.</avsnitt></liste></ledd>
+        <ledd id="/del/iii/paragraf/19/ledd/2">For identifikasjonsnivåforskriften 2.3.1 høyt nr. 2 gjelder følgende presisering:
+<liste id="/del/iii/paragraf/19/ledd/2/liste/1"><lverdi>-</lverdi><avsnitt id="/del/iii/paragraf/19/ledd/2/liste/1/avsnitt/1">Kravet er ikke til hinder for at identitetsinformasjon, f.eks. fødselsnummer, gjøres tilgjengelig på annen måte, eksempelvis i oppslagstjeneste eller at det lagres i sertifikatet for PKI-baserte eID-er. Kravet i 2.3.1 nr. 2 høyt gjelder utlevering av identitetsinformasjon ved autentisering.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/del/iii/paragraf/20" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/diii/p20">
+        <pverdi>§ 20.</pverdi>
+        <ptittel>Tilpasninger for nivå betydelig</ptittel>
+        <ledd id="/del/iii/paragraf/20/ledd/1">For identifikasjonsnivåforskriften pkt. 2.1.2 nivå betydelig nr. 1 gjelder følgende tilpasning:
+<liste id="/del/iii/paragraf/20/ledd/1/liste/1"><lverdi>-</lverdi><avsnitt id="/del/iii/paragraf/20/ledd/1/liste/1/avsnitt/1">Kravet til å besitte et bevis kan oppfylles ved at personen godtgjør at han/hun har tilgang til en adresse (postal eller elektronisk) som er registrert på personen i det norske Folkeregisteret eller annet register som gir tilstrekkelig sikkerhet, eksempelvis kontaktregisteret. I tillegg må det finnes tiltak for å sikre at riktig person tar eID-en i bruk, typisk varsling til annen eller samme adresse.</avsnitt></liste></ledd>
+        <ledd id="/del/iii/paragraf/20/ledd/2">For identifikasjonsnivåforskriften pkt. 2.4.6. nivå betydelig gjelder følgende tilpasning:
+<liste id="/del/iii/paragraf/20/ledd/2/liste/1"><lverdi>-</lverdi><avsnitt id="/del/iii/paragraf/20/ledd/2/liste/1/avsnitt/1">Kravet kan eksempelvis oppnås ved bruk av sikrede maskinvaremoduler (HSM) eller kombinasjoner av tilgangsstyring, logging, overvåking og tjenestedeling. Kravet tar sikte på å hindre at autoriserte personer alene og uoppdaget kan kompromittere prosessene.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/del/iii/paragraf/21" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/diii/p21">
+        <pverdi>§ 21.</pverdi>
+        <ptittel>Tilpasninger for nivå lavt</ptittel>
+        <ledd id="/del/iii/paragraf/21/ledd/1">For identifikasjonsnivåforskriften pkt. 2.1.2 skal også kravene for nivå betydelig tilfredsstilles, jf. § 20 første ledd.</ledd>
+        <ledd id="/del/iii/paragraf/21/ledd/2">For identifikasjonsnivåforskriften 2.4.7 gjelder følgende presisering:
+<liste id="/del/iii/paragraf/21/ledd/2/liste/1"><lverdi>-</lverdi><avsnitt id="/del/iii/paragraf/21/ledd/2/liste/1/avsnitt/1">Kravet kan eksempelvis oppfylles ved revisjon iht. ISO 17065, som bl.a. dekker tillitstjenester, med relevante tilleggskrav i ETSI 319403.</avsnitt></liste></ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="del" id="/del/iv" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/div">
+      <kverdi>Del IV</kverdi>
+      <ktittel> ikrafttredelse</ktittel>
+      <paragraf id="/del/iv/paragraf/22" url="https://lovdata.no/lovtidend/forskrift/2019-11-21-1578/div/p22">
+        <pverdi>§ 22.</pverdi>
+        <ptittel>Ikrafttredelse og overgangsordning</ptittel>
+        <ledd id="/del/iv/paragraf/22/ledd/1">Forskriften trer i kraft straks.</ledd>
+        <ledd id="/del/iv/paragraf/22/ledd/2">Seks måneder etter denne forskriftens ikrafttredelse oppheves forskrift 21. november 2005 nr. 1296 om frivillige selvdeklarasjonsordninger for sertifikatutstedere.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

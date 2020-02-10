@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2015-12-18-1616" type="lt" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2015-12-18-1616</id>
+    <dato>18.12.2015 nr. 1616</dato>
+    <dato type="iso">2015-12-18</dato>
+    <publisert>I 2015 hefte 15 s 2465</publisert>
+    <ikraft>01.01.2017</ikraft>
+    <ikraft type="iso">2017-01-01</ikraft>
+    <departement>Finansdepartementet</departement>
+    <etat/>
+    <gjelder>Norge</gjelder>
+    <hjemmel/>
+    <rettet/>
+    <journalnummer>2015-1257</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Kassasystemforskrifta</korttittel>
+    <korttittel>3 Forskrift om krav til kassasystem (kassasystemforskrifta) (Nr. 1616)</korttittel>
+    <tittel>Forskrift om krav til kassasystem (kassasystemforskrifta)</tittel>
+    <marg niv="1" id="/marg/1"><b>Heimel:</b> Fastsett av Skattedirektoratet 18. desember 2015 med heimel i lov 19. juni 2015 nr. 58 om krav til kassasystem (kassasystemlova) § 9.</marg>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Virkefeltet til forskrifta. Definisjonar</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1-1" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k1/p1-1">
+        <pverdi>§ 1-1.</pverdi>
+        <ptittel>Virkefelt</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-1/ledd/1">Forskrifta utfyller og gjennomfører føresegnene i kassasystemlova.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-2" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k1/p1-2">
+        <pverdi>§ 1-2.</pverdi>
+        <ptittel>Definisjonar</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-2/ledd/1">I denne forskrifta tyder
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/a/avsnitt/1"><i>kassaskuff:</i> oppbevaringsplass for betalingsmiddel som blir registrert i eit kassasystem,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/b/avsnitt/1"><i>kassapunkt:</i> fysisk plassering av kassasystem og terminaler eller anna som er tilkopla kassasystem og kor sal blir registrert,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/c/avsnitt/1"><i>opning av kassaskuff (nullinnslag):</i> integrert kassaskuff opnast utan at det har skjedd nokon registrering av kontantsal eller tilbakebetaling,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/d/avsnitt/1"><i>salskvittering:</i> utskrift frå kassasystem som viser gjennomført kontantsalstransaksjon,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/e/avsnitt/1"><i>returkvittering:</i> utskrift frå kassasystem som viser at den salskvitteringa som er skrive ut tidlegare inneheld feilaktige opplysningar eller opplysningar om tilbakebetaling for prisjusterte eller returnerte varer eller tenester,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/f/avsnitt/1"><i>kopikvittering:</i> kopi av salskvittering,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/g/avsnitt/1"><i>pro forma kvittering:</i> utskrift frå kassasystem som viser foreløpig registrert sal,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/h/avsnitt/1"><i>utleveringskvittering:</i> stadfesting av kredittsal,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/i/avsnitt/1"><i>kvittering frå betalingsterminal:</i> utskrift frå betalingsterminal som viser bruk av betalingskort,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/j/avsnitt/1"><i>kontinuerleg bruk:</i> all bruk av kassasystemet, blant anna registrering av sal mv. og utskrift av kvitteringar som nemnt i bokstavane d til h, endring av priser, korreksjonar, opningar av kassaskuff (nullinnslag), utskrift av rapportar og liknande, samt endringar av programvare og førebels tilkopling av ekstern programvare,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/k/avsnitt/1"><i>elektronisk journal:</i> dokumentasjon av den kontinuerlege bruken av kassasystemet i elektronisk form,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/l"><lverdi>l)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/l/avsnitt/1"><i>Z-rapport:</i> samanstilling av dagens registreringar i kassasystemet,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/m"><lverdi>m)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/m/avsnitt/1"><i>X-rapport:</i> samanstilling av registreringar i kassasystemet sidan førre Z-rapport,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/n"><lverdi>n)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/n/avsnitt/1"><i>grand total retur:</i> akkumulert verdi av returar og andre postar som har redusert kontantsalet,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/o"><lverdi>o)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/o/avsnitt/1"><i>grand total sal:</i> akkumulert kontantsal, utan frådrag av grand total retur,</avsnitt></liste>
+<liste id="/kapittel/1/paragraf/1-2/ledd/1/liste/p"><lverdi>p)</lverdi><avsnitt id="/kapittel/1/paragraf/1-2/ledd/1/liste/p/avsnitt/1"><i>grand total netto:</i> grand total sal redusert for grand total retur.</avsnitt></liste></ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/1-3" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k1/p1-3">
+        <pverdi>§ 1-3.</pverdi>
+        <ptittel>Tilpassing av kassasystem</ptittel>
+        <ledd id="/kapittel/1/paragraf/1-3/ledd/1">Med tilpassing av kassasystem, jf. kassasystemlova § 2 bokstav e) meinast tilpassingar som påverkar kassasystemet sine funksjonar eller oppbygging.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Krav til kassasystem og systemskildring</ktittel>
+      <paragraf id="/kapittel/2/paragraf/2-1" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k2/p2-1">
+        <pverdi>§ 2-1.</pverdi>
+        <ptittel>Systemskildring</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/1">(1) Av systemskildringa som nemnt i kassasystemlova § 3 andre ledd skal det gå fram korleis kassasystemet kan kontrollerast. Dersom kassasystemet oppbevarer dokumentasjon av bokførte opplysningar, og det er nødvendig for å kunne kontrollere bokførte opplysningar på ein enkel måte, skal systemskildringa også dokumentere kontrollsporet, blant anna korleis systemgenererte poster kan etterprøvast.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-1/ledd/2">(2) Dersom eit kassasystem vert endra ved at det blir tilført nye funksjonar eller det blir gjort endringar som påverkar oppbygginga av systemet, skal det enten utarbeidast eit tillegg til systemskildringa over dei endringane som er gjort eller ei heilt ny systemskildring. Dokumentasjonen skal følgje med kassasystemet.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-2" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k2/p2-2">
+        <pverdi>§ 2-2.</pverdi>
+        <ptittel>Kassaskuff</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-2/ledd/1">Kassasystemet skal ha integrert kassaskuff. Dette gjeld likevel ikkje dersom kassasystemet har funksjonar for å registrere kontantsal mv. på den enkelte operatør og salet ikkje blir registrert frå faste kassapunkt. Kravet gjeld heller ikkje ved kassapunkt kor det ikkje er mogeleg å betale med setlar og myntar.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-3" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k2/p2-3"><pverdi>§ 2-3.</pverdi><ptittel>Skrivar mv</ptittel>.
+<ledd id="/kapittel/2/paragraf/2-3/ledd/1">(1) Kassasystemet skal ved det enkelte kassapunkt vere utstyrt med ein skrivar. Skrivaren skal kunne produsere dokumentasjon som nemnt i § 1-2 bokstavane d til h og k til m.</ledd><ledd id="/kapittel/2/paragraf/2-3/ledd/2">(2) Kassasystemet skal for det enkelte kassapunkt vere utstyrt med ein eksportfunksjon, slik at det er mogeleg å overføre opplysningane i elektronisk journal til eksternt lagringsmedium.</ledd></paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-4" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k2/p2-4">
+        <pverdi>§ 2-4.</pverdi>
+        <ptittel>Krav til språk</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-4/ledd/1">Systemskildring, programvare, servicemanual, programmeringsverktøy og programmeringsmanual skal vere på norsk, svensk, dansk eller engelsk. Det same gjeld tekst på kvitteringar, X-rapport og Z-rapport samt registrering av kontinuerleg bruk.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-5" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k2/p2-5">
+        <pverdi>§ 2-5.</pverdi>
+        <ptittel>Funksjonar som eit kassasystem skal ha</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/1">(1) Kassasystemet skal kunne registrere vekselkasse.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/2">(2) Kassasystemet skal kunne registrere betaling med ulike typar betalingsmiddel.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/3">(3) Kassasystemet skal ha klokke. Klokka skal vere stilt til norsk normaltid og justerast for sommartid.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/4">(4) Kassasystemet skal klart skilje mellom positive og negative beløp på alle kvitteringar, rapportar og i elektronisk journal.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-5/ledd/5">(5) Kassasystem som er tenkt til bruk for fleire bokføringspliktige, skal vere lagt til rette for at all kontinuerleg bruk, blant anna betalingsmiddel, blir registrert særskilt for kvar enkelt bokføringspliktige verksemd.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-6" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k2/p2-6">
+        <pverdi>§ 2-6.</pverdi>
+        <ptittel>Funksjonar som eit kassasystem ikkje skal ha</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/1">(1) Programvaren i eit kassasystem skal ikkje ha andre funksjonar enn det som går fram av systemskildringa, jf. kassasystemlova § 3 andre ledd.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/2">(2) Programvaren i eit kassasystem skal ikkje kunne koplast saman med eller integrerast med utrustning eller programvare som gjer det mogeleg å endre eller slette elektronisk journal.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/3">(3) Programvaren i eit kassasystem skal ikkje ha funksjonar som gjer det mogeleg for brukaren å ta bort, endre eller legge til opplysningar i registreringane. Programmert tekst på varer og tenester skal ikkje kunne endrast ved eller etter registreringa.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/4">(4) Det skal ikkje vere mogeleg å registrere sal utan at systemet skriv ut ei salskvittering. Systemet skal ikkje kunne skrive ut meir enn éi kopikvittering.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/5">(5) Det skal ikkje vere mogeleg å foreta registreringar i kassasystemet dersom integrert kassaskuff er open.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/6">(6) Det skal ikkje vere mogeleg å foreta registreringar i kassasystemet dersom lagringsminnet er fullt.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/7">(7) Kassasystemet skal ikkje ha ein særskilt funksjon for treningsbruk.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/8">(8) Det skal ikkje vere mogeleg å merke særskilte varer eller tenester i kassasystemet slik at dei ikkje blir tekne med på X- og Z-rapport.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-6/ledd/9">(9) Eit kassasystem som blir kopla saman med ei ikkje-automatisk vekt, skal ikkje kunne påverke vekta sine måletekniske eigenskapar, jf. forskrift 21. desember 2007 nr. 1735 om krav til ikke-automatiske vekter.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-7" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k2/p2-7">
+        <pverdi>§ 2-7.</pverdi>
+        <ptittel>Elektronisk journal</ptittel>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/1">(1) All kontinuerleg bruk skal lagrast fortløpande i elektronisk journal. Dette omfattar også opplysningar på kvitteringar som nemnt i § 1-2 bokstavane d til h. Elektronisk journal skal vere sikra mot endring og sletting. Elektronisk journal kan overførast til eit anna elektronisk medium i eit filformat som ikkje enkelt lar seg redigere. Slik overføring skal ikkje kunne gjerast før kassasystemet har produsert ein Z-rapport. Systemet skal kunne produsere ei fil direkte frå elektronisk journal eller anna elektronisk medium i ei standardisert form fastsett av Skattedirektoratet.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/2">(2) Tidspunkta for opning av integrert kassaskuff skal gå fram av elektronisk journal.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/3">(3) Dersom kassasystemet har funksjonar for fastsetjing av prisar for varer og tenester, skal det vere mogeleg å ta fram opplysningar om aktuelle prisar frå kassasystemet. Det skal i slike tilfelle gå fram av den elektroniske journalen når prisane har blitt endra. Det same gjeld ved andre endringar i dei faste opplysningane.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/4">(4) Dersom kassasystemet har funksjonar for å undersøke pris, skal slike prisundersøkingar registrerast i elektronisk journal.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/5">(5) Dersom kassasystemet har funksjonar for identifikasjon av den enkelte operatør ved bruk av kort eller liknande, skal elektronisk journal innehalde opplysningar om vedkomande sitt namn eller tilsettnummer i samband med salstransaksjonane og andre registreringar.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-7/ledd/6">(6) All kontinuerleg bruk må kunne identifiserast og skiljast ut med eit startpunkt, slik at opplysningane kan tolkast ved bruk av kjente dataanalyseverktøy.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/2-8" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k2/p2-8">
+        <pverdi>§ 2-8.</pverdi>
+        <ptittel>Rapportar og kvitteringar</ptittel>
+        <br/>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/1">
+          <b>§ 2-8-1.</b>
+          <i>X-rapport, Z-rapport, salskvittering mv.</i>
+        </ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/2">Kassasystemet skal kunne produsere X-rapportar, Z-rapportar, salskvitteringar og returkvitteringar. Dersom kassasystemet har funksjonar for å registrere kredittsal, skal også utleveringskvittering kunne produserast.
+<br/></ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/3">
+          <b>§ 2-8-2.</b>
+          <i>X-rapport</i>
+        </ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/4">Ein X-rapport skal minst innehalde desse opplysningane:
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/a/avsnitt/1">påskrift om at rapporten er ein X-rapport,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/b/avsnitt/1">namn og organisasjonsnummer til føretaket,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/c/avsnitt/1">dato og klokkeslett,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/d/avsnitt/1">ID-nummeret til kassasystemet,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/e"><lverdi>e)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/e/avsnitt/1">totalt kontantsal,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/f"><lverdi>f)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/f/avsnitt/1">talet på kontantsal og beløp minimum fordelt på hovudgrupper,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/g"><lverdi>g)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/g/avsnitt/1">talet på kontantsal og beløp fordelt på ulike betalingsmiddel,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/h"><lverdi>h)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/h/avsnitt/1">talet på kontantsal og beløp fordelt på ulike betalingsmiddel spesifisert for kvar enkelt operatør, dersom kassasystemet har funksjonar for dette,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/i"><lverdi>i)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/i/avsnitt/1">talet på tips og beløp, dersom kassasystemet har funksjonar for dette,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/j"><lverdi>j)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/j/avsnitt/1">avgiftspliktig og avgiftsfritt sal mv. samt meirverdiavgift fordelt på ulike meirverdiavgiftssatsar,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/k"><lverdi>k)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/k/avsnitt/1">inngåande vekselkasse,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/l"><lverdi>l)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/l/avsnitt/1">talet på salskvitteringar,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/m"><lverdi>m)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/m/avsnitt/1">talet på opningar av kassaskuff,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/n"><lverdi>n)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/n/avsnitt/1">talet på kopikvitteringar og beløp,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/o"><lverdi>o)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/o/avsnitt/1">talet på pro forma kvitteringar og beløp,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/p"><lverdi>p)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/p/avsnitt/1">talet på returar og beløp,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/q"><lverdi>q)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/q/avsnitt/1">talet på rabattar og beløp,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/r"><lverdi>r)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/r/avsnitt/1">talet på avbrotne kontantsal og beløp,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/s"><lverdi>s)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/s/avsnitt/1">talet på linjekorreksjonar spesifisert på type og beløp,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/t"><lverdi>t)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/t/avsnitt/1">talet på prisundersøkingar spesifisert på varegruppe og beløp,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/u"><lverdi>u)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/u/avsnitt/1">talet på andre korreksjonar spesifisert på type og beløp,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/v"><lverdi>v)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/v/avsnitt/1">talet på utleveringskvitteringar og beløp,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/w"><lverdi>w)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/w/avsnitt/1">grand total sal,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/x"><lverdi>x)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/x/avsnitt/1">grand total retur,</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/2-8/ledd/4/liste/y"><lverdi>y)</lverdi><avsnitt id="/kapittel/2/paragraf/2-8/ledd/4/liste/y/avsnitt/1">grand total netto.
+<br/></avsnitt></liste></ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/5">
+          <b>§ 2-8-3.</b>
+          <i>Z-rapport</i>
+        </ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/6">(1) Ein Z-rapport skal minst innehalde opplysningar som nemnt i § 2-8-2 bokstavane b til y. I tillegg skal Z-rapporten vere fortløpande nummerert og innehalde ei påskrift om at rapporten er ein Z-rapport. Z-rapporten kan ikkje innehalde registreringar som er omfatta av ein tidlegare Z-rapport.</ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/7">(2) Det skal ikkje vere mogeleg å utarbeide ein Z-rapport utan at alle sal er avslutta. Ein Z-rapport kan ikkje ha same nummer som ein tidlegare Z-rapport.
+<br/></ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/8">
+          <b>§ 2-8-4.</b>
+          <i>Salskvittering</i>
+        </ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/9">Ei salskvittering skal minst innehalde opplysningar som nemnt i forskrift 1. desember 2004 nr. 1558 om bokføring § 5-3-2a samt opplysningar om type betalingsmiddel og ID-nummeret til kassasystemet. Ordet «Salskvittering» skal visast øvst på kvitteringa. Dersom salskvitteringa er framstilt i elektronisk form skal orda «Elektronisk salskvittering» visast. Dersom betalingsterminal er integrert med kassasystemet, skal salskvitteringa også innehalde transaksjons-ID.
+<br/></ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/10">
+          <b>§ 2-8-5.</b>
+          <i>Returkvittering</i>
+        </ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/11">Ordet «Returkvittering» skal gå fram øvst på kvitteringa. I tillegg gjeld føresegnene i § 2-8-4 tilsvarande for returkvittering.
+<br/></ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/12">
+          <b>§ 2-8-6.</b>
+          <i>Kopikvittering og pro forma kvittering</i>
+        </ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/13">Dersom kassasystemet har funksjonar til å skrive ut kopikvittering eller pro forma kvittering skal desse vere tydeleg merka respektive «KOPI» og «Foreløpig kvittering - IKKJE KVITTERING FOR KJØP». Den markerte teksten skal vere minst dobbelt så stor som den teksten som angir beløp.
+<br/></ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/14">
+          <b>§ 2-8-7.</b>
+          <i>Utleveringskvittering</i>
+        </ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/15">Dersom kassasystemet blir nytta til å registrere kredittsal som blir fakturert særskilt, skal det skrivast ut ei kvittering som viser kva slags varer og tenester som er levert. Kvitteringa skal tydeleg merkast «Utleveringskvittering - IKKJE KVITTERING FOR KJØP». Den markerte teksten skal vere minst dobbelt så stor som den teksten som angir beløp.
+<br/></ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/16">
+          <b>§ 2-8-8.</b>
+          <i>Kvittering frå betalingsterminal</i>
+        </ledd>
+        <ledd id="/kapittel/2/paragraf/2-8/ledd/17">Kvittering frå betalingsterminal som ikkje er integrert med kassasystemet skal tydeleg merkast «IKKJE KVITTERING FOR KJØP». Den markerte teksten skal vere minst dobbelt så stor som den teksten som angir beløp.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Produktfråsegn og utbetring av manglar mv .</ktittel>
+      <paragraf id="/kapittel/3/paragraf/3-1" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k3/p3-1">
+        <pverdi>§ 3-1.</pverdi>
+        <ptittel>Produktfråsegn</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/1">(1) Produktfråsegn som nemnt i kassasystemlova § 5 skal leverast elektronisk.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/2">(2) Produktfråsegna skal skrivast under ved bruk av
+<liste id="/kapittel/3/paragraf/3-1/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/3/paragraf/3-1/ledd/2/liste/a/avsnitt/1">kvalifisert sertifikatløysing, eller</avsnitt></liste>
+<liste id="/kapittel/3/paragraf/3-1/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/3/paragraf/3-1/ledd/2/liste/b/avsnitt/1">fødselsnummer og organisasjonsnummer, samt bruk av PIN-kode som gir fullmakt til å godkjenne produktfråsegna.</avsnitt></liste></ledd>
+        <ledd id="/kapittel/3/paragraf/3-1/ledd/3">(3) Tildeling av PIN-kode skjer på den måten som Skattedirektoratet bestemmer.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/3-2" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k3/p3-2">
+        <pverdi>§ 3-2.</pverdi>
+        <ptittel>Tilbaketrekkjing av kassasystemet frå marknaden mv.</ptittel>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/1">(1) Dersom leverandøren trekkjer kassasystemet frå marknaden eller skattekontoret gjev leverandøren pålegg om å trekkje kassasystemet frå marknaden, jf. kassasystemlova § 6, må leverandøren utan ugrunna opphald melde frå om det til sine kundar.</ledd>
+        <ledd id="/kapittel/3/paragraf/3-2/ledd/2">(2) Eit pålegg frå skattekontoret om å utbetre manglar eller trekkje kassasystemet frå marknaden, jf. kassasystemlova § 6 andre ledd, skal innehalde ein frist for å gjennomføre pålegget.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Iverksetjing</ktittel>
+      <paragraf id="/kapittel/4/paragraf/4-1" url="https://lovdata.no/lovtidend/forskrift/2015-12-18-1616/k4/p4-1">
+        <pverdi>§ 4-1.</pverdi>
+        <ptittel>Iverksetjing</ptittel>
+        <ledd id="/kapittel/4/paragraf/4-1/ledd/1">Forskrifta tek til å gjelde 1. januar 2017.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="lov-2019-03-01-2" type="lt" url="https://lovdata.no/lovtidend/lov/2019-03-01-2">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2019-03-01-2</id>
+    <dato>01.03.2019 nr. 2</dato>
+    <dato type="iso">2019-03-01</dato>
+    <ikraft>Kongen bestemmer</ikraft>
+    <ikraft type="iso">Kongen bestemmer</ikraft>
+    <departement>Finansdepartementet</departement>
+    <rettet/>
+    <journalnummer>2019-0089</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Lov om register over reelle rettighetshavere</korttittel>
+    <tittel>Lov om register over reelle rettighetshavere</tittel>
+    <redaksjonell_note>Prop.109 L (2017-2018), Innst.143 L (2018-2019), Lovvedtak 38 (2018-2019). Stortingets første og andre gangs behandling hhv. 7. og 12. februar 2019. Fremmet av Finansdepartementet.</redaksjonell_note>
+    <kapittel type="kapittel" id="/kapittel/1" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k1">
+      <kverdi>Kapittel 1</kverdi>
+      <ktittel>Innledende bestemmelser</ktittel>
+      <paragraf id="/kapittel/1/paragraf/1" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k1/p1">
+        <pverdi>§ 1.</pverdi>
+        <ptittel>Formål</ptittel>
+        <ledd id="/kapittel/1/paragraf/1/ledd/1">Lovens formål er å legge til rette for rapporteringspliktiges, myndighetenes og andres tilgang til opplysninger om reelle rettighetshavere.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/2" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k1/p2">
+        <pverdi>§ 2.</pverdi>
+        <ptittel>Virkeområde</ptittel>
+        <ledd id="/kapittel/1/paragraf/2/ledd/1">(1) Loven gjelder for juridiske personer, enheter og andre sammenslutninger som driver virksomhet eller er registrert i riket, herunder på Jan Mayen og Svalbard.</ledd>
+        <ledd id="/kapittel/1/paragraf/2/ledd/2">(2) Loven gjelder også for forvaltere av utenlandske truster og lignende juridiske arrangementer som driver virksomhet i riket, herunder på Jan Mayen og Svalbard.</ledd>
+        <ledd id="/kapittel/1/paragraf/2/ledd/3">(3) Departementet kan i forskrift gi nærmere regler om hvilke juridiske personer, enheter og andre sammenslutninger og forvaltere av utenlandske truster og lignende juridiske arrangementer som er omfattet av loven.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/1/paragraf/3" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k1/p3">
+        <pverdi>§ 3.</pverdi>
+        <ptittel>Definisjoner</ptittel>
+        <ledd id="/kapittel/1/paragraf/3/ledd/1">(1) Med registreringspliktige menes i loven her juridiske personer, enheter og andre sammenslutninger og forvaltere av utenlandske truster og lignende juridiske arrangementer som omfattes av lovens virkeområde etter § 2.</ledd>
+        <ledd id="/kapittel/1/paragraf/3/ledd/2">(2) Med reell rettighetshaver menes i loven her den eller de fysiske personene som i siste instans eier eller kontrollerer en juridisk person, arrangement, enhet eller annen sammenslutning.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/2" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k2">
+      <kverdi>Kapittel 2</kverdi>
+      <ktittel>Innhenting av opplysninger om reelle rettighetshavere</ktittel>
+      <paragraf id="/kapittel/2/paragraf/4" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k2/p4">
+        <pverdi>§ 4.</pverdi>
+        <ptittel>Innhenting av opplysninger om reelle rettighetshavere</ptittel>
+        <ledd id="/kapittel/2/paragraf/4/ledd/1">(1) Registreringspliktige skal identifisere den juridiske personens, enhetens eller sammenslutningens eller det utenlandske juridiske arrangementets reelle rettighetshavere. Ved identifiseringen gjelder kriteriene i hvitvaskingsloven § 14.</ledd>
+        <ledd id="/kapittel/2/paragraf/4/ledd/2">(2) Den registreringspliktige skal innhente følgende opplysninger om reelle rettighetshavere:
+<liste id="/kapittel/2/paragraf/4/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/kapittel/2/paragraf/4/ledd/2/liste/a/avsnitt/1">navn</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/4/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/kapittel/2/paragraf/4/ledd/2/liste/b/avsnitt/1">fødselsnummer eller D-nummer</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/4/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/kapittel/2/paragraf/4/ledd/2/liste/c/avsnitt/1">bostedsland</avsnitt></liste>
+<liste id="/kapittel/2/paragraf/4/ledd/2/liste/d"><lverdi>d)</lverdi><avsnitt id="/kapittel/2/paragraf/4/ledd/2/liste/d/avsnitt/1">statsborgerskap</avsnitt></liste>
+<marg niv="1" id="/kapittel/2/paragraf/4/ledd/2/liste/d/avsnitt/1/marg/1">Dersom en reell rettighetshaver ikke har fødselsnummer eller D-nummer, skal det i stedet innhentes opplysninger om fødselsdato.</marg></ledd>
+        <ledd id="/kapittel/2/paragraf/4/ledd/3">(3) Den registreringspliktige skal dokumentere grunnlaget for identifiseringen av hvem som er reelle rettighetshavere. Dersom den registreringspliktige mener det ikke er noen reell rettighetshaver i en juridisk person eller et utenlandsk juridisk arrangement, skal vurderingen begrunnes og dokumenteres. Dersom den registreringspliktige mener det finnes en eller flere reelle rettighetshavere, men ikke kan identifisere disse, skal vurderingen begrunnes og dokumenteres.</ledd>
+        <ledd id="/kapittel/2/paragraf/4/ledd/4">(4) Registreringspliktige skal ved endringer i relevante forhold identifisere nye reelle rettighetshavere og for øvrig oppdatere innhentede opplysninger om reelle rettighetshavere.</ledd>
+        <ledd id="/kapittel/2/paragraf/4/ledd/5">(5) Departementet kan i forskrift gi nærmere regler om innhenting av opplysninger om reelle rettighetshavere, herunder fastsette unntak.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/5" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k2/p5">
+        <pverdi>§ 5.</pverdi>
+        <ptittel>Relevante personers opplysningsplikt</ptittel>
+        <ledd id="/kapittel/2/paragraf/5/ledd/1">Departementet kan i forskrift gi nærmere regler om opplysningsplikt når registreringspliktige skal identifisere og innhente opplysninger om reelle rettighetshavere.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/6" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k2/p6">
+        <pverdi>§ 6.</pverdi>
+        <ptittel>Utlevering</ptittel>
+        <ledd id="/kapittel/2/paragraf/6/ledd/1">(1) Registreringspliktige skal etter forespørsel fra offentlig myndighet utlevere alle innhentede opplysninger og vurderinger etter § 4. Departementet kan i forskrift gi nærmere regler om hvilke myndigheter som omfattes av første punktum.</ledd>
+        <ledd id="/kapittel/2/paragraf/6/ledd/2">(2) Registreringspliktige skal utlevere opplysninger og vurderinger som nevnt i § 4 til rapporteringspliktige etter hvitvaskingsloven § 2 bokstav c i forbindelse med deres kundetiltak og løpende oppfølging etter hvitvaskingsloven.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/2/paragraf/7" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k2/p7">
+        <pverdi>§ 7.</pverdi>
+        <ptittel>Lagring av opplysninger om reelle rettighetshavere</ptittel>
+        <ledd id="/kapittel/2/paragraf/7/ledd/1">(1) Registreringspliktige skal lagre opplysninger og vurderinger om reelle rettighetshavere i ti år etter at fysiske personer opphørte å være reelle rettighetshavere.</ledd>
+        <ledd id="/kapittel/2/paragraf/7/ledd/2">(2) Departementet kan i forskrift gi nærmere regler om lagring av opplysninger om reelle rettighetshavere etter at registreringspliktige har opphørt eller ikke lenger driver virksomhet i riket, herunder hvem som har plikt til å lagre opplysningene.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/3" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k3">
+      <kverdi>Kapittel 3</kverdi>
+      <ktittel>Registrering av opplysninger om reelle rettighetshavere</ktittel>
+      <paragraf id="/kapittel/3/paragraf/8" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k3/p8">
+        <pverdi>§ 8.</pverdi>
+        <ptittel>Registeret over reelle rettighetshavere</ptittel>
+        <ledd id="/kapittel/3/paragraf/8/ledd/1">(1) Registeret over reelle rettighetshavere føres av en registerfører oppnevnt av Kongen.</ledd>
+        <ledd id="/kapittel/3/paragraf/8/ledd/2">(2) Departementet kan i forskrift gi nærmere regler om registerets organisasjon, lokalisering og administrasjon, og om føringen av registeret.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/9" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k3/p9">
+        <pverdi>§ 9.</pverdi>
+        <ptittel>Registrering av opplysninger om reelle rettighetshavere</ptittel>
+        <ledd id="/kapittel/3/paragraf/9/ledd/1">(1) Registreringspliktige skal registrere innhentede opplysninger om reelle rettighetshavere og grunnlaget for identifiseringen av reelle rettighetshavere i registeret over reelle rettighetshavere, jf. § 4 annet ledd.</ledd>
+        <ledd id="/kapittel/3/paragraf/9/ledd/2">(2) Dersom den registreringspliktige mener det ikke er noen reelle rettighetshavere i den juridiske personen, enheten eller sammenslutningen, eller det utenlandske juridiske arrangementet, skal dette registreres. Det samme gjelder dersom den registreringspliktige mener det finnes en eller flere reelle rettighetshavere, men ikke kan entydig identifisere disse.</ledd>
+        <ledd id="/kapittel/3/paragraf/9/ledd/3">(3) Første gangs registrering skal skje senest 14 dager etter at den registreringspliktige er blitt registrert i et offentlig register.</ledd>
+        <ledd id="/kapittel/3/paragraf/9/ledd/4">(4) Når den registreringspliktige har identifisert nye reelle rettighetshavere i samsvar med § 4 fjerde ledd, skal registrerte opplysninger oppdateres uten opphold og senest innen 14 dager. Det samme gjelder dersom den registreringspliktige blir kjent med andre endringer som medfører at registrerte opplysninger ikke lenger stemmer.</ledd>
+        <ledd id="/kapittel/3/paragraf/9/ledd/5">(5) Departementet kan i forskrift gi nærmere regler om registreringen av opplysninger om reelle rettighetshavere, grunnlaget for identifiseringen av reelle rettighetshavere og registreringspliktiges oppdatering av registrerte opplysninger. Forskriften kan også fastsette unntak fra denne bestemmelsen. Departementet kan i forskrift gi nærmere regler om innhenting av relevante opplysninger fra andre registre eller andre kilder.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/10" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k3/p10">
+        <pverdi>§ 10.</pverdi>
+        <ptittel>Kontroll av registrerte opplysninger. Varslingsplikt om uoverensstemmelser</ptittel>
+        <ledd id="/kapittel/3/paragraf/10/ledd/1">(1) Departementet kan i forskrift gi nærmere regler om registerførerens kontroll av opplysninger som registreres om reelle rettighetshavere.</ledd>
+        <ledd id="/kapittel/3/paragraf/10/ledd/2">(2) Departementet kan i forskrift gi regler om varslingsplikt for offentlige myndigheter og rapporteringspliktige etter hvitvaskingsloven § 2 bokstav c i tilfeller der disse identifiserer andre som reelle rettighetshavere enn dem som er registrert i registeret over reelle rettighetshavere. Departementet kan også gi nærmere regler om registerets håndtering av varsler som nevnt i første punktum og registreringspliktiges plikt til å etterkomme registerets pålegg i den forbindelse.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/11" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k3/p11">
+        <pverdi>§ 11.</pverdi>
+        <ptittel>Tilgang til og avgivelse av registrerte opplysninger</ptittel>
+        <ledd id="/kapittel/3/paragraf/11/ledd/1">(1) Enhver skal ha tilgang til registrerte opplysninger om reelle rettighetshavere, med unntak av opplysninger om fødselsnummer og D-nummer. Departementet kan i forskrift gi nærmere regler om tilgangen til registrerte opplysninger, herunder om tilgang til fødselsnummer og D-nummer.</ledd>
+        <ledd id="/kapittel/3/paragraf/11/ledd/2">(2) Departementet kan i forskrift gi unntak fra innsyn i enkelttilfeller under ekstraordinære omstendigheter.</ledd>
+        <ledd id="/kapittel/3/paragraf/11/ledd/3">(3) Departementet kan i forskrift gi nærmere regler om avgivelse av opplysninger fra registeret.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/12" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k3/p12">
+        <pverdi>§ 12.</pverdi>
+        <ptittel>Opplysninger fra andre registre</ptittel>
+        <ledd id="/kapittel/3/paragraf/12/ledd/1">Departementet kan i forskrift gi nærmere regler om registerets adgang til å innhente og sammenstille opplysninger fra andre offentlige registre.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/3/paragraf/13" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k3/p13">
+        <pverdi>§ 13.</pverdi>
+        <ptittel>Lagring av opplysninger i registeret</ptittel>
+        <ledd id="/kapittel/3/paragraf/13/ledd/1">(1) Registrerte opplysninger om reelle rettighetshavere skal lagres i registeret i minst ti år etter at den registreringspliktige opphørte eller avsluttet sin virksomhet i riket.</ledd>
+        <ledd id="/kapittel/3/paragraf/13/ledd/2">(2) Departementet kan i forskrift gi nærmere regler om behandling av opplysninger om reelle rettighetshavere etter at minstetiden i første ledd er utløpt.</ledd>
+      </paragraf>
+    </kapittel>
+    <kapittel type="kapittel" id="/kapittel/4" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k4">
+      <kverdi>Kapittel 4</kverdi>
+      <ktittel>Avsluttende bestemmelser</ktittel>
+      <paragraf id="/kapittel/4/paragraf/14" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k4/p14">
+        <pverdi>§ 14.</pverdi>
+        <ptittel>Pålegg og tvangsmulkt</ptittel>
+        <ledd id="/kapittel/4/paragraf/14/ledd/1">(1) Registerføreren kan gi registreringspliktige pålegg for å sikre etterlevelse av §§ 9 og 10. Pålegget skal inneholde en bestemt frist. Pålegg kan også rettes mot registreringspliktiges styre, daglige leder eller andre med rett til å representere den registreringspliktige.</ledd>
+        <ledd id="/kapittel/4/paragraf/14/ledd/2">(2) Dersom fristen ikke overholdes, kan det ilegges tvangsmulkt inntil forholdet er rettet.</ledd>
+        <ledd id="/kapittel/4/paragraf/14/ledd/3">(3) Departementet kan i forskrift gi nærmere regler om fastsettelse og beregning av tvangsmulkt.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/15" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k4/p15">
+        <pverdi>§ 15.</pverdi>
+        <ptittel>Straff</ptittel>
+        <ledd id="/kapittel/4/paragraf/15/ledd/1">Registreringspliktige og personer som handler på vegne av registreringspliktige, som forsettlig unnlater å innhente, oppbevare eller registrere opplysninger i samsvar med §§ 4, 7, 9 eller 10 annet ledd, eller registrerer feilaktige opplysninger, kan straffes med bøter eller fengsel inntil ett år.</ledd>
+      </paragraf>
+      <paragraf id="/kapittel/4/paragraf/16" url="https://lovdata.no/lovtidend/lov/2019-03-01-2/k4/p16">
+        <pverdi>§ 16.</pverdi>
+        <ptittel>Ikrafttredelse</ptittel>
+        <ledd id="/kapittel/4/paragraf/16/ledd/1">Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.</ledd>
+      </paragraf>
+    </kapittel>
+  </tekst>
+</dokument>
