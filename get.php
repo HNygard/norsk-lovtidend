@@ -29,7 +29,7 @@ $obj->itemCountNationalRegulations = 0;
 $obj->itemCountLocalRegulations = 0;
 $obj->announcementsPerYear = array();
 
-for($year = date('Y'); $year >= 2020; $year--) {
+for($year = date('Y'); $year >= 2001; $year--) {
     $objYear = new stdClass();
     $obj->announcementsPerYear[] = $objYear;
     $objYear->pageCount = 1;
@@ -100,14 +100,14 @@ for($year = date('Y'); $year >= 2020; $year--) {
             $objYear->itemCount++;
 
             $crawler = new Crawler($announcement);
-            $objAnn->title = trim($crawler->filter('.metaTitleText')->first()->text());
+            $objAnn->title = trim($crawler->filter('.metaTitleText')->first()->text('', true));
 
             $meta = $crawler
                 ->filter('table.meta tr')
                 ->each(function (Crawler $node, $i) {
                     return array(
-                        trim($node->filter('th')->first()->text()),
-                        trim($node->filter('td')->first()->text())
+                        trim($node->filter('th')->first()->text('', true)),
+                        trim($node->filter('td')->first()->text('', true))
                     );
                 });
             foreach ($meta as $row) {
@@ -417,7 +417,7 @@ foreach ($obj->announcementsPerYear as $year => $objYear) {
 	<tr>
 		<th>' . $itemArray['journalnr'] . '</th>
 		<th>' . $itemArray['kunngjort']
-            . ((isset($itemArray['publisert']) && !empty($itemArray['publisert'])) ? ' <span style="font-weight: normal;">(' . $item['publisert'] . ')</span>' : '') . '</th>
+            . ((isset($itemArray['publisert']) && !empty($itemArray['publisert'])) ? ' <span style="font-weight: normal;">(' . $itemArray['publisert'] . ')</span>' : '') . '</th>
 		<td>[<a href="' . $itemArray['url'] . '">Til lov/forskrift</a>]</td>
 		<td>' . $itemArray['korttittel'] . '</td>
 		<td>' . $itemArray['title'] . '</td>
