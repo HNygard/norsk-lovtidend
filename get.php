@@ -103,13 +103,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
 				);
 			}
 			else {
-				if ($year == date('Y') {
-					logInfo('XML link not found: ' . $announcementCacheFile);
-					sleep(1);
-				}
-				else {
-					throw new Exception('XML link not found: ' . $announcementCacheFile);
-				}
+                logInfo('XML link not found: ' . $announcementCacheFile);
 			}
 		}
 	}
