@@ -2,7 +2,7 @@
 /**
  * This script downloads all announcements in Norsk Lovtidend, released by Ministry of Justice, published by Lovdata.
  *
- * @author Hallvard Nygård, @hallny
+ * @author Hallvard Nygård, @hallny / Norske-postlister.no.
  */
 
 set_error_handler(function ($errno, $errstr, $errfile, $errline, array $errcontext) {
