@@ -344,6 +344,8 @@ table td {
 	border: 1px solid lightgrey;
 	padding: 2px;
 	white-space: nowrap;
+	max-width: 700px;
+	overflow: auto;
 }
 table {
 	border-collapse: collapse;
@@ -370,10 +372,10 @@ $html .= '
 <table>
 	<thead>
 		<tr>
-			<th>Dato (kunngjort)</th>
-			<th>Saksnummer</th>
-			<th>Uttalelse</th>
-			<th>Referanser til lov</th>
+            <th>Journalnr</th>
+			<th>Kunngjort/publisert</th>
+			<th>Lovdata.no</th>
+			<th>Korttittel</th>
 			<th>Tittel</th>
 		</tr>
 	</thead>
@@ -404,9 +406,23 @@ foreach ($obj->announcementsPerYear as $year => $objYear) {
             if (isset($itemArray[$column])) {
                 $csv .= str_replace(';', ':', $itemArray[$column]);
             }
+            else {
+                $itemArray[$column] = '';
+            }
             $csv .= ';';
         }
         $csv .= "\n";
+
+        $html .= '
+	<tr>
+		<th>' . $itemArray['journalnr'] . '</th>
+		<th>' . $itemArray['kunngjort']
+            . ((isset($itemArray['publisert']) && !empty($itemArray['publisert'])) ? ' <span style="font-weight: normal;">(' . $item['publisert'] . ')</span>' : '') . '</th>
+		<td>[<a href="' . $itemArray['url'] . '">Til lov/forskrift</a>]</td>
+		<td>' . $itemArray['korttittel'] . '</td>
+		<td>' . $itemArray['title'] . '</td>
+	</tr>
+';
     }
 }
 
