@@ -84,6 +84,10 @@ for($year = date('Y'); $year >= 2020; $year--) {
 				var_dump($link);
 				throw new Exception('Unknown link.');
 			}
+
+            $objAnn = new stdClass();
+            $objAnn->url = $lovdataNo . $link['href'];
+
 			$announcementCacheFile = $cache_location . '/' . $year . '/' . $cacheFolder . '/' . $cacheHtmlName . '.html';
 			$announcement = getUrlCachedUsingCurl(
 				$cacheTimeSeconds,
@@ -91,6 +95,22 @@ for($year = date('Y'); $year >= 2020; $year--) {
 				$lovdataNo . $link['href']
 			);
             $objYear->itemCount++;
+
+            $crawler = new Crawler($announcement);
+            $objAnn->title = trim($crawler->filter('.metaTitleText')->first()->text());
+
+            if ($cacheFolder == 'LTI-forskrift') {
+                $objYear->itemsNationalRegulation[] = $objAnn;
+            }
+            elseif ($cacheFolder == 'LTI-lov') {
+                $objYear->itemsNationalLaw[] = $objAnn;
+            }
+            elseif ($cacheFolder == 'LTII-forskrift') {
+                $objYear->itemsLocalRegulation[] = $objAnn;
+            }
+            else {
+                throw new Exception('Err. Unknown type: ' . $cacheFolder);
+            }
 
 			// Find XML link
 			// <a href="/xml/LTI/nl-20191220-111.xml" target="blank"><img src="/resources/images/blue-document-node.png"/>XML-versjon</a>
