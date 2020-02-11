@@ -1,6 +1,6 @@
 # THIS GIT REPO IS LARGE!
 
-Contains GBs of data.
+Contains ~250 MBs of data.
 
 # Norsk Lovtidend
 
