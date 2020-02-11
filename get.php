@@ -99,6 +99,18 @@ for($year = date('Y'); $year >= 2020; $year--) {
             $crawler = new Crawler($announcement);
             $objAnn->title = trim($crawler->filter('.metaTitleText')->first()->text());
 
+            $meta = $crawler
+                ->filter('table.meta tr')
+                ->each(function (Crawler $node, $i) {
+                    return array(
+                        trim($node->filter('th')->first()->text()),
+                        trim($node->filter('td')->first()->text())
+                    );
+                });
+            foreach ($meta as $row) {
+                $objAnn->{strtolower($row[0])} = $row[1];
+            }
+
             if ($cacheFolder == 'LTI-forskrift') {
                 $objYear->itemsNationalRegulation[] = $objAnn;
             }
