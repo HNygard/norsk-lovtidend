@@ -209,6 +209,12 @@ function getUrlCachedUsingCurl($cacheTimeSeconds, $cache_file, $baseUri, $accept
     if (trim($body) == '') {
         throw new Exception('Empty response.');
     }
+    // These will change all the time. Remove
+    // <link href="/resources/css/bootstrap.css?20-02-09-2112" rel="stylesheet">
+    $body = preg_replace('/\s*<link href="[a-zA-Z\.\/\-0-9?\&]*" rel="stylesheet">\s*\n*/', '', $body);
+    // <script src="/resources/js/json2.js?20-02-05-1326"></script>
+    $body = preg_replace('/\s*<script src="[a-zA-Z\.\/\-0-9?\&]*"><\/script>\s*\n*/', '', $body);
+
     file_put_contents($cache_file, $body);
     return $body;
 }
