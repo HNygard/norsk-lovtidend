@@ -21,8 +21,20 @@ $updateDate = date('d.m.Y H:i:s');
 
 $lawsNotPresent = array();
 
+$obj = new stdClass();
+$obj->lastUpdated = $updateDate;
+$obj->sourceInfo = "Datasett hentet fra https://hnygard.github.io/norsk-lovtidend/, laget av @hallny. Kilde: $baseUrl";
+$obj->announcementsPerYear = array();
 
-for($year = date('Y'); $year >= 2001; $year--) {
+for($year = date('Y'); $year >= 2020; $year--) {
+    $objYear = new stdClass();
+    $obj->announcementsPerYear[] = $objYear;
+    $objYear->pageCount = 1;
+    $objYear->itemCount = 0;
+    $objYear->itemsNationalLaw = array();
+    $objYear->itemsLocalLaw = array();
+    $objYear->itemsNationalRegulation = array();
+
 	$cacheTimeSeconds = date('Y') == $year ? $cacheTimeSecondsThisYear : $cacheTimeSecondsPrevYears;
 	mkdirIfNotExists($cache_location . '/' . $year . '/paged-list');
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-lov');
@@ -39,6 +51,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
 		$items = readItems($mainPage);
 		logInfo($year . ' - Offset ' . $offset . ' of ' .  $items['lastItem'] . ' - ' . $items['pages']);
 		$offset = $offset + 20;
+        $objYear->pageCount++;
 		if ($maxOffset == 10) {
 			$maxOffset = $items['lastItem'];
 		}
@@ -77,6 +90,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
 				$announcementCacheFile,
 				$lovdataNo . $link['href']
 			);
+            $objYear->itemCount++;
 
 			// Find XML link
 			// <a href="/xml/LTI/nl-20191220-111.xml" target="blank"><img src="/resources/images/blue-document-node.png"/>XML-versjon</a>
@@ -108,6 +122,8 @@ for($year = date('Y'); $year >= 2001; $year--) {
 		}
 	}
 }
+
+file_put_contents(__DIR__ . '/norsk-lovtidend.json', json_encode($obj, JSON_PRETTY_PRINT ^ JSON_UNESCAPED_SLASHES ^ JSON_UNESCAPED_UNICODE));
 
 
 function readItems($html) {
@@ -203,6 +219,7 @@ function getUrlCachedUsingCurl($cacheTimeSeconds, $cache_file, $baseUri, $accept
     if (trim($body) == '') {
         throw new Exception('Empty response.');
     }
+
     // These will change all the time. Remove
     // <link href="/resources/css/bootstrap.css?20-02-09-2112" rel="stylesheet">
     $body = preg_replace('/\s*<link href="[a-zA-Z\.\/\-0-9?\&]*" rel="stylesheet">\s*\n*/', '', $body);
