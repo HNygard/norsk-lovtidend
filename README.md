@@ -28,6 +28,6 @@ Følgende kommando henter ned alle i år med 4 dager cache og resten med 365 dag
 
 ## TODO
 
-- [ ] Basis HTML-side for publisering på Github pages
-- [ ] Liste over alle lover (JSON + HTML)
+- [x] Basis HTML-side for publisering på Github pages
+- [x] Liste over alle lover (JSON + HTML)
 - [ ] Liste over alle lover og deres endringer (JSON + HTML)

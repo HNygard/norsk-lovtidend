@@ -24,7 +24,7 @@ $lawsNotPresent = array();
 $obj = new stdClass();
 $obj->lastUpdated = $updateDate;
 $obj->sourceInfo = "Datasett hentet fra https://hnygard.github.io/norsk-lovtidend/, laget av @hallny. Kilde: $baseUrl";
-$obj->itemCountNationalLaws = 0;
+$obj->itemCountLaws = 0;
 $obj->itemCountNationalRegulations = 0;
 $obj->itemCountLocalRegulations = 0;
 $obj->announcementsPerYear = array();
@@ -34,7 +34,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
     $obj->announcementsPerYear[] = $objYear;
     $objYear->pageCount = 1;
     $objYear->itemCount = 0;
-    $objYear->itemsNationalLaw = array();
+    $objYear->itemsLaw = array();
     $objYear->itemsLocalRegulation = array();
     $objYear->itemsNationalRegulation = array();
 
@@ -115,14 +115,17 @@ for($year = date('Y'); $year >= 2001; $year--) {
             }
 
             if ($cacheFolder == 'LTI-forskrift') {
+                $objAnn->type = 'forskrift';
                 $objYear->itemsNationalRegulation[] = $objAnn;
                 $obj->itemCountNationalRegulations++;
             }
             elseif ($cacheFolder == 'LTI-lov') {
-                $objYear->itemsNationalLaw[] = $objAnn;
-                $obj->itemCountNationalLaws++;
+                $objAnn->type = 'lov';
+                $objYear->itemsLaw[] = $objAnn;
+                $obj->itemCountLaws++;
             }
             elseif ($cacheFolder == 'LTII-forskrift') {
+                $objAnn->type = 'lokalForskrift';
                 $objYear->itemsLocalRegulation[] = $objAnn;
                 $obj->itemCountLocalRegulations++;
             }
@@ -353,32 +356,46 @@ table {
 </style>";
 }
 
+$htmlCreditLine = "Laget av <a href='https://twitter.com/hallny'>@hallny</a> / <a href='https://norske-postlister.no'>Norske-postlister.no</a><br>\n";
+$htmlCreditLine .= "<a href='https://github.com/HNygard/norsk-lovtidend/'>Kildekode for oppdatering av denne lista</a> (Github)<br><br>\n\n";
+
+$htmlMenu = '
+
+<span style="font-size: 1.5em;">
+Meny:
+<a href="./">Hovedside</a>
+-:- <a href="./lov.html">Til kunngjøringer om lover</a>
+-:- <a href="./forskrift.html">Til kunngjøringer om forskrifter</a>
+-:- <a href="./lokalForskrift.html">Til kunngjøringer om lokale forskrifter</a>
+-:-
+</span><br><br>
+
+';
+
 $html = htmlHeading() . "
 
 <h1>Norske lover og forskrifter basert på Norsk Lovtidend</h1>\n";
-$html .= "Laget av <a href='https://twitter.com/hallny'>@hallny</a> / <a href='https://norske-postlister.no'>Norske-postlister.no</a><br>\n";
-$html .= "<a href='https://github.com/HNygard/norsk-lovtidend/'>Kildekode for oppdatering av denne lista</a> (Github)<br><br>\n\n";
+$html .= $htmlCreditLine;
+$html .= $htmlMenu;
 $html .= '
+
 <ul>
-	<li>Antall nasjonale lover: ' . $obj->itemCountNationalLaws . '</li>
+	<li>Antall nasjonale lover: ' . $obj->itemCountLaws . '</li>
 	<li>Antall nasjonale forskrifter: ' . $obj->itemCountNationalRegulations . '</li>
 	<li>Antall lokale forskrifter: ' . $obj->itemCountLocalRegulations . '</li>
 	<li>Liste sist oppdatert: ' . $updateDate . '</li>
 	<li>Kilde: <a href="' . $baseUrl . '">' . $baseUrl . '</a></li>
-	<li>JSON-format: <a href="./norsk-lovtidend.json">norsk-lovtidend.json</a></li>
-	<li>CSV-format (Excel): <a href="./norsk-lovtidend.csv">norsk-lovtidend.csv</a></li>
+	<li>JSON-format: <a href="./norsk-lovtidend.json">norsk-lovtidend.json</a> (JSON-SIZE)</li>
+	<li>CSV-format (Excel): 
+        <ul>
+            <li><a href="./norsk-lovtidend---lov.csv">norsk-lovtidend---lov.csv</a> (CSV-lov-SIZE)</li>
+            <li><a href="./norsk-lovtidend---forskrift.csv">norsk-lovtidend---forskrift.csv</a> (CSV-forskrift-SIZE)</li>
+            <li><a href="./norsk-lovtidend---lokalForskrift.csv">norsk-lovtidend---lokalForskrift.csv</a> (CSV-lokalForskrift-SIZE)</li>
+        </ul>
+    </li>
 </ul>
 
-<table>
-	<thead>
-		<tr>
-            <th>Journalnr</th>
-			<th>Kunngjort/publisert</th>
-			<th>Lovdata.no</th>
-			<th>Korttittel</th>
-			<th>Tittel</th>
-		</tr>
-	</thead>
+
 ';
 
 $columns = array(
@@ -387,10 +404,26 @@ $columns = array(
     'korttittel' => 2
 );
 
+$announcementsCsv = array(
+    'lov' => array(),
+    'forskrift' => array(),
+    'lokalForskrift' => array()
+);
+$announcementsHtml = array(
+    'lov' => array(),
+    'forskrift' => array(),
+    'lokalForskrift' => array()
+);
+$heading = array(
+    'lov' => 'Kunngjøringer om nye lover i Norsk Lovtidend',
+    'forskrift' => 'Kunngjøringer om nye forskrifter i Norsk Lovtidend',
+    'lokalForskrift' => 'Kunngjøringer om nye lokale forskrifter i Norsk Lovtidend'
+);
+
 $csv = '';
 foreach ($obj->announcementsPerYear as $year => $objYear) {
     $items = array_merge(
-        $objYear->itemsNationalLaw,
+        $objYear->itemsLaw,
         $objYear->itemsLocalRegulation,
         $objYear->itemsNationalRegulation
     );
@@ -402,6 +435,7 @@ foreach ($obj->announcementsPerYear as $year => $objYear) {
             }
         }
 
+        $csv = '';
         foreach ($columns as $column => $i) {
             if (isset($itemArray[$column])) {
                 $csv .= str_replace(';', ':', $itemArray[$column]);
@@ -412,8 +446,9 @@ foreach ($obj->announcementsPerYear as $year => $objYear) {
             $csv .= ';';
         }
         $csv .= "\n";
+        $announcementsCsv[$itemArray['type']][] = $csv;
 
-        $html .= '
+        $announcementsHtml[$itemArray['type']][] = '
 	<tr>
 		<th>' . $itemArray['journalnr'] . '</th>
 		<th>' . $itemArray['kunngjort']
@@ -425,18 +460,57 @@ foreach ($obj->announcementsPerYear as $year => $objYear) {
 ';
     }
 }
+foreach ($announcementsCsv as $type => $csvs) {
+    $csv = "Datasett hentet fra;https://hnygard.github.io/norsk-lovtidend/;@hallny / Norske-postlister.no;Kilde;$baseUrl;Data hentet;$updateDate\n";
+    $csv .= "\n";
+    foreach ($columns as $column => $i) {
+        $csv .= str_replace(';', ':', $column) . ';';
+    }
+    $csv .= "\n" . implode('', $csvs);
+    file_put_contents(__DIR__ . '/norsk-lovtidend---' . $type . '.csv', $csv);
+    $html = str_replace('CSV-' . $type . '-SIZE', human_filesize(filesize(__DIR__ . '/norsk-lovtidend---' . $type . '.csv')), $html);
 
-$csvTitle = "Datasett hentet fra;https://hnygard.github.io/norsk-lovtidend/;@hallny / Norske-postlister.no;Kilde;$baseUrl;Data hentet;$updateDate\n";
-$csvTitle .= "\n";
-foreach ($columns as $column => $i) {
-    $csvTitle .= str_replace(';', ':', $column) . ';';
 }
-$csv = $csvTitle . "\n" . $csv;
+foreach ($announcementsHtml as $type => $htmls) {
+    $html2 = htmlHeading() . '
+<h1>' . $heading[$type] . ' </h1>
+' . $htmlCreditLine . '
+' . $htmlMenu . '
 
-$html .= '
+<a href="./norsk-lovtidend---' . $type . '.csv">Last ned som CSV</a> (Excel)<br><br>
+
+<table>
+	<thead>
+		<tr>
+            <th>Journalnr</th>
+			<th>Kunngjort/publisert</th>
+			<th>Lovdata.no</th>
+			<th>Korttittel</th>
+			<th>Tittel</th>
+		</tr>
+	</thead>
+
+' . implode('', $htmls) . '
+
 </table>
 ';
 
+    file_put_contents(__DIR__ . '/' . $type . '.html', $html2);
+}
+
+
+function human_filesize($size, $precision = 2) {
+    $units = array('B', 'kB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB');
+    $step = 1024;
+    $i = 0;
+    while (($size / $step) > 0.9) {
+        $size = $size / $step;
+        $i++;
+    }
+    return number_format($size, $precision, ',', ' ') . ' ' . $units[$i];
+}
+
+$html = str_replace('JSON-SIZE', human_filesize(filesize(__DIR__ . '/norsk-lovtidend.json')), $html);
+
 file_put_contents(__DIR__ . '/index.html', $html);
-file_put_contents(__DIR__ . '/norsk-lovtidend.csv', $csv);
 
