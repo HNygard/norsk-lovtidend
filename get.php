@@ -32,7 +32,7 @@ for($year = date('Y'); $year >= 2020; $year--) {
     $objYear->pageCount = 1;
     $objYear->itemCount = 0;
     $objYear->itemsNationalLaw = array();
-    $objYear->itemsLocalLaw = array();
+    $objYear->itemsLocalRegulation = array();
     $objYear->itemsNationalRegulation = array();
 
 	$cacheTimeSeconds = date('Y') == $year ? $cacheTimeSecondsThisYear : $cacheTimeSecondsPrevYears;
