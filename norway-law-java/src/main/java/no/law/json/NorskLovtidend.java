@@ -7,5 +7,5 @@ public class NorskLovtidend {
     public String sourceInfo;
     public int itemCountLaws;
     public int itemCountNationalRegulations;
-    public List<AnnouncementYear> announcementsPerYear;
+    public List<NL_AnnouncementYear> announcementsPerYear;
 }

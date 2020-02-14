@@ -1,6 +1,6 @@
 package no.law.json;
 
-public enum AnnouncementType {
+public enum NL_AnnouncementType {
     lov,
     forskrift,
     lokalForskrift;

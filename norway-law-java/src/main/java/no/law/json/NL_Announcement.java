@@ -1,6 +1,6 @@
 package no.law.json;
 
-public class Announcement {
+public class NL_Announcement {
     /**
      * Example:
      * https://lovdata.no/dokument/LTI/lov/2020-01-10-1
@@ -55,5 +55,5 @@ public class Announcement {
      */
     public String korttittel;
 
-    public AnnouncementType type;
+    public NL_AnnouncementType type;
 }
