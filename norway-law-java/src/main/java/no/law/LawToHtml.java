@@ -55,8 +55,8 @@ public class LawToHtml {
                 new FileOutputStream("./offentleglova.html"), StandardCharsets.UTF_8))) {
             writer.write(
                     "<head>\n"
-                            + "  <meta charset=\"UTF-8\">\n"
-                            + "  <link rel=\"stylesheet\" href=\"law.css\">"
+                            + "    <meta charset=\"UTF-8\">\n"
+                            + "    <link rel=\"stylesheet\" href=\"law.css\">\n"
                             + "</head>\n\n"
                             + lawText.toHtml()
             );

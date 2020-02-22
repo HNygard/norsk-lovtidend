@@ -23,12 +23,18 @@ public class LawText {
 
     public String toHtml() {
         return
-                "<div class=\"law\">\n"
-                + "<h1 class=\"law-name\">" + lawName + "</h1>\n\n"
-                + chapters.stream()
-                .map(Chapter::toHtml)
-                .collect(Collectors.joining("\n\n"))
-                + "\n</div>";
+                (
+                    "<div class=\"law\">\n"
+                            + addIntent4spaces(
+                                "<h1 class=\"law-name\">" + lawName + "</h1>\n\n"
+                                + chapters.stream()
+                                    .map(Chapter::toHtml)
+                                    .collect(Collectors.joining("\n\n"))
+                            )
+                            + "\n</div>"
+                )
+                // Remove all white space only lines
+                .replaceAll("\\n\\s*\\n", "\n\n");
     }
 
     public static class Chapter {
@@ -47,14 +53,18 @@ public class LawText {
 
         public String toHtml() {
             return
-                    "<div class=\"law-chapter\">"
-                            + "<h2 class=\"law-chapter-name\">" + name + "</h2>\n\n"
-                            + "<div class=\"law-chapter-paragraphs\">\n"
-                            + paragraphs.stream()
-                            .map(Paragraph::toHtml)
-                            .collect(Collectors.joining("\n\n"))
-                            + "</div>"
-                            + "</div>";
+                    "<div class=\"law-chapter\">\n"
+                            + addIntent4spaces(
+                                    "<h2 class=\"law-chapter-name\">" + name + "</h2>\n\n"
+                                    + "<div class=\"law-chapter-paragraphs\">\n"
+                                    + addIntent4spaces(
+                                        paragraphs.stream()
+                                                .map(Paragraph::toHtml)
+                                                .collect(Collectors.joining("\n\n"))
+                                    )
+                                    + "\n</div>"
+                            )
+                            + "\n</div>";
         }
     }
 
@@ -69,14 +79,18 @@ public class LawText {
         }
 
         public String toHtml() {
-            return "<div class=\"law-chapter-paragraph\">" +
+            return "<div class=\"law-chapter-paragraph\">\n"
+                    + addIntent4spaces(
                     "<h3 class=\"law-chapter-paragraph-name\">" + name + "</h3>\n\n"
-                    + "<div class=\"law-chapter-paragraph-sections\">\n"
-                    + sections.stream()
-                    .map(Section::toHtml)
-                    .collect(Collectors.joining("\n\n"))
-                    + "</div>"
-                    + "</div>";
+                            + "<div class=\"law-chapter-paragraph-sections\">\n"
+                            + addIntent4spaces(
+                            sections.stream()
+                                    .map(Section::toHtml)
+                                    .collect(Collectors.joining("\n\n"))
+                            )
+                            + "\n</div>"
+                    )
+                    + "\n</div>";
         }
     }
 
@@ -92,7 +106,11 @@ public class LawText {
         }
 
         public String toHtml() {
-            return "<div class=\"law-chapter-paragraph-section\">" + text + "</div>";
+            return "<div class=\"law-chapter-paragraph-section\">" + text.replaceAll("\n", "<br>\n") + "</div>";
         }
+    }
+
+    private static String addIntent4spaces(String input) {
+        return "    " + input.replaceAll("\n", "\n    ");
     }
 }
