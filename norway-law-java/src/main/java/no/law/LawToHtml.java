@@ -1,5 +1,8 @@
 package no.law;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
@@ -60,6 +63,12 @@ public class LawToHtml {
                             + "</head>\n\n"
                             + lawText.toHtml()
             );
+        }
+        try (Writer writer = new BufferedWriter(new OutputStreamWriter(
+                new FileOutputStream("./offentleglova.json"), StandardCharsets.UTF_8))) {
+            GsonBuilder gsonBuilder = new GsonBuilder();
+            gsonBuilder.setPrettyPrinting();
+            writer.write(gsonBuilder.create().toJson(lawText));
         }
     }
 }
