@@ -1,0 +1,48 @@
+
+/* :: Colors */
+.law {
+    background-color: lightgray;
+}
+.law .law-chapter {
+    background-color: #ffc9a7;
+}
+.law .law-chapter:hover {
+    background-color: #ffa97b;
+}
+.law .law-chapter .law-chapter-paragraph {
+    background-color: #fff57d;
+}
+.law .law-chapter .law-chapter-paragraph:hover {
+    background-color: #ffee3f;
+}
+.law .law-chapter .law-chapter-paragraph .law-chapter-paragraph-section {
+    background-color: aqua;
+}
+.law .law-chapter .law-chapter-paragraph .law-chapter-paragraph-section:hover {
+    background-color: #07ccff;
+}
+
+/* :: Other styling */
+.law .law-chapter {
+    padding-top: 0.2em;
+    padding-left: 0.4em;
+    padding-bottom: 0.4em;
+    margin-left: 0.5em;
+}
+.law .law-chapter .law-chapter-paragraph {
+    padding-top: 0.2em;
+    padding-left: 0.4em;
+    margin-left: 0.5em;
+}
+.law .law-chapter .law-chapter-paragraph .law-chapter-paragraph-section {
+    padding-bottom: 0.4em;
+    padding-top: 0.2em;
+    padding-left: 0.4em;
+    margin-left: 0.5em;
+}
+
+.law h1,
+.law h2,
+.law h3 {
+    margin: 0.3em;
+}
