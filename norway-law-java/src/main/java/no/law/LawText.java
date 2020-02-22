@@ -21,6 +21,16 @@ public class LawText {
                 .collect(Collectors.joining("\n\n"));
     }
 
+    public String toHtml() {
+        return
+                "<div class=\"law\">\n"
+                + "<h1 class=\"law-name\">" + lawName + "</h1>\n\n"
+                + chapters.stream()
+                .map(Chapter::toHtml)
+                .collect(Collectors.joining("\n\n"))
+                + "\n</div>";
+    }
+
     public static class Chapter {
         String name;
         List<Paragraph> paragraphs;
@@ -34,6 +44,18 @@ public class LawText {
                     .map(Paragraph::toString)
                     .collect(Collectors.joining("\n\n"));
         }
+
+        public String toHtml() {
+            return
+                    "<div class=\"law-chapter\">"
+                            + "<h2 class=\"law-chapter-name\">" + name + "</h2>\n\n"
+                            + "<div class=\"law-chapter-paragraphs\">\n"
+                            + paragraphs.stream()
+                            .map(Paragraph::toHtml)
+                            .collect(Collectors.joining("\n\n"))
+                            + "</div>"
+                            + "</div>";
+        }
     }
 
     public static class Paragraph {
@@ -44,6 +66,17 @@ public class LawText {
             return name + "\n\n" + sections.stream()
                     .map(Section::toString)
                     .collect(Collectors.joining("\n\n"));
+        }
+
+        public String toHtml() {
+            return "<div class=\"law-chapter-paragraph\">" +
+                    "<h3 class=\"law-chapter-paragraph-name\">" + name + "</h3>\n\n"
+                    + "<div class=\"law-chapter-paragraph-sections\">\n"
+                    + sections.stream()
+                    .map(Section::toHtml)
+                    .collect(Collectors.joining("\n\n"))
+                    + "</div>"
+                    + "</div>";
         }
     }
 
@@ -56,6 +89,10 @@ public class LawText {
 
         public String toString() {
             return text;
+        }
+
+        public String toHtml() {
+            return "<div class=\"law-chapter-paragraph-section\">" + text + "</div>";
         }
     }
 }
