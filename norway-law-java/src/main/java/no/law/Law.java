@@ -20,11 +20,18 @@ public class Law {
     public Law(String lawId, String lawName, String shortName, LocalDate announcementDate) {
         this(lawId, lawName, shortName, new ArrayList<>(), announcementDate);
     }
+
     public Law(String lawId, String lawName, String shortName, Collection<String> otherNames, LocalDate announcementDate) {
+        // Trim . at the end
+        if (lawName.endsWith(".")) {
+            lawName = lawName.substring(0, lawName.length() - 1);
+        }
+
         this.lawId = lawId;
         this.lawName = lawName;
         this.shortName = shortName;
         this.announcementDate = announcementDate;
+
         allPossibleNamesForLaw = new ArrayList<>();
         allPossibleNamesForLaw.add(lawName);
         allPossibleNamesForLaw.add(shortName);
@@ -33,6 +40,15 @@ public class Law {
             allPossibleNamesForLaw.add(name);
             allPossibleNamesForLaw.add(name + " (" + announcementDate.getYear() + ")");
         });
+
+        // Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova).
+        // => rett til innsyn i dokument i offentleg verksemd
+        allPossibleNamesForLaw.add(
+                this.lawName
+                        .replace("Lov om ", "")
+                        .replace(" (" + shortName + ")", "")
+                        .replace(" (" + shortName.toLowerCase() + ")", "")
+        );
     }
 
     public String getShortName() {

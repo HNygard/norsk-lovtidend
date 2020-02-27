@@ -1,10 +1,7 @@
 package no.law;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class LawRepository {
     public static Map<String, Law> laws = new HashMap<>();
@@ -66,5 +63,9 @@ public class LawRepository {
 
     public static Law getLaw(String lawId) {
         return laws.get(lawId);
+    }
+
+    public static Collection<Law> getLaws() {
+        return laws.values();
     }
 }

@@ -1,7 +1,7 @@
 package no.law.lawreference;
 
 import no.law.Law;
-import no.law.LawToHtml;
+import no.law.LawRepository;
 
 import java.time.LocalDate;
 import java.util.Comparator;
@@ -45,7 +45,7 @@ public class NorwegianLawTextName_to_LawId {
         }
 
         // Sort so that we find the first law
-        return LawToHtml.laws.stream()
+        return LawRepository.getLaws().stream()
                 // Remove any laws that are not relevant
                 .filter(law -> law.getAnnounementDate().isBefore(currentDate))
                 // Must match on name
