@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * This class holds the main text of a law. Plain text.
  */
-public class LawText {
+public class Law {
     private final String lawId;
     private final String lawName;
     private final String shortName;
@@ -17,10 +17,10 @@ public class LawText {
     private final Collection<String> allPossibleNamesForLaw;
     List<Chapter> chapters;
 
-    public LawText(String lawId, String lawName, String shortName, LocalDate announcementDate) {
+    public Law(String lawId, String lawName, String shortName, LocalDate announcementDate) {
         this(lawId, lawName, shortName, new ArrayList<>(), announcementDate);
     }
-    public LawText(String lawId, String lawName, String shortName, Collection<String> otherNames, LocalDate announcementDate) {
+    public Law(String lawId, String lawName, String shortName, Collection<String> otherNames, LocalDate announcementDate) {
         this.lawId = lawId;
         this.lawName = lawName;
         this.shortName = shortName;

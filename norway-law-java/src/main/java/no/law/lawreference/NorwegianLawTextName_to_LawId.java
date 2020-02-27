@@ -1,6 +1,6 @@
 package no.law.lawreference;
 
-import no.law.LawText;
+import no.law.Law;
 import no.law.LawToHtml;
 
 import java.time.LocalDate;
@@ -47,15 +47,15 @@ public class NorwegianLawTextName_to_LawId {
         // Sort so that we find the first law
         return LawToHtml.laws.stream()
                 // Remove any laws that are not relevant
-                .filter(lawText -> lawText.getAnnounementDate().isBefore(currentDate))
+                .filter(law -> law.getAnnounementDate().isBefore(currentDate))
                 // Must match on name
-                .filter(lawText ->
-                        lawText.getPossibleNamesForLaw().stream()
+                .filter(law ->
+                        law.getPossibleNamesForLaw().stream()
                                 .anyMatch(name -> name.equalsIgnoreCase(norwegianLawTextName))
                 )
                 // Get the last law
-                .max(Comparator.comparing(LawText::getAnnounementDate))
-                .map(LawText::getLawId)
+                .max(Comparator.comparing(Law::getAnnounementDate))
+                .map(Law::getLawId)
                 .orElse(null);
     }
 }
