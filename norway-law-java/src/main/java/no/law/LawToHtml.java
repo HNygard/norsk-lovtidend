@@ -6,6 +6,7 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class LawToHtml {
@@ -62,6 +63,7 @@ public class LawToHtml {
         laws.add(new LawText("LOV-1970-06-19-69",
                 "Lov om offentlighet i forvaltningen (offentlighetsloven)",
                 "Offentlighetsloven",
+                Collections.singleton("Offentleglova"),
                 LocalDate.of(1970, 6, 19)
         ));
     }

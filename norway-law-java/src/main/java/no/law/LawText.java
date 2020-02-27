@@ -18,6 +18,9 @@ public class LawText {
     List<Chapter> chapters;
 
     public LawText(String lawId, String lawName, String shortName, LocalDate announcementDate) {
+        this(lawId, lawName, shortName, new ArrayList<>(), announcementDate);
+    }
+    public LawText(String lawId, String lawName, String shortName, Collection<String> otherNames, LocalDate announcementDate) {
         this.lawId = lawId;
         this.lawName = lawName;
         this.shortName = shortName;
@@ -26,6 +29,10 @@ public class LawText {
         allPossibleNamesForLaw.add(lawName);
         allPossibleNamesForLaw.add(shortName);
         allPossibleNamesForLaw.add(shortName + " (" + announcementDate.getYear() + ")");
+        otherNames.forEach(name -> {
+            allPossibleNamesForLaw.add(name);
+            allPossibleNamesForLaw.add(name + " (" + announcementDate.getYear() + ")");
+        });
     }
 
     public String getShortName() {
