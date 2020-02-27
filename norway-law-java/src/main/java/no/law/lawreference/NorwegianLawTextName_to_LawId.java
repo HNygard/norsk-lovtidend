@@ -1,5 +1,10 @@
 package no.law.lawreference;
 
+import no.law.LawText;
+import no.law.LawToHtml;
+
+import java.time.LocalDate;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Matcher;
@@ -26,6 +31,10 @@ public class NorwegianLawTextName_to_LawId {
     }
 
     public static String law(String norwegianLawTextName) {
+        return law(norwegianLawTextName, LocalDate.now());
+    }
+
+    public static String law(String norwegianLawTextName, LocalDate currentDate) {
         Matcher matcher = compile.matcher(norwegianLawTextName);
         if (matcher.matches()) {
             int month = MONTHS.get(matcher.group(2));
@@ -34,6 +43,19 @@ public class NorwegianLawTextName_to_LawId {
                     + "-" + matcher.group(1)
                     + "-" + matcher.group(4);
         }
-        return null;
+
+        // Sort so that we find the first law
+        return LawToHtml.laws.stream()
+                // Remove any laws that are not relevant
+                .filter(lawText -> lawText.getAnnounementDate().isBefore(currentDate))
+                // Must match on name
+                .filter(lawText ->
+                        lawText.getPossibleNamesForLaw().stream()
+                                .anyMatch(name -> name.equalsIgnoreCase(norwegianLawTextName))
+                )
+                // Get the last law
+                .max(Comparator.comparing(LawText::getAnnounementDate))
+                .map(LawText::getLawId)
+                .orElse(null);
     }
 }

@@ -31,5 +31,13 @@ public class NorwegianLawTextName_to_LawIdTest {
                 "LOV-2014-06-20-49",
                 NorwegianLawTextName_to_LawId.law("lov 20. juni 2014 nr. 49")
         );
+        Assertions.assertEquals(
+                "LOV-2006-05-19-16",
+                NorwegianLawTextName_to_LawId.law("offentleglova")
+        );
+        Assertions.assertEquals(
+                "LOV-2006-05-19-16",
+                NorwegianLawTextName_to_LawId.law("Offentleglova (2006)")
+        );
     }
 }

@@ -1,17 +1,25 @@
 package no.law;
 
-import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
+import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.List;
 
 public class LawToHtml {
-    public static void main(String[] args) throws IOException {
+    public static List<LawText> laws;
+
+    static {
         // Parts of Offentleglova
         // Source: https://lovdata.no/dokument/LTI/lov/2006-05-19-16 (The original announcement of the law)
-        LawText lawText = new LawText("Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova).");
+        LawText lawText = new LawText(
+                "LOV-2006-05-19-16",
+                "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova).",
+                "Offentleglova",
+                LocalDate.of(2006, 5, 19)
+        );
         lawText.chapters = new ArrayList<>();
         lawText.chapters.add(new LawText.Chapter("Kapittel 1 Innleiande føresegner"));
         lawText.chapters.add(new LawText.Chapter("Kapittel 2 Hovudreglane om innsyn"));
@@ -47,6 +55,19 @@ public class LawToHtml {
         lawText.chapters.get(1).paragraphs = new ArrayList<>();
         lawText.chapters.get(1).paragraphs.add(paragraph3);
 
+        laws = new ArrayList<>();
+        laws.add(lawText);
+
+
+        laws.add(new LawText("LOV-1970-06-19-69",
+                "Lov om offentlighet i forvaltningen (offentlighetsloven)",
+                "Offentlighetsloven",
+                LocalDate.of(1970, 6, 19)
+        ));
+    }
+
+    public static void main(String[] args) throws IOException {
+        LawText lawText = laws.get(0);
         String offentleglova = lawText.toString();
         System.out.println(offentleglova);
 

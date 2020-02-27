@@ -3,13 +3,14 @@ package no.law;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 
 public class LawTextTest {
 
     @Test
     public void toStringTest() {
-        LawText lawText = new LawText("Lov om testing");
+        LawText lawText = new LawText("LOV-1", "Lov om testing", "Offentleglova", LocalDate.now());
         lawText.chapters = new ArrayList<>();
         lawText.chapters.add(new LawText.Chapter("Kapittel 1"));
         lawText.chapters.add(new LawText.Chapter("Kapittel 2"));

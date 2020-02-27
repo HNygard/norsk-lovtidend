@@ -1,5 +1,8 @@
 package no.law;
 
+import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -7,11 +10,42 @@ import java.util.stream.Collectors;
  * This class holds the main text of a law. Plain text.
  */
 public class LawText {
+    private final String lawId;
     private final String lawName;
+    private final String shortName;
+    private final LocalDate announcementDate;
+    private final Collection<String> allPossibleNamesForLaw;
     List<Chapter> chapters;
 
-    public LawText(String lawName) {
+    public LawText(String lawId, String lawName, String shortName, LocalDate announcementDate) {
+        this.lawId = lawId;
         this.lawName = lawName;
+        this.shortName = shortName;
+        this.announcementDate = announcementDate;
+        allPossibleNamesForLaw = new ArrayList<>();
+        allPossibleNamesForLaw.add(lawName);
+        allPossibleNamesForLaw.add(shortName);
+        allPossibleNamesForLaw.add(shortName + " (" + announcementDate.getYear() + ")");
+    }
+
+    public String getShortName() {
+        return shortName;
+    }
+
+    public String getFullName() {
+        return lawName;
+    }
+
+    public LocalDate getAnnounementDate() {
+        return announcementDate;
+    }
+
+    public String getLawId() {
+        return lawId;
+    }
+
+    public Collection<String> getPossibleNamesForLaw() {
+        return allPossibleNamesForLaw;
     }
 
     public String toString() {
