@@ -163,7 +163,7 @@ public class Law implements LawReference {
         public String toHtml() {
             return "<div class=\"law-chapter-paragraph\">\n"
                     + addIntent4spaces(
-                    "<h3 class=\"law-chapter-paragraph-name\">" + name + "</h3>\n\n"
+                    "<h3 class=\"law-chapter-paragraph-name\">" + name + ". " + title + "</h3>\n\n"
                             + "<div class=\"law-chapter-paragraph-sections\">\n"
                             + addIntent4spaces(
                             sections.stream()

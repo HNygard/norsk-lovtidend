@@ -29,7 +29,7 @@ public class LawRepository {
 
         Law.Paragraph paragraph2 = new Law.Paragraph();
         paragraph2.name = "§ 2";
-        paragraph1.title = "Verkeområdet til lova";
+        paragraph2.title = "Verkeområdet til lova";
         paragraph2.sections = new ArrayList<>();
         paragraph2.sections.add(new Law.Section("Lova gjeld for\n" +
                 "a)\tstaten, fylkeskommunane og kommunane,\n" +
@@ -47,7 +47,7 @@ public class LawRepository {
 
         Law.Paragraph paragraph3 = new Law.Paragraph();
         paragraph3.name = "§ 3";
-        paragraph1.title = "Hovudregel";
+        paragraph3.title = "Hovudregel";
         paragraph3.sections = new ArrayList<>();
         paragraph3.sections.add(new Law.Section("Saksdokument, journalar og liknande register for organet er opne for innsyn dersom ikkje anna følgjer av lov eller forskrift med heimel i lov. Alle kan krevje innsyn i saksdokument, journalar og liknande register til organet hos vedkommande organ."));
         law.chapters.get(1).paragraphs = new ArrayList<>();

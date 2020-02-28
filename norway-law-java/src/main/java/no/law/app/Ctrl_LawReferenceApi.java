@@ -1,24 +1,31 @@
 package no.law.app;
 
+import no.law.LawReference;
 import no.law.lawreference.LawReferenceFinder;
+import no.law.lawreference.NorwegianText_to_LawReference;
 import org.springframework.web.bind.annotation.*;
 
 import java.time.LocalDate;
+import java.util.List;
+import java.util.stream.Collectors;
 
 @RestController
 public class Ctrl_LawReferenceApi {
     @GetMapping(value = "/api/law-reference")
     public LawReferenceWithLawDto lawRef(@RequestParam String searchQuery) {
-        LawReferenceFinder law = new LawReferenceFinder();
-        law.law(searchQuery, LocalDate.now(), null);
-        return new LawReferenceWithLawDto(law);
+        LawReferenceFinder law = NorwegianText_to_LawReference.textToLawReference(searchQuery, LocalDate.now());
+
+        List<? extends LawReference> matchingLaw = law.getLaw().getMatchingLawRef(law);
+        return new LawReferenceWithLawDto(matchingLaw);
     }
 
     public static class LawReferenceWithLawDto {
         private final String html;
 
-        LawReferenceWithLawDto(LawReferenceFinder lawRef) {
-            this.html = lawRef.getLaw().toHtml();
+        LawReferenceWithLawDto(List<? extends LawReference> lawRefs) {
+            this.html = lawRefs.stream()
+                    .map(LawReference::toHtml)
+                    .collect(Collectors.joining("\n\n\n<br><hr><br>\n\n\n"));
         }
 
         public String getHtml() {
