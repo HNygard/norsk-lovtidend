@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
+import java.util.Collection;
 
 public class LawReferenceFinderTest {
 
@@ -55,6 +56,10 @@ public class LawReferenceFinderTest {
                 "rett til innsyn i dokument i offentleg verksemd"
         );
 
+        // Not added any details yet, so this should match the law.
+        Collection<? extends LawReference> lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
+        Assertions.assertEquals(1, lawRef.size());
+        Assertions.assertSame(lawReference.getLaw(), lawRef.stream().findFirst().get());
 
         // '§ 16 første ledd nytt tredje punktum skal lyde:'
         // => § 16

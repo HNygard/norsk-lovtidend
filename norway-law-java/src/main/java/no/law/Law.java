@@ -1,15 +1,18 @@
 package no.law;
 
+import no.law.lawreference.LawReferenceFinder;
+
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
 /**
  * This class holds the main text of a law. Plain text.
  */
-public class Law {
+public class Law implements LawReference {
     private final String lawId;
     private final String lawName;
     private final String shortName;
@@ -94,7 +97,17 @@ public class Law {
                 .replaceAll("\\n\\s*\\n", "\n\n");
     }
 
-    public static class Chapter {
+    @Override
+    public boolean isMatchinLawRef(LawReferenceFinder lawRef) {
+        return this == lawRef.getLaw();
+    }
+
+    @Override
+    public Collection<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+        return getMatching(lawRef, chapters, this);
+    }
+
+    public static class Chapter implements LawReference {
         String name;
         List<Paragraph> paragraphs;
 
@@ -123,9 +136,20 @@ public class Law {
                             )
                             + "\n</div>";
         }
+
+        @Override
+        public boolean isMatchinLawRef(LawReferenceFinder lawRef) {
+            // TODO: implement
+            return false;
+        }
+
+        @Override
+        public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+            return getMatching(lawRef, paragraphs, this);
+        }
     }
 
-    public static class Paragraph {
+    public static class Paragraph implements LawReference {
         String name;
         List<Section> sections;
 
@@ -149,9 +173,20 @@ public class Law {
                     )
                     + "\n</div>";
         }
+
+        @Override
+        public boolean isMatchinLawRef(LawReferenceFinder lawRef) {
+            // TODO: implement
+            return false;
+        }
+
+        @Override
+        public Collection<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+            return getMatching(lawRef, sections, this);
+        }
     }
 
-    public static class Section {
+    public static class Section implements LawReference {
         String text;
 
         public Section(String text) {
@@ -165,9 +200,39 @@ public class Law {
         public String toHtml() {
             return "<div class=\"law-chapter-paragraph-section\">" + text.replaceAll("\n", "<br>\n") + "</div>";
         }
+
+        @Override
+        public boolean isMatchinLawRef(LawReferenceFinder lawRef) {
+            // TODO: implement
+            return false;
+        }
+
+        @Override
+        public Collection<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+            // TODO: implement
+            return Collections.emptyList();
+        }
     }
 
     private static String addIntent4spaces(String input) {
         return "    " + input.replaceAll("\n", "\n    ");
+    }
+
+    /**
+     * Return all subParts matching lawRef. If non is found, check if currentPart is matching.
+     */
+    private static List<? extends LawReference> getMatching(
+            LawReferenceFinder lawRef,
+            Collection<? extends LawReference> subParts,
+            LawReference currentPart) {
+        List<LawReference> matches = subParts.stream()
+                .filter(paragraph -> !paragraph.getMatchingLawRef(lawRef).isEmpty())
+                .collect(Collectors.toList());
+        if (matches.isEmpty()) {
+            if (currentPart.isMatchinLawRef(lawRef)) {
+                return Collections.singletonList(currentPart);
+            }
+        }
+        return matches;
     }
 }
