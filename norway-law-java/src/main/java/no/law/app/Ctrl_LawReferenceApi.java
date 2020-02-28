@@ -9,7 +9,8 @@ import java.time.LocalDate;
 public class Ctrl_LawReferenceApi {
     @GetMapping(value = "/api/law-reference")
     public LawReferenceWithLawDto lawRef(@RequestParam String searchQuery) {
-        LawReferenceFinder law = LawReferenceFinder.law(searchQuery, LocalDate.now(), null);
+        LawReferenceFinder law = new LawReferenceFinder();
+        law.law(searchQuery, LocalDate.now(), null);
         return new LawReferenceWithLawDto(law);
     }
 

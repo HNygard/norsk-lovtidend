@@ -11,8 +11,9 @@ public class LawReferenceFinderTest {
 
     @Test
     void unknownLaw() {
+        LawReferenceFinder ref = new LawReferenceFinder();
         Assertions.assertThrows(LawReferenceFinder.LawNotFoundException_LawIdInvalid.class, () ->
-                LawReferenceFinder.law(
+                ref.law(
                         "non existing law",
                         LocalDate.of(2015, 1, 1),
                         "konfliktrådsbehandling"
@@ -22,8 +23,9 @@ public class LawReferenceFinderTest {
 
     @Test
     void validLawId_butNonExistingLaw() {
+        LawReferenceFinder ref = new LawReferenceFinder();
         Assertions.assertThrows(LawReferenceFinder.LawNotFoundException_LawIdNotFound.class, () ->
-                LawReferenceFinder.law(
+                ref.law(
                         "lov 12. juni 1234 nr. 123123123",
                         LocalDate.of(2015, 1, 1),
                         "konfliktrådsbehandling"
@@ -33,12 +35,14 @@ public class LawReferenceFinderTest {
 
     @Test
     void validLaw_noNameGiven() {
+        LawReferenceFinder ref = new LawReferenceFinder();
+        ref.law(
+                "lov 19. mai 2006 nr. 16",
+                LocalDate.of(2015, 1, 1),
+                null
+        );
         Assertions.assertEquals("LOV-2006-05-19-16",
-                LawReferenceFinder.law(
-                        "lov 19. mai 2006 nr. 16",
-                        LocalDate.of(2015, 1, 1),
-                        null
-                ).getLaw().getLawId()
+                ref.getLaw().getLawId()
         );
     }
 
@@ -50,7 +54,8 @@ public class LawReferenceFinderTest {
         // Law reference (Norwegian text):
         // 'I lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd gjøres følgende endringer:'
         LocalDate announcementDate = LocalDate.of(2015, 1, 1);
-        LawReferenceFinder lawReference = LawReferenceFinder.law(
+        LawReferenceFinder lawReference = new LawReferenceFinder();
+        lawReference.law(
                 "lov 19. mai 2006 nr. 16",
                 announcementDate,
                 "rett til innsyn i dokument i offentleg verksemd"

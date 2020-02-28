@@ -12,7 +12,7 @@ public class LawReferenceFinder {
     private Law law;
     private String paragraphRef;
 
-    public static LawReferenceFinder law(String rawLawId, LocalDate date, String name) {
+    public void law(String rawLawId, LocalDate date, String name) {
         String checkedLawId = NorwegianLawTextName_to_LawId.law(rawLawId, date);
         if (checkedLawId == null) {
             throw new LawNotFoundException_LawIdInvalid("Could not find law id/name [" + rawLawId + "] at the time [" + date + "].");
@@ -31,9 +31,7 @@ public class LawReferenceFinder {
             );
         }
 
-        LawReferenceFinder lawReference = new LawReferenceFinder();
-        lawReference.law = law;
-        return lawReference;
+        this.law = law;
     }
 
     public void addReference(String paragraphReference, String sectionReference, String sentenceReference) {
