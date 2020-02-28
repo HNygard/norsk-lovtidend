@@ -12,6 +12,7 @@ import java.util.Objects;
 public class LawReferenceFinder {
     private Law law;
     private String paragraphRef;
+    private String sectionRef;
 
     public LawReferenceFinder() {
     }
@@ -23,6 +24,12 @@ public class LawReferenceFinder {
     public LawReferenceFinder(String lawId, String paragraph) {
         this(lawId);
         paragraphRef = paragraph;
+    }
+
+    public LawReferenceFinder(String lawId, String paragraph, String section) {
+        this(lawId);
+        paragraphRef = paragraph;
+        sectionRef = section;
     }
 
     public void law(String rawLawId, LocalDate date, String name) {
@@ -47,9 +54,6 @@ public class LawReferenceFinder {
         this.law = law;
     }
 
-    public void addReference(String paragraphReference, String sectionReference, String sentenceReference) {
-    }
-
     public Law getLaw() {
         return law;
     }
@@ -62,18 +66,27 @@ public class LawReferenceFinder {
         this.paragraphRef = paragraphRef;
     }
 
+    public String getSectionRef() {
+        return sectionRef;
+    }
+
+    public void addSection(String sectionRef) {
+        this.sectionRef = sectionRef;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         LawReferenceFinder that = (LawReferenceFinder) o;
-        return Objects.equals(law, that.law) &&
-                Objects.equals(paragraphRef, that.paragraphRef);
+        return Objects.equals(law, that.law)
+                && Objects.equals(paragraphRef, that.paragraphRef)
+                && Objects.equals(sectionRef, that.sectionRef);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(law, paragraphRef);
+        return Objects.hash(law, paragraphRef, sectionRef);
     }
 
     public String toString() {
@@ -83,6 +96,9 @@ public class LawReferenceFinder {
         }
         if (paragraphRef != null) {
             result += " " + paragraphRef;
+        }
+        if (sectionRef != null) {
+            result += " " + sectionRef + " ledd";
         }
         return result.trim();
     }

@@ -11,6 +11,7 @@ import static no.law.lawreference.NorwegianText_to_LawReference.textToLawReferen
 public class NorwegianText_to_LawReferenceTest {
     @Test
     void refTest() {
+        LawReferenceFinder lawRef;
         LocalDate date = LocalDate.of(2010, 1, 1);
 
         Assertions.assertEquals(
@@ -18,7 +19,7 @@ public class NorwegianText_to_LawReferenceTest {
                 textToLawReference("", date)
         );
 
-        LawReferenceFinder lawRef = new LawReferenceFinder("LOV-2006-05-19-16");
+        lawRef = new LawReferenceFinder("LOV-2006-05-19-16");
         Assertions.assertEquals(lawRef, textToLawReference("Offentleglova", date));
         Assertions.assertEquals(lawRef, textToLawReference("Offentleglova (2006)", date));
 
@@ -27,5 +28,8 @@ public class NorwegianText_to_LawReferenceTest {
         Assertions.assertEquals(lawRef, textToLawReference("Offentleglova (2006) § 1", date));
         Assertions.assertEquals(lawRef, textToLawReference("Offentleglova (2006) paragraf1", date));
         Assertions.assertEquals(lawRef, textToLawReference("Offentleglova (2006) paragraf 1", date));
+
+        lawRef = new LawReferenceFinder("LOV-2006-05-19-16", "§ 2", "første");
+        Assertions.assertEquals(lawRef, textToLawReference("Offentleglova (2006) § 2 første ledd", date));
     }
 }

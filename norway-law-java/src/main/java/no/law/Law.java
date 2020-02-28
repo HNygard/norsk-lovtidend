@@ -1,6 +1,7 @@
 package no.law;
 
 import no.law.lawreference.LawReferenceFinder;
+import no.law.lawreference.NorwegianNumbers;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -185,7 +186,16 @@ public class Law implements LawReference {
 
         @Override
         public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
-            return getMatching(lawRef, sections, this);
+            if (lawRef.getSectionRef() != null) {
+                int sectionNum = NorwegianNumbers.nameToNumber.get(lawRef.getSectionRef());
+                if (sections.size() >= sectionNum) {
+                    return Collections.singletonList(sections.get(sectionNum - 1));
+                }
+            }
+            if (isMatchinLawRef(lawRef)) {
+                return Collections.singletonList(this);
+            }
+            return Collections.emptyList();
         }
     }
 

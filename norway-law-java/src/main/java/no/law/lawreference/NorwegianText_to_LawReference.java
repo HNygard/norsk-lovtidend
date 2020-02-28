@@ -18,6 +18,13 @@ public class NorwegianText_to_LawReference {
             text = text.replace(matcher.group(1), "");
         }
 
+        pattern = Pattern.compile(" (([a-zæøåA-ZÆØÅ]*) ledd) ");
+        matcher = pattern.matcher(text);
+        if (matcher.find()) {
+            ref.addSection(matcher.group(2));
+            text = text.replace(matcher.group(1), "");
+        }
+
         try {
             ref.law(text.trim(), date, null);
         }

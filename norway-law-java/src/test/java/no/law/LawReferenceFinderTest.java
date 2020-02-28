@@ -72,14 +72,21 @@ public class LawReferenceFinderTest {
         lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
         Assertions.assertEquals(1, lawRef.size());
         Assertions.assertEquals(Law.Paragraph.class, lawRef.get(0).getClass());
-        Assertions.assertEquals("§ 1. Hovudregel\n\n" +
+        Assertions.assertEquals("§ 1. Formål\n\n" +
                 "Formålet med lova er å leggje til rette for at offentleg verksemd er open og" +
                 " gjennomsiktig, for slik å styrkje informasjons- og ytringsfridommen, den demokratiske deltakinga," +
                 " rettstryggleiken for den enkelte, tilliten til det offentlege og kontrollen frå ålmenta. Lova skal" +
                 " òg leggje til rette for vidarebruk av offentleg informasjon.", lawRef.get(0).toString());
 
         // => første ledd
+        lawReference.addParagraph("§ 2");
+        lawReference.addSection("tredje");
+        lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
+        Assertions.assertEquals(1, lawRef.size());
+        Assertions.assertEquals(Law.Section.class, lawRef.get(0).getClass());
+        Assertions.assertEquals("Lova gjeld ikkje for Stortinget, Riksrevisjonen, Stortingets ombodsmann for" +
+                " forvaltninga og andre organ for Stortinget.", lawRef.get(0).toString());
+
         // => tredje punktum
-        lawReference.addReference("§ 16", "første ledd", "tredje punktum");
     }
 }
