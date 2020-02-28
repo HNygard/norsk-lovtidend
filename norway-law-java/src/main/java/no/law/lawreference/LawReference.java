@@ -22,7 +22,7 @@ public class LawReference {
             throw new LawNotFoundException_LawIdNotFound("The law [" + checkedLawId + "] was not found.");
         }
 
-        if (!law.getPossibleNamesForLaw().contains(name)) {
+        if (name != null && !law.getPossibleNamesForLaw().contains(name)) {
             throw new LawNotFoundException_ControlNameDoesNotMatch(
                     "The law [" + checkedLawId + "] does not have the name or subject [" + name + "].\n" +
                             "Names/subjects of the law:\n" +
@@ -36,6 +36,10 @@ public class LawReference {
     }
 
     public void addReference(String paragraphReference, String sectionReference, String sentenceReference) {
+    }
+
+    public Law getLaw() {
+        return law;
     }
 
     public static class LawNotFoundException_LawIdInvalid extends RuntimeException {

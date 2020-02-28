@@ -31,6 +31,17 @@ public class LawReferenceTest {
     }
 
     @Test
+    void validLaw_noNameGiven() {
+        Assertions.assertEquals("LOV-2006-05-19-16",
+                LawReference.law(
+                        "lov 19. mai 2006 nr. 16",
+                        LocalDate.of(2015, 1, 1),
+                        null
+                ).getLaw().getLawId()
+        );
+    }
+
+    @Test
     public void lovReferanse() {
         // Based on:
         // https://lovdata.no/dokument/LTI/lov/2015-06-19-64
