@@ -8,10 +8,10 @@ import java.time.LocalDate;
 /**
  * This class holds a reference to a law or a part of a law.
  */
-public class LawReference {
+public class LawReferenceFinder {
     private Law law;
 
-    public static LawReference law(String rawLawId, LocalDate date, String name) {
+    public static LawReferenceFinder law(String rawLawId, LocalDate date, String name) {
         String checkedLawId = NorwegianLawTextName_to_LawId.law(rawLawId, date);
         if (checkedLawId == null) {
             throw new LawNotFoundException_LawIdInvalid("Could not find law id/name [" + rawLawId + "] at the time [" + date + "].");
@@ -30,7 +30,7 @@ public class LawReference {
             );
         }
 
-        LawReference lawReference = new LawReference();
+        LawReferenceFinder lawReference = new LawReferenceFinder();
         lawReference.law = law;
         return lawReference;
     }

@@ -1,6 +1,6 @@
 package no.law.app;
 
-import no.law.lawreference.LawReference;
+import no.law.lawreference.LawReferenceFinder;
 import org.springframework.web.bind.annotation.*;
 
 import java.time.LocalDate;
@@ -9,14 +9,14 @@ import java.time.LocalDate;
 public class Ctrl_LawReferenceApi {
     @GetMapping(value = "/api/law-reference")
     public LawReferenceWithLawDto lawRef(@RequestParam String searchQuery) {
-        LawReference law = LawReference.law(searchQuery, LocalDate.now(), null);
+        LawReferenceFinder law = LawReferenceFinder.law(searchQuery, LocalDate.now(), null);
         return new LawReferenceWithLawDto(law);
     }
 
     public static class LawReferenceWithLawDto {
         private final String html;
 
-        LawReferenceWithLawDto(LawReference lawRef) {
+        LawReferenceWithLawDto(LawReferenceFinder lawRef) {
             this.html = lawRef.getLaw().toHtml();
         }
 
