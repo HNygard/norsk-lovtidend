@@ -103,7 +103,7 @@ public class Law implements LawReference {
     }
 
     @Override
-    public Collection<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+    public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
         return getMatching(lawRef, chapters, this);
     }
 
@@ -151,10 +151,11 @@ public class Law implements LawReference {
 
     public static class Paragraph implements LawReference {
         String name;
+        String title;
         List<Section> sections;
 
         public String toString() {
-            return name + "\n\n" + sections.stream()
+            return name + ". " + title + "\n\n" + sections.stream()
                     .map(Section::toString)
                     .collect(Collectors.joining("\n\n"));
         }
@@ -176,12 +177,14 @@ public class Law implements LawReference {
 
         @Override
         public boolean isMatchinLawRef(LawReferenceFinder lawRef) {
-            // TODO: implement
+            if (lawRef.getParagraphRef() != null) {
+                return name.equals(lawRef.getParagraphRef());
+            }
             return false;
         }
 
         @Override
-        public Collection<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+        public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
             return getMatching(lawRef, sections, this);
         }
     }
@@ -208,7 +211,7 @@ public class Law implements LawReference {
         }
 
         @Override
-        public Collection<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+        public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
             // TODO: implement
             return Collections.emptyList();
         }
@@ -226,7 +229,9 @@ public class Law implements LawReference {
             Collection<? extends LawReference> subParts,
             LawReference currentPart) {
         List<LawReference> matches = subParts.stream()
-                .filter(paragraph -> !paragraph.getMatchingLawRef(lawRef).isEmpty())
+                .map(part -> part.getMatchingLawRef(lawRef))
+                .filter(subPartsMatches -> !subPartsMatches.isEmpty())
+                .flatMap(List::stream)
                 .collect(Collectors.toList());
         if (matches.isEmpty()) {
             if (currentPart.isMatchinLawRef(lawRef)) {

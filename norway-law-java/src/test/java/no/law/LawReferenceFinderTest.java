@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
-import java.util.Collection;
+import java.util.List;
 
 public class LawReferenceFinderTest {
 
@@ -57,12 +57,22 @@ public class LawReferenceFinderTest {
         );
 
         // Not added any details yet, so this should match the law.
-        Collection<? extends LawReference> lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
+        List<? extends LawReference> lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
         Assertions.assertEquals(1, lawRef.size());
-        Assertions.assertSame(lawReference.getLaw(), lawRef.stream().findFirst().get());
+        Assertions.assertSame(lawReference.getLaw(), lawRef.get(0));
 
         // '§ 16 første ledd nytt tredje punktum skal lyde:'
         // => § 16
+        lawReference.addParagraph("§ 1");
+        lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
+        Assertions.assertEquals(1, lawRef.size());
+        Assertions.assertEquals(Law.Paragraph.class, lawRef.get(0).getClass());
+        Assertions.assertEquals("§ 1. Hovudregel\n\n" +
+                "Formålet med lova er å leggje til rette for at offentleg verksemd er open og" +
+                " gjennomsiktig, for slik å styrkje informasjons- og ytringsfridommen, den demokratiske deltakinga," +
+                " rettstryggleiken for den enkelte, tilliten til det offentlege og kontrollen frå ålmenta. Lova skal" +
+                " òg leggje til rette for vidarebruk av offentleg informasjon.", lawRef.get(0).toString());
+
         // => første ledd
         // => tredje punktum
         lawReference.addReference("§ 16", "første ledd", "tredje punktum");

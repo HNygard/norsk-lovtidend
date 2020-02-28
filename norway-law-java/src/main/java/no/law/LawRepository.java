@@ -20,14 +20,16 @@ public class LawRepository {
         law.chapters.add(new Law.Chapter("Kapittel 2 Hovudreglane om innsyn"));
 
         Law.Paragraph paragraph1 = new Law.Paragraph();
-        paragraph1.name = "§ 1. Formål";
+        paragraph1.name = "§ 1";
+        paragraph1.title = "Formål";
         paragraph1.sections = new ArrayList<>();
         paragraph1.sections.add(new Law.Section("Formålet med lova er å leggje til rette for at offentleg verksemd er open og gjennomsiktig, for slik å styrkje informasjons- og ytringsfridommen, den demokratiske deltakinga, rettstryggleiken for den enkelte, tilliten til det offentlege og kontrollen frå ålmenta. Lova skal òg leggje til rette for vidarebruk av offentleg informasjon."));
         law.chapters.get(0).paragraphs = new ArrayList<>();
         law.chapters.get(0).paragraphs.add(paragraph1);
 
         Law.Paragraph paragraph2 = new Law.Paragraph();
-        paragraph2.name = "§ 2. Verkeområdet til lova";
+        paragraph2.name = "§ 2";
+        paragraph1.title = "Verkeområdet til lova";
         paragraph2.sections = new ArrayList<>();
         paragraph2.sections.add(new Law.Section("Lova gjeld for\n" +
                 "a)\tstaten, fylkeskommunane og kommunane,\n" +
@@ -44,7 +46,8 @@ public class LawRepository {
 
 
         Law.Paragraph paragraph3 = new Law.Paragraph();
-        paragraph3.name = "§ 3. Hovudregel";
+        paragraph3.name = "§ 3";
+        paragraph1.title = "Hovudregel";
         paragraph3.sections = new ArrayList<>();
         paragraph3.sections.add(new Law.Section("Saksdokument, journalar og liknande register for organet er opne for innsyn dersom ikkje anna følgjer av lov eller forskrift med heimel i lov. Alle kan krevje innsyn i saksdokument, journalar og liknande register til organet hos vedkommande organ."));
         law.chapters.get(1).paragraphs = new ArrayList<>();

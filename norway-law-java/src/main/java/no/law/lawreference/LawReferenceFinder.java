@@ -10,6 +10,7 @@ import java.time.LocalDate;
  */
 public class LawReferenceFinder {
     private Law law;
+    private String paragraphRef;
 
     public static LawReferenceFinder law(String rawLawId, LocalDate date, String name) {
         String checkedLawId = NorwegianLawTextName_to_LawId.law(rawLawId, date);
@@ -40,6 +41,14 @@ public class LawReferenceFinder {
 
     public Law getLaw() {
         return law;
+    }
+
+    public String getParagraphRef() {
+        return paragraphRef;
+    }
+
+    public void addParagraph(String paragraphRef) {
+        this.paragraphRef = paragraphRef;
     }
 
     public static class LawNotFoundException_LawIdInvalid extends RuntimeException {
