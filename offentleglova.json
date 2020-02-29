@@ -1,6 +1,6 @@
 {
   "lawId": "LOV-2006-05-19-16",
-  "lawName": "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova).",
+  "lawName": "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova)",
   "shortName": "Offentleglova",
   "announcementDate": {
     "year": 2006,
@@ -8,16 +8,19 @@
     "day": 19
   },
   "allPossibleNamesForLaw": [
-    "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova).",
+    "LOV-2006-05-19-16",
+    "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova)",
     "Offentleglova",
-    "Offentleglova (2006)"
+    "Offentleglova (2006)",
+    "rett til innsyn i dokument i offentleg verksemd"
   ],
   "chapters": [
     {
       "name": "Kapittel 1 Innleiande føresegner",
       "paragraphs": [
         {
-          "name": "§ 1. Formål",
+          "name": "§ 1",
+          "title": "Formål",
           "sections": [
             {
               "text": "Formålet med lova er å leggje til rette for at offentleg verksemd er open og gjennomsiktig, for slik å styrkje informasjons- og ytringsfridommen, den demokratiske deltakinga, rettstryggleiken for den enkelte, tilliten til det offentlege og kontrollen frå ålmenta. Lova skal òg leggje til rette for vidarebruk av offentleg informasjon."
@@ -25,7 +28,8 @@
           ]
         },
         {
-          "name": "§ 2. Verkeområdet til lova",
+          "name": "§ 2",
+          "title": "Verkeområdet til lova",
           "sections": [
             {
               "text": "Lova gjeld for\na)\tstaten, fylkeskommunane og kommunane,\nb)\tandre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift,\nc)\tsjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har ein eigardel som gir meir enn halvparten av røystene i det øvste organet i rettssubjektet, og\nd)\tsjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.\nBokstavane c og d gjeld ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private. For verksemder som etter offentleg oppkjøp eller liknande kjem inn under bokstavane c eller d, gjeld lova frå og med fjerde månadsskiftet etter den månaden da vilkåra vart oppfylte."
@@ -53,7 +57,8 @@
       "name": "Kapittel 2 Hovudreglane om innsyn",
       "paragraphs": [
         {
-          "name": "§ 3. Hovudregel",
+          "name": "§ 3",
+          "title": "Hovudregel",
           "sections": [
             {
               "text": "Saksdokument, journalar og liknande register for organet er opne for innsyn dersom ikkje anna følgjer av lov eller forskrift med heimel i lov. Alle kan krevje innsyn i saksdokument, journalar og liknande register til organet hos vedkommande organ."
