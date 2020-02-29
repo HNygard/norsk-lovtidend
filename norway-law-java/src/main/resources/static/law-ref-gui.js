@@ -14,6 +14,11 @@ var search = function() {
                     document.getElementById("law-ref-result").innerHTML = "<div class='alert alert-danger'><b>" + data.message + "</b><br><br>" +
                         "<pre>" + data.trace + "</pre></div>";
                 } else {
+                    var resultInfo = '<b>Match found:</b> ' + data.lawReference + '&nbsp;&nbsp;&nbsp;<b>Match type:</b>';
+                    data.lawReferenceMatchTypes.forEach((matchType) => {
+                        resultInfo += ' ' + matchType;
+                    });
+                    document.getElementById('law-ref-result-info').innerHTML = resultInfo;
                     document.getElementById("law-ref-result").innerHTML = "<div class='law-ref-result-success'>" + data.html + "</div>";
                 }
             });
