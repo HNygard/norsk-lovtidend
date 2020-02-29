@@ -47,7 +47,7 @@ public class NorwegianText_to_LawReference {
 
         // Sort the names so that the longest names are first. They will get priority over shorter names.
         List<Map.Entry<String, Law>> sortedEntrySet_longestFirst = lawName_to_law.entrySet().stream()
-                .sorted(Comparator.comparingInt(stringLawEntry -> stringLawEntry.getKey().length()))
+                .sorted(Comparator.comparingInt(stringLawEntry -> -stringLawEntry.getKey().length()))
                 .collect(Collectors.toList());
         String textLower = text.toLowerCase();
         for(Map.Entry<String, Law> lawNameEntry : sortedEntrySet_longestFirst) {
