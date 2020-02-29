@@ -146,6 +146,14 @@ public class Law implements LawReference {
 
         @Override
         public List<? extends LawReference> getMatchingLawRef(LawReferenceFinder lawRef) {
+            List<Paragraph> paragraphs = this.paragraphs;
+            if (lawRef.getParagraphRef() != null) {
+                // Filter Parapraphs so that only matching ParagraphRef is consided
+                paragraphs = paragraphs.stream()
+                        .filter(p -> p.isMatchinLawRef(lawRef))
+                        .collect(Collectors.toList());
+            }
+
             return getMatching(lawRef, paragraphs, this);
         }
     }

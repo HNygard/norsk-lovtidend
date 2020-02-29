@@ -87,6 +87,34 @@ public class LawReferenceFinderTest {
         Assertions.assertEquals("Lova gjeld ikkje for Stortinget, Riksrevisjonen, Stortingets ombodsmann for" +
                 " forvaltninga og andre organ for Stortinget.", lawRef.get(0).toString());
 
+        // :: 'Offentleglova Første ledd' should return all 'første ledd' sections
+        lawReference.addParagraph(null);
+        lawReference.addSection("første");
+        lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
+        Assertions.assertEquals(3, lawRef.size());
+        Assertions.assertEquals(Law.Section.class, lawRef.get(0).getClass());
+        Assertions.assertEquals(Law.Section.class, lawRef.get(1).getClass());
+        Assertions.assertEquals(Law.Section.class, lawRef.get(2).getClass());
+        Assertions.assertEquals("Formålet med lova er å leggje til rette for at offentleg verksemd er open og" +
+                " gjennomsiktig, for slik å styrkje informasjons- og ytringsfridommen, den demokratiske deltakinga," +
+                " rettstryggleiken for den enkelte, tilliten til det offentlege og kontrollen frå ålmenta. Lova skal" +
+                " òg leggje til rette for vidarebruk av offentleg informasjon.", lawRef.get(0).toString());
+        // lawRef.get(1) is long. Don't bother checking text
+        Assertions.assertEquals("Saksdokument, journalar og liknande register for organet er opne for innsyn" +
+                " dersom ikkje anna følgjer av lov eller forskrift med heimel i lov. Alle kan krevje innsyn i" +
+                " saksdokument, journalar og liknande register til organet hos vedkommande organ.", lawRef.get(2).toString());
+
+        // :: 'Offentleglova § 1 første ledd' should return just the section inside § 1
+        lawReference.addParagraph("§ 1");
+        lawReference.addSection("første");
+        lawRef = lawReference.getLaw().getMatchingLawRef(lawReference);
+        Assertions.assertEquals(1, lawRef.size());
+        Assertions.assertEquals(Law.Section.class, lawRef.get(0).getClass());
+        Assertions.assertEquals("Formålet med lova er å leggje til rette for at offentleg verksemd er open og" +
+                " gjennomsiktig, for slik å styrkje informasjons- og ytringsfridommen, den demokratiske deltakinga," +
+                " rettstryggleiken for den enkelte, tilliten til det offentlege og kontrollen frå ålmenta. Lova skal" +
+                " òg leggje til rette for vidarebruk av offentleg informasjon.", lawRef.get(0).toString());
+
         // => tredje punktum
     }
 }
