@@ -21,7 +21,7 @@ public class NorwegianText_to_LawReference {
         text = " " + text + " ";
         Pattern pattern = Pattern.compile(" ((§|paragraf)\\s?([0-9]*)) ");
         Matcher matcher = pattern.matcher(text);
-        if (matcher.find()) {
+        if (matcher.find() && !"".equals(matcher.group(3))) {
             ref.addParagraph("§ " + matcher.group(3));
             text = text.replace(matcher.group(1), "");
         }

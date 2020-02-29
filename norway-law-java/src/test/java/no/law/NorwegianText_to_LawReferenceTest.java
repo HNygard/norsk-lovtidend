@@ -27,6 +27,8 @@ public class NorwegianText_to_LawReferenceTest {
 
         lawRef = new LawReferenceFinder("LOV-1970-06-19-69");
         Assertions.assertEquals(lawRef, textToLawReference("Offentleglova", date2));
+        Assertions.assertEquals(lawRef, textToLawReference("Offentleglova §", date2));
+        Assertions.assertEquals(lawRef, textToLawReference("Offentleglova § abc", date2));
         Assertions.assertEquals(lawRef, textToLawReference("Offentleglova some other word", date2));
 
         lawRef = new LawReferenceFinder("LOV-2006-05-19-16", "§ 1");
