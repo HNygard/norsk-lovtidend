@@ -11,6 +11,7 @@ var search = function() {
             .then((data) => {
                 console.log(data);
                 if (data.status && data.status === 500) {
+                    document.getElementById('law-ref-result-info').innerHTML = '';
                     document.getElementById("law-ref-result").innerHTML = "<div class='alert alert-danger'><b>" + data.message + "</b><br><br>" +
                         "<pre>" + data.trace + "</pre></div>";
                 } else {
