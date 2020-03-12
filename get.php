@@ -2,6 +2,9 @@
 /**
  * This script downloads all announcements in Norsk Lovtidend, released by Ministry of Justice, published by Lovdata.
  *
+ * Pages within the current year are cached for 4 days. All pages other pages are cached for 365 days. There can be changes in old
+ * announcements.
+ *
  * @author Hallvard Nygård, @hallny / Norske-postlister.no.
  */
 
