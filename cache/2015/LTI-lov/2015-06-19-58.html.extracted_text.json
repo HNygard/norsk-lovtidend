@@ -1,0 +1,312 @@
+[
+    {
+        "tag": "p",
+        "class": "marg",
+        "html": "Prop.120 LS (2014–2015), Innst.355 L (2014–2015), Lovvedtak 122 (2014–2015). Stortingets første og andre gongs behandling hv. 15. og 18. juni 2015. Fremja av Finansdepartementet.",
+        "text": "Prop.120 LS (2014–2015), Innst.355 L (2014–2015), Lovvedtak 122 (2014–2015). Stortingets første og andre gongs behandling hv. 15. og 18. juni 2015. Fremja av Finansdepartementet."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 1.",
+        "text": "§ 1."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Virkefelt</em>",
+        "text": "Virkefelt"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Denne lova gjeld leverandørar av kassasystem som nemnt i § 2 bokstav e. Lova fastsett krav til kassasystem mv. som blir tilbode for sal, utleige eller utlån til bokføringspliktig som nemnt i bokføringslova § 2.",
+        "text": "Denne lova gjeld leverandørar av kassasystem som nemnt i § 2 bokstav e. Lova fastsett krav til kassasystem mv. som blir tilbode for sal, utleige eller utlån til bokføringspliktig som nemnt i bokføringslova § 2."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 2.",
+        "text": "§ 2."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Definisjonar</em>",
+        "text": "Definisjonar"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "I denne lova tyder",
+        "text": "I denne lova tyder"
+    },
+    {
+        "tag": "table",
+        "class": "avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kontantsal: sal av varer og tenester der kjøparen si betalingsplikt overfor seljar blir gjort opp ved levering, ved bruk av betalingskort eller kontantar som betalingsmiddel. Sal over internett eller ved oppkrav blir ikkje rekna som kontantsal,</td>\n</tr>",
+        "text": "a)kontantsal: sal av varer og tenester der kjøparen si betalingsplikt overfor seljar blir gjort opp ved levering, ved bruk av betalingskort eller kontantar som betalingsmiddel. Sal over internett eller ved oppkrav blir ikkje rekna som kontantsal,"
+    },
+    {
+        "tag": "table",
+        "class": "avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">betalingskort: debetkort, kredittkort og faktureringskort,</td>\n</tr>",
+        "text": "b)betalingskort: debetkort, kredittkort og faktureringskort,"
+    },
+    {
+        "tag": "table",
+        "class": "avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kontantar: andre betalingsmiddel enn betalingskort,</td>\n</tr>",
+        "text": "c)kontantar: andre betalingsmiddel enn betalingskort,"
+    },
+    {
+        "tag": "table",
+        "class": "avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kassasystem: kassaapparat eller anna elektronisk system for registrering av kontantsal og utskrift av salskvittering,</td>\n</tr>",
+        "text": "d)kassasystem: kassaapparat eller anna elektronisk system for registrering av kontantsal og utskrift av salskvittering,"
+    },
+    {
+        "tag": "table",
+        "class": "avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">leverandør av kassasystem: produsent eller importør som enten sjølv eller gjennom forhandlar sel eller tilbyr kassasystem mv. for sal, utleige eller utlån til bokføringspliktig som nemnt i § 1, og forhandlarar og andre som tilpassar kassasystem for dei bokføringspliktige,</td>\n</tr>",
+        "text": "e)leverandør av kassasystem: produsent eller importør som enten sjølv eller gjennom forhandlar sel eller tilbyr kassasystem mv. for sal, utleige eller utlån til bokføringspliktig som nemnt i § 1, og forhandlarar og andre som tilpassar kassasystem for dei bokføringspliktige,"
+    },
+    {
+        "tag": "table",
+        "class": "avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ID-nummeret til kassasystemet: ein unik identifikator for kassasystemet.</td>\n</tr>",
+        "text": "f)ID-nummeret til kassasystemet: ein unik identifikator for kassasystemet."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 3.",
+        "text": "§ 3."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Krav til kassasystem</em>",
+        "text": "Krav til kassasystem"
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Eit kassasystem skal vere innretta slik at det enkelt kan vurderast om det er i samsvar med føresegner gitt i medhald av lova. Opplysingar om modell, type og versjon av kassasystemet, med ID-nummeret til kassasystemet, skal vere lett tilgjengeleg.</td></tr>",
+        "text": "(1) Eit kassasystem skal vere innretta slik at det enkelt kan vurderast om det er i samsvar med føresegner gitt i medhald av lova. Opplysingar om modell, type og versjon av kassasystemet, med ID-nummeret til kassasystemet, skal vere lett tilgjengeleg."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Det skal finnast ei systemskildring av oppbygginga til kassasystemet og alle funksjonane i systemet. Systemskildringa skal følgje med kassasystemet ved sal, utleige eller utlån.</td></tr>",
+        "text": "(2) Det skal finnast ei systemskildring av oppbygginga til kassasystemet og alle funksjonane i systemet. Systemskildringa skal følgje med kassasystemet ved sal, utleige eller utlån."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 4.",
+        "text": "§ 4."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Bistand og plikt til utlevering av programvare mv.</em>",
+        "text": "Bistand og plikt til utlevering av programvare mv."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Leverandørar av kassasystem skal gi skattekontoret naudsynt bistand til innsyn i kassasystemet.</td></tr>",
+        "text": "(1) Leverandørar av kassasystem skal gi skattekontoret naudsynt bistand til innsyn i kassasystemet."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Skattekontoret kan krevje å få utlevert programvare, servicenøklar, servicemanual, programmeringsverktøy og programmeringsmanual mv. for kassasystemet frå leverandøren av kassasystemet. Det skal fastsetjast ein frist for oppfylling.</td></tr>",
+        "text": "(2) Skattekontoret kan krevje å få utlevert programvare, servicenøklar, servicemanual, programmeringsverktøy og programmeringsmanual mv. for kassasystemet frå leverandøren av kassasystemet. Det skal fastsetjast ein frist for oppfylling."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 5.",
+        "text": "§ 5."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Produktfråsegn</em>",
+        "text": "Produktfråsegn"
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Leverandøren av eit kassasystem skal levere ei produktfråsegn til skattekontoret om at kassasystemet oppfyller krava i § 3 og krava i føresegnene gitt i medhald av lova. Produktfråsegna skal leverast før kassasystemet blir tilbode for sal, utleige eller utlån og ho skal oppdaterast ved nye versjonar av kassasystemet.</td></tr>",
+        "text": "(1) Leverandøren av eit kassasystem skal levere ei produktfråsegn til skattekontoret om at kassasystemet oppfyller krava i § 3 og krava i føresegnene gitt i medhald av lova. Produktfråsegna skal leverast før kassasystemet blir tilbode for sal, utleige eller utlån og ho skal oppdaterast ved nye versjonar av kassasystemet."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Ved sal, utleige eller utlån skal produktfråsegna følgje med kassasystemet.</td></tr>",
+        "text": "(2) Ved sal, utleige eller utlån skal produktfråsegna følgje med kassasystemet."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 6.",
+        "text": "§ 6."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Utbetring av manglar mv.</em>",
+        "text": "Utbetring av manglar mv."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Blir ein leverandør av kassasystem merksam på at eit kassasystem ikkje tilfredsstiller krav etter forskrift gitt i medhald av lova, skal leverandøren utan ugrunna opphald melde frå om dette til skattekontoret og utbetre mangelen eller trekkje kassasystemet frå marknaden.</td></tr>",
+        "text": "(1) Blir ein leverandør av kassasystem merksam på at eit kassasystem ikkje tilfredsstiller krav etter forskrift gitt i medhald av lova, skal leverandøren utan ugrunna opphald melde frå om dette til skattekontoret og utbetre mangelen eller trekkje kassasystemet frå marknaden."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Dersom skattekontoret avdekkjer eller blir merksam på manglar som nemnt i første ledd, kan leverandøren bli gitt ein frist for å utbetre mangelen eller trekkje kassasystemet frå marknaden.</td></tr>",
+        "text": "(2) Dersom skattekontoret avdekkjer eller blir merksam på manglar som nemnt i første ledd, kan leverandøren bli gitt ein frist for å utbetre mangelen eller trekkje kassasystemet frå marknaden."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 7.",
+        "text": "§ 7."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Tvangsmulkt</em>",
+        "text": "Tvangsmulkt"
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Skattekontoret kan påleggje ein leverandør som ikkje har retta seg etter pålegg om å utlevere programvare mv. etter § 4 andre ledd innan den fastsette fristen, ei dagleg laupande tvangsmulkt fram til utlevering skjer. Tvangsmulkta utgjer eitt rettsgebyr per dag, jf. rettsgebyrloven § 1 andre ledd.</td></tr>",
+        "text": "(1) Skattekontoret kan påleggje ein leverandør som ikkje har retta seg etter pålegg om å utlevere programvare mv. etter § 4 andre ledd innan den fastsette fristen, ei dagleg laupande tvangsmulkt fram til utlevering skjer. Tvangsmulkta utgjer eitt rettsgebyr per dag, jf. rettsgebyrloven § 1 andre ledd."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Skattekontoret kan påleggje ein leverandør som ikkje har retta seg etter pålegg om å utbetre mangelen eller trekkje kassasystemet frå marknaden etter § 6 andre ledd innan den fastsette fristen, ei dagleg laupande tvangsmulkt fram til utbetring skjer. Tvangsmulkta utgjer ti rettsgebyr per dag, jf. rettsgebyrloven § 1 andre ledd.</td></tr>",
+        "text": "(2) Skattekontoret kan påleggje ein leverandør som ikkje har retta seg etter pålegg om å utbetre mangelen eller trekkje kassasystemet frå marknaden etter § 6 andre ledd innan den fastsette fristen, ei dagleg laupande tvangsmulkt fram til utbetring skjer. Tvangsmulkta utgjer ti rettsgebyr per dag, jf. rettsgebyrloven § 1 andre ledd."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Samla tvangsmulkt kan ikkje overstige ein million kroner.</td></tr>",
+        "text": "(3) Samla tvangsmulkt kan ikkje overstige ein million kroner."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Vedtak om tvangsmulkt blir retta mot styret i selskap, samvirkeføretak, foreining, innretning eller organisasjon og blir sendt kvart medlem i rekommandert brev. Tvangsmulkta kan inndrivast så vel hos medlemane av styret som hos selskapet, samvirkeføretaket, foreininga, innretninga eller organisasjonen.</td></tr>",
+        "text": "(4) Vedtak om tvangsmulkt blir retta mot styret i selskap, samvirkeføretak, foreining, innretning eller organisasjon og blir sendt kvart medlem i rekommandert brev. Tvangsmulkta kan inndrivast så vel hos medlemane av styret som hos selskapet, samvirkeføretaket, foreininga, innretninga eller organisasjonen."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Vedtak om tvangsmulkt kan klagast inn til Skattedirektoratet innan tre veker.</td></tr>",
+        "text": "(5) Vedtak om tvangsmulkt kan klagast inn til Skattedirektoratet innan tre veker."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Tvangsmulkta blir overførd til statskassen.</td></tr>",
+        "text": "(6) Tvangsmulkta blir overførd til statskassen."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 8.",
+        "text": "§ 8."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Brotsgebyr</em>",
+        "text": "Brotsgebyr"
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Dersom leverandøren av kassasystemet ikkje har levert produktfråsegn etter § 5, eller kassasystemet ikkje oppfyller krava i § 3 eller i forskrift gitt i medhald av denne lova, kan skattekontoret påleggje leverandøren av kassasystemet brotsgebyr.</td></tr>",
+        "text": "(1) Dersom leverandøren av kassasystemet ikkje har levert produktfråsegn etter § 5, eller kassasystemet ikkje oppfyller krava i § 3 eller i forskrift gitt i medhald av denne lova, kan skattekontoret påleggje leverandøren av kassasystemet brotsgebyr."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Brotsgebyr blir ikkje pålagt når leverandøren har følgt føresegna i § 6 første ledd. Dette gjeld likevel ikkje dersom melding om feilen kan reknast som framkalla ved kontrolltiltak som er eller vil bli sett i verk, eller ved opplysningar som skattekontoret har fått frå andre.</td></tr>",
+        "text": "(2) Brotsgebyr blir ikkje pålagt når leverandøren har følgt føresegna i § 6 første ledd. Dette gjeld likevel ikkje dersom melding om feilen kan reknast som framkalla ved kontrolltiltak som er eller vil bli sett i verk, eller ved opplysningar som skattekontoret har fått frå andre."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Brotsgebyret utgjer 30 rettsgebyr, jf. rettsgebyrloven § 1 andre ledd. Ved ytterlegare feil i same type kassasystem innan tolv månader etter at førre brotsgebyr blei pålagt, utgjer brotsgebyret 60 rettsgebyr.</td></tr>",
+        "text": "(3) Brotsgebyret utgjer 30 rettsgebyr, jf. rettsgebyrloven § 1 andre ledd. Ved ytterlegare feil i same type kassasystem innan tolv månader etter at førre brotsgebyr blei pålagt, utgjer brotsgebyret 60 rettsgebyr."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Vedtak om brotsgebyr kan klagast inn til Skattedirektoratet innan tre veker.</td></tr>",
+        "text": "(4) Vedtak om brotsgebyr kan klagast inn til Skattedirektoratet innan tre veker."
+    },
+    {
+        "tag": "table",
+        "class": "numeral avsnitt",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Brotsgebyret blir overførd til statskassen.</td></tr>",
+        "text": "(5) Brotsgebyret blir overførd til statskassen."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 9.",
+        "text": "§ 9."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Forskriftsheimel</em>",
+        "text": "Forskriftsheimel"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Skattedirektoratet kan gi forskrifter som utfyller føresegnene i denne lova, og fastsetje ytterligare krav når det er naudsynt av omsyn til pliktig rekneskapsrapportering eller skatte- og avgiftskontroll.",
+        "text": "Skattedirektoratet kan gi forskrifter som utfyller føresegnene i denne lova, og fastsetje ytterligare krav når det er naudsynt av omsyn til pliktig rekneskapsrapportering eller skatte- og avgiftskontroll."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 10.",
+        "text": "§ 10."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Iverksetjing</em>",
+        "text": "Iverksetjing"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Lova tek til å gjelde 1. januar 2017.",
+        "text": "Lova tek til å gjelde 1. januar 2017."
+    }
+]
