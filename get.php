@@ -15,7 +15,8 @@ set_error_handler(function ($errno, $errstr, $errfile, $errline, array $errconte
 require __DIR__ . '/vendor/autoload.php';
 use Symfony\Component\DomCrawler\Crawler;
 
-$cacheTimeSecondsThisYear = 60 * 60 * 24 * 4;
+$cacheTimeSecondsThisYear_paging = 60 * 60 * 24 * 4;
+$cacheTimeSecondsThisYear = 60 * 60 * 24 * 20;
 $cacheTimeSecondsPrevYears = 60 * 60 * 24 * 365;
 $cache_location = __DIR__ . '/cache';
 $lovdataNo = 'https://lovdata.no';
@@ -42,6 +43,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
     $objYear->itemsNationalRegulation = array();
 
 	$cacheTimeSeconds = date('Y') == $year ? $cacheTimeSecondsThisYear : $cacheTimeSecondsPrevYears;
+	$cacheTimeSeconds_paging = date('Y') == $year ? $cacheTimeSecondsThisYear_paging : $cacheTimeSecondsPrevYears;
 	mkdirIfNotExists($cache_location . '/' . $year . '/paged-list');
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-lov');
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-forskrift');
@@ -50,7 +52,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
 	$maxOffset = 10;
 	while ($offset <= $maxOffset) {
 		$mainPage = getUrlCachedUsingCurl(
-			$cacheTimeSeconds,
+            $cacheTimeSeconds_paging,
 			$cache_location . '/' . $year . '/paged-list/offset-' . $offset . '.html',
 			$baseUrl . '?year=' . $year . '&offset=' . $offset
 		);
