@@ -48,6 +48,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-lov');
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-forskrift');
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTII-forskrift');
+    mkdirIfNotExists(__DIR__  . '/norway-law-java/src/main/resources/laws/' . $year . '/');
 	$offset = 0;
 	$maxOffset = 10;
 	while ($offset <= $maxOffset) {
@@ -104,6 +105,11 @@ for($year = date('Y'); $year >= 2001; $year--) {
 			);
             $objYear->itemCount++;
 
+            $announcement = str_replace(
+                '&#x1F517;</i><span class="share-paragraf-title">Del paragraf</span>',
+                '</i><span class="share-paragraf-title"></span>',
+                $announcement);
+            $announcement = str_replace('<span class="break">&nbsp;</span>', '', $announcement);
             $crawler = new Crawler($announcement);
             $objAnn->title = trim($crawler->filter('.metaTitleText')->first()->text('', true));
 
@@ -117,6 +123,226 @@ for($year = date('Y'); $year >= 2001; $year--) {
                 });
             foreach ($meta as $row) {
                 $objAnn->{strtolower($row[0])} = $row[1];
+            }
+
+            if ($cacheFolder == 'LTI-lov') {
+                // :: Pick up text, item by item
+                // Do a consistency check that we have all by comparing the text.
+                $mainText = $crawler
+                    ->filter('#documentBody')
+                    ->each(function (Crawler $node, $i) {
+                        return array(
+                            'html' => $node->html(),
+                            'text' => $node->text('', true)
+                        );
+                    });
+                $mainText2 = $crawler
+                    ->filter(
+                        '#documentBody p, '
+                        . '#documentBody table, '
+                        // Paragraf without span inside (get these separately)
+                        . '#documentBody div.paragraf, '
+                        . '#documentBody div.paragraf span.paragrafValue, '
+                        . '#documentBody div.paragraf span.paragrafTittel, '
+                        . '#documentBody div.kapittel h2, '
+                        . '#documentBody div.kapittel h3, '
+                        . '#documentBody div.kapittel h4, '
+                        . '#documentBody div.kapittel h5, '
+                        . '#documentBody div.kapittel h6'
+                    )
+                    ->each(function (Crawler $node, $i) {
+                        if ($node->nodeName() == 'div' && str_contains($node->attr('class'), 'paragraf')) {
+                            $html = $node->html();
+                            if (str_contains($html, '<span')) {
+                                return null;
+                            }
+                        }
+                        $cssClass = ' ' . $node->attr('class') . ' ';
+                        $cssClass = str_replace(' morTag_am ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_am1 ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_an ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_a ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_z ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_n ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_m ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_mf ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_pp ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_nn ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_nnn ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_na ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_nf ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_af ', ' ', $cssClass);
+                        $cssClass = str_replace(' no-text-indent ', ' ', $cssClass);
+                        $cssClass = str_replace(' display-only ', ' ', $cssClass);
+                        $cssClass = str_replace(' leftMargin_1 ', ' ', $cssClass);
+                        $cssClass = str_replace(' leftMargin_2 ', ' ', $cssClass);
+                        $cssClass = str_replace(' leftMargin_3 ', ' ', $cssClass);
+                        $cssClass = str_replace(' listeItem ', ' ', $cssClass);
+                        $cssClass = str_replace(' center ', ' ', $cssClass);
+                        $cssClass = str_replace(' small ', ' ', $cssClass);
+                        $cssClass = str_replace(' margin_1 ', ' ', $cssClass);
+                        $cssClass = str_replace(' body_margin_1 ', ' ', $cssClass);
+                        $cssClass = str_replace(' body_border_1 ', ' ', $cssClass);
+                        $cssClass = str_replace(' border_1 ', ' ', $cssClass);
+                        $cssClass = str_replace(' font_ ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTableWidthPercent95 ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTableWidthPercent67 ', ' ', $cssClass);
+                        $cssClass = str_replace('  ', ' ', $cssClass);
+                        $cssClass = str_replace('  ', ' ', $cssClass);
+                        $cssClass = str_replace('  ', ' ', $cssClass);
+                        $cssClass = trim($cssClass);
+
+                        return array(
+                            'tag' => $node->nodeName(),
+                            'class' => $cssClass,
+                            'html' => $node->html(),
+                            'text' => $node->text('', true)
+                        );
+                    });
+
+                $mainText2_text = '';
+                foreach ($mainText2 as $item) {
+                    $mainText2_text .= ' ' . $item['text'];
+                }
+
+                $cleanText1 = str_replace(' ', '', $mainText[0]['text']);
+                $cleanText2 = str_replace(' ', '', $mainText2_text);
+                $cleanText1 = str_replace(' ', '', $cleanText1);
+                $cleanText2 = str_replace(' ', '', $cleanText2);
+                if ($cleanText1 != $cleanText2) {
+                    file_put_contents(__DIR__ . '/tmptmp-1',
+                        '------------' . chr(10)
+                        . '  #documentBody->text()' . chr(10)
+                        . '------------' . chr(10)
+                        . $cleanText1);
+                    file_put_contents(__DIR__ . '/tmptmp-2',
+                        '------------' . chr(10)
+                        . '  Algo for picking up bit by by' . chr(10)
+                        . '------------' . chr(10)
+                        . $cleanText2);
+
+                    echo "\n\n" . $objAnn->url . "\n\n";
+                    throw new Exception('Not all text are picked up.');
+                }
+                elseif ($cacheFolder == 'LTI-lov') {
+                    file_put_contents(
+                        $announcementCacheFile . '.extracted_text.json',
+                        json_encode($mainText2, JSON_PRETTY_PRINT ^ JSON_UNESCAPED_UNICODE ^ JSON_UNESCAPED_SLASHES)
+                    );
+                }
+
+                $lawText = new stdClass();
+                $lawText->lawId = $objAnn->dato;
+                $lawText->lawName = $objAnn->title;
+                $lawText->shortName = $objAnn->korttittel;
+                $lawText->authorityDescription = null;
+                $lawText->chapters = array();
+
+                $chapter_found = false;
+                $reading_error = false;
+                $current_chapter = new stdClass();
+                $current_chapter->paragraphs = array();
+                $current_paragraph = null;
+                foreach ($mainText2 as $item) {
+                    if ($item == null) {
+                        continue;
+                    }
+
+                    if ($item['tag'] == 'p'
+                        && $item['class'] == 'marg'
+                        && (str_starts_with($item['text'], 'Hjemmel: ') || str_starts_with($item['text'], 'Heimel: '))
+                    ) {
+                        $lawText->authorityDescription = $item['text'];
+                    }
+                    elseif (
+                        $item['class'] == ''
+                        && (
+                            $item['tag'] == 'h2'
+                            || $item['tag'] == 'h3'
+                            || $item['tag'] == 'h4'
+                            || $item['tag'] == 'h5'
+                            || $item['tag'] == 'h6'
+                        )
+                    ) {
+                        $chapter_found = true;
+                        $current_chapter = new stdClass();
+                        $current_chapter->name = $item['text'];
+                        $current_chapter->paragraphs = array();
+                        $lawText->chapters[] = $current_chapter;
+                    }
+                    elseif (
+                        $item['class'] == 'paragraf'
+                    ) {
+                        // § 2a. <em class=" ">Unntak fra karanteneplikt ved utreise fra Norge</em>
+                        $item['text'] = explode('<em class=" ">', $item['html']);
+
+                        if (!isset($item['text'][1])) {
+                            // § 1. Med skytevåpen forstås i denne lov:
+                            $item['text'] = explode('. ', $item['html'], 2);
+                        }
+                        if (!isset($item['text'][1])) {
+                            var_dump($item);
+                            $item['text'][1] = '';
+                        }
+
+                        $item['text'][0] = trim($item['text'][0]);
+                        $item['text'][1] = trim(str_replace('</em>', '', $item['text'][1]));
+                        if (
+                            str_contains($item['text'][0], '<')
+                            || str_contains($item['text'][1], '<')
+                        ) {
+                            $item['text'][0] = strip_tags($item['text'][0]);
+                            $item['text'][1] = strip_tags($item['text'][1]);
+                            //var_dump($item);
+                            //throw new Exception('Bogus value.');
+                        }
+
+                        $current_paragraph = new stdClass();
+                        $current_paragraph->name = $item['text'][0];
+                        $current_paragraph->title = $item['text'][1];
+                        $current_paragraph->sections = array();
+                        $current_chapter->paragraphs[] = $current_paragraph;
+                    }
+                    elseif (
+                        $item['class'] == 'paragrafValue'
+                    ) {
+                        $current_paragraph = new stdClass();
+                        $current_paragraph->name = $item['text'];
+                        $current_paragraph->title = null;
+                        $current_paragraph->sections = array();
+                        $current_chapter->paragraphs[] = $current_paragraph;
+                    }
+                    elseif (
+                        $item['class'] == 'paragrafTittel'
+                    ) {
+                        $current_paragraph->title = $item['text'];
+                    }
+                    elseif (
+                        $item['class'] == 'numeral avsnitt'
+                        || $item['class'] == 'avsnitt'
+                        || ($item['tag'] == 'p' && $item['class'] == 'marg')
+                    ) {
+                        $current_paragraph->sections[] = $item['text'];
+                    }
+                    else {
+                        var_dump($lawText);
+                        echo '----------' . chr(10);
+                        echo "\n\n" . $objAnn->url . "\n\n";
+                        echo $announcementCacheFile . '.extracted_text.json' . chr(10);
+                        echo '----------' . chr(10);
+                        //throw new Exception('Unknown item: ' . print_r($item, true));
+                        $reading_error = true;
+                    }
+                }
+                if (!$chapter_found && count($current_chapter->paragraphs) > 0) {
+                    $lawText->chapters[] = $current_chapter;
+                }
+                if (!$reading_error && $cacheFolder == 'LTI-lov') {
+                    file_put_contents(
+                        __DIR__ . '/norway-law-java/src/main/resources/laws/' . $year . '/' . $cacheHtmlName . '.json',
+                        json_encode($lawText, JSON_PRETTY_PRINT ^ JSON_UNESCAPED_UNICODE ^ JSON_UNESCAPED_SLASHES)
+                    );
+                }
             }
 
             if ($cacheFolder == 'LTI-forskrift') {
