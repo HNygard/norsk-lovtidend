@@ -233,7 +233,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
 
                 $lawText = new stdClass();
                 $lawText->lawId = $objAnn->dato;
-                $lawText->lawName = $objAnn->title;
+                $lawText->lawName = str_strip_if_ends_with($objAnn->title, '.');
                 $lawText->shortName = $objAnn->korttittel;
                 $lawText->authorityDescription = null;
                 $lawText->chapters = array();
@@ -297,8 +297,11 @@ for($year = date('Y'); $year >= 2001; $year--) {
                             //throw new Exception('Bogus value.');
                         }
 
+                        $item['text'][0] = trim($item['text'][0]);
+                        $item['text'][1] = trim($item['text'][1]);
+
                         $current_paragraph = new stdClass();
-                        $current_paragraph->name = $item['text'][0];
+                        $current_paragraph->name = str_strip_if_ends_with($item['text'][0], '.');
                         $current_paragraph->title = $item['text'][1];
                         $current_paragraph->sections = array();
                         $current_chapter->paragraphs[] = $current_paragraph;
@@ -307,7 +310,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
                         $item['class'] == 'paragrafValue'
                     ) {
                         $current_paragraph = new stdClass();
-                        $current_paragraph->name = $item['text'];
+                        $current_paragraph->name = str_strip_if_ends_with(trim($item['text']), '.');
                         $current_paragraph->title = null;
                         $current_paragraph->sections = array();
                         $current_chapter->paragraphs[] = $current_paragraph;
@@ -315,7 +318,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
                     elseif (
                         $item['class'] == 'paragrafTittel'
                     ) {
-                        $current_paragraph->title = $item['text'];
+                        $current_paragraph->title = trim($item['text']);
                     }
                     elseif (
                         $item['class'] == 'numeral avsnitt'
@@ -513,6 +516,13 @@ function str_ends_with($haystack, $needle) {
 
 function str_contains($stack, $needle) {
     return (strpos($stack, $needle) !== FALSE);
+}
+
+function str_strip_if_ends_with($stack, $needle) {
+    if (str_ends_with($stack, $needle)) {
+        return substr($stack, 0, strlen($stack) - strlen($needle));
+    }
+    return $stack;
 }
 
 function logDebug($string) {
