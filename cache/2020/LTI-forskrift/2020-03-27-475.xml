@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://lovdata.no/regelverk" xsi:schemaLocation="lov-eksempel.xsd" id="for-2020-03-27-475" type="lt" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475">
+  <metadata>
+    <type>lt</type>
+    <base>LT</base>
+    <id>LT/lt/2020-03-27-475</id>
+    <dato>27.03.2020 nr. 475</dato>
+    <dato type="iso">2020-03-27</dato>
+    <ikraft>27.03.2020 - 01.12.2020</ikraft>
+    <ikraft type="iso">2020-03-27 - 2020-12-01</ikraft>
+    <departement>Helse- og omsorgsdepartementet</departement>
+    <etat>Helserettsavd.</etat>
+    <gjelder>Norge</gjelder>
+    <hjemmel><ref id="lov-1994-08-05-55-§7-12">L05.08.1994 nr. 55 § 7-12</ref>, <ref id="lov-1994-08-05-55-§1-2">§ 1-2</ref></hjemmel>
+    <rettet/>
+    <journalnummer>2020-0422</journalnummer>
+  </metadata>
+  <tekst>
+    <korttittel>Forskrift om digital smittesporing og epidemikontroll i anledning utbrudd av Covid-19</korttittel>
+    <tittel>Forskrift om digital smittesporing og epidemikontroll i anledning utbrudd av Covid-19</tittel>
+    <redaksjonell_note><b>Hjemmel:</b> Fastsatt ved kgl.res. 27. mars 2020 med hjemmel i lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 7-12, jf. § 1-2 tredje ledd. Fremmet av Helse- og omsorgsdepartementet.</redaksjonell_note>
+    <paragraf id="/paragraf/1" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p1">
+      <pverdi>§ 1.</pverdi>
+      <ptittel>Formål</ptittel>
+      <ledd id="/paragraf/1/ledd/1">Forskriften skal bidra til rask oppsporing av og formidling av råd til personer som kan være smittet av koronaviruset SARS CoV-2. Gjennom overvåkning på befolkningsnivå skal forskriften også bidra til å følge smitteutbredelse og vurdere effekt av smitteverntiltak.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/2" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p2">
+      <pverdi>§ 2.</pverdi>
+      <ptittel>System for sporing og informasjon</ptittel>
+      <ledd id="/paragraf/2/ledd/1">Folkehelseinstituttet kan etablere et system for digital og automatisert sporing av nærkontakter til personer som er smittet av koronaviruset SARS CoV-2 og informasjon til nærkontaktene (sporingssystemet).</ledd>
+      <ledd id="/paragraf/2/ledd/2">Sporingssystemet skal bruke et applikasjonsverktøy på deltakernes mobiltelefon for å kartlegge hvem som har vært i nærkontakt med personer som er smittet av koronaviruset SARS CoV-2. Bruk av applikasjonsverktøyet skal være frivillig og ledsages av dekkende, forståelig og lett tilgjengelig informasjon, herunder om behandling av personopplysninger.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/3" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p3">
+      <pverdi>§ 3.</pverdi>
+      <ptittel>Dataansvarlig og databehandler</ptittel>
+      <ledd id="/paragraf/3/ledd/1">Folkehelseinstituttet er dataansvarlig for behandlingen av personopplysningene. Den dataansvarlige kan inngå avtale med databehandlere om behandling av opplysningene på vegne av instituttet i samsvar med personvernforordningen artikkel 28.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/4" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p4">
+      <pverdi>§ 4.</pverdi>
+      <ptittel>Behandling av personopplysninger i sporingssystemet</ptittel>
+      <ledd id="/paragraf/4/ledd/1">Opplysninger i sporingssystemet kan brukes til å kontakte og informere deltakere som har vært i nærkontakt med smittede.</ledd>
+      <ledd id="/paragraf/4/ledd/2">Følgende personopplysninger kan registreres i sporingssystemet:
+<liste id="/paragraf/4/ledd/2/liste/a"><lverdi>a)</lverdi><avsnitt id="/paragraf/4/ledd/2/liste/a/avsnitt/1">deltakerens mobiltelefonnummer</avsnitt></liste>
+<liste id="/paragraf/4/ledd/2/liste/b"><lverdi>b)</lverdi><avsnitt id="/paragraf/4/ledd/2/liste/b/avsnitt/1">opplysninger om deltakernes alder og bevegelser (lokasjonsdata)</avsnitt></liste>
+<liste id="/paragraf/4/ledd/2/liste/c"><lverdi>c)</lverdi><avsnitt id="/paragraf/4/ledd/2/liste/c/avsnitt/1">opplysninger om en deltaker er smittet eller har vært i nærkontakt med en smittet.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/4/ledd/3">For å identifisere smittede deltakere og kontakte deltakere som har vært i nærkontakt med smittede, kan personopplysningene i systemet kobles med personopplysninger i
+<liste id="/paragraf/4/ledd/3/liste/a"><lverdi>a)</lverdi><avsnitt id="/paragraf/4/ledd/3/liste/a/avsnitt/1">Meldingssystem for smittsomme sykdommer, jf. MSIS-forskriften § 1-1</avsnitt></liste>
+<liste id="/paragraf/4/ledd/3/liste/b"><lverdi>b)</lverdi><avsnitt id="/paragraf/4/ledd/3/liste/b/avsnitt/1">registeret over digital kontaktinformasjon og reservasjon, jf. eForvaltningsforskriften § 29.</avsnitt></liste></ledd>
+      <ledd id="/paragraf/4/ledd/4">Mobiltelefonnummer og andre direkte personidentifiserende kjennetegn kan ikke behandles i forbindelse med overvåkning på befolkningsnivå, jf. § 1 andre punktum.</ledd>
+      <ledd id="/paragraf/4/ledd/5">Personopplysninger skal behandles i samsvar med personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven § 21 flg. og smittevernloven § 2-2. Lovbestemt taushetsplikt er ikke til hinder for at personopplysningene behandles for å oppnå formålet med forskriften.</ledd>
+      <ledd id="/paragraf/4/ledd/6">Personopplysninger i sporingssystemet kan bare behandles for formålene som nevnt i § 1, med mindre annet følger av lov eller etter samtykke fra den registrerte. Personopplysningene kan ikke benyttes for å kontrollere om enkeltpersoner overholder råd eller pålegg. Helseopplysninger eller lokasjonsdata kan ikke gjøres tilgjengelig for politi eller påtalemyndighet eller brukes i forsikringsøyemed eller av arbeidsgivere selv om den registrerte samtykker. Personopplysningene kan ikke utnyttes kommersielt.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/5" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p5">
+      <pverdi>§ 5.</pverdi>
+      <ptittel>Tilgang til opplysninger</ptittel>
+      <ledd id="/paragraf/5/ledd/1">Mobiltelefonnummer og andre direkte personidentifiserende kjennetegn skal separeres og lagres adskilt fra andre registeropplysninger.</ledd>
+      <ledd id="/paragraf/5/ledd/2">Bare autorisert personell som utfører tjenester eller arbeid mot registeret og arbeider under den dataansvarliges eller databehandlers instruksjonsmyndighet, kan gis tilgang til identifiserende opplysninger i registeret. Tilgangen kan ikke være mer omfattende enn det som er nødvendig for vedkommendes arbeid.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/6" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p6">
+      <pverdi>§ 6.</pverdi>
+      <ptittel>Sletting av personopplysninger</ptittel>
+      <ledd id="/paragraf/6/ledd/1">Lokasjonsdata skal slettes etter 30 dager. Når deltakeren fjerner applikasjonen fra sin mobiltelefon, skal alle personopplysninger om deltakeren i sporingssystemet straks slettes eller anonymiseres.</ledd>
+      <ledd id="/paragraf/6/ledd/2">Arkivlova gjelder ikke for personopplysninger som behandles i sporingssystemet.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/7" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p7">
+      <pverdi>§ 7.</pverdi>
+      <ptittel>Informasjonssikkerhet</ptittel>
+      <ledd id="/paragraf/7/ledd/1">Den dataansvarlige og databehandlere som den dataansvarlige har inngått avtale med, skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/8" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p8">
+      <pverdi>§ 8.</pverdi>
+      <ptittel>Svalbard og Jan Mayen</ptittel>
+      <ledd id="/paragraf/8/ledd/1">Forskriften gjelder også for Svalbard og Jan Mayen.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/9" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p9">
+      <pverdi>§ 9.</pverdi>
+      <ptittel>Endringer i forskriften</ptittel>
+      <ledd id="/paragraf/9/ledd/1">Departementet kan i forskrift gjøre endringer i forskriften.</ledd>
+    </paragraf>
+    <paragraf id="/paragraf/10" url="https://lovdata.no/lovtidend/forskrift/2020-03-27-475/p10">
+      <pverdi>§ 10.</pverdi>
+      <ptittel>Ikrafttredelse. Forlengelse</ptittel>
+      <ledd id="/paragraf/10/ledd/1">Forskriften trer i kraft straks. Forskriften gjelder frem til 1. desember 2020.</ledd>
+      <ledd id="/paragraf/10/ledd/2">Departementet gis myndighet til å forlenge forskriftens virkningstid.</ledd>
+    </paragraf>
+  </tekst>
+</dokument>
