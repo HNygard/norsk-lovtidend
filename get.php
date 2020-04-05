@@ -118,6 +118,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
                 '</i><span class="share-paragraf-title"></span>',
                 $announcement);
             $announcement = str_replace('<span class="break">&nbsp;</span>', '', $announcement);
+            $announcement = preg_replace('/(listeitemNummer[a-zA-Z0-9 \_]*">.*)</mU', "\$1\t<", $announcement);
             $crawler = new Crawler($announcement);
             $objAnn->title = trim($crawler->filter('.metaTitleText')->first()->text('', true));
 
@@ -203,7 +204,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
                             'tag' => $node->nodeName(),
                             'class' => $cssClass,
                             'html' => $node->html(),
-                            'text' => $node->text('', true)
+                            'text' => $node->text('', false)
                         );
                     });
 
@@ -216,6 +217,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
                 $cleanText2 = str_replace(' ', '', $mainText2_text);
                 $cleanText1 = str_replace(' ', '', $cleanText1);
                 $cleanText2 = str_replace(' ', '', $cleanText2);
+                $cleanText2 = str_replace("\t", '', $cleanText2);
                 if ($cleanText1 != $cleanText2) {
                     file_put_contents(__DIR__ . '/tmptmp-1',
                         '------------' . chr(10)
