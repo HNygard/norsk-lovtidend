@@ -34,6 +34,10 @@ $obj->itemCountLocalRegulations = 0;
 $obj->announcementsPerYear = array();
 
 for($year = date('Y'); $year >= 2001; $year--) {
+    if (isset($argv[1]) && $year != $argv[1]) {
+        continue;
+    }
+
     $objYear = new stdClass();
     $obj->announcementsPerYear[] = $objYear;
     $objYear->pageCount = 1;
@@ -93,6 +97,10 @@ for($year = date('Y'); $year >= 2001; $year--) {
 				var_dump($link);
 				throw new Exception('Unknown link.');
 			}
+
+			if (isset($argv[2]) && !str_contains($link['href'], $argv[2])) {
+			    continue;
+            }
 
             $objAnn = new stdClass();
             $objAnn->url = $lovdataNo . $link['href'];
@@ -335,7 +343,10 @@ for($year = date('Y'); $year >= 2001; $year--) {
                         echo "\n\n" . $objAnn->url . "\n\n";
                         echo $announcementCacheFile . '.extracted_text.json' . chr(10);
                         echo '----------' . chr(10);
-                        //throw new Exception('Unknown item: ' . print_r($item, true));
+
+                        if (isset($argv[1])) {
+                            throw new Exception('Unknown item: ' . print_r($item, true));
+                        }
                         $reading_error = true;
                     }
                 }
