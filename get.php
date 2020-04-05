@@ -177,7 +177,6 @@ for($year = date('Y'); $year >= 2001; $year--) {
                         $cssClass = str_replace(' leftMargin_1 ', ' ', $cssClass);
                         $cssClass = str_replace(' leftMargin_2 ', ' ', $cssClass);
                         $cssClass = str_replace(' leftMargin_3 ', ' ', $cssClass);
-                        $cssClass = str_replace(' listeItem ', ' ', $cssClass);
                         $cssClass = str_replace(' center ', ' ', $cssClass);
                         $cssClass = str_replace(' small ', ' ', $cssClass);
                         $cssClass = str_replace(' margin_1 ', ' ', $cssClass);
@@ -326,6 +325,9 @@ for($year = date('Y'); $year >= 2001; $year--) {
                         || ($item['tag'] == 'p' && $item['class'] == 'marg')
                     ) {
                         $current_paragraph->sections[] = $item['text'];
+                    }
+                    elseif ($item['class'] == 'listeItem avsnitt') {
+                        $current_paragraph->sections[count($current_paragraph->sections) - 1] .= "\n" . $item['text'];
                     }
                     else {
                         var_dump($lawText);
