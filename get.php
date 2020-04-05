@@ -330,14 +330,35 @@ for($year = date('Y'); $year >= 2001; $year--) {
                         $current_paragraph->title = trim($item['text']);
                     }
                     elseif (
-                        $item['class'] == 'numeral avsnitt'
-                        || $item['class'] == 'avsnitt'
-                        || ($item['tag'] == 'p' && $item['class'] == 'marg')
+                        $current_paragraph != null
+                        && (
+                            $item['class'] == 'numeral avsnitt'
+                            || $item['class'] == 'avsnitt'
+                            || ($item['tag'] == 'p' && $item['class'] == 'marg'
+                                    && count($current_paragraph->sections) == 0
+                            )
+                        )
                     ) {
                         $current_paragraph->sections[] = $item['text'];
                     }
-                    elseif ($item['class'] == 'listeItem avsnitt') {
+                    elseif (
+                        $current_paragraph != null
+                        && (
+                            $item['class'] == 'listeItem avsnitt'
+                        || ($item['tag'] == 'p' && $item['class'] == 'marg')
+                        )
+                    ) {
                         $current_paragraph->sections[count($current_paragraph->sections) - 1] .= "\n" . $item['text'];
+                    }
+                    elseif (
+                        $current_paragraph == null
+                        && (
+                            ($item['tag'] == 'p' && $item['class'] == 'marg')
+                            || $item['class'] == 'listeItem avsnitt'
+                        )
+                    ) {
+                        // -> Not chapters yet. Add to authorityDescription.
+                        $lawText->authorityDescription = trim($lawText->authorityDescription . "\n" . $item['text']);
                     }
                     else {
                         var_dump($lawText);
