@@ -43,14 +43,14 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven trer i kraft fra den tid Kongen bestemmer.</td>\n</tr>",
-        "text": "1.Loven trer i kraft fra den tid Kongen bestemmer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven trer i kraft fra den tid Kongen bestemmer.</td>\n</tr>",
+        "text": "1.\tLoven trer i kraft fra den tid Kongen bestemmer."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 26 nytt sjette ledd opphører å gjelde 1. november 2020.</td>\n</tr>",
-        "text": "2.Lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 26 nytt sjette ledd opphører å gjelde 1. november 2020."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 26 nytt sjette ledd opphører å gjelde 1. november 2020.</td>\n</tr>",
+        "text": "2.\tLov 28. juli 1949 nr. 26 om Statens pensjonskasse § 26 nytt sjette ledd opphører å gjelde 1. november 2020."
     }
 ]

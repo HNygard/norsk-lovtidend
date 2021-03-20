@@ -13,33 +13,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 15. desember 1967 nr. 9 om patenter (patentloven).</td>\n</tr>",
-        "text": "1Lov 15. desember 1967 nr. 9 om patenter (patentloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 15. desember 1967 nr. 9 om patenter (patentloven).</td>\n</tr>",
+        "text": "1\tLov 15. desember 1967 nr. 9 om patenter (patentloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven).</td>\n</tr>",
-        "text": "2Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven).</td>\n</tr>",
+        "text": "2\tLov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 20. mai 2005 nr. 28 om straff (straffeloven).</td>\n</tr>",
-        "text": "3Lov 20. mai 2005 nr. 28 om straff (straffeloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 20. mai 2005 nr. 28 om straff (straffeloven).</td>\n</tr>",
+        "text": "3\tLov 20. mai 2005 nr. 28 om straff (straffeloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven).</td>\n</tr>",
-        "text": "4Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven).</td>\n</tr>",
+        "text": "4\tLov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven).</td>\n</tr>",
-        "text": "5Lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven).</td>\n</tr>",
+        "text": "5\tLov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven)."
     },
     null,
     {
@@ -87,21 +87,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er hemmelige i den forstand at opplysningene ikke som helhet, eller slik de er satt sammen eller ordnet, er allment kjent eller lett tilgjengelig</td>\n</tr>",
-        "text": "a)er hemmelige i den forstand at opplysningene ikke som helhet, eller slik de er satt sammen eller ordnet, er allment kjent eller lett tilgjengelig"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er hemmelige i den forstand at opplysningene ikke som helhet, eller slik de er satt sammen eller ordnet, er allment kjent eller lett tilgjengelig</td>\n</tr>",
+        "text": "a)\ter hemmelige i den forstand at opplysningene ikke som helhet, eller slik de er satt sammen eller ordnet, er allment kjent eller lett tilgjengelig"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har kommersiell verdi fordi de er hemmelige</td>\n</tr>",
-        "text": "b)har kommersiell verdi fordi de er hemmelige"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har kommersiell verdi fordi de er hemmelige</td>\n</tr>",
+        "text": "b)\thar kommersiell verdi fordi de er hemmelige"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaveren har truffet rimelige tiltak for å holde hemmelige</td>\n</tr>",
-        "text": "c)innehaveren har truffet rimelige tiltak for å holde hemmelige"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaveren har truffet rimelige tiltak for å holde hemmelige</td>\n</tr>",
+        "text": "c)\tinnehaveren har truffet rimelige tiltak for å holde hemmelige"
     },
     {
         "tag": "p",
@@ -136,15 +136,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">urettmessig å skaffe seg adgang til, ta med seg, eller kopiere dokumenter eller gjenstander</td>\n</tr>",
-        "text": "a)urettmessig å skaffe seg adgang til, ta med seg, eller kopiere dokumenter eller gjenstander"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">urettmessig å skaffe seg adgang til, ta med seg, eller kopiere dokumenter eller gjenstander</td>\n</tr>",
+        "text": "a)\turettmessig å skaffe seg adgang til, ta med seg, eller kopiere dokumenter eller gjenstander"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">annen adferd i strid med god forretningsskikk</td>\n</tr>",
-        "text": "b)annen adferd i strid med god forretningsskikk"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">annen adferd i strid med god forretningsskikk</td>\n</tr>",
+        "text": "b)\tannen adferd i strid med god forretningsskikk"
     },
     {
         "tag": "p",
@@ -154,21 +154,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i strid med første ledd</td>\n</tr>",
-        "text": "a)i strid med første ledd"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i strid med første ledd</td>\n</tr>",
+        "text": "a)\ti strid med første ledd"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i anledning av et tjeneste-, tillitsverv- eller forretningsforhold</td>\n</tr>",
-        "text": "b)i anledning av et tjeneste-, tillitsverv- eller forretningsforhold"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i anledning av et tjeneste-, tillitsverv- eller forretningsforhold</td>\n</tr>",
+        "text": "b)\ti anledning av et tjeneste-, tillitsverv- eller forretningsforhold"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i medhold av bestemmelser i lov eller forskrift</td>\n</tr>",
-        "text": "c)i medhold av bestemmelser i lov eller forskrift"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i medhold av bestemmelser i lov eller forskrift</td>\n</tr>",
+        "text": "c)\ti medhold av bestemmelser i lov eller forskrift"
     },
     {
         "tag": "p",
@@ -265,33 +265,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilbakekalles fra handelen</td>\n</tr>",
-        "text": "a)tilbakekalles fra handelen"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilbakekalles fra handelen</td>\n</tr>",
+        "text": "a)\ttilbakekalles fra handelen"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">endres slik at deres inngripende egenskaper fjernes</td>\n</tr>",
-        "text": "b)endres slik at deres inngripende egenskaper fjernes"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">endres slik at deres inngripende egenskaper fjernes</td>\n</tr>",
+        "text": "b)\tendres slik at deres inngripende egenskaper fjernes"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">definitivt fjernes fra handelen</td>\n</tr>",
-        "text": "c)definitivt fjernes fra handelen"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">definitivt fjernes fra handelen</td>\n</tr>",
+        "text": "c)\tdefinitivt fjernes fra handelen"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ødelegges</td>\n</tr>",
-        "text": "d)ødelegges"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ødelegges</td>\n</tr>",
+        "text": "d)\tødelegges"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utleveres til innehaveren av forretningshemmeligheten</td>\n</tr>",
-        "text": "e)utleveres til innehaveren av forretningshemmeligheten"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utleveres til innehaveren av forretningshemmeligheten</td>\n</tr>",
+        "text": "e)\tutleveres til innehaveren av forretningshemmeligheten"
     },
     {
         "tag": "p",
@@ -332,21 +332,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inngriperen har vært i aktsom god tro ved tilegnelsen av forretningshemmeligheten</td>\n</tr>",
-        "text": "a)inngriperen har vært i aktsom god tro ved tilegnelsen av forretningshemmeligheten"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inngriperen har vært i aktsom god tro ved tilegnelsen av forretningshemmeligheten</td>\n</tr>",
+        "text": "a)\tinngriperen har vært i aktsom god tro ved tilegnelsen av forretningshemmeligheten"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbud etter § 5 eller pålegg etter § 6 vil påføre inngriperen uforholdsmessig skade</td>\n</tr>",
-        "text": "b)forbud etter § 5 eller pålegg etter § 6 vil påføre inngriperen uforholdsmessig skade"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbud etter § 5 eller pålegg etter § 6 vil påføre inngriperen uforholdsmessig skade</td>\n</tr>",
+        "text": "b)\tforbud etter § 5 eller pålegg etter § 6 vil påføre inngriperen uforholdsmessig skade"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vederlag til innehaveren fremstår som en rimelig løsning</td>\n</tr>",
-        "text": "c)vederlag til innehaveren fremstår som en rimelig løsning"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vederlag til innehaveren fremstår som en rimelig løsning</td>\n</tr>",
+        "text": "c)\tvederlag til innehaveren fremstår som en rimelig løsning"
     },
     {
         "tag": "p",
@@ -375,21 +375,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vederlag som tilsvarer en rimelig lisensavgift for bruken, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering</td>\n</tr>",
-        "text": "a)vederlag som tilsvarer en rimelig lisensavgift for bruken, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vederlag som tilsvarer en rimelig lisensavgift for bruken, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering</td>\n</tr>",
+        "text": "a)\tvederlag som tilsvarer en rimelig lisensavgift for bruken, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erstatning for skade som følge av inngrepet</td>\n</tr>",
-        "text": "b)erstatning for skade som følge av inngrepet"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erstatning for skade som følge av inngrepet</td>\n</tr>",
+        "text": "b)\terstatning for skade som følge av inngrepet"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vederlag svarende til vinningen som er oppnådd ved inngrepet</td>\n</tr>",
-        "text": "c)vederlag svarende til vinningen som er oppnådd ved inngrepet"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vederlag svarende til vinningen som er oppnådd ved inngrepet</td>\n</tr>",
+        "text": "c)\tvederlag svarende til vinningen som er oppnådd ved inngrepet"
     },
     {
         "tag": "p",
@@ -566,9 +566,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forretningshemmeligheter,</td>\n</tr>",
-        "text": "a)forretningshemmeligheter,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forretningshemmeligheter,</td>\n</tr>",
+        "text": "a)\tforretningshemmeligheter,"
     },
     {
         "tag": "p",

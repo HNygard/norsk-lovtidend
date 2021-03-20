@@ -37,9 +37,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskrifter ved allmennfarlig smittsom sykdom står i § 25-16</td>\n</tr>",
-        "text": "-forskrifter ved allmennfarlig smittsom sykdom står i § 25-16"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskrifter ved allmennfarlig smittsom sykdom står i § 25-16</td>\n</tr>",
+        "text": "-\tforskrifter ved allmennfarlig smittsom sykdom står i § 25-16"
     },
     {
         "tag": "p",
@@ -73,27 +73,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unntak fra krav til legeerklæring,</td>\n</tr>",
-        "text": "a)unntak fra krav til legeerklæring,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unntak fra krav til legeerklæring,</td>\n</tr>",
+        "text": "a)\tunntak fra krav til legeerklæring,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til sykepenger etter § 8-4 for personer som har eller kan antas å ha smittsom sykdom,</td>\n</tr>",
-        "text": "b)rett til sykepenger etter § 8-4 for personer som har eller kan antas å ha smittsom sykdom,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til sykepenger etter § 8-4 for personer som har eller kan antas å ha smittsom sykdom,</td>\n</tr>",
+        "text": "b)\trett til sykepenger etter § 8-4 for personer som har eller kan antas å ha smittsom sykdom,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til omsorgspenger, og</td>\n</tr>",
-        "text": "c)rett til omsorgspenger, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til omsorgspenger, og</td>\n</tr>",
+        "text": "c)\trett til omsorgspenger, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unntak fra pålagte plikter.</td>\n</tr>",
-        "text": "d)unntak fra pålagte plikter."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unntak fra pålagte plikter.</td>\n</tr>",
+        "text": "d)\tunntak fra pålagte plikter."
     },
     {
         "tag": "p",

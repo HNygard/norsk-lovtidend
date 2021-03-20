@@ -49,9 +49,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pålegge fører av skip eller luftfartøy, eller transportør som utfører yrkesmessig landtransport av personer, å kontrollere at utenlandske og norske reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse.</td>\n</tr>",
-        "text": "c)pålegge fører av skip eller luftfartøy, eller transportør som utfører yrkesmessig landtransport av personer, å kontrollere at utenlandske og norske reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pålegge fører av skip eller luftfartøy, eller transportør som utfører yrkesmessig landtransport av personer, å kontrollere at utenlandske og norske reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse.</td>\n</tr>",
+        "text": "c)\tpålegge fører av skip eller luftfartøy, eller transportør som utfører yrkesmessig landtransport av personer, å kontrollere at utenlandske og norske reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse."
     },
     {
         "tag": "p",
@@ -61,15 +61,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">føreren av luftfartøy som kommer fra, eller går til utlandet, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,</td>\n</tr>",
-        "text": "a)føreren av luftfartøy som kommer fra, eller går til utlandet, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">føreren av luftfartøy som kommer fra, eller går til utlandet, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,</td>\n</tr>",
+        "text": "a)\tføreren av luftfartøy som kommer fra, eller går til utlandet, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">føreren av skip som passerer grensen på vei til eller fra norsk havn, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,</td>\n</tr>",
-        "text": "b)føreren av skip som passerer grensen på vei til eller fra norsk havn, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">føreren av skip som passerer grensen på vei til eller fra norsk havn, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,</td>\n</tr>",
+        "text": "b)\tføreren av skip som passerer grensen på vei til eller fra norsk havn, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,"
     },
     {
         "tag": "h2",
