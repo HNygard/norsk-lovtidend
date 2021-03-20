@@ -441,9 +441,14 @@ function readItems($html) {
 	$crawler = new Crawler($html);
 
 	// Viser 1 - 20 av 1611
-	$pagingInfo = $crawler->filter('.footer-pagination p')->each(function (Crawler $node, $i) {
+	$footerParagraph = $crawler->filter('main section p.center-align')->each(function (Crawler $node, $i) {
 			return $node->text('', true);
-		})[0];
+		});
+	if (count($footerParagraph) != 1) {
+		var_dump($footerParagraph);
+		throw new Exception('Could not find footer paragraph.');
+	}
+	$pagingInfo = $footerParagraph[0];
 	preg_match('/Viser ([0-9]*) \- ([0-9]*) av ([0-9]*)/', $pagingInfo, $matches);
 
 	$links1 = $crawler->filter('.documentList a')->each(function (Crawler $node, $i) {
