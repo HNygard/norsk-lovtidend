@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.1 LS (2019–2020), Innst.4 L (2019–2020), Lovvedtak 26 (2019–2020). Stortingets første og andre gangs behandling hhv. 13. og 17. desember 2019. Fremmet av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-1-ls-201920\" class=\" reference\" href=\"/forarbeid/prop-1-ls-201920\">Prop.1 LS (2019–2020)</a>, <a data-id=\"forarbeid/inns-4-l-201920\" class=\" reference\" href=\"/forarbeid/inns-4-l-201920\">Innst.4 L (2019–2020)</a>, <a data-id=\"forarbeid/lovvedtak-26-201920\" class=\" reference\" href=\"/forarbeid/lovvedtak-26-201920\">Lovvedtak 26 (2019–2020)</a>. Stortingets første og andre gangs behandling hhv. 13. og 17. desember 2019. Fremmet av Finansdepartementet.",
         "text": "Prop.1 LS (2019–2020), Innst.4 L (2019–2020), Lovvedtak 26 (2019–2020). Stortingets første og andre gangs behandling hhv. 13. og 17. desember 2019. Fremmet av Finansdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane (eigedomsskattelova).",
+        "html": "<a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">Lov 6. juni 1975 nr. 29</a> om eigedomsskatt til kommunane (eigedomsskattelova).",
         "text": "Lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane (eigedomsskattelova)."
     },
     {
@@ -26,13 +26,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">lov 6. juni 1975 nr. 29</a> om eigedomsskatt til kommunane gjøres følgende endringer:",
         "text": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "§ 24 skal lyde:",
+        "html": "<a data-id=\"lov/1975-06-06-29/§24\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A724\">§ 24</a> skal lyde:",
         "text": "§ 24 skal lyde:"
     },
     {
@@ -44,7 +44,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "§ 25 annet ledd skal lyde:",
+        "html": "<a data-id=\"lov/1975-06-06-29/§25\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A725\">§ 25</a> annet ledd skal lyde:",
         "text": "§ 25 annet ledd skal lyde:"
     },
     {
@@ -56,7 +56,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "§ 27 tredje punktum skal lyde:",
+        "html": "<a data-id=\"lov/1975-06-06-29/§27\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A727\">§ 27</a> tredje punktum skal lyde:",
         "text": "§ 27 tredje punktum skal lyde:"
     },
     {
@@ -74,13 +74,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">lov 6. juni 1975 nr. 29</a> om eigedomsskatt til kommunane gjøres følgende endringer:",
         "text": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "§ 3 skal lyde:",
+        "html": "<a data-id=\"lov/1975-06-06-29/§3\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A73\">§ 3</a> skal lyde:",
         "text": "§ 3 skal lyde:"
     },
     {
@@ -91,45 +91,45 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">faste eigedomar i heile kommunen, eller</td>\n</tr>",
-        "text": "a)faste eigedomar i heile kommunen, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">faste eigedomar i heile kommunen, eller</td>\n</tr>",
+        "text": "a)\tfaste eigedomar i heile kommunen, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">faste eigedomar i klårt avgrensa område som heilt eller delvis er utbygde på byvis eller der slik utbygging er i gang, eller</td>\n</tr>",
-        "text": "b)faste eigedomar i klårt avgrensa område som heilt eller delvis er utbygde på byvis eller der slik utbygging er i gang, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">faste eigedomar i klårt avgrensa område som heilt eller delvis er utbygde på byvis eller der slik utbygging er i gang, eller</td>\n</tr>",
+        "text": "b)\tfaste eigedomar i klårt avgrensa område som heilt eller delvis er utbygde på byvis eller der slik utbygging er i gang, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">berre på kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller</td>\n</tr>",
-        "text": "c)berre på kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">berre på kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller</td>\n</tr>",
+        "text": "c)\tberre på kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">berre på næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller</td>\n</tr>",
-        "text": "d)berre på næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">berre på næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller</td>\n</tr>",
+        "text": "d)\tberre på næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigedom både under bokstav b og c, eller</td>\n</tr>",
-        "text": "e)eigedom både under bokstav b og c, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigedom både under bokstav b og c, eller</td>\n</tr>",
+        "text": "e)\teigedom både under bokstav b og c, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigedom både under bokstav b og d, eller</td>\n</tr>",
-        "text": "f)eigedom både under bokstav b og d, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigedom både under bokstav b og d, eller</td>\n</tr>",
+        "text": "f)\teigedom både under bokstav b og d, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">faste eigedomar i heile kommunen, unnateke næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum.</td>\n</tr>",
-        "text": "g)faste eigedomar i heile kommunen, unnateke næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">faste eigedomar i heile kommunen, unnateke næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum.</td>\n</tr>",
+        "text": "g)\tfaste eigedomar i heile kommunen, unnateke næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum."
     },
     {
         "tag": "p",
@@ -140,7 +140,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "§ 4 annet ledd skal lyde:",
+        "html": "<a data-id=\"lov/1975-06-06-29/§4\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A74\">§ 4</a> annet ledd skal lyde:",
         "text": "§ 4 annet ledd skal lyde:"
     },
     {
@@ -158,25 +158,25 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">lov 6. juni 1975 nr. 29</a> om eigedomsskatt til kommunane gjøres følgende endringer:",
         "text": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "§ 13 nåværende tredje ledd blir nytt fjerde ledd.",
+        "html": "<a data-id=\"lov/1975-06-06-29/§13\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A713\">§ 13</a> nåværende tredje ledd blir nytt fjerde ledd.",
         "text": "§ 13 nåværende tredje ledd blir nytt fjerde ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "§ 13 tredje ledd skal lyde:",
+        "html": "<a data-id=\"lov/1975-06-06-29/§13\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A713\">§ 13</a> tredje ledd skal lyde:",
         "text": "§ 13 tredje ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved samanslåing av kommunar gjeld særskilde reglar for auke av skattesatsane mv. i ein overgangsperiode på inntil 3 år. Overgangsperioden skal nyttast til å samordne eigedomsskatten. For eigedom som nemnd i § 3 d og § 4 andre og tredje ledd, kan skatten ikkje vera større enn kr 2 av kvart kr 1 000 av takstverdet det første året det vert utskrive eigedomsskatt, og ikkje aukast med meir enn kr 2 for kvart kr 1 000 av takstverdet per år. For bustad og fritidsbustad gjeld reglane i første leden. Auken i skattesatsane må byrje frå første året av, og fordelast likt over heile overgangsperioden. Skattesatsane i den nye kommunen må vere samordna før kommunen kan auke satsen etter dei vanlege reglane i lova. Utskrivingsalternativ og eventuelt botnfrådrag må vere likt i heile kommunen frå det første året i overgangsperioden. Kommunen kan gjennomføre fullstendig taksering av alle eigedomar i den nye kommunen. Alternativt kan kommunen velje å avgrense takseringa til ikkje tidlegare verdsette eigedomar. Kommunen kan også nytte overgangsperioden til å samordne takstane i kommunen. Overgangsperioden kan byrje det første året etter samanslåinga, og seinast det andre året. Kommunar som vel å utsette samordninga til det andre året, må vidareføre eigedomsskatten slik han var føre samanslåinga med unntak for lovbestemte endringar og reduksjonar i skattesatsane. Fristen for utskriving av eigedomsskatt ved kommunesamanslåing er utløpet av juni det året kommunen byrjar overgangsperioden. Første året etter utløpet av overgangsperioden skal eigedomsskatten vere lik i heile kommunen.",
+        "html": "Ved samanslåing av kommunar gjeld særskilde reglar for auke av skattesatsane mv. i ein overgangsperiode på inntil 3 år. Overgangsperioden skal nyttast til å samordne eigedomsskatten. For eigedom som nemnd i <a data-id=\"lov/1975-06-06-29/§3\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A73\">§ 3</a> d og <a data-id=\"lov/1975-06-06-29/§4\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A74\">§ 4</a> andre og tredje ledd, kan skatten ikkje vera større enn kr 2 av kvart kr 1 000 av takstverdet det første året det vert utskrive eigedomsskatt, og ikkje aukast med meir enn kr 2 for kvart kr 1 000 av takstverdet per år. For bustad og fritidsbustad gjeld reglane i første leden. Auken i skattesatsane må byrje frå første året av, og fordelast likt over heile overgangsperioden. Skattesatsane i den nye kommunen må vere samordna før kommunen kan auke satsen etter dei vanlege reglane i lova. Utskrivingsalternativ og eventuelt botnfrådrag må vere likt i heile kommunen frå det første året i overgangsperioden. Kommunen kan gjennomføre fullstendig taksering av alle eigedomar i den nye kommunen. Alternativt kan kommunen velje å avgrense takseringa til ikkje tidlegare verdsette eigedomar. Kommunen kan også nytte overgangsperioden til å samordne takstane i kommunen. Overgangsperioden kan byrje det første året etter samanslåinga, og seinast det andre året. Kommunar som vel å utsette samordninga til det andre året, må vidareføre eigedomsskatten slik han var føre samanslåinga med unntak for lovbestemte endringar og reduksjonar i skattesatsane. Fristen for utskriving av eigedomsskatt ved kommunesamanslåing er utløpet av juni det året kommunen byrjar overgangsperioden. Første året etter utløpet av overgangsperioden skal eigedomsskatten vere lik i heile kommunen.",
         "text": "Ved samanslåing av kommunar gjeld særskilde reglar for auke av skattesatsane mv. i ein overgangsperiode på inntil 3 år. Overgangsperioden skal nyttast til å samordne eigedomsskatten. For eigedom som nemnd i § 3 d og § 4 andre og tredje ledd, kan skatten ikkje vera større enn kr 2 av kvart kr 1 000 av takstverdet det første året det vert utskrive eigedomsskatt, og ikkje aukast med meir enn kr 2 for kvart kr 1 000 av takstverdet per år. For bustad og fritidsbustad gjeld reglane i første leden. Auken i skattesatsane må byrje frå første året av, og fordelast likt over heile overgangsperioden. Skattesatsane i den nye kommunen må vere samordna før kommunen kan auke satsen etter dei vanlege reglane i lova. Utskrivingsalternativ og eventuelt botnfrådrag må vere likt i heile kommunen frå det første året i overgangsperioden. Kommunen kan gjennomføre fullstendig taksering av alle eigedomar i den nye kommunen. Alternativt kan kommunen velje å avgrense takseringa til ikkje tidlegare verdsette eigedomar. Kommunen kan også nytte overgangsperioden til å samordne takstane i kommunen. Overgangsperioden kan byrje det første året etter samanslåinga, og seinast det andre året. Kommunar som vel å utsette samordninga til det andre året, må vidareføre eigedomsskatten slik han var føre samanslåinga med unntak for lovbestemte endringar og reduksjonar i skattesatsane. Fristen for utskriving av eigedomsskatt ved kommunesamanslåing er utløpet av juni det året kommunen byrjar overgangsperioden. Første året etter utløpet av overgangsperioden skal eigedomsskatten vere lik i heile kommunen."
     },
     {

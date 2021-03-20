@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.115 LS (2018–2019), Innst.378 L (2018–2019), Lovvedtak 97 (2018–2019). Stortingets første og andre gongs behandling hv. 14. og 17. juni 2019. Fremja av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-115-ls-201819\" class=\" reference\" href=\"/forarbeid/prop-115-ls-201819\">Prop.115 LS (2018–2019)</a>, <a data-id=\"forarbeid/inns-378-l-201819\" class=\" reference\" href=\"/forarbeid/inns-378-l-201819\">Innst.378 L (2018–2019)</a>, <a data-id=\"forarbeid/lovvedtak-97-201819\" class=\" reference\" href=\"/forarbeid/lovvedtak-97-201819\">Lovvedtak 97 (2018–2019)</a>. Stortingets første og andre gongs behandling hv. 14. og 17. juni 2019. Fremja av Finansdepartementet.",
         "text": "Prop.115 LS (2018–2019), Innst.378 L (2018–2019), Lovvedtak 97 (2018–2019). Stortingets første og andre gongs behandling hv. 14. og 17. juni 2019. Fremja av Finansdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven).",
+        "html": "<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).",
         "text": "Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt gjer ein følgjande endringar:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:"
     },
     {
@@ -44,7 +44,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Aksjeselskap som er direkte eller indirekte heleid av Norges Bank og tilsvarende selskap stiftet i utlandet som er hjemmehørende i Norge, skal ikke svare skatt på inntekt fra kapital som forvaltes i Statens pensjonsfond utland, jf. lov 21. desember 2005 nr. 123 om Statens pensjonsfond § 2 annet ledd annet punktum, herunder avkastning i form av gevinst, utbytte, renter og valutagevinst.",
+        "html": "Aksjeselskap som er direkte eller indirekte heleid av Norges Bank og tilsvarende selskap stiftet i utlandet som er hjemmehørende i Norge, skal ikke svare skatt på inntekt fra kapital som forvaltes i Statens pensjonsfond utland, jf. <a data-id=\"lov/2005-12-21-123\" class=\" reference\" href=\"/lov/2005-12-21-123\">lov 21. desember 2005 nr. 123</a> om Statens pensjonsfond <a data-id=\"lov/2005-12-21-123/§2\" class=\" reference\" href=\"/lov/2005-12-21-123/%C2%A72\">§ 2</a> annet ledd annet punktum, herunder avkastning i form av gevinst, utbytte, renter og valutagevinst.",
         "text": "Aksjeselskap som er direkte eller indirekte heleid av Norges Bank og tilsvarende selskap stiftet i utlandet som er hjemmehørende i Norge, skal ikke svare skatt på inntekt fra kapital som forvaltes i Statens pensjonsfond utland, jf. lov 21. desember 2005 nr. 123 om Statens pensjonsfond § 2 annet ledd annet punktum, herunder avkastning i form av gevinst, utbytte, renter og valutagevinst."
     },
     {
@@ -67,9 +67,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til åndsverk eller patent, så lenge retten ikke er gått ut av opphaverens eller oppfinnerens eie,</td>\n</tr>",
-        "text": "e.rett til åndsverk eller patent, så lenge retten ikke er gått ut av opphaverens eller oppfinnerens eie,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til åndsverk eller patent, så lenge retten ikke er gått ut av opphaverens eller oppfinnerens eie,</td>\n</tr>",
+        "text": "e.\trett til åndsverk eller patent, så lenge retten ikke er gått ut av opphaverens eller oppfinnerens eie,"
     },
     {
         "tag": "p",
@@ -79,9 +79,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ett eller flere offentlige organer kan ikke alene eller til sammen kontrollere mer enn 24 prosent av kapital- eller stemmerettsandelene i selskapet.</td>\n</tr>",
-        "text": "-ett eller flere offentlige organer kan ikke alene eller til sammen kontrollere mer enn 24 prosent av kapital- eller stemmerettsandelene i selskapet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ett eller flere offentlige organer kan ikke alene eller til sammen kontrollere mer enn 24 prosent av kapital- eller stemmerettsandelene i selskapet.</td>\n</tr>",
+        "text": "-\tett eller flere offentlige organer kan ikke alene eller til sammen kontrollere mer enn 24 prosent av kapital- eller stemmerettsandelene i selskapet."
     },
     {
         "tag": "p",
@@ -98,7 +98,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Deloverskrifta «Aksjonærbidrag» før deloverskrifta til skatteloven §§ 10-20 og 10-21 «Verdipapirfond og aksjesparekonto» vert fjerna.",
+        "html": "Deloverskrifta «Aksjonærbidrag» før deloverskrifta til <a data-id=\"lov/1999-03-26-14/§10-20\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-20\">skatteloven §§ 10-20</a> og <a data-id=\"lov/1999-03-26-14/§10-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-21\">10-21</a> «Verdipapirfond og aksjesparekonto» vert fjerna.",
         "text": "Deloverskrifta «Aksjonærbidrag» før deloverskrifta til skatteloven §§ 10-20 og 10-21 «Verdipapirfond og aksjesparekonto» vert fjerna."
     },
     {
@@ -127,9 +127,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avløsningsbeløp for slike ytelser.</td>\n</tr>",
-        "text": "b.pensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avløsningsbeløp for slike ytelser."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avløsningsbeløp for slike ytelser.</td>\n</tr>",
+        "text": "b.\tpensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avløsningsbeløp for slike ytelser."
     },
     {
         "tag": "p",
@@ -139,9 +139,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeidsavklaringspenger etter folketrygdloven kapittel 11 og overgangsstønad etter folketrygdloven §§ 15-7, 16-7 og 17-6.</td>\n</tr>",
-        "text": "c.arbeidsavklaringspenger etter folketrygdloven kapittel 11 og overgangsstønad etter folketrygdloven §§ 15-7, 16-7 og 17-6."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeidsavklaringspenger etter <a data-id=\"lov/1997-02-28-19/kap11\" class=\" reference\" href=\"/lov/1997-02-28-19/kap11\">folketrygdloven kapittel 11</a> og overgangsstønad etter <a data-id=\"lov/1997-02-28-19/§15-7\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A715-7\">folketrygdloven §§ 15-7</a>, <a data-id=\"lov/1997-02-28-19/§16-7\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A716-7\">16-7</a> og <a data-id=\"lov/1997-02-28-19/§17-6\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A717-6\">17-6</a>.</td>\n</tr>",
+        "text": "c.\tarbeidsavklaringspenger etter folketrygdloven kapittel 11 og overgangsstønad etter folketrygdloven §§ 15-7, 16-7 og 17-6."
     },
     {
         "tag": "p",
@@ -151,9 +151,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning.</td>\n</tr>",
-        "text": "d.engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning.</td>\n</tr>",
+        "text": "d.\tengangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning."
     },
     {
         "tag": "p",
@@ -163,9 +163,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven.</td>\n</tr>",
-        "text": "e.engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven.</td>\n</tr>",
+        "text": "e.\tengangsutbetaling fra pensjonsordning etter innskuddspensjonsloven."
     },
     {
         "tag": "p",
@@ -175,9 +175,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">beregnet personinntekt etter §§ 12-10 til 12-13.</td>\n</tr>",
-        "text": "g.beregnet personinntekt etter §§ 12-10 til 12-13."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">beregnet personinntekt etter §§ 12-10 til 12-13.</td>\n</tr>",
+        "text": "g.\tberegnet personinntekt etter §§ 12-10 til 12-13."
     },
     {
         "tag": "p",
@@ -187,9 +187,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uføretrygd etter folketrygdloven kapittel 12 og uføreytelser fra andre ordninger.</td>\n</tr>",
-        "text": "j.uføretrygd etter folketrygdloven kapittel 12 og uføreytelser fra andre ordninger."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uføretrygd etter <a data-id=\"lov/1997-02-28-19/kap12\" class=\" reference\" href=\"/lov/1997-02-28-19/kap12\">folketrygdloven kapittel 12</a> og uføreytelser fra andre ordninger.</td>\n</tr>",
+        "text": "j.\tuføretrygd etter folketrygdloven kapittel 12 og uføreytelser fra andre ordninger."
     },
     {
         "tag": "p",
@@ -212,7 +212,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt gjer ein følgjande endringar:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:"
     },
     {
@@ -277,15 +277,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det inntektsåret ekteskapet inngås.</td>\n</tr>",
-        "text": "a.det inntektsåret ekteskapet inngås."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det inntektsåret ekteskapet inngås.</td>\n</tr>",
+        "text": "a.\tdet inntektsåret ekteskapet inngås."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når de ved utløpet av inntektsåret var separert eller levde varig adskilt. Ektefellene skal ikke anses å leve varig adskilt der den ene ektefellen bor på institusjon.</td>\n</tr>",
-        "text": "b.når de ved utløpet av inntektsåret var separert eller levde varig adskilt. Ektefellene skal ikke anses å leve varig adskilt der den ene ektefellen bor på institusjon."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når de ved utløpet av inntektsåret var separert eller levde varig adskilt. Ektefellene skal ikke anses å leve varig adskilt der den ene ektefellen bor på institusjon.</td>\n</tr>",
+        "text": "b.\tnår de ved utløpet av inntektsåret var separert eller levde varig adskilt. Ektefellene skal ikke anses å leve varig adskilt der den ene ektefellen bor på institusjon."
     },
     {
         "tag": "p",
