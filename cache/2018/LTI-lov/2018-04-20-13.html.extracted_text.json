@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.31 L (2017–2018), Innst.170 L (2017–2018), Lovvedtak 43 (2017–2018). Stortingets første og andre gangs behandling hhv. 20. mars og 5. april 2018. Fremmet av Samferdselsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-31-l-201718\" class=\" reference\" href=\"/forarbeid/prop-31-l-201718\">Prop.31 L (2017–2018)</a>, <a data-id=\"forarbeid/inns-170-l-201718\" class=\" reference\" href=\"/forarbeid/inns-170-l-201718\">Innst.170 L (2017–2018)</a>, <a data-id=\"forarbeid/lovvedtak-43-201718\" class=\" reference\" href=\"/forarbeid/lovvedtak-43-201718\">Lovvedtak 43 (2017–2018)</a>. Stortingets første og andre gangs behandling hhv. 20. mars og 5. april 2018. Fremmet av Samferdselsdepartementet.",
         "text": "Prop.31 L (2017–2018), Innst.170 L (2017–2018), Lovvedtak 43 (2017–2018). Stortingets første og andre gangs behandling hhv. 20. mars og 5. april 2018. Fremmet av Samferdselsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven).",
+        "html": "<a data-id=\"lov/1965-06-18-4\" class=\" reference\" href=\"/lov/1965-06-18-4\">Lov 18. juni 1965 nr. 4</a> om vegtrafikk (vegtrafikkloven).",
         "text": "Lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven)."
     },
     {
@@ -26,13 +26,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 18. juni 1965 nr. 4 om vegtrafikk skal ny § 18 lyde:",
+        "html": "I <a data-id=\"lov/1965-06-18-4\" class=\" reference\" href=\"/lov/1965-06-18-4\">lov 18. juni 1965 nr. 4</a> om vegtrafikk skal ny <a data-id=\"lov/1965-06-18-4/§18\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A718\">§ 18</a> lyde:",
         "text": "I lov 18. juni 1965 nr. 4 om vegtrafikk skal ny § 18 lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 18. <em class=\" \">Krav om alkolås ved transport mot vederlag</em>",
+        "html": "<a data-id=\"lov/1965-06-18-4/§18\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A718\">§ 18</a>. <em class=\" \">Krav om alkolås ved transport mot vederlag</em>",
         "text": "§ 18. Krav om alkolås ved transport mot vederlag"
     },
     {
@@ -49,14 +49,14 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td>\n</tr>",
-        "text": "1.Loven gjelder fra den tid Kongen bestemmer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td>\n</tr>",
+        "text": "1.\tLoven gjelder fra den tid Kongen bestemmer."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi nærmere overgangsregler.</td>\n</tr>",
-        "text": "2.Departementet kan gi nærmere overgangsregler."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi nærmere overgangsregler.</td>\n</tr>",
+        "text": "2.\tDepartementet kan gi nærmere overgangsregler."
     }
 ]

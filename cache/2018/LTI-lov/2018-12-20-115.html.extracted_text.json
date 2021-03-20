@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.105 LS (2017–2018), Innst.75 L (2018–2019), Lovvedtak 13 (2018–2019). Stortingets første og andre gangs behandling hhv. 4. og 10. desember 2018. Fremmet av Justis- og beredskapsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-105-ls-201718\" class=\" reference\" href=\"/forarbeid/prop-105-ls-201718\">Prop.105 LS (2017–2018)</a>, <a data-id=\"forarbeid/inns-75-l-201819\" class=\" reference\" href=\"/forarbeid/inns-75-l-201819\">Innst.75 L (2018–2019)</a>, <a data-id=\"forarbeid/lovvedtak-13-201819\" class=\" reference\" href=\"/forarbeid/lovvedtak-13-201819\">Lovvedtak 13 (2018–2019)</a>. Stortingets første og andre gangs behandling hhv. 4. og 10. desember 2018. Fremmet av Justis- og beredskapsdepartementet.",
         "text": "Prop.105 LS (2017–2018), Innst.75 L (2018–2019), Lovvedtak 13 (2018–2019). Stortingets første og andre gangs behandling hhv. 4. og 10. desember 2018. Fremmet av Justis- og beredskapsdepartementet."
     },
     {
@@ -13,21 +13,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven).</td>\n</tr>",
-        "text": "1Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1994-06-24-39\" class=\" reference\" href=\"/lov/1994-06-24-39\">Lov 24. juni 1994 nr. 39</a> om sjøfarten (sjøloven).</td>\n</tr>",
+        "text": "1\tLov 24. juni 1994 nr. 39 om sjøfarten (sjøloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 17. april 2009 nr. 19 om havner og farvann (havne- og farvannsloven).</td>\n</tr>",
-        "text": "2Lov 17. april 2009 nr. 19 om havner og farvann (havne- og farvannsloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2009-04-17-19\" class=\" reference\" href=\"/lov/2009-04-17-19\">Lov 17. april 2009 nr. 19</a> om havner og farvann (havne- og farvannsloven).</td>\n</tr>",
+        "text": "2\tLov 17. april 2009 nr. 19 om havner og farvann (havne- og farvannsloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 12. mai 2015 nr. 30 om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.)</td>\n</tr>",
-        "text": "3Lov 12. mai 2015 nr. 30 om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.)"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2015-05-12-30\" class=\" reference\" href=\"/lov/2015-05-12-30\">Lov 12. mai 2015 nr. 30</a> om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.)</td>\n</tr>",
+        "text": "3\tLov 12. mai 2015 nr. 30 om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.)"
     },
     {
         "tag": "h2",
@@ -38,13 +38,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 24. juni 1994 nr. 39 om sjøfarten gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1994-06-24-39\" class=\" reference\" href=\"/lov/1994-06-24-39\">lov 24. juni 1994 nr. 39</a> om sjøfarten gjøres følgende endringer:",
         "text": "I lov 24. juni 1994 nr. 39 om sjøfarten gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "Nytt kapittel 10 a skal lyde:",
+        "html": "Nytt <a data-id=\"lov/1994-06-24-39/kap10a\" class=\" reference\" href=\"/lov/1994-06-24-39/kap10a\">kapittel 10 a</a> skal lyde:",
         "text": "Nytt kapittel 10 a skal lyde:"
     },
     {
@@ -56,7 +56,7 @@
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 210. <em class=\" \">Definisjoner</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210\">§ 210</a>. <em class=\" \">Definisjoner</em>",
         "text": "§ 210. Definisjoner"
     },
     {
@@ -97,27 +97,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">et skip som er sunket eller strandet som følge av en sjøulykke,</td>\n</tr>",
-        "text": "a)et skip som er sunket eller strandet som følge av en sjøulykke,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">et skip som er sunket eller strandet som følge av en sjøulykke,</td>\n</tr>",
+        "text": "a)\tet skip som er sunket eller strandet som følge av en sjøulykke,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en del av et skip som er sunket eller strandet som følge av en sjøulykke, herunder en gjenstand som er eller har vært om bord på et slikt skip,</td>\n</tr>",
-        "text": "b)en del av et skip som er sunket eller strandet som følge av en sjøulykke, herunder en gjenstand som er eller har vært om bord på et slikt skip,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en del av et skip som er sunket eller strandet som følge av en sjøulykke, herunder en gjenstand som er eller har vært om bord på et slikt skip,</td>\n</tr>",
+        "text": "b)\ten del av et skip som er sunket eller strandet som følge av en sjøulykke, herunder en gjenstand som er eller har vært om bord på et slikt skip,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en gjenstand som er mistet på sjøen fra et skip som følge av en sjøulykke, og som er strandet, sunket eller i drift på sjøen, eller</td>\n</tr>",
-        "text": "c)en gjenstand som er mistet på sjøen fra et skip som følge av en sjøulykke, og som er strandet, sunket eller i drift på sjøen, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en gjenstand som er mistet på sjøen fra et skip som følge av en sjøulykke, og som er strandet, sunket eller i drift på sjøen, eller</td>\n</tr>",
+        "text": "c)\ten gjenstand som er mistet på sjøen fra et skip som følge av en sjøulykke, og som er strandet, sunket eller i drift på sjøen, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">et skip som er i ferd med eller med rimelighet kan forventes å synke eller strande som følge av en sjøulykke, og der effektive tiltak for å bistå skipet eller eventuell eiendom som er i fare, ikke allerede er truffet.</td>\n</tr>",
-        "text": "d)et skip som er i ferd med eller med rimelighet kan forventes å synke eller strande som følge av en sjøulykke, og der effektive tiltak for å bistå skipet eller eventuell eiendom som er i fare, ikke allerede er truffet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">et skip som er i ferd med eller med rimelighet kan forventes å synke eller strande som følge av en sjøulykke, og der effektive tiltak for å bistå skipet eller eventuell eiendom som er i fare, ikke allerede er truffet.</td>\n</tr>",
+        "text": "d)\tet skip som er i ferd med eller med rimelighet kan forventes å synke eller strande som følge av en sjøulykke, og der effektive tiltak for å bistå skipet eller eventuell eiendom som er i fare, ikke allerede er truffet."
     },
     {
         "tag": "p",
@@ -134,7 +134,7 @@
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 210 a. <em class=\" \">Objektivt ansvar for skipets registrerte eier</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210a\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210a\">§ 210 a</a>. <em class=\" \">Objektivt ansvar for skipets registrerte eier</em>",
         "text": "§ 210 a. Objektivt ansvar for skipets registrerte eier"
     },
     {
@@ -146,49 +146,49 @@
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 210 b. <em class=\" \">Ansvarsfritak</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210b\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210b\">§ 210 b</a>. <em class=\" \">Ansvarsfritak</em>",
         "text": "§ 210 b. Ansvarsfritak"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene om ansvarsfritak og lemping av ansvaret i § 192 gjelder tilsvarende.",
+        "html": "Reglene om ansvarsfritak og lemping av ansvaret i <a data-id=\"lov/1994-06-24-39/§192\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7192\">§ 192</a> gjelder tilsvarende.",
         "text": "Reglene om ansvarsfritak og lemping av ansvaret i § 192 gjelder tilsvarende."
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 210 c. <em class=\" \">Ansvarsbegrensning og ansvarskanalisering</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210c\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210c\">§ 210 c</a>. <em class=\" \">Ansvarsbegrensning og ansvarskanalisering</em>",
         "text": "§ 210 c. Ansvarsbegrensning og ansvarskanalisering"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Krav mot skipets registrerte eier om dekning av kostnader som nevnt i § 210 a kan bare gjøres gjeldende etter reglene i dette kapittelet.",
+        "html": "Krav mot skipets registrerte eier om dekning av kostnader som nevnt i <a data-id=\"lov/1994-06-24-39/§210a\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210a\">§ 210 a</a> kan bare gjøres gjeldende etter reglene i dette kapittelet.",
         "text": "Krav mot skipets registrerte eier om dekning av kostnader som nevnt i § 210 a kan bare gjøres gjeldende etter reglene i dette kapittelet."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene om kanalisering av ansvaret og regress i § 193 annet og tredje ledd gjelder tilsvarende. Reglene om at ansvar ikke kan gjøres gjeldende, skal likevel ikke gjelde overfor den registrerte eieren.",
+        "html": "Reglene om kanalisering av ansvaret og regress i <a data-id=\"lov/1994-06-24-39/§193\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7193\">§ 193</a> annet og tredje ledd gjelder tilsvarende. Reglene om at ansvar ikke kan gjøres gjeldende, skal likevel ikke gjelde overfor den registrerte eieren.",
         "text": "Reglene om kanalisering av ansvaret og regress i § 193 annet og tredje ledd gjelder tilsvarende. Reglene om at ansvar ikke kan gjøres gjeldende, skal likevel ikke gjelde overfor den registrerte eieren."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For begrensning av ansvaret til den registrerte eieren gjelder reglene i kapittel 9.",
+        "html": "For begrensning av ansvaret til den registrerte eieren gjelder reglene i <a data-id=\"lov/1994-06-24-39/kap9\" class=\" reference\" href=\"/lov/1994-06-24-39/kap9\">kapittel 9</a>.",
         "text": "For begrensning av ansvaret til den registrerte eieren gjelder reglene i kapittel 9."
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 210 d. <em class=\" \">Forsikringsplikt, sertifikat</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210d\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210d\">§ 210 d</a>. <em class=\" \">Forsikringsplikt, sertifikat</em>",
         "text": "§ 210 d. Forsikringsplikt, sertifikat"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den registrerte eieren av et norsk skip med bruttotonnasje på 300 tonn eller mer plikter å ha godkjent forsikring eller annen sikkerhet som dekker ansvaret etter § 210 a, opp til ansvarsgrensene som følger av § 175 nr. 3. Det skal utstedes sertifikat som bekrefter at skipet har slik forsikring eller sikkerhet. Uten gyldig sertifikat kan skipet ikke seile under norsk flagg.",
+        "html": "Den registrerte eieren av et norsk skip med bruttotonnasje på 300 tonn eller mer plikter å ha godkjent forsikring eller annen sikkerhet som dekker ansvaret etter <a data-id=\"lov/1994-06-24-39/§210a\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210a\">§ 210 a</a>, opp til ansvarsgrensene som følger av <a data-id=\"lov/1994-06-24-39/§175\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7175\">§ 175</a> nr. 3. Det skal utstedes sertifikat som bekrefter at skipet har slik forsikring eller sikkerhet. Uten gyldig sertifikat kan skipet ikke seile under norsk flagg.",
         "text": "Den registrerte eieren av et norsk skip med bruttotonnasje på 300 tonn eller mer plikter å ha godkjent forsikring eller annen sikkerhet som dekker ansvaret etter § 210 a, opp til ansvarsgrensene som følger av § 175 nr. 3. Det skal utstedes sertifikat som bekrefter at skipet har slik forsikring eller sikkerhet. Uten gyldig sertifikat kan skipet ikke seile under norsk flagg."
     },
     {
@@ -200,7 +200,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For skip som eies av den norske stat eller av en annen konvensjonsstat, gjelder reglene i § 197 tredje ledd tilsvarende.",
+        "html": "For skip som eies av den norske stat eller av en annen konvensjonsstat, gjelder reglene i <a data-id=\"lov/1994-06-24-39/§197\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7197\">§ 197</a> tredje ledd tilsvarende.",
         "text": "For skip som eies av den norske stat eller av en annen konvensjonsstat, gjelder reglene i § 197 tredje ledd tilsvarende."
     },
     {
@@ -212,25 +212,25 @@
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 210 e. <em class=\" \">Sanksjoner mot forsømt forsikringsplikt</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210e\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210e\">§ 210 e</a>. <em class=\" \">Sanksjoner mot forsømt forsikringsplikt</em>",
         "text": "§ 210 e. Sanksjoner mot forsømt forsikringsplikt"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene om sanksjoner mot forsømt forsikringsplikt m.m. i § 199 gjelder tilsvarende for skip som ikke har påbudt forsikring eller annen sikkerhet eller påbudt sertifikat etter § 210 d eller forskrifter gitt med hjemmel i § 210 d fjerde ledd.",
+        "html": "Reglene om sanksjoner mot forsømt forsikringsplikt m.m. i <a data-id=\"lov/1994-06-24-39/§199\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7199\">§ 199</a> gjelder tilsvarende for skip som ikke har påbudt forsikring eller annen sikkerhet eller påbudt sertifikat etter <a data-id=\"lov/1994-06-24-39/§210d\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210d\">§ 210 d</a> eller forskrifter gitt med hjemmel i <a data-id=\"lov/1994-06-24-39/§210d\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210d\">§ 210 d</a> fjerde ledd.",
         "text": "Reglene om sanksjoner mot forsømt forsikringsplikt m.m. i § 199 gjelder tilsvarende for skip som ikke har påbudt forsikring eller annen sikkerhet eller påbudt sertifikat etter § 210 d eller forskrifter gitt med hjemmel i § 210 d fjerde ledd."
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 210 f. <em class=\" \">Direktekrav mot forsikringsgiveren</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210f\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210f\">§ 210 f</a>. <em class=\" \">Direktekrav mot forsikringsgiveren</em>",
         "text": "§ 210 f. Direktekrav mot forsikringsgiveren"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Krav om dekning av kostnader til lokalisering, merking og fjerning av vrak etter § 210 a kan reises direkte mot den som har ytet forsikring eller stilt sikkerhet etter § 210 d (forsikringsgiveren). Forsikringsgiveren kan gjøre gjeldende begrensning av ansvaret etter § 175 nr. 3, selv om den registrerte eieren ikke har rett til ansvarsbegrensning.",
+        "html": "Krav om dekning av kostnader til lokalisering, merking og fjerning av vrak etter <a data-id=\"lov/1994-06-24-39/§210a\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210a\">§ 210 a</a> kan reises direkte mot den som har ytet forsikring eller stilt sikkerhet etter <a data-id=\"lov/1994-06-24-39/§210d\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210d\">§ 210 d</a> (forsikringsgiveren). Forsikringsgiveren kan gjøre gjeldende begrensning av ansvaret etter <a data-id=\"lov/1994-06-24-39/§175\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7175\">§ 175</a> nr. 3, selv om den registrerte eieren ikke har rett til ansvarsbegrensning.",
         "text": "Krav om dekning av kostnader til lokalisering, merking og fjerning av vrak etter § 210 a kan reises direkte mot den som har ytet forsikring eller stilt sikkerhet etter § 210 d (forsikringsgiveren). Forsikringsgiveren kan gjøre gjeldende begrensning av ansvaret etter § 175 nr. 3, selv om den registrerte eieren ikke har rett til ansvarsbegrensning."
     },
     {
@@ -242,13 +242,13 @@
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 210 g. <em class=\" \">Norske domstolers kompetanse. Anerkjennelse og fullbyrdelse av utenlandske dommer</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210g\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210g\">§ 210 g</a>. <em class=\" \">Norske domstolers kompetanse. Anerkjennelse og fullbyrdelse av utenlandske dommer</em>",
         "text": "§ 210 g. Norske domstolers kompetanse. Anerkjennelse og fullbyrdelse av utenlandske dommer"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene i § 203 første og annet ledd om norske domstolers kompetanse gjelder tilsvarende ved søksmål mot den registrerte eieren eller dennes forsikringsgiver om ansvaret for kostnader til lokalisering, merking og fjerning av vrak etter vrakfjerningskonvensjonen.",
+        "html": "Reglene i <a data-id=\"lov/1994-06-24-39/§203\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7203\">§ 203</a> første og annet ledd om norske domstolers kompetanse gjelder tilsvarende ved søksmål mot den registrerte eieren eller dennes forsikringsgiver om ansvaret for kostnader til lokalisering, merking og fjerning av vrak etter vrakfjerningskonvensjonen.",
         "text": "Reglene i § 203 første og annet ledd om norske domstolers kompetanse gjelder tilsvarende ved søksmål mot den registrerte eieren eller dennes forsikringsgiver om ansvaret for kostnader til lokalisering, merking og fjerning av vrak etter vrakfjerningskonvensjonen."
     },
     {
@@ -260,79 +260,79 @@
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 210 h. <em class=\" \">Virkeområdet for reglene i kapittel 10 a</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210h\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210h\">§ 210 h</a>. <em class=\" \">Virkeområdet for reglene i <a data-id=\"lov/1994-06-24-39/kap10a\" class=\" reference\" href=\"/lov/1994-06-24-39/kap10a\">kapittel 10 a</a></em>",
         "text": "§ 210 h. Virkeområdet for reglene i kapittel 10 a"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene i kapittel 10 a gjelder for:",
+        "html": "Reglene i <a data-id=\"lov/1994-06-24-39/kap10a\" class=\" reference\" href=\"/lov/1994-06-24-39/kap10a\">kapittel 10 a</a> gjelder for:",
         "text": "Reglene i kapittel 10 a gjelder for:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skip og vrak som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sone</td>\n</tr>",
-        "text": "a)skip og vrak som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sone"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skip og vrak som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sone</td>\n</tr>",
+        "text": "a)\tskip og vrak som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sone"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">norske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats økonomiske sone eller, dersom en konvensjonsstat ikke har opprettet økonomisk sone, i et område fastsatt av denne konvensjonsstaten etter folkeretten på ikke mer enn 200 nautiske mil fra de grunnlinjene sjøterritoriet måles fra</td>\n</tr>",
-        "text": "b)norske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats økonomiske sone eller, dersom en konvensjonsstat ikke har opprettet økonomisk sone, i et område fastsatt av denne konvensjonsstaten etter folkeretten på ikke mer enn 200 nautiske mil fra de grunnlinjene sjøterritoriet måles fra"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">norske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats økonomiske sone eller, dersom en konvensjonsstat ikke har opprettet økonomisk sone, i et område fastsatt av denne konvensjonsstaten etter folkeretten på ikke mer enn 200 nautiske mil fra de grunnlinjene sjøterritoriet måles fra</td>\n</tr>",
+        "text": "b)\tnorske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats økonomiske sone eller, dersom en konvensjonsstat ikke har opprettet økonomisk sone, i et område fastsatt av denne konvensjonsstaten etter folkeretten på ikke mer enn 200 nautiske mil fra de grunnlinjene sjøterritoriet måles fra"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">norske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats territorium, herunder sjøterritoriet, dersom denne staten har gitt underretning om at vrakfjerningskonvensjonen skal gjelde for territoriet</td>\n</tr>",
-        "text": "c)norske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats territorium, herunder sjøterritoriet, dersom denne staten har gitt underretning om at vrakfjerningskonvensjonen skal gjelde for territoriet"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">norske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats territorium, herunder sjøterritoriet, dersom denne staten har gitt underretning om at vrakfjerningskonvensjonen skal gjelde for territoriet</td>\n</tr>",
+        "text": "c)\tnorske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats territorium, herunder sjøterritoriet, dersom denne staten har gitt underretning om at vrakfjerningskonvensjonen skal gjelde for territoriet"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene i kapittel 10 a gjelder ikke for:",
+        "html": "Reglene i <a data-id=\"lov/1994-06-24-39/kap10a\" class=\" reference\" href=\"/lov/1994-06-24-39/kap10a\">kapittel 10 a</a> gjelder ikke for:",
         "text": "Reglene i kapittel 10 a gjelder ikke for:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forurensingsskade som er omfattet av §§ 183 eller 191</td>\n</tr>",
-        "text": "a)forurensingsskade som er omfattet av §§ 183 eller 191"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forurensingsskade som er omfattet av <a data-id=\"lov/1994-06-24-39/§183\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7183\">§§ 183</a> eller <a data-id=\"lov/1994-06-24-39/§191\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7191\">191</a>\n</td>\n</tr>",
+        "text": "a)\tforurensingsskade som er omfattet av §§ 183 eller 191"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vederlag eller kompensasjon for berging som er omfattet av kapittel 16</td>\n</tr>",
-        "text": "b)vederlag eller kompensasjon for berging som er omfattet av kapittel 16"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vederlag eller kompensasjon for berging som er omfattet av <a data-id=\"lov/1994-06-24-39/kap16\" class=\" reference\" href=\"/lov/1994-06-24-39/kap16\">kapittel 16</a>\n</td>\n</tr>",
+        "text": "b)\tvederlag eller kompensasjon for berging som er omfattet av kapittel 16"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak truffet i henhold til Internasjonal konvensjon om inngrep på det frie hav i tilfelle av oljeforurensningsulykker, 1969, med endringer, eller Protokoll vedrørende inngrep på det frie hav i tilfelle av forurensning av sjøen ved andre stoffer enn olje, 1973, med endringer</td>\n</tr>",
-        "text": "c)tiltak truffet i henhold til Internasjonal konvensjon om inngrep på det frie hav i tilfelle av oljeforurensningsulykker, 1969, med endringer, eller Protokoll vedrørende inngrep på det frie hav i tilfelle av forurensning av sjøen ved andre stoffer enn olje, 1973, med endringer"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak truffet i henhold til Internasjonal konvensjon om inngrep på det frie hav i tilfelle av oljeforurensningsulykker, 1969, med endringer, eller Protokoll vedrørende inngrep på det frie hav i tilfelle av forurensning av sjøen ved andre stoffer enn olje, 1973, med endringer</td>\n</tr>",
+        "text": "c)\ttiltak truffet i henhold til Internasjonal konvensjon om inngrep på det frie hav i tilfelle av oljeforurensningsulykker, 1969, med endringer, eller Protokoll vedrørende inngrep på det frie hav i tilfelle av forurensning av sjøen ved andre stoffer enn olje, 1973, med endringer"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene i kapittel 10 a gjelder ikke for krigsskip eller andre skip som eies eller driftes av en stat og som for tiden bare benyttes i statlig, ikke-kommersielt øyemed, med mindre staten som eier eller drifter skipet, har vedtatt at vrakfjerningskonvensjonen skal få anvendelse. §§ 210, 210 a, 210 b og 210 c gjelder likevel for vrak av slike skip som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sone.",
+        "html": "Reglene i <a data-id=\"lov/1994-06-24-39/kap10a\" class=\" reference\" href=\"/lov/1994-06-24-39/kap10a\">kapittel 10 a</a> gjelder ikke for krigsskip eller andre skip som eies eller driftes av en stat og som for tiden bare benyttes i statlig, ikke-kommersielt øyemed, med mindre staten som eier eller drifter skipet, har vedtatt at vrakfjerningskonvensjonen skal få anvendelse. <a data-id=\"lov/1994-06-24-39/§210\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210\">§§ 210</a>, <a data-id=\"lov/1994-06-24-39/§210a\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210a\">210 a</a>, <a data-id=\"lov/1994-06-24-39/§210b\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210b\">210 b</a> og <a data-id=\"lov/1994-06-24-39/§210c\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210c\">210 c</a> gjelder likevel for vrak av slike skip som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sone.",
         "text": "Reglene i kapittel 10 a gjelder ikke for krigsskip eller andre skip som eies eller driftes av en stat og som for tiden bare benyttes i statlig, ikke-kommersielt øyemed, med mindre staten som eier eller drifter skipet, har vedtatt at vrakfjerningskonvensjonen skal få anvendelse. §§ 210, 210 a, 210 b og 210 c gjelder likevel for vrak av slike skip som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sone."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene i kapittel 10 a gjelder med de begrensninger som følger av De forente nasjoners havrettskonvensjon, 1982, og folkerettslig sedvanerett på havrettens område. Overfor stater som ikke er tilsluttet vrakfjerningskonvensjonen, gjelder kapittelet med de begrensningene som følger av overenskomster med disse statene eller av folkeretten for øvrig.",
+        "html": "Reglene i <a data-id=\"lov/1994-06-24-39/kap10a\" class=\" reference\" href=\"/lov/1994-06-24-39/kap10a\">kapittel 10 a</a> gjelder med de begrensninger som følger av De forente nasjoners <a data-id=\"traktat/1982-12-10-1/kap10\" class=\" reference\" href=\"/traktat/1982-12-10-1/kap10\">havrettskonvensjon, 1982, og</a> folkerettslig sedvanerett på havrettens område. Overfor stater som ikke er tilsluttet vrakfjerningskonvensjonen, gjelder kapittelet med de begrensningene som følger av overenskomster med disse statene eller av folkeretten for øvrig.",
         "text": "Reglene i kapittel 10 a gjelder med de begrensninger som følger av De forente nasjoners havrettskonvensjon, 1982, og folkerettslig sedvanerett på havrettens område. Overfor stater som ikke er tilsluttet vrakfjerningskonvensjonen, gjelder kapittelet med de begrensningene som følger av overenskomster med disse statene eller av folkeretten for øvrig."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 461 skal lyde:",
+        "html": "<a data-id=\"lov/1994-06-24-39/§461\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7461\">§ 461</a> skal lyde:",
         "text": "§ 461 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 461. <em class=\" \">York-Antwerpen-reglene</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§461\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7461\">§ 461</a>. <em class=\" \">York-Antwerpen-reglene</em>",
         "text": "§ 461. York-Antwerpen-reglene"
     },
     {
@@ -344,7 +344,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Kapittel 18 overskriften og nytt avsnitt I med ny § 471 skal lyde:",
+        "html": "<a data-id=\"lov/1994-06-24-39/kap18\" class=\" reference\" href=\"/lov/1994-06-24-39/kap18\">Kapittel</a> 18 overskriften og nytt avsnitt I med ny <a data-id=\"lov/1994-06-24-39/§471\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7471\">§ 471</a> skal lyde:",
         "text": "Kapittel 18 overskriften og nytt avsnitt I med ny § 471 skal lyde:"
     },
     {
@@ -362,31 +362,31 @@
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 471. <em class=\" \">Plikt til å fjerne vrak og fremlegge forsikringsbevis</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§471\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7471\">§ 471</a>. <em class=\" \">Plikt til å fjerne vrak og fremlegge forsikringsbevis</em>",
         "text": "§ 471. Plikt til å fjerne vrak og fremlegge forsikringsbevis"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Har en annen konvensjonsstat i tråd med vrakfjerningskonvensjonens regler fastslått at et vrak av et norsk skip som befinner seg i denne statens konvensjonsområde, utgjør en fare, skal den registrerte eieren fjerne vraket. Den registrerte eieren eller en annen interessent skal dessuten fremlegge bevis for forsikring eller annen økonomisk sikkerhet etter § 210 d for rette myndighet i denne staten.",
+        "html": "Har en annen konvensjonsstat i tråd med vrakfjerningskonvensjonens regler fastslått at et vrak av et norsk skip som befinner seg i denne statens konvensjonsområde, utgjør en fare, skal den registrerte eieren fjerne vraket. Den registrerte eieren eller en annen interessent skal dessuten fremlegge bevis for forsikring eller annen økonomisk sikkerhet etter <a data-id=\"lov/1994-06-24-39/§210d\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210d\">§ 210 d</a> for rette myndighet i denne staten.",
         "text": "Har en annen konvensjonsstat i tråd med vrakfjerningskonvensjonens regler fastslått at et vrak av et norsk skip som befinner seg i denne statens konvensjonsområde, utgjør en fare, skal den registrerte eieren fjerne vraket. Den registrerte eieren eller en annen interessent skal dessuten fremlegge bevis for forsikring eller annen økonomisk sikkerhet etter § 210 d for rette myndighet i denne staten."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "§ 210 h tredje ledd første punktum og fjerde ledd gjelder tilsvarende, jf. også § 210.",
+        "html": "<a data-id=\"lov/1994-06-24-39/§210h\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210h\">§ 210 h</a> tredje ledd første punktum og fjerde ledd gjelder tilsvarende, jf. også <a data-id=\"lov/1994-06-24-39/§210\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210\">§ 210</a>.",
         "text": "§ 210 h tredje ledd første punktum og fjerde ledd gjelder tilsvarende, jf. også § 210."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 475 skal lyde:",
+        "html": "<a data-id=\"lov/1994-06-24-39/§475\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7475\">§ 475</a> skal lyde:",
         "text": "§ 475 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 475. <em class=\" \">Meldeplikt</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§475\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7475\">§ 475</a>. <em class=\" \">Meldeplikt</em>",
         "text": "§ 475. Meldeplikt"
     },
     {
@@ -404,25 +404,25 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Har et norsk skip vært innblandet i en hendelse som har forårsaket vrak i konvensjonsområdet til en annen stat som er tilsluttet vrakfjerningskonvensjonen, skal skipsføreren eller den driftsansvarlige for skipet dessuten umiddelbart melde fra om hendelsen til denne staten. § 210 h tredje ledd første punktum og fjerde ledd gjelder tilsvarende, jf. også § 210.",
+        "html": "Har et norsk skip vært innblandet i en hendelse som har forårsaket vrak i konvensjonsområdet til en annen stat som er tilsluttet vrakfjerningskonvensjonen, skal skipsføreren eller den driftsansvarlige for skipet dessuten umiddelbart melde fra om hendelsen til denne staten. <a data-id=\"lov/1994-06-24-39/§210h\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210h\">§ 210 h</a> tredje ledd første punktum og fjerde ledd gjelder tilsvarende, jf. også <a data-id=\"lov/1994-06-24-39/§210\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210\">§ 210</a>.",
         "text": "Har et norsk skip vært innblandet i en hendelse som har forårsaket vrak i konvensjonsområdet til en annen stat som er tilsluttet vrakfjerningskonvensjonen, skal skipsføreren eller den driftsansvarlige for skipet dessuten umiddelbart melde fra om hendelsen til denne staten. § 210 h tredje ledd første punktum og fjerde ledd gjelder tilsvarende, jf. også § 210."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 503 a skal lyde:",
+        "html": "<a data-id=\"lov/1994-06-24-39/§503a\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7503a\">§ 503 a</a> skal lyde:",
         "text": "§ 503 a skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 503 a. <em class=\" \">Foreldelse etter kapittel 10 a</em>",
+        "html": "<a data-id=\"lov/1994-06-24-39/§503a\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7503a\">§ 503 a</a>. <em class=\" \">Foreldelse etter <a data-id=\"lov/1994-06-24-39/kap10a\" class=\" reference\" href=\"/lov/1994-06-24-39/kap10a\">kapittel 10 a</a></em>",
         "text": "§ 503 a. Foreldelse etter kapittel 10 a"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Krav om dekning av kostnader til lokalisering, merking og fjerning av vrak etter reglene i kapittel 10 a faller bort dersom ikke søksmål er reist innen tre år fra den dagen da rette myndighet, i tråd med vrakfjerningskonvensjonens regler, fastslo at vraket utgjorde en fare.",
+        "html": "Krav om dekning av kostnader til lokalisering, merking og fjerning av vrak etter reglene i <a data-id=\"lov/1994-06-24-39/kap10a\" class=\" reference\" href=\"/lov/1994-06-24-39/kap10a\">kapittel 10 a</a> faller bort dersom ikke søksmål er reist innen tre år fra den dagen da rette myndighet, i tråd med vrakfjerningskonvensjonens regler, fastslo at vraket utgjorde en fare.",
         "text": "Krav om dekning av kostnader til lokalisering, merking og fjerning av vrak etter reglene i kapittel 10 a faller bort dersom ikke søksmål er reist innen tre år fra den dagen da rette myndighet, i tråd med vrakfjerningskonvensjonens regler, fastslo at vraket utgjorde en fare."
     },
     {
@@ -434,13 +434,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 506 femte ledd skal lyde:",
+        "html": "<a data-id=\"lov/1994-06-24-39/§506\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7506\">§ 506</a> femte ledd skal lyde:",
         "text": "§ 506 femte ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt overtrer plikten i §§ 186, 197 eller 210 d eller forskrifter gitt i medhold av bestemmelsene, om å ha forsikring eller annen sikkerhet samt gyldige sertifikater.",
+        "html": "Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt overtrer plikten i <a data-id=\"lov/1994-06-24-39/§186\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7186\">§§ 186</a>, <a data-id=\"lov/1994-06-24-39/§197\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7197\">197</a> eller <a data-id=\"lov/1994-06-24-39/§210d\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210d\">210 d</a> eller forskrifter gitt i medhold av bestemmelsene, om å ha forsikring eller annen sikkerhet samt gyldige sertifikater.",
         "text": "Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt overtrer plikten i §§ 186, 197 eller 210 d eller forskrifter gitt i medhold av bestemmelsene, om å ha forsikring eller annen sikkerhet samt gyldige sertifikater."
     },
     {
@@ -452,7 +452,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 17. april 2009 nr. 19 om havner og farvann skal § 35 nytt fjerde ledd lyde:",
+        "html": "I <a data-id=\"lov/2009-04-17-19\" class=\" reference\" href=\"/lov/2009-04-17-19\">lov 17. april 2009 nr. 19</a> om havner og farvann skal <a data-id=\"lov/2009-04-17-19/§35\" class=\" reference\" href=\"/lov/2009-04-17-19/%C2%A735\">§ 35</a> nytt fjerde ledd lyde:",
         "text": "I lov 17. april 2009 nr. 19 om havner og farvann skal § 35 nytt fjerde ledd lyde:"
     },
     {
@@ -470,7 +470,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 12. mai 2015 nr. 30 om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.) gjøres følgende endringer i del I:",
+        "html": "I <a data-id=\"lov/2015-05-12-30\" class=\" reference\" href=\"/lov/2015-05-12-30\">lov 12. mai 2015 nr. 30</a> om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.) gjøres følgende endringer i del I:",
         "text": "I lov 12. mai 2015 nr. 30 om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.) gjøres følgende endringer i del I:"
     },
     {
@@ -487,9 +487,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forurensingsskade som er omfattet av §§ 183, 191 eller 212</td>\n</tr>",
-        "text": "a)forurensingsskade som er omfattet av §§ 183, 191 eller 212"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forurensingsskade som er omfattet av §§ 183, 191 eller 212</td>\n</tr>",
+        "text": "a)\tforurensingsskade som er omfattet av §§ 183, 191 eller 212"
     },
     {
         "tag": "p",
@@ -535,20 +535,20 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.</td>\n</tr>",
-        "text": "1.Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.</td>\n</tr>",
+        "text": "1.\tLoven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Reglene om ansvar og forsikring i sjøloven kapittel 10 a får bare anvendelse på sjøulykker som inntreffer etter ikrafttredelsen av §§ 210 a og 210 d.</td>\n</tr>",
-        "text": "2.Reglene om ansvar og forsikring i sjøloven kapittel 10 a får bare anvendelse på sjøulykker som inntreffer etter ikrafttredelsen av §§ 210 a og 210 d."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Reglene om ansvar og forsikring i <a data-id=\"lov/1994-06-24-39/kap10a\" class=\" reference\" href=\"/lov/1994-06-24-39/kap10a\">sjøloven kapittel 10 a</a> får bare anvendelse på sjøulykker som inntreffer etter ikrafttredelsen av <a data-id=\"lov/1994-06-24-39/§210a\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210a\">§§ 210 a</a> og <a data-id=\"lov/1994-06-24-39/§210d\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7210d\">210 d</a>.</td>\n</tr>",
+        "text": "2.\tReglene om ansvar og forsikring i sjøloven kapittel 10 a får bare anvendelse på sjøulykker som inntreffer etter ikrafttredelsen av §§ 210 a og 210 d."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi nærmere overgangsregler.</td>\n</tr>",
-        "text": "3.Departementet kan gi nærmere overgangsregler."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi nærmere overgangsregler.</td>\n</tr>",
+        "text": "3.\tDepartementet kan gi nærmere overgangsregler."
     }
 ]
