@@ -163,6 +163,14 @@ for($year = date('Y'); $year >= 2001; $year--) {
                         if ($node->nodeName() == 'div' && str_contains($node->attr('class'), 'paragraf')) {
                             $html = $node->html();
                             if (str_contains($html, '<span')) {
+				// We rather pick out the paragrafValue/paragrafTittel
+                                return null;
+                            }
+                        }
+                        if ($node->nodeName() == 'h3' && str_contains($node->attr('class'), 'paragrafHeader')) {
+                            $html = $node->html();
+                            if (str_contains($html, '<span')) {
+				// We rather pick out the paragrafValue/paragrafTittel
                                 return null;
                             }
                         }
