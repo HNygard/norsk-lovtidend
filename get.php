@@ -61,6 +61,8 @@ for($year = date('Y'); $year >= 2001; $year--) {
 			$cache_location . '/' . $year . '/paged-list/offset-' . $offset . '.html',
 			$baseUrl . '?year=' . $year . '&offset=' . $offset
 		);
+		logInfo('-------- ' .$baseUrl . '?year=' . $year . '&offset=' . $offset);
+		logInfo($cache_location . '/' . $year . '/paged-list/offset-' . $offset . '.html');
 		$items = readItems($mainPage);
 		logInfo($year . ' - Offset ' . $offset . ' of ' .  $items['lastItem'] . ' - ' . $items['pages']);
 		$offset = $offset + 20;
@@ -167,7 +169,8 @@ for($year = date('Y'); $year >= 2001; $year--) {
                                 return null;
                             }
                         }
-                        if ($node->nodeName() == 'h3' && str_contains($node->attr('class'), 'paragrafHeader')) {
+                        if (($node->nodeName() == 'h3' || $node->nodeName() == 'h4' || $node->nodeName() == 'h5')
+				&& str_contains($node->attr('class'), 'paragrafHeader')) {
                             $html = $node->html();
                             if (str_contains($html, '<span')) {
 				// We rather pick out the paragrafValue/paragrafTittel
@@ -227,12 +230,12 @@ for($year = date('Y'); $year >= 2001; $year--) {
                 $cleanText2 = str_replace(' ', '', $cleanText2);
                 $cleanText2 = str_replace("\t", '', $cleanText2);
                 if ($cleanText1 != $cleanText2) {
-                    file_put_contents(__DIR__ . '/tmptmp-1',
+                    file_put_contents(__DIR__ . '/tmptmp-1-text_from_lovdata',
                         '------------' . chr(10)
                         . '  #documentBody->text()' . chr(10)
                         . '------------' . chr(10)
                         . $cleanText1);
-                    file_put_contents(__DIR__ . '/tmptmp-2',
+                    file_put_contents(__DIR__ . '/tmptmp-2-text_from_algo',
                         '------------' . chr(10)
                         . '  Algo for picking up bit by by' . chr(10)
                         . '------------' . chr(10)
@@ -351,6 +354,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
                     }
                     elseif (
                         $current_paragraph != null
+			&& count($current_paragraph->sections) != 0
                         && (
                             $item['class'] == 'listeItem avsnitt'
                         || ($item['tag'] == 'p' && $item['class'] == 'marg')
