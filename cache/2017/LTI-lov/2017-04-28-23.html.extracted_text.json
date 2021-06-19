@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.158 L (2015–2016), Innst.192 L (2016–2017), Lovvedtak 57 (2016–2017). Stortingets første og andre gangs behandling hhv. 23. februar og 7. mars 2017. Fremmet av Kunnskapsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-158-l-201516\" class=\" reference\" href=\"/forarbeid/prop-158-l-201516\">Prop.158 L (2015–2016)</a>, <a data-id=\"forarbeid/inns-192-l-201617\" class=\" reference\" href=\"/forarbeid/inns-192-l-201617\">Innst.192 L (2016–2017)</a>, <a data-id=\"forarbeid/lovvedtak-57-201617\" class=\" reference\" href=\"/forarbeid/lovvedtak-57-201617\">Lovvedtak 57 (2016–2017)</a>. Stortingets første og andre gangs behandling hhv. 23. februar og 7. mars 2017. Fremmet av Kunnskapsdepartementet.",
         "text": "Prop.158 L (2015–2016), Innst.192 L (2016–2017), Lovvedtak 57 (2016–2017). Stortingets første og andre gangs behandling hhv. 23. februar og 7. mars 2017. Fremmet av Kunnskapsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 30. juni 2006 nr. 56 om behandling av etikk og redelighet i forskning.",
+        "html": "<a data-id=\"lov/2006-06-30-56\" class=\" reference\" href=\"/lov/2006-06-30-56\">Lov 30. juni 2006 nr. 56</a> om behandling av etikk og redelighet i forskning.",
         "text": "Lov 30. juni 2006 nr. 56 om behandling av etikk og redelighet i forskning."
     },
     {
@@ -25,15 +25,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven).</td>\n</tr>",
-        "text": "1Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-04-01-15\" class=\" reference\" href=\"/lov/2005-04-01-15\">Lov 1. april 2005 nr. 15</a> om universiteter og høyskoler (universitets- og høyskoleloven).</td>\n</tr>",
+        "text": "1\tLov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning (helseforskningsloven).</td>\n</tr>",
-        "text": "2Lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning (helseforskningsloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2008-06-20-44\" class=\" reference\" href=\"/lov/2008-06-20-44\">Lov 20. juni 2008 nr. 44</a> om medisinsk og helsefaglig forskning (helseforskningsloven).</td>\n</tr>",
+        "text": "2\tLov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning (helseforskningsloven)."
     },
     null,
     {
@@ -144,15 +144,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">nødvendig opplæring av kandidater og ansatte i anerkjente forskningsetiske normer og</td>\n</tr>",
-        "text": "a)nødvendig opplæring av kandidater og ansatte i anerkjente forskningsetiske normer og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">nødvendig opplæring av kandidater og ansatte i anerkjente forskningsetiske normer og</td>\n</tr>",
+        "text": "a)\tnødvendig opplæring av kandidater og ansatte i anerkjente forskningsetiske normer og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at alle som utfører eller deltar i forskningen, er kjent med anerkjente forskningsetiske normer.</td>\n</tr>",
-        "text": "b)at alle som utfører eller deltar i forskningen, er kjent med anerkjente forskningsetiske normer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at alle som utfører eller deltar i forskningen, er kjent med anerkjente forskningsetiske normer.</td>\n</tr>",
+        "text": "b)\tat alle som utfører eller deltar i forskningen, er kjent med anerkjente forskningsetiske normer."
     },
     null,
     {
@@ -170,7 +170,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskningsinstitusjoner har ansvar for å behandle saker om mulige brudd på anerkjente forskningsetiske normer. Forvaltningsloven kapittel IV og V gjelder for disse sakene.",
+        "html": "Forskningsinstitusjoner har ansvar for å behandle saker om mulige brudd på anerkjente forskningsetiske normer. <a data-id=\"lov/1967-02-10/kapiv\" class=\" reference\" href=\"/lov/1967-02-10/kapiv\">Forvaltningsloven kapittel IV</a> og V gjelder for disse sakene.",
         "text": "Forskningsinstitusjoner har ansvar for å behandle saker om mulige brudd på anerkjente forskningsetiske normer. Forvaltningsloven kapittel IV og V gjelder for disse sakene."
     },
     {
@@ -194,7 +194,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Uttalelser som konkluderer med at en forsker har opptrådt vitenskapelig uredelig, kan påklages av forskeren til Granskingsutvalget, jf. § 7 annet ledd. Forvaltningsloven kapittel VI gjelder med de begrensninger som følger av denne loven.",
+        "html": "Uttalelser som konkluderer med at en forsker har opptrådt vitenskapelig uredelig, kan påklages av forskeren til Granskingsutvalget, jf. <a data-id=\"lov/2017-04-28-23/§7\" class=\" reference\" href=\"/lov/2017-04-28-23/%C2%A77\">§ 7</a> annet ledd. <a data-id=\"lov/1967-02-10/kapvi\" class=\" reference\" href=\"/lov/1967-02-10/kapvi\">Forvaltningsloven kapittel VI</a> gjelder med de begrensninger som følger av denne loven.",
         "text": "Uttalelser som konkluderer med at en forsker har opptrådt vitenskapelig uredelig, kan påklages av forskeren til Granskingsutvalget, jf. § 7 annet ledd. Forvaltningsloven kapittel VI gjelder med de begrensninger som følger av denne loven."
     },
     null,
@@ -219,7 +219,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Granskingsutvalget er klageinstans for uttalelser hvor det konkluderes med at en forsker har opptrådt vitenskapelig uredelig. Utvalget kan også behandle saker om mulige brudd på anerkjente forskningsetiske normer på eget initiativ. Forvaltningsloven kapittel IV og V gjelder for disse sakene. Granskingsutvalgets uttalelser er endelige og kan ikke påklages videre.",
+        "html": "Granskingsutvalget er klageinstans for uttalelser hvor det konkluderes med at en forsker har opptrådt vitenskapelig uredelig. Utvalget kan også behandle saker om mulige brudd på anerkjente forskningsetiske normer på eget initiativ. <a data-id=\"lov/1967-02-10/kapiv\" class=\" reference\" href=\"/lov/1967-02-10/kapiv\">Forvaltningsloven kapittel IV</a> og V gjelder for disse sakene. Granskingsutvalgets uttalelser er endelige og kan ikke påklages videre.",
         "text": "Granskingsutvalget er klageinstans for uttalelser hvor det konkluderes med at en forsker har opptrådt vitenskapelig uredelig. Utvalget kan også behandle saker om mulige brudd på anerkjente forskningsetiske normer på eget initiativ. Forvaltningsloven kapittel IV og V gjelder for disse sakene. Granskingsutvalgets uttalelser er endelige og kan ikke påklages videre."
     },
     {
@@ -244,26 +244,26 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I uttalelser fra forskningsinstitusjoner etter § 5, redelighetsutvalg etter § 6 annet ledd og Granskingsutvalget etter § 7 i saker om mulige brudd på anerkjente forskningsetiske normer skal det alltid tas stilling til:",
+        "html": "I uttalelser fra forskningsinstitusjoner etter <a data-id=\"lov/2017-04-28-23/§5\" class=\" reference\" href=\"/lov/2017-04-28-23/%C2%A75\">§ 5</a>, redelighetsutvalg etter <a data-id=\"lov/2017-04-28-23/§6\" class=\" reference\" href=\"/lov/2017-04-28-23/%C2%A76\">§ 6</a> annet ledd og Granskingsutvalget etter <a data-id=\"lov/2017-04-28-23/§7\" class=\" reference\" href=\"/lov/2017-04-28-23/%C2%A77\">§ 7</a> i saker om mulige brudd på anerkjente forskningsetiske normer skal det alltid tas stilling til:",
         "text": "I uttalelser fra forskningsinstitusjoner etter § 5, redelighetsutvalg etter § 6 annet ledd og Granskingsutvalget etter § 7 i saker om mulige brudd på anerkjente forskningsetiske normer skal det alltid tas stilling til:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om forskeren har opptrådt vitenskapelig uredelig eller ikke,</td>\n</tr>",
-        "text": "a)om forskeren har opptrådt vitenskapelig uredelig eller ikke,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om forskeren har opptrådt vitenskapelig uredelig eller ikke,</td>\n</tr>",
+        "text": "a)\tom forskeren har opptrådt vitenskapelig uredelig eller ikke,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger systemfeil ved institusjonen og</td>\n</tr>",
-        "text": "b)om det foreligger systemfeil ved institusjonen og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger systemfeil ved institusjonen og</td>\n</tr>",
+        "text": "b)\tom det foreligger systemfeil ved institusjonen og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det vitenskapelige arbeidet bør korrigeres eller trekkes tilbake.</td>\n</tr>",
-        "text": "c)om det vitenskapelige arbeidet bør korrigeres eller trekkes tilbake."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det vitenskapelige arbeidet bør korrigeres eller trekkes tilbake.</td>\n</tr>",
+        "text": "c)\tom det vitenskapelige arbeidet bør korrigeres eller trekkes tilbake."
     },
     {
         "tag": "p",
@@ -343,7 +343,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Offentleglova § 24 annet ledd gjelder for saker om mulige brudd på anerkjente forskningsetiske normer etter denne loven.",
+        "html": "<a data-id=\"lov/2006-05-19-16/§24\" class=\" reference\" href=\"/lov/2006-05-19-16/%C2%A724\">Offentleglova § 24</a> annet ledd gjelder for saker om mulige brudd på anerkjente forskningsetiske normer etter denne loven.",
         "text": "Offentleglova § 24 annet ledd gjelder for saker om mulige brudd på anerkjente forskningsetiske normer etter denne loven."
     },
     null,
@@ -387,7 +387,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra samme tid oppheves lov 30. juni 2006 nr. 56 om behandling av etikk og redelighet i forskning.",
+        "html": "Fra samme tid oppheves <a data-id=\"lov/2006-06-30-56\" class=\" reference\" href=\"/lov/2006-06-30-56\">lov 30. juni 2006 nr. 56</a> om behandling av etikk og redelighet i forskning.",
         "text": "Fra samme tid oppheves lov 30. juni 2006 nr. 56 om behandling av etikk og redelighet i forskning."
     },
     null,
@@ -401,7 +401,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \">Endringer i andre lover </em>",
-        "text": "Endringer i andre lover"
+        "text": "Endringer i andre lover "
     },
     {
         "tag": "p",
@@ -412,43 +412,43 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "<strong class=\" \">1.</strong> I lov 1. april 2005 nr. 15 om universiteter og høyskoler skal § 4-13 første ledd lyde:",
+        "html": "<strong class=\" \">1.</strong> I <a data-id=\"lov/2005-04-01-15\" class=\" reference\" href=\"/lov/2005-04-01-15\">lov 1. april 2005 nr. 15</a> om universiteter og høyskoler skal <a data-id=\"lov/2005-04-01-15/§4-13\" class=\" reference\" href=\"/lov/2005-04-01-15/%C2%A74-13\">§ 4-13</a> første ledd lyde:",
         "text": "1. I lov 1. april 2005 nr. 15 om universiteter og høyskoler skal § 4-13 første ledd lyde:"
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Institusjonen kan vedta tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet etter forskningsetikkloven § 8 annet ledd. Departementet eller særskilt klageorgan oppnevnt av dette, jf. § 5-1 syvende ledd, er klageinstans for vedtak om tvungen avslutning etter dette ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Institusjonen kan vedta tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet etter <a data-id=\"lov/2017-04-28-23/§8\" class=\" reference\" href=\"/lov/2017-04-28-23/%C2%A78\">forskningsetikkloven § 8</a> annet ledd. Departementet eller særskilt klageorgan oppnevnt av dette, jf. <a data-id=\"lov/2005-04-01-15/§5-1\" class=\" reference\" href=\"/lov/2005-04-01-15/%C2%A75-1\">§ 5-1</a> syvende ledd, er klageinstans for vedtak om tvungen avslutning etter dette ledd.</td></tr>",
         "text": "(1) Institusjonen kan vedta tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet etter forskningsetikkloven § 8 annet ledd. Departementet eller særskilt klageorgan oppnevnt av dette, jf. § 5-1 syvende ledd, er klageinstans for vedtak om tvungen avslutning etter dette ledd."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "<strong class=\" \">2.</strong> I lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning gjøres følgende endringer:",
+        "html": "<strong class=\" \">2.</strong> I <a data-id=\"lov/2008-06-20-44\" class=\" reference\" href=\"/lov/2008-06-20-44\">lov 20. juni 2008 nr. 44</a> om medisinsk og helsefaglig forskning gjøres følgende endringer:",
         "text": "2. I lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 9 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2008-06-20-44/§9\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A79\">§ 9</a> første ledd skal lyde:",
         "text": "§ 9 første ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskningsprosjektet må være forhåndsgodkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. forskningsetikkloven § 10 første ledd.",
+        "html": "Forskningsprosjektet må være forhåndsgodkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. <a data-id=\"lov/2017-04-28-23/§10\" class=\" reference\" href=\"/lov/2017-04-28-23/%C2%A710\">forskningsetikkloven § 10</a> første ledd.",
         "text": "Forskningsprosjektet må være forhåndsgodkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. forskningsetikkloven § 10 første ledd."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 10 tredje ledd skal lyde:",
+        "html": "<a data-id=\"lov/2008-06-20-44/§10\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A710\">§ 10</a> tredje ledd skal lyde:",
         "text": "§ 10 tredje ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Vedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag, jf. forskningsetikkloven § 10 tredje ledd.",
+        "html": "Vedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag, jf. <a data-id=\"lov/2017-04-28-23/§10\" class=\" reference\" href=\"/lov/2017-04-28-23/%C2%A710\">forskningsetikkloven § 10</a> tredje ledd.",
         "text": "Vedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag, jf. forskningsetikkloven § 10 tredje ledd."
     }
 ]

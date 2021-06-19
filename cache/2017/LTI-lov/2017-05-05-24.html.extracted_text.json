@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.50 L (2016–2017), Innst.212 L (2016–2017), Lovvedtak 73 (2016–2017). Stortingets første og andre gongs behandling hv. 3. og 18. april 2017. Fremja av Samferdselsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-50-l-201617\" class=\" reference\" href=\"/forarbeid/prop-50-l-201617\">Prop.50 L (2016–2017)</a>, <a data-id=\"forarbeid/inns-212-l-201617\" class=\" reference\" href=\"/forarbeid/inns-212-l-201617\">Innst.212 L (2016–2017)</a>, <a data-id=\"forarbeid/lovvedtak-73-201617\" class=\" reference\" href=\"/forarbeid/lovvedtak-73-201617\">Lovvedtak 73 (2016–2017)</a>. Stortingets første og andre gongs behandling hv. 3. og 18. april 2017. Fremja av Samferdselsdepartementet.",
         "text": "Prop.50 L (2016–2017), Innst.212 L (2016–2017), Lovvedtak 73 (2016–2017). Stortingets første og andre gongs behandling hv. 3. og 18. april 2017. Fremja av Samferdselsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova).",
+        "html": "<a data-id=\"lov/2002-06-21-45\" class=\" reference\" href=\"/lov/2002-06-21-45\">Lov 21. juni 2002 nr. 45</a> om yrkestransport med motorvogn og fartøy (yrkestransportlova).",
         "text": "Lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova)."
     },
     {
@@ -26,13 +26,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy skal § 31 lyde:",
+        "html": "I <a data-id=\"lov/2002-06-21-45\" class=\" reference\" href=\"/lov/2002-06-21-45\">lov 21. juni 2002 nr. 45</a> om yrkestransport med motorvogn og fartøy skal <a data-id=\"lov/2002-06-21-45/§31\" class=\" reference\" href=\"/lov/2002-06-21-45/%C2%A731\">§ 31</a> lyde:",
         "text": "I lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy skal § 31 lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 31. <em class=\" \">Gebyr</em>",
+        "html": "<a data-id=\"lov/2002-06-21-45/§31\" class=\" reference\" href=\"/lov/2002-06-21-45/%C2%A731\">§ 31</a>. <em class=\" \">Gebyr</em>",
         "text": "§ 31. Gebyr"
     },
     {
@@ -43,15 +43,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utferding av løyvedokument, løyveskilt, eller annan dokumentasjon etter denne lova</td>\n</tr>",
-        "text": "a)utferding av løyvedokument, løyveskilt, eller annan dokumentasjon etter denne lova"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utferding av løyvedokument, løyveskilt, eller annan dokumentasjon etter denne lova</td>\n</tr>",
+        "text": "a)\tutferding av løyvedokument, løyveskilt, eller annan dokumentasjon etter denne lova"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avvikling av løyveeksamen og utferding av kompetansebevis.</td>\n</tr>",
-        "text": "b)avvikling av løyveeksamen og utferding av kompetansebevis."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avvikling av løyveeksamen og utferding av kompetansebevis.</td>\n</tr>",
+        "text": "b)\tavvikling av løyveeksamen og utferding av kompetansebevis."
     },
     {
         "tag": "h2",

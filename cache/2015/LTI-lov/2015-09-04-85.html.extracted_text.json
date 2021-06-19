@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.102 LS (2014–2015), Innst.329 L (2014–2015), Lovvedtak 100 (2014–2015). Stortingets første og andre gangs behandling hhv. 11. og 15. juni 2015. Fremmet av Barne-, likestillings- og inkluderingsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-102-ls-201415\" class=\" reference\" href=\"/forarbeid/prop-102-ls-201415\">Prop.102 LS (2014–2015)</a>, <a data-id=\"forarbeid/inns-329-l-201415\" class=\" reference\" href=\"/forarbeid/inns-329-l-201415\">Innst.329 L (2014–2015)</a>, <a data-id=\"forarbeid/lovvedtak-100-201415\" class=\" reference\" href=\"/forarbeid/lovvedtak-100-201415\">Lovvedtak 100 (2014–2015)</a>. Stortingets første og andre gangs behandling hhv. 11. og 15. juni 2015. Fremmet av Barne-, likestillings- og inkluderingsdepartementet.",
         "text": "Prop.102 LS (2014–2015), Innst.329 L (2014–2015), Lovvedtak 100 (2014–2015). Stortingets første og andre gangs behandling hhv. 11. og 15. juni 2015. Fremmet av Barne-, likestillings- og inkluderingsdepartementet."
     },
     {
@@ -13,21 +13,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 8. april 1981 nr. 7 om barn og foreldre (barnelova).</td>\n</tr>",
-        "text": "1Lov 8. april 1981 nr. 7 om barn og foreldre (barnelova)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1981-04-08-7\" class=\" reference\" href=\"/lov/1981-04-08-7\">Lov 8. april 1981 nr. 7</a> om barn og foreldre (barnelova).</td>\n</tr>",
+        "text": "1\tLov 8. april 1981 nr. 7 om barn og foreldre (barnelova)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 4. juli 1991 nr. 47 om ekteskap.</td>\n</tr>",
-        "text": "2Lov 4. juli 1991 nr. 47 om ekteskap."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1991-07-04-47\" class=\" reference\" href=\"/lov/1991-07-04-47\">Lov 4. juli 1991 nr. 47</a> om ekteskap.</td>\n</tr>",
+        "text": "2\tLov 4. juli 1991 nr. 47 om ekteskap."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 17. juli 1992 nr. 100 om barneverntjenester (barnevernloven).</td>\n</tr>",
-        "text": "3Lov 17. juli 1992 nr. 100 om barneverntjenester (barnevernloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1992-07-17-100\" class=\" reference\" href=\"/lov/1992-07-17-100\">Lov 17. juli 1992 nr. 100</a> om barneverntjenester (barnevernloven).</td>\n</tr>",
+        "text": "3\tLov 17. juli 1992 nr. 100 om barneverntjenester (barnevernloven)."
     },
     {
         "tag": "h2",
@@ -35,6 +35,7 @@
         "html": "Kapittel 1. Allmenne bestemmelser",
         "text": "Kapittel 1. Allmenne bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -54,6 +55,7 @@
         "html": "Konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid om foreldremyndighet og tiltak for beskyttelse av barn gjelder som norsk lov.",
         "text": "Konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid om foreldremyndighet og tiltak for beskyttelse av barn gjelder som norsk lov."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -80,6 +82,7 @@
         "text": "Kongen utpeker det organet som skal være sentralmyndighet etter konvensjonen. Departementet kan i forskrift gi nærmere regler om sentralmyndighetens virksomhet og om adgangen til å ta rimelig betaling for den bistanden og de tjenestene som leveres etter konvensjonen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -95,7 +98,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I tilfeller der konvensjonen pålegger norske myndigheter å gi opplysninger, eller der konvensjonen legger til rette for at opplysninger kan gis etter anmodning, kan slike opplysninger gis etter personopplysningsloven § 29, jf. § 30 første ledd bokstav b og g.",
+        "html": "I tilfeller der konvensjonen pålegger norske myndigheter å gi opplysninger, eller der konvensjonen legger til rette for at opplysninger kan gis etter anmodning, kan slike opplysninger gis etter <a data-id=\"lov/2018-06-15-38/§29\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A729\">personopplysningsloven § 29</a>, jf. <a data-id=\"lov/2018-06-15-38/§30\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A730\">§ 30</a> første ledd bokstav b og g.",
         "text": "I tilfeller der konvensjonen pålegger norske myndigheter å gi opplysninger, eller der konvensjonen legger til rette for at opplysninger kan gis etter anmodning, kan slike opplysninger gis etter personopplysningsloven § 29, jf. § 30 første ledd bokstav b og g."
     },
     {
@@ -104,6 +107,7 @@
         "html": "I tilfeller der norske myndigheter etter konvensjonen har plikt til å gi opplysninger, kan dette skje uten hinder av lovbestemt taushetsplikt. Tilsvarende gjelder der konvensjonen legger til rette for at opplysninger kan gis etter anmodning.",
         "text": "I tilfeller der norske myndigheter etter konvensjonen har plikt til å gi opplysninger, kan dette skje uten hinder av lovbestemt taushetsplikt. Tilsvarende gjelder der konvensjonen legger til rette for at opplysninger kan gis etter anmodning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -142,6 +146,7 @@
         "text": "Kapittel 2. Jurisdiksjon"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -179,6 +184,7 @@
         "text": "Departementet kan i forskrift gi nærmere regler om gjennomføringen av reglene i denne paragrafen, herunder om hvilke organer som kan treffe beslutninger om overføring."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -197,6 +203,7 @@
         "html": "Dersom en kompetent myndighet i en annen konvensjonsstat anmoder om å plassere et barn i Norge etter konvensjonen artikkel 33, skal anmodningen sendes til sentralmyndigheten.",
         "text": "Dersom en kompetent myndighet i en annen konvensjonsstat anmoder om å plassere et barn i Norge etter konvensjonen artikkel 33, skal anmodningen sendes til sentralmyndigheten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -223,6 +230,7 @@
         "text": "Myndigheten skal så langt det passer anvende de prosessreglene som etter intern rett gjelder for tilsvarende saker."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -248,6 +256,7 @@
         "text": "Kapittel 3. Anerkjennelse og fullbyrdelse"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -272,6 +281,7 @@
         "html": "Retten avgjør ved beslutning om avgjørelsen skal anerkjennes eller fullbyrdes. Tvisteloven gjelder så langt den passer.",
         "text": "Retten avgjør ved beslutning om avgjørelsen skal anerkjennes eller fullbyrdes. Tvisteloven gjelder så langt den passer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -304,6 +314,7 @@
         "text": "Dersom dokumentene er skrevet på et annet språk enn norsk, skal en norsk oversettelse av dokumentene vedlegges dersom retten krever det."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -329,6 +340,7 @@
         "text": "Kapittel 4. Avsluttende bestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -348,6 +360,7 @@
         "text": "Loven gjelder også for Svalbard og Jan Mayen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -366,6 +379,7 @@
         "html": "Loven gjelder fra den tid Kongen bestemmer.",
         "text": "Loven gjelder fra den tid Kongen bestemmer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -388,19 +402,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "1. I lov 8. april 1981 nr. 7 om barn og foreldre gjøres følgende endringer:",
+        "html": "1. I <a data-id=\"lov/1981-04-08-7\" class=\" reference\" href=\"/lov/1981-04-08-7\">lov 8. april 1981 nr. 7</a> om barn og foreldre gjøres følgende endringer:",
         "text": "1. I lov 8. april 1981 nr. 7 om barn og foreldre gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 39 skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§39\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A739\">§ 39</a> skal lyde:",
         "text": "§ 39 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 39. <em class=\" \">Melding om foreldreansvar mv.</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§39\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A739\">§ 39</a>. <em class=\" \">Melding om foreldreansvar mv.</em>",
         "text": "§ 39. Melding om foreldreansvar mv."
     },
     {
@@ -418,13 +432,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 40 skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§40\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A740\">§ 40</a> skal lyde:",
         "text": "§ 40 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 40. <em class=\" \">Flytting for barnet ut av landet og opphald utanfor landet</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§40\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A740\">§ 40</a>. <em class=\" \">Flytting for barnet ut av landet og opphald utanfor landet</em>",
         "text": "§ 40. Flytting for barnet ut av landet og opphald utanfor landet"
     },
     {
@@ -436,7 +450,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom foreldra har foreldreansvaret saman, må begge samtykkje til at barnet skal flytte ut av landet eller ta opphald utanfor landet utover stuttare utanlandsferder, jf. § 41. Det same gjeld der eit avtalt opphald blir forlenga eller endra, til dømes der barnet blir etterlate.",
+        "html": "Dersom foreldra har foreldreansvaret saman, må begge samtykkje til at barnet skal flytte ut av landet eller ta opphald utanfor landet utover stuttare utanlandsferder, jf. <a data-id=\"lov/1981-04-08-7/§41\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A741\">§ 41</a>. Det same gjeld der eit avtalt opphald blir forlenga eller endra, til dømes der barnet blir etterlate.",
         "text": "Dersom foreldra har foreldreansvaret saman, må begge samtykkje til at barnet skal flytte ut av landet eller ta opphald utanfor landet utover stuttare utanlandsferder, jf. § 41. Det same gjeld der eit avtalt opphald blir forlenga eller endra, til dømes der barnet blir etterlate."
     },
     {
@@ -454,13 +468,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 41 skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§41\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A741\">§ 41</a> skal lyde:",
         "text": "§ 41 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 41. <em class=\" \">Utanlandsferd for barnet</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§41\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A741\">§ 41</a>. <em class=\" \">Utanlandsferd for barnet</em>",
         "text": "§ 41. Utanlandsferd for barnet"
     },
     {
@@ -496,19 +510,19 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 42 første ledd tredje punktum oppheves.",
+        "html": "<a data-id=\"lov/1981-04-08-7/§42\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A742\">§ 42</a> første ledd tredje punktum oppheves.",
         "text": "§ 42 første ledd tredje punktum oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ny § 42 a skal lyde:",
+        "html": "Ny <a data-id=\"lov/1981-04-08-7/§42a\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A742a\">§ 42 a</a> skal lyde:",
         "text": "Ny § 42 a skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 42 a. <em class=\" \">Varsel ved flytting</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§42a\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A742a\">§ 42 a</a>. <em class=\" \">Varsel ved flytting</em>",
         "text": "§ 42 a. Varsel ved flytting"
     },
     {
@@ -520,7 +534,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Overskriften til kapittel 7 skal lyde:",
+        "html": "Overskriften til <a data-id=\"lov/1981-04-08-7/kap7\" class=\" reference\" href=\"/lov/1981-04-08-7/kap7\">kapittel 7</a> skal lyde:",
         "text": "Overskriften til kapittel 7 skal lyde:"
     },
     {
@@ -532,7 +546,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 48 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§48\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A748\">§ 48</a> første ledd skal lyde:",
         "text": "§ 48 første ledd skal lyde:"
     },
     {
@@ -544,19 +558,19 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 56 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§56\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A756\">§ 56</a> første ledd skal lyde:",
         "text": "§ 56 første ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Er foreldra usamde om kven som skal ha foreldreansvar, kven barnet skal bu fast saman med, eller samvær, kan kvar av dei reise sak for retten. Sak om flytting med barnet ut av landet kan reisast av forelder med foreldreansvar eller av forelder som samstundes reiser sak om foreldreansvar. Andre enn foreldra kan reise sak når vilkåra etter §§ 45 eller 63 er oppfylde.",
+        "html": "Er foreldra usamde om kven som skal ha foreldreansvar, kven barnet skal bu fast saman med, eller samvær, kan kvar av dei reise sak for retten. Sak om flytting med barnet ut av landet kan reisast av forelder med foreldreansvar eller av forelder som samstundes reiser sak om foreldreansvar. Andre enn foreldra kan reise sak når vilkåra etter <a data-id=\"lov/1981-04-08-7/§45\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A745\">§§ 45</a> eller <a data-id=\"lov/1981-04-08-7/§63\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A763\">63</a> er oppfylde.",
         "text": "Er foreldra usamde om kven som skal ha foreldreansvar, kven barnet skal bu fast saman med, eller samvær, kan kvar av dei reise sak for retten. Sak om flytting med barnet ut av landet kan reisast av forelder med foreldreansvar eller av forelder som samstundes reiser sak om foreldreansvar. Andre enn foreldra kan reise sak når vilkåra etter §§ 45 eller 63 er oppfylde."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 60 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§60\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A760\">§ 60</a> første ledd skal lyde:",
         "text": "§ 60 første ledd skal lyde:"
     },
     {
@@ -568,97 +582,97 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 81 skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§81\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A781\">§ 81</a> skal lyde:",
         "text": "§ 81 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 81. <em class=\" \">Når farskap eller medmorskap kan fastsetjast i Noreg</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§81\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A781\">§ 81</a>. <em class=\" \">Når farskap eller medmorskap kan fastsetjast i Noreg</em>",
         "text": "§ 81. Når farskap eller medmorskap kan fastsetjast i Noreg"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Farskap og medmorskap kan fastsetjast i Noreg etter § 4, § 7 og kapitla 3 og 4",
+        "html": "Farskap og medmorskap kan fastsetjast i Noreg etter <a data-id=\"lov/1981-04-08-7/§4\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A74\">§ 4</a>, <a data-id=\"lov/1981-04-08-7/§7\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A77\">§ 7</a> og kapitla 3 og 4",
         "text": "Farskap og medmorskap kan fastsetjast i Noreg etter § 4, § 7 og kapitla 3 og 4"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom mora hadde vanleg bustad i Noreg då barnet vart født,</td>\n</tr>",
-        "text": "a)dersom mora hadde vanleg bustad i Noreg då barnet vart født,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom mora hadde vanleg bustad i Noreg då barnet vart født,</td>\n</tr>",
+        "text": "a)\tdersom mora hadde vanleg bustad i Noreg då barnet vart født,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom barnet seinare har fått vanleg bustad i Noreg, eller</td>\n</tr>",
-        "text": "b)dersom barnet seinare har fått vanleg bustad i Noreg, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom barnet seinare har fått vanleg bustad i Noreg, eller</td>\n</tr>",
+        "text": "b)\tdersom barnet seinare har fått vanleg bustad i Noreg, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom den oppgjevne faren eller medmora har vanleg bustad i Noreg.</td>\n</tr>",
-        "text": "c)dersom den oppgjevne faren eller medmora har vanleg bustad i Noreg."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom den oppgjevne faren eller medmora har vanleg bustad i Noreg.</td>\n</tr>",
+        "text": "c)\tdersom den oppgjevne faren eller medmora har vanleg bustad i Noreg."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Endringssak etter § 6 kan reisast for norske domstolar, om nokon av dei som kan reise søksmål, har vanleg bustad i Noreg, eller farskapen er fastsett etter norske reglar.",
+        "html": "Endringssak etter <a data-id=\"lov/1981-04-08-7/§6\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A76\">§ 6</a> kan reisast for norske domstolar, om nokon av dei som kan reise søksmål, har vanleg bustad i Noreg, eller farskapen er fastsett etter norske reglar.",
         "text": "Endringssak etter § 6 kan reisast for norske domstolar, om nokon av dei som kan reise søksmål, har vanleg bustad i Noreg, eller farskapen er fastsett etter norske reglar."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 81 a skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§81a\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A781a\">§ 81 a</a> skal lyde:",
         "text": "§ 81 a skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 81 a. <em class=\" \">Når sak om morskap kan handsamast i Noreg</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§81a\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A781a\">§ 81 a</a>. <em class=\" \">Når sak om morskap kan handsamast i Noreg</em>",
         "text": "§ 81 a. Når sak om morskap kan handsamast i Noreg"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ei sak om morskap kan handsamast etter kapittel 4A og § 5 tredje stykket",
+        "html": "Ei sak om morskap kan handsamast etter <a data-id=\"lov/1981-04-08-7/kap4a\" class=\" reference\" href=\"/lov/1981-04-08-7/kap4a\">kapittel 4A</a> og <a data-id=\"lov/1981-04-08-7/§5\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A75\">§ 5</a> tredje stykket",
         "text": "Ei sak om morskap kan handsamast etter kapittel 4A og § 5 tredje stykket"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom barnet har vanleg bustad i Noreg,</td>\n</tr>",
-        "text": "a)dersom barnet har vanleg bustad i Noreg,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom barnet har vanleg bustad i Noreg,</td>\n</tr>",
+        "text": "a)\tdersom barnet har vanleg bustad i Noreg,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom mora hadde vanleg bustad i Noreg då barnet vart født, eller</td>\n</tr>",
-        "text": "b)dersom mora hadde vanleg bustad i Noreg då barnet vart født, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom mora hadde vanleg bustad i Noreg då barnet vart født, eller</td>\n</tr>",
+        "text": "b)\tdersom mora hadde vanleg bustad i Noreg då barnet vart født, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom mora seinare har fått vanleg bustad i Noreg.</td>\n</tr>",
-        "text": "c)dersom mora seinare har fått vanleg bustad i Noreg."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom mora seinare har fått vanleg bustad i Noreg.</td>\n</tr>",
+        "text": "c)\tdersom mora seinare har fått vanleg bustad i Noreg."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 82 skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§82\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A782\">§ 82</a> skal lyde:",
         "text": "§ 82 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 82. <em class=\" \">Når sak om foreldreansvar, flytting med barnet ut av landet, kven barnet skal bu fast saman med, eller samvær kan handsamast i Noreg</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§82\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A782\">§ 82</a>. <em class=\" \">Når sak om foreldreansvar, flytting med barnet ut av landet, kven barnet skal bu fast saman med, eller samvær kan handsamast i Noreg</em>",
         "text": "§ 82. Når sak om foreldreansvar, flytting med barnet ut av landet, kven barnet skal bu fast saman med, eller samvær kan handsamast i Noreg"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Sak om foreldreansvar, flytting med barnet ut av landet, kven barnet skal bu fast saman med eller samvær kan reisast for norsk domstol dersom barnet har vanleg bustad i Noreg. Det same gjeld i sak som fylkesmannen skal handsame etter § 55.",
+        "html": "Sak om foreldreansvar, flytting med barnet ut av landet, kven barnet skal bu fast saman med eller samvær kan reisast for norsk domstol dersom barnet har vanleg bustad i Noreg. Det same gjeld i sak som fylkesmannen skal handsame etter <a data-id=\"lov/1981-04-08-7/§55\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A755\">§ 55</a>.",
         "text": "Sak om foreldreansvar, flytting med barnet ut av landet, kven barnet skal bu fast saman med eller samvær kan reisast for norsk domstol dersom barnet har vanleg bustad i Noreg. Det same gjeld i sak som fylkesmannen skal handsame etter § 55."
     },
     {
@@ -676,13 +690,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 83 skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§83\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A783\">§ 83</a> skal lyde:",
         "text": "§ 83 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 83. <em class=\" \">Når sak om fostringstilskot kan handsamast i Noreg</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§83\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A783\">§ 83</a>. <em class=\" \">Når sak om fostringstilskot kan handsamast i Noreg</em>",
         "text": "§ 83. Når sak om fostringstilskot kan handsamast i Noreg"
     },
     {
@@ -693,50 +707,50 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når det vert reist i sak om farskap, medmorskap, foreldreansvar, flytting med barnet ut av landet eller samvær for avgjerdsført norsk organ</td>\n</tr>",
-        "text": "a)når det vert reist i sak om farskap, medmorskap, foreldreansvar, flytting med barnet ut av landet eller samvær for avgjerdsført norsk organ"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når det vert reist i sak om farskap, medmorskap, foreldreansvar, flytting med barnet ut av landet eller samvær for avgjerdsført norsk organ</td>\n</tr>",
+        "text": "a)\tnår det vert reist i sak om farskap, medmorskap, foreldreansvar, flytting med barnet ut av landet eller samvær for avgjerdsført norsk organ"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom ein av partane eller barnet har vanleg bustad i Noreg.</td>\n</tr>",
-        "text": "b)dersom ein av partane eller barnet har vanleg bustad i Noreg."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom ein av partane eller barnet har vanleg bustad i Noreg.</td>\n</tr>",
+        "text": "b)\tdersom ein av partane eller barnet har vanleg bustad i Noreg."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 84 skal lyde:",
+        "html": "<a data-id=\"lov/1981-04-08-7/§84\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A784\">§ 84</a> skal lyde:",
         "text": "§ 84 skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Saker som høyrer under norsk avgjerdsmakt etter §§ 81 til 83, skal avgjerast etter norsk rett, med mindre anna følgjer av overeinskomst med annan stat.",
+        "html": "Saker som høyrer under norsk avgjerdsmakt etter <a data-id=\"lov/1981-04-08-7/§81\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A781\">§§ 81</a> til <a data-id=\"lov/1981-04-08-7/§83\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A783\">83</a>, skal avgjerast etter norsk rett, med mindre anna følgjer av overeinskomst med annan stat.",
         "text": "Saker som høyrer under norsk avgjerdsmakt etter §§ 81 til 83, skal avgjerast etter norsk rett, med mindre anna følgjer av overeinskomst med annan stat."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ny § 84 a skal lyde:",
+        "html": "Ny <a data-id=\"lov/1981-04-08-7/§84a\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A784a\">§ 84 a</a> skal lyde:",
         "text": "Ny § 84 a skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 84 a. <em class=\" \">Lovvalet for foreldreansvar etter lova mv.</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§84a\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A784a\">§ 84 a</a>. <em class=\" \">Lovvalet for foreldreansvar etter lova mv.</em>",
         "text": "§ 84 a. Lovvalet for foreldreansvar etter lova mv."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglane i §§ 34 og 35 gjeld for barn som har vanleg bustad i Noreg. Det same gjeld § 39 om avtalar.",
+        "html": "Reglane i <a data-id=\"lov/1981-04-08-7/§34\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A734\">§§ 34</a> og <a data-id=\"lov/1981-04-08-7/§35\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A735\">35</a> gjeld for barn som har vanleg bustad i Noreg. Det same gjeld <a data-id=\"lov/1981-04-08-7/§39\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A739\">§ 39</a> om avtalar.",
         "text": "Reglane i §§ 34 og 35 gjeld for barn som har vanleg bustad i Noreg. Det same gjeld § 39 om avtalar."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Foreldreansvar eller tilsvarande myndigheitsforhold etter lova i ein stat der barnet tidlegare hadde vanleg bustad, skal leggjast til grunn i Noreg når dette følgjer av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn artikkel 16 nr. 3. Dette gjeld likevel ikkje dersom det ligg føre ei utanlandsk avgjerd som skal godkjennast etter § 84 b.",
+        "html": "Foreldreansvar eller tilsvarande myndigheitsforhold etter lova i ein stat der barnet tidlegare hadde vanleg bustad, skal leggjast til grunn i Noreg når dette følgjer av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn artikkel 16 nr. 3. Dette gjeld likevel ikkje dersom det ligg føre ei utanlandsk avgjerd som skal godkjennast etter <a data-id=\"lov/1981-04-08-7/§84b\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A784b\">§ 84 b</a>.",
         "text": "Foreldreansvar eller tilsvarande myndigheitsforhold etter lova i ein stat der barnet tidlegare hadde vanleg bustad, skal leggjast til grunn i Noreg når dette følgjer av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn artikkel 16 nr. 3. Dette gjeld likevel ikkje dersom det ligg føre ei utanlandsk avgjerd som skal godkjennast etter § 84 b."
     },
     {
@@ -748,13 +762,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ny § 84 b skal lyde:",
+        "html": "Ny <a data-id=\"lov/1981-04-08-7/§84b\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A784b\">§ 84 b</a> skal lyde:",
         "text": "Ny § 84 b skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 84 b. <em class=\" \">Godkjenning av utanlandsk avgjerd om foreldreansvar mv.</em>",
+        "html": "<a data-id=\"lov/1981-04-08-7/§84b\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A784b\">§ 84 b</a>. <em class=\" \">Godkjenning av utanlandsk avgjerd om foreldreansvar mv.</em>",
         "text": "§ 84 b. Godkjenning av utanlandsk avgjerd om foreldreansvar mv."
     },
     {
@@ -766,19 +780,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "2. I lov 17. juli 1992 nr. 100 om barneverntjenester gjøres følgende endringer:",
+        "html": "2. I <a data-id=\"lov/1992-07-17-100\" class=\" reference\" href=\"/lov/1992-07-17-100\">lov 17. juli 1992 nr. 100</a> om barneverntjenester gjøres følgende endringer:",
         "text": "2. I lov 17. juli 1992 nr. 100 om barneverntjenester gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1-2 skal lyde:",
+        "html": "<a data-id=\"lov/1992-07-17-100/§1-2\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A71-2\">§ 1-2</a> skal lyde:",
         "text": "§ 1-2 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 1-2. <em class=\" \">Lovens stedlige virkeområde</em>",
+        "html": "<a data-id=\"lov/1992-07-17-100/§1-2\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A71-2\">§ 1-2</a>. <em class=\" \">Lovens stedlige virkeområde</em>",
         "text": "§ 1-2. Lovens stedlige virkeområde"
     },
     {
@@ -790,7 +804,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For barn som har vanlig bosted i riket, men som oppholder seg i en annen stat, gjelder §§ 4-12 og 4-24. For barn som oppholder seg i riket, men som har vanlig bosted i en annen stat, gjelder §§ 4-4, 4-6, 4-7, 4-9, 4-10, 4-11, 4-25, 4-26 og 4-29.",
+        "html": "For barn som har vanlig bosted i riket, men som oppholder seg i en annen stat, gjelder <a data-id=\"lov/1992-07-17-100/§4-12\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-12\">§§ 4-12</a> og <a data-id=\"lov/1992-07-17-100/§4-24\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-24\">4-24</a>. For barn som oppholder seg i riket, men som har vanlig bosted i en annen stat, gjelder <a data-id=\"lov/1992-07-17-100/§4-4\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-4\">§§ 4-4</a>, <a data-id=\"lov/1992-07-17-100/§4-6\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-6\">4-6</a>, <a data-id=\"lov/1992-07-17-100/§4-7\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-7\">4-7</a>, <a data-id=\"lov/1992-07-17-100/§4-9\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-9\">4-9</a>, <a data-id=\"lov/1992-07-17-100/§4-10\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-10\">4-10</a>, <a data-id=\"lov/1992-07-17-100/§4-11\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-11\">4-11</a>, <a data-id=\"lov/1992-07-17-100/§4-25\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-25\">4-25</a>, <a data-id=\"lov/1992-07-17-100/§4-26\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-26\">4-26</a> og <a data-id=\"lov/1992-07-17-100/§4-29\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-29\">4-29</a>.",
         "text": "For barn som har vanlig bosted i riket, men som oppholder seg i en annen stat, gjelder §§ 4-12 og 4-24. For barn som oppholder seg i riket, men som har vanlig bosted i en annen stat, gjelder §§ 4-4, 4-6, 4-7, 4-9, 4-10, 4-11, 4-25, 4-26 og 4-29."
     },
     {
@@ -802,13 +816,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ny § 4-4 a skal lyde:",
+        "html": "Ny <a data-id=\"lov/1992-07-17-100/§4-4a\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-4a\">§ 4-4 a</a> skal lyde:",
         "text": "Ny § 4-4 a skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 4-4 a. <em class=\" \">Frivillig plassering i fosterhjem eller institusjon over landegrensene</em>",
+        "html": "<a data-id=\"lov/1992-07-17-100/§4-4a\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-4a\">§ 4-4 a</a>. <em class=\" \">Frivillig plassering i fosterhjem eller institusjon over landegrensene</em>",
         "text": "§ 4-4 a. Frivillig plassering i fosterhjem eller institusjon over landegrensene"
     },
     {
@@ -819,45 +833,45 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vilkårene for plassering som hjelpetiltak etter § 4-4 er oppfylt.</td>\n</tr>",
-        "text": "a)Vilkårene for plassering som hjelpetiltak etter § 4-4 er oppfylt."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vilkårene for plassering som hjelpetiltak etter <a data-id=\"lov/1992-07-17-100/§4-4\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-4\">§ 4-4</a> er oppfylt.</td>\n</tr>",
+        "text": "a)\tVilkårene for plassering som hjelpetiltak etter § 4-4 er oppfylt."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Plasseringen er forsvarlig og til barnets beste. Det skal legges særlig vekt på barnets tilknytning til staten som barnet ønskes plassert i.</td>\n</tr>",
-        "text": "b)Plasseringen er forsvarlig og til barnets beste. Det skal legges særlig vekt på barnets tilknytning til staten som barnet ønskes plassert i."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Plasseringen er forsvarlig og til barnets beste. Det skal legges særlig vekt på barnets tilknytning til staten som barnet ønskes plassert i.</td>\n</tr>",
+        "text": "b)\tPlasseringen er forsvarlig og til barnets beste. Det skal legges særlig vekt på barnets tilknytning til staten som barnet ønskes plassert i."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Barnets rettigheter er ivaretatt i samsvar med § 4-1 og § 6-3. Barnets mening skal tillegges stor vekt og skal fremkomme av sakens dokumenter.</td>\n</tr>",
-        "text": "c)Barnets rettigheter er ivaretatt i samsvar med § 4-1 og § 6-3. Barnets mening skal tillegges stor vekt og skal fremkomme av sakens dokumenter."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Barnets rettigheter er ivaretatt i samsvar med <a data-id=\"lov/1992-07-17-100/§4-1\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-1\">§ 4-1</a> og <a data-id=\"lov/1992-07-17-100/§6-3\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A76-3\">§ 6-3</a>. Barnets mening skal tillegges stor vekt og skal fremkomme av sakens dokumenter.</td>\n</tr>",
+        "text": "c)\tBarnets rettigheter er ivaretatt i samsvar med § 4-1 og § 6-3. Barnets mening skal tillegges stor vekt og skal fremkomme av sakens dokumenter."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Forelder med foreldreansvar og barn over 12 år har samtykket til plasseringen.</td>\n</tr>",
-        "text": "d)Forelder med foreldreansvar og barn over 12 år har samtykket til plasseringen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Forelder med foreldreansvar og barn over 12 år har samtykket til plasseringen.</td>\n</tr>",
+        "text": "d)\tForelder med foreldreansvar og barn over 12 år har samtykket til plasseringen."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Staten som barnet ønskes plassert i, har en forsvarlig tilsynsordning.</td>\n</tr>",
-        "text": "e)Staten som barnet ønskes plassert i, har en forsvarlig tilsynsordning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Staten som barnet ønskes plassert i, har en forsvarlig tilsynsordning.</td>\n</tr>",
+        "text": "e)\tStaten som barnet ønskes plassert i, har en forsvarlig tilsynsordning."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Gjennomføringen av tilsyn, oppfølging av barnet og utgiftsfordeling i forbindelse med plasseringen er avtalt med myndighetene i den staten som barnet ønskes plassert i.</td>\n</tr>",
-        "text": "f)Gjennomføringen av tilsyn, oppfølging av barnet og utgiftsfordeling i forbindelse med plasseringen er avtalt med myndighetene i den staten som barnet ønskes plassert i."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Gjennomføringen av tilsyn, oppfølging av barnet og utgiftsfordeling i forbindelse med plasseringen er avtalt med myndighetene i den staten som barnet ønskes plassert i.</td>\n</tr>",
+        "text": "f)\tGjennomføringen av tilsyn, oppfølging av barnet og utgiftsfordeling i forbindelse med plasseringen er avtalt med myndighetene i den staten som barnet ønskes plassert i."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vilkår for plassering etter artikkel 33 i konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn er oppfylt.</td>\n</tr>",
-        "text": "g)Vilkår for plassering etter artikkel 33 i konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn er oppfylt."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vilkår for plassering etter artikkel 33 i konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn er oppfylt.</td>\n</tr>",
+        "text": "g)\tVilkår for plassering etter artikkel 33 i konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn er oppfylt."
     },
     {
         "tag": "p",
@@ -868,43 +882,43 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "3. I lov 4. juli 1991 nr. 47 om ekteskap (ekteskapsloven) gjøres følgende endringer:",
+        "html": "3. I <a data-id=\"lov/1991-07-04-47\" class=\" reference\" href=\"/lov/1991-07-04-47\">lov 4. juli 1991 nr. 47</a> om ekteskap (ekteskapsloven) gjøres følgende endringer:",
         "text": "3. I lov 4. juli 1991 nr. 47 om ekteskap (ekteskapsloven) gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 25 a annet ledd oppheves.",
+        "html": "<a data-id=\"lov/1991-07-04-47/§25a\" class=\" reference\" href=\"/lov/1991-07-04-47/%C2%A725a\">§ 25 a</a> annet ledd oppheves.",
         "text": "§ 25 a annet ledd oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 30 d nytt femte ledd skal lyde:",
+        "html": "<a data-id=\"lov/1991-07-04-47/§30d\" class=\" reference\" href=\"/lov/1991-07-04-47/%C2%A730d\">§ 30 d</a> nytt femte ledd skal lyde:",
         "text": "§ 30 d nytt femte ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For spørsmål som bringes inn i saken etter første ledd bokstav a og c, gjelder § 30 b om norske domstolers kompetanse og § 30 c om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder § 30 c om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder barnelova § 82 om norske domstolers kompetanse tilsvarende, med mindre noe annet følger av overenskomst med annen stat. Med mindre noe annet følger av overenskomst med annen stat, har norske domstoler også kompetanse til å behandle spørsmål etter første ledd bokstav b dersom:",
+        "html": "For spørsmål som bringes inn i saken etter første ledd bokstav a og c, gjelder <a data-id=\"lov/1991-07-04-47/§30b\" class=\" reference\" href=\"/lov/1991-07-04-47/%C2%A730b\">§ 30 b</a> om norske domstolers kompetanse og <a data-id=\"lov/1991-07-04-47/§30c\" class=\" reference\" href=\"/lov/1991-07-04-47/%C2%A730c\">§ 30 c</a> om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder <a data-id=\"lov/1991-07-04-47/§30c\" class=\" reference\" href=\"/lov/1991-07-04-47/%C2%A730c\">§ 30 c</a> om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder <a data-id=\"lov/1981-04-08-7/§82\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A782\">barnelova § 82</a> om norske domstolers kompetanse tilsvarende, med mindre noe annet følger av overenskomst med annen stat. Med mindre noe annet følger av overenskomst med annen stat, har norske domstoler også kompetanse til å behandle spørsmål etter første ledd bokstav b dersom:",
         "text": "For spørsmål som bringes inn i saken etter første ledd bokstav a og c, gjelder § 30 b om norske domstolers kompetanse og § 30 c om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder § 30 c om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder barnelova § 82 om norske domstolers kompetanse tilsvarende, med mindre noe annet følger av overenskomst med annen stat. Med mindre noe annet følger av overenskomst med annen stat, har norske domstoler også kompetanse til å behandle spørsmål etter første ledd bokstav b dersom:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en av barnets foreldre har vanlig bosted her i landet,</td>\n</tr>",
-        "text": "a.en av barnets foreldre har vanlig bosted her i landet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en av barnets foreldre har vanlig bosted her i landet,</td>\n</tr>",
+        "text": "a.\ten av barnets foreldre har vanlig bosted her i landet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en av dem har foreldreansvar for barnet og</td>\n</tr>",
-        "text": "b.en av dem har foreldreansvar for barnet og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en av dem har foreldreansvar for barnet og</td>\n</tr>",
+        "text": "b.\ten av dem har foreldreansvar for barnet og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er til barnets beste at spørsmål etter barnelova behandles.</td>\n</tr>",
-        "text": "c.det er til barnets beste at spørsmål etter barnelova behandles."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er til barnets beste at spørsmål etter barnelova behandles.</td>\n</tr>",
+        "text": "c.\tdet er til barnets beste at spørsmål etter barnelova behandles."
     }
 ]

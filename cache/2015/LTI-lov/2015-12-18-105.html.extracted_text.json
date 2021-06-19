@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.139 L (2014–2015), Innst.77 L (2015–2016), Lovvedtak 17 (2015–2016). Stortingets første og andre gangs behandling hhv. 7. og 11. desember 2015. Fremmet av Arbeids- og sosialdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-139-l-201415\" class=\" reference\" href=\"/forarbeid/prop-139-l-201415\">Prop.139 L (2014–2015)</a>, <a data-id=\"forarbeid/inns-77-l-201516\" class=\" reference\" href=\"/forarbeid/inns-77-l-201516\">Innst.77 L (2015–2016)</a>, <a data-id=\"forarbeid/lovvedtak-17-201516\" class=\" reference\" href=\"/forarbeid/lovvedtak-17-201516\">Lovvedtak 17 (2015–2016)</a>. Stortingets første og andre gangs behandling hhv. 7. og 11. desember 2015. Fremmet av Arbeids- og sosialdepartementet.",
         "text": "Prop.139 L (2014–2015), Innst.77 L (2015–2016), Lovvedtak 17 (2015–2016). Stortingets første og andre gangs behandling hhv. 7. og 11. desember 2015. Fremmet av Arbeids- og sosialdepartementet."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 16. desember 1966 nr. 9 om anke til Trygderetten.</td>\n</tr>",
-        "text": "1Lov 16. desember 1966 nr. 9 om anke til Trygderetten."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1966-12-16-9\" class=\" reference\" href=\"/lov/1966-12-16-9\">Lov 16. desember 1966 nr. 9</a> om anke til Trygderetten.</td>\n</tr>",
+        "text": "1\tLov 16. desember 1966 nr. 9 om anke til Trygderetten."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).</td>\n</tr>",
-        "text": "2Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td>\n</tr>",
+        "text": "2\tLov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
     },
     {
         "tag": "h2",
@@ -32,13 +32,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 16. desember 1966 nr. 9 om anke til Trygderetten skal lyde:",
+        "html": "<a data-id=\"lov/1966-12-16-9\" class=\" reference\" href=\"/lov/1966-12-16-9\">Lov 16. desember 1966 nr. 9</a> om anke til Trygderetten skal lyde:",
         "text": "Lov 16. desember 1966 nr. 9 om anke til Trygderetten skal lyde:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "Lov 16. desember 1966 nr. 9 om anke til Trygderetten (trygderettsloven)",
+        "html": "<a data-id=\"lov/1966-12-16-9\" class=\" reference\" href=\"/lov/1966-12-16-9\">Lov 16. desember 1966 nr. 9</a> om anke til Trygderetten (trygderettsloven)",
         "text": "Lov 16. desember 1966 nr. 9 om anke til Trygderetten (trygderettsloven)"
     },
     {
@@ -47,6 +47,7 @@
         "html": "Kapittel 1 Formål og virkeområde",
         "text": "Kapittel 1 Formål og virkeområde"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -74,40 +75,41 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Trygderetten sørge for at bevisførselen gir et forsvarlig faktisk avgjørelsesgrunnlag,</td>\n</tr>",
-        "text": "-Trygderetten sørge for at bevisførselen gir et forsvarlig faktisk avgjørelsesgrunnlag,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Trygderetten sørge for at bevisførselen gir et forsvarlig faktisk avgjørelsesgrunnlag,</td>\n</tr>",
+        "text": "-\tTrygderetten sørge for at bevisførselen gir et forsvarlig faktisk avgjørelsesgrunnlag,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">partene få innsyn i og mulighet for å imøtegå motpartens argumentasjon og bevis,</td>\n</tr>",
-        "text": "-partene få innsyn i og mulighet for å imøtegå motpartens argumentasjon og bevis,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">partene få innsyn i og mulighet for å imøtegå motpartens argumentasjon og bevis,</td>\n</tr>",
+        "text": "-\tpartene få innsyn i og mulighet for å imøtegå motpartens argumentasjon og bevis,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">partene likebehandles og få den nødvendige veiledning,</td>\n</tr>",
-        "text": "-partene likebehandles og få den nødvendige veiledning,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">partene likebehandles og få den nødvendige veiledning,</td>\n</tr>",
+        "text": "-\tpartene likebehandles og få den nødvendige veiledning,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Trygderetten foreta en selvstendig og reell vurdering av avgjørelsesgrunnlaget,</td>\n</tr>",
-        "text": "-Trygderetten foreta en selvstendig og reell vurdering av avgjørelsesgrunnlaget,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Trygderetten foreta en selvstendig og reell vurdering av avgjørelsesgrunnlaget,</td>\n</tr>",
+        "text": "-\tTrygderetten foreta en selvstendig og reell vurdering av avgjørelsesgrunnlaget,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">viktige avgjørelser begrunnes, og</td>\n</tr>",
-        "text": "-viktige avgjørelser begrunnes, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">viktige avgjørelser begrunnes, og</td>\n</tr>",
+        "text": "-\tviktige avgjørelser begrunnes, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksbehandlingen og kostnadene stå i et rimelig forhold til sakens betydning.</td>\n</tr>",
-        "text": "-saksbehandlingen og kostnadene stå i et rimelig forhold til sakens betydning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksbehandlingen og kostnadene stå i et rimelig forhold til sakens betydning.</td>\n</tr>",
+        "text": "-\tsaksbehandlingen og kostnadene stå i et rimelig forhold til sakens betydning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -129,39 +131,39 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">folketrygdloven</td>\n</tr>",
-        "text": "a)folketrygdloven"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">folketrygdloven</td>\n</tr>",
+        "text": "a)\tfolketrygdloven"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnetrygdloven</td>\n</tr>",
-        "text": "b)barnetrygdloven"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnetrygdloven</td>\n</tr>",
+        "text": "b)\tbarnetrygdloven"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lovgivningen om krigspensjonering</td>\n</tr>",
-        "text": "c)lovgivningen om krigspensjonering"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lovgivningen om krigspensjonering</td>\n</tr>",
+        "text": "c)\tlovgivningen om krigspensjonering"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bestemmelser for supplerende pensjonsordninger som er fastsatt ved lov eller vedtak av Stortinget</td>\n</tr>",
-        "text": "d)bestemmelser for supplerende pensjonsordninger som er fastsatt ved lov eller vedtak av Stortinget"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bestemmelser for supplerende pensjonsordninger som er fastsatt ved lov eller vedtak av Stortinget</td>\n</tr>",
+        "text": "d)\tbestemmelser for supplerende pensjonsordninger som er fastsatt ved lov eller vedtak av Stortinget"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">samordningsloven</td>\n</tr>",
-        "text": "e)samordningsloven"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">samordningsloven</td>\n</tr>",
+        "text": "e)\tsamordningsloven"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">særlige lovbestemmelser som fastsetter at saker kan ankes til Trygderetten.</td>\n</tr>",
-        "text": "f)særlige lovbestemmelser som fastsetter at saker kan ankes til Trygderetten."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">særlige lovbestemmelser som fastsetter at saker kan ankes til Trygderetten.</td>\n</tr>",
+        "text": "f)\tsærlige lovbestemmelser som fastsetter at saker kan ankes til Trygderetten."
     },
     {
         "tag": "table",
@@ -171,21 +173,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">supplerende pensjonsordninger for kommunale arbeidstakere</td>\n</tr>",
-        "text": "a)supplerende pensjonsordninger for kommunale arbeidstakere"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">supplerende pensjonsordninger for kommunale arbeidstakere</td>\n</tr>",
+        "text": "a)\tsupplerende pensjonsordninger for kommunale arbeidstakere"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">supplerende pensjonsordninger for arbeidstakere i selvstendige statlige og kommunale foretak og i andre institusjoner av offentlig karakter og</td>\n</tr>",
-        "text": "b)supplerende pensjonsordninger for arbeidstakere i selvstendige statlige og kommunale foretak og i andre institusjoner av offentlig karakter og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">supplerende pensjonsordninger for arbeidstakere i selvstendige statlige og kommunale foretak og i andre institusjoner av offentlig karakter og</td>\n</tr>",
+        "text": "b)\tsupplerende pensjonsordninger for arbeidstakere i selvstendige statlige og kommunale foretak og i andre institusjoner av offentlig karakter og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">supplerende private pensjonsordninger og herunder fastsette regler om tilpasning av lovens bestemmelser.</td>\n</tr>",
-        "text": "c)supplerende private pensjonsordninger og herunder fastsette regler om tilpasning av lovens bestemmelser."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">supplerende private pensjonsordninger og herunder fastsette regler om tilpasning av lovens bestemmelser.</td>\n</tr>",
+        "text": "c)\tsupplerende private pensjonsordninger og herunder fastsette regler om tilpasning av lovens bestemmelser."
     },
     {
         "tag": "table",
@@ -211,6 +213,7 @@
         "html": "Kapittel 2 Trygderettens organisasjon mv.",
         "text": "Kapittel 2 Trygderettens organisasjon mv."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -251,7 +254,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Ved utnevning av Trygderettens leder og nestleder gjelder kravene i domstolloven § 54 første ledd. Ved utnevning av andre juridisk kyndige medlemmer etter andre og tredje ledd gjelder kravene i domstolloven § 54 andre ledd. For rettsfullmektiger gjelder kravene i domstolloven § 54 tredje ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Ved utnevning av Trygderettens leder og nestleder gjelder kravene i <a data-id=\"lov/1915-08-13-5/§54\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A754\">domstolloven § 54</a> første ledd. Ved utnevning av andre juridisk kyndige medlemmer etter andre og tredje ledd gjelder kravene i <a data-id=\"lov/1915-08-13-5/§54\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A754\">domstolloven § 54</a> andre ledd. For rettsfullmektiger gjelder kravene i <a data-id=\"lov/1915-08-13-5/§54\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A754\">domstolloven § 54</a> tredje ledd.</td></tr>",
         "text": "(5) Ved utnevning av Trygderettens leder og nestleder gjelder kravene i domstolloven § 54 første ledd. Ved utnevning av andre juridisk kyndige medlemmer etter andre og tredje ledd gjelder kravene i domstolloven § 54 andre ledd. For rettsfullmektiger gjelder kravene i domstolloven § 54 tredje ledd."
     },
     {
@@ -263,7 +266,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Domstolloven §§ 53 og 60 gjelder for rettsmedlemmene og rettsfullmektigene.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> <a data-id=\"lov/1915-08-13-5/§53\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A753\">Domstolloven §§ 53</a> og <a data-id=\"lov/1915-08-13-5/§60\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A760\">60</a> gjelder for rettsmedlemmene og rettsfullmektigene.</td></tr>",
         "text": "(7) Domstolloven §§ 53 og 60 gjelder for rettsmedlemmene og rettsfullmektigene."
     },
     {
@@ -272,6 +275,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(8)</span> Et rettsmedlem er uavhengig i sin behandling av ankesaker og saker om gjenopptak. Rettsmedlemmene skal utøve sin virksomhet på en måte som inngir alminnelig tillit og respekt.</td></tr>",
         "text": "(8) Et rettsmedlem er uavhengig i sin behandling av ankesaker og saker om gjenopptak. Rettsmedlemmene skal utøve sin virksomhet på en måte som inngir alminnelig tillit og respekt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -291,6 +295,7 @@
         "html": "Kongen kan bestemme at Trygderetten skal deles i avdelinger og kan fastsette nærmere regler om rettens arbeidsordning og administrasjon.",
         "text": "Kongen kan bestemme at Trygderetten skal deles i avdelinger og kan fastsette nærmere regler om rettens arbeidsordning og administrasjon."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -317,6 +322,7 @@
         "text": "(2) Etter beslutning av Trygderettens leder kan det holdes møte utenfor Oslo."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -335,6 +341,7 @@
         "html": "Trygderettens leder kan gi nærmere regler om saksforberedelse og om rettens sammensetning i den enkelte sak.",
         "text": "Trygderettens leder kan gi nærmere regler om saksforberedelse og om rettens sammensetning i den enkelte sak."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -362,27 +369,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når sakens art tilsier at retten i tillegg settes med et juridisk kyndig medlem, et medisinsk kyndig medlem eller et attføringskyndig medlem,</td>\n</tr>",
-        "text": "a)når sakens art tilsier at retten i tillegg settes med et juridisk kyndig medlem, et medisinsk kyndig medlem eller et attføringskyndig medlem,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når sakens art tilsier at retten i tillegg settes med et juridisk kyndig medlem, et medisinsk kyndig medlem eller et attføringskyndig medlem,</td>\n</tr>",
+        "text": "a)\tnår sakens art tilsier at retten i tillegg settes med et juridisk kyndig medlem, et medisinsk kyndig medlem eller et attføringskyndig medlem,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når retten opprinnelig er satt med to medlemmer, men det viser seg at det ikke er enighet om utfallet av saken,</td>\n</tr>",
-        "text": "b)når retten opprinnelig er satt med to medlemmer, men det viser seg at det ikke er enighet om utfallet av saken,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når retten opprinnelig er satt med to medlemmer, men det viser seg at det ikke er enighet om utfallet av saken,</td>\n</tr>",
+        "text": "b)\tnår retten opprinnelig er satt med to medlemmer, men det viser seg at det ikke er enighet om utfallet av saken,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når saken reiser vanskelige retts- eller bevisspørsmål,</td>\n</tr>",
-        "text": "c)når saken reiser vanskelige retts- eller bevisspørsmål,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når saken reiser vanskelige retts- eller bevisspørsmål,</td>\n</tr>",
+        "text": "c)\tnår saken reiser vanskelige retts- eller bevisspørsmål,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når Trygderettens leder bestemmer det.</td>\n</tr>",
-        "text": "d)når Trygderettens leder bestemmer det."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når Trygderettens leder bestemmer det.</td>\n</tr>",
+        "text": "d)\tnår Trygderettens leder bestemmer det."
     },
     {
         "tag": "table",
@@ -403,6 +410,7 @@
         "text": "(5) Administrator og de øvrige medlemmene av retten oppnevnes tilfeldig med mindre saklige grunner tilsier at dette må fravikes."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -418,13 +426,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Reglene om habilitet i domstolloven §§ 106 til 108 og § 113 gjelder tilsvarende for medlemmene av den rett som skal avgjøre saken og for saksforberedere.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Reglene om habilitet i <a data-id=\"lov/1915-08-13-5/§106\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7106\">domstolloven §§ 106</a> til <a data-id=\"lov/1915-08-13-5/§108\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7108\">108</a> og § <a data-id=\"lov/1915-08-13-5/§113\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7113\">113</a> gjelder tilsvarende for medlemmene av den rett som skal avgjøre saken og for saksforberedere.</td></tr>",
         "text": "(1) Reglene om habilitet i domstolloven §§ 106 til 108 og § 113 gjelder tilsvarende for medlemmene av den rett som skal avgjøre saken og for saksforberedere."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> For rettsfullmektiger gjelder domstolloven § 109 tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> For rettsfullmektiger gjelder <a data-id=\"lov/1915-08-13-5/§109\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7109\">domstolloven § 109</a> tilsvarende.</td></tr>",
         "text": "(2) For rettsfullmektiger gjelder domstolloven § 109 tilsvarende."
     },
     {
@@ -445,6 +453,7 @@
         "html": "Kapittel 3 Anke og saksforberedelse",
         "text": "Kapittel 3 Anke og saksforberedelse"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -467,7 +476,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Har en part krevd å få oppgitt begrunnelsen for vedtaket etter forvaltningsloven § 24 andre ledd, avbrytes ankefristen. Ny ankefrist tar til å løpe fra det tidspunkt meddelelse om begrunnelsen er kommet fram til vedkommende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Har en part krevd å få oppgitt begrunnelsen for vedtaket etter <a data-id=\"lov/1967-02-10/§24\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A724\">forvaltningsloven § 24</a> andre ledd, avbrytes ankefristen. Ny ankefrist tar til å løpe fra det tidspunkt meddelelse om begrunnelsen er kommet fram til vedkommende.</td></tr>",
         "text": "(2) Har en part krevd å få oppgitt begrunnelsen for vedtaket etter forvaltningsloven § 24 andre ledd, avbrytes ankefristen. Ny ankefrist tar til å løpe fra det tidspunkt meddelelse om begrunnelsen er kommet fram til vedkommende."
     },
     {
@@ -482,6 +491,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Trygderetten kan se bort fra at ankefristen er oversittet når særlige grunner taler for det.</td></tr>",
         "text": "(4) Trygderetten kan se bort fra at ankefristen er oversittet når særlige grunner taler for det."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -503,15 +513,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er avgitt til postoperatør i Norge som skal sørge for å få sendingen fram til mottaker, eller</td>\n</tr>",
-        "text": "a)er avgitt til postoperatør i Norge som skal sørge for å få sendingen fram til mottaker, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er avgitt til postoperatør i Norge som skal sørge for å få sendingen fram til mottaker, eller</td>\n</tr>",
+        "text": "a)\ter avgitt til postoperatør i Norge som skal sørge for å få sendingen fram til mottaker, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at den er kommet fram til den elektroniske adressen som i det påankede vedtaket er oppgitt for mottak av elektronisk anke.</td>\n</tr>",
-        "text": "b)at den er kommet fram til den elektroniske adressen som i det påankede vedtaket er oppgitt for mottak av elektronisk anke."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at den er kommet fram til den elektroniske adressen som i det påankede vedtaket er oppgitt for mottak av elektronisk anke.</td>\n</tr>",
+        "text": "b)\tat den er kommet fram til den elektroniske adressen som i det påankede vedtaket er oppgitt for mottak av elektronisk anke."
     },
     {
         "tag": "table",
@@ -522,9 +532,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Ved beregning av ankefristen gjelder domstolloven §§ 148 og 149.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Ved beregning av ankefristen gjelder <a data-id=\"lov/1915-08-13-5/§148\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7148\">domstolloven §§ 148</a> og <a data-id=\"lov/1915-08-13-5/§149\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7149\">149</a>.</td></tr>",
         "text": "(3) Ved beregning av ankefristen gjelder domstolloven §§ 148 og 149."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -558,39 +569,39 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at den er en anke til Trygderetten,</td>\n</tr>",
-        "text": "a)at den er en anke til Trygderetten,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at den er en anke til Trygderetten,</td>\n</tr>",
+        "text": "a)\tat den er en anke til Trygderetten,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn, fødselsdag og fødselsår samt adresse til den ankende part,</td>\n</tr>",
-        "text": "b)navn, fødselsdag og fødselsår samt adresse til den ankende part,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn, fødselsdag og fødselsår samt adresse til den ankende part,</td>\n</tr>",
+        "text": "b)\tnavn, fødselsdag og fødselsår samt adresse til den ankende part,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det vedtak som påankes,</td>\n</tr>",
-        "text": "c)det vedtak som påankes,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det vedtak som påankes,</td>\n</tr>",
+        "text": "c)\tdet vedtak som påankes,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den endring i vedtaket som kreves, og så vidt mulig de nærmere omstendigheter som anføres til støtte for anken,</td>\n</tr>",
-        "text": "d)den endring i vedtaket som kreves, og så vidt mulig de nærmere omstendigheter som anføres til støtte for anken,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den endring i vedtaket som kreves, og så vidt mulig de nærmere omstendigheter som anføres til støtte for anken,</td>\n</tr>",
+        "text": "d)\tden endring i vedtaket som kreves, og så vidt mulig de nærmere omstendigheter som anføres til støtte for anken,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erklæringer og andre bevis som påberopes,</td>\n</tr>",
-        "text": "e)erklæringer og andre bevis som påberopes,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erklæringer og andre bevis som påberopes,</td>\n</tr>",
+        "text": "e)\terklæringer og andre bevis som påberopes,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bilag som følger anken.</td>\n</tr>",
-        "text": "f)bilag som følger anken."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bilag som følger anken.</td>\n</tr>",
+        "text": "f)\tbilag som følger anken."
     },
     {
         "tag": "table",
@@ -598,6 +609,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Hvis en skriftlig anke er ufullstendig eller uklar, skal den ankende part gjøres oppmerksom på eventuelle mangler ved anken eller andre forhold som kan ha betydning i saken, og gis en frist for å rette opp eller supplere anken.</td></tr>",
         "text": "(4) Hvis en skriftlig anke er ufullstendig eller uklar, skal den ankende part gjøres oppmerksom på eventuelle mangler ved anken eller andre forhold som kan ha betydning i saken, og gis en frist for å rette opp eller supplere anken."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -614,9 +626,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom et vedtak kan påklages etter folketrygdloven § 21-12, barnetrygdloven § 15 eller etter bestemmelser i andre lover, kan saken bringes inn for Trygderetten først etter at klageadgangen er benyttet.",
+        "html": "Dersom et vedtak kan påklages etter <a data-id=\"lov/1997-02-28-19/§21-12\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-12\">folketrygdloven § 21-12</a>, <a data-id=\"lov/2002-03-08-4/§15\" class=\" reference\" href=\"/lov/2002-03-08-4/%C2%A715\">barnetrygdloven § 15</a> eller etter bestemmelser i andre lover, kan saken bringes inn for Trygderetten først etter at klageadgangen er benyttet.",
         "text": "Dersom et vedtak kan påklages etter folketrygdloven § 21-12, barnetrygdloven § 15 eller etter bestemmelser i andre lover, kan saken bringes inn for Trygderetten først etter at klageadgangen er benyttet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -657,9 +670,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Bestemmelsen i § 31 første ledd første punktum gjelder tilsvarende for meldinger til den ankende part etter andre ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Bestemmelsen i <a data-id=\"lov/2015-12-18-105/§31\" class=\" reference\" href=\"/lov/2015-12-18-105/%C2%A731\">§ 31</a> første ledd første punktum gjelder tilsvarende for meldinger til den ankende part etter andre ledd.</td></tr>",
         "text": "(5) Bestemmelsen i § 31 første ledd første punktum gjelder tilsvarende for meldinger til den ankende part etter andre ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -685,6 +699,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Når særlige grunner taler for det, kan Trygderetten eller ankemotparten bestemme at iverksettingen av vedtaket helt eller delvis skal utsettes til anken er avgjort. Det kan settes vilkår for slik utsetting.</td></tr>",
         "text": "(2) Når særlige grunner taler for det, kan Trygderetten eller ankemotparten bestemme at iverksettingen av vedtaket helt eller delvis skal utsettes til anken er avgjort. Det kan settes vilkår for slik utsetting."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -713,9 +728,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> For Trygderetten gjelder reglene om bevis i tvisteloven kapittel 21 til 28 så langt de passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> For Trygderetten gjelder reglene om bevis i <a data-id=\"lov/2005-06-17-90/kap21\" class=\" reference\" href=\"/lov/2005-06-17-90/kap21\">tvisteloven kapittel 21</a> til 28 så langt de passer.</td></tr>",
         "text": "(3) For Trygderetten gjelder reglene om bevis i tvisteloven kapittel 21 til 28 så langt de passer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -748,6 +764,7 @@
         "text": "(3) Trygderetten bestemmer ut fra hensynet til forsvarlig saksbehandling hvordan dokumentene skal gjøres tilgjengelig for partene. På anmodning skal en part gis kopi av dokumentene."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -763,9 +780,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "En part som er nektet innsyn, kan påklage Trygderettens beslutning til departementet i samsvar med reglene i forvaltningsloven kapittel VI. Klageadgang, klagefrist og framgangsmåte skal framgå av beslutningen som nekter innsyn.",
+        "html": "En part som er nektet innsyn, kan påklage Trygderettens beslutning til departementet i samsvar med reglene i <a data-id=\"lov/1967-02-10/kapvi\" class=\" reference\" href=\"/lov/1967-02-10/kapvi\">forvaltningsloven kapittel VI</a>. Klageadgang, klagefrist og framgangsmåte skal framgå av beslutningen som nekter innsyn.",
         "text": "En part som er nektet innsyn, kan påklage Trygderettens beslutning til departementet i samsvar med reglene i forvaltningsloven kapittel VI. Klageadgang, klagefrist og framgangsmåte skal framgå av beslutningen som nekter innsyn."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -782,7 +800,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Reglene om prosessdyktighet og stedfortreder i tvisteloven kapittel 2 gjelder så langt de passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Reglene om prosessdyktighet og stedfortreder i <a data-id=\"lov/2005-06-17-90/kap2\" class=\" reference\" href=\"/lov/2005-06-17-90/kap2\">tvisteloven kapittel 2</a> gjelder så langt de passer.</td></tr>",
         "text": "(1) Reglene om prosessdyktighet og stedfortreder i tvisteloven kapittel 2 gjelder så langt de passer."
     },
     {
@@ -797,6 +815,7 @@
         "html": "Kapittel 4 Ankebehandling",
         "text": "Kapittel 4 Ankebehandling"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -822,6 +841,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Retten kan holde rettsmøte hvis særlige grunner taler for det. Rettsmøtet holdes for åpne dører. Retten kan beslutte at rettsmøtet skal holdes for lukkede dører av hensyn til partene eller der andre sterke grunner taler for det.</td></tr>",
         "text": "(2) Retten kan holde rettsmøte hvis særlige grunner taler for det. Rettsmøtet holdes for åpne dører. Retten kan beslutte at rettsmøtet skal holdes for lukkede dører av hensyn til partene eller der andre sterke grunner taler for det."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -878,6 +898,7 @@
         "text": "(7) Partene skal gis mulighet til å uttale seg om faktiske forhold som er av betydning for rettens avgjørelsesgrunnlag. Ellers avgjør retten om partene skal gis adgang til å uttale seg."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -899,7 +920,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Kjennelser skal begrunnes som dommer, med unntak for tilfellene nevnt i tredje ledd. I kjennelsen skal saksframstillingen og redegjørelsen for påstandsgrunnlagene beskrive det rettsforhold som er tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler så langt det er nødvendig for å forklare avgjørelsen. Deretter gjør retten rede for den bevisvurderingen og rettsanvendelsen avgjørelsen er bygd på. For øvrig gjelder tvisteloven § 19-6 tilsvarende så langt den passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Kjennelser skal begrunnes som dommer, med unntak for tilfellene nevnt i tredje ledd. I kjennelsen skal saksframstillingen og redegjørelsen for påstandsgrunnlagene beskrive det rettsforhold som er tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler så langt det er nødvendig for å forklare avgjørelsen. Deretter gjør retten rede for den bevisvurderingen og rettsanvendelsen avgjørelsen er bygd på. For øvrig gjelder <a data-id=\"lov/2005-06-17-90/§19-6\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-6\">tvisteloven § 19-6</a> tilsvarende så langt den passer.</td></tr>",
         "text": "(2) Kjennelser skal begrunnes som dommer, med unntak for tilfellene nevnt i tredje ledd. I kjennelsen skal saksframstillingen og redegjørelsen for påstandsgrunnlagene beskrive det rettsforhold som er tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler så langt det er nødvendig for å forklare avgjørelsen. Deretter gjør retten rede for den bevisvurderingen og rettsanvendelsen avgjørelsen er bygd på. For øvrig gjelder tvisteloven § 19-6 tilsvarende så langt den passer."
     },
     {
@@ -914,6 +935,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Kjennelser skal inneholde en slutning som nøyaktig angir resultatet for de avgjørelser som treffes. Når retten avgjør realiteten i saken, kan avgjørelsen gå ut på stadfestelse eller omgjøring. Hvis det ikke foreligger et forsvarlig grunnlag for å avgjøre realiteten, kan retten oppheve vedtaket og henvise saken til ny behandling. Dersom det er grunnlag for det, kan retten også henvise uten å oppheve vedtaket.</td></tr>",
         "text": "(4) Kjennelser skal inneholde en slutning som nøyaktig angir resultatet for de avgjørelser som treffes. Når retten avgjør realiteten i saken, kan avgjørelsen gå ut på stadfestelse eller omgjøring. Hvis det ikke foreligger et forsvarlig grunnlag for å avgjøre realiteten, kan retten oppheve vedtaket og henvise saken til ny behandling. Dersom det er grunnlag for det, kan retten også henvise uten å oppheve vedtaket."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -942,9 +964,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Partene skal straks underrettes om kjennelsen. I underretningen skal partene gjøres oppmerksom på søksmålsfristen etter § 26 femte ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Partene skal straks underrettes om kjennelsen. I underretningen skal partene gjøres oppmerksom på søksmålsfristen etter <a data-id=\"lov/2015-12-18-105/§26\" class=\" reference\" href=\"/lov/2015-12-18-105/%C2%A726\">§ 26</a> femte ledd.</td></tr>",
         "text": "(3) Partene skal straks underrettes om kjennelsen. I underretningen skal partene gjøres oppmerksom på søksmålsfristen etter § 26 femte ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -967,9 +990,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> En beslutning kan omgjøres av den rett eller den administrator som har truffet den. Tvisteloven § 19-10 første og fjerde ledd gjelder for slik omgjøring.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> En beslutning kan omgjøres av den rett eller den administrator som har truffet den. <a data-id=\"lov/2005-06-17-90/§19-10\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-10\">Tvisteloven § 19-10</a> første og fjerde ledd gjelder for slik omgjøring.</td></tr>",
         "text": "(2) En beslutning kan omgjøres av den rett eller den administrator som har truffet den. Tvisteloven § 19-10 første og fjerde ledd gjelder for slik omgjøring."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -992,9 +1016,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Tvisteloven § 19-8 tredje og fjerde ledd gjelder for retting etter paragrafen her.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> <a data-id=\"lov/2005-06-17-90/§19-8\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-8\">Tvisteloven § 19-8</a> tredje og fjerde ledd gjelder for retting etter paragrafen her.</td></tr>",
         "text": "(2) Tvisteloven § 19-8 tredje og fjerde ledd gjelder for retting etter paragrafen her."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1011,7 +1036,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Er det i kjennelse ikke truffet avgjørelse om noe som skulle ha vært avgjort, kan tilleggskjennelse avsies dersom det settes fram begjæring om det innen seks uker fra det tidspunkt meddelelsen om kjennelsen er kommet fram til vedkommende part. Tvisteloven § 19-9 gjelder for slik tillleggskjennelse så langt det passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Er det i kjennelse ikke truffet avgjørelse om noe som skulle ha vært avgjort, kan tilleggskjennelse avsies dersom det settes fram begjæring om det innen seks uker fra det tidspunkt meddelelsen om kjennelsen er kommet fram til vedkommende part. <a data-id=\"lov/2005-06-17-90/§19-9\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-9\">Tvisteloven § 19-9</a> gjelder for slik tillleggskjennelse så langt det passer.</td></tr>",
         "text": "(1) Er det i kjennelse ikke truffet avgjørelse om noe som skulle ha vært avgjort, kan tilleggskjennelse avsies dersom det settes fram begjæring om det innen seks uker fra det tidspunkt meddelelsen om kjennelsen er kommet fram til vedkommende part. Tvisteloven § 19-9 gjelder for slik tillleggskjennelse så langt det passer."
     },
     {
@@ -1026,6 +1051,7 @@
         "html": "Kapittel 5 Søksmål og gjenopptak",
         "text": "Kapittel 5 Søksmål og gjenopptak"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1048,7 +1074,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Tvist som nevnt i § 2 kan ikke bringes inn for lagmannsretten før Trygderetten har truffet avgjørelse i saken.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Tvist som nevnt i <a data-id=\"lov/2015-12-18-105/§2\" class=\" reference\" href=\"/lov/2015-12-18-105/%C2%A72\">§ 2</a> kan ikke bringes inn for lagmannsretten før Trygderetten har truffet avgjørelse i saken.</td></tr>",
         "text": "(2) Tvist som nevnt i § 2 kan ikke bringes inn for lagmannsretten før Trygderetten har truffet avgjørelse i saken."
     },
     {
@@ -1066,9 +1092,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Fristen for søksmål er seks måneder fra det tidspunkt underretning om Trygderettens kjennelse er kommet fram til vedkommende part. Det kan gis oppfriskning mot oversitting av søksmålsfristen etter reglene i tvisteloven §§ 16-12 til 16-14.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Fristen for søksmål er seks måneder fra det tidspunkt underretning om Trygderettens kjennelse er kommet fram til vedkommende part. Det kan gis oppfriskning mot oversitting av søksmålsfristen etter reglene i <a data-id=\"lov/2005-06-17-90/§16-12\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-12\">tvisteloven §§ 16-12</a> til <a data-id=\"lov/2005-06-17-90/§16-14\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-14\">16-14</a>.</td></tr>",
         "text": "(5) Fristen for søksmål er seks måneder fra det tidspunkt underretning om Trygderettens kjennelse er kommet fram til vedkommende part. Det kan gis oppfriskning mot oversitting av søksmålsfristen etter reglene i tvisteloven §§ 16-12 til 16-14."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1096,15 +1123,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er kommet til nye opplysninger om det tidligere faktiske forholdet som er egnet til å føre til et annet resultat, eller</td>\n</tr>",
-        "text": "a)det er kommet til nye opplysninger om det tidligere faktiske forholdet som er egnet til å føre til et annet resultat, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er kommet til nye opplysninger om det tidligere faktiske forholdet som er egnet til å føre til et annet resultat, eller</td>\n</tr>",
+        "text": "a)\tdet er kommet til nye opplysninger om det tidligere faktiske forholdet som er egnet til å føre til et annet resultat, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger alvorlige saksbehandlingsfeil, uforsvarlig rettsanvendelse eller uforsvarlig skjønnsutøvelse.</td>\n</tr>",
-        "text": "b)det foreligger alvorlige saksbehandlingsfeil, uforsvarlig rettsanvendelse eller uforsvarlig skjønnsutøvelse."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger alvorlige saksbehandlingsfeil, uforsvarlig rettsanvendelse eller uforsvarlig skjønnsutøvelse.</td>\n</tr>",
+        "text": "b)\tdet foreligger alvorlige saksbehandlingsfeil, uforsvarlig rettsanvendelse eller uforsvarlig skjønnsutøvelse."
     },
     {
         "tag": "table",
@@ -1115,7 +1142,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Begjæring om gjenopptak skal settes fram skriftlig. Reglene i § 11 tredje og fjerde ledd gjelder for slik begjæring. Det skal angis om begjæringen gjelder hele avgjørelsen eller bare deler av den.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Begjæring om gjenopptak skal settes fram skriftlig. Reglene i <a data-id=\"lov/2015-12-18-105/§11\" class=\" reference\" href=\"/lov/2015-12-18-105/%C2%A711\">§ 11</a> tredje og fjerde ledd gjelder for slik begjæring. Det skal angis om begjæringen gjelder hele avgjørelsen eller bare deler av den.</td></tr>",
         "text": "(4) Begjæring om gjenopptak skal settes fram skriftlig. Reglene i § 11 tredje og fjerde ledd gjelder for slik begjæring. Det skal angis om begjæringen gjelder hele avgjørelsen eller bare deler av den."
     },
     {
@@ -1124,6 +1151,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Dersom en begjæring om gjenopptak er ufullstendig eller uklar, skal partene gjøres oppmerksom på eventuelle mangler og gis en frist for å rette opp eller supplere begjæringen. Dersom fristen ikke overholdes, skal begjæringen avvises. Avgjørelse om avvisning kan bare treffes av Trygderetten.</td></tr>",
         "text": "(5) Dersom en begjæring om gjenopptak er ufullstendig eller uklar, skal partene gjøres oppmerksom på eventuelle mangler og gis en frist for å rette opp eller supplere begjæringen. Dersom fristen ikke overholdes, skal begjæringen avvises. Avgjørelse om avvisning kan bare treffes av Trygderetten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1174,6 +1202,7 @@
         "text": "Kapittel 6 Utgifter ved saksbehandlingen"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1189,13 +1218,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Hvis Trygderettens kjennelse er til gunst for den ankende part, skal retten pålegge ankemotparten helt eller delvis å erstatte de nødvendige kostnader som saken har medført for den ankende part. Dette gjelder også nødvendige kostnader den ankende part har hatt i forbindelse med tidligere klagebehandling av saken, og kostnader som er pådratt etter bestemmelsene i lov 13. juni 1980 nr. 35 om fri rettshjelp.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Hvis Trygderettens kjennelse er til gunst for den ankende part, skal retten pålegge ankemotparten helt eller delvis å erstatte de nødvendige kostnader som saken har medført for den ankende part. Dette gjelder også nødvendige kostnader den ankende part har hatt i forbindelse med tidligere klagebehandling av saken, og kostnader som er pådratt etter bestemmelsene i <a data-id=\"lov/1980-06-13-35\" class=\" reference\" href=\"/lov/1980-06-13-35\">lov 13. juni 1980 nr. 35</a> om fri rettshjelp.</td></tr>",
         "text": "(1) Hvis Trygderettens kjennelse er til gunst for den ankende part, skal retten pålegge ankemotparten helt eller delvis å erstatte de nødvendige kostnader som saken har medført for den ankende part. Dette gjelder også nødvendige kostnader den ankende part har hatt i forbindelse med tidligere klagebehandling av saken, og kostnader som er pådratt etter bestemmelsene i lov 13. juni 1980 nr. 35 om fri rettshjelp."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Hvis den ankende part åpenbart uten grunn har framsatt eller opprettholdt anke, kan retten bestemme at vedkommende helt eller delvis skal bære de utgifter som anken har medført for ankemotparten og utgifter etter lov 13. juni 1980 nr. 35 om fri rettshjelp. Sakskostnader som den ankende part pålegges, kan inndrives etter reglene for dommer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Hvis den ankende part åpenbart uten grunn har framsatt eller opprettholdt anke, kan retten bestemme at vedkommende helt eller delvis skal bære de utgifter som anken har medført for ankemotparten og utgifter etter <a data-id=\"lov/1980-06-13-35\" class=\" reference\" href=\"/lov/1980-06-13-35\">lov 13. juni 1980 nr. 35</a> om fri rettshjelp. Sakskostnader som den ankende part pålegges, kan inndrives etter reglene for dommer.</td></tr>",
         "text": "(2) Hvis den ankende part åpenbart uten grunn har framsatt eller opprettholdt anke, kan retten bestemme at vedkommende helt eller delvis skal bære de utgifter som anken har medført for ankemotparten og utgifter etter lov 13. juni 1980 nr. 35 om fri rettshjelp. Sakskostnader som den ankende part pålegges, kan inndrives etter reglene for dommer."
     },
     {
@@ -1207,9 +1236,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Rettens avgjørelser om sakskostnader kan ankes separat. Tvisteloven §§ 20-9 og 20-10 gjelder for slik anke. Ankedomstol er den lagmannsrett som er nevnt i § 26 første ledd i loven her. Ankefristen er én måned fra den dag vedkommende mottok underretning om avgjørelsen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Rettens avgjørelser om sakskostnader kan ankes separat. <a data-id=\"lov/2005-06-17-90/§20-9\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A720-9\">Tvisteloven §§ 20-9</a> og <a data-id=\"lov/2005-06-17-90/§20-10\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A720-10\">20-10</a> gjelder for slik anke. Ankedomstol er den lagmannsrett som er nevnt i § 26 første ledd i loven her. Ankefristen er én måned fra den dag vedkommende mottok underretning om avgjørelsen.</td></tr>",
         "text": "(4) Rettens avgjørelser om sakskostnader kan ankes separat. Tvisteloven §§ 20-9 og 20-10 gjelder for slik anke. Ankedomstol er den lagmannsrett som er nevnt i § 26 første ledd i loven her. Ankefristen er én måned fra den dag vedkommende mottok underretning om avgjørelsen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1235,6 +1265,7 @@
         "html": "Kapittel 7 Forskjellige bestemmelser",
         "text": "Kapittel 7 Forskjellige bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1267,6 +1298,7 @@
         "text": "(3) Hvis den ankende part ikke har bopel i riket, kan retten om nødvendig gjennom melding som nevnt i første ledd, pålegge vedkommende innen en fastsatt frist å oppgi en person som er bosatt i Norge som kan motta meldingen. Forpliktelsen varer til saken er avgjort. Etterkommer vedkommende ikke en slik anmodning, sendes meldingen til vedkommendes sist kjente adresse."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1292,6 +1324,7 @@
         "text": "(2) Reglene i domstolloven om forkynning gjelder så langt de passer."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1307,9 +1340,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Vitner og sakkyndige har krav på godtgjørelse etter reglene i lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse m.v.",
+        "html": "Vitner og sakkyndige har krav på godtgjørelse etter reglene i <a data-id=\"lov/1916-07-21-2\" class=\" reference\" href=\"/lov/1916-07-21-2\">lov 21. juli 1916 nr. 2</a> om vidners og sakkyndiges godtgjørelse m.v.",
         "text": "Vitner og sakkyndige har krav på godtgjørelse etter reglene i lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse m.v."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1332,9 +1366,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i første ledd gjelder ikke i tilfelle hvor allmenne interesser tilsier at opplysninger gis, og departementet samtykker i det. Forvaltningsloven §§ 13 til 13 e gjelder ikke.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i første ledd gjelder ikke i tilfelle hvor allmenne interesser tilsier at opplysninger gis, og departementet samtykker i det. <a data-id=\"lov/1967-02-10/§13\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713\">Forvaltningsloven §§ 13</a> til <a data-id=\"lov/1967-02-10/§13e\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713e\">13 e</a> gjelder ikke.</td></tr>",
         "text": "(2) Bestemmelsene i første ledd gjelder ikke i tilfelle hvor allmenne interesser tilsier at opplysninger gis, og departementet samtykker i det. Forvaltningsloven §§ 13 til 13 e gjelder ikke."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1354,6 +1389,7 @@
         "html": "Den som mot bedre vitende gir uriktige opplysninger, eller fortier vesentlige opplysninger av betydning for sak som er brakt inn for Trygderetten eller som unnlater å etterkomme påbud som er gitt i medhold av denne lov, straffes med bøter hvis forholdet ikke går inn under et strengere straffebud.",
         "text": "Den som mot bedre vitende gir uriktige opplysninger, eller fortier vesentlige opplysninger av betydning for sak som er brakt inn for Trygderetten eller som unnlater å etterkomme påbud som er gitt i medhold av denne lov, straffes med bøter hvis forholdet ikke går inn under et strengere straffebud."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1380,6 +1416,7 @@
         "text": "(2) Kongen kan i forskrift gjøre de unntak fra loven og gi de supplerende regler som er nødvendige til oppfylling av plikter som følge av overenskomst med fremmed stat."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1405,6 +1442,7 @@
         "text": "Kapittel 8 Ikrafttredelse. Overgangsbestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1426,25 +1464,25 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">lov 28. februar 1997 nr. 19</a> om folketrygd gjøres følgende endringer:",
         "text": "I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 21-12 første ledd tredje punktum skal lyde:",
+        "html": "<a data-id=\"lov/1997-02-28-19/§21-12\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-12\">§ 21-12</a> første ledd tredje punktum skal lyde:",
         "text": "§ 21-12 første ledd tredje punktum skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Etter at denne klageadgangen er benyttet, kan klageinstansens vedtak, også vedtak om å avvise en klage, ankes inn for Trygderetten etter reglene i lov 16. desember 1966 nr. 9 om anke til Trygderetten.",
+        "html": "Etter at denne klageadgangen er benyttet, kan klageinstansens vedtak, også vedtak om å avvise en klage, ankes inn for Trygderetten etter reglene i <a data-id=\"lov/1966-12-16-9\" class=\" reference\" href=\"/lov/1966-12-16-9\">lov 16. desember 1966 nr. 9</a> om anke til Trygderetten.",
         "text": "Etter at denne klageadgangen er benyttet, kan klageinstansens vedtak, også vedtak om å avvise en klage, ankes inn for Trygderetten etter reglene i lov 16. desember 1966 nr. 9 om anke til Trygderetten."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 21-12 tredje ledd første punktum skal lyde:",
+        "html": "<a data-id=\"lov/1997-02-28-19/§21-12\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-12\">§ 21-12</a> tredje ledd første punktum skal lyde:",
         "text": "§ 21-12 tredje ledd første punktum skal lyde:"
     },
     {
@@ -1456,7 +1494,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 21-12 tredje ledd tredje punktum oppheves.",
+        "html": "<a data-id=\"lov/1997-02-28-19/§21-12\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-12\">§ 21-12</a> tredje ledd tredje punktum oppheves.",
         "text": "§ 21-12 tredje ledd tredje punktum oppheves."
     },
     {

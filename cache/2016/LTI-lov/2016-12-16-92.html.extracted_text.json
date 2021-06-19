@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.150 L (2015–2016), Innst.56 L (2016–2017), Lovvedtak 8 (2016–2017). Stortingets første og andre gangs behandling hhv. 22. og 29. november 2016. Fremmet av Forsvarsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-150-l-201516\" class=\" reference\" href=\"/forarbeid/prop-150-l-201516\">Prop.150 L (2015–2016)</a>, <a data-id=\"forarbeid/inns-56-l-201617\" class=\" reference\" href=\"/forarbeid/inns-56-l-201617\">Innst.56 L (2016–2017)</a>, <a data-id=\"forarbeid/lovvedtak-8-201617\" class=\" reference\" href=\"/forarbeid/lovvedtak-8-201617\">Lovvedtak 8 (2016–2017)</a>. Stortingets første og andre gangs behandling hhv. 22. og 29. november 2016. Fremmet av Forsvarsdepartementet.",
         "text": "Prop.150 L (2015–2016), Innst.56 L (2016–2017), Lovvedtak 8 (2016–2017). Stortingets første og andre gangs behandling hhv. 22. og 29. november 2016. Fremmet av Forsvarsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven).",
+        "html": "<a data-id=\"lov/1993-06-11-101\" class=\" reference\" href=\"/lov/1993-06-11-101\">Lov 11. juni 1993 nr. 101</a> om luftfart (luftfartsloven).",
         "text": "Lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven)."
     },
     null,
@@ -88,21 +88,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ulykke: en uønsket eller utilsiktet begivenhet, eller en bestemt rekke slike begivenheter, som har skadelige følger. Med skadelige følger menes blant annet tap av menneskeliv, alvorlig personskade, omfattende skade på eller tap av materiell og omfattende skade på eiendom eller miljøet.</td>\n</tr>",
-        "text": "a)ulykke: en uønsket eller utilsiktet begivenhet, eller en bestemt rekke slike begivenheter, som har skadelige følger. Med skadelige følger menes blant annet tap av menneskeliv, alvorlig personskade, omfattende skade på eller tap av materiell og omfattende skade på eiendom eller miljøet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ulykke: en uønsket eller utilsiktet begivenhet, eller en bestemt rekke slike begivenheter, som har skadelige følger. Med skadelige følger menes blant annet tap av menneskeliv, alvorlig personskade, omfattende skade på eller tap av materiell og omfattende skade på eiendom eller miljøet.</td>\n</tr>",
+        "text": "a)\tulykke: en uønsket eller utilsiktet begivenhet, eller en bestemt rekke slike begivenheter, som har skadelige følger. Med skadelige følger menes blant annet tap av menneskeliv, alvorlig personskade, omfattende skade på eller tap av materiell og omfattende skade på eiendom eller miljøet."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hendelse: enhver annen uønsket eller utilsiktet begivenhet enn en ulykke, som har sammenheng med militær virksomhet og som virker inn på sikkerheten i Forsvaret.</td>\n</tr>",
-        "text": "b)hendelse: enhver annen uønsket eller utilsiktet begivenhet enn en ulykke, som har sammenheng med militær virksomhet og som virker inn på sikkerheten i Forsvaret."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hendelse: enhver annen uønsket eller utilsiktet begivenhet enn en ulykke, som har sammenheng med militær virksomhet og som virker inn på sikkerheten i Forsvaret.</td>\n</tr>",
+        "text": "b)\thendelse: enhver annen uønsket eller utilsiktet begivenhet enn en ulykke, som har sammenheng med militær virksomhet og som virker inn på sikkerheten i Forsvaret."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alvorlig hendelse: en hendelse som under litt andre omstendigheter kunne ha ført til en ulykke.</td>\n</tr>",
-        "text": "c)alvorlig hendelse: en hendelse som under litt andre omstendigheter kunne ha ført til en ulykke."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alvorlig hendelse: en hendelse som under litt andre omstendigheter kunne ha ført til en ulykke.</td>\n</tr>",
+        "text": "c)\talvorlig hendelse: en hendelse som under litt andre omstendigheter kunne ha ført til en ulykke."
     },
     null,
     {
@@ -157,7 +157,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Undersøkelsesmyndigheten har ansvar for at det blir igangsatt og gjennomført undersøkelser etter § 12. Undersøkelsesmyndigheten har det overordnede ansvaret for at forhold som antas å ha betydning for forebyggelsen av ulykker og hendelser blir utredet. Etter at rapport er utarbeidet etter § 21, har undersøkelsesmyndigheten ansvaret for at rapporten med eventuelle tilrådninger oversendes Forsvaret og andre relevante myndigheter for oppfølgning.",
+        "html": "Undersøkelsesmyndigheten har ansvar for at det blir igangsatt og gjennomført undersøkelser etter <a data-id=\"lov/2016-12-16-92/§12\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A712\">§ 12</a>. Undersøkelsesmyndigheten har det overordnede ansvaret for at forhold som antas å ha betydning for forebyggelsen av ulykker og hendelser blir utredet. Etter at rapport er utarbeidet etter <a data-id=\"lov/2016-12-16-92/§21\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A721\">§ 21</a>, har undersøkelsesmyndigheten ansvaret for at rapporten med eventuelle tilrådninger oversendes Forsvaret og andre relevante myndigheter for oppfølgning.",
         "text": "Undersøkelsesmyndigheten har ansvar for at det blir igangsatt og gjennomført undersøkelser etter § 12. Undersøkelsesmyndigheten har det overordnede ansvaret for at forhold som antas å ha betydning for forebyggelsen av ulykker og hendelser blir utredet. Etter at rapport er utarbeidet etter § 21, har undersøkelsesmyndigheten ansvaret for at rapporten med eventuelle tilrådninger oversendes Forsvaret og andre relevante myndigheter for oppfølgning."
     },
     {
@@ -325,7 +325,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når undersøkelsesmyndigheten mottar varsel om en ulykke eller hendelse, skal den uten ugrunnet opphold vurdere om vilkårene for å igangsette undersøkelse etter § 12 er oppfylt.",
+        "html": "Når undersøkelsesmyndigheten mottar varsel om en ulykke eller hendelse, skal den uten ugrunnet opphold vurdere om vilkårene for å igangsette undersøkelse etter <a data-id=\"lov/2016-12-16-92/§12\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A712\">§ 12</a> er oppfylt.",
         "text": "Når undersøkelsesmyndigheten mottar varsel om en ulykke eller hendelse, skal den uten ugrunnet opphold vurdere om vilkårene for å igangsette undersøkelse etter § 12 er oppfylt."
     },
     {
@@ -436,21 +436,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bringe på det rene skadens art og omfang, hendelsesforløp og årsak,</td>\n</tr>",
-        "text": "a)bringe på det rene skadens art og omfang, hendelsesforløp og årsak,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bringe på det rene skadens art og omfang, hendelsesforløp og årsak,</td>\n</tr>",
+        "text": "a)\tbringe på det rene skadens art og omfang, hendelsesforløp og årsak,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">klarlegge hvilke lover, forskrifter, instrukser eller ordre som gjaldt for den virksomhet eller det oppdrag hvor hendelsen inntraff, samt</td>\n</tr>",
-        "text": "b)klarlegge hvilke lover, forskrifter, instrukser eller ordre som gjaldt for den virksomhet eller det oppdrag hvor hendelsen inntraff, samt"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">klarlegge hvilke lover, forskrifter, instrukser eller ordre som gjaldt for den virksomhet eller det oppdrag hvor hendelsen inntraff, samt</td>\n</tr>",
+        "text": "b)\tklarlegge hvilke lover, forskrifter, instrukser eller ordre som gjaldt for den virksomhet eller det oppdrag hvor hendelsen inntraff, samt"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttale seg om hva som kan gjøres for å avverge lignende ulykker eller hendelser i fremtiden.</td>\n</tr>",
-        "text": "c)uttale seg om hva som kan gjøres for å avverge lignende ulykker eller hendelser i fremtiden."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttale seg om hva som kan gjøres for å avverge lignende ulykker eller hendelser i fremtiden.</td>\n</tr>",
+        "text": "c)\tuttale seg om hva som kan gjøres for å avverge lignende ulykker eller hendelser i fremtiden."
     },
     null,
     {
@@ -487,7 +487,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Undersøkelsesmyndigheten kan kreve bevissikring utenfor rettssak etter reglene i tvisteloven kapittel 28. Krav om bevissikring fremmes for den tingretten hvor de som skal avhøres bor eller oppholder seg, eller realbevis skal undersøkes.",
+        "html": "Undersøkelsesmyndigheten kan kreve bevissikring utenfor rettssak etter reglene i <a data-id=\"lov/2005-06-17-90/kap28\" class=\" reference\" href=\"/lov/2005-06-17-90/kap28\">tvisteloven kapittel 28</a>. Krav om bevissikring fremmes for den tingretten hvor de som skal avhøres bor eller oppholder seg, eller realbevis skal undersøkes.",
         "text": "Undersøkelsesmyndigheten kan kreve bevissikring utenfor rettssak etter reglene i tvisteloven kapittel 28. Krav om bevissikring fremmes for den tingretten hvor de som skal avhøres bor eller oppholder seg, eller realbevis skal undersøkes."
     },
     null,
@@ -506,13 +506,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når undersøkelsesmyndigheten iverksetter en undersøkelse, skal den så vidt mulig underrette berørte avdelinger, ofrene og deres familier, produsenter, representanter for personellet, berørte beredskapstjenester og andre som saken angår. Slik underretning skal gis så snart som mulig. Det skal opplyses om rettighetene etter annet ledd og etter § 22.",
+        "html": "Når undersøkelsesmyndigheten iverksetter en undersøkelse, skal den så vidt mulig underrette berørte avdelinger, ofrene og deres familier, produsenter, representanter for personellet, berørte beredskapstjenester og andre som saken angår. Slik underretning skal gis så snart som mulig. Det skal opplyses om rettighetene etter annet ledd og etter <a data-id=\"lov/2016-12-16-92/§22\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A722\">§ 22</a>.",
         "text": "Når undersøkelsesmyndigheten iverksetter en undersøkelse, skal den så vidt mulig underrette berørte avdelinger, ofrene og deres familier, produsenter, representanter for personellet, berørte beredskapstjenester og andre som saken angår. Slik underretning skal gis så snart som mulig. Det skal opplyses om rettighetene etter annet ledd og etter § 22."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Innen undersøkelsen avsluttes, skal de som er nevnt i første ledd, gis adgang til å komme med opplysninger og synspunkter om ulykken eller hendelsen og dens årsaksfaktorer i den grad det er praktisk mulig. De bør gis adgang til å være til stede under undersøkelsene og til å gjøre seg kjent med dokumentene, i den grad undersøkelsesmyndigheten finner at dette kan skje uten hinder for undersøkelsen. Annet punktum gjelder med de begrensninger som følger av taushetsplikten i § 19.",
+        "html": "Innen undersøkelsen avsluttes, skal de som er nevnt i første ledd, gis adgang til å komme med opplysninger og synspunkter om ulykken eller hendelsen og dens årsaksfaktorer i den grad det er praktisk mulig. De bør gis adgang til å være til stede under undersøkelsene og til å gjøre seg kjent med dokumentene, i den grad undersøkelsesmyndigheten finner at dette kan skje uten hinder for undersøkelsen. Annet punktum gjelder med de begrensninger som følger av taushetsplikten i <a data-id=\"lov/2016-12-16-92/§19\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A719\">§ 19</a>.",
         "text": "Innen undersøkelsen avsluttes, skal de som er nevnt i første ledd, gis adgang til å komme med opplysninger og synspunkter om ulykken eller hendelsen og dens årsaksfaktorer i den grad det er praktisk mulig. De bør gis adgang til å være til stede under undersøkelsene og til å gjøre seg kjent med dokumentene, i den grad undersøkelsesmyndigheten finner at dette kan skje uten hinder for undersøkelsen. Annet punktum gjelder med de begrensninger som følger av taushetsplikten i § 19."
     },
     {
@@ -537,7 +537,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Enhver som utfører tjeneste eller arbeid for undersøkelsesmyndigheten, har taushetsplikt etter forvaltningsloven om det som de får kjennskap til under utførelsen av sitt arbeid. Forvaltningsloven § 13 b første ledd nr. 6 gjelder likevel ikke.",
+        "html": "Enhver som utfører tjeneste eller arbeid for undersøkelsesmyndigheten, har taushetsplikt etter forvaltningsloven om det som de får kjennskap til under utførelsen av sitt arbeid. <a data-id=\"lov/1967-02-10/§13b\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713b\">Forvaltningsloven § 13 b</a> første ledd nr. 6 gjelder likevel ikke.",
         "text": "Enhver som utfører tjeneste eller arbeid for undersøkelsesmyndigheten, har taushetsplikt etter forvaltningsloven om det som de får kjennskap til under utførelsen av sitt arbeid. Forvaltningsloven § 13 b første ledd nr. 6 gjelder likevel ikke."
     },
     {
@@ -549,7 +549,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Personer som nevnt i første ledd har i tillegg taushetsplikt om opplysninger som er fremkommet under forklaring for undersøkelsesmyndigheten etter § 16. Dette gjelder likevel ikke dersom opplysningene er nødvendige for å forklare ulykken eller hendelsen, eller dersom ingen berettiget interesse tilsier at de holdes hemmelige, for eksempel når de er alminnelig kjente eller alminnelig tilgjengelige andre steder.",
+        "html": "Personer som nevnt i første ledd har i tillegg taushetsplikt om opplysninger som er fremkommet under forklaring for undersøkelsesmyndigheten etter <a data-id=\"lov/2016-12-16-92/§16\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A716\">§ 16</a>. Dette gjelder likevel ikke dersom opplysningene er nødvendige for å forklare ulykken eller hendelsen, eller dersom ingen berettiget interesse tilsier at de holdes hemmelige, for eksempel når de er alminnelig kjente eller alminnelig tilgjengelige andre steder.",
         "text": "Personer som nevnt i første ledd har i tillegg taushetsplikt om opplysninger som er fremkommet under forklaring for undersøkelsesmyndigheten etter § 16. Dette gjelder likevel ikke dersom opplysningene er nødvendige for å forklare ulykken eller hendelsen, eller dersom ingen berettiget interesse tilsier at de holdes hemmelige, for eksempel når de er alminnelig kjente eller alminnelig tilgjengelige andre steder."
     },
     {
@@ -580,7 +580,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Undersøkelsesmyndigheten skal innenfor rammen av taushetsplikten etter § 19 fortløpende holde relevante tilsyn og myndigheter underrettet om forhold som avdekkes i løpet av undersøkelsen, og sine foreløpige vurderinger av disse, i den grad det anses nødvendig for sikkerheten i Forsvaret eller samfunnet for øvrig.",
+        "html": "Undersøkelsesmyndigheten skal innenfor rammen av taushetsplikten etter <a data-id=\"lov/2016-12-16-92/§19\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A719\">§ 19</a> fortløpende holde relevante tilsyn og myndigheter underrettet om forhold som avdekkes i løpet av undersøkelsen, og sine foreløpige vurderinger av disse, i den grad det anses nødvendig for sikkerheten i Forsvaret eller samfunnet for øvrig.",
         "text": "Undersøkelsesmyndigheten skal innenfor rammen av taushetsplikten etter § 19 fortløpende holde relevante tilsyn og myndigheter underrettet om forhold som avdekkes i løpet av undersøkelsen, og sine foreløpige vurderinger av disse, i den grad det anses nødvendig for sikkerheten i Forsvaret eller samfunnet for øvrig."
     },
     null,
@@ -599,7 +599,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når undersøkelsesmyndigheten har undersøkt et hendelsesforløp etter § 12, skal den utarbeide en rapport som skal oversendes til forsvarssjefen med gjenpart til departementet. Rapporten skal opplyse om hensikten med undersøkelsen. Rapporten skal redegjøre for hendelsesforløpet og inneholde undersøkelsesmyndighetens vurdering av årsaksforholdene. Så langt det er formålstjenlig, skal rapporten inneholde undersøkelsesmyndighetens eventuelle tilrådninger om tiltak som bør treffes eller vurderes for å hindre lignende ulykker eller hendelser i fremtiden.",
+        "html": "Når undersøkelsesmyndigheten har undersøkt et hendelsesforløp etter <a data-id=\"lov/2016-12-16-92/§12\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A712\">§ 12</a>, skal den utarbeide en rapport som skal oversendes til forsvarssjefen med gjenpart til departementet. Rapporten skal opplyse om hensikten med undersøkelsen. Rapporten skal redegjøre for hendelsesforløpet og inneholde undersøkelsesmyndighetens vurdering av årsaksforholdene. Så langt det er formålstjenlig, skal rapporten inneholde undersøkelsesmyndighetens eventuelle tilrådninger om tiltak som bør treffes eller vurderes for å hindre lignende ulykker eller hendelser i fremtiden.",
         "text": "Når undersøkelsesmyndigheten har undersøkt et hendelsesforløp etter § 12, skal den utarbeide en rapport som skal oversendes til forsvarssjefen med gjenpart til departementet. Rapporten skal opplyse om hensikten med undersøkelsen. Rapporten skal redegjøre for hendelsesforløpet og inneholde undersøkelsesmyndighetens vurdering av årsaksforholdene. Så langt det er formålstjenlig, skal rapporten inneholde undersøkelsesmyndighetens eventuelle tilrådninger om tiltak som bør treffes eller vurderes for å hindre lignende ulykker eller hendelser i fremtiden."
     },
     {
@@ -642,7 +642,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "De som er nevnt i § 18 første ledd har på anmodning rett til å få tilsendt utkastet til rapport hvis ikke særlige forhold eller reglene om taushetsplikt i § 19 er til hinder for det. Retten etter første punktum gjelder bare de delene av utkastet som vedkommende på grunn av sin tilknytning til saken eller undersøkelsen har særlige forutsetninger for å uttale seg om. Mottakeren skal gis en rimelig frist til å gi uttalelse.",
+        "html": "De som er nevnt i <a data-id=\"lov/2016-12-16-92/§18\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A718\">§ 18</a> første ledd har på anmodning rett til å få tilsendt utkastet til rapport hvis ikke særlige forhold eller reglene om taushetsplikt i <a data-id=\"lov/2016-12-16-92/§19\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A719\">§ 19</a> er til hinder for det. Retten etter første punktum gjelder bare de delene av utkastet som vedkommende på grunn av sin tilknytning til saken eller undersøkelsen har særlige forutsetninger for å uttale seg om. Mottakeren skal gis en rimelig frist til å gi uttalelse.",
         "text": "De som er nevnt i § 18 første ledd har på anmodning rett til å få tilsendt utkastet til rapport hvis ikke særlige forhold eller reglene om taushetsplikt i § 19 er til hinder for det. Retten etter første punktum gjelder bare de delene av utkastet som vedkommende på grunn av sin tilknytning til saken eller undersøkelsen har særlige forutsetninger for å uttale seg om. Mottakeren skal gis en rimelig frist til å gi uttalelse."
     },
     {
@@ -693,12 +693,12 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \">Forbud mot bruk av opplysninger som bevis i straffesak </em>",
-        "text": "Forbud mot bruk av opplysninger som bevis i straffesak"
+        "text": "Forbud mot bruk av opplysninger som bevis i straffesak "
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Opplysninger undersøkelsesmyndigheten mottar etter § 16 kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene.",
+        "html": "Opplysninger undersøkelsesmyndigheten mottar etter <a data-id=\"lov/2016-12-16-92/§16\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A716\">§ 16</a> kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene.",
         "text": "Opplysninger undersøkelsesmyndigheten mottar etter § 16 kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene."
     },
     null,
@@ -717,7 +717,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "En vernepliktig eller arbeidstaker som avgir forklaring etter § 16, skal ikke som følge av dette utsettes for noen form for sanksjoner fra den foresatte eller arbeidsgiveren.",
+        "html": "En vernepliktig eller arbeidstaker som avgir forklaring etter <a data-id=\"lov/2016-12-16-92/§16\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A716\">§ 16</a>, skal ikke som følge av dette utsettes for noen form for sanksjoner fra den foresatte eller arbeidsgiveren.",
         "text": "En vernepliktig eller arbeidstaker som avgir forklaring etter § 16, skal ikke som følge av dette utsettes for noen form for sanksjoner fra den foresatte eller arbeidsgiveren."
     },
     {
@@ -728,21 +728,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak som den foresatte eller arbeidsgiveren iverksetter med hovedformål å forbedre den vernepliktiges eller arbeidstakerens kvalifikasjoner.</td>\n</tr>",
-        "text": "a)tiltak som den foresatte eller arbeidsgiveren iverksetter med hovedformål å forbedre den vernepliktiges eller arbeidstakerens kvalifikasjoner."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak som den foresatte eller arbeidsgiveren iverksetter med hovedformål å forbedre den vernepliktiges eller arbeidstakerens kvalifikasjoner.</td>\n</tr>",
+        "text": "a)\ttiltak som den foresatte eller arbeidsgiveren iverksetter med hovedformål å forbedre den vernepliktiges eller arbeidstakerens kvalifikasjoner."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom de mottatte opplysningene viser at den vernepliktige eller arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling.</td>\n</tr>",
-        "text": "b)dersom de mottatte opplysningene viser at den vernepliktige eller arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom de mottatte opplysningene viser at den vernepliktige eller arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling.</td>\n</tr>",
+        "text": "b)\tdersom de mottatte opplysningene viser at den vernepliktige eller arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omstendigheter knyttet til den vernepliktige eller arbeidstakeren eller dennes handlinger og unnlatelser som er blitt kjent på annen måte enn gjennom dennes forklaring etter § 16.</td>\n</tr>",
-        "text": "c)omstendigheter knyttet til den vernepliktige eller arbeidstakeren eller dennes handlinger og unnlatelser som er blitt kjent på annen måte enn gjennom dennes forklaring etter § 16."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omstendigheter knyttet til den vernepliktige eller arbeidstakeren eller dennes handlinger og unnlatelser som er blitt kjent på annen måte enn gjennom dennes forklaring etter <a data-id=\"lov/2016-12-16-92/§16\" class=\" reference\" href=\"/lov/2016-12-16-92/%C2%A716\">§ 16</a>.</td>\n</tr>",
+        "text": "c)\tomstendigheter knyttet til den vernepliktige eller arbeidstakeren eller dennes handlinger og unnlatelser som er blitt kjent på annen måte enn gjennom dennes forklaring etter § 16."
     },
     null,
     {
@@ -785,7 +785,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Med virkning fra den tid loven trer i kraft, skal lov 11. juni 1993 nr. 101 om luftfart § 17-6 første ledd lyde:",
+        "html": "Med virkning fra den tid loven trer i kraft, skal <a data-id=\"lov/1993-06-11-101\" class=\" reference\" href=\"/lov/1993-06-11-101\">lov 11. juni 1993 nr. 101</a> om luftfart <a data-id=\"lov/1993-06-11-101/§17-6\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A717-6\">§ 17-6</a> første ledd lyde:",
         "text": "Med virkning fra den tid loven trer i kraft, skal lov 11. juni 1993 nr. 101 om luftfart § 17-6 første ledd lyde:"
     },
     {

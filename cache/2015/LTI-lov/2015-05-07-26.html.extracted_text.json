@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.38 L (2014–2015), Innst.223 L (2014–2015), Lovvedtak 59 (2014–2015). Stortingets første og andre gongs behandling hv. 9. og 28. april 2015. Fremja av Helse- og omsorgsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-38-l-201415\" class=\" reference\" href=\"/forarbeid/prop-38-l-201415\">Prop.38 L (2014–2015)</a>, <a data-id=\"forarbeid/inns-223-l-201415\" class=\" reference\" href=\"/forarbeid/inns-223-l-201415\">Innst.223 L (2014–2015)</a>, <a data-id=\"forarbeid/lovvedtak-59-201415\" class=\" reference\" href=\"/forarbeid/lovvedtak-59-201415\">Lovvedtak 59 (2014–2015)</a>. Stortingets første og andre gongs behandling hv. 9. og 28. april 2015. Fremja av Helse- og omsorgsdepartementet.",
         "text": "Prop.38 L (2014–2015), Innst.223 L (2014–2015), Lovvedtak 59 (2014–2015). Stortingets første og andre gongs behandling hv. 9. og 28. april 2015. Fremja av Helse- og omsorgsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 4. juni 1898 indeholdende visse Bestemmelser om Behandlingen af Lig",
+        "html": "<a data-id=\"lov/1898-06-04\" class=\" reference\" href=\"/lov/1898-06-04\">Lov 4. juni 1898</a> indeholdende visse Bestemmelser om Behandlingen af Lig",
         "text": "Lov 4. juni 1898 indeholdende visse Bestemmelser om Behandlingen af Lig"
     },
     {
@@ -25,21 +25,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd (gravferdsloven).</td>\n</tr>",
-        "text": "1Lov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd (gravferdsloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1996-06-07-32\" class=\" reference\" href=\"/lov/1996-06-07-32\">Lov 7. juni 1996 nr. 32</a> om gravplasser, kremasjon og gravferd (gravferdsloven).</td>\n</tr>",
+        "text": "1\tLov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd (gravferdsloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven).</td>\n</tr>",
-        "text": "2Lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2003-12-05-100\" class=\" reference\" href=\"/lov/2003-12-05-100\">Lov 5. desember 2003 nr. 100</a> om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven).</td>\n</tr>",
+        "text": "2\tLov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning (helseforskningsloven).</td>\n</tr>",
-        "text": "3Lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning (helseforskningsloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2008-06-20-44\" class=\" reference\" href=\"/lov/2008-06-20-44\">Lov 20. juni 2008 nr. 44</a> om medisinsk og helsefaglig forskning (helseforskningsloven).</td>\n</tr>",
+        "text": "3\tLov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning (helseforskningsloven)."
     },
     {
         "tag": "h2",
@@ -47,6 +47,7 @@
         "html": "Kapittel 1 Formål, verkeområde og definisjonar",
         "text": "Kapittel 1 Formål, verkeområde og definisjonar"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -68,22 +69,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bidra til at obduksjonar og anna behandling av lik blir utført på ein verdig måte med respekt for den døde og dei pårørande til den døde,</td>\n</tr>",
-        "text": "a)bidra til at obduksjonar og anna behandling av lik blir utført på ein verdig måte med respekt for den døde og dei pårørande til den døde,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bidra til at obduksjonar og anna behandling av lik blir utført på ein verdig måte med respekt for den døde og dei pårørande til den døde,</td>\n</tr>",
+        "text": "a)\tbidra til at obduksjonar og anna behandling av lik blir utført på ein verdig måte med respekt for den døde og dei pårørande til den døde,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gi kunnskap om dødsprosessar og dødsårsaker, og bidra til ein påliteleg dødsårsaksstatistikk, og</td>\n</tr>",
-        "text": "b)gi kunnskap om dødsprosessar og dødsårsaker, og bidra til ein påliteleg dødsårsaksstatistikk, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gi kunnskap om dødsprosessar og dødsårsaker, og bidra til ein påliteleg dødsårsaksstatistikk, og</td>\n</tr>",
+        "text": "b)\tgi kunnskap om dødsprosessar og dødsårsaker, og bidra til ein påliteleg dødsårsaksstatistikk, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">legge til rette for kvalitetssikring i helse- og omsorgstenesta og for undervisning og tileigning av kunnskap.</td>\n</tr>",
-        "text": "c)legge til rette for kvalitetssikring i helse- og omsorgstenesta og for undervisning og tileigning av kunnskap."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">legge til rette for kvalitetssikring i helse- og omsorgstenesta og for undervisning og tileigning av kunnskap.</td>\n</tr>",
+        "text": "c)\tlegge til rette for kvalitetssikring i helse- og omsorgstenesta og for undervisning og tileigning av kunnskap."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -100,7 +102,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lova gjeld for medisinsk obduksjon og donasjon av lekam til undervisning og forsking og anna behandling av lik. Reglane i § 7 gjeld tilsvarande for forsking på biologisk materiale som er tatt ut i samband med ein rettsmedisinsk obduksjon.",
+        "html": "Lova gjeld for medisinsk obduksjon og donasjon av lekam til undervisning og forsking og anna behandling av lik. Reglane i <a data-id=\"lov/2015-05-07-26/§7\" class=\" reference\" href=\"/lov/2015-05-07-26/%C2%A77\">§ 7</a> gjeld tilsvarande for forsking på biologisk materiale som er tatt ut i samband med ein rettsmedisinsk obduksjon.",
         "text": "Lova gjeld for medisinsk obduksjon og donasjon av lekam til undervisning og forsking og anna behandling av lik. Reglane i § 7 gjeld tilsvarande for forsking på biologisk materiale som er tatt ut i samband med ein rettsmedisinsk obduksjon."
     },
     {
@@ -109,6 +111,7 @@
         "html": "Kongen kan gi forskrift om at lova og forskrifter med heimel i lova heilt eller delvis skal gjelde for Svalbard og Jan Mayen og kan fastsette særlege reglar under omsyn til forholda på staden.",
         "text": "Kongen kan gi forskrift om at lova og forskrifter med heimel i lova heilt eller delvis skal gjelde for Svalbard og Jan Mayen og kan fastsette særlege reglar under omsyn til forholda på staden."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -130,27 +133,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">obduksjon: ei systematisk utvendig og innvendig medisinsk undersøking av ein død person der formålet er å påvise eller utelukke forandringar som er forårsaka av sjukdom eller skade</td>\n</tr>",
-        "text": "a)obduksjon: ei systematisk utvendig og innvendig medisinsk undersøking av ein død person der formålet er å påvise eller utelukke forandringar som er forårsaka av sjukdom eller skade"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">obduksjon: ei systematisk utvendig og innvendig medisinsk undersøking av ein død person der formålet er å påvise eller utelukke forandringar som er forårsaka av sjukdom eller skade</td>\n</tr>",
+        "text": "a)\tobduksjon: ei systematisk utvendig og innvendig medisinsk undersøking av ein død person der formålet er å påvise eller utelukke forandringar som er forårsaka av sjukdom eller skade"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinsk obduksjon: obduksjon som ein lege har kravd</td>\n</tr>",
-        "text": "b)medisinsk obduksjon: obduksjon som ein lege har kravd"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinsk obduksjon: obduksjon som ein lege har kravd</td>\n</tr>",
+        "text": "b)\tmedisinsk obduksjon: obduksjon som ein lege har kravd"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rettsmedisinsk obduksjon: obduksjon som er kravd etter straffeprosessloven § 228 om sakkyndig likundersøkelse</td>\n</tr>",
-        "text": "c)rettsmedisinsk obduksjon: obduksjon som er kravd etter straffeprosessloven § 228 om sakkyndig likundersøkelse"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rettsmedisinsk obduksjon: obduksjon som er kravd etter <a data-id=\"lov/1981-05-22-25/§228\" class=\" reference\" href=\"/lov/1981-05-22-25/%C2%A7228\">straffeprosessloven § 228</a> om sakkyndig likundersøkelse</td>\n</tr>",
+        "text": "c)\trettsmedisinsk obduksjon: obduksjon som er kravd etter straffeprosessloven § 228 om sakkyndig likundersøkelse"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">næraste pårørande: næraste pårørande etter pasient- og brukerrettighetsloven § 1-3 bokstav b.</td>\n</tr>",
-        "text": "d)næraste pårørande: næraste pårørande etter pasient- og brukerrettighetsloven § 1-3 bokstav b."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">næraste pårørande: næraste pårørande etter pasient- og <a data-id=\"lov/1999-07-02-63/§1-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A71-3\">brukerrettighetsloven § 1-3</a> bokstav b.</td>\n</tr>",
+        "text": "d)\tnæraste pårørande: næraste pårørande etter pasient- og brukerrettighetsloven § 1-3 bokstav b."
     },
     {
         "tag": "h2",
@@ -158,6 +161,7 @@
         "html": "Kapittel 2 Obduksjon",
         "text": "Kapittel 2 Obduksjon"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -177,6 +181,7 @@
         "html": "Dei regionale helseføretaka skal sørge for nødvendig kompetanse og kapasitet til å gjennomføre medisinske obduksjonar.",
         "text": "Dei regionale helseføretaka skal sørge for nødvendig kompetanse og kapasitet til å gjennomføre medisinske obduksjonar."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -215,6 +220,7 @@
         "text": "Departementet kan gi forskrift om framsetting av krav om obduksjon."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -230,7 +236,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom legen etter helsepersonelloven § 36 tredje ledd har plikt til å melde frå til politiet fordi det er grunn til å tru at dødsfallet er unaturleg, kan medisinsk obduksjon ikkje setjast i gang før politiet har avgjort at det ikkje skal gjennomførast ein rettsmedisinsk obduksjon.",
+        "html": "Dersom legen etter <a data-id=\"lov/1999-07-02-64/§36\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A736\">helsepersonelloven § 36</a> tredje ledd har plikt til å melde frå til politiet fordi det er grunn til å tru at dødsfallet er unaturleg, kan medisinsk obduksjon ikkje setjast i gang før politiet har avgjort at det ikkje skal gjennomførast ein rettsmedisinsk obduksjon.",
         "text": "Dersom legen etter helsepersonelloven § 36 tredje ledd har plikt til å melde frå til politiet fordi det er grunn til å tru at dødsfallet er unaturleg, kan medisinsk obduksjon ikkje setjast i gang før politiet har avgjort at det ikkje skal gjennomførast ein rettsmedisinsk obduksjon."
     },
     {
@@ -239,6 +245,7 @@
         "html": "Dersom det under ein medisinsk obduksjon blir avdekt forhold som tydar på unaturleg død, skal obduksjonen avbrytast og politiet underrettast utan opphald.",
         "text": "Dersom det under ein medisinsk obduksjon blir avdekt forhold som tydar på unaturleg død, skal obduksjonen avbrytast og politiet underrettast utan opphald."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -261,7 +268,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Medisinsk obduksjon kan ikkje gjennomførast dersom ein av dei næraste pårørande til den døde, jf. § 3 bokstav d, nektar obduksjon. Næraste pårørande til den døde skal, så sant det er mogeleg, informerast om at det er ønskeleg med obduksjon, kva den inneber og om mogelegheita for å nekte obduksjon.",
+        "html": "Medisinsk obduksjon kan ikkje gjennomførast dersom ein av dei næraste pårørande til den døde, jf. <a data-id=\"lov/2015-05-07-26/§3\" class=\" reference\" href=\"/lov/2015-05-07-26/%C2%A73\">§ 3</a> bokstav d, nektar obduksjon. Næraste pårørande til den døde skal, så sant det er mogeleg, informerast om at det er ønskeleg med obduksjon, kva den inneber og om mogelegheita for å nekte obduksjon.",
         "text": "Medisinsk obduksjon kan ikkje gjennomførast dersom ein av dei næraste pårørande til den døde, jf. § 3 bokstav d, nektar obduksjon. Næraste pårørande til den døde skal, så sant det er mogeleg, informerast om at det er ønskeleg med obduksjon, kva den inneber og om mogelegheita for å nekte obduksjon."
     },
     {
@@ -276,6 +283,7 @@
         "html": "Dersom det ligg føre særlege grunnar til at den døde bør obduserast, kan fylkesmannen tillate at obduksjon blir gjennomført sjølv om vilkåra i første og andre ledd ikkje er oppfylt.",
         "text": "Dersom det ligg føre særlege grunnar til at den døde bør obduserast, kan fylkesmannen tillate at obduksjon blir gjennomført sjølv om vilkåra i første og andre ledd ikkje er oppfylt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -314,6 +322,7 @@
         "text": "Kapittel 3 Anna behandling av lik"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -335,7 +344,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom det kan godtgjerast at det er i tråd med ønsket til ein avdød som hadde fylt 18 år, kan næraste pårørande, jf. § 3 bokstav d, samtykke til at kroppen kan brukast i undervisning og forsking.",
+        "html": "Dersom det kan godtgjerast at det er i tråd med ønsket til ein avdød som hadde fylt 18 år, kan næraste pårørande, jf. <a data-id=\"lov/2015-05-07-26/§3\" class=\" reference\" href=\"/lov/2015-05-07-26/%C2%A73\">§ 3</a> bokstav d, samtykke til at kroppen kan brukast i undervisning og forsking.",
         "text": "Dersom det kan godtgjerast at det er i tråd med ønsket til ein avdød som hadde fylt 18 år, kan næraste pårørande, jf. § 3 bokstav d, samtykke til at kroppen kan brukast i undervisning og forsking."
     },
     {
@@ -350,6 +359,7 @@
         "html": "Departementet kan gi forskrift om registrering og anna behandling av helseopplysingar og andre personopplysingar som er nødvendige for bruk av lik til undervisning og forsking.",
         "text": "Departementet kan gi forskrift om registrering og anna behandling av helseopplysingar og andre personopplysingar som er nødvendige for bruk av lik til undervisning og forsking."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -372,7 +382,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Institusjonar etter første ledd kan krevje å få utlevert lik som er gitt til undervisning og forsking. Eit lik kan ikkje krevjast utlevert før det er avklart at det ikkje vil bli kravd rettsmedisinsk obduksjon eller medisinsk obduksjon etter § 7 fjerde ledd.",
+        "html": "Institusjonar etter første ledd kan krevje å få utlevert lik som er gitt til undervisning og forsking. Eit lik kan ikkje krevjast utlevert før det er avklart at det ikkje vil bli kravd rettsmedisinsk obduksjon eller medisinsk obduksjon etter <a data-id=\"lov/2015-05-07-26/§7\" class=\" reference\" href=\"/lov/2015-05-07-26/%C2%A77\">§ 7</a> fjerde ledd.",
         "text": "Institusjonar etter første ledd kan krevje å få utlevert lik som er gitt til undervisning og forsking. Eit lik kan ikkje krevjast utlevert før det er avklart at det ikkje vil bli kravd rettsmedisinsk obduksjon eller medisinsk obduksjon etter § 7 fjerde ledd."
     },
     {
@@ -381,6 +391,7 @@
         "html": "Departementet kan gi forskrift om utlevering av lik til bruk i undervisning og forsking.",
         "text": "Departementet kan gi forskrift om utlevering av lik til bruk i undervisning og forsking."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -397,7 +408,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Eit lik som er utlevert etter § 10 andre ledd, skal tilbakeførast til dei pårørande for kremasjon innan to år etter dødsfallet. Næraste pårørande kan samtykke til at institusjonen kan behalde liket, eller delar av liket utover to år. Dersom den døde ikkje har pårørande, kan departementet samtykke til at institusjonen kan behalde liket eller delar av liket utover to år.",
+        "html": "Eit lik som er utlevert etter <a data-id=\"lov/2015-05-07-26/§10\" class=\" reference\" href=\"/lov/2015-05-07-26/%C2%A710\">§ 10</a> andre ledd, skal tilbakeførast til dei pårørande for kremasjon innan to år etter dødsfallet. Næraste pårørande kan samtykke til at institusjonen kan behalde liket, eller delar av liket utover to år. Dersom den døde ikkje har pårørande, kan departementet samtykke til at institusjonen kan behalde liket eller delar av liket utover to år.",
         "text": "Eit lik som er utlevert etter § 10 andre ledd, skal tilbakeførast til dei pårørande for kremasjon innan to år etter dødsfallet. Næraste pårørande kan samtykke til at institusjonen kan behalde liket, eller delar av liket utover to år. Dersom den døde ikkje har pårørande, kan departementet samtykke til at institusjonen kan behalde liket eller delar av liket utover to år."
     },
     {
@@ -406,6 +417,7 @@
         "html": "Departementet kan gi forskrift om bruk av lik i undervisning og forsking.",
         "text": "Departementet kan gi forskrift om bruk av lik i undervisning og forsking."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -426,6 +438,7 @@
         "text": "Kostnader til transport og kremasjon skal dekkjast av den institusjonen som har fått utlevert liket."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -444,6 +457,7 @@
         "html": "Nødvendig uttak av implantat før kremasjon skal utførast av helsepersonell. Slikt uttak krev ikkje samtykke.",
         "text": "Nødvendig uttak av implantat før kremasjon skal utførast av helsepersonell. Slikt uttak krev ikkje samtykke."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -476,6 +490,7 @@
         "text": "Kapittel 4 Pålegg, sanksjonar, straff og forholdet til andre lover"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -491,9 +506,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forvaltningsloven kapittel IV, V, VI og VIII gjeld ikkje for avgjerder som blir treft etter lova her. Heile forvaltningsloven gjeld likevel for avgjerder etter § 7 fjerde ledd.",
+        "html": "<a data-id=\"lov/1967-02-10/kapiv\" class=\" reference\" href=\"/lov/1967-02-10/kapiv\">Forvaltningsloven kapittel IV</a>, V, VI og VIII gjeld ikkje for avgjerder som blir treft etter lova her. Heile forvaltningsloven gjeld likevel for avgjerder etter <a data-id=\"lov/2015-05-07-26/§7\" class=\" reference\" href=\"/lov/2015-05-07-26/%C2%A77\">§ 7</a> fjerde ledd.",
         "text": "Forvaltningsloven kapittel IV, V, VI og VIII gjeld ikkje for avgjerder som blir treft etter lova her. Heile forvaltningsloven gjeld likevel for avgjerder etter § 7 fjerde ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -510,7 +526,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Spesialisthelsetjenesteloven §§ 7-1 og 7-2 gjeld tilsvarande ved brot på lova her og forskrifter gitt etter lova.",
+        "html": "<a data-id=\"lov/1999-07-02-61/§7-1\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A77-1\">Spesialisthelsetjenesteloven §§ 7-1</a> og <a data-id=\"lov/1999-07-02-61/§7-2\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A77-2\">7-2</a> gjeld tilsvarande ved brot på lova her og forskrifter gitt etter lova.",
         "text": "Spesialisthelsetjenesteloven §§ 7-1 og 7-2 gjeld tilsvarande ved brot på lova her og forskrifter gitt etter lova."
     },
     {
@@ -532,6 +548,7 @@
         "text": "Kapittel 5 Sluttføresegner"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -547,51 +564,52 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. skal § 1-2 tredje ledd lyde:",
+        "html": "I <a data-id=\"lov/2003-12-05-100\" class=\" reference\" href=\"/lov/2003-12-05-100\">lov 5. desember 2003 nr. 100</a> om humanmedisinsk bruk av bioteknologi m.m. skal <a data-id=\"lov/2003-12-05-100/§1-2\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A71-2\">§ 1-2</a> tredje ledd lyde:",
         "text": "I lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. skal § 1-2 tredje ledd lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven gjelder ikke for obduksjon som faller inn under lov 7. mai 2015 nr. 26 om obduksjon og avgjeving av lik til undervisning og forsking eller lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker § 228 om sakkyndig likundersøkelse.",
+        "html": "Loven gjelder ikke for obduksjon som faller inn under <a data-id=\"lov/2015-05-07-26\" class=\" reference\" href=\"/lov/2015-05-07-26\">lov 7. mai 2015 nr. 26</a> om obduksjon og avgjeving av lik til undervisning og forsking eller <a data-id=\"lov/1981-05-22-25\" class=\" reference\" href=\"/lov/1981-05-22-25\">lov 22. mai 1981 nr. 25</a> om rettergangsmåten i straffesaker <a data-id=\"lov/1981-05-22-25/§228\" class=\" reference\" href=\"/lov/1981-05-22-25/%C2%A7228\">§ 228</a> om sakkyndig likundersøkelse.",
         "text": "Loven gjelder ikke for obduksjon som faller inn under lov 7. mai 2015 nr. 26 om obduksjon og avgjeving av lik til undervisning og forsking eller lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker § 228 om sakkyndig likundersøkelse."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd skal § 13 første ledd lyde:",
+        "html": "I <a data-id=\"lov/1996-06-07-32\" class=\" reference\" href=\"/lov/1996-06-07-32\">lov 7. juni 1996 nr. 32</a> om gravplasser, kremasjon og gravferd skal <a data-id=\"lov/1996-06-07-32/§13\" class=\" reference\" href=\"/lov/1996-06-07-32/%C2%A713\">§ 13</a> første ledd lyde:",
         "text": "I lov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd skal § 13 første ledd lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fristene i § 10 annet ledd og § 12 gjelder ikke når avdødes legeme skal nyttes i samsvar med bestemmelsene i obduksjonslova eller det er besluttet sakkyndig likundersøkelse i medhold av straffeprosessloven § 228.",
+        "html": "Fristene i <a data-id=\"lov/1996-06-07-32/§10\" class=\" reference\" href=\"/lov/1996-06-07-32/%C2%A710\">§ 10</a> annet ledd og <a data-id=\"lov/1996-06-07-32/§12\" class=\" reference\" href=\"/lov/1996-06-07-32/%C2%A712\">§ 12</a> gjelder ikke når avdødes legeme skal nyttes i samsvar med bestemmelsene i obduksjonslova eller det er besluttet sakkyndig likundersøkelse i medhold av <a data-id=\"lov/1981-05-22-25/§228\" class=\" reference\" href=\"/lov/1981-05-22-25/%C2%A7228\">straffeprosessloven § 228</a>.",
         "text": "Fristene i § 10 annet ledd og § 12 gjelder ikke når avdødes legeme skal nyttes i samsvar med bestemmelsene i obduksjonslova eller det er besluttet sakkyndig likundersøkelse i medhold av straffeprosessloven § 228."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning skal § 21 lyde:",
+        "html": "I <a data-id=\"lov/2008-06-20-44\" class=\" reference\" href=\"/lov/2008-06-20-44\">lov 20. juni 2008 nr. 44</a> om medisinsk og helsefaglig forskning skal <a data-id=\"lov/2008-06-20-44/§21\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A721\">§ 21</a> lyde:",
         "text": "I lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning skal § 21 lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 21. <em class=\" \">Forskning på humant biologisk materiale fra døde</em>",
+        "html": "<a data-id=\"lov/2008-06-20-44/§21\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A721\">§ 21</a>. <em class=\" \">Forskning på humant biologisk materiale fra døde</em>",
         "text": "§ 21. Forskning på humant biologisk materiale fra døde"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For forskning på biologisk materiale som tas ut fra avdøde gjelder obduksjonslova § 7 første til tredje ledd om informasjon og nærmeste pårørendes rett til å nekte donasjon mv.",
+        "html": "For forskning på biologisk materiale som tas ut fra avdøde gjelder <a data-id=\"lov/2015-05-07-26/§7\" class=\" reference\" href=\"/lov/2015-05-07-26/%C2%A77\">obduksjonslova § 7</a> første til tredje ledd om informasjon og nærmeste pårørendes rett til å nekte donasjon mv.",
         "text": "For forskning på biologisk materiale som tas ut fra avdøde gjelder obduksjonslova § 7 første til tredje ledd om informasjon og nærmeste pårørendes rett til å nekte donasjon mv."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 4. juni 1898 indeholdende visse Bestemmelser om Behandlingen af Lig opphevast.",
+        "html": "<a data-id=\"lov/1898-06-04\" class=\" reference\" href=\"/lov/1898-06-04\">Lov 4. juni 1898</a> indeholdende visse Bestemmelser om Behandlingen af Lig opphevast.",
         "text": "Lov 4. juni 1898 indeholdende visse Bestemmelser om Behandlingen af Lig opphevast."
     },
+    null,
     null,
     {
         "tag": "span",

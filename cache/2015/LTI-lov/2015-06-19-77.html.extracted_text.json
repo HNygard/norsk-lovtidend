@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.87 L (2014–2015), Innst.274 L (2014–2015), Lovvedtak 74 (2014–2015). Stortingets første og andre gongs behandling hv. 1. og 8. juni 2015. Fremja av Nærings- og fiskeridepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-87-l-201415\" class=\" reference\" href=\"/forarbeid/prop-87-l-201415\">Prop.87 L (2014–2015)</a>, <a data-id=\"forarbeid/inns-274-l-201415\" class=\" reference\" href=\"/forarbeid/inns-274-l-201415\">Innst.274 L (2014–2015)</a>, <a data-id=\"forarbeid/lovvedtak-74-201415\" class=\" reference\" href=\"/forarbeid/lovvedtak-74-201415\">Lovvedtak 74 (2014–2015)</a>. Stortingets første og andre gongs behandling hv. 1. og 8. juni 2015. Fremja av Nærings- og fiskeridepartementet.",
         "text": "Prop.87 L (2014–2015), Innst.274 L (2014–2015), Lovvedtak 74 (2014–2015). Stortingets første og andre gongs behandling hv. 1. og 8. juni 2015. Fremja av Nærings- og fiskeridepartementet."
     },
     {
@@ -13,21 +13,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 21. juni 1985 nr. 78 om registrering av foretak.</td>\n</tr>",
-        "text": "1Lov 21. juni 1985 nr. 78 om registrering av foretak."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1985-06-21-78\" class=\" reference\" href=\"/lov/1985-06-21-78\">Lov 21. juni 1985 nr. 78</a> om registrering av foretak.</td>\n</tr>",
+        "text": "1\tLov 21. juni 1985 nr. 78 om registrering av foretak."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 21. juni 1985 nr. 79 om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven).</td>\n</tr>",
-        "text": "2Lov 21. juni 1985 nr. 79 om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1985-06-21-79\" class=\" reference\" href=\"/lov/1985-06-21-79\">Lov 21. juni 1985 nr. 79</a> om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven).</td>\n</tr>",
+        "text": "2\tLov 21. juni 1985 nr. 79 om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 3. juni 1994 nr. 15 om Enhetsregisteret.</td>\n</tr>",
-        "text": "3Lov 3. juni 1994 nr. 15 om Enhetsregisteret."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1994-06-03-15\" class=\" reference\" href=\"/lov/1994-06-03-15\">Lov 3. juni 1994 nr. 15</a> om Enhetsregisteret.</td>\n</tr>",
+        "text": "3\tLov 3. juni 1994 nr. 15 om Enhetsregisteret."
     },
     {
         "tag": "h2",
@@ -38,7 +38,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 3. juni 1994 nr. 15 om Enhetsregisteret blir det gjort desse endringane:",
+        "html": "I <a data-id=\"lov/1994-06-03-15\" class=\" reference\" href=\"/lov/1994-06-03-15\">lov 3. juni 1994 nr. 15</a> om Enhetsregisteret blir det gjort desse endringane:",
         "text": "I lov 3. juni 1994 nr. 15 om Enhetsregisteret blir det gjort desse endringane:"
     },
     {
@@ -49,9 +49,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Statistisk sentralbyrås Virksomhets- og foretaksregister (statistikkloven § 2-2).</td>\n</tr>",
-        "text": "5.Statistisk sentralbyrås Virksomhets- og foretaksregister (statistikkloven § 2-2)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Statistisk sentralbyrås Virksomhets- og foretaksregister (<a data-id=\"lov/1989-06-16-54/§2-2\" class=\" reference\" href=\"/lov/1989-06-16-54/%C2%A72-2\">statistikkloven § 2-2</a>).</td>\n</tr>",
+        "text": "5.\tStatistisk sentralbyrås Virksomhets- og foretaksregister (statistikkloven § 2-2)."
     },
     {
         "tag": "p",
@@ -61,9 +61,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Enkeltpersonforetak.</td>\n</tr>",
-        "text": "c)Enkeltpersonforetak."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Enkeltpersonforetak.</td>\n</tr>",
+        "text": "c)\tEnkeltpersonforetak."
     },
     {
         "tag": "p",
@@ -80,7 +80,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 21. juni 1985 nr. 78 om registrering av foretak blir det gjort desse endringane:",
+        "html": "I <a data-id=\"lov/1985-06-21-78\" class=\" reference\" href=\"/lov/1985-06-21-78\">lov 21. juni 1985 nr. 78</a> om registrering av foretak blir det gjort desse endringane:",
         "text": "I lov 21. juni 1985 nr. 78 om registrering av foretak blir det gjort desse endringane:"
     },
     {
@@ -103,9 +103,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I aksjeselskap og allmennaksjeselskap skal de meldepliktige opplyse om aksjetegning er skjedd uten prospekt som nevnt i verdipapirhandelloven § 7-2. De meldepliktige skal i tilfelle vedlegge en underskrevet erklæring om hvorfor prospekt ikke var nødvendig. Er prospekt nødvendig, skal prospektet og alt annet tegningsmateriale vedlegges, og de meldepliktige skal bekrefte at alt tegningsmaterialet er innsendt til Finanstilsynet i samsvar med verdipapirhandelloven § 7-7 eller til Foretaksregisteret i samsvar med verdipapirhandelloven § 7-10. Plikten etter første punktum til å vedlegge prospekt gjelder ikke dersom prospektet allerede er innsendt til Foretaksregisteret i samsvar med verdipapirhandelloven § 7-10. Disse reglene kommer tilsvarende til anvendelse på grunnfondsbevis.</td>\n</tr>",
-        "text": "g)I aksjeselskap og allmennaksjeselskap skal de meldepliktige opplyse om aksjetegning er skjedd uten prospekt som nevnt i verdipapirhandelloven § 7-2. De meldepliktige skal i tilfelle vedlegge en underskrevet erklæring om hvorfor prospekt ikke var nødvendig. Er prospekt nødvendig, skal prospektet og alt annet tegningsmateriale vedlegges, og de meldepliktige skal bekrefte at alt tegningsmaterialet er innsendt til Finanstilsynet i samsvar med verdipapirhandelloven § 7-7 eller til Foretaksregisteret i samsvar med verdipapirhandelloven § 7-10. Plikten etter første punktum til å vedlegge prospekt gjelder ikke dersom prospektet allerede er innsendt til Foretaksregisteret i samsvar med verdipapirhandelloven § 7-10. Disse reglene kommer tilsvarende til anvendelse på grunnfondsbevis."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I aksjeselskap og allmennaksjeselskap skal de meldepliktige opplyse om aksjetegning er skjedd uten prospekt som nevnt i <a data-id=\"lov/2007-06-29-75/§7-2\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A77-2\">verdipapirhandelloven § 7-2</a>. De meldepliktige skal i tilfelle vedlegge en underskrevet erklæring om hvorfor prospekt ikke var nødvendig. Er prospekt nødvendig, skal prospektet og alt annet tegningsmateriale vedlegges, og de meldepliktige skal bekrefte at alt tegningsmaterialet er innsendt til Finanstilsynet i samsvar med <a data-id=\"lov/2007-06-29-75/§7-7\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A77-7\">verdipapirhandelloven § 7-7</a> eller til Foretaksregisteret i samsvar med <a data-id=\"lov/2007-06-29-75/§7-10\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A77-10\">verdipapirhandelloven § 7-10</a>. Plikten etter første punktum til å vedlegge prospekt gjelder ikke dersom prospektet allerede er innsendt til Foretaksregisteret i samsvar med <a data-id=\"lov/2007-06-29-75/§7-10\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A77-10\">verdipapirhandelloven § 7-10</a>. Disse reglene kommer tilsvarende til anvendelse på grunnfondsbevis.</td>\n</tr>",
+        "text": "g)\tI aksjeselskap og allmennaksjeselskap skal de meldepliktige opplyse om aksjetegning er skjedd uten prospekt som nevnt i verdipapirhandelloven § 7-2. De meldepliktige skal i tilfelle vedlegge en underskrevet erklæring om hvorfor prospekt ikke var nødvendig. Er prospekt nødvendig, skal prospektet og alt annet tegningsmateriale vedlegges, og de meldepliktige skal bekrefte at alt tegningsmaterialet er innsendt til Finanstilsynet i samsvar med verdipapirhandelloven § 7-7 eller til Foretaksregisteret i samsvar med verdipapirhandelloven § 7-10. Plikten etter første punktum til å vedlegge prospekt gjelder ikke dersom prospektet allerede er innsendt til Foretaksregisteret i samsvar med verdipapirhandelloven § 7-10. Disse reglene kommer tilsvarende til anvendelse på grunnfondsbevis."
     },
     {
         "tag": "p",
@@ -116,7 +116,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når grunnlaget for det som innkommer til registrering er tegning av aksje eller grunnfondsbevis, skal registerføreren prøve om prospekt var nødvendig og i tilfelle om prospekt er innsendt til Finanstilsynet for kontroll som nevnt i verdipapirhandelloven § 7-7 eller til Foretaksregisteret for registrering som nevnt i verdipapirhandelloven § 7-10. Er det nedlagt forbud som nevnt i verdipapirhandelloven § 7-8 fjerde ledd, kan registrering ikke skje før forbudet eventuelt er omgjort.",
+        "html": "Når grunnlaget for det som innkommer til registrering er tegning av aksje eller grunnfondsbevis, skal registerføreren prøve om prospekt var nødvendig og i tilfelle om prospekt er innsendt til Finanstilsynet for kontroll som nevnt i <a data-id=\"lov/2007-06-29-75/§7-7\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A77-7\">verdipapirhandelloven § 7-7</a> eller til Foretaksregisteret for registrering som nevnt i <a data-id=\"lov/2007-06-29-75/§7-10\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A77-10\">verdipapirhandelloven § 7-10</a>. Er det nedlagt forbud som nevnt i <a data-id=\"lov/2007-06-29-75/§7-8\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A77-8\">verdipapirhandelloven § 7-8</a> fjerde ledd, kan registrering ikke skje før forbudet eventuelt er omgjort.",
         "text": "Når grunnlaget for det som innkommer til registrering er tegning av aksje eller grunnfondsbevis, skal registerføreren prøve om prospekt var nødvendig og i tilfelle om prospekt er innsendt til Finanstilsynet for kontroll som nevnt i verdipapirhandelloven § 7-7 eller til Foretaksregisteret for registrering som nevnt i verdipapirhandelloven § 7-10. Er det nedlagt forbud som nevnt i verdipapirhandelloven § 7-8 fjerde ledd, kan registrering ikke skje før forbudet eventuelt er omgjort."
     },
     {
@@ -134,7 +134,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 21. juni 1985 nr. 79 om enerett til foretaksnavn og andre forretningskjennetegn mv. blir det gjort desse endringane:",
+        "html": "I <a data-id=\"lov/1985-06-21-79\" class=\" reference\" href=\"/lov/1985-06-21-79\">lov 21. juni 1985 nr. 79</a> om enerett til foretaksnavn og andre forretningskjennetegn mv. blir det gjort desse endringane:",
         "text": "I lov 21. juni 1985 nr. 79 om enerett til foretaksnavn og andre forretningskjennetegn mv. blir det gjort desse endringane:"
     },
     {
@@ -170,7 +170,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Trer en juridisk person i likvidasjon eller åpnes det gjeldsforhandling eller konkurs hos innehaveren av et foretaksnavn skal foretaksnavnet ved tegning av foretaksnavnet gis en tilføyelse som angir dette, jf. lov 21. juni 1985 nr. 78 om registrering av foretak § 10-2.",
+        "html": "Trer en juridisk person i likvidasjon eller åpnes det gjeldsforhandling eller konkurs hos innehaveren av et foretaksnavn skal foretaksnavnet ved tegning av foretaksnavnet gis en tilføyelse som angir dette, jf. <a data-id=\"lov/1985-06-21-78\" class=\" reference\" href=\"/lov/1985-06-21-78\">lov 21. juni 1985 nr. 78</a> om registrering av foretak <a data-id=\"lov/1985-06-21-78/§10-2\" class=\" reference\" href=\"/lov/1985-06-21-78/%C2%A710-2\">§ 10-2</a>.",
         "text": "Trer en juridisk person i likvidasjon eller åpnes det gjeldsforhandling eller konkurs hos innehaveren av et foretaksnavn skal foretaksnavnet ved tegning av foretaksnavnet gis en tilføyelse som angir dette, jf. lov 21. juni 1985 nr. 78 om registrering av foretak § 10-2."
     },
     {

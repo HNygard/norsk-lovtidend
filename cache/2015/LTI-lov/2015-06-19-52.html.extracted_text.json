@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.120 LS (2014–2015), Innst.355 L (2014–2015), Lovvedtak 116 (2014–2015). Stortingets første og andre gongs behandling hv. 15. og 18. juni 2015. Fremja av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-120-ls-201415\" class=\" reference\" href=\"/forarbeid/prop-120-ls-201415\">Prop.120 LS (2014–2015)</a>, <a data-id=\"forarbeid/inns-355-l-201415\" class=\" reference\" href=\"/forarbeid/inns-355-l-201415\">Innst.355 L (2014–2015)</a>, <a data-id=\"forarbeid/lovvedtak-116-201415\" class=\" reference\" href=\"/forarbeid/lovvedtak-116-201415\">Lovvedtak 116 (2014–2015)</a>. Stortingets første og andre gongs behandling hv. 15. og 18. juni 2015. Fremja av Finansdepartementet.",
         "text": "Prop.120 LS (2014–2015), Innst.355 L (2014–2015), Lovvedtak 116 (2014–2015). Stortingets første og andre gongs behandling hv. 15. og 18. juni 2015. Fremja av Finansdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven).",
+        "html": "<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).",
         "text": "Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter §§ 6-46, 6-47 og 6-72.</td>\n</tr>",
-        "text": "c)utbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter §§ 6-46, 6-47 og 6-72."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter §§ 6-46, 6-47 og 6-72.</td>\n</tr>",
+        "text": "c)\tutbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter §§ 6-46, 6-47 og 6-72."
     },
     {
         "tag": "p",
@@ -85,9 +85,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd til pensjonsordning, jf. §§ 6-47 a og b og 6-72.</td>\n</tr>",
-        "text": "c.tilskudd til pensjonsordning, jf. §§ 6-47 a og b og 6-72."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd til pensjonsordning, jf. §§ 6-47 a og b og 6-72.</td>\n</tr>",
+        "text": "c.\ttilskudd til pensjonsordning, jf. §§ 6-47 a og b og 6-72."
     },
     {
         "tag": "p",
@@ -116,13 +116,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Statsborger i en EØS-stat som har inntekt fra arbeid, gis fradrag for tilskudd til utenlandsk pensjonsordning vedkommende er medlem av ved etablering av skatteplikt til Norge. Arbeidsgiver gis fradrag for tilskudd til utenlandsk pensjonsordning som nevnt i første punktum. Fradrag for tilskudd til utenlandsk pensjonsordning etter denne bestemmelsen kan ikke overstige grensene for innskudd etter tjenestepensjonsloven § 4-7 første og annet ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Statsborger i en EØS-stat som har inntekt fra arbeid, gis fradrag for tilskudd til utenlandsk pensjonsordning vedkommende er medlem av ved etablering av skatteplikt til Norge. Arbeidsgiver gis fradrag for tilskudd til utenlandsk pensjonsordning som nevnt i første punktum. Fradrag for tilskudd til utenlandsk pensjonsordning etter denne bestemmelsen kan ikke overstige grensene for innskudd etter <a data-id=\"lov/2013-12-13-106/§4-7\" class=\" reference\" href=\"/lov/2013-12-13-106/%C2%A74-7\">tjenestepensjonsloven § 4-7</a> første og annet ledd.</td></tr>",
         "text": "(1) Statsborger i en EØS-stat som har inntekt fra arbeid, gis fradrag for tilskudd til utenlandsk pensjonsordning vedkommende er medlem av ved etablering av skatteplikt til Norge. Arbeidsgiver gis fradrag for tilskudd til utenlandsk pensjonsordning som nevnt i første punktum. Fradrag for tilskudd til utenlandsk pensjonsordning etter denne bestemmelsen kan ikke overstige grensene for innskudd etter tjenestepensjonsloven § 4-7 første og annet ledd."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Statsborger i en EØS-stat som har inntekt fra virksomhet, gis fradrag for tilskudd til utenlandsk pensjonsordning vedkommende er medlem av ved etablering av skatteplikt til Norge. Fradrag for tilskudd til utenlandsk pensjonsordning etter denne bestemmelsen kan ikke overstige grensene for innskudd etter innskuddspensjonsloven § 2-3 annet ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Statsborger i en EØS-stat som har inntekt fra virksomhet, gis fradrag for tilskudd til utenlandsk pensjonsordning vedkommende er medlem av ved etablering av skatteplikt til Norge. Fradrag for tilskudd til utenlandsk pensjonsordning etter denne bestemmelsen kan ikke overstige grensene for innskudd etter <a data-id=\"lov/2000-11-24-81/§2-3\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A72-3\">innskuddspensjonsloven § 2-3</a> annet ledd.</td></tr>",
         "text": "(2) Statsborger i en EØS-stat som har inntekt fra virksomhet, gis fradrag for tilskudd til utenlandsk pensjonsordning vedkommende er medlem av ved etablering av skatteplikt til Norge. Fradrag for tilskudd til utenlandsk pensjonsordning etter denne bestemmelsen kan ikke overstige grensene for innskudd etter innskuddspensjonsloven § 2-3 annet ledd."
     },
     {
@@ -145,9 +145,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Fra et selskap som nevnt i første ledd bokstav a, b eller e til et tilsvarende selskap hjemmehørende i en stat Norge har inngått skatteavtale med. Ved overføring etter denne bestemmelsen fra selskap som nevnt i bokstav e, er det et vilkår at Norge etter folkerettslig overenskomst med den andre staten kan kreve bistand til innfordring.</td>\n</tr>",
-        "text": "c.Fra et selskap som nevnt i første ledd bokstav a, b eller e til et tilsvarende selskap hjemmehørende i en stat Norge har inngått skatteavtale med. Ved overføring etter denne bestemmelsen fra selskap som nevnt i bokstav e, er det et vilkår at Norge etter folkerettslig overenskomst med den andre staten kan kreve bistand til innfordring."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Fra et selskap som nevnt i første ledd bokstav a, b eller e til et tilsvarende selskap hjemmehørende i en stat Norge har inngått skatteavtale med. Ved overføring etter denne bestemmelsen fra selskap som nevnt i bokstav e, er det et vilkår at Norge etter folkerettslig overenskomst med den andre staten kan kreve bistand til innfordring.</td>\n</tr>",
+        "text": "c.\tFra et selskap som nevnt i første ledd bokstav a, b eller e til et tilsvarende selskap hjemmehørende i en stat Norge har inngått skatteavtale med. Ved overføring etter denne bestemmelsen fra selskap som nevnt i bokstav e, er det et vilkår at Norge etter folkerettslig overenskomst med den andre staten kan kreve bistand til innfordring."
     },
     {
         "tag": "h2",
@@ -158,7 +158,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endring:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven) gjer ein følgjande endring:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endring:"
     },
     {
@@ -169,9 +169,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan i forskrift gi nærmere bestemmelser om verdsetting av kraft som forbrukes i skattyters produksjonsvirksomhet, og kraft som tas ut av eier og forbrukes i egen produksjonsvirksomhet, herunder selskap i samme konsern, til markedspris.</td>\n</tr>",
-        "text": "3.Departementet kan i forskrift gi nærmere bestemmelser om verdsetting av kraft som forbrukes i skattyters produksjonsvirksomhet, og kraft som tas ut av eier og forbrukes i egen produksjonsvirksomhet, herunder selskap i samme konsern, til markedspris."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan i forskrift gi nærmere bestemmelser om verdsetting av kraft som forbrukes i skattyters produksjonsvirksomhet, og kraft som tas ut av eier og forbrukes i egen produksjonsvirksomhet, herunder selskap i samme konsern, til markedspris.</td>\n</tr>",
+        "text": "3.\tDepartementet kan i forskrift gi nærmere bestemmelser om verdsetting av kraft som forbrukes i skattyters produksjonsvirksomhet, og kraft som tas ut av eier og forbrukes i egen produksjonsvirksomhet, herunder selskap i samme konsern, til markedspris."
     },
     {
         "tag": "h2",
@@ -182,7 +182,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endring:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven) gjer ein følgjande endring:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endring:"
     },
     {
@@ -206,7 +206,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:"
     },
     {

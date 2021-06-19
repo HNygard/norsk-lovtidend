@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Innst.51 L (2016–2017), Lovvedtak 33 (2016–2017), Lovanmerkning 1 (2016–2017). Stortingets første, andre og tredje gangs behandling hhv. 12., 16. og 20. desember 2016. Fremmet av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/inns-51-l-201617\" class=\" reference\" href=\"/forarbeid/inns-51-l-201617\">Innst.51 L (2016–2017)</a>, <a data-id=\"forarbeid/lovvedtak-33-201617\" class=\" reference\" href=\"/forarbeid/lovvedtak-33-201617\">Lovvedtak 33 (2016–2017)</a>, Lovanmerkning 1 (2016–2017). Stortingets første, andre og tredje gangs behandling hhv. 12., 16. og 20. desember 2016. Fremmet av Finansdepartementet.",
         "text": "Innst.51 L (2016–2017), Lovvedtak 33 (2016–2017), Lovanmerkning 1 (2016–2017). Stortingets første, andre og tredje gangs behandling hhv. 12., 16. og 20. desember 2016. Fremmet av Finansdepartementet."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 16. desember 2011 nr. 61 om godtgjørelse for stortingsrepresentanter (stortingsgodtgjørelsesloven).</td>\n</tr>",
-        "text": "1Lov 16. desember 2011 nr. 61 om godtgjørelse for stortingsrepresentanter (stortingsgodtgjørelsesloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2011-12-16-61\" class=\" reference\" href=\"/lov/2011-12-16-61\">Lov 16. desember 2011 nr. 61</a> om godtgjørelse for stortingsrepresentanter (stortingsgodtgjørelsesloven).</td>\n</tr>",
+        "text": "1\tLov 16. desember 2011 nr. 61 om godtgjørelse for stortingsrepresentanter (stortingsgodtgjørelsesloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Forskrift 8. desember 2011 nr. 1265 om godtgjørelse for stortingsrepresentanter (stortingsgodtgjørelsesforskriften).</td>\n</tr>",
-        "text": "2Forskrift 8. desember 2011 nr. 1265 om godtgjørelse for stortingsrepresentanter (stortingsgodtgjørelsesforskriften)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"forskrift/2011-12-08-1265\" class=\" reference\" href=\"/forskrift/2011-12-08-1265\">Forskrift 8. desember 2011 nr. 1265</a> om godtgjørelse for stortingsrepresentanter (stortingsgodtgjørelsesforskriften).</td>\n</tr>",
+        "text": "2\tForskrift 8. desember 2011 nr. 1265 om godtgjørelse for stortingsrepresentanter (stortingsgodtgjørelsesforskriften)."
     },
     {
         "tag": "h2",
@@ -29,6 +29,7 @@
         "html": "Kapittel I. Innledende bestemmelser",
         "text": "Kapittel I. Innledende bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -45,7 +46,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven har bestemmelser om den godtgjørelse som tilkommer stortingsrepresentanter etter Grunnloven § 65 samt regler om dekning av utgifter mv.",
+        "html": "Loven har bestemmelser om den godtgjørelse som tilkommer stortingsrepresentanter etter <a data-id=\"lov/1814-05-17/§65\" class=\" reference\" href=\"/lov/1814-05-17/%C2%A765\">Grunnloven § 65</a> samt regler om dekning av utgifter mv.",
         "text": "Loven har bestemmelser om den godtgjørelse som tilkommer stortingsrepresentanter etter Grunnloven § 65 samt regler om dekning av utgifter mv."
     },
     {
@@ -66,6 +67,7 @@
         "html": "Som innkalte vararepresentanter regnes representanter som møter for stortingsrepresentanter i andre tilfeller enn dem som er nevnt i tredje ledd.",
         "text": "Som innkalte vararepresentanter regnes representanter som møter for stortingsrepresentanter i andre tilfeller enn dem som er nevnt i tredje ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -98,6 +100,7 @@
         "text": "Kapittel II. Godtgjørelsen"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -113,7 +116,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Stortingets president tilkommer samme godtgjørelse som statsministeren. For øvrig fastsettes samme godtgjørelse til alle stortingsrepresentanter, med de tillegg som fremgår av § 5.",
+        "html": "Stortingets president tilkommer samme godtgjørelse som statsministeren. For øvrig fastsettes samme godtgjørelse til alle stortingsrepresentanter, med de tillegg som fremgår av <a data-id=\"lov/2016-12-20-106/§5\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A75\">§ 5</a>.",
         "text": "Stortingets president tilkommer samme godtgjørelse som statsministeren. For øvrig fastsettes samme godtgjørelse til alle stortingsrepresentanter, med de tillegg som fremgår av § 5."
     },
     {
@@ -122,6 +125,7 @@
         "html": "Den årlige godtgjørelsen utbetales med 1/12 hver måned. Dette gjelder også for fast møtende vararepresentanter i den perioden de møter.",
         "text": "Den årlige godtgjørelsen utbetales med 1/12 hver måned. Dette gjelder også for fast møtende vararepresentanter i den perioden de møter."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -149,21 +153,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I perioder uten møter i plenum, når vararepresentanten møter for en representant som må antas å fortsette sitt fravær også etter den aktuelle perioden.</td>\n</tr>",
-        "text": "a)I perioder uten møter i plenum, når vararepresentanten møter for en representant som må antas å fortsette sitt fravær også etter den aktuelle perioden."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I perioder uten møter i plenum, når vararepresentanten møter for en representant som må antas å fortsette sitt fravær også etter den aktuelle perioden.</td>\n</tr>",
+        "text": "a)\tI perioder uten møter i plenum, når vararepresentanten møter for en representant som må antas å fortsette sitt fravær også etter den aktuelle perioden."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ut kalenderåret etter siste innkallingsdag før jul hvis vararepresentanten har møtt minst to måneder i sesjonen og ikke har annen inntekt i den perioden det søkes om å beholde godtgjørelsen.</td>\n</tr>",
-        "text": "b)Ut kalenderåret etter siste innkallingsdag før jul hvis vararepresentanten har møtt minst to måneder i sesjonen og ikke har annen inntekt i den perioden det søkes om å beholde godtgjørelsen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ut kalenderåret etter siste innkallingsdag før jul hvis vararepresentanten har møtt minst to måneder i sesjonen og ikke har annen inntekt i den perioden det søkes om å beholde godtgjørelsen.</td>\n</tr>",
+        "text": "b)\tUt kalenderåret etter siste innkallingsdag før jul hvis vararepresentanten har møtt minst to måneder i sesjonen og ikke har annen inntekt i den perioden det søkes om å beholde godtgjørelsen."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I andre særlige tilfeller.</td>\n</tr>",
-        "text": "c)I andre særlige tilfeller."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I andre særlige tilfeller.</td>\n</tr>",
+        "text": "c)\tI andre særlige tilfeller."
     },
     {
         "tag": "p",
@@ -171,6 +175,7 @@
         "html": "Innkalte vararepresentanters opptjente godtgjørelse utbetales månedlig.",
         "text": "Innkalte vararepresentanters opptjente godtgjørelse utbetales månedlig."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -197,6 +202,7 @@
         "text": "Lederne for Stortingets fagkomiteer tilkommer en tilleggsgodtgjørelse på 7 prosent av den årlige godtgjørelsen. Den som fungerer som komitéleder ut over fem dager, tilkommer tilsvarende tilleggsgodtgjørelse som komitélederen for den tid fungeringen varer."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -215,6 +221,7 @@
         "html": "Representantene kan etter søknad i særskilte tilfeller gis inntil to måneders godtgjørelse utbetalt på forskudd. Vilkårene for rett til forskudd og reglene for tilbakebetaling er de samme som for ansatte i staten.",
         "text": "Representantene kan etter søknad i særskilte tilfeller gis inntil to måneders godtgjørelse utbetalt på forskudd. Vilkårene for rett til forskudd og reglene for tilbakebetaling er de samme som for ansatte i staten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -242,27 +249,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved permisjon på grunn av representantens sykdom eller skade.</td>\n</tr>",
-        "text": "a)Ved permisjon på grunn av representantens sykdom eller skade."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved permisjon på grunn av representantens sykdom eller skade.</td>\n</tr>",
+        "text": "a)\tVed permisjon på grunn av representantens sykdom eller skade."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved permisjon til deltakelse på reise som medlem av delegasjon oppnevnt av Stortinget eller Stortingets presidentskap.</td>\n</tr>",
-        "text": "b)Ved permisjon til deltakelse på reise som medlem av delegasjon oppnevnt av Stortinget eller Stortingets presidentskap."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved permisjon til deltakelse på reise som medlem av delegasjon oppnevnt av Stortinget eller Stortingets presidentskap.</td>\n</tr>",
+        "text": "b)\tVed permisjon til deltakelse på reise som medlem av delegasjon oppnevnt av Stortinget eller Stortingets presidentskap."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved permisjon for å delta i møter eller utføre andre oppdrag etter oppnevning av Kongen, Stortinget eller et departement.</td>\n</tr>",
-        "text": "c)Ved permisjon for å delta i møter eller utføre andre oppdrag etter oppnevning av Kongen, Stortinget eller et departement."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved permisjon for å delta i møter eller utføre andre oppdrag etter oppnevning av Kongen, Stortinget eller et departement.</td>\n</tr>",
+        "text": "c)\tVed permisjon for å delta i møter eller utføre andre oppdrag etter oppnevning av Kongen, Stortinget eller et departement."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved permisjon innvilget av velferdsgrunner.</td>\n</tr>",
-        "text": "d)Ved permisjon innvilget av velferdsgrunner."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved permisjon innvilget av velferdsgrunner.</td>\n</tr>",
+        "text": "d)\tVed permisjon innvilget av velferdsgrunner."
     },
     {
         "tag": "p",
@@ -273,7 +280,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Under svangerskaps-, omsorgs- og fødselspermisjon, og permisjon ved barns og barnepassers sykdom, har representantene rett til å beholde godtgjørelsen etter tilsvarende regler som for tilsatte i staten etter arbeidsmiljøloven kapittel 12, folketrygdloven kapittel 14 og reglene i Hovedtariffavtalen i staten. Dette gjelder også for innkalte vararepresentanter for den perioden de er innkalt til å gjøre tjeneste.",
+        "html": "Under svangerskaps-, omsorgs- og fødselspermisjon, og permisjon ved barns og barnepassers sykdom, har representantene rett til å beholde godtgjørelsen etter tilsvarende regler som for tilsatte i staten etter <a data-id=\"lov/2005-06-17-62/kap12\" class=\" reference\" href=\"/lov/2005-06-17-62/kap12\">arbeidsmiljøloven kapittel 12</a>, <a data-id=\"lov/1997-02-28-19/kap14\" class=\" reference\" href=\"/lov/1997-02-28-19/kap14\">folketrygdloven kapittel 14</a> og reglene i Hovedtariffavtalen i staten. Dette gjelder også for innkalte vararepresentanter for den perioden de er innkalt til å gjøre tjeneste.",
         "text": "Under svangerskaps-, omsorgs- og fødselspermisjon, og permisjon ved barns og barnepassers sykdom, har representantene rett til å beholde godtgjørelsen etter tilsvarende regler som for tilsatte i staten etter arbeidsmiljøloven kapittel 12, folketrygdloven kapittel 14 og reglene i Hovedtariffavtalen i staten. Dette gjelder også for innkalte vararepresentanter for den perioden de er innkalt til å gjøre tjeneste."
     },
     {
@@ -282,6 +289,7 @@
         "html": "Kapittel III. Dekning av utgifter til reise, flytting og barnepass",
         "text": "Kapittel III. Dekning av utgifter til reise, flytting og barnepass"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -320,6 +328,7 @@
         "text": "Stortingets presidentskap gir nærmere retningslinjer om dekning av reiseutgifter etter dette kapittel."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -335,7 +344,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Representanter som foretar tjenestereiser i sammenheng med utøvelsen av stortingsvervet, innenlands og utenlands, får dekket sine reiseutgifter etter reglene i statens alminnelige reiseregulativer, bestemmelser etter kapittel IV og retningslinjer etter § 8 fjerde ledd.",
+        "html": "Representanter som foretar tjenestereiser i sammenheng med utøvelsen av stortingsvervet, innenlands og utenlands, får dekket sine reiseutgifter etter reglene i statens alminnelige reiseregulativer, bestemmelser etter <a data-id=\"lov/2016-12-20-106/kapiv\" class=\" reference\" href=\"/lov/2016-12-20-106/kapiv\">kapittel IV</a> og retningslinjer etter <a data-id=\"lov/2016-12-20-106/§8\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A78\">§ 8</a> fjerde ledd.",
         "text": "Representanter som foretar tjenestereiser i sammenheng med utøvelsen av stortingsvervet, innenlands og utenlands, får dekket sine reiseutgifter etter reglene i statens alminnelige reiseregulativer, bestemmelser etter kapittel IV og retningslinjer etter § 8 fjerde ledd."
     },
     {
@@ -371,9 +380,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det kan ytes forskudd til utgifter til tjenestereiser, jf. § 6.",
+        "html": "Det kan ytes forskudd til utgifter til tjenestereiser, jf. <a data-id=\"lov/2016-12-20-106/§6\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A76\">§ 6</a>.",
         "text": "Det kan ytes forskudd til utgifter til tjenestereiser, jf. § 6."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -418,6 +428,7 @@
         "text": "Ved bruk av egen bil til reiser etter paragrafen her dekkes kilometergodtgjørelse etter satsene for tjenestereiser i staten."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -442,6 +453,7 @@
         "html": "Flytting mellom pendlerboliger må representanten selv bekoste.",
         "text": "Flytting mellom pendlerboliger må representanten selv bekoste."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -468,6 +480,7 @@
         "text": "Innkalte vararepresentanter som har gjort tjeneste i til sammen seks måneder eller mer i løpet av et kalenderår, har rett til dekning av besøksreiser etter første ledd."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -493,6 +506,7 @@
         "text": "Kapittel IV. Andre økonomiske ytelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -508,7 +522,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Stortingsrepresentanter som etter valg ikke fortsetter på Stortinget, mottar feriepenger etter satsene fastsatt i Hovedtariffavtalen i staten i januar påfølgende år. Feriepengegrunnlaget beregnes på grunnlag av godtgjørelsen utbetalt i siste kalenderår i valgperioden, inkludert eventuell fratredelsesytelse etter § 15. Leddet her gjelder tilsvarende for fast møtende vararepresentanter som trer ut av Stortinget mellom 1. juli og 31. desember.",
+        "html": "Stortingsrepresentanter som etter valg ikke fortsetter på Stortinget, mottar feriepenger etter satsene fastsatt i Hovedtariffavtalen i staten i januar påfølgende år. Feriepengegrunnlaget beregnes på grunnlag av godtgjørelsen utbetalt i siste kalenderår i valgperioden, inkludert eventuell fratredelsesytelse etter <a data-id=\"lov/2016-12-20-106/§15\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A715\">§ 15</a>. Leddet her gjelder tilsvarende for fast møtende vararepresentanter som trer ut av Stortinget mellom 1. juli og 31. desember.",
         "text": "Stortingsrepresentanter som etter valg ikke fortsetter på Stortinget, mottar feriepenger etter satsene fastsatt i Hovedtariffavtalen i staten i januar påfølgende år. Feriepengegrunnlaget beregnes på grunnlag av godtgjørelsen utbetalt i siste kalenderår i valgperioden, inkludert eventuell fratredelsesytelse etter § 15. Leddet her gjelder tilsvarende for fast møtende vararepresentanter som trer ut av Stortinget mellom 1. juli og 31. desember."
     },
     {
@@ -530,6 +544,7 @@
         "text": "Stortingsrepresentanter som trer inn i regjeringen, har ikke krav på feriepenger. Feriepenger ytes heller ikke til innkalte vararepresentanter som etter beslutning av Stortingets presidentskap beholder godtgjørelsen i perioden etter at Stortinget har avbrutt forhandlingene i juni. Disse får beregnet feriepenger etter første ledd, med utbetaling i januar året etter fratredelsen som vararepresentant."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -545,7 +560,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Stortingsrepresentanter og fast møtende vararepresentanter som etter valg ikke fortsetter på Stortinget, kan etter søknad til Stortingets presidentskap tilstås fratredelsesytelse tilsvarende månedlig godtgjørelse etter § 3 første ledd andre punktum, for inntil tre måneder. Tilleggsgodtgjørelse etter § 5, eller forhøyet godtgjørelse til stortingspresidenten etter § 3 første ledd første punktum, inngår ikke i beregningsgrunnlaget.",
+        "html": "Stortingsrepresentanter og fast møtende vararepresentanter som etter valg ikke fortsetter på Stortinget, kan etter søknad til Stortingets presidentskap tilstås fratredelsesytelse tilsvarende månedlig godtgjørelse etter <a data-id=\"lov/2016-12-20-106/§3\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A73\">§ 3</a> første ledd andre punktum, for inntil tre måneder. Tilleggsgodtgjørelse etter <a data-id=\"lov/2016-12-20-106/§5\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A75\">§ 5</a>, eller forhøyet godtgjørelse til stortingspresidenten etter <a data-id=\"lov/2016-12-20-106/§3\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A73\">§ 3</a> første ledd første punktum, inngår ikke i beregningsgrunnlaget.",
         "text": "Stortingsrepresentanter og fast møtende vararepresentanter som etter valg ikke fortsetter på Stortinget, kan etter søknad til Stortingets presidentskap tilstås fratredelsesytelse tilsvarende månedlig godtgjørelse etter § 3 første ledd andre punktum, for inntil tre måneder. Tilleggsgodtgjørelse etter § 5, eller forhøyet godtgjørelse til stortingspresidenten etter § 3 første ledd første punktum, inngår ikke i beregningsgrunnlaget."
     },
     {
@@ -566,6 +581,7 @@
         "html": "Stortingets presidentskap gir nærmere retningslinjer om fratredelsesytelse.",
         "text": "Stortingets presidentskap gir nærmere retningslinjer om fratredelsesytelse."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -588,7 +604,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Etterlønn utgjør 66 prosent av godtgjørelsen etter § 3 første ledd andre punktum. Tilleggsgodtgjørelse etter § 5, eller forhøyet godtgjørelse til stortingspresidenten etter § 3 første ledd første punktum, inngår ikke i grunnlaget for etterlønn.",
+        "html": "Etterlønn utgjør 66 prosent av godtgjørelsen etter <a data-id=\"lov/2016-12-20-106/§3\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A73\">§ 3</a> første ledd andre punktum. Tilleggsgodtgjørelse etter <a data-id=\"lov/2016-12-20-106/§5\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A75\">§ 5</a>, eller forhøyet godtgjørelse til stortingspresidenten etter <a data-id=\"lov/2016-12-20-106/§3\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A73\">§ 3</a> første ledd første punktum, inngår ikke i grunnlaget for etterlønn.",
         "text": "Etterlønn utgjør 66 prosent av godtgjørelsen etter § 3 første ledd andre punktum. Tilleggsgodtgjørelse etter § 5, eller forhøyet godtgjørelse til stortingspresidenten etter § 3 første ledd første punktum, inngår ikke i grunnlaget for etterlønn."
     },
     {
@@ -603,6 +619,7 @@
         "html": "Stortingets presidentskap gir nærmere retningslinjer om etterlønn.",
         "text": "Stortingets presidentskap gir nærmere retningslinjer om etterlønn."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -629,6 +646,7 @@
         "text": "Den som blir pålagt å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av eventuell taushetsplikt."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -649,27 +667,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bruttoinntekt fra hel stilling (minst 30 timer per uke), eller full pensjon (80 prosent eller mer), medfører bortfall av hele ytelsen for den perioden inntekten gjelder.</td>\n</tr>",
-        "text": "a)Bruttoinntekt fra hel stilling (minst 30 timer per uke), eller full pensjon (80 prosent eller mer), medfører bortfall av hele ytelsen for den perioden inntekten gjelder."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bruttoinntekt fra hel stilling (minst 30 timer per uke), eller full pensjon (80 prosent eller mer), medfører bortfall av hele ytelsen for den perioden inntekten gjelder.</td>\n</tr>",
+        "text": "a)\tBruttoinntekt fra hel stilling (minst 30 timer per uke), eller full pensjon (80 prosent eller mer), medfører bortfall av hele ytelsen for den perioden inntekten gjelder."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ytelsen skal ellers avkortes krone for krone mot annen inntekt i ytelsesperioden, herunder brutto lønns- og pensjonsinntekt og netto næringsinntekt. Ytelsen avkortes likevel ikke dersom annen inntekt i hele ytelsesperioden (fratredelsesytelses- og etterlønnsperiode vurdert samlet) ikke overstiger 5 000 kroner. Dersom inntekten i perioden overstiger 5 000 kroner, kommer hele beløpet til avkorting.</td>\n</tr>",
-        "text": "b)Ytelsen skal ellers avkortes krone for krone mot annen inntekt i ytelsesperioden, herunder brutto lønns- og pensjonsinntekt og netto næringsinntekt. Ytelsen avkortes likevel ikke dersom annen inntekt i hele ytelsesperioden (fratredelsesytelses- og etterlønnsperiode vurdert samlet) ikke overstiger 5 000 kroner. Dersom inntekten i perioden overstiger 5 000 kroner, kommer hele beløpet til avkorting."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ytelsen skal ellers avkortes krone for krone mot annen inntekt i ytelsesperioden, herunder brutto lønns- og pensjonsinntekt og netto næringsinntekt. Ytelsen avkortes likevel ikke dersom annen inntekt i hele ytelsesperioden (fratredelsesytelses- og etterlønnsperiode vurdert samlet) ikke overstiger 5 000 kroner. Dersom inntekten i perioden overstiger 5 000 kroner, kommer hele beløpet til avkorting.</td>\n</tr>",
+        "text": "b)\tYtelsen skal ellers avkortes krone for krone mot annen inntekt i ytelsesperioden, herunder brutto lønns- og pensjonsinntekt og netto næringsinntekt. Ytelsen avkortes likevel ikke dersom annen inntekt i hele ytelsesperioden (fratredelsesytelses- og etterlønnsperiode vurdert samlet) ikke overstiger 5 000 kroner. Dersom inntekten i perioden overstiger 5 000 kroner, kommer hele beløpet til avkorting."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Inntekt som opptjenes i utlandet eller i Norge fra internasjonal organisasjon, regnes som inntekt etter bokstav b selv om inntekten er skattefri i Norge.</td>\n</tr>",
-        "text": "c)Inntekt som opptjenes i utlandet eller i Norge fra internasjonal organisasjon, regnes som inntekt etter bokstav b selv om inntekten er skattefri i Norge."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Inntekt som opptjenes i utlandet eller i Norge fra internasjonal organisasjon, regnes som inntekt etter bokstav b selv om inntekten er skattefri i Norge.</td>\n</tr>",
+        "text": "c)\tInntekt som opptjenes i utlandet eller i Norge fra internasjonal organisasjon, regnes som inntekt etter bokstav b selv om inntekten er skattefri i Norge."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det skal ikke avkortes mot feriepenger etter § 14 eller kapitalinntekter.</td>\n</tr>",
-        "text": "d)Det skal ikke avkortes mot feriepenger etter § 14 eller kapitalinntekter."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det skal ikke avkortes mot feriepenger etter <a data-id=\"lov/2016-12-20-106/§14\" class=\" reference\" href=\"/lov/2016-12-20-106/%C2%A714\">§ 14</a> eller kapitalinntekter.</td>\n</tr>",
+        "text": "d)\tDet skal ikke avkortes mot feriepenger etter § 14 eller kapitalinntekter."
     },
     {
         "tag": "p",
@@ -683,6 +701,7 @@
         "html": "Kapittel V. Øvrige bestemmelser",
         "text": "Kapittel V. Øvrige bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -721,6 +740,7 @@
         "text": "En stortingsrepresentant eller fast møtende vararepresentant har rett til ytelser ved yrkesskade tilsvarende arbeidstakere ansatt i staten. En innkalt vararepresentant har samme rett for den perioden han eller hun er innkalt for. Dette leddet gjelder også for stortingsrepresentanter som er i regjering."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -752,6 +772,7 @@
         "text": "Et beløp som blir krevd tilbake etter første eller andre ledd, kan enten dekkes ved trekk i fremtidige ytelser eller inndrives etter bestemmelsene i skattebetalingsloven. Slikt trekk avbryter foreldelsesfristen etter foreldelsesloven. Det kan kreves renter etter forsinkelsesrenteloven."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -773,7 +794,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra samme tid oppheves lov 16. desember 2011 nr. 61 om godtgjørelse for stortingsrepresentanter og forskrift 8. desember 2011 om godtgjørelse for stortingsrepresentanter.",
+        "html": "Fra samme tid oppheves <a data-id=\"lov/2011-12-16-61\" class=\" reference\" href=\"/lov/2011-12-16-61\">lov 16. desember 2011 nr. 61</a> om godtgjørelse for stortingsrepresentanter og forskrift 8. desember 2011 om godtgjørelse for stortingsrepresentanter.",
         "text": "Fra samme tid oppheves lov 16. desember 2011 nr. 61 om godtgjørelse for stortingsrepresentanter og forskrift 8. desember 2011 om godtgjørelse for stortingsrepresentanter."
     }
 ]

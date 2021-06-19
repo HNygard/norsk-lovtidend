@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.130 LS (2015–2016), Innst.361 L (2015–2016), Lovvedtak 89 (2015–2016). Stortingets første og andre gangs behandling hhv. 8. og 13. juni 2016. Fremmet av Kommunal- og moderniseringsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-130-ls-201516\" class=\" reference\" href=\"/forarbeid/prop-130-ls-201516\">Prop.130 LS (2015–2016)</a>, <a data-id=\"forarbeid/inns-361-l-201516\" class=\" reference\" href=\"/forarbeid/inns-361-l-201516\">Innst.361 L (2015–2016)</a>, <a data-id=\"forarbeid/lovvedtak-89-201516\" class=\" reference\" href=\"/forarbeid/lovvedtak-89-201516\">Lovvedtak 89 (2015–2016)</a>. Stortingets første og andre gangs behandling hhv. 8. og 13. juni 2016. Fremmet av Kommunal- og moderniseringsdepartementet.",
         "text": "Prop.130 LS (2015–2016), Innst.361 L (2015–2016), Lovvedtak 89 (2015–2016). Stortingets første og andre gangs behandling hhv. 8. og 13. juni 2016. Fremmet av Kommunal- og moderniseringsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 14. august 1918 nr. 1 om forandring av rikets inddelingsnavn.",
+        "html": "<a data-id=\"lov/1918-08-14-1\" class=\" reference\" href=\"/lov/1918-08-14-1\">Lov 14. august 1918 nr. 1</a> om forandring av rikets inddelingsnavn.",
         "text": "Lov 14. august 1918 nr. 1 om forandring av rikets inddelingsnavn."
     },
     {
@@ -26,14 +26,14 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 14. august 1918 nr. 1 om forandring av rikets inddelingsnavn skal § 2 nr. 2 lyde:",
+        "html": "I <a data-id=\"lov/1918-08-14-1\" class=\" reference\" href=\"/lov/1918-08-14-1\">lov 14. august 1918 nr. 1</a> om forandring av rikets inddelingsnavn skal <a data-id=\"lov/1918-08-14-1/§2\" class=\" reference\" href=\"/lov/1918-08-14-1/%C2%A72\">§ 2</a> nr. 2 lyde:",
         "text": "I lov 14. august 1918 nr. 1 om forandring av rikets inddelingsnavn skal § 2 nr. 2 lyde:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Rikets fylker skal ha følgende navn:</td>\n</tr>",
-        "text": "2.Rikets fylker skal ha følgende navn:"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Rikets fylker skal ha følgende navn:</td>\n</tr>",
+        "text": "2.\tRikets fylker skal ha følgende navn:"
     },
     {
         "tag": "table",

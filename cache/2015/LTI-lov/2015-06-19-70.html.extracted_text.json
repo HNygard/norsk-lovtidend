@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.44 L (2014–2015), Innst.220 L (2014–2015), Lovvedtak 62 (2014–2015). Stortingets første og andre gangs behandling hhv. 28. april og 5. mai 2015. Fremmet av Kommunal- og moderniseringsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-44-l-201415\" class=\" reference\" href=\"/forarbeid/prop-44-l-201415\">Prop.44 L (2014–2015)</a>, <a data-id=\"forarbeid/inns-220-l-201415\" class=\" reference\" href=\"/forarbeid/inns-220-l-201415\">Innst.220 L (2014–2015)</a>, <a data-id=\"forarbeid/lovvedtak-62-201415\" class=\" reference\" href=\"/forarbeid/lovvedtak-62-201415\">Lovvedtak 62 (2014–2015)</a>. Stortingets første og andre gangs behandling hhv. 28. april og 5. mai 2015. Fremmet av Kommunal- og moderniseringsdepartementet.",
         "text": "Prop.44 L (2014–2015), Innst.220 L (2014–2015), Lovvedtak 62 (2014–2015). Stortingets første og andre gangs behandling hhv. 28. april og 5. mai 2015. Fremmet av Kommunal- og moderniseringsdepartementet."
     },
     {
@@ -11,6 +11,7 @@
         "html": "Kapittel 1. Innledende bestemmelser",
         "text": "Kapittel 1. Innledende bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -43,6 +44,7 @@
         "text": "Loven omfatter ikke overgang til partipolitisk arbeid eller politiske verv i Stortinget, kommuner og fylkeskommuner."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -74,6 +76,7 @@
         "text": "Med saksforbud menes et tidsbegrenset forbud mot å involvere seg i bestemte saker eller saksområder."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -101,13 +104,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Parten kan innen fem virkedager uttale seg om vedtak etter §§ 6, 7, 10, 11, 13 og 14 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt vedkommende underrettes om vedtaket. Organet som har truffet vedtaket, skal fremlegge ny vurdering av saken innen fem virkedager fra det tidspunkt krav om ny vurdering er mottatt.",
+        "html": "Parten kan innen fem virkedager uttale seg om vedtak etter <a data-id=\"lov/2015-06-19-70/§6\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A76\">§§ 6</a>, 7, 10, 11, 13 og 14 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt vedkommende underrettes om vedtaket. Organet som har truffet vedtaket, skal fremlegge ny vurdering av saken innen fem virkedager fra det tidspunkt krav om ny vurdering er mottatt.",
         "text": "Parten kan innen fem virkedager uttale seg om vedtak etter §§ 6, 7, 10, 11, 13 og 14 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt vedkommende underrettes om vedtaket. Organet som har truffet vedtaket, skal fremlegge ny vurdering av saken innen fem virkedager fra det tidspunkt krav om ny vurdering er mottatt."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Parten kan innen tre uker uttale seg om vedtak etter §§ 18, 19 og 20 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt underretning om vedtaket er kommet frem til vedkommende part.",
+        "html": "Parten kan innen tre uker uttale seg om vedtak etter <a data-id=\"lov/2015-06-19-70/§18\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A718\">§§ 18</a>, 19 og 20 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt underretning om vedtaket er kommet frem til vedkommende part.",
         "text": "Parten kan innen tre uker uttale seg om vedtak etter §§ 18, 19 og 20 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt underretning om vedtaket er kommet frem til vedkommende part."
     },
     {
@@ -128,6 +131,7 @@
         "html": "Kapittel 2. Politikeres overgang til stilling mv. utenfor statsforvaltningen",
         "text": "Kapittel 2. Politikeres overgang til stilling mv. utenfor statsforvaltningen"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -154,6 +158,7 @@
         "text": "Kongen gir forskrift om nemndas sammensetning og funksjonstid."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -179,6 +184,7 @@
         "text": "Informasjonsplikten gjelder alle overganger til stilling eller verv utenfor statsforvaltningen og all etablering av næringsvirksomhet innen tolv måneder etter fratreden som politiker, også der overgangen eller etableringen ikke skjer direkte etter fratreden."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -199,22 +205,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger en konkret forbindelse mellom politikerens tidligere ansvarsområder, arbeidsoppgaver i den politiske stillingen eller bestemte saker som var til behandling i departementet i politikerens funksjonstid, og interessene til den virksomheten politikeren blir tilknyttet eller etablerer, eller</td>\n</tr>",
-        "text": "a)det foreligger en konkret forbindelse mellom politikerens tidligere ansvarsområder, arbeidsoppgaver i den politiske stillingen eller bestemte saker som var til behandling i departementet i politikerens funksjonstid, og interessene til den virksomheten politikeren blir tilknyttet eller etablerer, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger en konkret forbindelse mellom politikerens tidligere ansvarsområder, arbeidsoppgaver i den politiske stillingen eller bestemte saker som var til behandling i departementet i politikerens funksjonstid, og interessene til den virksomheten politikeren blir tilknyttet eller etablerer, eller</td>\n</tr>",
+        "text": "a)\tdet foreligger en konkret forbindelse mellom politikerens tidligere ansvarsområder, arbeidsoppgaver i den politiske stillingen eller bestemte saker som var til behandling i departementet i politikerens funksjonstid, og interessene til den virksomheten politikeren blir tilknyttet eller etablerer, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">politikerens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten politikeren blir tilknyttet eller etablerer særlige fordeler, eller</td>\n</tr>",
-        "text": "b)politikerens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten politikeren blir tilknyttet eller etablerer særlige fordeler, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">politikerens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten politikeren blir tilknyttet eller etablerer særlige fordeler, eller</td>\n</tr>",
+        "text": "b)\tpolitikerens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten politikeren blir tilknyttet eller etablerer særlige fordeler, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.</td>\n</tr>",
-        "text": "c)overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.</td>\n</tr>",
+        "text": "c)\tovergangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -231,7 +238,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Karantenenemnda kan i særlige tilfeller, dersom ett eller flere av vilkårene i § 6 er oppfylt, ilegge en politiker saksforbud i inntil tolv måneder etter fratreden. Saksforbud kan ilegges i stedet for eller i tillegg til karantene.",
+        "html": "Karantenenemnda kan i særlige tilfeller, dersom ett eller flere av vilkårene i <a data-id=\"lov/2015-06-19-70/§6\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A76\">§ 6</a> er oppfylt, ilegge en politiker saksforbud i inntil tolv måneder etter fratreden. Saksforbud kan ilegges i stedet for eller i tillegg til karantene.",
         "text": "Karantenenemnda kan i særlige tilfeller, dersom ett eller flere av vilkårene i § 6 er oppfylt, ilegge en politiker saksforbud i inntil tolv måneder etter fratreden. Saksforbud kan ilegges i stedet for eller i tillegg til karantene."
     },
     {
@@ -240,6 +247,7 @@
         "html": "Dersom det foreligger særlig tungtveiende grunner, kan det ilegges et saksforbud i inntil tolv måneder i tillegg til en karantene på inntil seks måneder.",
         "text": "Dersom det foreligger særlig tungtveiende grunner, kan det ilegges et saksforbud i inntil tolv måneder i tillegg til en karantene på inntil seks måneder."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -256,7 +264,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "En politiker som er ilagt karantene etter § 6, mottar en godtgjørelse i karantenetiden som tilsvarer den lønn vedkommende hadde ved fratreden som politiker, med tillegg av feriepenger.",
+        "html": "En politiker som er ilagt karantene etter <a data-id=\"lov/2015-06-19-70/§6\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A76\">§ 6</a>, mottar en godtgjørelse i karantenetiden som tilsvarer den lønn vedkommende hadde ved fratreden som politiker, med tillegg av feriepenger.",
         "text": "En politiker som er ilagt karantene etter § 6, mottar en godtgjørelse i karantenetiden som tilsvarer den lønn vedkommende hadde ved fratreden som politiker, med tillegg av feriepenger."
     },
     {
@@ -271,6 +279,7 @@
         "html": "I karanteneperioden vil politikeren være omfattet av en ordning som tilsvarer gruppelivsordningen som følger av den til enhver tid gjeldende hovedtariffavtale i staten.",
         "text": "I karanteneperioden vil politikeren være omfattet av en ordning som tilsvarer gruppelivsordningen som følger av den til enhver tid gjeldende hovedtariffavtale i staten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -287,7 +296,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Karantenenemnda har frist på to uker til å treffe vedtak om å ilegge karantene og saksforbud, regnet fra det tidspunkt vedkommende politiker har oppfylt sin informasjonsplikt etter § 5. Politikeren kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før Karantenenemnda har truffet endelig vedtak i saken.",
+        "html": "Karantenenemnda har frist på to uker til å treffe vedtak om å ilegge karantene og saksforbud, regnet fra det tidspunkt vedkommende politiker har oppfylt sin informasjonsplikt etter <a data-id=\"lov/2015-06-19-70/§5\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A75\">§ 5</a>. Politikeren kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før Karantenenemnda har truffet endelig vedtak i saken.",
         "text": "Karantenenemnda har frist på to uker til å treffe vedtak om å ilegge karantene og saksforbud, regnet fra det tidspunkt vedkommende politiker har oppfylt sin informasjonsplikt etter § 5. Politikeren kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før Karantenenemnda har truffet endelig vedtak i saken."
     },
     {
@@ -302,6 +311,7 @@
         "html": "Kapittel 3. Politikeres overgang til embete eller stilling i departementene",
         "text": "Kapittel 3. Politikeres overgang til embete eller stilling i departementene"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -334,6 +344,7 @@
         "text": "Dersom særlig tungtveiende grunner tilsier det, kan departementet oppheve eller begrense forbudet etter første og andre ledd."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -349,9 +360,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Går en politiker over til andre embeter eller stillinger i departementet enn nevnt i § 10, kan departementet bestemme at vedkommende ikke skal ha oppgaver som innebærer direkte rådgivning til departementets politiske ledelse for en periode på inntil seks måneder etter fratreden. Når tungtveiende grunner tilsier det, kan politikeren ilegges et forbud etter § 10 første og andre ledd i inntil tre måneder.",
+        "html": "Går en politiker over til andre embeter eller stillinger i departementet enn nevnt i <a data-id=\"lov/2015-06-19-70/§10\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A710\">§ 10</a>, kan departementet bestemme at vedkommende ikke skal ha oppgaver som innebærer direkte rådgivning til departementets politiske ledelse for en periode på inntil seks måneder etter fratreden. Når tungtveiende grunner tilsier det, kan politikeren ilegges et forbud etter <a data-id=\"lov/2015-06-19-70/§10\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A710\">§ 10</a> første og andre ledd i inntil tre måneder.",
         "text": "Går en politiker over til andre embeter eller stillinger i departementet enn nevnt i § 10, kan departementet bestemme at vedkommende ikke skal ha oppgaver som innebærer direkte rådgivning til departementets politiske ledelse for en periode på inntil seks måneder etter fratreden. Når tungtveiende grunner tilsier det, kan politikeren ilegges et forbud etter § 10 første og andre ledd i inntil tre måneder."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -368,7 +380,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som er underlagt forbud etter §§ 10 eller 11, mottar embetets eller stillingens lønn. Lønn eller vederlag for annet arbeid, verv eller oppdrag som vedkommende måtte motta eller opptjene i perioden, går til fradrag i lønnen.",
+        "html": "Den som er underlagt forbud etter <a data-id=\"lov/2015-06-19-70/§10\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A710\">§§ 10</a> eller 11, mottar embetets eller stillingens lønn. Lønn eller vederlag for annet arbeid, verv eller oppdrag som vedkommende måtte motta eller opptjene i perioden, går til fradrag i lønnen.",
         "text": "Den som er underlagt forbud etter §§ 10 eller 11, mottar embetets eller stillingens lønn. Lønn eller vederlag for annet arbeid, verv eller oppdrag som vedkommende måtte motta eller opptjene i perioden, går til fradrag i lønnen."
     },
     {
@@ -377,6 +389,7 @@
         "html": "Kapittel 4. Embets- og tjenestemenns overgang til stilling mv. utenfor statsforvaltningen",
         "text": "Kapittel 4. Embets- og tjenestemenns overgang til stilling mv. utenfor statsforvaltningen"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -398,21 +411,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger en konkret forbindelse mellom embets- eller tjenestemannens tidligere ansvar og arbeidsoppgaver i embetet eller stillingen eller bestemte saker som var til behandling i forvaltningsorganet i vedkommendes funksjonstid, og interessene til den virksomheten vedkommende blir tilknyttet eller etablerer, eller</td>\n</tr>",
-        "text": "a)det foreligger en konkret forbindelse mellom embets- eller tjenestemannens tidligere ansvar og arbeidsoppgaver i embetet eller stillingen eller bestemte saker som var til behandling i forvaltningsorganet i vedkommendes funksjonstid, og interessene til den virksomheten vedkommende blir tilknyttet eller etablerer, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger en konkret forbindelse mellom embets- eller tjenestemannens tidligere ansvar og arbeidsoppgaver i embetet eller stillingen eller bestemte saker som var til behandling i forvaltningsorganet i vedkommendes funksjonstid, og interessene til den virksomheten vedkommende blir tilknyttet eller etablerer, eller</td>\n</tr>",
+        "text": "a)\tdet foreligger en konkret forbindelse mellom embets- eller tjenestemannens tidligere ansvar og arbeidsoppgaver i embetet eller stillingen eller bestemte saker som var til behandling i forvaltningsorganet i vedkommendes funksjonstid, og interessene til den virksomheten vedkommende blir tilknyttet eller etablerer, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">embets- eller tjenestemannens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten vedkommende blir tilknyttet eller etablerer særlige fordeler, eller</td>\n</tr>",
-        "text": "b)embets- eller tjenestemannens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten vedkommende blir tilknyttet eller etablerer særlige fordeler, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">embets- eller tjenestemannens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten vedkommende blir tilknyttet eller etablerer særlige fordeler, eller</td>\n</tr>",
+        "text": "b)\tembets- eller tjenestemannens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten vedkommende blir tilknyttet eller etablerer særlige fordeler, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.</td>\n</tr>",
-        "text": "c)overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.</td>\n</tr>",
+        "text": "c)\tovergangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt."
     },
     {
         "tag": "p",
@@ -426,6 +439,7 @@
         "html": "Karantene kan ilegges for inntil seks måneder og saksforbud inntil tolv måneder regnet fra fratreden fra embetet eller stillingen.",
         "text": "Karantene kan ilegges for inntil seks måneder og saksforbud inntil tolv måneder regnet fra fratreden fra embetet eller stillingen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -442,7 +456,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For andre embeter og stillinger enn nevnt i § 13, kan det ved utnevnelsen eller tilsettingen fastsettes en klausul i arbeidskontrakten om at karantene og saksforbud kan ilegges ved overgang til stilling eller verv utenfor statsforvaltningen eller ved etablering av næringsvirksomhet. Slik klausul kan fastsettes dersom stillingens karakter gir saklig grunn til det.",
+        "html": "For andre embeter og stillinger enn nevnt i <a data-id=\"lov/2015-06-19-70/§13\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A713\">§ 13</a>, kan det ved utnevnelsen eller tilsettingen fastsettes en klausul i arbeidskontrakten om at karantene og saksforbud kan ilegges ved overgang til stilling eller verv utenfor statsforvaltningen eller ved etablering av næringsvirksomhet. Slik klausul kan fastsettes dersom stillingens karakter gir saklig grunn til det.",
         "text": "For andre embeter og stillinger enn nevnt i § 13, kan det ved utnevnelsen eller tilsettingen fastsettes en klausul i arbeidskontrakten om at karantene og saksforbud kan ilegges ved overgang til stilling eller verv utenfor statsforvaltningen eller ved etablering av næringsvirksomhet. Slik klausul kan fastsettes dersom stillingens karakter gir saklig grunn til det."
     },
     {
@@ -453,15 +467,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overgangen kan gi virksomheten som embets- eller tjenestemannen blir tilknyttet eller etablerer, særlige fordeler på grunn av vedkommendes stilling, ansvar eller arbeidsoppgaver i statsforvaltningen, eller</td>\n</tr>",
-        "text": "a)overgangen kan gi virksomheten som embets- eller tjenestemannen blir tilknyttet eller etablerer, særlige fordeler på grunn av vedkommendes stilling, ansvar eller arbeidsoppgaver i statsforvaltningen, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overgangen kan gi virksomheten som embets- eller tjenestemannen blir tilknyttet eller etablerer, særlige fordeler på grunn av vedkommendes stilling, ansvar eller arbeidsoppgaver i statsforvaltningen, eller</td>\n</tr>",
+        "text": "a)\tovergangen kan gi virksomheten som embets- eller tjenestemannen blir tilknyttet eller etablerer, særlige fordeler på grunn av vedkommendes stilling, ansvar eller arbeidsoppgaver i statsforvaltningen, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.</td>\n</tr>",
-        "text": "b)overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.</td>\n</tr>",
+        "text": "b)\tovergangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt."
     },
     {
         "tag": "p",
@@ -482,6 +496,7 @@
         "text": "Karantene kan ilegges for inntil seks måneder og saksforbud for inntil tolv måneder regnet fra fratreden i embetet eller stillingen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -497,13 +512,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom embets- eller tjenestemann som nevnt i § 13 første ledd, eller som har en klausul om karantene og saksforbud i arbeidskontrakten sin, jf. § 14 første ledd, tar imot tilbud om stilling eller verv utenfor statsforvaltningen eller etablerer næringsvirksomhet, skal vedkommende uten ugrunnet opphold gi alle opplysninger tilsettingsmyndigheten trenger for å fatte vedtak om karantene og saksforbud, inkludert opplysninger om embete og stilling og den nye stillingen, vervet eller virksomheten.",
+        "html": "Dersom embets- eller tjenestemann som nevnt i <a data-id=\"lov/2015-06-19-70/§13\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A713\">§ 13</a> første ledd, eller som har en klausul om karantene og saksforbud i arbeidskontrakten sin, jf. <a data-id=\"lov/2015-06-19-70/§14\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A714\">§ 14</a> første ledd, tar imot tilbud om stilling eller verv utenfor statsforvaltningen eller etablerer næringsvirksomhet, skal vedkommende uten ugrunnet opphold gi alle opplysninger tilsettingsmyndigheten trenger for å fatte vedtak om karantene og saksforbud, inkludert opplysninger om embete og stilling og den nye stillingen, vervet eller virksomheten.",
         "text": "Dersom embets- eller tjenestemann som nevnt i § 13 første ledd, eller som har en klausul om karantene og saksforbud i arbeidskontrakten sin, jf. § 14 første ledd, tar imot tilbud om stilling eller verv utenfor statsforvaltningen eller etablerer næringsvirksomhet, skal vedkommende uten ugrunnet opphold gi alle opplysninger tilsettingsmyndigheten trenger for å fatte vedtak om karantene og saksforbud, inkludert opplysninger om embete og stilling og den nye stillingen, vervet eller virksomheten."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Arbeidsgiver kan pålegge informasjonsplikt for andre embets- og tjenestemenn enn dem som er nevnt i første ledd, dersom vedkommendes ansvarsområder og arbeidsoppgaver kan gi grunnlag for å ilegge karantene og saksforbud etter § 14 fjerde ledd.",
+        "html": "Arbeidsgiver kan pålegge informasjonsplikt for andre embets- og tjenestemenn enn dem som er nevnt i første ledd, dersom vedkommendes ansvarsområder og arbeidsoppgaver kan gi grunnlag for å ilegge karantene og saksforbud etter <a data-id=\"lov/2015-06-19-70/§14\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A714\">§ 14</a> fjerde ledd.",
         "text": "Arbeidsgiver kan pålegge informasjonsplikt for andre embets- og tjenestemenn enn dem som er nevnt i første ledd, dersom vedkommendes ansvarsområder og arbeidsoppgaver kan gi grunnlag for å ilegge karantene og saksforbud etter § 14 fjerde ledd."
     },
     {
@@ -518,6 +533,7 @@
         "html": "Departementet kan gi forskrift om informasjonsplikten.",
         "text": "Departementet kan gi forskrift om informasjonsplikten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -534,7 +550,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "En embets- eller tjenestemann som er ilagt karantene etter §§ 13 eller 14, mottar en godtgjørelse som tilsvarer den tidligere stillingens lønn, med tillegg av feriepenger.",
+        "html": "En embets- eller tjenestemann som er ilagt karantene etter <a data-id=\"lov/2015-06-19-70/§13\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A713\">§§ 13</a> eller 14, mottar en godtgjørelse som tilsvarer den tidligere stillingens lønn, med tillegg av feriepenger.",
         "text": "En embets- eller tjenestemann som er ilagt karantene etter §§ 13 eller 14, mottar en godtgjørelse som tilsvarer den tidligere stillingens lønn, med tillegg av feriepenger."
     },
     {
@@ -549,6 +565,7 @@
         "html": "I karanteneperioden vil embets- eller tjenestemannen være omfattet av en ordning som tilsvarer gruppelivsordningen som følger av den til enhver tid gjeldende hovedtariffavtale i staten.",
         "text": "I karanteneperioden vil embets- eller tjenestemannen være omfattet av en ordning som tilsvarer gruppelivsordningen som følger av den til enhver tid gjeldende hovedtariffavtale i staten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -565,7 +582,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Tilsettingsmyndigheten har frist på to uker til å treffe vedtak om karantene og saksforbud. Fristen regnes fra det tidspunkt vedkommende embets- eller tjenestemann har oppfylt informasjonsplikten etter § 15. Embets- eller tjenestemannen kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før tilsettingsmyndigheten har truffet endelig vedtak i saken.",
+        "html": "Tilsettingsmyndigheten har frist på to uker til å treffe vedtak om karantene og saksforbud. Fristen regnes fra det tidspunkt vedkommende embets- eller tjenestemann har oppfylt informasjonsplikten etter <a data-id=\"lov/2015-06-19-70/§15\" class=\" reference\" href=\"/lov/2015-06-19-70/%C2%A715\">§ 15</a>. Embets- eller tjenestemannen kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før tilsettingsmyndigheten har truffet endelig vedtak i saken.",
         "text": "Tilsettingsmyndigheten har frist på to uker til å treffe vedtak om karantene og saksforbud. Fristen regnes fra det tidspunkt vedkommende embets- eller tjenestemann har oppfylt informasjonsplikten etter § 15. Embets- eller tjenestemannen kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før tilsettingsmyndigheten har truffet endelig vedtak i saken."
     },
     {
@@ -580,6 +597,7 @@
         "html": "Kapittel 5. Reaksjoner ved overtredelse",
         "text": "Kapittel 5. Reaksjoner ved overtredelse"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -618,6 +636,7 @@
         "text": "Departementet kan gi forskrift om tvangsmulkt, inkludert om tvangsmulktens størrelse og varighet og frafall av påløpt tvangsmulkt."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -648,6 +667,7 @@
         "html": "Departementet kan gi forskrift om inndragning, inkludert om skjønnsmessig utmåling av inntekt og fradrag for utgifter.",
         "text": "Departementet kan gi forskrift om inndragning, inkludert om skjønnsmessig utmåling av inntekt og fradrag for utgifter."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -697,6 +717,7 @@
         "html": "Kapittel 6. Ikrafttredelse",
         "text": "Kapittel 6. Ikrafttredelse"
     },
+    null,
     null,
     {
         "tag": "span",

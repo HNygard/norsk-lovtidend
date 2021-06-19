@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.162 L (2015–2016), Innst.210 L (2016–2017), Lovvedtak 71 (2016–2017). Stortingets første og andre gangs behandling hhv. 3. og 18. april 2017. Fremmet av Samferdselsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-162-l-201516\" class=\" reference\" href=\"/forarbeid/prop-162-l-201516\">Prop.162 L (2015–2016)</a>, <a data-id=\"forarbeid/inns-210-l-201617\" class=\" reference\" href=\"/forarbeid/inns-210-l-201617\">Innst.210 L (2016–2017)</a>, <a data-id=\"forarbeid/lovvedtak-71-201617\" class=\" reference\" href=\"/forarbeid/lovvedtak-71-201617\">Lovvedtak 71 (2016–2017)</a>. Stortingets første og andre gangs behandling hhv. 3. og 18. april 2017. Fremmet av Samferdselsdepartementet.",
         "text": "Prop.162 L (2015–2016), Innst.210 L (2016–2017), Lovvedtak 71 (2016–2017). Stortingets første og andre gangs behandling hhv. 3. og 18. april 2017. Fremmet av Samferdselsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 14. juni 1912 nr. 1 anlæg av taugbaner og løipestrenger mv.",
+        "html": "<a data-id=\"lov/1912-06-14-1\" class=\" reference\" href=\"/lov/1912-06-14-1\">Lov 14. juni 1912 nr. 1</a> anlæg av taugbaner og løipestrenger mv.",
         "text": "Lov 14. juni 1912 nr. 1 anlæg av taugbaner og løipestrenger mv."
     },
     {
@@ -25,15 +25,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom.</td>\n</tr>",
-        "text": "1Lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1959-10-23-3\" class=\" reference\" href=\"/lov/1959-10-23-3\">Lov 23. oktober 1959 nr. 3</a> om oreigning av fast eigedom.</td>\n</tr>",
+        "text": "1\tLov 23. oktober 1959 nr. 3 om oreigning av fast eigedom."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven).</td>\n</tr>",
-        "text": "2Lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1993-06-11-100\" class=\" reference\" href=\"/lov/1993-06-11-100\">Lov 11. juni 1993 nr. 100</a> om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven).</td>\n</tr>",
+        "text": "2\tLov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven)."
     },
     {
         "tag": "h2",
@@ -41,6 +41,7 @@
         "html": "Kapittel 1. Innledende bestemmelser",
         "text": "Kapittel 1. Innledende bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -52,7 +53,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \">Lovens formål </em>",
-        "text": "Lovens formål"
+        "text": "Lovens formål "
     },
     {
         "tag": "p",
@@ -60,6 +61,7 @@
         "html": "Loven skal sikre at taubaner blir anlagt, bygget, drevet, vedlikeholdt og fjernet slik at taubaner ikke fører til skade på person, eiendom eller miljø.",
         "text": "Loven skal sikre at taubaner blir anlagt, bygget, drevet, vedlikeholdt og fjernet slik at taubaner ikke fører til skade på person, eiendom eller miljø."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -86,6 +88,7 @@
         "text": "Loven gjelder for Svalbard og Jan Mayen med mindre Kongen bestemmer noe annet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -106,34 +109,35 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">taubane:</em> anlegg konstruert, produsert, montert og tatt i bruk for å transportere personer eller gods i vogner eller med trekkinnretninger som bæres av eller beveges med tau som er plassert i eller langs en trasé</td>\n</tr>",
-        "text": "a)taubane: anlegg konstruert, produsert, montert og tatt i bruk for å transportere personer eller gods i vogner eller med trekkinnretninger som bæres av eller beveges med tau som er plassert i eller langs en trasé"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">taubane:</em> anlegg konstruert, produsert, montert og tatt i bruk for å transportere personer eller gods i vogner eller med trekkinnretninger som bæres av eller beveges med tau som er plassert i eller langs en trasé</td>\n</tr>",
+        "text": "a)\ttaubane: anlegg konstruert, produsert, montert og tatt i bruk for å transportere personer eller gods i vogner eller med trekkinnretninger som bæres av eller beveges med tau som er plassert i eller langs en trasé"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">taubanevirksomhet:</em> foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere taubaner</td>\n</tr>",
-        "text": "b)taubanevirksomhet: foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere taubaner"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">taubanevirksomhet:</em> foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere taubaner</td>\n</tr>",
+        "text": "b)\ttaubanevirksomhet: foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere taubaner"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">taubaneulykke:</em> uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på taubane som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker</td>\n</tr>",
-        "text": "c)taubaneulykke: uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på taubane som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">taubaneulykke:</em> uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på taubane som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker</td>\n</tr>",
+        "text": "c)\ttaubaneulykke: uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på taubane som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">alvorlig taubanehendelse:</em> uønsket hendelse på taubane som under andre omstendigheter kunne ha ført til en taubaneulykke</td>\n</tr>",
-        "text": "d)alvorlig taubanehendelse: uønsket hendelse på taubane som under andre omstendigheter kunne ha ført til en taubaneulykke"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">alvorlig taubanehendelse:</em> uønsket hendelse på taubane som under andre omstendigheter kunne ha ført til en taubaneulykke</td>\n</tr>",
+        "text": "d)\talvorlig taubanehendelse: uønsket hendelse på taubane som under andre omstendigheter kunne ha ført til en taubaneulykke"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">taubanehendelse:</em> enhver annen uønsket hendelse enn en ulykke på taubane, som har sammenheng med driften, og som innvirker på driftssikkerheten.</td>\n</tr>",
-        "text": "e)taubanehendelse: enhver annen uønsket hendelse enn en ulykke på taubane, som har sammenheng med driften, og som innvirker på driftssikkerheten."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">taubanehendelse:</em> enhver annen uønsket hendelse enn en ulykke på taubane, som har sammenheng med driften, og som innvirker på driftssikkerheten.</td>\n</tr>",
+        "text": "e)\ttaubanehendelse: enhver annen uønsket hendelse enn en ulykke på taubane, som har sammenheng med driften, og som innvirker på driftssikkerheten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -161,81 +165,81 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bestemmelser om definisjon av taubane og taubanevirksomhet, samt helt eller delvis unntak fra loven</td>\n</tr>",
-        "text": "a)bestemmelser om definisjon av taubane og taubanevirksomhet, samt helt eller delvis unntak fra loven"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bestemmelser om definisjon av taubane og taubanevirksomhet, samt helt eller delvis unntak fra loven</td>\n</tr>",
+        "text": "a)\tbestemmelser om definisjon av taubane og taubanevirksomhet, samt helt eller delvis unntak fra loven"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av taubane</td>\n</tr>",
-        "text": "b)saksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av taubane"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av taubane</td>\n</tr>",
+        "text": "b)\tsaksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av taubane"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, magnetinduktiv prøving, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt</td>\n</tr>",
-        "text": "c)tekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, magnetinduktiv prøving, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, magnetinduktiv prøving, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt</td>\n</tr>",
+        "text": "c)\ttekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, magnetinduktiv prøving, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">godkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhet</td>\n</tr>",
-        "text": "d)godkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhet"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">godkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhet</td>\n</tr>",
+        "text": "d)\tgodkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhet"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">godkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personell</td>\n</tr>",
-        "text": "e)godkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personell"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">godkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personell</td>\n</tr>",
+        "text": "e)\tgodkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personell"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">universell utforming av byggverk, innretninger og billettsystemer</td>\n</tr>",
-        "text": "f)universell utforming av byggverk, innretninger og billettsystemer"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">universell utforming av byggverk, innretninger og billettsystemer</td>\n</tr>",
+        "text": "f)\tuniversell utforming av byggverk, innretninger og billettsystemer"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">plikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skje</td>\n</tr>",
-        "text": "g)plikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skje"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">plikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skje</td>\n</tr>",
+        "text": "g)\tplikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skje"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandling av personopplysninger</td>\n</tr>",
-        "text": "h)behandling av personopplysninger"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandling av personopplysninger</td>\n</tr>",
+        "text": "h)\tbehandling av personopplysninger"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafalles</td>\n</tr>",
-        "text": "i)tvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafalles"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafalles</td>\n</tr>",
+        "text": "i)\ttvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafalles"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkning</td>\n</tr>",
-        "text": "j)hvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkning"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkning</td>\n</tr>",
+        "text": "j)\thvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkning"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gebyr, årsgebyr og sektoravgift</td>\n</tr>",
-        "text": "k)gebyr, årsgebyr og sektoravgift"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gebyr, årsgebyr og sektoravgift</td>\n</tr>",
+        "text": "k)\tgebyr, årsgebyr og sektoravgift"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til naboeiendommer</td>\n</tr>",
-        "text": "l)krav til naboeiendommer"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til naboeiendommer</td>\n</tr>",
+        "text": "l)\tkrav til naboeiendommer"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomføring av EØS-avtalen på taubaneområdet</td>\n</tr>",
-        "text": "m)gjennomføring av EØS-avtalen på taubaneområdet"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomføring av EØS-avtalen på taubaneområdet</td>\n</tr>",
+        "text": "m)\tgjennomføring av EØS-avtalen på taubaneområdet"
     },
     {
         "tag": "p",
@@ -249,6 +253,7 @@
         "html": "Kapittel 2. Tillatelse og krav til taubanevirksomheten",
         "text": "Kapittel 2. Tillatelse og krav til taubanevirksomheten"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -275,6 +280,7 @@
         "text": "Taubanevirksomheten skal stanse driften om hensynet til sikkerheten tilsier det."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -296,9 +302,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For søknad om driftstillatelse etter denne loven skal saksbehandlingsfrist være fire uker. Tjenesteloven § 11 andre ledd gjelder ikke for driftstillatelser etter denne loven.",
+        "html": "For søknad om driftstillatelse etter denne loven skal saksbehandlingsfrist være fire uker. <a data-id=\"lov/2009-06-19-103/§11\" class=\" reference\" href=\"/lov/2009-06-19-103/%C2%A711\">Tjenesteloven § 11</a> andre ledd gjelder ikke for driftstillatelser etter <a data-id=\"lov/2017-05-22-29/§11\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A711\">denne lov</a>en.",
         "text": "For søknad om driftstillatelse etter denne loven skal saksbehandlingsfrist være fire uker. Tjenesteloven § 11 andre ledd gjelder ikke for driftstillatelser etter denne loven."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -318,6 +325,7 @@
         "html": "Taubanevirksomheten skal etablere et system for å sikre og dokumentere at kravene i eller i medhold av denne loven er oppfylt.",
         "text": "Taubanevirksomheten skal etablere et system for å sikre og dokumentere at kravene i eller i medhold av denne loven er oppfylt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -356,6 +364,7 @@
         "text": "Kapittel 3. Varslings-, rapporterings- og taushetsplikt"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -381,6 +390,7 @@
         "text": "Taubanevirksomheten skal varsle tilsynsmyndigheten om taubaneulykke eller alvorlig taubanehendelse."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -400,6 +410,7 @@
         "text": "Taubanevirksomheten skal rapportere opplysninger om taubaneulykker, alvorlige taubanehendelser og taubanehendelser til tilsynsmyndigheten."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -415,13 +426,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Enhver som utfører arbeid eller tjeneste for tilsynsmyndigheten, har taushetsplikt etter forvaltningsloven om det de får kjennskap til under utføring av arbeidet eller tjenesten. Forvaltningsloven § 13 b første ledd nr. 6 gjelder likevel ikke.",
+        "html": "Enhver som utfører arbeid eller tjeneste for tilsynsmyndigheten, har taushetsplikt etter forvaltningsloven om det de får kjennskap til under utføring av arbeidet eller tjenesten. <a data-id=\"lov/1967-02-10/§13b\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713b\">Forvaltningsloven § 13 b</a> første ledd nr. 6 gjelder likevel ikke.",
         "text": "Enhver som utfører arbeid eller tjeneste for tilsynsmyndigheten, har taushetsplikt etter forvaltningsloven om det de får kjennskap til under utføring av arbeidet eller tjenesten. Forvaltningsloven § 13 b første ledd nr. 6 gjelder likevel ikke."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Personer som nevnt i første ledd har i tillegg taushetsplikt om alle opplysninger som er innrapportert etter § 10. Dette gjelder ikke dersom tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre, eller opplysningene er nødvendige for å forklare årsaken til en taubaneulykke eller taubanehendelse.",
+        "html": "Personer som nevnt i første ledd har i tillegg taushetsplikt om alle opplysninger som er innrapportert etter <a data-id=\"lov/2017-05-22-29/§10\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A710\">§ 10</a>. Dette gjelder ikke dersom tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre, eller opplysningene er nødvendige for å forklare årsaken til en taubaneulykke eller taubanehendelse.",
         "text": "Personer som nevnt i første ledd har i tillegg taushetsplikt om alle opplysninger som er innrapportert etter § 10. Dette gjelder ikke dersom tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre, eller opplysningene er nødvendige for å forklare årsaken til en taubaneulykke eller taubanehendelse."
     },
     {
@@ -439,7 +450,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Opplysninger som tilsynsmyndigheten mottar i medhold av § 10, kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene.",
+        "html": "Opplysninger som tilsynsmyndigheten mottar i medhold av <a data-id=\"lov/2017-05-22-29/§10\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A710\">§ 10</a>, kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene.",
         "text": "Opplysninger som tilsynsmyndigheten mottar i medhold av § 10, kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene."
     },
     {
@@ -448,6 +459,7 @@
         "html": "Kapittel 4. Tilsyn. Reaksjoner ved lovbrudd",
         "text": "Kapittel 4. Tilsyn. Reaksjoner ved lovbrudd"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -468,6 +480,7 @@
         "text": "Departementet, eller den departementet delegerer oppgaven til, skal føre tilsyn med at loven med tilhørende forskrifter overholdes (tilsynsmyndigheten)."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -486,6 +499,7 @@
         "html": "Tilsynsmyndigheten skal til enhver tid ha uhindret adgang til ethvert sted som omfattes av loven. En representant for taubanevirksomheten har rett til, og kan pålegges, å være til stede under tilsynet. Tilsynsmyndigheten kan likevel bestemme at representanter for taubanevirksomheten ikke skal være til stede ved intervjuer av arbeidstakere hvis tilstedeværelsen ikke kan skje uten vesentlig ulempe, eller hvis formålet med tilsynet kan settes i fare.",
         "text": "Tilsynsmyndigheten skal til enhver tid ha uhindret adgang til ethvert sted som omfattes av loven. En representant for taubanevirksomheten har rett til, og kan pålegges, å være til stede under tilsynet. Tilsynsmyndigheten kan likevel bestemme at representanter for taubanevirksomheten ikke skal være til stede ved intervjuer av arbeidstakere hvis tilstedeværelsen ikke kan skje uten vesentlig ulempe, eller hvis formålet med tilsynet kan settes i fare."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -506,6 +520,7 @@
         "text": "Enhver som er underlagt tilsyn, skal uten hinder av taushetsplikt legge frem opplysninger som tilsynsmyndigheten mener er nødvendige for å kunne utføre tilsynet. Tilsynsmyndigheten kan bestemme i hvilken form opplysningene skal gis."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -516,7 +531,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \">Pålegg om korrigerende tiltak </em>",
-        "text": "Pålegg om korrigerende tiltak"
+        "text": "Pålegg om korrigerende tiltak "
     },
     {
         "tag": "p",
@@ -524,6 +539,7 @@
         "html": "Ved forhold i strid med bestemmelser gitt i eller i medhold av denne loven, kan tilsynet gi pålegg om korrigerende tiltak. Ved utferdigelsen av pålegg skal det settes en frist for oppfyllelse. Samtidig med utferdigelsen av pålegg kan det fastsettes tvangsmulkt.",
         "text": "Ved forhold i strid med bestemmelser gitt i eller i medhold av denne loven, kan tilsynet gi pålegg om korrigerende tiltak. Ved utferdigelsen av pålegg skal det settes en frist for oppfyllelse. Samtidig med utferdigelsen av pålegg kan det fastsettes tvangsmulkt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -543,6 +559,7 @@
         "html": "Tilsynsmyndigheten kan pålegge øyeblikkelig stans av driften helt eller delvis eller opphør av bruk med øyeblikkelig virkning dersom det avdekkes forhold som kan medføre fare for helse, miljø eller sikkerhet. Slikt pålegg kan gis uten forhåndsvarsel. Om nødvendig kan tilsynsmyndigheten kreve bistand av politiet for gjennomføring av pålegg om stans eller opphør av bruk.",
         "text": "Tilsynsmyndigheten kan pålegge øyeblikkelig stans av driften helt eller delvis eller opphør av bruk med øyeblikkelig virkning dersom det avdekkes forhold som kan medføre fare for helse, miljø eller sikkerhet. Slikt pålegg kan gis uten forhåndsvarsel. Om nødvendig kan tilsynsmyndigheten kreve bistand av politiet for gjennomføring av pålegg om stans eller opphør av bruk."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -574,6 +591,7 @@
         "html": "Tilbakekall av driftstillatelse gjelder inntil taubanevirksomheten ved ny søknad kan dokumentere at det forhold som forårsaket tilbakekallet, er rettet og vilkårene for driftstillatelse for øvrig er oppfylt.",
         "text": "Tilbakekall av driftstillatelse gjelder inntil taubanevirksomheten ved ny søknad kan dokumentere at det forhold som forårsaket tilbakekallet, er rettet og vilkårene for driftstillatelse for øvrig er oppfylt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -618,6 +636,7 @@
         "text": "Tvangsmulkt er tvangsgrunnlag for utlegg."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -644,33 +663,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet og omfang</td>\n</tr>",
-        "text": "a)overtredelsens grovhet og omfang"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet og omfang</td>\n</tr>",
+        "text": "a)\tovertredelsens grovhet og omfang"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak</td>\n</tr>",
-        "text": "b)om overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak</td>\n</tr>",
+        "text": "b)\tom overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er gjentatt</td>\n</tr>",
-        "text": "c)om overtredelsen er gjentatt"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er gjentatt</td>\n</tr>",
+        "text": "c)\tom overtredelsen er gjentatt"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen har eller kunne oppnådd noen fordel ved overtredelsen</td>\n</tr>",
-        "text": "d)om overtrederen har eller kunne oppnådd noen fordel ved overtredelsen"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen har eller kunne oppnådd noen fordel ved overtredelsen</td>\n</tr>",
+        "text": "d)\tom overtrederen har eller kunne oppnådd noen fordel ved overtredelsen"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrederens økonomiske evne.</td>\n</tr>",
-        "text": "e)overtrederens økonomiske evne."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrederens økonomiske evne.</td>\n</tr>",
+        "text": "e)\tovertrederens økonomiske evne."
     },
     {
         "tag": "p",
@@ -678,6 +697,7 @@
         "html": "Overtredelsesgebyret tilfaller statskassen.",
         "text": "Overtredelsesgebyret tilfaller statskassen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -700,7 +720,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som uaktsomt eller forsettlig overtrer forbudet i §§ 21 eller 22, straffes med bøter eller fengsel inntil ett år.",
+        "html": "Den som uaktsomt eller forsettlig overtrer forbudet i <a data-id=\"lov/2017-05-22-29/§21\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A721\">§§ 21</a> eller 22, straffes med bøter eller fengsel inntil ett år.",
         "text": "Den som uaktsomt eller forsettlig overtrer forbudet i §§ 21 eller 22, straffes med bøter eller fengsel inntil ett år."
     },
     {
@@ -709,6 +729,7 @@
         "html": "Kapittel 5. Ruspåvirkning, pliktavhold og testing av ruspåvirkning",
         "text": "Kapittel 5. Ruspåvirkning, pliktavhold og testing av ruspåvirkning"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -730,32 +751,32 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">med en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet,</td>\n</tr>",
-        "text": "a)med en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">med en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet,</td>\n</tr>",
+        "text": "a)\tmed en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">med en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft,</td>\n</tr>",
-        "text": "b)med en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">med en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft,</td>\n</tr>",
+        "text": "b)\tmed en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">under påvirkning av et annet berusende eller bedøvende middel enn alkohol, eller</td>\n</tr>",
-        "text": "c)under påvirkning av et annet berusende eller bedøvende middel enn alkohol, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">under påvirkning av et annet berusende eller bedøvende middel enn alkohol, eller</td>\n</tr>",
+        "text": "c)\tunder påvirkning av et annet berusende eller bedøvende middel enn alkohol, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når sykdom, legemidler, tretthet eller lignende årsak gjør vedkommende uskikket til å utføre tjenesten på betryggende måte.</td>\n</tr>",
-        "text": "d)når sykdom, legemidler, tretthet eller lignende årsak gjør vedkommende uskikket til å utføre tjenesten på betryggende måte."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når sykdom, legemidler, tretthet eller lignende årsak gjør vedkommende uskikket til å utføre tjenesten på betryggende måte.</td>\n</tr>",
+        "text": "d)\tnår sykdom, legemidler, tretthet eller lignende årsak gjør vedkommende uskikket til å utføre tjenesten på betryggende måte."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Overskrider konsentrasjonen i blodet av annet berusende eller bedøvende middel grenser fastsatt i forskrift gitt med hjemmel i vegtrafikkloven § 22 sjette ledd, eller en mengde slikt middel i kroppen som kan føre til så stor konsentrasjon av slikt middel i blodet, regnes han i alle tilfeller for påvirket etter første ledd bokstav c.",
+        "html": "Overskrider konsentrasjonen i blodet av annet berusende eller bedøvende middel grenser fastsatt i forskrift gitt med hjemmel i <a data-id=\"lov/1965-06-18-4/§22\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A722\">vegtrafikkloven § 22</a> sjette ledd, eller en mengde slikt middel i kroppen som kan føre til så stor konsentrasjon av slikt middel i blodet, regnes han i alle tilfeller for påvirket etter første ledd bokstav c.",
         "text": "Overskrider konsentrasjonen i blodet av annet berusende eller bedøvende middel grenser fastsatt i forskrift gitt med hjemmel i vegtrafikkloven § 22 sjette ledd, eller en mengde slikt middel i kroppen som kan føre til så stor konsentrasjon av slikt middel i blodet, regnes han i alle tilfeller for påvirket etter første ledd bokstav c."
     },
     {
@@ -776,6 +797,7 @@
         "html": "Den som forbudet i første ledd gjelder for, må ikke nyte alkohol eller ta andre berusende eller bedøvende midler i de første seks timer etter at tjenesten er avsluttet når vedkommende forstår eller må forstå at det kan bli politietterforskning på grunn av utførelsen av tjenesten. Dette forbudet gjelder likevel ikke etter at blodprøve eller utåndingsprøve er tatt, eller politiet har avgjort at slik prøve ikke skal tas.",
         "text": "Den som forbudet i første ledd gjelder for, må ikke nyte alkohol eller ta andre berusende eller bedøvende midler i de første seks timer etter at tjenesten er avsluttet når vedkommende forstår eller må forstå at det kan bli politietterforskning på grunn av utførelsen av tjenesten. Dette forbudet gjelder likevel ikke etter at blodprøve eller utåndingsprøve er tatt, eller politiet har avgjort at slik prøve ikke skal tas."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -802,6 +824,7 @@
         "text": "Tjenestetiden omfatter tidsrommet fra den tid da personell i henhold til sine tjenesteplikter påbegynner sitt arbeid, og til det avsluttes. Forbudet gjelder også i et tidsrom av åtte timer før tjenestetiden begynner."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -817,13 +840,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Politiet kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om en person er påvirket av annet berusende eller bedøvende middel når det er grunn til å tro at personen har overtrådt bestemmelsene i § 21 eller § 22, eller personen med eller uten skyld er innblandet i en taubaneulykke eller taubanehendelse eller det blir krevd som ledd i kontroll av taubanevirksomheten.",
+        "html": "Politiet kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om en person er påvirket av annet berusende eller bedøvende middel når det er grunn til å tro at personen har overtrådt bestemmelsene i <a data-id=\"lov/2017-05-22-29/§21\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A721\">§ 21</a> eller <a data-id=\"lov/2017-05-22-29/§22\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A722\">§ 22</a>, eller personen med eller uten skyld er innblandet i en taubaneulykke eller taubanehendelse eller det blir krevd som ledd i kontroll av taubanevirksomheten.",
         "text": "Politiet kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om en person er påvirket av annet berusende eller bedøvende middel når det er grunn til å tro at personen har overtrådt bestemmelsene i § 21 eller § 22, eller personen med eller uten skyld er innblandet i en taubaneulykke eller taubanehendelse eller det blir krevd som ledd i kontroll av taubanevirksomheten."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom testresultatet eller andre forhold gir grunn til å tro at bestemmelsene i § 21 eller § 22 er overtrådt, kan politiet foreta særskilt undersøkelse av om det forekommer tegn eller symptomer på ruspåvirkning, og framstille personen for utåndingsprøve, blodprøve, spyttprøve og klinisk legeundersøkelse for å søke å fastslå påvirkningen. Slik framstilling skal i alminnelighet finne sted når personen nekter å medvirke til alkotest eller foreløpig test av om personen er påvirket av annet berusende eller bedøvende middel. Utåndingsprøve tas av politiet. Blodprøve og spyttprøve kan tas av lege, sykepleier, helsesekretær eller bioingeniør. Klinisk legeundersøkelse foretas når det er mistanke om påvirkning av andre midler enn alkohol eller andre særlige grunner taler for det.",
+        "html": "Dersom testresultatet eller andre forhold gir grunn til å tro at bestemmelsene i <a data-id=\"lov/2017-05-22-29/§21\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A721\">§ 21</a> eller <a data-id=\"lov/2017-05-22-29/§22\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A722\">§ 22</a> er overtrådt, kan politiet foreta særskilt undersøkelse av om det forekommer tegn eller symptomer på ruspåvirkning, og framstille personen for utåndingsprøve, blodprøve, spyttprøve og klinisk legeundersøkelse for å søke å fastslå påvirkningen. Slik framstilling skal i alminnelighet finne sted når personen nekter å medvirke til alkotest eller foreløpig test av om personen er påvirket av annet berusende eller bedøvende middel. Utåndingsprøve tas av politiet. Blodprøve og spyttprøve kan tas av lege, sykepleier, helsesekretær eller bioingeniør. Klinisk legeundersøkelse foretas når det er mistanke om påvirkning av andre midler enn alkohol eller andre særlige grunner taler for det.",
         "text": "Dersom testresultatet eller andre forhold gir grunn til å tro at bestemmelsene i § 21 eller § 22 er overtrådt, kan politiet foreta særskilt undersøkelse av om det forekommer tegn eller symptomer på ruspåvirkning, og framstille personen for utåndingsprøve, blodprøve, spyttprøve og klinisk legeundersøkelse for å søke å fastslå påvirkningen. Slik framstilling skal i alminnelighet finne sted når personen nekter å medvirke til alkotest eller foreløpig test av om personen er påvirket av annet berusende eller bedøvende middel. Utåndingsprøve tas av politiet. Blodprøve og spyttprøve kan tas av lege, sykepleier, helsesekretær eller bioingeniør. Klinisk legeundersøkelse foretas når det er mistanke om påvirkning av andre midler enn alkohol eller andre særlige grunner taler for det."
     },
     {
@@ -832,6 +855,7 @@
         "html": "Kapittel 6. Andre bestemmelser",
         "text": "Kapittel 6. Andre bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -854,7 +878,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan kreve gebyr som skal dekke kostnader knyttet til godkjenning av virksomheter etter § 4 andre ledd bokstav d) og godkjenning eller sertifisering av personell etter § 4 andre ledd bokstav e).",
+        "html": "Departementet kan kreve gebyr som skal dekke kostnader knyttet til godkjenning av virksomheter etter <a data-id=\"lov/2017-05-22-29/§4\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A74\">§ 4</a> andre ledd bokstav d) og godkjenning eller sertifisering av personell etter <a data-id=\"lov/2017-05-22-29/§4\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A74\">§ 4</a> andre ledd bokstav e).",
         "text": "Departementet kan kreve gebyr som skal dekke kostnader knyttet til godkjenning av virksomheter etter § 4 andre ledd bokstav d) og godkjenning eller sertifisering av personell etter § 4 andre ledd bokstav e)."
     },
     {
@@ -869,6 +893,7 @@
         "html": "Departementet kan fastsette en generell sektoravgift som skal dekke tilsynskostnadene til tilsynsmyndigheten dersom det ikke anses hensiktsmessig å pålegge den enkelte taubanevirksomhet gebyr direkte.",
         "text": "Departementet kan fastsette en generell sektoravgift som skal dekke tilsynskostnadene til tilsynsmyndigheten dersom det ikke anses hensiktsmessig å pålegge den enkelte taubanevirksomhet gebyr direkte."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -885,9 +910,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene i jernbaneloven §§ 7 og 7 a gjelder på samme måte for taubaner som driver ordinær persontransport, og som inngår i kollektivtransporttilbudet i et fylke.",
+        "html": "Reglene i <a data-id=\"lov/1993-06-11-100/§7\" class=\" reference\" href=\"/lov/1993-06-11-100/%C2%A77\">jernbaneloven §§ 7</a> og <a data-id=\"lov/1993-06-11-100/§7a\" class=\" reference\" href=\"/lov/1993-06-11-100/%C2%A77a\">7 a</a> gjelder på samme måte for taubaner som driver ordinær persontransport, og som inngår i kollektivtransporttilbudet i et fylke.",
         "text": "Reglene i jernbaneloven §§ 7 og 7 a gjelder på samme måte for taubaner som driver ordinær persontransport, og som inngår i kollektivtransporttilbudet i et fylke."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -920,6 +946,7 @@
         "text": "Eieren eller rettighetshaveren har krav på vederlag etter skjønn for skader og ulemper som følger av tiltakene i andre ledd, og for eventuelle utgifter knyttet til dette."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -951,6 +978,7 @@
         "text": "Departementet kan fjerne taubanen for taubanevirksomhetens eller eierens regning og risiko hvis den ikke er fjernet innen en fastsatt frist. Utgiftene til fjerning er tvangsgrunnlag for utlegg."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -972,7 +1000,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved ekspropriasjon av nødvendig grunn og rettigheter for anleggelse av taubane gjelder reglene i lov 23. oktober 1959 om oreigning av fast eiendom og lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eiendom.",
+        "html": "Ved ekspropriasjon av nødvendig grunn og rettigheter for anleggelse av taubane gjelder reglene i lov 23. oktober 1959 om oreigning av fast eiendom og <a data-id=\"lov/1984-04-06-17\" class=\" reference\" href=\"/lov/1984-04-06-17\">lov 6. april 1984 nr. 17</a> om vederlag ved oreigning av fast eiendom.",
         "text": "Ved ekspropriasjon av nødvendig grunn og rettigheter for anleggelse av taubane gjelder reglene i lov 23. oktober 1959 om oreigning av fast eiendom og lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eiendom."
     },
     {
@@ -981,6 +1009,7 @@
         "html": "Kapittel 7. Avsluttende bestemmelser",
         "text": "Kapittel 7. Avsluttende bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1001,6 +1030,7 @@
         "text": "Loven gjelder fra det tidspunktet Kongen bestemmer."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1016,19 +1046,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra det tidspunktet loven trer i kraft, oppheves lov 14. juni 1912 nr. 1 om taugbaner og løipestrenger.",
+        "html": "Fra det tidspunktet loven trer i kraft, oppheves <a data-id=\"lov/1912-06-14-1\" class=\" reference\" href=\"/lov/1912-06-14-1\">lov 14. juni 1912 nr. 1</a> om taugbaner og løipestrenger.",
         "text": "Fra det tidspunktet loven trer i kraft, oppheves lov 14. juni 1912 nr. 1 om taugbaner og løipestrenger."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra det samme tidspunktet skal lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. § 12 lyde:",
+        "html": "Fra det samme tidspunktet skal <a data-id=\"lov/1993-06-11-100\" class=\" reference\" href=\"/lov/1993-06-11-100\">lov 11. juni 1993 nr. 100</a> om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. <a data-id=\"lov/2017-05-22-29/§12\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A712\">§ 12</a> lyde:",
         "text": "Fra det samme tidspunktet skal lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. § 12 lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 12. <em class=\" \">(Tilsyn med omsetning av samtrafikkomponenter m.v.)</em>",
+        "html": "<a data-id=\"lov/2017-05-22-29/§12\" class=\" reference\" href=\"/lov/2017-05-22-29/%C2%A712\">§ 12</a>. <em class=\" \">(Tilsyn med omsetning av samtrafikkomponenter m.v.)</em>",
         "text": "§ 12. (Tilsyn med omsetning av samtrafikkomponenter m.v.)"
     },
     {
@@ -1046,9 +1076,10 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Fra det samme tidspunktet skal lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom § 30 nr. 1 oppheves.",
+        "html": "Fra det samme tidspunktet skal <a data-id=\"lov/1959-10-23-3\" class=\" reference\" href=\"/lov/1959-10-23-3\">lov 23. oktober 1959 nr. 3</a> om oreigning av fast eigedom <a data-id=\"lov/1959-10-23-3/§30\" class=\" reference\" href=\"/lov/1959-10-23-3/%C2%A730\">§ 30</a> nr. 1 oppheves.",
         "text": "Fra det samme tidspunktet skal lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom § 30 nr. 1 oppheves."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1065,7 +1096,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskrifter og vedtak gitt i medhold av bestemmelser i lov 14. juni 1912 nr. 1 om taugbaner og løipestrenger gjelder i den utstrekning de ikke strider mot loven her eller forskrifter fastsatt med hjemmel i lov.",
+        "html": "Forskrifter og vedtak gitt i medhold av bestemmelser i <a data-id=\"lov/1912-06-14-1\" class=\" reference\" href=\"/lov/1912-06-14-1\">lov 14. juni 1912 nr. 1</a> om taugbaner og løipestrenger gjelder i den utstrekning de ikke strider mot loven her eller forskrifter fastsatt med hjemmel i lov.",
         "text": "Forskrifter og vedtak gitt i medhold av bestemmelser i lov 14. juni 1912 nr. 1 om taugbaner og løipestrenger gjelder i den utstrekning de ikke strider mot loven her eller forskrifter fastsatt med hjemmel i lov."
     }
 ]

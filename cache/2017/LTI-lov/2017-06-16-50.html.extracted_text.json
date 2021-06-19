@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.80 L (2016–2017), Innst.388 L (2016–2017), Lovvedtak 117 (2016–2017). Stortingets første og andre gangs behandling hhv. 12. og 15. juni 2017. Fremmet av Barne- og likestillingsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-80-l-201617\" class=\" reference\" href=\"/forarbeid/prop-80-l-201617\">Prop.80 L (2016–2017)</a>, <a data-id=\"forarbeid/inns-388-l-201617\" class=\" reference\" href=\"/forarbeid/inns-388-l-201617\">Innst.388 L (2016–2017)</a>, <a data-id=\"forarbeid/lovvedtak-117-201617\" class=\" reference\" href=\"/forarbeid/lovvedtak-117-201617\">Lovvedtak 117 (2016–2017)</a>. Stortingets første og andre gangs behandling hhv. 12. og 15. juni 2017. Fremmet av Barne- og likestillingsdepartementet.",
         "text": "Prop.80 L (2016–2017), Innst.388 L (2016–2017), Lovvedtak 117 (2016–2017). Stortingets første og andre gangs behandling hhv. 12. og 15. juni 2017. Fremmet av Barne- og likestillingsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 10. juni 2005 nr. 40 om Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda (diskrimineringsombudsloven).",
+        "html": "<a data-id=\"lov/2005-06-10-40\" class=\" reference\" href=\"/lov/2005-06-10-40\">Lov 10. juni 2005 nr. 40</a> om Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda (diskrimineringsombudsloven).",
         "text": "Lov 10. juni 2005 nr. 40 om Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda (diskrimineringsombudsloven)."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 18. mai 1979 nr. 18 om foreldelse av fordringer (foreldelsesloven).",
+        "html": "<a data-id=\"lov/1979-05-18-18\" class=\" reference\" href=\"/lov/1979-05-18-18\">Lov 18. mai 1979 nr. 18</a> om foreldelse av fordringer (foreldelsesloven).",
         "text": "Lov 18. mai 1979 nr. 18 om foreldelse av fordringer (foreldelsesloven)."
     },
     {
@@ -35,6 +35,7 @@
         "html": "Kapittel 1 Generelle bestemmelser",
         "text": "Kapittel 1 Generelle bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -62,52 +63,53 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">likestillings- og diskrimineringsloven, hvis ikke annet fremgår av denne loven</td>\n</tr>",
-        "text": "a)likestillings- og diskrimineringsloven, hvis ikke annet fremgår av denne loven"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">likestillings- og diskrimineringsloven, hvis ikke annet fremgår av denne loven</td>\n</tr>",
+        "text": "a)\tlikestillings- og diskrimineringsloven, hvis ikke annet fremgår av denne loven"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeidsmiljøloven kapittel 13, med unntak av § 13-1 tredje ledd</td>\n</tr>",
-        "text": "b)arbeidsmiljøloven kapittel 13, med unntak av § 13-1 tredje ledd"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-17-62/kap13\" class=\" reference\" href=\"/lov/2005-06-17-62/kap13\">arbeidsmiljøloven kapittel 13</a>, med unntak av <a data-id=\"lov/2005-06-17-62/§13-1\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A713-1\">§ 13-1</a> tredje ledd</td>\n</tr>",
+        "text": "b)\tarbeidsmiljøloven kapittel 13, med unntak av § 13-1 tredje ledd"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eierseksjonsloven § 3 a</td>\n</tr>",
-        "text": "c)eierseksjonsloven § 3 a"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eierseksjonsloven § 3 a</td>\n</tr>",
+        "text": "c)\teierseksjonsloven § 3 a"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">husleieloven § 1-8</td>\n</tr>",
-        "text": "d)husleieloven § 1-8"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-03-26-17/§1-8\" class=\" reference\" href=\"/lov/1999-03-26-17/%C2%A71-8\">husleieloven § 1-8</a></td>\n</tr>",
+        "text": "d)\thusleieloven § 1-8"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bustadbyggjelagslova § 1-4</td>\n</tr>",
-        "text": "e)bustadbyggjelagslova § 1-4"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2003-06-06-38/§1-4\" class=\" reference\" href=\"/lov/2003-06-06-38/%C2%A71-4\">bustadbyggjelagslova § 1-4</a></td>\n</tr>",
+        "text": "e)\tbustadbyggjelagslova § 1-4"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">burettslagslova § 1-5</td>\n</tr>",
-        "text": "f)burettslagslova § 1-5"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2003-06-06-39/§1-5\" class=\" reference\" href=\"/lov/2003-06-06-39/%C2%A71-5\">burettslagslova § 1-5</a></td>\n</tr>",
+        "text": "f)\tburettslagslova § 1-5"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skipsarbeidsloven kapittel 10, med unntak av § 10-1</td>\n</tr>",
-        "text": "g)skipsarbeidsloven kapittel 10, med unntak av § 10-1"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2013-06-21-102/kap10\" class=\" reference\" href=\"/lov/2013-06-21-102/kap10\">skipsarbeidsloven kapittel 10</a>, med unntak av <a data-id=\"lov/2013-06-21-102/§10-1\" class=\" reference\" href=\"/lov/2013-06-21-102/%C2%A710-1\">§ 10-1</a>\n</td>\n</tr>",
+        "text": "g)\tskipsarbeidsloven kapittel 10, med unntak av § 10-1"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemndas håndheving, jf. § 7, omfatter ikke virksomheten til Stortinget, Riksrevisjonen, Stortingets ombudsmann for forvaltningen og andre organer for Stortinget. Den omfatter heller ikke virksomheten til domstolene, Domstoladministrasjonen, Innstillingsrådet for dommere og Tilsynsutvalget for dommere.",
+        "html": "Nemndas håndheving, jf. <a data-id=\"lov/2017-06-16-50/§7\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A77\">§ 7</a>, omfatter ikke virksomheten til Stortinget, Riksrevisjonen, Stortingets ombudsmann for forvaltningen og andre organer for Stortinget. Den omfatter heller ikke virksomheten til domstolene, Domstoladministrasjonen, Innstillingsrådet for dommere og Tilsynsutvalget for dommere.",
         "text": "Nemndas håndheving, jf. § 7, omfatter ikke virksomheten til Stortinget, Riksrevisjonen, Stortingets ombudsmann for forvaltningen og andre organer for Stortinget. Den omfatter heller ikke virksomheten til domstolene, Domstoladministrasjonen, Innstillingsrådet for dommere og Tilsynsutvalget for dommere."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -124,7 +126,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom ikke annet er bestemt, gjelder forvaltningsloven for ombudets og nemndas virksomhet. Forvaltningsloven §§ 35 og 51 femte ledd gjelder ikke. Dersom nemndas vedtak er kjent ugyldig ved dom, gjelder likevel forvaltningsloven § 35 første ledd bokstav c.",
+        "html": "Dersom ikke annet er bestemt, gjelder forvaltningsloven for ombudets og nemndas virksomhet. <a data-id=\"lov/1967-02-10/§35\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A735\">Forvaltningsloven §§ 35</a> og <a data-id=\"lov/1967-02-10/§51\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A751\">51</a> femte ledd gjelder ikke. Dersom nemndas vedtak er kjent ugyldig ved dom, gjelder likevel <a data-id=\"lov/1967-02-10/§35\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A735\">forvaltningsloven § 35</a> første ledd bokstav c.",
         "text": "Dersom ikke annet er bestemt, gjelder forvaltningsloven for ombudets og nemndas virksomhet. Forvaltningsloven §§ 35 og 51 femte ledd gjelder ikke. Dersom nemndas vedtak er kjent ugyldig ved dom, gjelder likevel forvaltningsloven § 35 første ledd bokstav c."
     },
     {
@@ -133,6 +135,7 @@
         "html": "Nemndas vedtak og beslutninger kan ikke påklages.",
         "text": "Nemndas vedtak og beslutninger kan ikke påklages."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -149,13 +152,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Offentlige myndigheter plikter uten hinder av taushetsplikt å gi ombudet og nemnda de opplysningene som er nødvendige for å håndheve bestemmelsene nevnt i § 1 annet ledd. Slike opplysninger kan også kreves av andre som har vitneplikt etter tvisteloven. Tvisteloven § 24-8 tredje ledd gjelder tilsvarende. Avgjørelse som nevnt i tvisteloven § 22-6 første ledd annet punktum, § 22-7, § 22-8 annet ledd, § 22-9 annet til fjerde ledd, § 22-10 annet punktum og § 22-11 annet ledd, treffes av tingretten.",
+        "html": "Offentlige myndigheter plikter uten hinder av taushetsplikt å gi ombudet og nemnda de opplysningene som er nødvendige for å håndheve bestemmelsene nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd. Slike opplysninger kan også kreves av andre som har vitneplikt etter tvisteloven. <a data-id=\"lov/2005-06-17-90/§24-8\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A724-8\">Tvisteloven § 24-8</a> tredje ledd gjelder tilsvarende. Avgjørelse som nevnt i <a data-id=\"lov/2005-06-17-90/§22-6\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A722-6\">tvisteloven § 22-6</a> første ledd annet punktum, <a data-id=\"lov/2005-06-17-90/§22-7\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A722-7\">§ 22-7</a>, <a data-id=\"lov/2005-06-17-90/§22-8\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A722-8\">§ 22-8</a> annet ledd, <a data-id=\"lov/2005-06-17-90/§22-9\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A722-9\">§ 22-9</a> annet til fjerde ledd, <a data-id=\"lov/2005-06-17-90/§22-10\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A722-10\">§ 22-10</a> annet punktum og <a data-id=\"lov/2005-06-17-90/§22-11\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A722-11\">§ 22-11</a> annet ledd, treffes av tingretten.",
         "text": "Offentlige myndigheter plikter uten hinder av taushetsplikt å gi ombudet og nemnda de opplysningene som er nødvendige for å håndheve bestemmelsene nevnt i § 1 annet ledd. Slike opplysninger kan også kreves av andre som har vitneplikt etter tvisteloven. Tvisteloven § 24-8 tredje ledd gjelder tilsvarende. Avgjørelse som nevnt i tvisteloven § 22-6 første ledd annet punktum, § 22-7, § 22-8 annet ledd, § 22-9 annet til fjerde ledd, § 22-10 annet punktum og § 22-11 annet ledd, treffes av tingretten."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ombudet og nemnda kan kreve bevisopptak ved domstolene, jf. domstolloven § 43 annet ledd.",
+        "html": "Ombudet og nemnda kan kreve bevisopptak ved domstolene, jf. <a data-id=\"lov/1915-08-13-5/§43\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A743\">domstolloven § 43</a> annet ledd.",
         "text": "Ombudet og nemnda kan kreve bevisopptak ved domstolene, jf. domstolloven § 43 annet ledd."
     },
     {
@@ -164,6 +167,7 @@
         "html": "Kapittel 2 Likestillings- og diskrimineringsombudet",
         "text": "Kapittel 2 Likestillings- og diskrimineringsombudet"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -190,6 +194,7 @@
         "text": "Ombudet er et uavhengig forvaltningsorgan administrativt underordnet Kongen og departementet. Kongen eller departementet kan ikke instruere ombudet om ombudets faglige virksomhet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -211,7 +216,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ombudet skal gi veiledning om bestemmelsene nevnt i § 1 annet ledd. Enhver kan henvende seg til ombudet for veiledning.",
+        "html": "Ombudet skal gi veiledning om bestemmelsene nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd. Enhver kan henvende seg til ombudet for veiledning.",
         "text": "Ombudet skal gi veiledning om bestemmelsene nevnt i § 1 annet ledd. Enhver kan henvende seg til ombudet for veiledning."
     },
     {
@@ -222,21 +227,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">De forente nasjoners internasjonale konvensjon 18. desember 1979 om avskaffelse av alle former for diskriminering av kvinner</td>\n</tr>",
-        "text": "a)De forente nasjoners internasjonale konvensjon 18. desember 1979 om avskaffelse av alle former for diskriminering av kvinner"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">De forente nasjoners internasjonale konvensjon 18. desember 1979 om avskaffelse av alle former for diskriminering av kvinner</td>\n</tr>",
+        "text": "a)\tDe forente nasjoners internasjonale konvensjon 18. desember 1979 om avskaffelse av alle former for diskriminering av kvinner"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">De forente nasjoners internasjonale konvensjon 21. desember 1965 om avskaffelse av alle former for rasediskriminering</td>\n</tr>",
-        "text": "b)De forente nasjoners internasjonale konvensjon 21. desember 1965 om avskaffelse av alle former for rasediskriminering"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">De forente nasjoners internasjonale konvensjon 21. desember 1965 om avskaffelse av alle former for rasediskriminering</td>\n</tr>",
+        "text": "b)\tDe forente nasjoners internasjonale konvensjon 21. desember 1965 om avskaffelse av alle former for rasediskriminering"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">De forente nasjoners internasjonale konvensjon 13. desember 2006 om rettighetene til mennesker med nedsatt funksjonsevne</td>\n</tr>",
-        "text": "c)De forente nasjoners internasjonale konvensjon 13. desember 2006 om rettighetene til mennesker med nedsatt funksjonsevne"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">De forente nasjoners internasjonale konvensjon 13. desember 2006 om rettighetene til mennesker med nedsatt funksjonsevne</td>\n</tr>",
+        "text": "c)\tDe forente nasjoners internasjonale konvensjon 13. desember 2006 om rettighetene til mennesker med nedsatt funksjonsevne"
     },
     {
         "tag": "h4",
@@ -244,6 +249,7 @@
         "html": "Kapittel 3 Diskrimineringsnemnda",
         "text": "Kapittel 3 Diskrimineringsnemnda"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -272,7 +278,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemndas ledere skal oppfylle kravene til dommere i domstolloven § 53 første ledd og § 54 annet ledd. Nemndas ledere skal ha dommererfaring, med mindre andre særlige kvalifikasjoner tilsier at slik erfaring ikke er nødvendig.",
+        "html": "Nemndas ledere skal oppfylle kravene til dommere i <a data-id=\"lov/1915-08-13-5/§53\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A753\">domstolloven § 53</a> første ledd og <a data-id=\"lov/1915-08-13-5/§54\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A754\">§ 54</a> annet ledd. Nemndas ledere skal ha dommererfaring, med mindre andre særlige kvalifikasjoner tilsier at slik erfaring ikke er nødvendig.",
         "text": "Nemndas ledere skal oppfylle kravene til dommere i domstolloven § 53 første ledd og § 54 annet ledd. Nemndas ledere skal ha dommererfaring, med mindre andre særlige kvalifikasjoner tilsier at slik erfaring ikke er nødvendig."
     },
     {
@@ -294,6 +300,7 @@
         "text": "Sakene i nemnda forberedes av et sekretariat. Sekretariatets leder ansettes av departementet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -309,57 +316,58 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda skal håndheve bestemmelsene nevnt i § 1 annet ledd, med unntak av følgende bestemmelser i likestillings- og diskrimineringsloven:",
+        "html": "Nemnda skal håndheve bestemmelsene nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd, med unntak av følgende bestemmelser i likestillings- og <a data-id=\"lov/2017-06-16-51/§1\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A71\">diskrimineringsloven:</a>",
         "text": "Nemnda skal håndheve bestemmelsene nevnt i § 1 annet ledd, med unntak av følgende bestemmelser i likestillings- og diskrimineringsloven:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 13 første ledd om seksuell trakassering</td>\n</tr>",
-        "text": "a)§ 13 første ledd om seksuell trakassering"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-50/§13\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A713\">§ 13</a> første ledd om seksuell trakassering</td>\n</tr>",
+        "text": "a)\t§ 13 første ledd om seksuell trakassering"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 18 om universell utforming av IKT</td>\n</tr>",
-        "text": "b)§ 18 om universell utforming av IKT"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-50/§18\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A718\">§ 18</a> om universell utforming av IKT</td>\n</tr>",
+        "text": "b)\t§ 18 om universell utforming av IKT"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 24 om offentlige myndigheters plikt til å arbeide for likestilling</td>\n</tr>",
-        "text": "c)§ 24 om offentlige myndigheters plikt til å arbeide for likestilling"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-50/§24\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A724\">§ 24</a> om offentlige myndigheters plikt til å arbeide for likestilling</td>\n</tr>",
+        "text": "c)\t§ 24 om offentlige myndigheters plikt til å arbeide for likestilling"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 25 om arbeidslivets organisasjoners plikt til å arbeide for likestilling</td>\n</tr>",
-        "text": "d)§ 25 om arbeidslivets organisasjoners plikt til å arbeide for likestilling"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-50/§25\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A725\">§ 25</a> om arbeidslivets organisasjoners plikt til å arbeide for likestilling</td>\n</tr>",
+        "text": "d)\t§ 25 om arbeidslivets organisasjoners plikt til å arbeide for likestilling"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 26 om arbeidsgivers plikt til å arbeide for likestilling</td>\n</tr>",
-        "text": "e)§ 26 om arbeidsgivers plikt til å arbeide for likestilling"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 26 om arbeidsgivers plikt til å arbeide for likestilling</td>\n</tr>",
+        "text": "e)\t§ 26 om arbeidsgivers plikt til å arbeide for likestilling"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 28 om kjønnsbalanse i offentlige utvalg mv.</td>\n</tr>",
-        "text": "f)§ 28 om kjønnsbalanse i offentlige utvalg mv."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 28 om kjønnsbalanse i offentlige utvalg mv.</td>\n</tr>",
+        "text": "f)\t§ 28 om kjønnsbalanse i offentlige utvalg mv."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 32 annet ledd om behandling av lønnsopplysninger</td>\n</tr>",
-        "text": "g)§ 32 annet ledd om behandling av lønnsopplysninger"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 32 annet ledd om behandling av lønnsopplysninger</td>\n</tr>",
+        "text": "g)\t§ 32 annet ledd om behandling av lønnsopplysninger"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 39 om straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap</td>\n</tr>",
-        "text": "h)§ 39 om straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 39 om straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap</td>\n</tr>",
+        "text": "h)\t§ 39 om straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -386,6 +394,7 @@
         "text": "Nemnda skal ikke representere parten utad."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -404,6 +413,7 @@
         "html": "Saksbehandlingen i nemnda er skriftlig. Nemnda skal vurdere om det av hensyn til sakens opplysning likevel bør gjennomføres muntlige forhandlinger. Avgjørelse om muntlige forhandlinger kan treffes av nemndleder. I saker hvor det er fremmet krav om oppreisning, har partene rett til muntlige forhandlinger.",
         "text": "Saksbehandlingen i nemnda er skriftlig. Nemnda skal vurdere om det av hensyn til sakens opplysning likevel bør gjennomføres muntlige forhandlinger. Avgjørelse om muntlige forhandlinger kan treffes av nemndleder. I saker hvor det er fremmet krav om oppreisning, har partene rett til muntlige forhandlinger."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -426,7 +436,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda kan henlegge en sak dersom forholdet er av bagatellmessig art, forholdet det er klaget over åpenbart ikke er i strid med de bestemmelser som er nevnt i § 1 annet ledd, eller saken etter bevisets stilling ikke lar seg opplyse tilstrekkelig. Beslutning om henleggelse skal grunngis.",
+        "html": "Nemnda kan henlegge en sak dersom forholdet er av bagatellmessig art, forholdet det er klaget over åpenbart ikke er i strid med de bestemmelser som er nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd, eller saken etter bevisets stilling ikke lar seg opplyse tilstrekkelig. Beslutning om henleggelse skal grunngis.",
         "text": "Nemnda kan henlegge en sak dersom forholdet er av bagatellmessig art, forholdet det er klaget over åpenbart ikke er i strid med de bestemmelser som er nevnt i § 1 annet ledd, eller saken etter bevisets stilling ikke lar seg opplyse tilstrekkelig. Beslutning om henleggelse skal grunngis."
     },
     {
@@ -435,6 +445,7 @@
         "html": "Vedtak og beslutning etter første og annet ledd kan fattes av nemndleder.",
         "text": "Vedtak og beslutning etter første og annet ledd kan fattes av nemndleder."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -451,13 +462,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda kan treffe vedtak dersom det foreligger et brudd på bestemmelser nevnt i § 1 annet ledd, med mindre annet er bestemt.",
+        "html": "Nemnda kan treffe vedtak dersom det foreligger et brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd, med mindre annet er bestemt.",
         "text": "Nemnda kan treffe vedtak dersom det foreligger et brudd på bestemmelser nevnt i § 1 annet ledd, med mindre annet er bestemt."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda kan med de unntak som følger av §§ 14 og 15, pålegge stansing, retting og andre tiltak som er nødvendige for å sikre at diskriminering, trakassering, instruks eller gjengjeldelse opphører, og for å hindre gjentakelse. Nemnda kan sette en frist for oppfyllelse av pålegget.",
+        "html": "Nemnda kan med de unntak som følger av <a data-id=\"lov/2017-06-16-50/§14\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A714\">§§ 14</a> og 15, pålegge stansing, retting og andre tiltak som er nødvendige for å sikre at diskriminering, trakassering, instruks eller gjengjeldelse opphører, og for å hindre gjentakelse. Nemnda kan sette en frist for oppfyllelse av pålegget.",
         "text": "Nemnda kan med de unntak som følger av §§ 14 og 15, pålegge stansing, retting og andre tiltak som er nødvendige for å sikre at diskriminering, trakassering, instruks eller gjengjeldelse opphører, og for å hindre gjentakelse. Nemnda kan sette en frist for oppfyllelse av pålegget."
     },
     {
@@ -466,6 +477,7 @@
         "html": "I saker der det antas å medføre ulempe eller skadevirkning å avvente nemndas behandling av saken, kan nemndleder treffe vedtak etter annet ledd.",
         "text": "I saker der det antas å medføre ulempe eller skadevirkning å avvente nemndas behandling av saken, kan nemndleder treffe vedtak etter annet ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -482,15 +494,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda kan treffe vedtak om oppreisning i arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, jf. likestillings- og diskrimineringsloven § 38 annet ledd første punktum, arbeidsmiljøloven § 13-9 og skipsarbeidsloven § 10-9.",
+        "html": "Nemnda kan treffe vedtak om oppreisning i arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, jf. likestillings- og <a data-id=\"lov/2017-06-16-51/§38\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A738\">diskrimineringsloven § 38</a> annet ledd første punktum, <a data-id=\"lov/2005-06-17-62/§13-9\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A713-9\">arbeidsmiljøloven § 13-9</a> og <a data-id=\"lov/2013-06-21-102/§10-9\" class=\" reference\" href=\"/lov/2013-06-21-102/%C2%A710-9\">skipsarbeidsloven § 10-9</a>.",
         "text": "Nemnda kan treffe vedtak om oppreisning i arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, jf. likestillings- og diskrimineringsloven § 38 annet ledd første punktum, arbeidsmiljøloven § 13-9 og skipsarbeidsloven § 10-9."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda kan enstemmig treffe vedtak om erstatning ved brudd på bestemmelsene nevnt i § 1 annet ledd, dersom innklagede ikke gjør gjeldende annet enn manglende betalingsevne eller andre åpenbart uholdbare innsigelser.",
+        "html": "Nemnda kan enstemmig treffe vedtak om erstatning ved brudd på bestemmelsene nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd, dersom innklagede ikke gjør gjeldende annet enn manglende betalingsevne eller andre åpenbart uholdbare innsigelser.",
         "text": "Nemnda kan enstemmig treffe vedtak om erstatning ved brudd på bestemmelsene nevnt i § 1 annet ledd, dersom innklagede ikke gjør gjeldende annet enn manglende betalingsevne eller andre åpenbart uholdbare innsigelser."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -507,7 +520,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda kan treffe vedtak om tvangsmulkt for å sikre gjennomføring av pålegg etter § 11 dersom fristen for å etterkomme pålegget er oversittet. Tvangsmulkt fastsettes som engangstvangsmulkt eller løpende dagmulkt. Tvangsmulkten begynner å løpe dersom frist for å etterkomme pålegget oversittes, og den skal løpe fram til pålegget er oppfylt.",
+        "html": "Nemnda kan treffe vedtak om tvangsmulkt for å sikre gjennomføring av pålegg etter <a data-id=\"lov/2017-06-16-50/§11\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A711\">§ 11</a> dersom fristen for å etterkomme pålegget er oversittet. Tvangsmulkt fastsettes som engangstvangsmulkt eller løpende dagmulkt. Tvangsmulkten begynner å løpe dersom frist for å etterkomme pålegget oversittes, og den skal løpe fram til pålegget er oppfylt.",
         "text": "Nemnda kan treffe vedtak om tvangsmulkt for å sikre gjennomføring av pålegg etter § 11 dersom fristen for å etterkomme pålegget er oversittet. Tvangsmulkt fastsettes som engangstvangsmulkt eller løpende dagmulkt. Tvangsmulkten begynner å løpe dersom frist for å etterkomme pålegget oversittes, og den skal løpe fram til pålegget er oppfylt."
     },
     {
@@ -535,6 +548,7 @@
         "text": "Departementet kan i forskrift gi regler om tvangsmulktens størrelse, varighet og andre bestemmelser om fastsettelse og gjennomføring."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -550,15 +564,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda kan ikke treffe vedtak om at andre forvaltningsorganers vedtak innebærer brudd på bestemmelser nevnt i § 1 annet ledd. Dette gjelder likevel ikke enkeltvedtak truffet av forvaltningsorganer i deres utøvelse av arbeidsgiverfunksjoner. Nemnda kan ikke i noe tilfelle treffe vedtak rettet mot Kongen eller departementene.",
+        "html": "Nemnda kan ikke treffe vedtak om at andre forvaltningsorganers vedtak innebærer brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd. Dette gjelder likevel ikke enkeltvedtak truffet av forvaltningsorganer i deres utøvelse av arbeidsgiverfunksjoner. Nemnda kan ikke i noe tilfelle treffe vedtak rettet mot Kongen eller departementene.",
         "text": "Nemnda kan ikke treffe vedtak om at andre forvaltningsorganers vedtak innebærer brudd på bestemmelser nevnt i § 1 annet ledd. Dette gjelder likevel ikke enkeltvedtak truffet av forvaltningsorganer i deres utøvelse av arbeidsgiverfunksjoner. Nemnda kan ikke i noe tilfelle treffe vedtak rettet mot Kongen eller departementene."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I tilfeller som nevnt i første ledd skal nemnda gi en uttalelse om hvorvidt det forholdet som er brakt inn for nemnda, innebærer brudd på bestemmelsene nevnt i § 1 annet ledd. Dette gjelder likevel ikke saker om utnevning av dommere i statsråd.",
+        "html": "I tilfeller som nevnt i første ledd skal nemnda gi en uttalelse om hvorvidt det forholdet som er brakt inn for nemnda, innebærer brudd på bestemmelsene nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd. Dette gjelder likevel ikke saker om utnevning av dommere i statsråd.",
         "text": "I tilfeller som nevnt i første ledd skal nemnda gi en uttalelse om hvorvidt det forholdet som er brakt inn for nemnda, innebærer brudd på bestemmelsene nevnt i § 1 annet ledd. Dette gjelder likevel ikke saker om utnevning av dommere i statsråd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -581,7 +596,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda kan gi en uttalelse om hvorvidt en tariffavtale eller bestemmelse i tariffavtale som er brakt inn for nemnda, er i strid med bestemmelsene nevnt i § 1 annet ledd. Partene i tariffavtalen kan i slike tilfeller bringe spørsmålet om avtalens forhold til en bestemmelse nevnt i § 1 annet ledd inn for Arbeidsretten.",
+        "html": "Nemnda kan gi en uttalelse om hvorvidt en tariffavtale eller bestemmelse i tariffavtale som er brakt inn for nemnda, er i strid med bestemmelsene nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd. Partene i tariffavtalen kan i slike tilfeller bringe spørsmålet om avtalens forhold til en bestemmelse nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd inn for Arbeidsretten.",
         "text": "Nemnda kan gi en uttalelse om hvorvidt en tariffavtale eller bestemmelse i tariffavtale som er brakt inn for nemnda, er i strid med bestemmelsene nevnt i § 1 annet ledd. Partene i tariffavtalen kan i slike tilfeller bringe spørsmålet om avtalens forhold til en bestemmelse nevnt i § 1 annet ledd inn for Arbeidsretten."
     },
     {
@@ -593,9 +608,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemnda kan ikke treffe avgjørelser som hører under Arbeidsretten etter lov 27. januar 2012 nr. 9 om arbeidstvister og lov 18. juli 1958 nr. 2 om offentlige tjenestetvister.",
+        "html": "Nemnda kan ikke treffe avgjørelser som hører under Arbeidsretten etter <a data-id=\"lov/2012-01-27-9\" class=\" reference\" href=\"/lov/2012-01-27-9\">lov 27. januar 2012 nr. 9</a> om arbeidstvister og <a data-id=\"lov/1958-07-18-2\" class=\" reference\" href=\"/lov/1958-07-18-2\">lov 18. juli 1958 nr. 2</a> om offentlige tjenestetvister.",
         "text": "Nemnda kan ikke treffe avgjørelser som hører under Arbeidsretten etter lov 27. januar 2012 nr. 9 om arbeidstvister og lov 18. juli 1958 nr. 2 om offentlige tjenestetvister."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -612,15 +628,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nemndas vedtak og beslutning om ileggelse av tvangsmulkt kan bringes inn for domstolene til full prøving av saken. Søksmål om overprøving av nemndas vedtak eller beslutning om ileggelse av tvangsmulkt må reises innen tre måneder fra det tidspunktet partene ble underrettet om vedtak eller beslutning i nemnda. Reises ikke søksmål innen fristen, har vedtaket virkning som rettskraftig dom og kan fullbyrdes etter reglene som gjelder dommer. Nemnda kan gi oppfriskning for oversittelse av fristen i annet punktum etter reglene i tvisteloven §§ 16-12–16-14. Vedtaket om oppfriskning kan bringes inn for tingretten.",
+        "html": "Nemndas vedtak og beslutning om ileggelse av tvangsmulkt kan bringes inn for domstolene til full prøving av saken. Søksmål om overprøving av nemndas vedtak eller beslutning om ileggelse av tvangsmulkt må reises innen tre måneder fra det tidspunktet partene ble underrettet om vedtak eller beslutning i nemnda. Reises ikke søksmål innen fristen, har vedtaket virkning som rettskraftig dom og kan fullbyrdes etter reglene som gjelder dommer. Nemnda kan gi oppfriskning for oversittelse av fristen i annet punktum etter reglene i <a data-id=\"lov/2005-06-17-90/§16-12\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-12\">tvisteloven §§ 16-12</a>–<a data-id=\"lov/2005-06-17-90/§16-14\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-14\">16-14</a>. Vedtaket om oppfriskning kan bringes inn for tingretten.",
         "text": "Nemndas vedtak og beslutning om ileggelse av tvangsmulkt kan bringes inn for domstolene til full prøving av saken. Søksmål om overprøving av nemndas vedtak eller beslutning om ileggelse av tvangsmulkt må reises innen tre måneder fra det tidspunktet partene ble underrettet om vedtak eller beslutning i nemnda. Reises ikke søksmål innen fristen, har vedtaket virkning som rettskraftig dom og kan fullbyrdes etter reglene som gjelder dommer. Nemnda kan gi oppfriskning for oversittelse av fristen i annet punktum etter reglene i tvisteloven §§ 16-12–16-14. Vedtaket om oppfriskning kan bringes inn for tingretten."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Søksmål om gyldigheten av nemndas vedtak og beslutninger rettes mot staten ved nemnda og anlegges for Oslo tingrett jf. tvisteloven § 4-4 (4) første punktum. Det samme gjelder lovligheten av forhold knyttet til ileggelse av tvangsmulkt etter § 13.",
+        "html": "Søksmål om gyldigheten av nemndas vedtak og beslutninger rettes mot staten ved nemnda og anlegges for Oslo tingrett jf. <a data-id=\"lov/2005-06-17-90/§4-4\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A74-4\">tvisteloven § 4-4</a> (4) første punktum. Det samme gjelder lovligheten av forhold knyttet til ileggelse av tvangsmulkt etter <a data-id=\"lov/2017-06-16-50/§13\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A713\">§ 13</a>.",
         "text": "Søksmål om gyldigheten av nemndas vedtak og beslutninger rettes mot staten ved nemnda og anlegges for Oslo tingrett jf. tvisteloven § 4-4 (4) første punktum. Det samme gjelder lovligheten av forhold knyttet til ileggelse av tvangsmulkt etter § 13."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -643,9 +660,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Er søksmål reist ved tingretten og en part ønsker saken avgjort av nemnda, kan retten stanse den videre behandlingen etter begjæring av parten. Tvisteloven § 16-15, § 16-18 tredje og fjerde ledd og § 16-19 gjelder tilsvarende. Ved rettens avgjørelse av om saken skal stanses, skal det legges vekt på om det er rimelig å stanse saken i påvente av nemndas avgjørelse når hensyn tas til tidsbruken og kostnadene som vil påløpe for partene ved stansing. Saken bringes i gang igjen i tingretten etter begjæring fra en av partene, men tidligst etter at vedtak er fattet, og senest innen én måned etter at vedtaket er forkynt.",
+        "html": "Er søksmål reist ved tingretten og en part ønsker saken avgjort av nemnda, kan retten stanse den videre behandlingen etter begjæring av parten. <a data-id=\"lov/2005-06-17-90/§16-15\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-15\">Tvisteloven § 16-15</a>, <a data-id=\"lov/2005-06-17-90/§16-18\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-18\">§ 16-18</a> tredje og fjerde ledd og <a data-id=\"lov/2005-06-17-90/§16-19\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-19\">§ 16-19</a> gjelder tilsvarende. Ved rettens avgjørelse av om saken skal stanses, skal det legges vekt på om det er rimelig å stanse saken i påvente av nemndas avgjørelse når hensyn tas til tidsbruken og kostnadene som vil påløpe for partene ved stansing. Saken bringes i gang igjen i tingretten etter begjæring fra en av partene, men tidligst etter at vedtak er fattet, og senest innen én måned etter at vedtaket er forkynt.",
         "text": "Er søksmål reist ved tingretten og en part ønsker saken avgjort av nemnda, kan retten stanse den videre behandlingen etter begjæring av parten. Tvisteloven § 16-15, § 16-18 tredje og fjerde ledd og § 16-19 gjelder tilsvarende. Ved rettens avgjørelse av om saken skal stanses, skal det legges vekt på om det er rimelig å stanse saken i påvente av nemndas avgjørelse når hensyn tas til tidsbruken og kostnadene som vil påløpe for partene ved stansing. Saken bringes i gang igjen i tingretten etter begjæring fra en av partene, men tidligst etter at vedtak er fattet, og senest innen én måned etter at vedtaket er forkynt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -662,7 +680,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som forsettlig eller uaktsomt unnlater å etterkomme pålegg etter § 11 eller å oppfylle opplysningsplikten etter § 3, straffes med bøter.",
+        "html": "Den som forsettlig eller uaktsomt unnlater å etterkomme pålegg etter <a data-id=\"lov/2017-06-16-50/§11\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A711\">§ 11</a> eller å oppfylle opplysningsplikten etter <a data-id=\"lov/2017-06-16-50/§3\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A73\">§ 3</a>, straffes med bøter.",
         "text": "Den som forsettlig eller uaktsomt unnlater å etterkomme pålegg etter § 11 eller å oppfylle opplysningsplikten etter § 3, straffes med bøter."
     },
     {
@@ -671,6 +689,7 @@
         "html": "Overtredelse foretatt av en person i underordnet stilling straffes ikke hvis overtredelsen vesentlig skyldes underordningsforholdet.",
         "text": "Overtredelse foretatt av en person i underordnet stilling straffes ikke hvis overtredelsen vesentlig skyldes underordningsforholdet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -687,7 +706,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Overtredelse av § 18 påtales kun etter begjæring av nemnda, med mindre offentlig påtale kreves av allmenne hensyn.",
+        "html": "Overtredelse av <a data-id=\"lov/2017-06-16-50/§18\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A718\">§ 18</a> påtales kun etter begjæring av nemnda, med mindre offentlig påtale kreves av allmenne hensyn.",
         "text": "Overtredelse av § 18 påtales kun etter begjæring av nemnda, med mindre offentlig påtale kreves av allmenne hensyn."
     },
     {
@@ -696,6 +715,7 @@
         "html": "Påtalemyndigheten kan i forbindelse med straffesaken kreve dom for tiltak for å sikre at den lovstridige handlingen, unnlatelsen eller gjengjeldelsen opphører, og for å hindre at den gjentas.",
         "text": "Påtalemyndigheten kan i forbindelse med straffesaken kreve dom for tiltak for å sikre at den lovstridige handlingen, unnlatelsen eller gjengjeldelsen opphører, og for å hindre at den gjentas."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -717,21 +737,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger brudd på habilitetskrav i forvaltningsloven § 6</td>\n</tr>",
-        "text": "a)det foreligger brudd på habilitetskrav i forvaltningsloven § 6"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger brudd på habilitetskrav i <a data-id=\"lov/1967-02-10/§6\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A76\">forvaltningsloven § 6</a>\n</td>\n</tr>",
+        "text": "a)\tdet foreligger brudd på habilitetskrav i forvaltningsloven § 6"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger andre saksbehandlingsfeil og det ikke kan utelukkes at feilen var bestemmende for vedtakets innhold</td>\n</tr>",
-        "text": "b)det foreligger andre saksbehandlingsfeil og det ikke kan utelukkes at feilen var bestemmende for vedtakets innhold"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger andre saksbehandlingsfeil og det ikke kan utelukkes at feilen var bestemmende for vedtakets innhold</td>\n</tr>",
+        "text": "b)\tdet foreligger andre saksbehandlingsfeil og det ikke kan utelukkes at feilen var bestemmende for vedtakets innhold"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at vedtaket høyst sannsynlig ville blitt et annet.</td>\n</tr>",
-        "text": "c)opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at vedtaket høyst sannsynlig ville blitt et annet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at vedtaket høyst sannsynlig ville blitt et annet.</td>\n</tr>",
+        "text": "c)\topplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at vedtaket høyst sannsynlig ville blitt et annet."
     },
     {
         "tag": "p",
@@ -741,21 +761,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">av en grunn som ble forkastet ved sakens behandling</td>\n</tr>",
-        "text": "a)av en grunn som ble forkastet ved sakens behandling"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">av en grunn som ble forkastet ved sakens behandling</td>\n</tr>",
+        "text": "a)\tav en grunn som ble forkastet ved sakens behandling"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">av en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskning</td>\n</tr>",
-        "text": "b)av en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskning"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">av en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskning</td>\n</tr>",
+        "text": "b)\tav en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskning"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten.</td>\n</tr>",
-        "text": "c)dersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten.</td>\n</tr>",
+        "text": "c)\tdersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten."
     },
     {
         "tag": "p",
@@ -766,15 +786,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Avslag på begjæring om gjenåpning kan bringes inn for tingretten. For øvrig gjelder tvisteloven §§ 31-6 til 31-9 så langt de passer.",
+        "html": "Avslag på begjæring om gjenåpning kan bringes inn for tingretten. For øvrig gjelder <a data-id=\"lov/2005-06-17-90/§31-6\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A731-6\">tvisteloven §§ 31-6</a> til <a data-id=\"lov/2005-06-17-90/§31-9\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A731-9\">31-9</a> så langt de passer.",
         "text": "Avslag på begjæring om gjenåpning kan bringes inn for tingretten. For øvrig gjelder tvisteloven §§ 31-6 til 31-9 så langt de passer."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom nemnda treffer vedtak om gjenåpning, har parten krav på å få dekket sakskostnader etter reglene i forvaltningsloven § 36 første ledd. Forvaltningsloven § 36 annet ledd gjelder ikke.",
+        "html": "Dersom nemnda treffer vedtak om gjenåpning, har parten krav på å få dekket sakskostnader etter reglene i <a data-id=\"lov/1967-02-10/§36\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A736\">forvaltningsloven § 36</a> første ledd. <a data-id=\"lov/1967-02-10/§36\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A736\">Forvaltningsloven § 36</a> annet ledd gjelder ikke.",
         "text": "Dersom nemnda treffer vedtak om gjenåpning, har parten krav på å få dekket sakskostnader etter reglene i forvaltningsloven § 36 første ledd. Forvaltningsloven § 36 annet ledd gjelder ikke."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -797,7 +818,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Er det ikke truffet avgjørelse om noe som skulle vært avgjort, kan tilleggsavgjørelse avsies dersom begjæring om det fremmes innen fristen for å bringe saken inn for tingretten, jf. § 16 første ledd.",
+        "html": "Er det ikke truffet avgjørelse om noe som skulle vært avgjort, kan tilleggsavgjørelse avsies dersom begjæring om det fremmes innen fristen for å bringe saken inn for tingretten, jf. <a data-id=\"lov/2017-06-16-50/§16\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A716\">§ 16</a> første ledd.",
         "text": "Er det ikke truffet avgjørelse om noe som skulle vært avgjort, kan tilleggsavgjørelse avsies dersom begjæring om det fremmes innen fristen for å bringe saken inn for tingretten, jf. § 16 første ledd."
     },
     {
@@ -809,7 +830,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For øvrig gjelder tvisteloven §§ 19-8 og 19-9 tilsvarende.",
+        "html": "For øvrig gjelder <a data-id=\"lov/2005-06-17-90/§19-8\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-8\">tvisteloven §§ 19-8</a> og <a data-id=\"lov/2005-06-17-90/§19-9\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-9\">19-9</a> tilsvarende.",
         "text": "For øvrig gjelder tvisteloven §§ 19-8 og 19-9 tilsvarende."
     },
     {
@@ -818,6 +839,7 @@
         "html": "Kapittel 4 Forskrift",
         "text": "Kapittel 4 Forskrift"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -844,6 +866,7 @@
         "text": "Kapittel 5 Ikrafttredelse og overgangsregler"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -859,9 +882,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven trer i kraft fra den tid Kongen bestemmer. Fra samme tid oppheves lov 10. juni 2005 nr. 40 om Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda.",
+        "html": "Loven trer i kraft fra den tid Kongen bestemmer. Fra samme tid oppheves <a data-id=\"lov/2005-06-10-40\" class=\" reference\" href=\"/lov/2005-06-10-40\">lov 10. juni 2005 nr. 40</a> om Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda.",
         "text": "Loven trer i kraft fra den tid Kongen bestemmer. Fra samme tid oppheves lov 10. juni 2005 nr. 40 om Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -878,15 +902,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Saker om brudd på bestemmelser nevnt i § 1 annet ledd som er brakt inn for ombudet eller nemnda før ikrafttredelsen av denne loven, overføres til nemnda for videre behandling. Nemnda skal også behandle nye saker som gjelder forhold fra før lovens ikrafttredelse, hvis forholdet var i strid med bestemmelser nevnt i § 1 annet ledd eller tilsvarende bestemmelser slik de lød før ikrafttredelsen.",
+        "html": "Saker om brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd som er brakt inn for ombudet eller nemnda før ikrafttredelsen av <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">denne lov</a>en, overføres til nemnda for videre behandling. Nemnda skal også behandle nye saker som gjelder forhold fra før lovens ikrafttredelse, hvis forholdet var i strid med bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet ledd eller tilsvarende bestemmelser slik de lød før ikrafttredelsen.",
         "text": "Saker om brudd på bestemmelser nevnt i § 1 annet ledd som er brakt inn for ombudet eller nemnda før ikrafttredelsen av denne loven, overføres til nemnda for videre behandling. Nemnda skal også behandle nye saker som gjelder forhold fra før lovens ikrafttredelse, hvis forholdet var i strid med bestemmelser nevnt i § 1 annet ledd eller tilsvarende bestemmelser slik de lød før ikrafttredelsen."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Saker som nevnt i første ledd skal behandles etter reglene i loven her. Det kan bare treffes vedtak som nevnt i §§ 11, 12 og 13 i den utstrekning det også var adgang til det før ikrafttredelsen av loven her.",
+        "html": "Saker som nevnt i første ledd skal behandles etter reglene i loven her. Det kan bare treffes vedtak som nevnt i <a data-id=\"lov/2017-06-16-50/§11\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A711\">§§ 11</a>, 12 og 13 i den utstrekning det også var adgang til det før ikrafttredelsen av loven her.",
         "text": "Saker som nevnt i første ledd skal behandles etter reglene i loven her. Det kan bare treffes vedtak som nevnt i §§ 11, 12 og 13 i den utstrekning det også var adgang til det før ikrafttredelsen av loven her."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -903,14 +928,14 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra det tidspunktet loven trer i kraft, skal lov 18. mai 1979 nr. 18 om foreldelse av fordringer § 16 nr. 2 ny bokstav c lyde:",
+        "html": "Fra det tidspunktet loven trer i kraft, skal <a data-id=\"lov/1979-05-18-18\" class=\" reference\" href=\"/lov/1979-05-18-18\">lov 18. mai 1979 nr. 18</a> om foreldelse av fordringer <a data-id=\"lov/1979-05-18-18/§16\" class=\" reference\" href=\"/lov/1979-05-18-18/%C2%A716\">§ 16</a> nr. 2 ny bokstav c lyde:",
         "text": "Fra det tidspunktet loven trer i kraft, skal lov 18. mai 1979 nr. 18 om foreldelse av fordringer § 16 nr. 2 ny bokstav c lyde:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvist om krav som bringes inn for Diskrimineringsnemnda.</td>\n</tr>",
-        "text": "c)tvist om krav som bringes inn for Diskrimineringsnemnda."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvist om krav som bringes inn for Diskrimineringsnemnda.</td>\n</tr>",
+        "text": "c)\ttvist om krav som bringes inn for Diskrimineringsnemnda."
     },
     {
         "tag": "p",
