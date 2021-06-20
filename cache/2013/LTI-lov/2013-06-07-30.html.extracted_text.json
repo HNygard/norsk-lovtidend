@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.54 LS (2012–2013), Innst.223 L (2012–2013), Lovvedtak 48 (2012–2013). Stortingets første og andre gongs behandling hv. 23. og 29. april 2013. Fremja av Justis- og beredskapsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-54-ls-201213\" class=\" reference\" href=\"/forarbeid/prop-54-ls-201213\">Prop.54 LS (2012–2013)</a>, <a data-id=\"forarbeid/inns-223-l-201213\" class=\" reference\" href=\"/forarbeid/inns-223-l-201213\">Innst.223 L (2012–2013)</a>, <a data-id=\"forarbeid/lovvedtak-48-201213\" class=\" reference\" href=\"/forarbeid/lovvedtak-48-201213\">Lovvedtak 48 (2012–2013)</a>. Stortingets første og andre gongs behandling hv. 23. og 29. april 2013. Fremja av Justis- og beredskapsdepartementet.",
         "text": "Prop.54 LS (2012–2013), Innst.223 L (2012–2013), Lovvedtak 48 (2012–2013). Stortingets første og andre gongs behandling hv. 23. og 29. april 2013. Fremja av Justis- og beredskapsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven).",
+        "html": "<a data-id=\"lov/1994-06-24-39\" class=\" reference\" href=\"/lov/1994-06-24-39\">Lov 24. juni 1994 nr. 39</a> om sjøfarten (sjøloven).",
         "text": "Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven)."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 24. juni 1994 nr. 39 om sjøfarten vert det gjort følgjande endringar:",
+        "html": "I <a data-id=\"lov/1994-06-24-39\" class=\" reference\" href=\"/lov/1994-06-24-39\">lov 24. juni 1994 nr. 39</a> om sjøfarten vert det gjort følgjande endringar:",
         "text": "I lov 24. juni 1994 nr. 39 om sjøfarten vert det gjort følgjande endringar:"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre.</td>\n</tr>",
-        "text": "1.For krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre.</td>\n</tr>",
+        "text": "1.\tFor krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre."
     },
     {
         "tag": "p",
@@ -271,27 +271,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på det sted hvor saksøkte har sitt bosted eller hovedsete for bedriften,</td>\n</tr>",
-        "text": "a)på det sted hvor saksøkte har sitt bosted eller hovedsete for bedriften,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på det sted hvor saksøkte har sitt bosted eller hovedsete for bedriften,</td>\n</tr>",
+        "text": "a)\tpå det sted hvor saksøkte har sitt bosted eller hovedsete for bedriften,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på avgangsstedet eller bestemmelsesstedet i henhold til befordringsavtalen,</td>\n</tr>",
-        "text": "b)på avgangsstedet eller bestemmelsesstedet i henhold til befordringsavtalen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på avgangsstedet eller bestemmelsesstedet i henhold til befordringsavtalen,</td>\n</tr>",
+        "text": "b)\tpå avgangsstedet eller bestemmelsesstedet i henhold til befordringsavtalen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i den stat hvor saksøkeren har bosted, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der, eller</td>\n</tr>",
-        "text": "c)i den stat hvor saksøkeren har bosted, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i den stat hvor saksøkeren har bosted, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der, eller</td>\n</tr>",
+        "text": "c)\ti den stat hvor saksøkeren har bosted, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i den stat hvor befordringsavtalen ble inngått, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der.</td>\n</tr>",
-        "text": "d)i den stat hvor befordringsavtalen ble inngått, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i den stat hvor befordringsavtalen ble inngått, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der.</td>\n</tr>",
+        "text": "d)\ti den stat hvor befordringsavtalen ble inngått, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der."
     },
     {
         "tag": "p",

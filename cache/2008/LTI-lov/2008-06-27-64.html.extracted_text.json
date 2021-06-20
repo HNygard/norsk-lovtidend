@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Dok.nr.8:94 (2007–2008), Innst.O.nr.64 (2007–2008) og Besl.O.nr.86 (2007–2008). Odels- og lagtingsvedtak hhv. 5. og 12. juni 2008. Fremmet av Helse- og omsorgsdepartementet.",
+        "html": "<a data-id=\"forarbeid/dok8-94-200708\" class=\" reference\" href=\"/forarbeid/dok8-94-200708\">Dok.nr.8:94 (2007–2008)</a>, <a data-id=\"forarbeid/inns-o-64-200708\" class=\" reference\" href=\"/forarbeid/inns-o-64-200708\">Innst.O.nr.64 (2007–2008)</a> og <a data-id=\"forarbeid/besl-o-86-200708\" class=\" reference\" href=\"/forarbeid/besl-o-86-200708\">Besl.O.nr.86 (2007–2008)</a>. Odels- og lagtingsvedtak hhv. 5. og 12. juni 2008. Fremmet av Helse- og omsorgsdepartementet.",
         "text": "Dok.nr.8:94 (2007–2008), Innst.O.nr.64 (2007–2008) og Besl.O.nr.86 (2007–2008). Odels- og lagtingsvedtak hhv. 5. og 12. juni 2008. Fremmet av Helse- og omsorgsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) skal § 48 Autorisasjon lyde:",
+        "html": "I <a data-id=\"lov/1999-07-02-64\" class=\" reference\" href=\"/lov/1999-07-02-64\">lov 2. juli 1999 nr. 64</a> om helsepersonell m.v. (helsepersonelloven) skal <a data-id=\"lov/1999-07-02-64/§48\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A748\">§ 48</a> Autorisasjon lyde:",
         "text": "I lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) skal § 48 Autorisasjon lyde:"
     },
     {
@@ -25,177 +25,177 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ambulansearbeider</td>\n</tr>",
-        "text": "a)ambulansearbeider"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ambulansearbeider</td>\n</tr>",
+        "text": "a)\tambulansearbeider"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">apotektekniker</td>\n</tr>",
-        "text": "b)apotektekniker"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">apotektekniker</td>\n</tr>",
+        "text": "b)\tapotektekniker"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">audiograf</td>\n</tr>",
-        "text": "c)audiograf"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">audiograf</td>\n</tr>",
+        "text": "c)\taudiograf"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bioingeniør</td>\n</tr>",
-        "text": "d)bioingeniør"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bioingeniør</td>\n</tr>",
+        "text": "d)\tbioingeniør"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ergoterapeut</td>\n</tr>",
-        "text": "e)ergoterapeut"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ergoterapeut</td>\n</tr>",
+        "text": "e)\tergoterapeut"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsefagarbeider</td>\n</tr>",
-        "text": "f)helsefagarbeider"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsefagarbeider</td>\n</tr>",
+        "text": "f)\thelsefagarbeider"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fotterapeut</td>\n</tr>",
-        "text": "g)fotterapeut"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fotterapeut</td>\n</tr>",
+        "text": "g)\tfotterapeut"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fysioterapeut</td>\n</tr>",
-        "text": "h)fysioterapeut"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fysioterapeut</td>\n</tr>",
+        "text": "h)\tfysioterapeut"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsesekretær</td>\n</tr>",
-        "text": "i)helsesekretær"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsesekretær</td>\n</tr>",
+        "text": "i)\thelsesekretær"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hjelpepleier</td>\n</tr>",
-        "text": "j)hjelpepleier"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hjelpepleier</td>\n</tr>",
+        "text": "j)\thjelpepleier"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">jordmor</td>\n</tr>",
-        "text": "k)jordmor"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">jordmor</td>\n</tr>",
+        "text": "k)\tjordmor"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kiropraktor</td>\n</tr>",
-        "text": "l)kiropraktor"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kiropraktor</td>\n</tr>",
+        "text": "l)\tkiropraktor"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">klinisk ernæringsfysiolog</td>\n</tr>",
-        "text": "m)klinisk ernæringsfysiolog"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">klinisk ernæringsfysiolog</td>\n</tr>",
+        "text": "m)\tklinisk ernæringsfysiolog"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">n)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lege</td>\n</tr>",
-        "text": "n)lege"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">n)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lege</td>\n</tr>",
+        "text": "n)\tlege"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">o)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omsorgsarbeider</td>\n</tr>",
-        "text": "o)omsorgsarbeider"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">o)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omsorgsarbeider</td>\n</tr>",
+        "text": "o)\tomsorgsarbeider"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">p)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">optiker</td>\n</tr>",
-        "text": "p)optiker"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">p)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">optiker</td>\n</tr>",
+        "text": "p)\toptiker"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">q)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ortopediingeniør</td>\n</tr>",
-        "text": "q)ortopediingeniør"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">q)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ortopediingeniør</td>\n</tr>",
+        "text": "q)\tortopediingeniør"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">r)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ortoptist</td>\n</tr>",
-        "text": "r)ortoptist"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">r)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ortoptist</td>\n</tr>",
+        "text": "r)\tortoptist"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">s)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">perfusjonist</td>\n</tr>",
-        "text": "s)perfusjonist"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">s)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">perfusjonist</td>\n</tr>",
+        "text": "s)\tperfusjonist"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">t)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">psykolog</td>\n</tr>",
-        "text": "t)psykolog"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">t)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">psykolog</td>\n</tr>",
+        "text": "t)\tpsykolog"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">u)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">radiograf</td>\n</tr>",
-        "text": "u)radiograf"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">u)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">radiograf</td>\n</tr>",
+        "text": "u)\tradiograf"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">v)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sykepleier</td>\n</tr>",
-        "text": "v)sykepleier"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">v)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sykepleier</td>\n</tr>",
+        "text": "v)\tsykepleier"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">w)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tannhelsesekretær</td>\n</tr>",
-        "text": "w)tannhelsesekretær"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">w)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tannhelsesekretær</td>\n</tr>",
+        "text": "w)\ttannhelsesekretær"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">x)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tannlege</td>\n</tr>",
-        "text": "x)tannlege"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">x)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tannlege</td>\n</tr>",
+        "text": "x)\ttannlege"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">y)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tannpleier</td>\n</tr>",
-        "text": "y)tannpleier"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">y)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tannpleier</td>\n</tr>",
+        "text": "y)\ttannpleier"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">z)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tanntekniker</td>\n</tr>",
-        "text": "z)tanntekniker"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">z)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tanntekniker</td>\n</tr>",
+        "text": "z)\ttanntekniker"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">æ)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vernepleier</td>\n</tr>",
-        "text": "æ)vernepleier"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">æ)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vernepleier</td>\n</tr>",
+        "text": "æ)\tvernepleier"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">ø)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">provisorfarmasøyt</td>\n</tr>",
-        "text": "ø)provisorfarmasøyt"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">ø)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">provisorfarmasøyt</td>\n</tr>",
+        "text": "ø)\tprovisorfarmasøyt"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">å)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">reseptarfarmasøyt</td>\n</tr>",
-        "text": "å)reseptarfarmasøyt"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">å)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">reseptarfarmasøyt</td>\n</tr>",
+        "text": "å)\treseptarfarmasøyt"
     },
     {
         "tag": "h2",

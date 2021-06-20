@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.42 (2004–2005), Innst.O.nr.59 (2004–2005) og Besl.O.nr.57 (2004–2005). Odels- og lagtingsvedtak hhv. 18. mars og 12. april 2005. Fremja av Kultur- og kyrkjedepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-42-200405\" class=\" reference\" href=\"/forarbeid/otprp-42-200405\">Ot.prp.nr.42 (2004–2005)</a>, <a data-id=\"forarbeid/inns-o-59-200405\" class=\" reference\" href=\"/forarbeid/inns-o-59-200405\">Innst.O.nr.59 (2004–2005)</a> og <a data-id=\"forarbeid/besl-o-57-200405\" class=\" reference\" href=\"/forarbeid/besl-o-57-200405\">Besl.O.nr.57 (2004–2005)</a>. Odels- og lagtingsvedtak hhv. 18. mars og 12. april 2005. Fremja av Kultur- og kyrkjedepartementet.",
         "text": "Ot.prp.nr.42 (2004–2005), Innst.O.nr.59 (2004–2005) og Besl.O.nr.57 (2004–2005). Odels- og lagtingsvedtak hhv. 18. mars og 12. april 2005. Fremja av Kultur- og kyrkjedepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 7. juni 2002 nr. 19 om personnavn (navneloven).",
+        "html": "<a data-id=\"lov/2002-06-07-19\" class=\" reference\" href=\"/lov/2002-06-07-19\">Lov 7. juni 2002 nr. 19</a> om personnavn (navneloven).",
         "text": "Lov 7. juni 2002 nr. 19 om personnavn (navneloven)."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 18. mai 1990 nr. 11 om stadnamn vert det gjort følgjande endringar:",
+        "html": "I <a data-id=\"lov/1990-05-18-11\" class=\" reference\" href=\"/lov/1990-05-18-11\">lov 18. mai 1990 nr. 11</a> om stadnamn vert det gjort følgjande endringar:",
         "text": "I lov 18. mai 1990 nr. 11 om stadnamn vert det gjort følgjande endringar:"
     },
     {
@@ -85,39 +85,39 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stadnamn, namn på geografiske punkt, liner og område som kan kartfestast</td>\n</tr>",
-        "text": "a)stadnamn, namn på geografiske punkt, liner og område som kan kartfestast"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stadnamn, namn på geografiske punkt, liner og område som kan kartfestast</td>\n</tr>",
+        "text": "a)\tstadnamn, namn på geografiske punkt, liner og område som kan kartfestast"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gardsnamn, namnet på heile det gardsområdet som eitt eller fleire gardsnummer er knytte til</td>\n</tr>",
-        "text": "b)gardsnamn, namnet på heile det gardsområdet som eitt eller fleire gardsnummer er knytte til"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gardsnamn, namnet på heile det gardsområdet som eitt eller fleire gardsnummer er knytte til</td>\n</tr>",
+        "text": "b)\tgardsnamn, namnet på heile det gardsområdet som eitt eller fleire gardsnummer er knytte til"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bruksnamn, namn på eigedom med eitt eller fleire bruksnummer eller festenummer under eit gardsnummer</td>\n</tr>",
-        "text": "c)bruksnamn, namn på eigedom med eitt eller fleire bruksnummer eller festenummer under eit gardsnummer"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bruksnamn, namn på eigedom med eitt eller fleire bruksnummer eller festenummer under eit gardsnummer</td>\n</tr>",
+        "text": "c)\tbruksnamn, namn på eigedom med eitt eller fleire bruksnummer eller festenummer under eit gardsnummer"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">nedervd stadnamn, stadnamn som munnleg eller skriftleg er overlevert frå tidlegare generasjonar</td>\n</tr>",
-        "text": "d)nedervd stadnamn, stadnamn som munnleg eller skriftleg er overlevert frå tidlegare generasjonar"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">nedervd stadnamn, stadnamn som munnleg eller skriftleg er overlevert frå tidlegare generasjonar</td>\n</tr>",
+        "text": "d)\tnedervd stadnamn, stadnamn som munnleg eller skriftleg er overlevert frå tidlegare generasjonar"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lokal talemålsform, den uttaleforma som er i allmenn bruk av folk som har tradisjonell tilknyting til staden, gjennom busetjing eller årviss næringsverksemd</td>\n</tr>",
-        "text": "e)lokal talemålsform, den uttaleforma som er i allmenn bruk av folk som har tradisjonell tilknyting til staden, gjennom busetjing eller årviss næringsverksemd"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lokal talemålsform, den uttaleforma som er i allmenn bruk av folk som har tradisjonell tilknyting til staden, gjennom busetjing eller årviss næringsverksemd</td>\n</tr>",
+        "text": "e)\tlokal talemålsform, den uttaleforma som er i allmenn bruk av folk som har tradisjonell tilknyting til staden, gjennom busetjing eller årviss næringsverksemd"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rettskrivingsprinsipp, allmenne reglar for korleis lydar og lydkombinasjonar skal givast att i skrift.</td>\n</tr>",
-        "text": "f)rettskrivingsprinsipp, allmenne reglar for korleis lydar og lydkombinasjonar skal givast att i skrift."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rettskrivingsprinsipp, allmenne reglar for korleis lydar og lydkombinasjonar skal givast att i skrift.</td>\n</tr>",
+        "text": "f)\trettskrivingsprinsipp, allmenne reglar for korleis lydar og lydkombinasjonar skal givast att i skrift."
     },
     {
         "tag": "p",
@@ -139,21 +139,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er i bruk som etternamn og er verna, eller</td>\n</tr>",
-        "text": "a)er i bruk som etternamn og er verna, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er i bruk som etternamn og er verna, eller</td>\n</tr>",
+        "text": "a)\ter i bruk som etternamn og er verna, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på annan måte er eit særeige namn, eller</td>\n</tr>",
-        "text": "b)på annan måte er eit særeige namn, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på annan måte er eit særeige namn, eller</td>\n</tr>",
+        "text": "b)\tpå annan måte er eit særeige namn, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">av andre grunnar bør vernast.</td>\n</tr>",
-        "text": "c)av andre grunnar bør vernast."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">av andre grunnar bør vernast.</td>\n</tr>",
+        "text": "c)\tav andre grunnar bør vernast."
     },
     {
         "tag": "p",
@@ -187,21 +187,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det finst fleire uttalevariantar av namnet fordi lokaliteten har stor geografisk utbreiing, eller ligg i eit dialektalt eller administrativt grenseområde</td>\n</tr>",
-        "text": "a)det finst fleire uttalevariantar av namnet fordi lokaliteten har stor geografisk utbreiing, eller ligg i eit dialektalt eller administrativt grenseområde"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det finst fleire uttalevariantar av namnet fordi lokaliteten har stor geografisk utbreiing, eller ligg i eit dialektalt eller administrativt grenseområde</td>\n</tr>",
+        "text": "a)\tdet finst fleire uttalevariantar av namnet fordi lokaliteten har stor geografisk utbreiing, eller ligg i eit dialektalt eller administrativt grenseområde"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">to eller fleire skriftformer av namnet er vel innarbeidde</td>\n</tr>",
-        "text": "b)to eller fleire skriftformer av namnet er vel innarbeidde"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">to eller fleire skriftformer av namnet er vel innarbeidde</td>\n</tr>",
+        "text": "b)\tto eller fleire skriftformer av namnet er vel innarbeidde"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er sterk lokal interesse for to eller fleire av formene.</td>\n</tr>",
-        "text": "c)det er sterk lokal interesse for to eller fleire av formene."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er sterk lokal interesse for to eller fleire av formene.</td>\n</tr>",
+        "text": "c)\tdet er sterk lokal interesse for to eller fleire av formene."
     },
     {
         "tag": "p",
@@ -223,27 +223,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentleg organ og andre som er nemnde i § 1 tredje ledd,</td>\n</tr>",
-        "text": "a)offentleg organ og andre som er nemnde i § 1 tredje ledd,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentleg organ og andre som er nemnde i § 1 tredje ledd,</td>\n</tr>",
+        "text": "a)\toffentleg organ og andre som er nemnde i § 1 tredje ledd,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigar eller festar når bruksnamnet kjem inn under § 8 andre ledd,</td>\n</tr>",
-        "text": "b)eigar eller festar når bruksnamnet kjem inn under § 8 andre ledd,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigar eller festar når bruksnamnet kjem inn under § 8 andre ledd,</td>\n</tr>",
+        "text": "b)\teigar eller festar når bruksnamnet kjem inn under § 8 andre ledd,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lokal organisasjon med særleg tilknyting til eit stadnamn,</td>\n</tr>",
-        "text": "c)lokal organisasjon med særleg tilknyting til eit stadnamn,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lokal organisasjon med særleg tilknyting til eit stadnamn,</td>\n</tr>",
+        "text": "c)\tlokal organisasjon med særleg tilknyting til eit stadnamn,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stadnamnkonsulentane når det gjeld stadnamn i deira område.</td>\n</tr>",
-        "text": "d)stadnamnkonsulentane når det gjeld stadnamn i deira område."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stadnamnkonsulentane når det gjeld stadnamn i deira område.</td>\n</tr>",
+        "text": "d)\tstadnamnkonsulentane når det gjeld stadnamn i deira område."
     },
     {
         "tag": "p",
@@ -296,7 +296,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Med mindre anna er fastsett i lov eller i medhald av lov, gjeld reglane i forvaltningsloven kapittel IV, V og VIII ikkje for saker etter lova her.",
+        "html": "Med mindre anna er fastsett i lov eller i medhald av lov, gjeld reglane i <a data-id=\"lov/1967-02-10/kapiv\" class=\" reference\" href=\"/lov/1967-02-10/kapiv\">forvaltningsloven kapittel IV</a>, V og VIII ikkje for saker etter lova her.",
         "text": "Med mindre anna er fastsett i lov eller i medhald av lov, gjeld reglane i forvaltningsloven kapittel IV, V og VIII ikkje for saker etter lova her."
     },
     {
@@ -339,7 +339,7 @@
         "tag": "p",
         "class": "avsnitt",
         "html": "Skrivemåten av gardsnamn og bruksnamn som språkleg og  geografisk fell saman med nedervde stadnamn, eller med andre stadnamn som etter reglane i denne lova eller i andre lover og forskrifter skal brukast av det offentlege, skal fastsetjast etter reglane i §§ 4 til 6.",
-        "text": "Skrivemåten av gardsnamn og bruksnamn som språkleg og geografisk fell saman med nedervde stadnamn, eller med andre stadnamn som etter reglane i denne lova eller i andre lover og forskrifter skal brukast av det offentlege, skal fastsetjast etter reglane i §§ 4 til 6."
+        "text": "Skrivemåten av gardsnamn og bruksnamn som språkleg og  geografisk fell saman med nedervde stadnamn, eller med andre stadnamn som etter reglane i denne lova eller i andre lover og forskrifter skal brukast av det offentlege, skal fastsetjast etter reglane i §§ 4 til 6."
     },
     {
         "tag": "p",
@@ -416,7 +416,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For førebuinga av ei klagesak gjeld saksbehandlingsreglane i § 6 tilsvarande. Elles gjeld reglane i forvaltningsloven kapittel VI.",
+        "html": "For førebuinga av ei klagesak gjeld saksbehandlingsreglane i § 6 tilsvarande. Elles gjeld reglane i <a data-id=\"lov/1967-02-10/kapvi\" class=\" reference\" href=\"/lov/1967-02-10/kapvi\">forvaltningsloven kapittel VI</a>.",
         "text": "For førebuinga av ei klagesak gjeld saksbehandlingsreglane i § 6 tilsvarande. Elles gjeld reglane i forvaltningsloven kapittel VI."
     },
     {
@@ -512,13 +512,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 7. juni 2002 nr. 19 om personnavn skal § 4 nr. 8 lyde:",
+        "html": "I <a data-id=\"lov/2002-06-07-19\" class=\" reference\" href=\"/lov/2002-06-07-19\">lov 7. juni 2002 nr. 19</a> om personnavn skal <a data-id=\"lov/2002-06-07-19/§4\" class=\" reference\" href=\"/lov/2002-06-07-19/%C2%A74\">§ 4</a> nr. 8 lyde:",
         "text": "I lov 7. juni 2002 nr. 19 om personnavn skal § 4 nr. 8 lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "navn på et gårdsbruk som vedkommende eller en av dennes foreldre eier og har eid i minst 10 år, eller som vedkommende eller en av foreldrene bruker og har brukt i minst 20 år eller har brukt i minst 10 år og har en bruksrett til som er fastsatt for en av foreldrenes eller vedkommendes livstid. Dette gjelder ikke dersom navnet på gårdsbruket er valgt etter 1. januar 1947 og strider mot lov 18. mai 1990 nr. 11 om stadnamn § 3 bokstav a.",
+        "html": "navn på et gårdsbruk som vedkommende eller en av dennes foreldre eier og har eid i minst 10 år, eller som vedkommende eller en av foreldrene bruker og har brukt i minst 20 år eller har brukt i minst 10 år og har en bruksrett til som er fastsatt for en av foreldrenes eller vedkommendes livstid. Dette gjelder ikke dersom navnet på gårdsbruket er valgt etter 1. januar 1947 og strider mot <a data-id=\"lov/1990-05-18-11\" class=\" reference\" href=\"/lov/1990-05-18-11\">lov 18. mai 1990 nr. 11</a> om stadnamn <a data-id=\"lov/1990-05-18-11/§3\" class=\" reference\" href=\"/lov/1990-05-18-11/%C2%A73\">§ 3</a> bokstav a.",
         "text": "navn på et gårdsbruk som vedkommende eller en av dennes foreldre eier og har eid i minst 10 år, eller som vedkommende eller en av foreldrene bruker og har brukt i minst 20 år eller har brukt i minst 10 år og har en bruksrett til som er fastsatt for en av foreldrenes eller vedkommendes livstid. Dette gjelder ikke dersom navnet på gårdsbruket er valgt etter 1. januar 1947 og strider mot lov 18. mai 1990 nr. 11 om stadnamn § 3 bokstav a."
     },
     {

@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.14 (2004–2005), Innst.O.nr.56 (2004–2005) og Besl.O.nr.49 (2004–2005). Odels- og lagtingsvedtak hhv. 15. mars og 12. april 2005. Fremmet av Arbeids- og sosialdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-14-200405\" class=\" reference\" href=\"/forarbeid/otprp-14-200405\">Ot.prp.nr.14 (2004–2005)</a>, <a data-id=\"forarbeid/inns-o-56-200405\" class=\" reference\" href=\"/forarbeid/inns-o-56-200405\">Innst.O.nr.56 (2004–2005)</a> og <a data-id=\"forarbeid/besl-o-49-200405\" class=\" reference\" href=\"/forarbeid/besl-o-49-200405\">Besl.O.nr.49 (2004–2005)</a>. Odels- og lagtingsvedtak hhv. 15. mars og 12. april 2005. Fremmet av Arbeids- og sosialdepartementet.",
         "text": "Ot.prp.nr.14 (2004–2005), Innst.O.nr.56 (2004–2005) og Besl.O.nr.49 (2004–2005). Odels- og lagtingsvedtak hhv. 15. mars og 12. april 2005. Fremmet av Arbeids- og sosialdepartementet."
     },
     {
@@ -11,6 +11,7 @@
         "html": "Kapittel 1. Formål – definisjonar",
         "text": "Kapittel 1. Formål – definisjonar"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -31,6 +32,7 @@
         "text": "Formålet med lova er å garantere ei minste samla inntekt for personar med liten eller ingen pensjon frå folketrygda på grunn av kort butid i Noreg."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -46,7 +48,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Med grunnbeløpet meiner ein i lova her grunnbeløpet etter folketrygdlova § 1-4.",
+        "html": "Med grunnbeløpet meiner ein i lova her grunnbeløpet etter <a data-id=\"lov/1997-02-28-19/§1-4\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A71-4\">folketrygdlova § 1-4</a>.",
         "text": "Med grunnbeløpet meiner ein i lova her grunnbeløpet etter folketrygdlova § 1-4."
     },
     {
@@ -61,6 +63,7 @@
         "html": "Kapittel 2. Personkrins – opphald i utlandet",
         "text": "Kapittel 2. Personkrins – opphald i utlandet"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -86,6 +89,7 @@
         "html": "Familiemedlemer i oppstigande linje som har fått opphaldsløyve av di dei er forsørgde av personar som oppheld seg her, kan berre få supplerande stønad for tidsrom etter at dei har fått løyve til fast busetjing i Noreg.",
         "text": "Familiemedlemer i oppstigande linje som har fått opphaldsløyve av di dei er forsørgde av personar som oppheld seg her, kan berre få supplerande stønad for tidsrom etter at dei har fått løyve til fast busetjing i Noreg."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -124,6 +128,7 @@
         "text": "Kapittel 3. Fastsetjing av ytingar"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -144,40 +149,41 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">1,7933 gonger grunnbeløpet for einslege stønadstakarar</td>\n</tr>",
-        "text": "a)1,7933 gonger grunnbeløpet for einslege stønadstakarar"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">1,7933 gonger grunnbeløpet for einslege stønadstakarar</td>\n</tr>",
+        "text": "a)\t1,7933 gonger grunnbeløpet for einslege stønadstakarar"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">2,2933 gonger grunnbeløpet for personar med ektemake under 67 år</td>\n</tr>",
-        "text": "b)2,2933 gonger grunnbeløpet for personar med ektemake under 67 år"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">2,2933 gonger grunnbeløpet for personar med ektemake under 67 år</td>\n</tr>",
+        "text": "b)\t2,2933 gonger grunnbeløpet for personar med ektemake under 67 år"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">1,6433 gonger grunnbeløpet for kvar av ektemakane når begge har fylt 67 år.</td>\n</tr>",
-        "text": "c)1,6433 gonger grunnbeløpet for kvar av ektemakane når begge har fylt 67 år."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">1,6433 gonger grunnbeløpet for kvar av ektemakane når begge har fylt 67 år.</td>\n</tr>",
+        "text": "c)\t1,6433 gonger grunnbeløpet for kvar av ektemakane når begge har fylt 67 år."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ytingane etter første leddet bokstavane a til c skal aukast med 40 prosent av grunnbeløpet per barn under 18 år som personen forsørgjer og bur saman med i eitt hushald. Dersom begge ektemakane har fylt 67 år, skal auken gå til den av dei som har lågast inntekt (sjå § 6 første leddet).",
+        "html": "Ytingane etter første leddet bokstavane a til c skal aukast med 40 prosent av grunnbeløpet per barn under 18 år som personen forsørgjer og bur saman med i eitt hushald. Dersom begge ektemakane har fylt 67 år, skal auken gå til den av dei som har lågast inntekt (sjå <a data-id=\"lov/2005-04-29-21/§6\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A76\">§ 6</a> første leddet).",
         "text": "Ytingane etter første leddet bokstavane a til c skal aukast med 40 prosent av grunnbeløpet per barn under 18 år som personen forsørgjer og bur saman med i eitt hushald. Dersom begge ektemakane har fylt 67 år, skal auken gå til den av dei som har lågast inntekt (sjå § 6 første leddet)."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Eit barn vert rekna å forsørgje seg sjølv dersom det har inntekt som nemnd i § 6 første leddet, og inntekta er høgare enn grunnbeløpet.",
+        "html": "Eit barn vert rekna å forsørgje seg sjølv dersom det har inntekt som nemnd i <a data-id=\"lov/2005-04-29-21/§6\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A76\">§ 6</a> første leddet, og inntekta er høgare enn grunnbeløpet.",
         "text": "Eit barn vert rekna å forsørgje seg sjølv dersom det har inntekt som nemnd i § 6 første leddet, og inntekta er høgare enn grunnbeløpet."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom ein ektemake under 67 år oppheld seg i utlandet i lengre tid enn fastsett i § 4, skal ytinga til stønadstakaren fastsetjast etter første leddet bokstav a. Tilsvarande fell retten til tillegg for forsørgt barn bort når barnet har utanlandsopphald som nemnd. Reglane i § 4 gjeld tilsvarande med omsyn til tidspunktet for omrekning av ytingane etter første og andre punktumet.",
+        "html": "Dersom ein ektemake under 67 år oppheld seg i utlandet i lengre tid enn fastsett i <a data-id=\"lov/2005-04-29-21/§4\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A74\">§ 4</a>, skal ytinga til stønadstakaren fastsetjast etter første leddet bokstav a. Tilsvarande fell retten til tillegg for forsørgt barn bort når barnet har utanlandsopphald som nemnd. Reglane i <a data-id=\"lov/2005-04-29-21/§4\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A74\">§ 4</a> gjeld tilsvarande med omsyn til tidspunktet for omrekning av ytingane etter første og andre punktumet.",
         "text": "Dersom ein ektemake under 67 år oppheld seg i utlandet i lengre tid enn fastsett i § 4, skal ytinga til stønadstakaren fastsetjast etter første leddet bokstav a. Tilsvarande fell retten til tillegg for forsørgt barn bort når barnet har utanlandsopphald som nemnd. Reglane i § 4 gjeld tilsvarande med omsyn til tidspunktet for omrekning av ytingane etter første og andre punktumet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -199,40 +205,41 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeidsinntekt</td>\n</tr>",
-        "text": "a)arbeidsinntekt"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeidsinntekt</td>\n</tr>",
+        "text": "a)\tarbeidsinntekt"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjon frå folketrygda</td>\n</tr>",
-        "text": "b)pensjon frå folketrygda"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjon frå folketrygda</td>\n</tr>",
+        "text": "b)\tpensjon frå folketrygda"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre norske offentlege eller private pensjonar</td>\n</tr>",
-        "text": "c)andre norske offentlege eller private pensjonar"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre norske offentlege eller private pensjonar</td>\n</tr>",
+        "text": "c)\tandre norske offentlege eller private pensjonar"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utanlandske offentlege eller private pensjonar</td>\n</tr>",
-        "text": "d)utanlandske offentlege eller private pensjonar"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utanlandske offentlege eller private pensjonar</td>\n</tr>",
+        "text": "d)\tutanlandske offentlege eller private pensjonar"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapitalinntekter.</td>\n</tr>",
-        "text": "e)kapitalinntekter."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapitalinntekter.</td>\n</tr>",
+        "text": "e)\tkapitalinntekter."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det skal reknast med slik inntekt hos stønadstakaren sjølv så vel som hos ektemaken. Dersom begge ektemakane har fylt 67 år, skal inntekt hos den eine ektemaken berre inngå ved prøvinga av ytingane til den andre ektemaken med den delen som overstig full supplerande stønad etter § 5 første leddet bokstav c.",
+        "html": "Det skal reknast med slik inntekt hos stønadstakaren sjølv så vel som hos ektemaken. Dersom begge ektemakane har fylt 67 år, skal inntekt hos den eine ektemaken berre inngå ved prøvinga av ytingane til den andre ektemaken med den delen som overstig full supplerande stønad etter <a data-id=\"lov/2005-04-29-21/§5\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A75\">§ 5</a> første leddet bokstav c.",
         "text": "Det skal reknast med slik inntekt hos stønadstakaren sjølv så vel som hos ektemaken. Dersom begge ektemakane har fylt 67 år, skal inntekt hos den eine ektemaken berre inngå ved prøvinga av ytingane til den andre ektemaken med den delen som overstig full supplerande stønad etter § 5 første leddet bokstav c."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -249,9 +256,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Supplerande stønad vert gitt dersom full supplerande stønad etter § 5 er høgare enn inntektsgrunnlaget etter § 6. Stønaden skal utgjere differansen mellom desse beløpa.",
+        "html": "Supplerande stønad vert gitt dersom full supplerande stønad etter <a data-id=\"lov/2005-04-29-21/§5\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A75\">§ 5</a> er høgare enn inntektsgrunnlaget etter <a data-id=\"lov/2005-04-29-21/§6\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A76\">§ 6</a>. Stønaden skal utgjere differansen mellom desse beløpa.",
         "text": "Supplerande stønad vert gitt dersom full supplerande stønad etter § 5 er høgare enn inntektsgrunnlaget etter § 6. Stønaden skal utgjere differansen mellom desse beløpa."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -278,6 +286,7 @@
         "text": "Departementet kan gi forskrift til utfylling av reglane i paragrafen her."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -293,9 +302,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Supplerande stønad vert ikkje gitt dersom ytinga ville utgjere eit mindre beløp enn to prosent av full supplerande stønad etter § 5 første leddet bokstav a utan tillegg for forsørgde barn.",
+        "html": "Supplerande stønad vert ikkje gitt dersom ytinga ville utgjere eit mindre beløp enn to prosent av full supplerande stønad etter <a data-id=\"lov/2005-04-29-21/§5\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A75\">§ 5</a> første leddet bokstav a utan tillegg for forsørgde barn.",
         "text": "Supplerande stønad vert ikkje gitt dersom ytinga ville utgjere eit mindre beløp enn to prosent av full supplerande stønad etter § 5 første leddet bokstav a utan tillegg for forsørgde barn."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -315,6 +325,7 @@
         "html": "Fastsett stønad skal setjast opp eller ned dersom det skjer endringar i inntektene eller dei andre tilhøva som er lagt til grunn ved fastsetjinga av stønaden, og dette fører med seg ei endring av stønaden med minst 10 prosent.",
         "text": "Fastsett stønad skal setjast opp eller ned dersom det skjer endringar i inntektene eller dei andre tilhøva som er lagt til grunn ved fastsetjinga av stønaden, og dette fører med seg ei endring av stønaden med minst 10 prosent."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -343,7 +354,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom ei endring som nemnd i § 10 fører til at stønaden vert sett opp, gjeld dette frå og med den månaden då endringa skjedde. Dersom ytinga vert sett ned, får dette verknad frå og med månaden etter den månaden då endringa skjedde.",
+        "html": "Dersom ei endring som nemnd i <a data-id=\"lov/2005-04-29-21/§10\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A710\">§ 10</a> fører til at stønaden vert sett opp, gjeld dette frå og med den månaden då endringa skjedde. Dersom ytinga vert sett ned, får dette verknad frå og med månaden etter den månaden då endringa skjedde.",
         "text": "Dersom ei endring som nemnd i § 10 fører til at stønaden vert sett opp, gjeld dette frå og med den månaden då endringa skjedde. Dersom ytinga vert sett ned, får dette verknad frå og med månaden etter den månaden då endringa skjedde."
     },
     {
@@ -364,6 +375,7 @@
         "html": "Stønaden vert utbetalt i månadsbeløp før utgangen av den einskilde månaden. Månadsbeløpa vert avrunda til den næraste heile krona.",
         "text": "Stønaden vert utbetalt i månadsbeløp før utgangen av den einskilde månaden. Månadsbeløpa vert avrunda til den næraste heile krona."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -389,6 +401,7 @@
         "html": "Reglane i første leddet gjeld tilsvarande ved opphald i fengsel mv.",
         "text": "Reglane i første leddet gjeld tilsvarande ved opphald i fengsel mv."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -421,6 +434,7 @@
         "text": "Beløp som ikkje vert innkravde etter andre leddet, kan innkrevjast etter reglane i bidragsinnkrevjingslova."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -446,6 +460,7 @@
         "text": "Kapittel 4. Saksbehandling mv."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -464,6 +479,7 @@
         "html": "Reglane i forvaltningslova gjeld for handsaminga av saker om supplerande stønad, med dei unntaka som går fram av lova her.",
         "text": "Reglane i forvaltningslova gjeld for handsaminga av saker om supplerande stønad, med dei unntaka som går fram av lova her."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -484,6 +500,7 @@
         "text": "Saker om ytingar etter lova vert avgjorte av Rikstrygdeverket, som kan delegere avgjerda til anna organ i trygdeetaten."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -502,6 +519,7 @@
         "html": "Søknad om supplerande stønad skal setjast fram for trygdekontoret på bustaden til søkjaren på skjema fastsett av Rikstrygdeverket. Søkjaren skal møte personleg på trygdekontoret. Trygdekontoret skal hjelpe søkjar med utfyllinga så langt dette er naudsynt.",
         "text": "Søknad om supplerande stønad skal setjast fram for trygdekontoret på bustaden til søkjaren på skjema fastsett av Rikstrygdeverket. Søkjaren skal møte personleg på trygdekontoret. Trygdekontoret skal hjelpe søkjar med utfyllinga så langt dette er naudsynt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -533,6 +551,7 @@
         "html": "Dersom ein søkjar eller stønadstakar ikkje legg fram dokumentasjon som trygdeetaten har bedt om, kan ein søknad om ytingar bli avslått, og ytingar som er gitt kan haldast attende. Det same gjeld dersom søkjaren gir uriktige opplysningar som er viktige for retten til eller storleiken på ytinga eller let vere å gi slike opplysningar.",
         "text": "Dersom ein søkjar eller stønadstakar ikkje legg fram dokumentasjon som trygdeetaten har bedt om, kan ein søknad om ytingar bli avslått, og ytingar som er gitt kan haldast attende. Det same gjeld dersom søkjaren gir uriktige opplysningar som er viktige for retten til eller storleiken på ytinga eller let vere å gi slike opplysningar."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -571,6 +590,7 @@
         "text": "Dei som vert pålagt å gi opplysningar, har plikt til å gjere dette utan ugrunna opphald og utan hinder av teieplikt. Dei kan ikkje krevje vederlag for å gi opplysningane."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -586,9 +606,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ektemaken til ein person som søkjer om eller får supplerande stønad etter lova, har plikt til å gi opplysningar om inntekts- eller formuestilhøva sine etter reglane i § 18. Reglane i § 19 gjeld tilsvarande i høve til henting av slike opplysningar.",
+        "html": "Ektemaken til ein person som søkjer om eller får supplerande stønad etter lova, har plikt til å gi opplysningar om inntekts- eller formuestilhøva sine etter reglane i <a data-id=\"lov/2005-04-29-21/§18\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A718\">§ 18</a>. Reglane i <a data-id=\"lov/2005-04-29-21/§19\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A719\">§ 19</a> gjeld tilsvarande i høve til henting av slike opplysningar.",
         "text": "Ektemaken til ein person som søkjer om eller får supplerande stønad etter lova, har plikt til å gi opplysningar om inntekts- eller formuestilhøva sine etter reglane i § 18. Reglane i § 19 gjeld tilsvarande i høve til henting av slike opplysningar."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -611,9 +632,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan gi forskrift om tiltak med sikte på å kontrollere at vilkåra i § 4 er oppfylte eller om ein stønadstakar har hatt opphald i utlandet i strid med reglane. Forskrifta kan bestemme at ein stønadstakar skal møte personleg på trygdekontoret inntil to gonger i året og vise pass eller anna reisedokument.",
+        "html": "Departementet kan gi forskrift om tiltak med sikte på å kontrollere at vilkåra i <a data-id=\"lov/2005-04-29-21/§4\" class=\" reference\" href=\"/lov/2005-04-29-21/%C2%A74\">§ 4</a> er oppfylte eller om ein stønadstakar har hatt opphald i utlandet i strid med reglane. Forskrifta kan bestemme at ein stønadstakar skal møte personleg på trygdekontoret inntil to gonger i året og vise pass eller anna reisedokument.",
         "text": "Departementet kan gi forskrift om tiltak med sikte på å kontrollere at vilkåra i § 4 er oppfylte eller om ein stønadstakar har hatt opphald i utlandet i strid med reglane. Forskrifta kan bestemme at ein stønadstakar skal møte personleg på trygdekontoret inntil to gonger i året og vise pass eller anna reisedokument."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -630,9 +652,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Vedtak om supplerande stønad etter lova her kan ankast inn for Trygderetten. Reglane i folketrygdlova § 21-12 gjeld tilsvarande så langt dei høver.",
+        "html": "Vedtak om supplerande stønad etter lova her kan ankast inn for Trygderetten. Reglane i <a data-id=\"lov/1997-02-28-19/§21-12\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-12\">folketrygdlova § 21-12</a> gjeld tilsvarande så langt dei høver.",
         "text": "Vedtak om supplerande stønad etter lova her kan ankast inn for Trygderetten. Reglane i folketrygdlova § 21-12 gjeld tilsvarande så langt dei høver."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -649,7 +672,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglane i folketrygdlova §§ 20-8, 21-9, 21-10, 21-11, 22-1, 22-6 og 22-18 gjeld tilsvarande så langt dei høver.",
+        "html": "Reglane i <a data-id=\"lov/1997-02-28-19/§20-8\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A720-8\">folketrygdlova §§ 20-8</a>, <a data-id=\"lov/1997-02-28-19/§21-9\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-9\">21-9</a>, <a data-id=\"lov/1997-02-28-19/§21-10\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-10\">21-10</a>, <a data-id=\"lov/1997-02-28-19/§21-11\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-11\">21-11</a>, <a data-id=\"lov/1997-02-28-19/§22-1\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A722-1\">22-1</a>, <a data-id=\"lov/1997-02-28-19/§22-6\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A722-6\">22-6</a> og <a data-id=\"lov/1997-02-28-19/§22-18\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A722-18\">22-18</a> gjeld tilsvarande så langt dei høver.",
         "text": "Reglane i folketrygdlova §§ 20-8, 21-9, 21-10, 21-11, 22-1, 22-6 og 22-18 gjeld tilsvarande så langt dei høver."
     },
     {
@@ -658,6 +681,7 @@
         "html": "Kapittel 5. Ikraftsetjing",
         "text": "Kapittel 5. Ikraftsetjing"
     },
+    null,
     null,
     {
         "tag": "span",

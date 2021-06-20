@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.48 (2004–2005), Innst.O.nr.75 (2004–2005) og Besl.O.nr.68 (2004–2005). Odels- og lagtingsvedtak hhv. 19. og 26. april 2005. Fremmet av Utdannings- og forskningsdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-48-200405\" class=\" reference\" href=\"/forarbeid/otprp-48-200405\">Ot.prp.nr.48 (2004–2005)</a>, <a data-id=\"forarbeid/inns-o-75-200405\" class=\" reference\" href=\"/forarbeid/inns-o-75-200405\">Innst.O.nr.75 (2004–2005)</a> og <a data-id=\"forarbeid/besl-o-68-200405\" class=\" reference\" href=\"/forarbeid/besl-o-68-200405\">Besl.O.nr.68 (2004–2005)</a>. Odels- og lagtingsvedtak hhv. 19. og 26. april 2005. Fremmet av Utdannings- og forskningsdepartementet.",
         "text": "Ot.prp.nr.48 (2004–2005), Innst.O.nr.75 (2004–2005) og Besl.O.nr.68 (2004–2005). Odels- og lagtingsvedtak hhv. 19. og 26. april 2005. Fremmet av Utdannings- og forskningsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 26. april 1985 nr. 21 om utdanningsstøtte til elever og studenter.",
+        "html": "<a data-id=\"lov/1985-04-26-21\" class=\" reference\" href=\"/lov/1985-04-26-21\">Lov av 26. april 1985 nr. 21</a> om utdanningsstøtte til elever og studenter.",
         "text": "Lov av 26. april 1985 nr. 21 om utdanningsstøtte til elever og studenter."
     },
     {
@@ -23,6 +23,7 @@
         "html": "Kapittel I Formål og virkeområde",
         "text": "Kapittel I Formål og virkeområde"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -44,22 +45,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">like muligheter til utdanning uavhengig av geografiske forhold, alder, kjønn, funksjonsdyktighet, økonomiske og sosiale forhold</td>\n</tr>",
-        "text": "-like muligheter til utdanning uavhengig av geografiske forhold, alder, kjønn, funksjonsdyktighet, økonomiske og sosiale forhold"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">like muligheter til utdanning uavhengig av geografiske forhold, alder, kjønn, funksjonsdyktighet, økonomiske og sosiale forhold</td>\n</tr>",
+        "text": "-\tlike muligheter til utdanning uavhengig av geografiske forhold, alder, kjønn, funksjonsdyktighet, økonomiske og sosiale forhold"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å sikre samfunnet og arbeidslivet tilgang på kompetanse</td>\n</tr>",
-        "text": "-å sikre samfunnet og arbeidslivet tilgang på kompetanse"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å sikre samfunnet og arbeidslivet tilgang på kompetanse</td>\n</tr>",
+        "text": "-\tå sikre samfunnet og arbeidslivet tilgang på kompetanse"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at utdanningen skjer under tilfredsstillende arbeidsforhold, slik at studiearbeidet kan bli effektivt.</td>\n</tr>",
-        "text": "-at utdanningen skjer under tilfredsstillende arbeidsforhold, slik at studiearbeidet kan bli effektivt."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at utdanningen skjer under tilfredsstillende arbeidsforhold, slik at studiearbeidet kan bli effektivt.</td>\n</tr>",
+        "text": "-\tat utdanningen skjer under tilfredsstillende arbeidsforhold, slik at studiearbeidet kan bli effektivt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -80,6 +82,7 @@
         "text": "Søkere som fyller vilkårene i denne loven og forskrift gitt i medhold av loven, har rett til utdanningsstøtte."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -95,7 +98,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven gjelder for utdanning i Norge, herunder Svalbard såfremt ikke annet følger av forskrift gitt av Kongen. Det kan også gis støtte til utdanning i utlandet dersom utdanningen er godkjent etter § 4.",
+        "html": "Loven gjelder for utdanning i Norge, herunder Svalbard såfremt ikke annet følger av forskrift gitt av Kongen. Det kan også gis støtte til utdanning i utlandet dersom utdanningen er godkjent etter <a data-id=\"lov/2005-06-03-37/§4\" class=\" reference\" href=\"/lov/2005-06-03-37/%C2%A74\">§ 4</a>.",
         "text": "Loven gjelder for utdanning i Norge, herunder Svalbard såfremt ikke annet følger av forskrift gitt av Kongen. Det kan også gis støtte til utdanning i utlandet dersom utdanningen er godkjent etter § 4."
     },
     {
@@ -116,6 +119,7 @@
         "html": "Kapittel II Tildeling av utdanningsstøtte",
         "text": "Kapittel II Tildeling av utdanningsstøtte"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -141,6 +145,7 @@
         "html": "Departementet gir forskrifter om vilkår for godkjenningen.",
         "text": "Departementet gir forskrifter om vilkår for godkjenningen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -173,6 +178,7 @@
         "text": "Departementet gir forskrifter om tildeling av utdanningsstøtte, herunder om krav om opptak og rett til å gå opp til eksamen, faglige krav, grenser for hvor mange år støtte kan tildeles, søknadsfrister og aldersgrenser."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -197,6 +203,7 @@
         "html": "Departementet gir forskrifter om vilkår for å motta støtte som nevnt i første ledd.",
         "text": "Departementet gir forskrifter om vilkår for å motta støtte som nevnt i første ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -234,6 +241,7 @@
         "html": "Kapittel III Tilbakebetaling",
         "text": "Kapittel III Tilbakebetaling"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -278,6 +286,7 @@
         "text": "Departementet gir forskrifter om tilbakebetaling av lån, blant annet om satser og gebyrer, rentefritak og utsettelse av betaling av terminbeløp."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -302,6 +311,7 @@
         "html": "Renter regnes etter regler fastsatt av Stortinget. Departementet gir utfyllende forskrifter om fastsettelse av rente.",
         "text": "Renter regnes etter regler fastsatt av Stortinget. Departementet gir utfyllende forskrifter om fastsettelse av rente."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -346,6 +356,7 @@
         "text": "Departementet gir forskrifter med nærmere vilkår for ettergivelse av gjeld og reaktivering av gjeld."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -365,6 +376,7 @@
         "text": "Krav på tilbakebetaling av utdanningsstøtte er tvangsgrunnlag for utlegg."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -380,9 +392,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når Statens innkrevingssentral er pålagt å inndrive krav som nevnt i § 11, kan den inndrive kravet ved trekk i lønn og andre lignende ytelser etter reglene i dekningsloven § 2-7. Innkrevingssentralen kan også inndrive kravene ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til en tredjeperson, jf. panteloven kapittel 5, og utleggsforretningen kan holdes på Innkrevingssentralens kontor etter tvangsfullbyrdelsesloven § 7-9 første ledd.",
+        "html": "Når Statens innkrevingssentral er pålagt å inndrive krav som nevnt i <a data-id=\"lov/2005-06-03-37/§11\" class=\" reference\" href=\"/lov/2005-06-03-37/%C2%A711\">§ 11</a>, kan den inndrive kravet ved trekk i lønn og andre lignende ytelser etter reglene i <a data-id=\"lov/1984-06-08-59/§2-7\" class=\" reference\" href=\"/lov/1984-06-08-59/%C2%A72-7\">dekningsloven § 2-7</a>. Innkrevingssentralen kan også inndrive kravene ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til en tredjeperson, jf. <a data-id=\"lov/1980-02-08-2/kap5\" class=\" reference\" href=\"/lov/1980-02-08-2/kap5\">panteloven kapittel 5</a>, og utleggsforretningen kan holdes på Innkrevingssentralens kontor etter <a data-id=\"lov/1992-06-26-86/§7-9\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A77-9\">tvangsfullbyrdelsesloven § 7-9</a> første ledd.",
         "text": "Når Statens innkrevingssentral er pålagt å inndrive krav som nevnt i § 11, kan den inndrive kravet ved trekk i lønn og andre lignende ytelser etter reglene i dekningsloven § 2-7. Innkrevingssentralen kan også inndrive kravene ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til en tredjeperson, jf. panteloven kapittel 5, og utleggsforretningen kan holdes på Innkrevingssentralens kontor etter tvangsfullbyrdelsesloven § 7-9 første ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -402,6 +415,7 @@
         "html": "Ved vedvarende og grovt mislighold kan låntakers gjeld bli overført til Statens innkrevingssentral. En overføring av kravet til Statens innkrevingssentral medfører tap av rettigheter gitt i eller i medhold av denne lov.",
         "text": "Ved vedvarende og grovt mislighold kan låntakers gjeld bli overført til Statens innkrevingssentral. En overføring av kravet til Statens innkrevingssentral medfører tap av rettigheter gitt i eller i medhold av denne lov."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -440,6 +454,7 @@
         "text": "Departementet gir forskrifter om arbeidsdelingen mellom Lånekassen og Statens innkrevingssentral, utøvelse av skjønn ved ettergivelse av lån, renter og omkostninger og om vilkår for gjeldsforhandlinger."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -477,6 +492,7 @@
         "text": "Kapittel IV Administrasjon"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -496,6 +512,7 @@
         "text": "Lånekassen forvalter utdanningsstøtten i samsvar med bestemmelsene gitt i eller i medhold av denne lov. Lånekassen er underlagt departementet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -514,6 +531,7 @@
         "html": "Statens innkrevingssentral kan forvalte deler av regelverket om tilbakebetaling etter denne lov med forskrifter. For saker Statens innkrevingssentral behandler etter denne lov, har departementet instruksjonsmyndighet.",
         "text": "Statens innkrevingssentral kan forvalte deler av regelverket om tilbakebetaling etter denne lov med forskrifter. For saker Statens innkrevingssentral behandler etter denne lov, har departementet instruksjonsmyndighet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -546,6 +564,7 @@
         "text": "For tjenestemannssaker og klager etter lov om offentlighet i forvaltningen, er departementet klageinstans."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -571,6 +590,7 @@
         "text": "Kapittel V Andre bestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -589,6 +609,7 @@
         "html": "Utdanningsstøtteordninger etter denne lov, utgiftene ved ettergivelse av lån, og avskriving for tap på fordringer finansieres ved midler bevilget over det årlige statsbudsjett og innlån fra staten.",
         "text": "Utdanningsstøtteordninger etter denne lov, utgiftene ved ettergivelse av lån, og avskriving for tap på fordringer finansieres ved midler bevilget over det årlige statsbudsjett og innlån fra staten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -609,6 +630,7 @@
         "text": "Norske undervisningsinstitusjoner med personer som er berettiget til utdanningsstøtte, plikter å medvirke til gjennomføringen av ordningene i samsvar med nærmere bestemmelser som blir gitt av departementet og Lånekassen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -627,6 +649,7 @@
         "html": "Det kan settes en minstegrense for utbetaling av beløp som søkeren eller låntakeren ellers er berettiget til. Ved tildeling av støtte kan grensen være inntil kr 50 per måned i lån, og inntil kr 20 per måned i stipend. For annen utbetaling eller godskriving kan grensen settes inntil kr 50.",
         "text": "Det kan settes en minstegrense for utbetaling av beløp som søkeren eller låntakeren ellers er berettiget til. Ved tildeling av støtte kan grensen være inntil kr 50 per måned i lån, og inntil kr 20 per måned i stipend. For annen utbetaling eller godskriving kan grensen settes inntil kr 50."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -683,6 +706,7 @@
         "text": "Departementet gir forskrifter om hvilke institusjoner opplysninger kan innhentes fra samt om oppbevaring og sletting av opplysninger."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -702,6 +726,7 @@
         "text": "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -717,9 +742,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra lovens ikraftsetting oppheves lov av 26. april 1985 nr. 21 om utdanningsstøtte til elever og studenter.",
+        "html": "Fra lovens ikraftsetting oppheves <a data-id=\"lov/1985-04-26-21\" class=\" reference\" href=\"/lov/1985-04-26-21\">lov av 26. april 1985 nr. 21</a> om utdanningsstøtte til elever og studenter.",
         "text": "Fra lovens ikraftsetting oppheves lov av 26. april 1985 nr. 21 om utdanningsstøtte til elever og studenter."
     },
+    null,
     null,
     {
         "tag": "span",

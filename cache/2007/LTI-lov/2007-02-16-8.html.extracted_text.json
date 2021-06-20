@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.85 (2005–2006), Innst.O.nr.34 (2006–2007) og Besl.O.nr.53 (2006–2007). Odels- og lagtingsvedtak hhv. 1. og 8. februar 2007. Fremmet av Nærings- og handelsdepartementet. Jf. EØS-avtalen vedlegg XVIII nr. 31 (direktiv <a data-id=\"eu/31997l0081\" class=\" reference\" href=\"/eu/31997l0081\">97/81/EF</a>), nr. 32a (direktiv <a data-id=\"eu/31999l0070\" class=\" reference\" href=\"/eu/31999l0070\">1999/70/EF</a>) og nr. 32f (direktiv <a data-id=\"eu/32002l0014\" class=\" reference\" href=\"/eu/32002l0014\">2002/14/EØF</a>). Jf. også direktiv 2000/78/EF.",
+        "html": "<a data-id=\"forarbeid/otprp-85-200506\" class=\" reference\" href=\"/forarbeid/otprp-85-200506\">Ot.prp.nr.85 (2005–2006)</a>, <a data-id=\"forarbeid/inns-o-34-200607\" class=\" reference\" href=\"/forarbeid/inns-o-34-200607\">Innst.O.nr.34 (2006–2007)</a> og <a data-id=\"forarbeid/besl-o-53-200607\" class=\" reference\" href=\"/forarbeid/besl-o-53-200607\">Besl.O.nr.53 (2006–2007)</a>. Odels- og lagtingsvedtak hhv. 1. og 8. februar 2007. Fremmet av Nærings- og handelsdepartementet. Jf. EØS-avtalen vedlegg XVIII nr. 31 (direktiv <a data-id=\"eu/31997l0081\" class=\" reference\" href=\"/eu/31997l0081\">97/81/EF</a>), nr. 32a (direktiv <a data-id=\"eu/31999l0070\" class=\" reference\" href=\"/eu/31999l0070\">1999/70/EF</a>) og nr. 32f (direktiv <a data-id=\"eu/32002l0014\" class=\" reference\" href=\"/eu/32002l0014\">2002/14/EØF</a>). Jf. også direktiv 2000/78/EF.",
         "text": "Ot.prp.nr.85 (2005–2006), Innst.O.nr.34 (2006–2007) og Besl.O.nr.53 (2006–2007). Odels- og lagtingsvedtak hhv. 1. og 8. februar 2007. Fremmet av Nærings- og handelsdepartementet. Jf. EØS-avtalen vedlegg XVIII nr. 31 (direktiv 97/81/EF), nr. 32a (direktiv 1999/70/EF) og nr. 32f (direktiv 2002/14/EØF). Jf. også direktiv 2000/78/EF."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I sjømannslov 30. mai 1975 nr. 18 gjøres følgende endringer:",
+        "html": "I sjømannslov <a data-id=\"lov/1975-05-30-18\" class=\" reference\" href=\"/lov/1975-05-30-18\">30. mai 1975 nr. 18</a> gjøres følgende endringer:",
         "text": "I sjømannslov 30. mai 1975 nr. 18 gjøres følgende endringer:"
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For personer som verken er bosatt i Norge eller er norske statsborgere og som er ansatt av utenlandsk arbeidsgiver for å betjene passasjerer på turistskip gjelder bare bestemmelsene i § 4, § 18 nr. 1 første og annet ledd; dog unntatt retten til omplassering i annet ledd, § 18 nr. 3 samt §§ 26 og 27, kapittel II A og kapittel II B, §§ 39, 40, 43, 45, 48 og 49. Statsborgere i land som omfattes av EØS-avtalen skal regnes likt med norske statsborgere.",
+        "html": "For personer som verken er bosatt i Norge eller er norske statsborgere og som er ansatt av utenlandsk arbeidsgiver for å betjene passasjerer på turistskip gjelder bare bestemmelsene i § 4, § 18 nr. 1 første og annet ledd; dog unntatt retten til omplassering i annet ledd, § 18 nr. 3 samt §§ 26 og 27, kapittel II A og kapittel II B, §§ 39, 40, 43, 45, 48 og 49. Statsborgere i land som omfattes av <a data-id=\"lov/1992-11-27-109/§39\" class=\" reference\" href=\"/lov/1992-11-27-109/%C2%A739\">EØS-avtalen </a>skal regnes likt med norske statsborgere.",
         "text": "For personer som verken er bosatt i Norge eller er norske statsborgere og som er ansatt av utenlandsk arbeidsgiver for å betjene passasjerer på turistskip gjelder bare bestemmelsene i § 4, § 18 nr. 1 første og annet ledd; dog unntatt retten til omplassering i annet ledd, § 18 nr. 3 samt §§ 26 og 27, kapittel II A og kapittel II B, §§ 39, 40, 43, 45, 48 og 49. Statsborgere i land som omfattes av EØS-avtalen skal regnes likt med norske statsborgere."
     },
     {
@@ -97,27 +97,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utlysing av stilling, ansettelse, omplassering og  forfremmelse,</td>\n</tr>",
-        "text": "a)utlysing av stilling, ansettelse, omplassering og forfremmelse,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utlysing av stilling, ansettelse, omplassering og  forfremmelse,</td>\n</tr>",
+        "text": "a)\tutlysing av stilling, ansettelse, omplassering og  forfremmelse,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplæring og annen kompetanseutvikling,</td>\n</tr>",
-        "text": "b)opplæring og annen kompetanseutvikling,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplæring og annen kompetanseutvikling,</td>\n</tr>",
+        "text": "b)\topplæring og annen kompetanseutvikling,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lønns- og arbeidsvilkår,</td>\n</tr>",
-        "text": "c)lønns- og arbeidsvilkår,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lønns- og arbeidsvilkår,</td>\n</tr>",
+        "text": "c)\tlønns- og arbeidsvilkår,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opphør.</td>\n</tr>",
-        "text": "d)opphør."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opphør.</td>\n</tr>",
+        "text": "d)\topphør."
     },
     {
         "tag": "p",
@@ -301,21 +301,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon om den aktuelle og forventede utvikling av rederiets aktiviteter og økonomiske situasjon,</td>\n</tr>",
-        "text": "a)informasjon om den aktuelle og forventede utvikling av rederiets aktiviteter og økonomiske situasjon,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon om den aktuelle og forventede utvikling av rederiets aktiviteter og økonomiske situasjon,</td>\n</tr>",
+        "text": "a)\tinformasjon om den aktuelle og forventede utvikling av rederiets aktiviteter og økonomiske situasjon,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon og drøfting om den aktuelle og forventede bemanningssituasjonen i rederiet, inkludert eventuell fare for innskrenkninger og de tiltak rederiet vurderer i den forbindelse,</td>\n</tr>",
-        "text": "b)informasjon og drøfting om den aktuelle og forventede bemanningssituasjonen i rederiet, inkludert eventuell fare for innskrenkninger og de tiltak rederiet vurderer i den forbindelse,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon og drøfting om den aktuelle og forventede bemanningssituasjonen i rederiet, inkludert eventuell fare for innskrenkninger og de tiltak rederiet vurderer i den forbindelse,</td>\n</tr>",
+        "text": "b)\tinformasjon og drøfting om den aktuelle og forventede bemanningssituasjonen i rederiet, inkludert eventuell fare for innskrenkninger og de tiltak rederiet vurderer i den forbindelse,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon og drøfting om beslutninger som kan føre til vesentlig endring i arbeidsorganisering eller ansettelsesforhold.</td>\n</tr>",
-        "text": "c)informasjon og drøfting om beslutninger som kan føre til vesentlig endring i arbeidsorganisering eller ansettelsesforhold."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon og drøfting om beslutninger som kan føre til vesentlig endring i arbeidsorganisering eller ansettelsesforhold.</td>\n</tr>",
+        "text": "c)\tinformasjon og drøfting om beslutninger som kan føre til vesentlig endring i arbeidsorganisering eller ansettelsesforhold."
     },
     {
         "tag": "p",

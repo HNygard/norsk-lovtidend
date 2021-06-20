@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.74 (2006–2007), Innst.O.nr.55 (2007–2008) og Besl.O.nr.83 (2007–2008). Odels- og lagtingsvedtak hhv. 27. mai og 5. juni 2008. Fremmet av Helse- og omsorgsdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-74-200607\" class=\" reference\" href=\"/forarbeid/otprp-74-200607\">Ot.prp.nr.74 (2006–2007)</a>, <a data-id=\"forarbeid/inns-o-55-200708\" class=\" reference\" href=\"/forarbeid/inns-o-55-200708\">Innst.O.nr.55 (2007–2008)</a> og <a data-id=\"forarbeid/besl-o-83-200708\" class=\" reference\" href=\"/forarbeid/besl-o-83-200708\">Besl.O.nr.83 (2007–2008)</a>. Odels- og lagtingsvedtak hhv. 27. mai og 5. juni 2008. Fremmet av Helse- og omsorgsdepartementet.",
         "text": "Ot.prp.nr.74 (2006–2007), Innst.O.nr.55 (2007–2008) og Besl.O.nr.83 (2007–2008). Odels- og lagtingsvedtak hhv. 27. mai og 5. juni 2008. Fremmet av Helse- og omsorgsdepartementet."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven).</td>\n</tr>",
-        "text": "1Lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2001-05-18-24\" class=\" reference\" href=\"/lov/2001-05-18-24\">Lov 18. mai 2001 nr. 24</a> om helseregistre og behandling av helseopplysninger (helseregisterloven).</td>\n</tr>",
+        "text": "1\tLov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 21. februar 2003 nr. 12 om biobanker (biobankloven).</td>\n</tr>",
-        "text": "2Lov 21. februar 2003 nr. 12 om biobanker (biobankloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2003-02-21-12\" class=\" reference\" href=\"/lov/2003-02-21-12\">Lov 21. februar 2003 nr. 12</a> om biobanker (biobankloven).</td>\n</tr>",
+        "text": "2\tLov 21. februar 2003 nr. 12 om biobanker (biobankloven)."
     },
     {
         "tag": "h2",
@@ -29,6 +29,7 @@
         "html": "Kapittel 1 Lovens formål og virkeområde",
         "text": "Kapittel 1 Lovens formål og virkeområde"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -48,6 +49,7 @@
         "html": "Lovens formål er å fremme god og etisk forsvarlig medisinsk og helsefaglig forskning.",
         "text": "Lovens formål er å fremme god og etisk forsvarlig medisinsk og helsefaglig forskning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -76,7 +78,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I den utstrekning ikke annet følger av denne loven, gjelder personopplysningsloven med forskrifter som utfyllende bestemmelser. For klinisk utprøvning av legemidler på mennesker gjelder legemiddelloven § 3 med forskrifter. For klinisk utprøvning av medisinsk utstyr gjelder lov om medisinsk utstyr med forskrifter. Loven her gjelder utfyllende så langt den passer.",
+        "html": "I den utstrekning ikke annet følger av denne loven, gjelder personopplysningsloven med forskrifter som utfyllende bestemmelser. For klinisk utprøvning av legemidler på mennesker gjelder <a data-id=\"lov/1992-12-04-132/§3\" class=\" reference\" href=\"/lov/1992-12-04-132/%C2%A73\">legemiddelloven § 3</a> med forskrifter. For klinisk utprøvning av medisinsk utstyr gjelder lov om medisinsk utstyr med forskrifter. Loven her gjelder utfyllende så langt den passer.",
         "text": "I den utstrekning ikke annet følger av denne loven, gjelder personopplysningsloven med forskrifter som utfyllende bestemmelser. For klinisk utprøvning av legemidler på mennesker gjelder legemiddelloven § 3 med forskrifter. For klinisk utprøvning av medisinsk utstyr gjelder lov om medisinsk utstyr med forskrifter. Loven her gjelder utfyllende så langt den passer."
     },
     {
@@ -85,6 +87,7 @@
         "html": "Departementet kan i forskrift gi bestemmeler om lovens anvendelse for særskilte områder innenfor medisinsk og helsefagelig forskning.",
         "text": "Departementet kan i forskrift gi bestemmeler om lovens anvendelse for særskilte områder innenfor medisinsk og helsefagelig forskning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -117,6 +120,7 @@
         "text": "Kongen kan i forskrift bestemme i hvilken utstrekning loven kommer til anvendelse på Svalbard og Jan Mayen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -137,39 +141,39 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,</td>\n</tr>",
-        "text": "a)medisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,</td>\n</tr>",
+        "text": "a)\tmedisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">humant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,</td>\n</tr>",
-        "text": "b)humant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">humant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,</td>\n</tr>",
+        "text": "b)\thumant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,</td>\n</tr>",
-        "text": "c)forskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,</td>\n</tr>",
+        "text": "c)\tforskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helseopplysninger: taushetsbelagte opplysninger i henhold til helsepersonelloven § 21 og andre opplysninger og vurderinger om helseforhold eller som er av betydning for helseforhold, som kan knyttes til en enkeltperson,</td>\n</tr>",
-        "text": "d)helseopplysninger: taushetsbelagte opplysninger i henhold til helsepersonelloven § 21 og andre opplysninger og vurderinger om helseforhold eller som er av betydning for helseforhold, som kan knyttes til en enkeltperson,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helseopplysninger: taushetsbelagte opplysninger i henhold til <a data-id=\"lov/1999-07-02-64/§21\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A721\">helsepersonelloven § 21</a> og andre opplysninger og vurderinger om helseforhold eller som er av betydning for helseforhold, som kan knyttes til en enkeltperson,</td>\n</tr>",
+        "text": "d)\thelseopplysninger: taushetsbelagte opplysninger i henhold til helsepersonelloven § 21 og andre opplysninger og vurderinger om helseforhold eller som er av betydning for helseforhold, som kan knyttes til en enkeltperson,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,</td>\n</tr>",
-        "text": "e)forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,</td>\n</tr>",
+        "text": "e)\tforskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven.</td>\n</tr>",
-        "text": "f)prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven.</td>\n</tr>",
+        "text": "f)\tprosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven."
     },
     {
         "tag": "h2",
@@ -177,6 +181,7 @@
         "html": "Kapittel 2 Krav til organisering og utøvelse av medisinsk og helsefaglig forskning",
         "text": "Kapittel 2 Krav til organisering og utøvelse av medisinsk og helsefaglig forskning"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -209,6 +214,7 @@
         "text": "Medisinsk og helsefaglig forskning skal vareta etiske, medisinske, helsefaglige, vitenskapelige og personvernmessige forhold."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -240,6 +246,7 @@
         "text": "Departementet kan gi forskrift med nærmere krav til organisering av medisinsk og helsefaglig forskning, krav til forskningsprotokollen og til internkontroll, samt gi bestemmelser om prosjektleders og forskningsansvarliges plikter."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -261,9 +268,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Taushetsplikten er ikke til hinder for at opplysninger gjøres kjent for den som de direkte gjelder eller utleveres når mottaker har rettslig grunnlag for å få opplysningene utlevert, jf. § 13.",
+        "html": "Taushetsplikten er ikke til hinder for at opplysninger gjøres kjent for den som de direkte gjelder eller utleveres når mottaker har rettslig grunnlag for å få opplysningene utlevert, jf. <a data-id=\"lov/2008-06-20-44/§13\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A713\">§ 13</a>.",
         "text": "Taushetsplikten er ikke til hinder for at opplysninger gjøres kjent for den som de direkte gjelder eller utleveres når mottaker har rettslig grunnlag for å få opplysningene utlevert, jf. § 13."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -290,6 +298,7 @@
         "text": "Kapittel 3 Søknad og meldeplikt til den regionale komiteen for medisinsk og helsefaglig forskningsetikk"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -305,9 +314,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskningsprosjektet må være forhåndsgodkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. lov 30. juni 2006 nr. 56 om behandling av etikk og redelighet i forskning § 4.",
+        "html": "Forskningsprosjektet må være forhåndsgodkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. <a data-id=\"lov/2006-06-30-56\" class=\" reference\" href=\"/lov/2006-06-30-56\">lov 30. juni 2006 nr. 56</a> om behandling av etikk og redelighet i forskning <a data-id=\"lov/2006-06-30-56/§4\" class=\" reference\" href=\"/lov/2006-06-30-56/%C2%A74\">§ 4</a>.",
         "text": "Forskningsprosjektet må være forhåndsgodkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. lov 30. juni 2006 nr. 56 om behandling av etikk og redelighet i forskning § 4."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -336,7 +346,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Vedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag, jf. lov 30. juni 2006 nr. 56 om behandling av etikk og redelighet i forskning § 4.",
+        "html": "Vedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag, jf. <a data-id=\"lov/2006-06-30-56\" class=\" reference\" href=\"/lov/2006-06-30-56\">lov 30. juni 2006 nr. 56</a> om behandling av etikk og redelighet i forskning <a data-id=\"lov/2006-06-30-56/§4\" class=\" reference\" href=\"/lov/2006-06-30-56/%C2%A74\">§ 4</a>.",
         "text": "Vedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag, jf. lov 30. juni 2006 nr. 56 om behandling av etikk og redelighet i forskning § 4."
     },
     {
@@ -345,6 +355,7 @@
         "html": "Departementet kan gi forskrifter om krav til søknaden, om saksbehandlingsfrister for den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og om de nærmere vilkårene for forhåndsgodkjenning.",
         "text": "Departementet kan gi forskrifter om krav til søknaden, om saksbehandlingsfrister for den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og om de nærmere vilkårene for forhåndsgodkjenning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -367,7 +378,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk avgjør om søknaden skal innvilges. Dersom endringene av prosjektet er så store at det må anses å være et helt nytt prosjekt, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk bestemme at det må søkes om forhåndsgodkjenning etter § 9, jf. § 10, på nytt.",
+        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk avgjør om søknaden skal innvilges. Dersom endringene av prosjektet er så store at det må anses å være et helt nytt prosjekt, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk bestemme at det må søkes om forhåndsgodkjenning etter <a data-id=\"lov/2008-06-20-44/§9\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A79\">§ 9</a>, jf. <a data-id=\"lov/2008-06-20-44/§10\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A710\">§ 10</a>, på nytt.",
         "text": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk avgjør om søknaden skal innvilges. Dersom endringene av prosjektet er så store at det må anses å være et helt nytt prosjekt, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk bestemme at det må søkes om forhåndsgodkjenning etter § 9, jf. § 10, på nytt."
     },
     {
@@ -376,6 +387,7 @@
         "html": "Departementet kan gi forskrifter om krav til saksbehandlingen og om saksbehandlingsfrister.",
         "text": "Departementet kan gi forskrifter om krav til saksbehandlingen og om saksbehandlingsfrister."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -414,6 +426,7 @@
         "text": "Kapittel 4 Samtykke"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -435,7 +448,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Samtykket skal være informert, frivillig, uttrykkelig og dokumenterbart. Samtykket skal bygge på spesifikk informasjon om et konkret forskningsprosjekt med mindre det er adgang til å avgi et bredt samtykke, jf. § 14.",
+        "html": "Samtykket skal være informert, frivillig, uttrykkelig og dokumenterbart. Samtykket skal bygge på spesifikk informasjon om et konkret forskningsprosjekt med mindre det er adgang til å avgi et bredt samtykke, jf. <a data-id=\"lov/2008-06-20-44/§14\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A714\">§ 14</a>.",
         "text": "Samtykket skal være informert, frivillig, uttrykkelig og dokumenterbart. Samtykket skal bygge på spesifikk informasjon om et konkret forskningsprosjekt med mindre det er adgang til å avgi et bredt samtykke, jf. § 14."
     },
     {
@@ -450,6 +463,7 @@
         "html": "Departementet kan gi forskrifter om krav til samtykke.",
         "text": "Departementet kan gi forskrifter om krav til samtykke."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -466,7 +480,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskningsdeltakere kan samtykke etter § 13 til at humant biologisk materiale og helseopplysninger brukes til nærmere bestemte, bredt definerte forskningsformål.",
+        "html": "Forskningsdeltakere kan samtykke etter <a data-id=\"lov/2008-06-20-44/§13\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A713\">§ 13</a> til at humant biologisk materiale og helseopplysninger brukes til nærmere bestemte, bredt definerte forskningsformål.",
         "text": "Forskningsdeltakere kan samtykke etter § 13 til at humant biologisk materiale og helseopplysninger brukes til nærmere bestemte, bredt definerte forskningsformål."
     },
     {
@@ -479,8 +493,9 @@
         "tag": "p",
         "class": "avsnitt",
         "html": "Deltakere som har avgitt bredt samtykke har krav på jevnlig  informasjon om prosjektet.",
-        "text": "Deltakere som har avgitt bredt samtykke har krav på jevnlig informasjon om prosjektet."
+        "text": "Deltakere som har avgitt bredt samtykke har krav på jevnlig  informasjon om prosjektet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -497,7 +512,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved vesentlige endringer i forskningsprosjektet må det innhentes nytt samtykke etter § 13 dersom endringene antas å ha betydning for deltakerens samtykke.",
+        "html": "Ved vesentlige endringer i forskningsprosjektet må det innhentes nytt samtykke etter <a data-id=\"lov/2008-06-20-44/§13\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A713\">§ 13</a> dersom endringene antas å ha betydning for deltakerens samtykke.",
         "text": "Ved vesentlige endringer i forskningsprosjektet må det innhentes nytt samtykke etter § 13 dersom endringene antas å ha betydning for deltakerens samtykke."
     },
     {
@@ -506,6 +521,7 @@
         "html": "Dersom det er vanskelig å innhente nytt samtykke, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk godkjenne ny eller endret bruk av tidligere innsamlet humant biologisk materiale eller helseopplysninger uten at nytt samtykke innhentes. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komité for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken.",
         "text": "Dersom det er vanskelig å innhente nytt samtykke, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk godkjenne ny eller endret bruk av tidligere innsamlet humant biologisk materiale eller helseopplysninger uten at nytt samtykke innhentes. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komité for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -544,6 +560,7 @@
         "text": "Dersom særlig sterke samfunns- eller forskningshensyn tilsier det, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk tillate fortsatt forskning på materialet og utsatt destruksjon, sletting eller utlevering til forskningsprosjektet er gjennomført."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -564,20 +581,20 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">myndige personer</td>\n</tr>",
-        "text": "a)myndige personer"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">myndige personer</td>\n</tr>",
+        "text": "a)\tmyndige personer"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mindreårige etter fylte 16 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art.</td>\n</tr>",
-        "text": "b)mindreårige etter fylte 16 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mindreårige etter fylte 16 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art.</td>\n</tr>",
+        "text": "b)\tmindreårige etter fylte 16 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Samtykkekompetanse etter første ledd kan bortfalle i situasjoner som vist til i pasientrettighetsloven § 4-3 andre ledd.",
+        "html": "Samtykkekompetanse etter første ledd kan bortfalle i situasjoner som vist til i <a data-id=\"lov/1999-07-02-63/§4-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-3\">pasientrettighetsloven § 4-3</a> andre ledd.",
         "text": "Samtykkekompetanse etter første ledd kan bortfalle i situasjoner som vist til i pasientrettighetsloven § 4-3 andre ledd."
     },
     {
@@ -589,19 +606,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For samtykke til forskning som inkluderer deltakere under 16 år, gjelder samtykkebestemmelsene i pasientrettighetsloven § 4-4 tilsvarende. Dersom barn mellom 12 og 16 år av grunner som bør respekteres, ikke ønsker at foreldrene, andre med foreldreansvar eller barnevernstjenesten gjøres kjent med opplysninger om barnet, skal dette ivaretas.",
+        "html": "For samtykke til forskning som inkluderer deltakere under 16 år, gjelder samtykkebestemmelsene i <a data-id=\"lov/1999-07-02-63/§4-4\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-4\">pasientrettighetsloven § 4-4</a> tilsvarende. Dersom barn mellom 12 og 16 år av grunner som bør respekteres, ikke ønsker at foreldrene, andre med foreldreansvar eller barnevernstjenesten gjøres kjent med opplysninger om barnet, skal dette ivaretas.",
         "text": "For samtykke til forskning som inkluderer deltakere under 16 år, gjelder samtykkebestemmelsene i pasientrettighetsloven § 4-4 tilsvarende. Dersom barn mellom 12 og 16 år av grunner som bør respekteres, ikke ønsker at foreldrene, andre med foreldreansvar eller barnevernstjenesten gjøres kjent med opplysninger om barnet, skal dette ivaretas."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For personer uten samtykkekompetanse etter pasientrettighetsloven § 4-3 andre ledd skal nærmeste pårørende etter pasientrettighetsloven § 1-3 bokstav b samtykke.",
+        "html": "For personer uten samtykkekompetanse etter <a data-id=\"lov/1999-07-02-63/§4-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-3\">pasientrettighetsloven § 4-3</a> andre ledd skal nærmeste pårørende etter <a data-id=\"lov/1999-07-02-63/§1-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A71-3\">pasientrettighetsloven § 1-3</a> bokstav b samtykke.",
         "text": "For personer uten samtykkekompetanse etter pasientrettighetsloven § 4-3 andre ledd skal nærmeste pårørende etter pasientrettighetsloven § 1-3 bokstav b samtykke."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For personer som er umyndiggjorte etter lov 28. november 1898 om umyndiggjørelse gjelder pasientrettighetsloven § 4-7 tilsvarende.",
+        "html": "For personer som er umyndiggjorte etter <a data-id=\"lov/1898-11-28\" class=\" reference\" href=\"/lov/1898-11-28\">lov 28. november 1898</a> om umyndiggjørelse gjelder <a data-id=\"lov/1999-07-02-63/§4-7\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-7\">pasientrettighetsloven § 4-7</a> tilsvarende.",
         "text": "For personer som er umyndiggjorte etter lov 28. november 1898 om umyndiggjørelse gjelder pasientrettighetsloven § 4-7 tilsvarende."
     },
     {
@@ -610,6 +627,7 @@
         "html": "Dersom særlig sterke samfunns- eller forskningshensyn tilsier det, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk tillate fortsatt forskning på materialet og utsatt destruksjon, sletting eller utlevering til forskningsprosjektet er gjennomført.",
         "text": "Dersom særlig sterke samfunns- eller forskningshensyn tilsier det, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk tillate fortsatt forskning på materialet og utsatt destruksjon, sletting eller utlevering til forskningsprosjektet er gjennomført."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -626,26 +644,26 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskning som inkluderer mindreårige og personer uten samtykkekompetanse etter pasientrettighetsloven § 4-3 kan bare finne sted dersom",
+        "html": "Forskning som inkluderer mindreårige og personer uten samtykkekompetanse etter <a data-id=\"lov/1999-07-02-63/§4-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-3\">pasientrettighetsloven § 4-3</a> kan bare finne sted dersom",
         "text": "Forskning som inkluderer mindreårige og personer uten samtykkekompetanse etter pasientrettighetsloven § 4-3 kan bare finne sted dersom"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuell risiko eller ulempe for personen er ubetydelig,</td>\n</tr>",
-        "text": "a)eventuell risiko eller ulempe for personen er ubetydelig,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuell risiko eller ulempe for personen er ubetydelig,</td>\n</tr>",
+        "text": "a)\teventuell risiko eller ulempe for personen er ubetydelig,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen selv ikke motsetter seg det, og</td>\n</tr>",
-        "text": "b)personen selv ikke motsetter seg det, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen selv ikke motsetter seg det, og</td>\n</tr>",
+        "text": "b)\tpersonen selv ikke motsetter seg det, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand.</td>\n</tr>",
-        "text": "c)det er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand.</td>\n</tr>",
+        "text": "c)\tdet er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand."
     },
     {
         "tag": "p",
@@ -659,6 +677,7 @@
         "html": "For personer uten samtykkekompetanse kreves det at det ikke er grunn til å tro at vedkommende ville motsatt seg deltakelse i forskningsprosjektet hvis vedkommende hadde hatt samtykkekompetanse, og at tilsvarende forskning ikke kan gjennomføres på personer med samtykkekompetanse.",
         "text": "For personer uten samtykkekompetanse kreves det at det ikke er grunn til å tro at vedkommende ville motsatt seg deltakelse i forskningsprosjektet hvis vedkommende hadde hatt samtykkekompetanse, og at tilsvarende forskning ikke kan gjennomføres på personer med samtykkekompetanse."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -680,34 +699,35 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuell risiko eller ulempe for personen er ubetydelig,</td>\n</tr>",
-        "text": "a)eventuell risiko eller ulempe for personen er ubetydelig,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuell risiko eller ulempe for personen er ubetydelig,</td>\n</tr>",
+        "text": "a)\teventuell risiko eller ulempe for personen er ubetydelig,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,</td>\n</tr>",
-        "text": "b)personen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,</td>\n</tr>",
+        "text": "b)\tpersonen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det bare er mulig å utføre forskningen i kliniske nødssituasjoner, og</td>\n</tr>",
-        "text": "c)det bare er mulig å utføre forskningen i kliniske nødssituasjoner, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det bare er mulig å utføre forskningen i kliniske nødssituasjoner, og</td>\n</tr>",
+        "text": "c)\tdet bare er mulig å utføre forskningen i kliniske nødssituasjoner, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi.</td>\n</tr>",
-        "text": "d)forskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi.</td>\n</tr>",
+        "text": "d)\tforskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Vedkommende eller dennes nærmeste pårørende skal så snart som mulig gis informasjon om forskningen. Samtykke etter § 13, jf. § 17, er en forutsetning for videre forskning og skal innhentes så snart som mulig.",
+        "html": "Vedkommende eller dennes nærmeste pårørende skal så snart som mulig gis informasjon om forskningen. Samtykke etter <a data-id=\"lov/2008-06-20-44/§13\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A713\">§ 13</a>, jf. <a data-id=\"lov/2008-06-20-44/§17\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A717\">§ 17</a>, er en forutsetning for videre forskning og skal innhentes så snart som mulig.",
         "text": "Vedkommende eller dennes nærmeste pårørende skal så snart som mulig gis informasjon om forskningen. Samtykke etter § 13, jf. § 17, er en forutsetning for videre forskning og skal innhentes så snart som mulig."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -728,6 +748,7 @@
         "text": "Samtykke kreves ikke ved bruk av anonymisert humant biologisk materiale og anonyme opplysninger. For innhenting av materiale og opplysninger som senere skal anonymiseres, kreves det samtykke etter kapitlet her."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -743,7 +764,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For forskning på biologisk materiale som tas ut fra avdøde gjelder bestemmelsene i lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. og forskrifter gitt i medhold av loven tilsvarende.",
+        "html": "For forskning på biologisk materiale som tas ut fra avdøde gjelder bestemmelsene i <a data-id=\"lov/1973-02-09-6\" class=\" reference\" href=\"/lov/1973-02-09-6\">lov 9. februar 1973 nr. 6</a> om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. og forskrifter gitt i medhold av loven tilsvarende.",
         "text": "For forskning på biologisk materiale som tas ut fra avdøde gjelder bestemmelsene i lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. og forskrifter gitt i medhold av loven tilsvarende."
     },
     {
@@ -752,6 +773,7 @@
         "html": "Kapittel 5 Forskning som involverer mennesker",
         "text": "Kapittel 5 Forskning som involverer mennesker"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -790,6 +812,7 @@
         "text": "Forskning kan bare kombineres med behandling dersom forskningen antas å ha helsefremmende verdi for forskningsdeltakeren. Fordelene, risikoene, belastningene og effektiviteten ved en ny metode skal prøves mot de beste metodene av forebygging, diagnostikk og behandling som til enhver tid er tilgjengelige, med mindre særlig tungtveiende hensyn tilsier det."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -814,6 +837,7 @@
         "html": "Prosjektlederen, andre forskere og annet personell skal av eget tiltak gi tilsynsmyndighetene informasjon om forhold som kan medføre fare for forskningsdeltakernes sikkerhet. Ved unaturlig dødsfall skal politiet varsles omgående.",
         "text": "Prosjektlederen, andre forskere og annet personell skal av eget tiltak gi tilsynsmyndighetene informasjon om forhold som kan medføre fare for forskningsdeltakernes sikkerhet. Ved unaturlig dødsfall skal politiet varsles omgående."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -845,6 +869,7 @@
         "html": "Kapittel 6 Forskningsbiobanker og forskning som involverer humant biologisk materiale",
         "text": "Kapittel 6 Forskningsbiobanker og forskning som involverer humant biologisk materiale"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -885,9 +910,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan i forskrift gi bestemmelser om opprettelse og annen behandling av humant biologisk materiale i biobanker som er tilknyttet helseregistre etter helseregisterloven §§ 7 og 8.",
+        "html": "Departementet kan i forskrift gi bestemmelser om opprettelse og annen behandling av humant biologisk materiale i biobanker som er tilknyttet helseregistre etter <a data-id=\"lov/2014-06-20-43/§7\" class=\" reference\" href=\"/lov/2014-06-20-43/%C2%A77\">helseregisterloven §§ 7</a> og 8.",
         "text": "Departementet kan i forskrift gi bestemmelser om opprettelse og annen behandling av humant biologisk materiale i biobanker som er tilknyttet helseregistre etter helseregisterloven §§ 7 og 8."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -919,6 +945,7 @@
         "html": "Ansvarshavende, forskningsansvarlig og styret skal sørge for at forskningsbiobanken opprettes og forvaltes i samsvar med denne og annen lov.",
         "text": "Ansvarshavende, forskningsansvarlig og styret skal sørge for at forskningsbiobanken opprettes og forvaltes i samsvar med denne og annen lov."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -957,6 +984,7 @@
         "text": "Departementet kan i forskrift gi nærmere regler om hvordan humant biologisk materiale i en forskningsbiobank skal oppbevares og behandles."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -988,6 +1016,7 @@
         "text": "Det skal opprettes et elektronisk register med oversikt over de pasientene som har reservert seg mot at deres biologiske materiale benyttes til forskning."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1003,7 +1032,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Humant biologisk materiale fra en forskningsbiobank kan bare sendes ut av landet eller tas inn i landet etter godkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og det kan godtgjøres at kravene til samtykke i kapittel 4 og kravene til behandling av helseopplysninger i kapittel 7 er oppfylt.",
+        "html": "Humant biologisk materiale fra en forskningsbiobank kan bare sendes ut av landet eller tas inn i landet etter godkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og det kan godtgjøres at kravene til samtykke i <a data-id=\"lov/2008-06-20-44/kap4\" class=\" reference\" href=\"/lov/2008-06-20-44/kap4\">kapittel 4</a> og kravene til behandling av helseopplysninger i <a data-id=\"lov/2008-06-20-44/kap7\" class=\" reference\" href=\"/lov/2008-06-20-44/kap7\">kapittel 7</a> er oppfylt.",
         "text": "Humant biologisk materiale fra en forskningsbiobank kan bare sendes ut av landet eller tas inn i landet etter godkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og det kan godtgjøres at kravene til samtykke i kapittel 4 og kravene til behandling av helseopplysninger i kapittel 7 er oppfylt."
     },
     {
@@ -1018,6 +1047,7 @@
         "html": "Departementet kan i forskrift stille vilkår for innsendelse og utsendelse av humant biologisk materiale, og om bruk av materiale fra utlandet til forskning i Norge.",
         "text": "Departementet kan i forskrift stille vilkår for innsendelse og utsendelse av humant biologisk materiale, og om bruk av materiale fra utlandet til forskning i Norge."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1044,6 +1074,7 @@
         "text": "Departementet kan i forskrift gi bestemmelser om at humant biologisk materiale i visse tilfeller skal kunne overdras til andre forskningsansvarlige i stedet for å destrueres."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1059,7 +1090,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den forskningsansvarlige skal gi andre forskere tilgang til humant biologisk materiale i virksomhetens forskningsbiobanker, med mindre den forskningsansvarlige selv har behov for materialet eller andre særlige grunner gjør seg gjeldende. Før utleveringen av materiale kan finne sted, må de nødvendige godkjenningene etter kapittel 3 foreligge.",
+        "html": "Den forskningsansvarlige skal gi andre forskere tilgang til humant biologisk materiale i virksomhetens forskningsbiobanker, med mindre den forskningsansvarlige selv har behov for materialet eller andre særlige grunner gjør seg gjeldende. Før utleveringen av materiale kan finne sted, må de nødvendige godkjenningene etter <a data-id=\"lov/2008-06-20-44/kap3\" class=\" reference\" href=\"/lov/2008-06-20-44/kap3\">kapittel 3</a> foreligge.",
         "text": "Den forskningsansvarlige skal gi andre forskere tilgang til humant biologisk materiale i virksomhetens forskningsbiobanker, med mindre den forskningsansvarlige selv har behov for materialet eller andre særlige grunner gjør seg gjeldende. Før utleveringen av materiale kan finne sted, må de nødvendige godkjenningene etter kapittel 3 foreligge."
     },
     {
@@ -1080,6 +1111,7 @@
         "html": "Kapittel 7 Forskning på helseopplysninger",
         "text": "Kapittel 7 Forskning på helseopplysninger"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1118,6 +1150,7 @@
         "text": "Kongen kan i forskrift bestemme at utlevering av helseopplysninger til påtalemyndighet eller domstol helt unntaksvis kan skje dersom svært tungtveiende private eller offentlige interesser gjør dette rettmessig."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1133,15 +1166,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskningsprosjekter skal ha et behandlingsgrunnlag. Forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk etter kapittel 3 er nødvendig og tilstrekkelig behandlingsgrunnlag for helseopplysninger i medisinsk og helsefaglig forskning.",
+        "html": "Forskningsprosjekter skal ha et behandlingsgrunnlag. Forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk etter <a data-id=\"lov/2008-06-20-44/kap3\" class=\" reference\" href=\"/lov/2008-06-20-44/kap3\">kapittel 3</a> er nødvendig og tilstrekkelig behandlingsgrunnlag for helseopplysninger i medisinsk og helsefaglig forskning.",
         "text": "Forskningsprosjekter skal ha et behandlingsgrunnlag. Forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk etter kapittel 3 er nødvendig og tilstrekkelig behandlingsgrunnlag for helseopplysninger i medisinsk og helsefaglig forskning."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Behandling av helseopplysninger fra helseregistre etter helseregisterloven §§ 7 og 8 krever ikke tillatelser etter første ledd, med mindre annet følger av forskriftene til registrene.",
+        "html": "Behandling av helseopplysninger fra helseregistre etter <a data-id=\"lov/2014-06-20-43/§7\" class=\" reference\" href=\"/lov/2014-06-20-43/%C2%A77\">helseregisterloven §§ 7</a> og <a data-id=\"lov/2014-06-20-43/§8\" class=\" reference\" href=\"/lov/2014-06-20-43/%C2%A78\">8 </a>krever ikke tillatelser etter første ledd, med mindre annet følger av forskriftene til registrene.",
         "text": "Behandling av helseopplysninger fra helseregistre etter helseregisterloven §§ 7 og 8 krever ikke tillatelser etter første ledd, med mindre annet følger av forskriftene til registrene."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1158,13 +1192,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Helseopplysninger kan behandles, sammenstilles og utleveres i tråd med forskningsprosjektets formål, eventuelle samtykker, behandlingsgrunnlaget etter § 33 og i samsvar med forskningsprotokollen.",
+        "html": "Helseopplysninger kan behandles, sammenstilles og utleveres i tråd med forskningsprosjektets formål, eventuelle samtykker, behandlingsgrunnlaget etter <a data-id=\"lov/2008-06-20-44/§33\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A733\">§ 33</a> og i samsvar med forskningsprotokollen.",
         "text": "Helseopplysninger kan behandles, sammenstilles og utleveres i tråd med forskningsprosjektets formål, eventuelle samtykker, behandlingsgrunnlaget etter § 33 og i samsvar med forskningsprotokollen."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan ved godkjenningen etter kapittel 3 nekte slik sammenstilling og utlevering dersom denne finnes å være medisinsk eller etisk uforsvarlig.",
+        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan ved godkjenningen etter <a data-id=\"lov/2008-06-20-44/kap3\" class=\" reference\" href=\"/lov/2008-06-20-44/kap3\">kapittel 3</a> nekte slik sammenstilling og utlevering dersom denne finnes å være medisinsk eller etisk uforsvarlig.",
         "text": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan ved godkjenningen etter kapittel 3 nekte slik sammenstilling og utlevering dersom denne finnes å være medisinsk eller etisk uforsvarlig."
     },
     {
@@ -1173,6 +1207,7 @@
         "html": "Sammenstilling og utlevering av helseopplysninger kan skje til databehandlingsansvarlige eller forskningsansvarlige som har særskilt behandlingsgrunnlag for å motta og behandle opplysningene. Slikt behandlingsgrunnlag kan være konsesjon eller hjemmel i lov eller forskrift.",
         "text": "Sammenstilling og utlevering av helseopplysninger kan skje til databehandlingsansvarlige eller forskningsansvarlige som har særskilt behandlingsgrunnlag for å motta og behandle opplysningene. Slikt behandlingsgrunnlag kan være konsesjon eller hjemmel i lov eller forskrift."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1189,7 +1224,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at helseopplysninger kan eller skal gis fra helsepersonell til bruk i forskning, og at det kan skje uten hinder av taushetsplikt. Det samme gjelder opplysninger innsamlet i helsetjenesten. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken. Reglene om taushetsplikt etter § 7 gjelder tilsvarende for den som mottar opplysningene.",
+        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at helseopplysninger kan eller skal gis fra helsepersonell til bruk i forskning, og at det kan skje uten hinder av taushetsplikt. Det samme gjelder opplysninger innsamlet i helsetjenesten. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken. Reglene om taushetsplikt etter <a data-id=\"lov/2008-06-20-44/§7\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A77\">§ 7</a> gjelder tilsvarende for den som mottar opplysningene.",
         "text": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at helseopplysninger kan eller skal gis fra helsepersonell til bruk i forskning, og at det kan skje uten hinder av taushetsplikt. Det samme gjelder opplysninger innsamlet i helsetjenesten. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken. Reglene om taushetsplikt etter § 7 gjelder tilsvarende for den som mottar opplysningene."
     },
     {
@@ -1198,6 +1233,7 @@
         "html": "Departementet kan i forskrift gi nærmere bestemmelser om bruk av taushetsbelagte opplysninger i forskning.",
         "text": "Departementet kan i forskrift gi nærmere bestemmelser om bruk av taushetsbelagte opplysninger i forskning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1230,6 +1266,7 @@
         "text": "Krav om sletting avgjøres av prosjektlederen. Om sletting nektes, kan avgjørelsen klages inn for den regionale komiteen for medisinsk og helsefaglig forskningsetikk."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1250,21 +1287,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den utenlandske databehandlingsansvarlige skriftlig forsikrer overfor den forskningsansvarlige at behandlingen har skjedd eller vil skje i samsvar med direktiv <a data-id=\"eu/31995l0046\" class=\" reference\" href=\"/eu/31995l0046\">95/46/EF</a>, og</td>\n</tr>",
-        "text": "a)den utenlandske databehandlingsansvarlige skriftlig forsikrer overfor den forskningsansvarlige at behandlingen har skjedd eller vil skje i samsvar med direktiv 95/46/EF, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den utenlandske databehandlingsansvarlige skriftlig forsikrer overfor den forskningsansvarlige at behandlingen har skjedd eller vil skje i samsvar med direktiv <a data-id=\"eu/31995l0046\" class=\" reference\" href=\"/eu/31995l0046\">95/46/EF</a>, og</td>\n</tr>",
+        "text": "a)\tden utenlandske databehandlingsansvarlige skriftlig forsikrer overfor den forskningsansvarlige at behandlingen har skjedd eller vil skje i samsvar med direktiv 95/46/EF, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er gitt samtykke til dette fra den opplysningen gjelder, eller</td>\n</tr>",
-        "text": "b)det er gitt samtykke til dette fra den opplysningen gjelder, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er gitt samtykke til dette fra den opplysningen gjelder, eller</td>\n</tr>",
+        "text": "b)\tdet er gitt samtykke til dette fra den opplysningen gjelder, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den registrerte ikke har reservert seg, og det har blitt gitt informasjon om at opplysningene vil bli overført til et land utenfor EØS.</td>\n</tr>",
-        "text": "c)den registrerte ikke har reservert seg, og det har blitt gitt informasjon om at opplysningene vil bli overført til et land utenfor EØS."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den registrerte ikke har reservert seg, og det har blitt gitt informasjon om at opplysningene vil bli overført til et land utenfor EØS.</td>\n</tr>",
+        "text": "c)\tden registrerte ikke har reservert seg, og det har blitt gitt informasjon om at opplysningene vil bli overført til et land utenfor EØS."
     },
     {
         "tag": "p",
@@ -1278,6 +1315,7 @@
         "html": "Departementet kan gi forskrift om bruk av helseopplysninger fra utlandet til forskning i Norge.",
         "text": "Departementet kan gi forskrift om bruk av helseopplysninger fra utlandet til forskning i Norge."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1316,6 +1354,7 @@
         "text": "Kapittel 8 Åpenhet og innsyn i forskningen"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1334,6 +1373,7 @@
         "html": "Den forskningsansvarlige og prosjektlederen skal sørge for åpenhet rundt forskningen.",
         "text": "Den forskningsansvarlige og prosjektlederen skal sørge for åpenhet rundt forskningen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1360,6 +1400,7 @@
         "text": "Opplysningene det gis innsyn i, skal presenteres på en måte som er tilpasset den enkeltes evner og behov. Forskningsdeltakeren kan kreve at prosjektlederen utdyper opplysningene som nevnt i første ledd i den grad dette er nødvendig for at forskningsdeltakeren skal kunne vareta egne interesser."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1379,6 +1420,7 @@
         "text": "Enhver skal ved henvendelse til den regionale komiteen for medisinsk og helsefaglig forskningsetikk få vite hvilke forskningsprosjekter etter denne loven som en forskningsansvarlig eller prosjektleder er eller har vært involvert i, samt formålet med prosjektet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1394,44 +1436,44 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Retten til innsyn etter §§ 40 og 41 omfatter ikke opplysninger som",
+        "html": "Retten til innsyn etter <a data-id=\"lov/2008-06-20-44/§40\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A740\">§§ 40</a> og <a data-id=\"lov/2008-06-20-44/§41\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A741\">41</a> omfatter ikke opplysninger som",
         "text": "Retten til innsyn etter §§ 40 og 41 omfatter ikke opplysninger som"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,</td>\n</tr>",
-        "text": "a)om de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,</td>\n</tr>",
+        "text": "a)\tom de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølging av straffbare handlinger,</td>\n</tr>",
-        "text": "b)det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølging av straffbare handlinger,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølging av straffbare handlinger,</td>\n</tr>",
+        "text": "b)\tdet er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølging av straffbare handlinger,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det må anses utilrådelig at den forskningsdeltakeren får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,</td>\n</tr>",
-        "text": "c)det må anses utilrådelig at den forskningsdeltakeren får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det må anses utilrådelig at den forskningsdeltakeren får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,</td>\n</tr>",
+        "text": "c)\tdet må anses utilrådelig at den forskningsdeltakeren får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er underlagt taushetsplikt,</td>\n</tr>",
-        "text": "d)er underlagt taushetsplikt,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er underlagt taushetsplikt,</td>\n</tr>",
+        "text": "d)\ter underlagt taushetsplikt,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre, eller</td>\n</tr>",
-        "text": "e)utelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre, eller</td>\n</tr>",
+        "text": "e)\tutelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til forskningsdeltakeren selv.</td>\n</tr>",
-        "text": "f)det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til forskningsdeltakeren selv."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til forskningsdeltakeren selv.</td>\n</tr>",
+        "text": "f)\tdet vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til forskningsdeltakeren selv."
     },
     {
         "tag": "p",
@@ -1452,6 +1494,7 @@
         "text": "Avslag på krav om innsyn og informasjon kan påklages den regionale komiteen for medisinsk og helsefaglig forskningsetikk."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1467,7 +1510,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Prosjektlederen skal svare på henvendelser om innsyn etter §§ 40 og 41 uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn.",
+        "html": "Prosjektlederen skal svare på henvendelser om innsyn etter <a data-id=\"lov/2008-06-20-44/§40\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A740\">§§ 40</a> og <a data-id=\"lov/2008-06-20-44/§41\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A741\">41</a> uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn.",
         "text": "Prosjektlederen skal svare på henvendelser om innsyn etter §§ 40 og 41 uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn."
     },
     {
@@ -1476,6 +1519,7 @@
         "html": "Dersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Prosjektleder skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis.",
         "text": "Dersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Prosjektleder skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1492,7 +1536,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal føre en systematisk fortegnelse over innmeldte og avsluttede forskningsprosjekter basert på opplysninger i søknad og sluttmelding, jf. §§ 10, 11 og 12. Registrene skal være offentlig tilgjengelige.",
+        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal føre en systematisk fortegnelse over innmeldte og avsluttede forskningsprosjekter basert på opplysninger i søknad og sluttmelding, jf. <a data-id=\"lov/2008-06-20-44/§10\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A710\">§§ 10</a>, <a data-id=\"lov/2008-06-20-44/§11\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A711\">11</a> og <a data-id=\"lov/2008-06-20-44/§12\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A712\">12</a>. Registrene skal være offentlig tilgjengelige.",
         "text": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal føre en systematisk fortegnelse over innmeldte og avsluttede forskningsprosjekter basert på opplysninger i søknad og sluttmelding, jf. §§ 10, 11 og 12. Registrene skal være offentlig tilgjengelige."
     },
     {
@@ -1501,6 +1545,7 @@
         "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal melde alle forskningsbiobanker inn til Biobankregisteret ved Folkehelseinstituttet.",
         "text": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal melde alle forskningsbiobanker inn til Biobankregisteret ved Folkehelseinstituttet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1523,7 +1568,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at sensitive opplysninger om et prosjekt ikke skal inngå i registeret etter § 44 eller ikke kunne kreves innsyn i etter §§ 40 og 41 for et klart avgrenset tidsrom, dersom offentlighet kan skade vesentlige private eller offentlige interesser. Komiteen skal i så fall samtidig med avslaget på krav om innsyn, gi opplysning om fra hvilket tidspunkt innsyn kan bli gitt. Bare i særlige tilfeller kan tidsrommet forlenges.",
+        "html": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at sensitive opplysninger om et prosjekt ikke skal inngå i registeret etter <a data-id=\"lov/2008-06-20-44/§44\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A744\">§ 44</a> eller ikke kunne kreves innsyn i etter <a data-id=\"lov/2008-06-20-44/§40\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A740\">§§ 40</a> og <a data-id=\"lov/2008-06-20-44/§41\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A741\">41</a> for et klart avgrenset tidsrom, dersom offentlighet kan skade vesentlige private eller offentlige interesser. Komiteen skal i så fall samtidig med avslaget på krav om innsyn, gi opplysning om fra hvilket tidspunkt innsyn kan bli gitt. Bare i særlige tilfeller kan tidsrommet forlenges.",
         "text": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at sensitive opplysninger om et prosjekt ikke skal inngå i registeret etter § 44 eller ikke kunne kreves innsyn i etter §§ 40 og 41 for et klart avgrenset tidsrom, dersom offentlighet kan skade vesentlige private eller offentlige interesser. Komiteen skal i så fall samtidig med avslaget på krav om innsyn, gi opplysning om fra hvilket tidspunkt innsyn kan bli gitt. Bare i særlige tilfeller kan tidsrommet forlenges."
     },
     {
@@ -1532,6 +1577,7 @@
         "html": "Kapittel 9 Tilsyn",
         "text": "Kapittel 9 Tilsyn"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1552,6 +1598,7 @@
         "text": "Statens helsetilsyn fører tilsyn med medisinsk og helsefaglig forskning og forvaltningen av forskningsbiobanker."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1571,6 +1618,7 @@
         "text": "Datatilsynet fører tilsyn med bruken av helseopplysninger etter denne loven."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1587,8 +1635,9 @@
         "tag": "p",
         "class": "avsnitt",
         "html": "Den forskningsansvarlige, prosjektlederen og annet personell som er involvert i et forskningsprosjekt, skal gi tilsynsmyndighetene  adgang til virksomhetens lokaler, og uten hinder av taushetsplikten gi og gjøre tilgjengelig for tilsynsmyndighetene alle opplysninger, dokumenter, materiale og lignende som anses påkrevd for utøvelsen av tilsyn med medisinsk og helsefaglig forskning.",
-        "text": "Den forskningsansvarlige, prosjektlederen og annet personell som er involvert i et forskningsprosjekt, skal gi tilsynsmyndighetene adgang til virksomhetens lokaler, og uten hinder av taushetsplikten gi og gjøre tilgjengelig for tilsynsmyndighetene alle opplysninger, dokumenter, materiale og lignende som anses påkrevd for utøvelsen av tilsyn med medisinsk og helsefaglig forskning."
+        "text": "Den forskningsansvarlige, prosjektlederen og annet personell som er involvert i et forskningsprosjekt, skal gi tilsynsmyndighetene  adgang til virksomhetens lokaler, og uten hinder av taushetsplikten gi og gjøre tilgjengelig for tilsynsmyndighetene alle opplysninger, dokumenter, materiale og lignende som anses påkrevd for utøvelsen av tilsyn med medisinsk og helsefaglig forskning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1605,7 +1654,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Tilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter § 7. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak.",
+        "html": "Tilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter <a data-id=\"lov/2008-06-20-44/§7\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A77\">§ 7</a>. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak.",
         "text": "Tilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter § 7. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak."
     },
     {
@@ -1614,6 +1663,7 @@
         "html": "Kapittel 10 Erstatning, pålegg, straff m.m.",
         "text": "Kapittel 10 Erstatning, pålegg, straff m.m."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1658,6 +1708,7 @@
         "text": "Departementet kan i forskrift gi nærmere bestemmelser om plikten til forsikring."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1674,12 +1725,12 @@
         "tag": "p",
         "class": "avsnitt",
         "html": "Dersom forskningsprosjekter eller forskningsbiobanker drives på en måte som kan ha skadelige følger for forskningsdeltakere eller andre, eller på annen måte er uheldig eller uforsvarlig, kan Statens helsetilsyn gi pålegg om å rette på forholdene. Dersom Statens helsetilsyn finner det nødvendig, kan det gis pålegg om stansning av forskningsprosjektet eller nedleggelse av forskningsbiobanken.  Departementet kan overta den videre driften.",
-        "text": "Dersom forskningsprosjekter eller forskningsbiobanker drives på en måte som kan ha skadelige følger for forskningsdeltakere eller andre, eller på annen måte er uheldig eller uforsvarlig, kan Statens helsetilsyn gi pålegg om å rette på forholdene. Dersom Statens helsetilsyn finner det nødvendig, kan det gis pålegg om stansning av forskningsprosjektet eller nedleggelse av forskningsbiobanken. Departementet kan overta den videre driften."
+        "text": "Dersom forskningsprosjekter eller forskningsbiobanker drives på en måte som kan ha skadelige følger for forskningsdeltakere eller andre, eller på annen måte er uheldig eller uforsvarlig, kan Statens helsetilsyn gi pålegg om å rette på forholdene. Dersom Statens helsetilsyn finner det nødvendig, kan det gis pålegg om stansning av forskningsprosjektet eller nedleggelse av forskningsbiobanken.  Departementet kan overta den videre driften."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene om klage og omgjøring i forvaltningsloven kapittel VI får tilsvarende anvendelse på pålegg etter første ledd. Klagen skal gis oppsettende virkning, hvis ikke Statens helsetilsyn bestemmer at vedtaket skal iverksettes straks.",
+        "html": "Reglene om klage og omgjøring i <a data-id=\"lov/1967-02-10/kapvi\" class=\" reference\" href=\"/lov/1967-02-10/kapvi\">forvaltningsloven kapittel VI</a> får tilsvarende anvendelse på pålegg etter første ledd. Klagen skal gis oppsettende virkning, hvis ikke Statens helsetilsyn bestemmer at vedtaket skal iverksettes straks.",
         "text": "Reglene om klage og omgjøring i forvaltningsloven kapittel VI får tilsvarende anvendelse på pålegg etter første ledd. Klagen skal gis oppsettende virkning, hvis ikke Statens helsetilsyn bestemmer at vedtaket skal iverksettes straks."
     },
     {
@@ -1688,6 +1739,7 @@
         "html": "Når Statens helsetilsyn har gitt et pålegg, skal øvrige tilsynsmyndigheter informeres om dette såfremt forskningsprosjektet også faller inn under deres tilsynsområde.",
         "text": "Når Statens helsetilsyn har gitt et pålegg, skal øvrige tilsynsmyndigheter informeres om dette såfremt forskningsprosjektet også faller inn under deres tilsynsområde."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1720,6 +1772,7 @@
         "text": "Når Datatilsynet har gitt et pålegg, skal Statens helsetilsyn informeres om dette."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1735,7 +1788,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Statens helsetilsyn og Datatilsynet kan fastsette en løpende tvangsmulkt for hver dag, uke eller måned som går etter utløpet av den fristen som er satt for oppfylling av pålegget etter §§ 50 eller 51, inntil pålegget er oppfylt. Tvangsmulkt kan også fastsettes som engangsmulkt. Statens helsetilsyn og Datatilsynet kan frafalle påløpt tvangsmulkt.",
+        "html": "Statens helsetilsyn og Datatilsynet kan fastsette en løpende tvangsmulkt for hver dag, uke eller måned som går etter utløpet av den fristen som er satt for oppfylling av pålegget etter <a data-id=\"lov/2008-06-20-44/§50\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A750\">§§ 50</a> eller <a data-id=\"lov/2008-06-20-44/§51\" class=\" reference\" href=\"/lov/2008-06-20-44/%C2%A751\">51</a>, inntil pålegget er oppfylt. Tvangsmulkt kan også fastsettes som engangsmulkt. Statens helsetilsyn og Datatilsynet kan frafalle påløpt tvangsmulkt.",
         "text": "Statens helsetilsyn og Datatilsynet kan fastsette en løpende tvangsmulkt for hver dag, uke eller måned som går etter utløpet av den fristen som er satt for oppfylling av pålegget etter §§ 50 eller 51, inntil pålegget er oppfylt. Tvangsmulkt kan også fastsettes som engangsmulkt. Statens helsetilsyn og Datatilsynet kan frafalle påløpt tvangsmulkt."
     },
     {
@@ -1750,6 +1803,7 @@
         "html": "Skyldige bidrag til dekning av utgiftene er tvangsgrunnlag for utlegg.",
         "text": "Skyldige bidrag til dekning av utgiftene er tvangsgrunnlag for utlegg."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1782,6 +1836,7 @@
         "text": "Kapittel 11 Sluttbestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1807,6 +1862,7 @@
         "text": "Kongen kan gi overgangsregler i forskrift."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1815,14 +1871,14 @@
     },
     {
         "tag": "span",
-        "class": "paragrafTittel",
+        "class": "paragrafTittel fakeParagrafHeader",
         "html": "<em class=\" \">Endringer i andre lover</em>",
         "text": "Endringer i andre lover"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "1. I lov 21. februar 2003 nr. 12 om biobanker (biobankloven) gjøres følgende endringer:",
+        "html": "1. I <a data-id=\"lov/2003-02-21-12\" class=\" reference\" href=\"/lov/2003-02-21-12\">lov 21. februar 2003 nr. 12</a> om biobanker (biobankloven) gjøres følgende endringer:",
         "text": "1. I lov 21. februar 2003 nr. 12 om biobanker (biobankloven) gjøres følgende endringer:"
     },
     {
@@ -1834,13 +1890,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "<em class=\" \">Lov 21. februar 2003 nr. 12 om behandlingsbiobanker (behandlingsbiobankloven)</em>",
+        "html": "<em class=\" \"><a data-id=\"lov/2003-02-21-12\" class=\" reference\" href=\"/lov/2003-02-21-12\">Lov 21. februar 2003 nr. 12</a> om behandlingsbiobanker (behandlingsbiobankloven)</em>",
         "text": "Lov 21. februar 2003 nr. 12 om behandlingsbiobanker (behandlingsbiobankloven)"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1 andre ledd skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§1\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A71\">§ 1</a> andre ledd skal lyde:",
         "text": "§ 1 andre ledd skal lyde:"
     },
     {
@@ -1852,13 +1908,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 2 andre ledd oppheves. Nåværende tredje og fjerde ledd blir nytt andre og tredje ledd.",
+        "html": "<a data-id=\"lov/2003-02-21-12/§2\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A72\">§ 2</a> andre ledd oppheves. Nåværende tredje og fjerde ledd blir nytt andre og tredje ledd.",
         "text": "§ 2 andre ledd oppheves. Nåværende tredje og fjerde ledd blir nytt andre og tredje ledd."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 2 tredje ledd skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§2\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A72\">§ 2</a> tredje ledd skal lyde:",
         "text": "§ 2 tredje ledd skal lyde:"
     },
     {
@@ -1870,7 +1926,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 3 tredje ledd skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§3\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A73\">§ 3</a> tredje ledd skal lyde:",
         "text": "§ 3 tredje ledd skal lyde:"
     },
     {
@@ -1882,7 +1938,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 3 nytt fjerde ledd skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§3\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A73\">§ 3</a> nytt fjerde ledd skal lyde:",
         "text": "§ 3 nytt fjerde ledd skal lyde:"
     },
     {
@@ -1894,13 +1950,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 4 oppheves.",
+        "html": "<a data-id=\"lov/2003-02-21-12/§4\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A74\">§ 4</a> oppheves.",
         "text": "§ 4 oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 5 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§5\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A75\">§ 5</a> første ledd skal lyde:",
         "text": "§ 5 første ledd skal lyde:"
     },
     {
@@ -1911,56 +1967,56 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formålet med opprettelsen,</td>\n</tr>",
-        "text": "1.formålet med opprettelsen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formålet med opprettelsen,</td>\n</tr>",
+        "text": "1.\tformålet med opprettelsen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hva slags materiale den skal inneholde og hvordan materialet innhentes,</td>\n</tr>",
-        "text": "2.hva slags materiale den skal inneholde og hvordan materialet innhentes,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hva slags materiale den skal inneholde og hvordan materialet innhentes,</td>\n</tr>",
+        "text": "2.\thva slags materiale den skal inneholde og hvordan materialet innhentes,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,</td>\n</tr>",
-        "text": "3.hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,</td>\n</tr>",
+        "text": "3.\thvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,</td>\n</tr>",
-        "text": "4.hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,</td>\n</tr>",
+        "text": "4.\thvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,</td>\n</tr>",
-        "text": "5.biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,</td>\n</tr>",
+        "text": "5.\tbiobankens varighet og hva som skal skje med materialet ved opphør av biobanken,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,</td>\n</tr>",
-        "text": "6.hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,</td>\n</tr>",
+        "text": "6.\thvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som er ansvarshavende etter § 7 og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og</td>\n</tr>",
-        "text": "7.hvem som er ansvarshavende etter § 7 og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som er ansvarshavende etter <a data-id=\"lov/2003-02-21-12/§7\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A77\">§ 7</a> og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og</td>\n</tr>",
+        "text": "7.\thvem som er ansvarshavende etter § 7 og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning.</td>\n</tr>",
-        "text": "8.finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning.</td>\n</tr>",
+        "text": "8.\tfinansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 5 andre ledd skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§5\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A75\">§ 5</a> andre ledd skal lyde:",
         "text": "§ 5 andre ledd skal lyde:"
     },
     {
@@ -1972,19 +2028,19 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 10 fjerde ledd oppheves.",
+        "html": "<a data-id=\"lov/2003-02-21-12/§10\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A710\">§ 10</a> fjerde ledd oppheves.",
         "text": "§ 10 fjerde ledd oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 12 oppheves.",
+        "html": "<a data-id=\"lov/2003-02-21-12/§12\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A712\">§ 12</a> oppheves.",
         "text": "§ 12 oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 13 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§13\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A713\">§ 13</a> første ledd skal lyde:",
         "text": "§ 13 første ledd skal lyde:"
     },
     {
@@ -1996,49 +2052,49 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 13 andre til fjerde ledd oppheves.",
+        "html": "<a data-id=\"lov/2003-02-21-12/§13\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A713\">§ 13</a> andre til fjerde ledd oppheves.",
         "text": "§ 13 andre til fjerde ledd oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 14 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§14\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A714\">§ 14</a> første ledd skal lyde:",
         "text": "§ 14 første ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som har avgitt samtykke etter §§ 11 og 13, kan til enhver tid tilbakekalle slikt samtykke.",
+        "html": "Den som har avgitt samtykke etter <a data-id=\"lov/2003-02-21-12/§11\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A711\">§§ 11</a> og <a data-id=\"lov/2003-02-21-12/§13\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A713\">13</a>, kan til enhver tid tilbakekalle slikt samtykke.",
         "text": "Den som har avgitt samtykke etter §§ 11 og 13, kan til enhver tid tilbakekalle slikt samtykke."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 14 andre ledd andre punktum oppheves.",
+        "html": "<a data-id=\"lov/2003-02-21-12/§14\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A714\">§ 14</a> andre ledd andre punktum oppheves.",
         "text": "§ 14 andre ledd andre punktum oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 15 første ledd første punktum skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§15\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A715\">§ 15</a> første ledd første punktum skal lyde:",
         "text": "§ 15 første ledd første punktum skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom det foreligger samtykke fra materialets giver i tråd med §§ 11 og 13, kan andre gis tilgang til det biologiske materialet i biobanken eller nærmere bestemte deler av materialet.",
+        "html": "Dersom det foreligger samtykke fra materialets giver i tråd med <a data-id=\"lov/2003-02-21-12/§11\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A711\">§§ 11</a> og <a data-id=\"lov/2003-02-21-12/§13\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A713\">13</a>, kan andre gis tilgang til det biologiske materialet i biobanken eller nærmere bestemte deler av materialet.",
         "text": "Dersom det foreligger samtykke fra materialets giver i tråd med §§ 11 og 13, kan andre gis tilgang til det biologiske materialet i biobanken eller nærmere bestemte deler av materialet."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 15 tredje ledd oppheves.",
+        "html": "<a data-id=\"lov/2003-02-21-12/§15\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A715\">§ 15</a> tredje ledd oppheves.",
         "text": "§ 15 tredje ledd oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 15 nytt siste ledd skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§15\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A715\">§ 15</a> nytt siste ledd skal lyde:",
         "text": "§ 15 nytt siste ledd skal lyde:"
     },
     {
@@ -2050,25 +2106,25 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 18 første ledd første punktum skal lyde:",
+        "html": "<a data-id=\"lov/2003-02-21-12/§18\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A718\">§ 18</a> første ledd første punktum skal lyde:",
         "text": "§ 18 første ledd første punktum skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan gi pålegg eller stanse videre drift av biobanker som drives i strid med denne loven eller der hvor driften går ut over det som er meldt til departementet etter § 5.",
+        "html": "Departementet kan gi pålegg eller stanse videre drift av biobanker som drives i strid med denne loven eller der hvor driften går ut over det som er meldt til departementet etter <a data-id=\"lov/2003-02-21-12/§5\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A75\">§ 5</a>.",
         "text": "Departementet kan gi pålegg eller stanse videre drift av biobanker som drives i strid med denne loven eller der hvor driften går ut over det som er meldt til departementet etter § 5."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "2. I lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven) gjøres følgende endringer:",
+        "html": "2. I <a data-id=\"lov/2001-05-18-24\" class=\" reference\" href=\"/lov/2001-05-18-24\">lov 18. mai 2001 nr. 24</a> om helseregistre og behandling av helseopplysninger (helseregisterloven) gjøres følgende endringer:",
         "text": "2. I lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven) gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 3 nytt fjerde ledd skal lyde:",
+        "html": "<a data-id=\"lov/2001-05-18-24/§3\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A73\">§ 3</a> nytt fjerde ledd skal lyde:",
         "text": "§ 3 nytt fjerde ledd skal lyde:"
     },
     {
@@ -2080,13 +2136,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 5 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2001-05-18-24/§5\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A75\">§ 5</a> første ledd skal lyde:",
         "text": "§ 5 første ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Helseopplysninger kan bare behandles elektronisk når dette er tillatt etter personopplysningsloven §§ 9 og 33, helseforskningsloven eller følger av lov og behandlingen ikke er forbudt ved annet særskilt rettsgrunnlag. Det samme gjelder annen behandling av helseopplysninger, dersom opplysningene inngår eller skal inngå i et helseregister.",
+        "html": "Helseopplysninger kan bare behandles elektronisk når dette er tillatt etter <a data-id=\"lov/2018-06-15-38/§9\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A79\">personopplysningsloven §§ 9</a> og <a data-id=\"lov/2018-06-15-38/§33\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A733\">33</a>, helseforskningsloven eller følger av lov og behandlingen ikke er forbudt ved annet særskilt rettsgrunnlag. Det samme gjelder annen behandling av helseopplysninger, dersom opplysningene inngår eller skal inngå i et helseregister.",
         "text": "Helseopplysninger kan bare behandles elektronisk når dette er tillatt etter personopplysningsloven §§ 9 og 33, helseforskningsloven eller følger av lov og behandlingen ikke er forbudt ved annet særskilt rettsgrunnlag. Det samme gjelder annen behandling av helseopplysninger, dersom opplysningene inngår eller skal inngå i et helseregister."
     }
 ]

@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.30 (2001–2002), Innst.O.nr.27 (2001–2002) og Besl.O.nr.38 (2001–2002). Odels- og lagtingsvedtak hhv. 26. februar og 22. mars 2002. Fremja av Utdannings- og forskingsdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-30-200102\" class=\" reference\" href=\"/forarbeid/otprp-30-200102\">Ot.prp.nr.30 (2001–2002)</a>, <a data-id=\"forarbeid/inns-o-27-200102\" class=\" reference\" href=\"/forarbeid/inns-o-27-200102\">Innst.O.nr.27 (2001–2002)</a> og <a data-id=\"forarbeid/besl-o-38-200102\" class=\" reference\" href=\"/forarbeid/besl-o-38-200102\">Besl.O.nr.38 (2001–2002)</a>. Odels- og lagtingsvedtak hhv. 26. februar og 22. mars 2002. Fremja av Utdannings- og forskingsdepartementet.",
         "text": "Ot.prp.nr.30 (2001–2002), Innst.O.nr.27 (2001–2002) og Besl.O.nr.38 (2001–2002). Odels- og lagtingsvedtak hhv. 26. februar og 22. mars 2002. Fremja av Utdannings- og forskingsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) blir det gjort følgjande endringar:",
+        "html": "I <a data-id=\"lov/1998-07-17-61\" class=\" reference\" href=\"/lov/1998-07-17-61\">lov 17. juli 1998 nr. 61</a> om grunnskolen og den vidaregåande opplæringa (opplæringslova) blir det gjort følgjande endringar:",
         "text": "I lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) blir det gjort følgjande endringar:"
     },
     {
@@ -55,33 +55,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gje grundig kjennskap til Bibelen og kristendommen som kulturarv og evangelisk-luthersk tru,</td>\n</tr>",
-        "text": "-gje grundig kjennskap til Bibelen og kristendommen som kulturarv og evangelisk-luthersk tru,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gje grundig kjennskap til Bibelen og kristendommen som kulturarv og evangelisk-luthersk tru,</td>\n</tr>",
+        "text": "-\tgje grundig kjennskap til Bibelen og kristendommen som kulturarv og evangelisk-luthersk tru,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gje kjennskap til andre kristne kyrkjesamfunn,</td>\n</tr>",
-        "text": "-gje kjennskap til andre kristne kyrkjesamfunn,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gje kjennskap til andre kristne kyrkjesamfunn,</td>\n</tr>",
+        "text": "-\tgje kjennskap til andre kristne kyrkjesamfunn,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gje kjennskap til andre verdsreligionar og livssyn, etiske og filosofiske emne,</td>\n</tr>",
-        "text": "-gje kjennskap til andre verdsreligionar og livssyn, etiske og filosofiske emne,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gje kjennskap til andre verdsreligionar og livssyn, etiske og filosofiske emne,</td>\n</tr>",
+        "text": "-\tgje kjennskap til andre verdsreligionar og livssyn, etiske og filosofiske emne,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fremje forståing og respekt for kristne og humanistiske verdiar og</td>\n</tr>",
-        "text": "-fremje forståing og respekt for kristne og humanistiske verdiar og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fremje forståing og respekt for kristne og humanistiske verdiar og</td>\n</tr>",
+        "text": "-\tfremje forståing og respekt for kristne og humanistiske verdiar og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fremje forståing, respekt og evne til dialog mellom menneske med ulik oppfatning av trudoms- og livssynsspørsmål.</td>\n</tr>",
-        "text": "-fremje forståing, respekt og evne til dialog mellom menneske med ulik oppfatning av trudoms- og livssynsspørsmål."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fremje forståing, respekt og evne til dialog mellom menneske med ulik oppfatning av trudoms- og livssynsspørsmål.</td>\n</tr>",
+        "text": "-\tfremje forståing, respekt og evne til dialog mellom menneske med ulik oppfatning av trudoms- og livssynsspørsmål."
     },
     {
         "tag": "p",

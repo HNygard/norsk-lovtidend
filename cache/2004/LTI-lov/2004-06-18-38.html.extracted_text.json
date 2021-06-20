@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.32 (2003–2004), Innst.O.nr.62 (2003–2004) og Besl.O.nr.82 (2003–2004). Odels- og lagtingsvedtak hhv. 2. og 10. juni 2004. Fremmet av Justis- og politidepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-32-200304\" class=\" reference\" href=\"/forarbeid/otprp-32-200304\">Ot.prp.nr.32 (2003–2004)</a>, <a data-id=\"forarbeid/inns-o-62-200304\" class=\" reference\" href=\"/forarbeid/inns-o-62-200304\">Innst.O.nr.62 (2003–2004)</a> og <a data-id=\"forarbeid/besl-o-82-200304\" class=\" reference\" href=\"/forarbeid/besl-o-82-200304\">Besl.O.nr.82 (2003–2004)</a>. Odels- og lagtingsvedtak hhv. 2. og 10. juni 2004. Fremmet av Justis- og politidepartementet.",
         "text": "Ot.prp.nr.32 (2003–2004), Innst.O.nr.62 (2003–2004) og Besl.O.nr.82 (2003–2004). Odels- og lagtingsvedtak hhv. 2. og 10. juni 2004. Fremmet av Justis- og politidepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I Almindelig borgerlig Straffelov 22. mai 1902 nr. 10 (straffeloven) skal det gjerast følgjande endring:",
+        "html": "I Almindelig borgerlig Straffelov <a data-id=\"lov/1902-05-22-10\" class=\" reference\" href=\"/lov/1902-05-22-10\">22. mai 1902 nr. 10</a> (straffeloven) skal det gjerast følgjande endring:",
         "text": "I Almindelig borgerlig Straffelov 22. mai 1902 nr. 10 (straffeloven) skal det gjerast følgjande endring:"
     },
     {
@@ -31,15 +31,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i regi av en ikke-kommersiell filmklubb, eller,</td>\n</tr>",
-        "text": "a)i regi av en ikke-kommersiell filmklubb, eller,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i regi av en ikke-kommersiell filmklubb, eller,</td>\n</tr>",
+        "text": "a)\ti regi av en ikke-kommersiell filmklubb, eller,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når framvisningen skjer utenfor næring og etter tilatelse fra stedlig politi.</td>\n</tr>",
-        "text": "b)når framvisningen skjer utenfor næring og etter tilatelse fra stedlig politi."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når framvisningen skjer utenfor næring og etter tilatelse fra stedlig politi.</td>\n</tr>",
+        "text": "b)\tnår framvisningen skjer utenfor næring og etter tilatelse fra stedlig politi."
     },
     {
         "tag": "h2",

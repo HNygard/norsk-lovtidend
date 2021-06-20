@@ -2,8 +2,8 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.45 (2001–2002), Innst.O.nr.81 (2001–2002) og Besl.O.nr.88 (2001–2002). Odels- og lagtingsvedtak hhv. 14. og 17. juni  2002. Fremmet av Kommunal- og regionaldepartementet.",
-        "text": "Ot.prp.nr.45 (2001–2002), Innst.O.nr.81 (2001–2002) og Besl.O.nr.88 (2001–2002). Odels- og lagtingsvedtak hhv. 14. og 17. juni 2002. Fremmet av Kommunal- og regionaldepartementet."
+        "html": "<a data-id=\"forarbeid/otprp-45-200102\" class=\" reference\" href=\"/forarbeid/otprp-45-200102\">Ot.prp.nr.45 (2001–2002)</a>, <a data-id=\"forarbeid/inns-o-81-200102\" class=\" reference\" href=\"/forarbeid/inns-o-81-200102\">Innst.O.nr.81 (2001–2002)</a> og <a data-id=\"forarbeid/besl-o-88-200102\" class=\" reference\" href=\"/forarbeid/besl-o-88-200102\">Besl.O.nr.88 (2001–2002)</a>. Odels- og lagtingsvedtak hhv. 14. og 17. juni  2002. Fremmet av Kommunal- og regionaldepartementet.",
+        "text": "Ot.prp.nr.45 (2001–2002), Innst.O.nr.81 (2001–2002) og Besl.O.nr.88 (2001–2002). Odels- og lagtingsvedtak hhv. 14. og 17. juni  2002. Fremmet av Kommunal- og regionaldepartementet."
     },
     {
         "tag": "p",
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 1. mars 1985 nr. 3 om stortingsvalg, fylkestingsvalg og kommunestyrevalg (valgloven).",
+        "html": "<a data-id=\"lov/1985-03-01-3\" class=\" reference\" href=\"/lov/1985-03-01-3\">Lov av 1. mars 1985 nr. 3</a> om stortingsvalg, fylkestingsvalg og kommunestyrevalg (valgloven).",
         "text": "Lov av 1. mars 1985 nr. 3 om stortingsvalg, fylkestingsvalg og kommunestyrevalg (valgloven)."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven).",
+        "html": "<a data-id=\"lov/1992-09-25-107\" class=\" reference\" href=\"/lov/1992-09-25-107\">Lov av 25. september 1992 nr. 107</a> om kommuner og fylkeskommuner (kommuneloven).",
         "text": "Lov av 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven)."
     },
     {
@@ -35,6 +35,7 @@
         "html": "Kapittel 1 Lovens formål og virkeområde",
         "text": "Kapittel 1 Lovens formål og virkeområde"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -54,6 +55,7 @@
         "html": "Formålet med loven er å legge forholdene til rette slik at borgerne ved frie, direkte og hemmelige valg skal kunne velge sine representanter til fylkesting og kommunestyrer.",
         "text": "Formålet med loven er å legge forholdene til rette slik at borgerne ved frie, direkte og hemmelige valg skal kunne velge sine representanter til fylkesting og kommunestyrer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -75,21 +77,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">(forbeholdes regler om stortingsvalg)</em></td>\n</tr>",
-        "text": "a)(forbeholdes regler om stortingsvalg)"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">(forbeholdes regler om stortingsvalg)</em></td>\n</tr>",
+        "text": "a)\t(forbeholdes regler om stortingsvalg)"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">valg av representanter til fylkesting og</td>\n</tr>",
-        "text": "b)valg av representanter til fylkesting og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">valg av representanter til fylkesting og</td>\n</tr>",
+        "text": "b)\tvalg av representanter til fylkesting og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">valg av representanter til kommunestyrer.</td>\n</tr>",
-        "text": "c)valg av representanter til kommunestyrer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">valg av representanter til kommunestyrer.</td>\n</tr>",
+        "text": "c)\tvalg av representanter til kommunestyrer."
     },
     {
         "tag": "table",
@@ -104,6 +106,7 @@
         "text": "Kapittel 2 Stemmerett og manntall"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -116,6 +119,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -137,21 +141,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedkommende vil ha fylt 18 år innen utgangen av valgåret,</td>\n</tr>",
-        "text": "a)vedkommende vil ha fylt 18 år innen utgangen av valgåret,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedkommende vil ha fylt 18 år innen utgangen av valgåret,</td>\n</tr>",
+        "text": "a)\tvedkommende vil ha fylt 18 år innen utgangen av valgåret,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedkommende har ikke mistet stemmeretten etter Grunnloven § 53 og</td>\n</tr>",
-        "text": "b)vedkommende har ikke mistet stemmeretten etter Grunnloven § 53 og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedkommende har ikke mistet stemmeretten etter <a data-id=\"lov/1814-05-17/§53\" class=\" reference\" href=\"/lov/1814-05-17/%C2%A753\">Grunnloven § 53</a> og</td>\n</tr>",
+        "text": "b)\tvedkommende har ikke mistet stemmeretten etter Grunnloven § 53 og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedkommende er, eller har noen gang vært, folkeregisterført som bosatt i Norge.</td>\n</tr>",
-        "text": "c)vedkommende er, eller har noen gang vært, folkeregisterført som bosatt i Norge."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedkommende er, eller har noen gang vært, folkeregisterført som bosatt i Norge.</td>\n</tr>",
+        "text": "c)\tvedkommende er, eller har noen gang vært, folkeregisterført som bosatt i Norge."
     },
     {
         "tag": "p",
@@ -167,15 +171,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har stått innført i folkeregisteret som bosatt i Norge de tre siste årene før valgdagen, eller</td>\n</tr>",
-        "text": "a)har stått innført i folkeregisteret som bosatt i Norge de tre siste årene før valgdagen, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har stått innført i folkeregisteret som bosatt i Norge de tre siste årene før valgdagen, eller</td>\n</tr>",
+        "text": "a)\thar stått innført i folkeregisteret som bosatt i Norge de tre siste årene før valgdagen, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er statsborger i et annet nordisk land og er blitt folkeregisterført som bosatt i Norge senest 31. mai i valgåret.</td>\n</tr>",
-        "text": "b)er statsborger i et annet nordisk land og er blitt folkeregisterført som bosatt i Norge senest 31. mai i valgåret."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er statsborger i et annet nordisk land og er blitt folkeregisterført som bosatt i Norge senest 31. mai i valgåret.</td>\n</tr>",
+        "text": "b)\ter statsborger i et annet nordisk land og er blitt folkeregisterført som bosatt i Norge senest 31. mai i valgåret."
     },
     {
         "tag": "table",
@@ -183,6 +187,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> For å utøve stemmeretten må velgeren være innført i manntallet i en kommune på valgdagen.</td></tr>",
         "text": "(3) For å utøve stemmeretten må velgeren være innført i manntallet i en kommune på valgdagen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -208,6 +213,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Valgstyret fører et felles manntall for fylkestingsvalg og kommunestyrevalg.</td></tr>",
         "text": "(2) Valgstyret fører et felles manntall for fylkestingsvalg og kommunestyrevalg."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -246,6 +252,7 @@
         "text": "(4) Utenlandsboende som er ansatt i diplomatiet eller konsulatvesenet og deres husstand, skal manntallsføres i den kommunen der de sist var registrert som bosatt. Manntallsføringen skjer uavhengig av utenlandsoppholdets lengde. Dersom de ikke noen gang har vært folkeregisterført som bosatt i Norge, skal de manntallsføres i Oslo kommune."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -264,6 +271,7 @@
         "html": "Folkeregistermyndigheten skal på hensiktsmessig måte stille til disposisjon for valgmyndighetene opplysninger om hvem som skal innføres i manntallet i kommunen.",
         "text": "Folkeregistermyndigheten skal på hensiktsmessig måte stille til disposisjon for valgmyndighetene opplysninger om hvem som skal innføres i manntallet i kommunen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -289,6 +297,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Valgstyret kunngjør tid og sted for utleggingen og opplyser også om adgangen til og fremgangsmåten for å kreve feil rettet.</td></tr>",
         "text": "(2) Valgstyret kunngjør tid og sted for utleggingen og opplyser også om adgangen til og fremgangsmåten for å kreve feil rettet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -321,6 +330,7 @@
         "text": "(3) Valgstyret kan oppdatere manntallet så lenge det er praktisk mulig."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -339,6 +349,7 @@
         "html": "Valgstyret skal snarest sende melding til den som berøres av oppdateringer i manntallet som er foretatt på grunnlag av søknad om innføring, krav om retting eller at valgstyret er blitt oppmerksom på feil.",
         "text": "Valgstyret skal snarest sende melding til den som berøres av oppdateringer i manntallet som er foretatt på grunnlag av søknad om innføring, krav om retting eller at valgstyret er blitt oppmerksom på feil."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -360,15 +371,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">manntallsføringen og valgstyrets behandling og oppdatering av manntallet og</td>\n</tr>",
-        "text": "a)manntallsføringen og valgstyrets behandling og oppdatering av manntallet og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">manntallsføringen og valgstyrets behandling og oppdatering av manntallet og</td>\n</tr>",
+        "text": "a)\tmanntallsføringen og valgstyrets behandling og oppdatering av manntallet og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilgang til og bruk av manntallseksemplarer.</td>\n</tr>",
-        "text": "b)tilgang til og bruk av manntallseksemplarer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilgang til og bruk av manntallseksemplarer.</td>\n</tr>",
+        "text": "b)\ttilgang til og bruk av manntallseksemplarer."
     },
     {
         "tag": "h2",
@@ -376,6 +387,7 @@
         "html": "Kapittel 3 Valgbarhet. Plikt til å ta imot valg",
         "text": "Kapittel 3 Valgbarhet. Plikt til å ta imot valg"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -390,6 +402,7 @@
         "text": "(forbeholdes regler om stortingsvalg)"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -402,6 +415,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -435,51 +449,51 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fylkesmannen og assisterende fylkesmann og</td>\n</tr>",
-        "text": "a)fylkesmannen og assisterende fylkesmann og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fylkesmannen og assisterende fylkesmann og</td>\n</tr>",
+        "text": "a)\tfylkesmannen og assisterende fylkesmann og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som i vedkommende kommune eller fylkeskommune er</td>\n</tr>",
-        "text": "b)den som i vedkommende kommune eller fylkeskommune er"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som i vedkommende kommune eller fylkeskommune er</td>\n</tr>",
+        "text": "b)\tden som i vedkommende kommune eller fylkeskommune er"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrasjonssjef eller dennes stedfortreder,</td>\n</tr>",
-        "text": "-administrasjonssjef eller dennes stedfortreder,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrasjonssjef eller dennes stedfortreder,</td>\n</tr>",
+        "text": "-\tadministrasjonssjef eller dennes stedfortreder,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">leder av forvaltningsgren; dette gjelder likevel ikke</td>\n</tr>",
-        "text": "-leder av forvaltningsgren; dette gjelder likevel ikke"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">leder av forvaltningsgren; dette gjelder likevel ikke</td>\n</tr>",
+        "text": "-\tleder av forvaltningsgren; dette gjelder likevel ikke"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"3\" class=\"morTag_nnn leftMargin_3 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent15\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">leder av enkeltstående virksomheter,</td>\n</tr>",
-        "text": "-leder av enkeltstående virksomheter,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"3\" class=\"morTag_nnn leftMargin_3 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent15\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">leder av enkeltstående virksomheter,</td>\n</tr>",
+        "text": "-\tleder av enkeltstående virksomheter,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"3\" class=\"morTag_nnn leftMargin_3 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent15\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sekretær for kommunestyret eller fylkestinget,</td>\n</tr>",
-        "text": "-sekretær for kommunestyret eller fylkestinget,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"3\" class=\"morTag_nnn leftMargin_3 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent15\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sekretær for kommunestyret eller fylkestinget,</td>\n</tr>",
+        "text": "-\tsekretær for kommunestyret eller fylkestinget,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"3\" class=\"morTag_nnn leftMargin_3 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent15\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvarlig for regnskapsfunksjonen, eller</td>\n</tr>",
-        "text": "-ansvarlig for regnskapsfunksjonen, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"3\" class=\"morTag_nnn leftMargin_3 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent15\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvarlig for regnskapsfunksjonen, eller</td>\n</tr>",
+        "text": "-\tansvarlig for regnskapsfunksjonen, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"3\" class=\"morTag_nnn leftMargin_3 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent15\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvarlig for revisjonen.</td>\n</tr>",
-        "text": "-ansvarlig for revisjonen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"3\" class=\"morTag_nnn leftMargin_3 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent15\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvarlig for revisjonen.</td>\n</tr>",
+        "text": "-\tansvarlig for revisjonen."
     },
     {
         "tag": "table",
@@ -493,6 +507,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Om en person skal utelukkes fra valg avhenger av om vedkommende innehar stillingen når fylkestinget eller kommunestyret trer i funksjon.</td></tr>",
         "text": "(5) Om en person skal utelukkes fra valg avhenger av om vedkommende innehar stillingen når fylkestinget eller kommunestyret trer i funksjon."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -514,27 +529,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som har gjort tjeneste som medlem av henholdsvis fylkestinget eller kommunestyret de siste fire år,</td>\n</tr>",
-        "text": "a)den som har gjort tjeneste som medlem av henholdsvis fylkestinget eller kommunestyret de siste fire år,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som har gjort tjeneste som medlem av henholdsvis fylkestinget eller kommunestyret de siste fire år,</td>\n</tr>",
+        "text": "a)\tden som har gjort tjeneste som medlem av henholdsvis fylkestinget eller kommunestyret de siste fire år,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som har rett til fritak etter andre lover,</td>\n</tr>",
-        "text": "b)den som har rett til fritak etter andre lover,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som har rett til fritak etter andre lover,</td>\n</tr>",
+        "text": "b)\tden som har rett til fritak etter andre lover,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som er ført opp som kandidat på et listeforslag som er satt frem av noen andre enn et registrert politisk parti vedkommende er medlem av, og</td>\n</tr>",
-        "text": "c)den som er ført opp som kandidat på et listeforslag som er satt frem av noen andre enn et registrert politisk parti vedkommende er medlem av, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som er ført opp som kandidat på et listeforslag som er satt frem av noen andre enn et registrert politisk parti vedkommende er medlem av, og</td>\n</tr>",
+        "text": "c)\tden som er ført opp som kandidat på et listeforslag som er satt frem av noen andre enn et registrert politisk parti vedkommende er medlem av, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som ikke uten uforholdsmessig vanskelighet vil kunne skjøtte sine plikter i vervet.</td>\n</tr>",
-        "text": "d)den som ikke uten uforholdsmessig vanskelighet vil kunne skjøtte sine plikter i vervet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som ikke uten uforholdsmessig vanskelighet vil kunne skjøtte sine plikter i vervet.</td>\n</tr>",
+        "text": "d)\tden som ikke uten uforholdsmessig vanskelighet vil kunne skjøtte sine plikter i vervet."
     },
     {
         "tag": "table",
@@ -555,6 +570,7 @@
         "text": "Kapittel 4 Valgorganene"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -573,6 +589,7 @@
         "html": "I hver kommune skal det være et valgstyre som velges av kommunestyret selv.",
         "text": "I hver kommune skal det være et valgstyre som velges av kommunestyret selv."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -593,6 +610,7 @@
         "text": "Foregår stemmegivningen på flere steder i kommunen, skal et stemmestyre med minst tre medlemmer administrere stemmegivningen på hvert sted. Kommunestyret kan delegere oppnevningen av stemmestyrer til valgstyret."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -611,6 +629,7 @@
         "html": "I hvert fylke skal det ved stortingsvalg og fylkestingsvalg være et fylkesvalgstyre som velges av fylkestinget selv.",
         "text": "I hvert fylke skal det ved stortingsvalg og fylkestingsvalg være et fylkesvalgstyre som velges av fylkestinget selv."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -631,6 +650,7 @@
         "text": "Kapittel 5 Registrering av politiske partier"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -646,13 +666,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Et politisk parti som oppfyller vilkårene i § 5-2, kan søke om registrering av partinavnet i Partiregisteret som føres av Registerenheten i Brønnøysund.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Et politisk parti som oppfyller vilkårene i <a data-id=\"lov/2002-06-28-57/§5-2\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A75-2\">§ 5-2</a>, kan søke om registrering av partinavnet i Partiregisteret som føres av Registerenheten i Brønnøysund.</td></tr>",
         "text": "(1) Et politisk parti som oppfyller vilkårene i § 5-2, kan søke om registrering av partinavnet i Partiregisteret som føres av Registerenheten i Brønnøysund."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Før partiet kan bli registrert i Partiregisteret, må det registreres i Enhetsregisteret og tildeles et eget organisasjonsnummer, jf enhetsregisterloven § 5. Når partiet er registrert i Enhetsregisteret legges de opplysninger som der er registrert, til grunn for Partiregisteret.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Før partiet kan bli registrert i Partiregisteret, må det registreres i Enhetsregisteret og tildeles et eget organisasjonsnummer, jf <a data-id=\"lov/1994-06-03-15/§5\" class=\" reference\" href=\"/lov/1994-06-03-15/%C2%A75\">enhetsregisterloven § 5</a>. Når partiet er registrert i Enhetsregisteret legges de opplysninger som der er registrert, til grunn for Partiregisteret.</td></tr>",
         "text": "(2) Før partiet kan bli registrert i Partiregisteret, må det registreres i Enhetsregisteret og tildeles et eget organisasjonsnummer, jf enhetsregisterloven § 5. Når partiet er registrert i Enhetsregisteret legges de opplysninger som der er registrert, til grunn for Partiregisteret."
     },
     {
@@ -661,6 +681,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Registrering i Partiregisteret innebærer at partiet får enerett til å stille valglister under det registrerte navnet.</td></tr>",
         "text": "(3) Registrering i Partiregisteret innebærer at partiet får enerett til å stille valglister under det registrerte navnet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -682,15 +703,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">annet parti registrert i Partiregisteret eller</td>\n</tr>",
-        "text": "a)annet parti registrert i Partiregisteret eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">annet parti registrert i Partiregisteret eller</td>\n</tr>",
+        "text": "a)\tannet parti registrert i Partiregisteret eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">samepolitisk enhet registrert hos Sametinget.</td>\n</tr>",
-        "text": "b)samepolitisk enhet registrert hos Sametinget."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">samepolitisk enhet registrert hos Sametinget.</td>\n</tr>",
+        "text": "b)\tsamepolitisk enhet registrert hos Sametinget."
     },
     {
         "tag": "p",
@@ -706,27 +727,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stiftelsesprotokoll for partiet,</td>\n</tr>",
-        "text": "a)stiftelsesprotokoll for partiet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stiftelsesprotokoll for partiet,</td>\n</tr>",
+        "text": "a)\tstiftelsesprotokoll for partiet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysning om hvem som er valgt til medlemmer i partiets hovedstyre og som har fullmakt til å representere partiet sentralt i saker etter denne loven,</td>\n</tr>",
-        "text": "b)opplysning om hvem som er valgt til medlemmer i partiets hovedstyre og som har fullmakt til å representere partiet sentralt i saker etter denne loven,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysning om hvem som er valgt til medlemmer i partiets hovedstyre og som har fullmakt til å representere partiet sentralt i saker etter denne loven,</td>\n</tr>",
+        "text": "b)\topplysning om hvem som er valgt til medlemmer i partiets hovedstyre og som har fullmakt til å representere partiet sentralt i saker etter denne loven,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedtekt som fastsetter hvilket organ i partiet som velger hovedstyre og</td>\n</tr>",
-        "text": "c)vedtekt som fastsetter hvilket organ i partiet som velger hovedstyre og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedtekt som fastsetter hvilket organ i partiet som velger hovedstyre og</td>\n</tr>",
+        "text": "c)\tvedtekt som fastsetter hvilket organ i partiet som velger hovedstyre og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erklæring fra minst 5 000 personer med stemmerett ved stortingsvalg, om at de ønsker partinavnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være egenhendig underskrevet og datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden.</td>\n</tr>",
-        "text": "d)erklæring fra minst 5 000 personer med stemmerett ved stortingsvalg, om at de ønsker partinavnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være egenhendig underskrevet og datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erklæring fra minst 5 000 personer med stemmerett ved stortingsvalg, om at de ønsker partinavnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være egenhendig underskrevet og datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden.</td>\n</tr>",
+        "text": "d)\terklæring fra minst 5 000 personer med stemmerett ved stortingsvalg, om at de ønsker partinavnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være egenhendig underskrevet og datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden."
     },
     {
         "tag": "table",
@@ -734,6 +755,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Søknaden må ha blitt journalført hos registreringsmyndigheten innen 2. januar i valgåret, for at registreringen skal kunne få virkning ved valget.</td></tr>",
         "text": "(3) Søknaden må ha blitt journalført hos registreringsmyndigheten innen 2. januar i valgåret, for at registreringen skal kunne få virkning ved valget."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -750,15 +772,16 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Et registrert politisk parti kan søke om å få endre det registrerte partinavnet. Bestemmelsene i § 5-2 gjelder tilsvarende. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å endre navnet på partiet. Hvis partiet fikk minst 500 stemmer i ett fylke eller minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i § 5-2 annet ledd bokstav d.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Et registrert politisk parti kan søke om å få endre det registrerte partinavnet. Bestemmelsene i <a data-id=\"lov/2002-06-28-57/§5-2\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A75-2\">§ 5-2</a> gjelder tilsvarende. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å endre navnet på partiet. Hvis partiet fikk minst 500 stemmer i ett fylke eller minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i <a data-id=\"lov/2002-06-28-57/§5-2\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A75-2\">§ 5-2</a> annet ledd bokstav d.</td></tr>",
         "text": "(1) Et registrert politisk parti kan søke om å få endre det registrerte partinavnet. Bestemmelsene i § 5-2 gjelder tilsvarende. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å endre navnet på partiet. Hvis partiet fikk minst 500 stemmer i ett fylke eller minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i § 5-2 annet ledd bokstav d."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Hvis to eller flere registrerte partier slår seg sammen og søker registrering under et nytt navn, anses det for søknad om navneendring. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å slå partiene sammen og søke registrering under et nytt navn. Hvis ett av partiene fikk minst 500 stemmer i ett fylke eller minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i § 5-2 annet ledd bokstav d.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Hvis to eller flere registrerte partier slår seg sammen og søker registrering under et nytt navn, anses det for søknad om navneendring. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å slå partiene sammen og søke registrering under et nytt navn. Hvis ett av partiene fikk minst 500 stemmer i ett fylke eller minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i <a data-id=\"lov/2002-06-28-57/§5-2\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A75-2\">§ 5-2</a> annet ledd bokstav d.</td></tr>",
         "text": "(2) Hvis to eller flere registrerte partier slår seg sammen og søker registrering under et nytt navn, anses det for søknad om navneendring. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å slå partiene sammen og søke registrering under et nytt navn. Hvis ett av partiene fikk minst 500 stemmer i ett fylke eller minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i § 5-2 annet ledd bokstav d."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -785,6 +808,7 @@
         "text": "(2) Det samme gjelder fire år etter at partiet er oppløst eller har skiftet navn."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -810,6 +834,7 @@
         "text": "(2) Partiene skal innen 2. januar i valgåret sende inn oppdaterte opplysninger eller bekreftelse på de opplysninger som er registrert i Enhetsregisteret, om hvem som er medlemmer i partiets hovedstyre med virkning for valget. Registreringsmyndigheten skal i god tid innen fristen informere partiene om de opplysninger som er registrert i Enhetsregisteret."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -828,6 +853,7 @@
         "html": "Registreringsmyndigheten skal kunngjøre vedtak om registrering av nye partinavn eller sletting av navn fra Partiregisteret.",
         "text": "Registreringsmyndigheten skal kunngjøre vedtak om registrering av nye partinavn eller sletting av navn fra Partiregisteret."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -854,6 +880,7 @@
         "text": "(2) Nemndas vedtak i klagesaker skal kunngjøres."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -878,6 +905,7 @@
         "html": "Kapittel 6 Krav til og behandling av listeforslag",
         "text": "Kapittel 6 Krav til og behandling av listeforslag"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -905,38 +933,38 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må angi hvilket valg det gjelder.</td>\n</tr>",
-        "text": "a)Det må angi hvilket valg det gjelder."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må angi hvilket valg det gjelder.</td>\n</tr>",
+        "text": "a)\tDet må angi hvilket valg det gjelder."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha en overskrift som angir det parti eller den gruppe som har fremsatt forslaget. Hvis listeforslaget er satt frem av et registrert politisk parti, skal overskriften være enslydende med partiets registrerte navn. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti, registrert samepolitisk enhet eller med overskriften på andre listeforslag i valgdistriktet.</td>\n</tr>",
-        "text": "b)Det må ha en overskrift som angir det parti eller den gruppe som har fremsatt forslaget. Hvis listeforslaget er satt frem av et registrert politisk parti, skal overskriften være enslydende med partiets registrerte navn. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti, registrert samepolitisk enhet eller med overskriften på andre listeforslag i valgdistriktet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha en overskrift som angir det parti eller den gruppe som har fremsatt forslaget. Hvis listeforslaget er satt frem av et registrert politisk parti, skal overskriften være enslydende med partiets registrerte navn. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti, registrert samepolitisk enhet eller med overskriften på andre listeforslag i valgdistriktet.</td>\n</tr>",
+        "text": "b)\tDet må ha en overskrift som angir det parti eller den gruppe som har fremsatt forslaget. Hvis listeforslaget er satt frem av et registrert politisk parti, skal overskriften være enslydende med partiets registrerte navn. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti, registrert samepolitisk enhet eller med overskriften på andre listeforslag i valgdistriktet."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må angi hvilke kandidater som stiller til valg på listen. Kandidatene må ikke være felles med kandidater på andre listeforslag som gjelder samme valg i samme valgdistrikt. Antallet kandidater skal oppfylle kravene i § 6-2. Kandidatene skal være oppført med fornavn, etternavn og fødselsår. Opplysning om kandidatenes stilling eller bosted kan påføres. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen.</td>\n</tr>",
-        "text": "c)Det må angi hvilke kandidater som stiller til valg på listen. Kandidatene må ikke være felles med kandidater på andre listeforslag som gjelder samme valg i samme valgdistrikt. Antallet kandidater skal oppfylle kravene i § 6-2. Kandidatene skal være oppført med fornavn, etternavn og fødselsår. Opplysning om kandidatenes stilling eller bosted kan påføres. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må angi hvilke kandidater som stiller til valg på listen. Kandidatene må ikke være felles med kandidater på andre listeforslag som gjelder samme valg i samme valgdistrikt. Antallet kandidater skal oppfylle kravene i <a data-id=\"lov/2002-06-28-57/§6-2\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A76-2\">§ 6-2</a>. Kandidatene skal være oppført med fornavn, etternavn og fødselsår. Opplysning om kandidatenes stilling eller bosted kan påføres. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen.</td>\n</tr>",
+        "text": "c)\tDet må angi hvilke kandidater som stiller til valg på listen. Kandidatene må ikke være felles med kandidater på andre listeforslag som gjelder samme valg i samme valgdistrikt. Antallet kandidater skal oppfylle kravene i § 6-2. Kandidatene skal være oppført med fornavn, etternavn og fødselsår. Opplysning om kandidatenes stilling eller bosted kan påføres. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Listeforslaget må være underskrevet av et visst antall personer, jf § 6-3.</td>\n</tr>",
-        "text": "d)Listeforslaget må være underskrevet av et visst antall personer, jf § 6-3."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Listeforslaget må være underskrevet av et visst antall personer, jf <a data-id=\"lov/2002-06-28-57/§6-3\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A76-3\">§ 6-3</a>.</td>\n</tr>",
+        "text": "d)\tListeforslaget må være underskrevet av et visst antall personer, jf § 6-3."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må inneholde navn på en tillitsvalgt og en vararepresentant blant dem som har skrevet under på listeforslaget. Disse skal ha myndighet til å forhandle med fylkesvalgstyret eller valgstyret om endringer på listeforslaget. Det bør også angis navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake.</td>\n</tr>",
-        "text": "e)Det må inneholde navn på en tillitsvalgt og en vararepresentant blant dem som har skrevet under på listeforslaget. Disse skal ha myndighet til å forhandle med fylkesvalgstyret eller valgstyret om endringer på listeforslaget. Det bør også angis navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må inneholde navn på en tillitsvalgt og en vararepresentant blant dem som har skrevet under på listeforslaget. Disse skal ha myndighet til å forhandle med fylkesvalgstyret eller valgstyret om endringer på listeforslaget. Det bør også angis navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake.</td>\n</tr>",
+        "text": "e)\tDet må inneholde navn på en tillitsvalgt og en vararepresentant blant dem som har skrevet under på listeforslaget. Disse skal ha myndighet til å forhandle med fylkesvalgstyret eller valgstyret om endringer på listeforslaget. Det bør også angis navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Listeforslaget må ha vedlegg som nevnt i § 6-4.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Listeforslaget må ha vedlegg som nevnt i <a data-id=\"lov/2002-06-28-57/§6-4\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A76-4\">§ 6-4</a>.</td></tr>",
         "text": "(3) Listeforslaget må ha vedlegg som nevnt i § 6-4."
     },
     {
@@ -945,6 +973,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Listeforslaget skal ikke inneholde annen type informasjon til velgerne enn det som fremgår av denne paragrafen.</td></tr>",
         "text": "(4) Listeforslaget skal ikke inneholde annen type informasjon til velgerne enn det som fremgår av denne paragrafen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1001,6 +1030,7 @@
         "text": "Disse kandidatnavnene skal stå først på listeforslaget og med uthevet skrift."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1027,16 +1057,17 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved fylkestingsvalg skal listeforslaget være underskrevet av minst 500 personer med stemmerett i fylket ved det aktuelle valget.</td>\n</tr>",
-        "text": "a)Ved fylkestingsvalg skal listeforslaget være underskrevet av minst 500 personer med stemmerett i fylket ved det aktuelle valget."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved fylkestingsvalg skal listeforslaget være underskrevet av minst 500 personer med stemmerett i fylket ved det aktuelle valget.</td>\n</tr>",
+        "text": "a)\tVed fylkestingsvalg skal listeforslaget være underskrevet av minst 500 personer med stemmerett i fylket ved det aktuelle valget."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved kommunestyrevalg skal listeforslaget være underskrevet av et antall personer med stemmerett i kommunen som tilsvarer 2 prosent av antall stemmeberettigede innbyggere ved siste kommunestyrevalg. Listeforslaget skal likevel som et minimum være underskrevet av like mange stemmeberettigede personer i kommunen som det skal velges medlemmer til kommunestyret. Underskrift fra 300 personer er i alle tilfeller tilstrekkelig.</td>\n</tr>",
-        "text": "b)Ved kommunestyrevalg skal listeforslaget være underskrevet av et antall personer med stemmerett i kommunen som tilsvarer 2 prosent av antall stemmeberettigede innbyggere ved siste kommunestyrevalg. Listeforslaget skal likevel som et minimum være underskrevet av like mange stemmeberettigede personer i kommunen som det skal velges medlemmer til kommunestyret. Underskrift fra 300 personer er i alle tilfeller tilstrekkelig."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved kommunestyrevalg skal listeforslaget være underskrevet av et antall personer med stemmerett i kommunen som tilsvarer 2 prosent av antall stemmeberettigede innbyggere ved siste kommunestyrevalg. Listeforslaget skal likevel som et minimum være underskrevet av like mange stemmeberettigede personer i kommunen som det skal velges medlemmer til kommunestyret. Underskrift fra 300 personer er i alle tilfeller tilstrekkelig.</td>\n</tr>",
+        "text": "b)\tVed kommunestyrevalg skal listeforslaget være underskrevet av et antall personer med stemmerett i kommunen som tilsvarer 2 prosent av antall stemmeberettigede innbyggere ved siste kommunestyrevalg. Listeforslaget skal likevel som et minimum være underskrevet av like mange stemmeberettigede personer i kommunen som det skal velges medlemmer til kommunestyret. Underskrift fra 300 personer er i alle tilfeller tilstrekkelig."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1058,28 +1089,29 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">En oversikt over kandidatenes fødselsdato.</td>\n</tr>",
-        "text": "a)En oversikt over kandidatenes fødselsdato."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">En oversikt over kandidatenes fødselsdato.</td>\n</tr>",
+        "text": "a)\tEn oversikt over kandidatenes fødselsdato."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">En oversikt over fødselsdato og bostedsadresse til dem som har underskrevet på listeforslaget.</td>\n</tr>",
-        "text": "b)En oversikt over fødselsdato og bostedsadresse til dem som har underskrevet på listeforslaget."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">En oversikt over fødselsdato og bostedsadresse til dem som har underskrevet på listeforslaget.</td>\n</tr>",
+        "text": "b)\tEn oversikt over fødselsdato og bostedsadresse til dem som har underskrevet på listeforslaget."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Dersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er innført i folkeregisteret som bosatt i fylket eller i kommunen når listeforslaget innleveres, må det ligge ved en erklæring fra kandidaten om at vedkommende vil være valgbar på valgdagen.</td>\n</tr>",
-        "text": "c)Dersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er innført i folkeregisteret som bosatt i fylket eller i kommunen når listeforslaget innleveres, må det ligge ved en erklæring fra kandidaten om at vedkommende vil være valgbar på valgdagen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Dersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er innført i folkeregisteret som bosatt i fylket eller i kommunen når listeforslaget innleveres, må det ligge ved en erklæring fra kandidaten om at vedkommende vil være valgbar på valgdagen.</td>\n</tr>",
+        "text": "c)\tDersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er innført i folkeregisteret som bosatt i fylket eller i kommunen når listeforslaget innleveres, må det ligge ved en erklæring fra kandidaten om at vedkommende vil være valgbar på valgdagen."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Dersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er valgbar på grunn av sin stilling, må det legges ved en erklæring fra kandidaten om at vedkommende vil ha fratrådt stillingen når fylkestinget eller kommunestyret trer i funksjon.</td>\n</tr>",
-        "text": "d)Dersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er valgbar på grunn av sin stilling, må det legges ved en erklæring fra kandidaten om at vedkommende vil ha fratrådt stillingen når fylkestinget eller kommunestyret trer i funksjon."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Dersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er valgbar på grunn av sin stilling, må det legges ved en erklæring fra kandidaten om at vedkommende vil ha fratrådt stillingen når fylkestinget eller kommunestyret trer i funksjon.</td>\n</tr>",
+        "text": "d)\tDersom en kandidat til fylkestingsvalg eller kommunestyrevalg ikke er valgbar på grunn av sin stilling, må det legges ved en erklæring fra kandidaten om at vedkommende vil ha fratrådt stillingen når fylkestinget eller kommunestyret trer i funksjon."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1099,6 +1131,7 @@
         "html": "Innlevert listeforslag kan kalles tilbake av tillitsutvalget. Erklæring om tilbakekalling må være innlevert senest 20. april i valgåret.",
         "text": "Innlevert listeforslag kan kalles tilbake av tillitsutvalget. Erklæring om tilbakekalling må være innlevert senest 20. april i valgåret."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1137,6 +1170,7 @@
         "text": "(4) Valgmyndighetene skal underrette samtlige kandidater på listeforslagene om at de er satt opp på listeforslag og opplyse om adgangen til å søke om fritak. En underskriver eller en kandidat som står på flere listeforslag for samme valg, skal gis pålegg om å melde fra innen en bestemt frist hvilket forslag vedkommende vil stå på. Ellers settes vedkommende opp på det listeforslaget som ble innlevert først."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1156,6 +1190,7 @@
         "text": "Når listeforslagene er godkjent, skal valgmyndighetene legge de offisielle valglistene ut til gjennomsyn. Valgmyndighetene kunngjør overskriftene på de godkjente valglistene og opplyser om hvor de er lagt ut."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1171,9 +1206,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Klage med krav om endring av valgstyrets eller fylkesvalgstyrets vedtak om å godkjenne eller forkaste et listeforslag, må fremsettes innen sju dager etter offentliggjøringen av overskriftene på de  godkjente valglistene. Dersom klagen er begrunnet i at enerett til partinavn er krenket, har også et registrert politisk parti klagerett. For øvrig gjelder bestemmelsene om klage i kapittel 13.",
-        "text": "Klage med krav om endring av valgstyrets eller fylkesvalgstyrets vedtak om å godkjenne eller forkaste et listeforslag, må fremsettes innen sju dager etter offentliggjøringen av overskriftene på de godkjente valglistene. Dersom klagen er begrunnet i at enerett til partinavn er krenket, har også et registrert politisk parti klagerett. For øvrig gjelder bestemmelsene om klage i kapittel 13."
+        "html": "Klage med krav om endring av valgstyrets eller fylkesvalgstyrets vedtak om å godkjenne eller forkaste et listeforslag, må fremsettes innen sju dager etter offentliggjøringen av overskriftene på de  godkjente valglistene. Dersom klagen er begrunnet i at enerett til partinavn er krenket, har også et registrert politisk parti klagerett. For øvrig gjelder bestemmelsene om klage i <a data-id=\"lov/2002-06-28-57/kap13\" class=\" reference\" href=\"/lov/2002-06-28-57/kap13\">kapittel 13</a>.",
+        "text": "Klage med krav om endring av valgstyrets eller fylkesvalgstyrets vedtak om å godkjenne eller forkaste et listeforslag, må fremsettes innen sju dager etter offentliggjøringen av overskriftene på de  godkjente valglistene. Dersom klagen er begrunnet i at enerett til partinavn er krenket, har også et registrert politisk parti klagerett. For øvrig gjelder bestemmelsene om klage i kapittel 13."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1200,6 +1236,7 @@
         "text": "Kapittel 7 Stemmesedler. Velgernes adgang til å endre på stemmesedler"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1224,6 +1261,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Ved kommunestyrevalg sørger valgstyret for at det blir trykt stemmesedler for alle godkjente valglister i kommunen før forhåndsstemmegivningen starter innenriks.</td></tr>",
         "text": "(2) Ved kommunestyrevalg sørger valgstyret for at det blir trykt stemmesedler for alle godkjente valglister i kommunen før forhåndsstemmegivningen starter innenriks."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1250,6 +1288,7 @@
         "text": "(2) Velgeren kan ved kommunestyrevalg også gi én personstemme til en eller flere kandidater på andre valglister. Dette gjøres ved å føre disse kandidatnavnene opp på stemmeseddelen. Andre endringer på stemmeseddelen teller ikke med ved kandidatkåringen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1274,6 +1313,7 @@
         "html": "Kapittel 8 Forhåndsstemmegivningen",
         "text": "Kapittel 8 Forhåndsstemmegivningen"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1306,6 +1346,7 @@
         "text": "(3) Velgeren er selv ansvarlig for å avgi forhåndsstemme på et tidspunkt som gjør at forhåndsstemmegivningen kommer inn til valgstyret innen valgdagen kl. 20."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1326,21 +1367,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmemottakere oppnevnt av valgstyret.</td>\n</tr>",
-        "text": "a)stemmemottakere oppnevnt av valgstyret."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmemottakere oppnevnt av valgstyret.</td>\n</tr>",
+        "text": "a)\tstemmemottakere oppnevnt av valgstyret."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sysselmannen på Svalbard. Sysselmannen kan oppnevne andre stemmemottakere.</td>\n</tr>",
-        "text": "b)sysselmannen på Svalbard. Sysselmannen kan oppnevne andre stemmemottakere."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sysselmannen på Svalbard. Sysselmannen kan oppnevne andre stemmemottakere.</td>\n</tr>",
+        "text": "b)\tsysselmannen på Svalbard. Sysselmannen kan oppnevne andre stemmemottakere."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på Jan Mayen den departementet bestemmer.</td>\n</tr>",
-        "text": "c)på Jan Mayen den departementet bestemmer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på Jan Mayen den departementet bestemmer.</td>\n</tr>",
+        "text": "c)\tpå Jan Mayen den departementet bestemmer."
     },
     {
         "tag": "table",
@@ -1350,15 +1391,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utenrikstjenestemann ved lønnet norsk utenriksstasjon. Etter særskilt bemyndigelse fra Utenriksdepartementet kan stemmegivning også foregå hos utenrikstjenestemann ved ulønnet norsk utenriksstasjon. Stasjonssjefen kan når det finnes påkrevd, oppnevne en eller flere av stasjonens funksjonærer til å motta forhåndsstemmer.</td>\n</tr>",
-        "text": "a)utenrikstjenestemann ved lønnet norsk utenriksstasjon. Etter særskilt bemyndigelse fra Utenriksdepartementet kan stemmegivning også foregå hos utenrikstjenestemann ved ulønnet norsk utenriksstasjon. Stasjonssjefen kan når det finnes påkrevd, oppnevne en eller flere av stasjonens funksjonærer til å motta forhåndsstemmer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utenrikstjenestemann ved lønnet norsk utenriksstasjon. Etter særskilt bemyndigelse fra Utenriksdepartementet kan stemmegivning også foregå hos utenrikstjenestemann ved ulønnet norsk utenriksstasjon. Stasjonssjefen kan når det finnes påkrevd, oppnevne en eller flere av stasjonens funksjonærer til å motta forhåndsstemmer.</td>\n</tr>",
+        "text": "a)\tutenrikstjenestemann ved lønnet norsk utenriksstasjon. Etter særskilt bemyndigelse fra Utenriksdepartementet kan stemmegivning også foregå hos utenrikstjenestemann ved ulønnet norsk utenriksstasjon. Stasjonssjefen kan når det finnes påkrevd, oppnevne en eller flere av stasjonens funksjonærer til å motta forhåndsstemmer."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmemottakere oppnevnt av departementet dersom stemmegivningen foregår andre steder enn det som fremgår av bokstav a.</td>\n</tr>",
-        "text": "b)stemmemottakere oppnevnt av departementet dersom stemmegivningen foregår andre steder enn det som fremgår av bokstav a."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmemottakere oppnevnt av departementet dersom stemmegivningen foregår andre steder enn det som fremgår av bokstav a.</td>\n</tr>",
+        "text": "b)\tstemmemottakere oppnevnt av departementet dersom stemmegivningen foregår andre steder enn det som fremgår av bokstav a."
     },
     {
         "tag": "table",
@@ -1366,6 +1407,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Dersom en velger som oppholder seg utenfor riket ikke har mulighet til å oppsøke en stemmemottaker, kan vedkommende avgi stemme ved brevpost uten at en stemmemottaker er til stede ved stemmegivningen.</td></tr>",
         "text": "(3) Dersom en velger som oppholder seg utenfor riket ikke har mulighet til å oppsøke en stemmemottaker, kan vedkommende avgi stemme ved brevpost uten at en stemmemottaker er til stede ved stemmegivningen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1393,15 +1435,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på helse- og sosialinstitusjoner, og</td>\n</tr>",
-        "text": "a)på helse- og sosialinstitusjoner, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på helse- og sosialinstitusjoner, og</td>\n</tr>",
+        "text": "a)\tpå helse- og sosialinstitusjoner, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">der valgstyret ellers beslutter at det skal mottas forhåndsstemmer.</td>\n</tr>",
-        "text": "b)der valgstyret ellers beslutter at det skal mottas forhåndsstemmer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">der valgstyret ellers beslutter at det skal mottas forhåndsstemmer.</td>\n</tr>",
+        "text": "b)\tder valgstyret ellers beslutter at det skal mottas forhåndsstemmer."
     },
     {
         "tag": "table",
@@ -1427,6 +1469,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Velgere som oppholder seg innenriks, unntatt på Svalbard og Jan Mayen, og som på grunn av sykdom eller uførhet ikke kan avgi stemme etter annet ledd, kan etter søknad til valgstyret avgi forhåndsstemme der de oppholder seg. Valgstyret fastsetter selv fristen for når søknaden må være kommet inn til kommunen. Fristen må fastsettes til et tidspunkt innenfor perioden mellom tirsdag og fredag siste uke før valget. Søknadsfristen skal kunngjøres.</td></tr>",
         "text": "(6) Velgere som oppholder seg innenriks, unntatt på Svalbard og Jan Mayen, og som på grunn av sykdom eller uførhet ikke kan avgi stemme etter annet ledd, kan etter søknad til valgstyret avgi forhåndsstemme der de oppholder seg. Valgstyret fastsetter selv fristen for når søknaden må være kommet inn til kommunen. Fristen må fastsettes til et tidspunkt innenfor perioden mellom tirsdag og fredag siste uke før valget. Søknadsfristen skal kunngjøres."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1465,6 +1508,7 @@
         "text": "(4) Ved ambulerende stemmegivning og stemmegivning på institusjon skal det være minst to stemmemottakere til stede."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1490,6 +1534,7 @@
         "text": "(2) Uvedkommende må ikke få kunnskap om forbruket av de forskjellige valglistenes stemmesedler."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1510,15 +1555,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomføringen av forhåndsstemmegivningen og</td>\n</tr>",
-        "text": "a)gjennomføringen av forhåndsstemmegivningen og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomføringen av forhåndsstemmegivningen og</td>\n</tr>",
+        "text": "a)\tgjennomføringen av forhåndsstemmegivningen og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utforming og bruk av valgkort.</td>\n</tr>",
-        "text": "b)utforming og bruk av valgkort."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utforming og bruk av valgkort.</td>\n</tr>",
+        "text": "b)\tutforming og bruk av valgkort."
     },
     {
         "tag": "h2",
@@ -1526,6 +1571,7 @@
         "html": "Kapittel 9 Tidspunktet for valg. Stemmegivningen på valgtinget",
         "text": "Kapittel 9 Tidspunktet for valg. Stemmegivningen på valgtinget"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1552,6 +1598,7 @@
         "text": "(2) Valg av representanter til fylkesting og kommunestyrer skal holdes i alle kommuner på en og samme dag i september måned hvert fjerde år."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1577,6 +1624,7 @@
         "text": "(2) Kommunestyret kan selv vedta at det på ett eller flere steder i kommunen skal holdes valg også søndagen før den offisielle valgdagen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1599,7 +1647,7 @@
         "tag": "table",
         "class": "numeral avsnitt",
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Valgstyret bestemmer hvor stemmegivningen skal foregå og  fastsetter tiden for stemmegivningen. Stemmegivningen mandag må ikke foregå senere enn kl. 20.</td></tr>",
-        "text": "(2) Valgstyret bestemmer hvor stemmegivningen skal foregå og fastsetter tiden for stemmegivningen. Stemmegivningen mandag må ikke foregå senere enn kl. 20."
+        "text": "(2) Valgstyret bestemmer hvor stemmegivningen skal foregå og  fastsetter tiden for stemmegivningen. Stemmegivningen mandag må ikke foregå senere enn kl. 20."
     },
     {
         "tag": "table",
@@ -1607,6 +1655,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Valgstyret kunngjør tid og sted for stemmegivningen.</td></tr>",
         "text": "(3) Valgstyret kunngjør tid og sted for stemmegivningen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1638,6 +1687,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Stemmestyrets leder eller nestleder kan om nødvendig bortvise den som opptrer i strid med reglene i denne paragrafen.</td></tr>",
         "text": "(3) Stemmestyrets leder eller nestleder kan om nødvendig bortvise den som opptrer i strid med reglene i denne paragrafen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1679,8 +1729,9 @@
         "tag": "table",
         "class": "numeral avsnitt",
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Velger som har behov for det, kan selv be stemmestyret om å få nødvendig hjelp ved stemmegivningen. Velgeren peker selv ut en hjelper blant de personer som er tilstede i valglokalet. Stemmestyret skal  gjøre hjelperen oppmerksom på at vedkommende har taushetsplikt.</td></tr>",
-        "text": "(5) Velger som har behov for det, kan selv be stemmestyret om å få nødvendig hjelp ved stemmegivningen. Velgeren peker selv ut en hjelper blant de personer som er tilstede i valglokalet. Stemmestyret skal gjøre hjelperen oppmerksom på at vedkommende har taushetsplikt."
+        "text": "(5) Velger som har behov for det, kan selv be stemmestyret om å få nødvendig hjelp ved stemmegivningen. Velgeren peker selv ut en hjelper blant de personer som er tilstede i valglokalet. Stemmestyret skal  gjøre hjelperen oppmerksom på at vedkommende har taushetsplikt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1701,6 +1752,7 @@
         "text": "Er velgeren ikke i stand til å bevege seg inn i valglokalet, kan vedkommende avgi stemme til to stemmemottakere umiddelbart utenfor valglokalet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1719,6 +1771,7 @@
         "html": "Stemmelokalet stenges på det tidspunkt som er fastsatt. De velgere som da er til stede i valglokalet skal få avgi stemme.",
         "text": "Stemmelokalet stenges på det tidspunkt som er fastsatt. De velgere som da er til stede i valglokalet skal få avgi stemme."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1739,6 +1792,7 @@
         "text": "Alt valgmateriell skal oppbevares og transporteres på betryggende måte."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1757,6 +1811,7 @@
         "html": "Valgresultater og prognoser som er laget på grunnlag av undersøkelser foretatt den dag eller de dager valget foregår, kan ikke offentliggjøres før tidligst kl. 20 på valgdagen mandag.",
         "text": "Valgresultater og prognoser som er laget på grunnlag av undersøkelser foretatt den dag eller de dager valget foregår, kan ikke offentliggjøres før tidligst kl. 20 på valgdagen mandag."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1783,6 +1838,7 @@
         "text": "Kapittel 10 Prøving av stemmegivninger og stemmesedler, opptelling, protokollering m.m."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1803,45 +1859,45 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren er innført i manntallet i kommunen,</td>\n</tr>",
-        "text": "a)velgeren er innført i manntallet i kommunen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren er innført i manntallet i kommunen,</td>\n</tr>",
+        "text": "a)\tvelgeren er innført i manntallet i kommunen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen inneholder tilstrekkelige opplysninger til å fastslå hvem velgeren er,</td>\n</tr>",
-        "text": "b)stemmegivningen inneholder tilstrekkelige opplysninger til å fastslå hvem velgeren er,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen inneholder tilstrekkelige opplysninger til å fastslå hvem velgeren er,</td>\n</tr>",
+        "text": "b)\tstemmegivningen inneholder tilstrekkelige opplysninger til å fastslå hvem velgeren er,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen er avgitt til rett tid,</td>\n</tr>",
-        "text": "c)stemmegivningen er avgitt til rett tid,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen er avgitt til rett tid,</td>\n</tr>",
+        "text": "c)\tstemmegivningen er avgitt til rett tid,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen er levert til rett stemmemottaker med mindre den er avgitt som brevstemme,</td>\n</tr>",
-        "text": "d)stemmegivningen er levert til rett stemmemottaker med mindre den er avgitt som brevstemme,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen er levert til rett stemmemottaker med mindre den er avgitt som brevstemme,</td>\n</tr>",
+        "text": "d)\tstemmegivningen er levert til rett stemmemottaker med mindre den er avgitt som brevstemme,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omslagskonvolutten ikke er åpnet eller forsøkt åpnet,</td>\n</tr>",
-        "text": "e)omslagskonvolutten ikke er åpnet eller forsøkt åpnet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omslagskonvolutten ikke er åpnet eller forsøkt åpnet,</td>\n</tr>",
+        "text": "e)\tomslagskonvolutten ikke er åpnet eller forsøkt åpnet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren ikke har avgitt godkjent stemmegivning og</td>\n</tr>",
-        "text": "f)velgeren ikke har avgitt godkjent stemmegivning og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren ikke har avgitt godkjent stemmegivning og</td>\n</tr>",
+        "text": "f)\tvelgeren ikke har avgitt godkjent stemmegivning og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen er kommet inn til valgstyret innen kl. 20 på valgdagen.</td>\n</tr>",
-        "text": "g)stemmegivningen er kommet inn til valgstyret innen kl. 20 på valgdagen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen er kommet inn til valgstyret innen kl. 20 på valgdagen.</td>\n</tr>",
+        "text": "g)\tstemmegivningen er kommet inn til valgstyret innen kl. 20 på valgdagen."
     },
     {
         "tag": "table",
@@ -1855,6 +1911,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Forhåndsstemmegivningene skal godkjennes før valgdagen i den utstrekning det er mulig.</td></tr>",
         "text": "(3) Forhåndsstemmegivningene skal godkjennes før valgdagen i den utstrekning det er mulig."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1876,21 +1933,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren er innført i manntallet i kommunen,</td>\n</tr>",
-        "text": "a)velgeren er innført i manntallet i kommunen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren er innført i manntallet i kommunen,</td>\n</tr>",
+        "text": "a)\tvelgeren er innført i manntallet i kommunen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren har fått anledning til å avgi stemme, og</td>\n</tr>",
-        "text": "b)velgeren har fått anledning til å avgi stemme, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren har fått anledning til å avgi stemme, og</td>\n</tr>",
+        "text": "b)\tvelgeren har fått anledning til å avgi stemme, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren ikke allerede har avgitt godkjent stemmegivning.</td>\n</tr>",
-        "text": "c)velgeren ikke allerede har avgitt godkjent stemmegivning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">velgeren ikke allerede har avgitt godkjent stemmegivning.</td>\n</tr>",
+        "text": "c)\tvelgeren ikke allerede har avgitt godkjent stemmegivning."
     },
     {
         "tag": "table",
@@ -1898,6 +1955,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Velgerens stemmegivning er godkjent når vedkommende er krysset av i manntallet.</td></tr>",
         "text": "(2) Velgerens stemmegivning er godkjent når vedkommende er krysset av i manntallet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1919,27 +1977,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den har offentlig stempel når den er avgitt på valgtinget,</td>\n</tr>",
-        "text": "a)den har offentlig stempel når den er avgitt på valgtinget,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den har offentlig stempel når den er avgitt på valgtinget,</td>\n</tr>",
+        "text": "a)\tden har offentlig stempel når den er avgitt på valgtinget,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det fremgår hvilket valg stemmeseddelen gjelder,</td>\n</tr>",
-        "text": "b)det fremgår hvilket valg stemmeseddelen gjelder,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det fremgår hvilket valg stemmeseddelen gjelder,</td>\n</tr>",
+        "text": "b)\tdet fremgår hvilket valg stemmeseddelen gjelder,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det fremgår hvilket parti eller gruppe velgeren har stemt på, og</td>\n</tr>",
-        "text": "c)det fremgår hvilket parti eller gruppe velgeren har stemt på, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det fremgår hvilket parti eller gruppe velgeren har stemt på, og</td>\n</tr>",
+        "text": "c)\tdet fremgår hvilket parti eller gruppe velgeren har stemt på, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">partiet eller gruppen stiller liste i valgkretsen. Stemmeseddel beregnet på en annen valgkrets kan bare godkjennes dersom den gjelder et registrert politisk parti.</td>\n</tr>",
-        "text": "d)partiet eller gruppen stiller liste i valgkretsen. Stemmeseddel beregnet på en annen valgkrets kan bare godkjennes dersom den gjelder et registrert politisk parti."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">partiet eller gruppen stiller liste i valgkretsen. Stemmeseddel beregnet på en annen valgkrets kan bare godkjennes dersom den gjelder et registrert politisk parti.</td>\n</tr>",
+        "text": "d)\tpartiet eller gruppen stiller liste i valgkretsen. Stemmeseddel beregnet på en annen valgkrets kan bare godkjennes dersom den gjelder et registrert politisk parti."
     },
     {
         "tag": "table",
@@ -1953,6 +2011,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Dersom velgeren har benyttet en trykt stemmeseddel som ikke er enslydende med den offisielle valglisten, skal det ses bort fra eventuelle endringer foretatt av velgeren.</td></tr>",
         "text": "(3) Dersom velgeren har benyttet en trykt stemmeseddel som ikke er enslydende med den offisielle valglisten, skal det ses bort fra eventuelle endringer foretatt av velgeren."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1997,6 +2056,7 @@
         "text": "(5) Stemmesedlene skal telles opp i to omganger, ved en foreløpig og en endelig opptelling."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2040,6 +2100,7 @@
         "text": "(5) Hver listes stemmetall finnes ved å telle hvor mange stemmesedler som er avgitt til hver liste."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2077,6 +2138,7 @@
         "text": "(4) Ved fylkestingsvalget skal fylkesvalgstyrene i forbindelse med valgoppgjøret registrere rettinger velgerne har gjort på stemmesedlene."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2108,6 +2170,7 @@
         "text": "(3) Fylkesvalgstyret skal føre protokoll i forbindelse med kontrollen med valgstyrets gjennomføring av fylkestingsvalg, samt valgoppgjøret."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2128,39 +2191,39 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle godkjente stemmesedler, sortert på urettede og rettede, de som er avgitt på valgtinget og de som er avgitt på forhånd hver for seg,</td>\n</tr>",
-        "text": "a)alle godkjente stemmesedler, sortert på urettede og rettede, de som er avgitt på valgtinget og de som er avgitt på forhånd hver for seg,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle godkjente stemmesedler, sortert på urettede og rettede, de som er avgitt på valgtinget og de som er avgitt på forhånd hver for seg,</td>\n</tr>",
+        "text": "a)\talle godkjente stemmesedler, sortert på urettede og rettede, de som er avgitt på valgtinget og de som er avgitt på forhånd hver for seg,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle stemmegivninger og stemmesedler valgstyret har forkastet,</td>\n</tr>",
-        "text": "b)alle stemmegivninger og stemmesedler valgstyret har forkastet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle stemmegivninger og stemmesedler valgstyret har forkastet,</td>\n</tr>",
+        "text": "b)\talle stemmegivninger og stemmesedler valgstyret har forkastet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle valgkort fra forhåndsstemmegivningen,</td>\n</tr>",
-        "text": "c)alle valgkort fra forhåndsstemmegivningen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle valgkort fra forhåndsstemmegivningen,</td>\n</tr>",
+        "text": "c)\talle valgkort fra forhåndsstemmegivningen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle omslagskonvolutter fra forhåndsstemmegivningen utenriks og på Svalbard og Jan Mayen,</td>\n</tr>",
-        "text": "d)alle omslagskonvolutter fra forhåndsstemmegivningen utenriks og på Svalbard og Jan Mayen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle omslagskonvolutter fra forhåndsstemmegivningen utenriks og på Svalbard og Jan Mayen,</td>\n</tr>",
+        "text": "d)\talle omslagskonvolutter fra forhåndsstemmegivningen utenriks og på Svalbard og Jan Mayen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bekreftet avskrift av det som er protokollert i forbindelse med valget, og</td>\n</tr>",
-        "text": "e)bekreftet avskrift av det som er protokollert i forbindelse med valget, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bekreftet avskrift av det som er protokollert i forbindelse med valget, og</td>\n</tr>",
+        "text": "e)\tbekreftet avskrift av det som er protokollert i forbindelse med valget, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kopi av innkomne klager.</td>\n</tr>",
-        "text": "f)kopi av innkomne klager."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kopi av innkomne klager.</td>\n</tr>",
+        "text": "f)\tkopi av innkomne klager."
     },
     {
         "tag": "table",
@@ -2174,6 +2237,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Materiellet skal pakkes i god orden i forsvarlig forseglet emballasje, og sendes på hurtigst betryggende måte.</td></tr>",
         "text": "(3) Materiellet skal pakkes i god orden i forsvarlig forseglet emballasje, og sendes på hurtigst betryggende måte."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2190,7 +2254,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Fylkesvalgstyret skal kontrollere gjennomføringen av fylkestingsvalg i kommunene med grunnlag i det materiell det får tilsendt etter § 10-8. Dersom fylkesvalgstyret finner feil ved valgstyrets avgjørelser om å godkjenne eller forkaste stemmegivninger eller stemmesedler, eller feil i valgstyrets opptelling, skal feilene rettes.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Fylkesvalgstyret skal kontrollere gjennomføringen av fylkestingsvalg i kommunene med grunnlag i det materiell det får tilsendt etter <a data-id=\"lov/2002-06-28-57/§10-8\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A710-8\">§ 10-8</a>. Dersom fylkesvalgstyret finner feil ved valgstyrets avgjørelser om å godkjenne eller forkaste stemmegivninger eller stemmesedler, eller feil i valgstyrets opptelling, skal feilene rettes.</td></tr>",
         "text": "(1) Fylkesvalgstyret skal kontrollere gjennomføringen av fylkestingsvalg i kommunene med grunnlag i det materiell det får tilsendt etter § 10-8. Dersom fylkesvalgstyret finner feil ved valgstyrets avgjørelser om å godkjenne eller forkaste stemmegivninger eller stemmesedler, eller feil i valgstyrets opptelling, skal feilene rettes."
     },
     {
@@ -2199,6 +2263,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> <em class=\" \">(forbeholdes regler om stortingsvalg)</em>\n</td></tr>",
         "text": "(2) (forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2225,6 +2290,7 @@
         "text": "Kapittel 11 Mandatfordelingen og kandidatkåringen"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2237,6 +2303,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2251,6 +2318,7 @@
         "text": "(forbeholdes regler om stortingsvalg)"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2263,6 +2331,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2277,6 +2346,7 @@
         "text": "(forbeholdes regler om stortingsvalg)"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2289,6 +2359,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2303,6 +2374,7 @@
         "text": "(forbeholdes regler om stortingsvalg)"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2315,6 +2387,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2329,6 +2402,7 @@
         "text": "(forbeholdes regler om stortingsvalg)"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2341,6 +2415,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2357,7 +2432,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Fylkesvalgstyret skal foreta valgoppgjør ved fylkestingsvalg. Valglistenes stemmetall i alle kommunene i fylket legges sammen og mandatfordelingen skjer i henhold til St. Laguës modifiserte metode etter Grunnloven § 59 fjerde ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Fylkesvalgstyret skal foreta valgoppgjør ved fylkestingsvalg. Valglistenes stemmetall i alle kommunene i fylket legges sammen og mandatfordelingen skjer i henhold til St. Laguës modifiserte metode etter <a data-id=\"lov/1814-05-17/§59\" class=\" reference\" href=\"/lov/1814-05-17/%C2%A759\">Grunnloven § 59</a> fjerde ledd.</td></tr>",
         "text": "(1) Fylkesvalgstyret skal foreta valgoppgjør ved fylkestingsvalg. Valglistenes stemmetall i alle kommunene i fylket legges sammen og mandatfordelingen skjer i henhold til St. Laguës modifiserte metode etter Grunnloven § 59 fjerde ledd."
     },
     {
@@ -2379,6 +2454,7 @@
         "text": "(4) Dersom en valgliste får flere mandater enn det er valgbare kandidater på listen, fordeles det overskytende antall mandater mellom de øvrige listene i henhold til regelen i første ledd."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2398,6 +2474,7 @@
         "text": "Fylkesvalgstyret skal underrette de valgte representantene og vararepresentantene om valget og opplyse om retten til å søke om fritak fra valg."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2413,7 +2490,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Valgstyret skal foreta valgoppgjør ved kommunestyrevalg. Mandatfordelingen skjer i henhold til St. Laguës modifiserte metode etter Grunnloven § 59 fjerde ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Valgstyret skal foreta valgoppgjør ved kommunestyrevalg. Mandatfordelingen skjer i henhold til St. Laguës modifiserte metode etter <a data-id=\"lov/1814-05-17/§59\" class=\" reference\" href=\"/lov/1814-05-17/%C2%A759\">Grunnloven § 59</a> fjerde ledd.</td></tr>",
         "text": "(1) Valgstyret skal foreta valgoppgjør ved kommunestyrevalg. Mandatfordelingen skjer i henhold til St. Laguës modifiserte metode etter Grunnloven § 59 fjerde ledd."
     },
     {
@@ -2434,6 +2511,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Dersom en valgliste får flere mandater enn det er valgbare kandidater på listen, fordeles det overskytende antall mandater mellom de øvrige listene i henhold til regelen i første ledd.</td></tr>",
         "text": "(4) Dersom en valgliste får flere mandater enn det er valgbare kandidater på listen, fordeles det overskytende antall mandater mellom de øvrige listene i henhold til regelen i første ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2460,6 +2538,7 @@
         "text": "Kapittel 12 Flertallsvalg ved kommunestyrevalg"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2485,6 +2564,7 @@
         "text": "(2) Valgstyret kunngjør at valget holdes som flertallsvalg og informerer om hvilke regler som gjelder for valget."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2509,6 +2589,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Stemmeseddelen kan inneholde høyst så mange navn som det skal velges representanter i kommunestyret, og like mange vararepresentanter.</td></tr>",
         "text": "(2) Stemmeseddelen kan inneholde høyst så mange navn som det skal velges representanter i kommunestyret, og like mange vararepresentanter."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2559,6 +2640,7 @@
         "text": "Kapittel 13 Prøving av valgets gyldighet. Klage"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2571,6 +2653,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2609,6 +2692,7 @@
         "text": "(4) Departementet er klageinstans. Departementets vedtak i klagesaker etter denne paragraf er endelige og kan ikke bringes inn for domstolene."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2621,6 +2705,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2661,9 +2746,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Bestemmelsen i kommuneloven § 59 om lovlighetskontroll gjelder tilsvarende. Fristen for å fremsette begjæring om lovlighetskontroll er likevel sju dager etter at fylkestinget eller kommunestyret har truffet vedtak etter første ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Bestemmelsen i <a data-id=\"lov/1992-09-25-107/§59\" class=\" reference\" href=\"/lov/1992-09-25-107/%C2%A759\">kommuneloven § 59</a> om lovlighetskontroll gjelder tilsvarende. Fristen for å fremsette begjæring om lovlighetskontroll er likevel sju dager etter at fylkestinget eller kommunestyret har truffet vedtak etter første ledd.</td></tr>",
         "text": "(5) Bestemmelsen i kommuneloven § 59 om lovlighetskontroll gjelder tilsvarende. Fristen for å fremsette begjæring om lovlighetskontroll er likevel sju dager etter at fylkestinget eller kommunestyret har truffet vedtak etter første ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2696,6 +2782,7 @@
         "text": "Kapittel 14 Nytt valgoppgjør i perioden. Suppleringsvalg"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2708,6 +2795,7 @@
         "html": "<em class=\" \">(forbeholdes regler om stortingsvalg)</em>",
         "text": "(forbeholdes regler om stortingsvalg)"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2748,7 +2836,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> For øvrig gjelder §§ 11-11 og 11-13 tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> For øvrig gjelder <a data-id=\"lov/2002-06-28-57/§11-11\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A711-11\">§§ 11-11</a> og <a data-id=\"lov/2002-06-28-57/§11-13\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A711-13\">11-13</a> tilsvarende.</td></tr>",
         "text": "(5) For øvrig gjelder §§ 11-11 og 11-13 tilsvarende."
     },
     {
@@ -2757,6 +2845,7 @@
         "html": "Kapittel 15 Forskjellige bestemmelser",
         "text": "Kapittel 15 Forskjellige bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2778,15 +2867,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsøk der valg etter denne lov gjennomføres på andre måter enn det som følger av denne lov, og</td>\n</tr>",
-        "text": "a)forsøk der valg etter denne lov gjennomføres på andre måter enn det som følger av denne lov, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsøk der valg etter denne lov gjennomføres på andre måter enn det som følger av denne lov, og</td>\n</tr>",
+        "text": "a)\tforsøk der valg etter denne lov gjennomføres på andre måter enn det som følger av denne lov, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsøk med direkte valg av andre folkevalgte organer enn dem denne lov gjelder.</td>\n</tr>",
-        "text": "b)forsøk med direkte valg av andre folkevalgte organer enn dem denne lov gjelder."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsøk med direkte valg av andre folkevalgte organer enn dem denne lov gjelder.</td>\n</tr>",
+        "text": "b)\tforsøk med direkte valg av andre folkevalgte organer enn dem denne lov gjelder."
     },
     {
         "tag": "table",
@@ -2794,6 +2883,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Kongen fastsetter nærmere vilkår for forsøket og bestemmer herunder hvilke lovbestemmelser det kan gjøres avvik fra.</td></tr>",
         "text": "(2) Kongen fastsetter nærmere vilkår for forsøket og bestemmer herunder hvilke lovbestemmelser det kan gjøres avvik fra."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2813,6 +2903,7 @@
         "html": "Oppbevaring, avhending og tilintetgjøring av valgmateriell etter at valget er over, skal skje i henhold til arkivlovens bestemmelser og forskrift gitt i medhold av denne.",
         "text": "Oppbevaring, avhending og tilintetgjøring av valgmateriell etter at valget er over, skal skje i henhold til arkivlovens bestemmelser og forskrift gitt i medhold av denne."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2834,15 +2925,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">til offentlig ansatte når det er nødvendig av hensyn til tjenesten, eller</td>\n</tr>",
-        "text": "a)til offentlig ansatte når det er nødvendig av hensyn til tjenesten, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">til offentlig ansatte når det er nødvendig av hensyn til tjenesten, eller</td>\n</tr>",
+        "text": "a)\ttil offentlig ansatte når det er nødvendig av hensyn til tjenesten, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">til forskere i vitenskapelig øyemed når det foreligger samtykke fra folkeregistermyndigheten.</td>\n</tr>",
-        "text": "b)til forskere i vitenskapelig øyemed når det foreligger samtykke fra folkeregistermyndigheten."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">til forskere i vitenskapelig øyemed når det foreligger samtykke fra folkeregistermyndigheten.</td>\n</tr>",
+        "text": "b)\ttil forskere i vitenskapelig øyemed når det foreligger samtykke fra folkeregistermyndigheten."
     },
     {
         "tag": "table",
@@ -2850,6 +2941,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Tilgang til det øvrige valgmateriellet kan bare gis til forskere i vitenskapelig øyemed og etter samtykke fra vedkommende myndighet.</td></tr>",
         "text": "(2) Tilgang til det øvrige valgmateriellet kan bare gis til forskere i vitenskapelig øyemed og etter samtykke fra vedkommende myndighet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2875,6 +2967,7 @@
         "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> En person som assisterer en velger ved stemmegivningen og får kjennskap til hvordan vedkommende har stemt, har taushetsplikt om dette.</td></tr>",
         "text": "(2) En person som assisterer en velger ved stemmegivningen og får kjennskap til hvordan vedkommende har stemt, har taushetsplikt om dette."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2913,6 +3006,7 @@
         "text": "(4) Oppreisning for oversittet frist etter denne lov kan bare gis hvis fristoversittingen skyldes forhold den som plikter å overholde fristen ikke hadde herredømme over, og heller ikke kunne forutse."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2932,6 +3026,7 @@
         "text": "Alle offentlig ansatte plikter så langt det er mulig å gi valgmyndighetene de opplysninger de måtte kreve til bruk ved forberedelse og gjennomføring av valg."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2950,6 +3045,7 @@
         "html": "Fylkesvalgstyrene og valgstyrene plikter å gi de oppgaver som departementet eller Statistisk sentralbyrå finner er nødvendige for å publisere valgresultater eller utarbeide offisiell valgstatistikk.",
         "text": "Fylkesvalgstyrene og valgstyrene plikter å gi de oppgaver som departementet eller Statistisk sentralbyrå finner er nødvendige for å publisere valgresultater eller utarbeide offisiell valgstatistikk."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -2976,6 +3072,7 @@
         "text": "(2) Det skal likevel også i disse kommuner være adgang til å avgi forhåndsstemme til fylkestingsvalg for velgere som har stemmerett i en kommune som utgjør en del av et annet fylke."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -2994,6 +3091,7 @@
         "html": "Kapittel 16 Ikrafttredelses- og overgangsregler. Endringer i andre lover",
         "text": "Kapittel 16 Ikrafttredelses- og overgangsregler. Endringer i andre lover"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -3016,9 +3114,10 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Fra samme tid oppheves lov 1. mars 1985 nr. 3 om stortingsvalg, fylkestingsvalg og kommunestyrevalg (valgloven) med unntak av § 83.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Fra samme tid oppheves <a data-id=\"lov/1985-03-01-3\" class=\" reference\" href=\"/lov/1985-03-01-3\">lov 1. mars 1985 nr. 3</a> om stortingsvalg, fylkestingsvalg og kommunestyrevalg (valgloven) med unntak av <a data-id=\"lov/1985-03-01-3/§83\" class=\" reference\" href=\"/lov/1985-03-01-3/%C2%A783\">§ 83</a>.</td></tr>",
         "text": "(2) Fra samme tid oppheves lov 1. mars 1985 nr. 3 om stortingsvalg, fylkestingsvalg og kommunestyrevalg (valgloven) med unntak av § 83."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -3035,15 +3134,16 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> § 5-2 annet ledd bokstav d gjelder ikke for partier som var registrert etter § 17 i lov 1. mars 1985 nr. 3, dersom disse søker om registrering i Partiregisteret innen 2. januar 2005. Partier som ikke har søkt om registrering innen denne fristen, mister eneretten til partinavnet etter stortingsvalget i 2005.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> § 5-2 annet ledd bokstav d gjelder ikke for partier som var registrert etter § 17 i <a data-id=\"lov/1985-03-01-3/§17\" class=\" reference\" href=\"/lov/1985-03-01-3/%C2%A717\">lov 1. mars 1985 nr. 3</a>, dersom disse søker om registrering i Partiregisteret innen 2. januar 2005. Partier som ikke har søkt om registrering innen denne fristen, mister eneretten til partinavnet etter stortingsvalget i 2005.</td></tr>",
         "text": "(1) § 5-2 annet ledd bokstav d gjelder ikke for partier som var registrert etter § 17 i lov 1. mars 1985 nr. 3, dersom disse søker om registrering i Partiregisteret innen 2. januar 2005. Partier som ikke har søkt om registrering innen denne fristen, mister eneretten til partinavnet etter stortingsvalget i 2005."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> For å kunne stille listeforslag under det navn partiet var registrert med etter § 17 i lov 1. mars 1985 nr. 3, må partiet være registrert i Partiregisteret.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> For å kunne stille listeforslag under det navn partiet var registrert med etter § 17 i <a data-id=\"lov/1985-03-01-3/§17\" class=\" reference\" href=\"/lov/1985-03-01-3/%C2%A717\">lov 1. mars 1985 nr. 3</a>, må partiet være registrert i Partiregisteret.</td></tr>",
         "text": "(2) For å kunne stille listeforslag under det navn partiet var registrert med etter § 17 i lov 1. mars 1985 nr. 3, må partiet være registrert i Partiregisteret."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -3060,79 +3160,79 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra den tid loven her trer i kraft, gjøres følgende endringer i lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven):",
+        "html": "Fra den tid loven her trer i kraft, gjøres følgende endringer i <a data-id=\"lov/1992-09-25-107\" class=\" reference\" href=\"/lov/1992-09-25-107\">lov 25. september 1992 nr. 107</a> om kommuner og fylkeskommuner (kommuneloven):",
         "text": "Fra den tid loven her trer i kraft, gjøres følgende endringer i lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven):"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 12 skal lyde:",
+        "html": "<a data-id=\"lov/1992-09-25-107/§12\" class=\" reference\" href=\"/lov/1992-09-25-107/%C2%A712\">§ 12</a> skal lyde:",
         "text": "§ 12 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 12. <em class=\" \">Kommunedelsutvalg</em>",
+        "html": "<a data-id=\"lov/1992-09-25-107/§12\" class=\" reference\" href=\"/lov/1992-09-25-107/%C2%A712\">§ 12</a>. <em class=\" \">Kommunedelsutvalg</em>",
         "text": "§ 12. Kommunedelsutvalg"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret kan selv opprette kommunedelsutvalg for deler av kommunen. Kommunestyret velger selv medlemmer og varamedlemmer til utvalget, og blant medlemmene leder og nestleder.</td>\n</tr>",
-        "text": "1.Kommunestyret kan selv opprette kommunedelsutvalg for deler av kommunen. Kommunestyret velger selv medlemmer og varamedlemmer til utvalget, og blant medlemmene leder og nestleder."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret kan selv opprette kommunedelsutvalg for deler av kommunen. Kommunestyret velger selv medlemmer og varamedlemmer til utvalget, og blant medlemmene leder og nestleder.</td>\n</tr>",
+        "text": "1.\tKommunestyret kan selv opprette kommunedelsutvalg for deler av kommunen. Kommunestyret velger selv medlemmer og varamedlemmer til utvalget, og blant medlemmene leder og nestleder."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret kan fatte vedtak om at medlemmene til ett eller flere kommunedelsutvalg i kommunen skal velges av innbyggerne i vedkommende kommunedel (direkte valg). Der medlemmene til kommunedelsutvalget er valgt ved direkte valg, velger utvalget selv leder og nestleder.</td>\n</tr>",
-        "text": "2.Kommunestyret kan fatte vedtak om at medlemmene til ett eller flere kommunedelsutvalg i kommunen skal velges av innbyggerne i vedkommende kommunedel (direkte valg). Der medlemmene til kommunedelsutvalget er valgt ved direkte valg, velger utvalget selv leder og nestleder."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret kan fatte vedtak om at medlemmene til ett eller flere kommunedelsutvalg i kommunen skal velges av innbyggerne i vedkommende kommunedel (direkte valg). Der medlemmene til kommunedelsutvalget er valgt ved direkte valg, velger utvalget selv leder og nestleder.</td>\n</tr>",
+        "text": "2.\tKommunestyret kan fatte vedtak om at medlemmene til ett eller flere kommunedelsutvalg i kommunen skal velges av innbyggerne i vedkommende kommunedel (direkte valg). Der medlemmene til kommunedelsutvalget er valgt ved direkte valg, velger utvalget selv leder og nestleder."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret fastsetter selv kommunedelsutvalgenes arbeidsoppgaver. Kommunedelsutvalg kan tildeles avgjørelsesmyndighet i alle saker vedrørende kommunedelen hvor ikke annet følger av lov.</td>\n</tr>",
-        "text": "3.Kommunestyret fastsetter selv kommunedelsutvalgenes arbeidsoppgaver. Kommunedelsutvalg kan tildeles avgjørelsesmyndighet i alle saker vedrørende kommunedelen hvor ikke annet følger av lov."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret fastsetter selv kommunedelsutvalgenes arbeidsoppgaver. Kommunedelsutvalg kan tildeles avgjørelsesmyndighet i alle saker vedrørende kommunedelen hvor ikke annet følger av lov.</td>\n</tr>",
+        "text": "3.\tKommunestyret fastsetter selv kommunedelsutvalgenes arbeidsoppgaver. Kommunedelsutvalg kan tildeles avgjørelsesmyndighet i alle saker vedrørende kommunedelen hvor ikke annet følger av lov."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunedelsutvalget kan gi lederen eller et arbeidsutvalg myndighet til å treffe vedtak i enkeltsaker eller i typer av saker som ikke er av prinsipiell betydning, hvis ikke kommunestyret har bestemt noe annet.</td>\n</tr>",
-        "text": "4.Kommunedelsutvalget kan gi lederen eller et arbeidsutvalg myndighet til å treffe vedtak i enkeltsaker eller i typer av saker som ikke er av prinsipiell betydning, hvis ikke kommunestyret har bestemt noe annet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunedelsutvalget kan gi lederen eller et arbeidsutvalg myndighet til å treffe vedtak i enkeltsaker eller i typer av saker som ikke er av prinsipiell betydning, hvis ikke kommunestyret har bestemt noe annet.</td>\n</tr>",
+        "text": "4.\tKommunedelsutvalget kan gi lederen eller et arbeidsutvalg myndighet til å treffe vedtak i enkeltsaker eller i typer av saker som ikke er av prinsipiell betydning, hvis ikke kommunestyret har bestemt noe annet."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret kan selv når som helst omorganisere eller nedlegge kommunedelsutvalg. Dette gjelder ikke når kommunedelsutvalget er valgt ved direkte valg.</td>\n</tr>",
-        "text": "5.Kommunestyret kan selv når som helst omorganisere eller nedlegge kommunedelsutvalg. Dette gjelder ikke når kommunedelsutvalget er valgt ved direkte valg."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret kan selv når som helst omorganisere eller nedlegge kommunedelsutvalg. Dette gjelder ikke når kommunedelsutvalget er valgt ved direkte valg.</td>\n</tr>",
+        "text": "5.\tKommunestyret kan selv når som helst omorganisere eller nedlegge kommunedelsutvalg. Dette gjelder ikke når kommunedelsutvalget er valgt ved direkte valg."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For gjennomføringen av direkte valg til kommunedelsutvalg gjelder bestemmelsene i valgloven så langt de passer.</td>\n</tr>",
-        "text": "6.For gjennomføringen av direkte valg til kommunedelsutvalg gjelder bestemmelsene i valgloven så langt de passer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For gjennomføringen av direkte valg til kommunedelsutvalg gjelder bestemmelsene i valgloven så langt de passer.</td>\n</tr>",
+        "text": "6.\tFor gjennomføringen av direkte valg til kommunedelsutvalg gjelder bestemmelsene i valgloven så langt de passer."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan i forskrift gi nærmere bestemmelser om direkte valg til kommunedelsutvalg.</td>\n</tr>",
-        "text": "7.Departementet kan i forskrift gi nærmere bestemmelser om direkte valg til kommunedelsutvalg."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan i forskrift gi nærmere bestemmelser om direkte valg til kommunedelsutvalg.</td>\n</tr>",
+        "text": "7.\tDepartementet kan i forskrift gi nærmere bestemmelser om direkte valg til kommunedelsutvalg."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 14 nr. 1 bokstav b skal lyde:",
+        "html": "<a data-id=\"lov/1992-09-25-107/§14\" class=\" reference\" href=\"/lov/1992-09-25-107/%C2%A714\">§ 14</a> nr. 1 bokstav b skal lyde:",
         "text": "§ 14 nr. 1 bokstav b skal lyde:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utelukket fra valg er fylkesmannen, assisterende fylkesmann, og den som i vedkommende kommune eller fylkeskommune er administrasjonssjef eller dennes stedfortreder, er sekretær for kommunestyret eller fylkestinget, har ansvaret for regnskapsfunksjonen i kommunen eller fylkeskommunen, eller foretar revisjon for kommunen eller fylkeskommunen. I kommuner og fylkeskommuner med parlamentarisk styreform er ansatte i sekretariatet til rådet som har fått myndighet delegert fra rådet, ikke valgbare.</td>\n</tr>",
-        "text": "b)Utelukket fra valg er fylkesmannen, assisterende fylkesmann, og den som i vedkommende kommune eller fylkeskommune er administrasjonssjef eller dennes stedfortreder, er sekretær for kommunestyret eller fylkestinget, har ansvaret for regnskapsfunksjonen i kommunen eller fylkeskommunen, eller foretar revisjon for kommunen eller fylkeskommunen. I kommuner og fylkeskommuner med parlamentarisk styreform er ansatte i sekretariatet til rådet som har fått myndighet delegert fra rådet, ikke valgbare."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utelukket fra valg er fylkesmannen, assisterende fylkesmann, og den som i vedkommende kommune eller fylkeskommune er administrasjonssjef eller dennes stedfortreder, er sekretær for kommunestyret eller fylkestinget, har ansvaret for regnskapsfunksjonen i kommunen eller fylkeskommunen, eller foretar revisjon for kommunen eller fylkeskommunen. I kommuner og fylkeskommuner med parlamentarisk styreform er ansatte i sekretariatet til rådet som har fått myndighet delegert fra rådet, ikke valgbare.</td>\n</tr>",
+        "text": "b)\tUtelukket fra valg er fylkesmannen, assisterende fylkesmann, og den som i vedkommende kommune eller fylkeskommune er administrasjonssjef eller dennes stedfortreder, er sekretær for kommunestyret eller fylkestinget, har ansvaret for regnskapsfunksjonen i kommunen eller fylkeskommunen, eller foretar revisjon for kommunen eller fylkeskommunen. I kommuner og fylkeskommuner med parlamentarisk styreform er ansatte i sekretariatet til rådet som har fått myndighet delegert fra rådet, ikke valgbare."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 14 nr. 1 bokstav c første punktum skal lyde:",
+        "html": "<a data-id=\"lov/1992-09-25-107/§14\" class=\" reference\" href=\"/lov/1992-09-25-107/%C2%A714\">§ 14</a> nr. 1 bokstav c første punktum skal lyde:",
         "text": "§ 14 nr. 1 bokstav c første punktum skal lyde:"
     },
     {

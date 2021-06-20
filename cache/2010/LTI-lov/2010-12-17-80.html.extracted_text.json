@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.16 L (2010–2011), Innst.141 L (2010–2011), Lovvedtak 35 (2010–2011). Stortingets første og andre gongs behandling hv. 13. og 17. desember 2010. Fremja av Arbeidsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-16-l-201011\" class=\" reference\" href=\"/forarbeid/prop-16-l-201011\">Prop.16 L (2010–2011)</a>, <a data-id=\"forarbeid/inns-141-l-201011\" class=\" reference\" href=\"/forarbeid/inns-141-l-201011\">Innst.141 L (2010–2011)</a>, <a data-id=\"forarbeid/lovvedtak-35-201011\" class=\" reference\" href=\"/forarbeid/lovvedtak-35-201011\">Lovvedtak 35 (2010–2011)</a>. Stortingets første og andre gongs behandling hv. 13. og 17. desember 2010. Fremja av Arbeidsdepartementet.",
         "text": "Prop.16 L (2010–2011), Innst.141 L (2010–2011), Lovvedtak 35 (2010–2011). Stortingets første og andre gongs behandling hv. 13. og 17. desember 2010. Fremja av Arbeidsdepartementet."
     },
     {
@@ -13,21 +13,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).</td>\n</tr>",
-        "text": "1Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td>\n</tr>",
+        "text": "1\tLov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven).</td>\n</tr>",
-        "text": "2Lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2004-12-10-76\" class=\" reference\" href=\"/lov/2004-12-10-76\">Lov 10. desember 2004 nr. 76</a> om arbeidsmarkedstjenester (arbeidsmarkedsloven).</td>\n</tr>",
+        "text": "2\tLov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltingen.</td>\n</tr>",
-        "text": "3Lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltingen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2009-12-18-131\" class=\" reference\" href=\"/lov/2009-12-18-131\">Lov 18. desember 2009 nr. 131</a> om sosiale tjenester i arbeids- og velferdsforvaltingen.</td>\n</tr>",
+        "text": "3\tLov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltingen."
     },
     {
         "tag": "h2",
@@ -38,7 +38,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 28. februar 1997 nr. 19 om folketrygd skal desse endringane gjerast:",
+        "html": "I <a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">lov 28. februar 1997 nr. 19</a> om folketrygd skal desse endringane gjerast:",
         "text": "I lov 28. februar 1997 nr. 19 om folketrygd skal desse endringane gjerast:"
     },
     {
@@ -67,15 +67,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i det siste avsluttede kalenderåret før det søkes om stønad ha hatt en brutto arbeidsinntekt som minst svarer til 1,5 ganger grunnbeløpet på søknadstidspunktet, eller</td>\n</tr>",
-        "text": "a)i det siste avsluttede kalenderåret før det søkes om stønad ha hatt en brutto arbeidsinntekt som minst svarer til 1,5 ganger grunnbeløpet på søknadstidspunktet, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i det siste avsluttede kalenderåret før det søkes om stønad ha hatt en brutto arbeidsinntekt som minst svarer til 1,5 ganger grunnbeløpet på søknadstidspunktet, eller</td>\n</tr>",
+        "text": "a)\ti det siste avsluttede kalenderåret før det søkes om stønad ha hatt en brutto arbeidsinntekt som minst svarer til 1,5 ganger grunnbeløpet på søknadstidspunktet, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i løpet av de siste tre avsluttede kalenderårene før det søkes om stønad ha hatt en brutto arbeidsinntekt som minst svarer til 3 ganger grunnbeløpet på søknadstidspunktet.</td>\n</tr>",
-        "text": "b)i løpet av de siste tre avsluttede kalenderårene før det søkes om stønad ha hatt en brutto arbeidsinntekt som minst svarer til 3 ganger grunnbeløpet på søknadstidspunktet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i løpet av de siste tre avsluttede kalenderårene før det søkes om stønad ha hatt en brutto arbeidsinntekt som minst svarer til 3 ganger grunnbeløpet på søknadstidspunktet.</td>\n</tr>",
+        "text": "b)\ti løpet av de siste tre avsluttede kalenderårene før det søkes om stønad ha hatt en brutto arbeidsinntekt som minst svarer til 3 ganger grunnbeløpet på søknadstidspunktet."
     },
     {
         "tag": "p",
@@ -122,7 +122,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Retten til dagpenger faller også bort når medlemmet mottar ugradert avtalefestet pensjon, unntatt pensjon etter AFP-tilskottsloven kapittel 2 og 3.",
+        "html": "Retten til dagpenger faller også bort når medlemmet mottar ugradert avtalefestet pensjon, unntatt pensjon etter <a data-id=\"lov/2010-02-19-5/kap2\" class=\" reference\" href=\"/lov/2010-02-19-5/kap2\">AFP-tilskottsloven kapittel 2</a> og 3.",
         "text": "Retten til dagpenger faller også bort når medlemmet mottar ugradert avtalefestet pensjon, unntatt pensjon etter AFP-tilskottsloven kapittel 2 og 3."
     },
     {
@@ -151,9 +151,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vartpenger etter lov 28. juli 1949 nr. 26 om Statens Pensjonskasse,</td>\n</tr>",
-        "text": "d)vartpenger etter lov 28. juli 1949 nr. 26 om Statens Pensjonskasse,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vartpenger etter <a data-id=\"lov/1949-07-28-26\" class=\" reference\" href=\"/lov/1949-07-28-26\">lov 28. juli 1949 nr. 26</a> om Statens Pensjonskasse,</td>\n</tr>",
+        "text": "d)\tvartpenger etter lov 28. juli 1949 nr. 26 om Statens Pensjonskasse,"
     },
     {
         "tag": "p",
@@ -236,7 +236,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det ytes ikke sykepenger til et medlem som mottar ugradert avtalefestet pensjon. Til et medlem som mottar avtalefestet pensjon etter AFP-tilskottsloven kapittel 2 og 3 (ny ordning), ytes det likevel sykepenger etter reglene i § 8-51. Det samme gjelder et medlem over 65 år som arbeider i privat sektor og som har avtalefestet pensjon fra kommunal pensjonsordning beregnet som tjenestepensjon.",
+        "html": "Det ytes ikke sykepenger til et medlem som mottar ugradert avtalefestet pensjon. Til et medlem som mottar avtalefestet pensjon etter <a data-id=\"lov/2010-02-19-5/kap2\" class=\" reference\" href=\"/lov/2010-02-19-5/kap2\">AFP-tilskottsloven kapittel 2</a> og 3 (ny ordning), ytes det likevel sykepenger etter reglene i § 8-51. Det samme gjelder et medlem over 65 år som arbeider i privat sektor og som har avtalefestet pensjon fra kommunal pensjonsordning beregnet som tjenestepensjon.",
         "text": "Det ytes ikke sykepenger til et medlem som mottar ugradert avtalefestet pensjon. Til et medlem som mottar avtalefestet pensjon etter AFP-tilskottsloven kapittel 2 og 3 (ny ordning), ytes det likevel sykepenger etter reglene i § 8-51. Det samme gjelder et medlem over 65 år som arbeider i privat sektor og som har avtalefestet pensjon fra kommunal pensjonsordning beregnet som tjenestepensjon."
     },
     {
@@ -259,21 +259,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tidligere har mottatt arbeidsavklaringspenger og som innen seks måneder igjen blir arbeidsufør som følge av en annen sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående,</td>\n</tr>",
-        "text": "a)tidligere har mottatt arbeidsavklaringspenger og som innen seks måneder igjen blir arbeidsufør som følge av en annen sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tidligere har mottatt arbeidsavklaringspenger og som innen seks måneder igjen blir arbeidsufør som følge av en annen sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående,</td>\n</tr>",
+        "text": "a)\ttidligere har mottatt arbeidsavklaringspenger og som innen seks måneder igjen blir arbeidsufør som følge av en annen sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tidligere har mottatt arbeidsavklaringspenger og som innen ett år igjen blir arbeidsufør som følge av samme sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående, eller</td>\n</tr>",
-        "text": "b)tidligere har mottatt arbeidsavklaringspenger og som innen ett år igjen blir arbeidsufør som følge av samme sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tidligere har mottatt arbeidsavklaringspenger og som innen ett år igjen blir arbeidsufør som følge av samme sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående, eller</td>\n</tr>",
+        "text": "b)\ttidligere har mottatt arbeidsavklaringspenger og som innen ett år igjen blir arbeidsufør som følge av samme sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tidligere har mottatt sykepenger etter kapittel 8 i til sammen 248, 250 eller 260 sykepengedager i løpet av de siste tre årene (§ 8-12), og igjen blir arbeidsufør mens vedkommende er i arbeid.</td>\n</tr>",
-        "text": "c)tidligere har mottatt sykepenger etter kapittel 8 i til sammen 248, 250 eller 260 sykepengedager i løpet av de siste tre årene (§ 8-12), og igjen blir arbeidsufør mens vedkommende er i arbeid."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tidligere har mottatt sykepenger etter kapittel 8 i til sammen 248, 250 eller 260 sykepengedager i løpet av de siste tre årene (§ 8-12), og igjen blir arbeidsufør mens vedkommende er i arbeid.</td>\n</tr>",
+        "text": "c)\ttidligere har mottatt sykepenger etter kapittel 8 i til sammen 248, 250 eller 260 sykepengedager i løpet av de siste tre årene (§ 8-12), og igjen blir arbeidsufør mens vedkommende er i arbeid."
     },
     {
         "tag": "p",
@@ -325,9 +325,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetaling av grunnstønad og hjelpestønad til barn i fosterheim står i § 22-3 b</td>\n</tr>",
-        "text": "-utbetaling av grunnstønad og hjelpestønad til barn i fosterheim står i § 22-3 b"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetaling av grunnstønad og hjelpestønad til barn i fosterheim står i § 22-3 b</td>\n</tr>",
+        "text": "-\tutbetaling av grunnstønad og hjelpestønad til barn i fosterheim står i § 22-3 b"
     },
     {
         "tag": "p",
@@ -350,7 +350,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Grunnstønad og hjelpestønad til barn som er plassert i fosterhjem etter barnevernloven § 4-14, utbetales til fosterforeldrene. Ved plassering i midlertidig hjem i påvente av fosterhjemsplassering, skjer utbetaling til barnevernet.",
+        "html": "Grunnstønad og hjelpestønad til barn som er plassert i fosterhjem etter <a data-id=\"lov/1992-07-17-100/§4-14\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-14\">barnevernloven § 4-14</a>, utbetales til fosterforeldrene. Ved plassering i midlertidig hjem i påvente av fosterhjemsplassering, skjer utbetaling til barnevernet.",
         "text": "Grunnstønad og hjelpestønad til barn som er plassert i fosterhjem etter barnevernloven § 4-14, utbetales til fosterforeldrene. Ved plassering i midlertidig hjem i påvente av fosterhjemsplassering, skjer utbetaling til barnevernet."
     },
     {
@@ -374,7 +374,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester skal desse endringane gjerast:",
+        "html": "I <a data-id=\"lov/2004-12-10-76\" class=\" reference\" href=\"/lov/2004-12-10-76\">lov 10. desember 2004 nr. 76</a> om arbeidsmarkedstjenester skal desse endringane gjerast:",
         "text": "I lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester skal desse endringane gjerast:"
     },
     {
@@ -410,7 +410,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltingen skal desse endringane gjerast:",
+        "html": "I <a data-id=\"lov/2009-12-18-131\" class=\" reference\" href=\"/lov/2009-12-18-131\">lov 18. desember 2009 nr. 131</a> om sosiale tjenester i arbeids- og velferdsforvaltingen skal desse endringane gjerast:",
         "text": "I lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltingen skal desse endringane gjerast:"
     },
     {

@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.27 (2007–2008), Innst.O.nr.37 (2007–2008) og Besl.O.nr.77 (2007–2008). Odels- og lagtingsvedtak hhv. 6. og 20. mai 2008. Fremja av Nærings- og handelsdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-27-200708\" class=\" reference\" href=\"/forarbeid/otprp-27-200708\">Ot.prp.nr.27 (2007–2008)</a>, <a data-id=\"forarbeid/inns-o-37-200708\" class=\" reference\" href=\"/forarbeid/inns-o-37-200708\">Innst.O.nr.37 (2007–2008)</a> og <a data-id=\"forarbeid/besl-o-77-200708\" class=\" reference\" href=\"/forarbeid/besl-o-77-200708\">Besl.O.nr.77 (2007–2008)</a>. Odels- og lagtingsvedtak hhv. 6. og 20. mai 2008. Fremja av Nærings- og handelsdepartementet.",
         "text": "Ot.prp.nr.27 (2007–2008), Innst.O.nr.37 (2007–2008) og Besl.O.nr.77 (2007–2008). Odels- og lagtingsvedtak hhv. 6. og 20. mai 2008. Fremja av Nærings- og handelsdepartementet."
     },
     {
@@ -13,9 +13,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljølova).</td>\n</tr>",
-        "text": "1Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljølova)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljølova).</td>\n</tr>",
+        "text": "1\tLov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljølova)."
     },
     null,
     {
@@ -58,7 +58,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lova gjeld ikkje dersom bedrifta skal flytte innanfor den same fylkeskommunen eller dersom bedrifta vert handsama etter lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs.",
+        "html": "Lova gjeld ikkje dersom bedrifta skal flytte innanfor den same fylkeskommunen eller dersom bedrifta vert handsama etter <a data-id=\"lov/1984-06-08-58\" class=\" reference\" href=\"/lov/1984-06-08-58\">lov 8. juni 1984 nr. 58</a> om gjeldsforhandling og konkurs.",
         "text": "Lova gjeld ikkje dersom bedrifta skal flytte innanfor den same fylkeskommunen eller dersom bedrifta vert handsama etter lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs."
     },
     {
@@ -83,7 +83,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Eigaren av ei bedrift som er omfatta av § 2, skal sende melding til fylkeskommunen der bedrifta ligg, om planane om nedlegging.",
+        "html": "Eigaren av ei bedrift som er omfatta av <a data-id=\"lov/2008-06-06-38/§2\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A72\">§ 2</a>, skal sende melding til fylkeskommunen der bedrifta ligg, om planane om nedlegging.",
         "text": "Eigaren av ei bedrift som er omfatta av § 2, skal sende melding til fylkeskommunen der bedrifta ligg, om planane om nedlegging."
     },
     {
@@ -94,50 +94,50 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">talet på tilsette som arbeider ved bedrifta</td>\n</tr>",
-        "text": "a)talet på tilsette som arbeider ved bedrifta"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">talet på tilsette som arbeider ved bedrifta</td>\n</tr>",
+        "text": "a)\ttalet på tilsette som arbeider ved bedrifta"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon om verksemda ved bedrifta</td>\n</tr>",
-        "text": "b)informasjon om verksemda ved bedrifta"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon om verksemda ved bedrifta</td>\n</tr>",
+        "text": "b)\tinformasjon om verksemda ved bedrifta"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ei vurdering av konsekvensane for dei tilsette og lokalsamfunnet om bedrifta vert lagd ned</td>\n</tr>",
-        "text": "c)ei vurdering av konsekvensane for dei tilsette og lokalsamfunnet om bedrifta vert lagd ned"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ei vurdering av konsekvensane for dei tilsette og lokalsamfunnet om bedrifta vert lagd ned</td>\n</tr>",
+        "text": "c)\tei vurdering av konsekvensane for dei tilsette og lokalsamfunnet om bedrifta vert lagd ned"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bakgrunnen for planane om nedlegging</td>\n</tr>",
-        "text": "d)bakgrunnen for planane om nedlegging"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bakgrunnen for planane om nedlegging</td>\n</tr>",
+        "text": "d)\tbakgrunnen for planane om nedlegging"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon om kva vurderingar eigaren eller andre har gjort om alternativ verksemd for bedrifta</td>\n</tr>",
-        "text": "e)informasjon om kva vurderingar eigaren eller andre har gjort om alternativ verksemd for bedrifta"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon om kva vurderingar eigaren eller andre har gjort om alternativ verksemd for bedrifta</td>\n</tr>",
+        "text": "e)\tinformasjon om kva vurderingar eigaren eller andre har gjort om alternativ verksemd for bedrifta"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ei vurdering av kva som må til for at verksemda i bedrifta kan halde fram</td>\n</tr>",
-        "text": "f)ei vurdering av kva som må til for at verksemda i bedrifta kan halde fram"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ei vurdering av kva som må til for at verksemda i bedrifta kan halde fram</td>\n</tr>",
+        "text": "f)\tei vurdering av kva som må til for at verksemda i bedrifta kan halde fram"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon om det har vore forhandlingar med dei tilsette om nedlegginga</td>\n</tr>",
-        "text": "g)informasjon om det har vore forhandlingar med dei tilsette om nedlegginga"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjon om det har vore forhandlingar med dei tilsette om nedlegginga</td>\n</tr>",
+        "text": "g)\tinformasjon om det har vore forhandlingar med dei tilsette om nedlegginga"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Meldinga skal også innehalde annan informasjon som er nødvendig for at drøftingane etter § 5 kan ta til. Fylkeskommunen kan be eigaren om meir informasjon i tillegg til eller til utdjuping av informasjonen som er gitt etter andre ledd.",
+        "html": "Meldinga skal også innehalde annan informasjon som er nødvendig for at drøftingane etter <a data-id=\"lov/2008-06-06-38/§5\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A75\">§ 5</a> kan ta til. Fylkeskommunen kan be eigaren om meir informasjon i tillegg til eller til utdjuping av informasjonen som er gitt etter andre ledd.",
         "text": "Meldinga skal også innehalde annan informasjon som er nødvendig for at drøftingane etter § 5 kan ta til. Fylkeskommunen kan be eigaren om meir informasjon i tillegg til eller til utdjuping av informasjonen som er gitt etter andre ledd."
     },
     null,
@@ -156,7 +156,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Bedrifta kan ikkje treffe endeleg avgjerd om nedlegging før 30 dagar etter at fylkeskommunen har fått meldinga etter § 3. Dersom det er aktuelle alternativ til å legge ned bedrifta, kan fylkeskommunen i særlege tilfelle forlengje denne perioden med inntil 30 dagar.",
+        "html": "Bedrifta kan ikkje treffe endeleg avgjerd om nedlegging før 30 dagar etter at fylkeskommunen har fått meldinga etter <a data-id=\"lov/2008-06-06-38/§3\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A73\">§ 3</a>. Dersom det er aktuelle alternativ til å legge ned bedrifta, kan fylkeskommunen i særlege tilfelle forlengje denne perioden med inntil 30 dagar.",
         "text": "Bedrifta kan ikkje treffe endeleg avgjerd om nedlegging før 30 dagar etter at fylkeskommunen har fått meldinga etter § 3. Dersom det er aktuelle alternativ til å legge ned bedrifta, kan fylkeskommunen i særlege tilfelle forlengje denne perioden med inntil 30 dagar."
     },
     null,
@@ -175,7 +175,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når fylkeskommunen har mottatt melding etter § 3, skal den så snart som mogleg kalle inn representantar for eigaren, leiinga og dei tilsette i bedrifta, kommunen, Innovasjon Noreg og Arbeids- og velferdsetaten til drøftingsmøte. Fylkeskommunen kan også kalle inn andre til møtet.",
+        "html": "Når fylkeskommunen har mottatt melding etter <a data-id=\"lov/2008-06-06-38/§3\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A73\">§ 3</a>, skal den så snart som mogleg kalle inn representantar for eigaren, leiinga og dei tilsette i bedrifta, kommunen, Innovasjon Noreg og Arbeids- og velferdsetaten til drøftingsmøte. Fylkeskommunen kan også kalle inn andre til møtet.",
         "text": "Når fylkeskommunen har mottatt melding etter § 3, skal den så snart som mogleg kalle inn representantar for eigaren, leiinga og dei tilsette i bedrifta, kommunen, Innovasjon Noreg og Arbeids- og velferdsetaten til drøftingsmøte. Fylkeskommunen kan også kalle inn andre til møtet."
     },
     {
@@ -187,13 +187,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom det er heilt klart at drøftingane ikkje vil føre fram, skal fylkeskommunen så snart som mogleg melde frå til alle deltakarane om at drøftinga er avslutta, sjølv om perioden etter § 4 første ledd ikkje er omme.",
+        "html": "Dersom det er heilt klart at drøftingane ikkje vil føre fram, skal fylkeskommunen så snart som mogleg melde frå til alle deltakarane om at drøftinga er avslutta, sjølv om perioden etter <a data-id=\"lov/2008-06-06-38/§4\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A74\">§ 4</a> første ledd ikkje er omme.",
         "text": "Dersom det er heilt klart at drøftingane ikkje vil føre fram, skal fylkeskommunen så snart som mogleg melde frå til alle deltakarane om at drøftinga er avslutta, sjølv om perioden etter § 4 første ledd ikkje er omme."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Alle som deltek i behandlinga av meldingar etter denne lova, skal ha teieplikt etter reglane i forvaltningslova §§ 13 til 13 e.",
+        "html": "Alle som deltek i behandlinga av meldingar etter denne lova, skal ha teieplikt etter reglane i <a data-id=\"lov/1967-02-10/§13\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713\">forvaltningslova §§ 13</a> til <a data-id=\"lov/1967-02-10/§13e\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713e\">13 e</a>.",
         "text": "Alle som deltek i behandlinga av meldingar etter denne lova, skal ha teieplikt etter reglane i forvaltningslova §§ 13 til 13 e."
     },
     null,
@@ -212,7 +212,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Etter at det er sendt melding etter § 3 til fylkeskommunen og fram til drøftingane er avslutta etter § 5 eller perioden på 30 dagar etter § 4 er omme, kan eigaren ikkje gjere rettslege eller faktiske disposisjonar som vesentleg svekkjer verdien av bedrifta.",
+        "html": "Etter at det er sendt melding etter <a data-id=\"lov/2008-06-06-38/§3\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A73\">§ 3</a> til fylkeskommunen og fram til drøftingane er avslutta etter <a data-id=\"lov/2008-06-06-38/§5\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A75\">§ 5</a> eller perioden på 30 dagar etter <a data-id=\"lov/2008-06-06-38/§4\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A74\">§ 4</a> er omme, kan eigaren ikkje gjere rettslege eller faktiske disposisjonar som vesentleg svekkjer verdien av bedrifta.",
         "text": "Etter at det er sendt melding etter § 3 til fylkeskommunen og fram til drøftingane er avslutta etter § 5 eller perioden på 30 dagar etter § 4 er omme, kan eigaren ikkje gjere rettslege eller faktiske disposisjonar som vesentleg svekkjer verdien av bedrifta."
     },
     {
@@ -237,7 +237,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom den ansvarlege ikkje oppfyller pliktene etter §§ 3, 4 og 6 eller forskrift eller enkeltvedtak som er fastsett i medhald av desse føresegnene, kan fylkeskommunen påleggje den ansvarlege ei tvangsmulkt.",
+        "html": "Dersom den ansvarlege ikkje oppfyller pliktene etter <a data-id=\"lov/2008-06-06-38/§3\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A73\">§§ 3</a>, <a data-id=\"lov/2008-06-06-38/§4\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A74\">4</a> og <a data-id=\"lov/2008-06-06-38/§6\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A76\">6</a> eller forskrift eller enkeltvedtak som er fastsett i medhald av desse føresegnene, kan fylkeskommunen påleggje den ansvarlege ei tvangsmulkt.",
         "text": "Dersom den ansvarlege ikkje oppfyller pliktene etter §§ 3, 4 og 6 eller forskrift eller enkeltvedtak som er fastsett i medhald av desse føresegnene, kan fylkeskommunen påleggje den ansvarlege ei tvangsmulkt."
     },
     {
@@ -280,13 +280,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fylkeskommunen kan ved brot på § 4 påleggje eit lovbrotsgebyr til staten. Kongen gir i forskrift føresegner om storleiken på gebyret.",
+        "html": "Fylkeskommunen kan ved brot på <a data-id=\"lov/2008-06-06-38/§4\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A74\">§ 4</a> påleggje eit lovbrotsgebyr til staten. Kongen gir i forskrift føresegner om storleiken på gebyret.",
         "text": "Fylkeskommunen kan ved brot på § 4 påleggje eit lovbrotsgebyr til staten. Kongen gir i forskrift føresegner om storleiken på gebyret."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lovbrotsgebyrer vert pålagt den som etter § 3 har plikt til å sende melding til fylkeskommunen. Kongen kan gi reglar om auka gebyr ved gjentekne brot på pliktene. Fylkeskommunen kan i særlege tilfelle gje opp kravet om lovbrotsgebyr.",
+        "html": "Lovbrotsgebyrer vert pålagt den som etter <a data-id=\"lov/2008-06-06-38/§3\" class=\" reference\" href=\"/lov/2008-06-06-38/%C2%A73\">§ 3</a> har plikt til å sende melding til fylkeskommunen. Kongen kan gi reglar om auka gebyr ved gjentekne brot på pliktene. Fylkeskommunen kan i særlege tilfelle gje opp kravet om lovbrotsgebyr.",
         "text": "Lovbrotsgebyrer vert pålagt den som etter § 3 har plikt til å sende melding til fylkeskommunen. Kongen kan gi reglar om auka gebyr ved gjentekne brot på pliktene. Fylkeskommunen kan i særlege tilfelle gje opp kravet om lovbrotsgebyr."
     },
     {
@@ -342,7 +342,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "1. I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljølova) blir det gjort følgjande endringar:",
+        "html": "1. I <a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljølova) blir det gjort følgjande endringar:",
         "text": "1. I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljølova) blir det gjort følgjande endringar:"
     },
     {

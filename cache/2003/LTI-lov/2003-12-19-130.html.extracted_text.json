@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.14 (2003–2004), Innst.O.nr.30 (2003–2004) og Besl.O.nr.43 (2003–2004). Odels- og lagtingsvedtak hhv. 11. og 15. desember 2003. Fremmet av Nærings- og handelsdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-14-200304\" class=\" reference\" href=\"/forarbeid/otprp-14-200304\">Ot.prp.nr.14 (2003–2004)</a>, <a data-id=\"forarbeid/inns-o-30-200304\" class=\" reference\" href=\"/forarbeid/inns-o-30-200304\">Innst.O.nr.30 (2003–2004)</a> og <a data-id=\"forarbeid/besl-o-43-200304\" class=\" reference\" href=\"/forarbeid/besl-o-43-200304\">Besl.O.nr.43 (2003–2004)</a>. Odels- og lagtingsvedtak hhv. 11. og 15. desember 2003. Fremmet av Nærings- og handelsdepartementet.",
         "text": "Ot.prp.nr.14 (2003–2004), Innst.O.nr.30 (2003–2004) og Besl.O.nr.43 (2003–2004). Odels- og lagtingsvedtak hhv. 11. og 15. desember 2003. Fremmet av Nærings- og handelsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 3. juli 1992 nr. 97 om Statens nærings- og distriktsutviklingsfond.",
+        "html": "<a data-id=\"lov/1992-07-03-97\" class=\" reference\" href=\"/lov/1992-07-03-97\">Lov av 3. juli 1992 nr. 97</a> om Statens nærings- og distriktsutviklingsfond.",
         "text": "Lov av 3. juli 1992 nr. 97 om Statens nærings- og distriktsutviklingsfond."
     },
     {
@@ -25,21 +25,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov av 19. juni 1997 nr. 79 om verdipapirhandel.</td>\n</tr>",
-        "text": "1Lov av 19. juni 1997 nr. 79 om verdipapirhandel."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-06-19-79\" class=\" reference\" href=\"/lov/1997-06-19-79\">Lov av 19. juni 1997 nr. 79</a> om verdipapirhandel.</td>\n</tr>",
+        "text": "1\tLov av 19. juni 1997 nr. 79 om verdipapirhandel."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov av 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven).</td>\n</tr>",
-        "text": "2Lov av 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov av 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td>\n</tr>",
+        "text": "2\tLov av 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov av 3. mai 2002 nr. 13 om utenrikstjenesten.</td>\n</tr>",
-        "text": "3Lov av 3. mai 2002 nr. 13 om utenrikstjenesten."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2002-05-03-13\" class=\" reference\" href=\"/lov/2002-05-03-13\">Lov av 3. mai 2002 nr. 13</a> om utenrikstjenesten.</td>\n</tr>",
+        "text": "3\tLov av 3. mai 2002 nr. 13 om utenrikstjenesten."
     },
     {
         "tag": "h2",
@@ -47,6 +47,7 @@
         "html": "Kapittel 1. Alminnelige bestemmelser",
         "text": "Kapittel 1. Alminnelige bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -73,6 +74,7 @@
         "text": "Kongen kan bestemme at loven helt eller delvis skal gjelde for Svalbard."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -91,6 +93,7 @@
         "html": "Selskapet eies av staten alene.",
         "text": "Selskapet eies av staten alene."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -111,6 +114,7 @@
         "text": "Selskapet har selv rettigheter og forpliktelser, er part i avtaler med private og offentlige myndigheter og har partsstilling overfor domstol og andre myndigheter."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -130,6 +134,7 @@
         "text": "Selskapet skal ha vedtekter. Vedtektene og endringer i vedtektene vedtas av foretaksmøtet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -148,6 +153,7 @@
         "html": "Selskapet skal meldes til Foretaksregisteret.",
         "text": "Selskapet skal meldes til Foretaksregisteret."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -176,19 +182,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner gjelder ikke for selskapet.",
+        "html": "<a data-id=\"lov/1988-06-10-40\" class=\" reference\" href=\"/lov/1988-06-10-40\">Lov 10. juni 1988 nr. 40</a> om finansieringsvirksomhet og finansinstitusjoner gjelder ikke for selskapet.",
         "text": "Lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner gjelder ikke for selskapet."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 18. juli 1958 nr. 2 om offentlige tjenestetvister (tjenestetvistloven) og lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. (tjenestemannsloven) gjelder ikke for ansatte i selskapet.",
+        "html": "<a data-id=\"lov/1958-07-18-2\" class=\" reference\" href=\"/lov/1958-07-18-2\">Lov 18. juli 1958 nr. 2</a> om offentlige tjenestetvister (tjenestetvistloven) og <a data-id=\"lov/1983-03-04-3\" class=\" reference\" href=\"/lov/1983-03-04-3\">lov 4. mars 1983 nr. 3</a> om statens tjenestemenn m.m. (tjenestemannsloven) gjelder ikke for ansatte i selskapet.",
         "text": "Lov 18. juli 1958 nr. 2 om offentlige tjenestetvister (tjenestetvistloven) og lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. (tjenestemannsloven) gjelder ikke for ansatte i selskapet."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Selskapet regnes som offentlig organ etter lov 4. desember 1992 nr. 126 om arkiv § 2 bokstav g.",
+        "html": "Selskapet regnes som offentlig organ etter <a data-id=\"lov/1992-12-04-126\" class=\" reference\" href=\"/lov/1992-12-04-126\">lov 4. desember 1992 nr. 126</a> om arkiv <a data-id=\"lov/1992-12-04-126/§2\" class=\" reference\" href=\"/lov/1992-12-04-126/%C2%A72\">§ 2</a> bokstav g.",
         "text": "Selskapet regnes som offentlig organ etter lov 4. desember 1992 nr. 126 om arkiv § 2 bokstav g."
     },
     {
@@ -197,6 +203,7 @@
         "html": "Kapittel 2. Selskapets finansiering m.m.",
         "text": "Kapittel 2. Selskapets finansiering m.m."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -217,6 +224,7 @@
         "text": "Statens innskudd ved opprettelsen av selskapet fastsettes i stiftelsesdokumentet og vedtas av foretaksmøtet. Senere endringer av innskuddet vedtas av foretaksmøtet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -235,6 +243,7 @@
         "html": "Selskapet kan finansiere sin virksomhet ved lån og tilskudd fra staten, fylkeskommunene og andre offentlige aktører. Videre kan selskapet ha inntekter fra næringslivet og andre private aktører. Den aktør som yter lån eller tilskudd til selskapet, kan fastsette nærmere vilkår for bruk av midlene.",
         "text": "Selskapet kan finansiere sin virksomhet ved lån og tilskudd fra staten, fylkeskommunene og andre offentlige aktører. Videre kan selskapet ha inntekter fra næringslivet og andre private aktører. Den aktør som yter lån eller tilskudd til selskapet, kan fastsette nærmere vilkår for bruk av midlene."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -258,7 +267,7 @@
         "tag": "p",
         "class": "avsnitt",
         "html": "Ved oppløsning av selskapet plikter staten å skyte inn midler i selskapet i den utstrekning det er nødvendig for å gi øvrige  fordringshavere dekning.",
-        "text": "Ved oppløsning av selskapet plikter staten å skyte inn midler i selskapet i den utstrekning det er nødvendig for å gi øvrige fordringshavere dekning."
+        "text": "Ved oppløsning av selskapet plikter staten å skyte inn midler i selskapet i den utstrekning det er nødvendig for å gi øvrige  fordringshavere dekning."
     },
     {
         "tag": "h2",
@@ -266,6 +275,7 @@
         "html": "Kapittel 3. Selskapets virksomhet",
         "text": "Kapittel 3. Selskapets virksomhet"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -282,32 +292,32 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For å fremme formål som nevnt i § 1, kan selskapets midler brukes til:",
+        "html": "For å fremme formål som nevnt i <a data-id=\"lov/2003-12-19-130/§1\" class=\" reference\" href=\"/lov/2003-12-19-130/%C2%A71\">§ 1</a>, kan selskapets midler brukes til:",
         "text": "For å fremme formål som nevnt i § 1, kan selskapets midler brukes til:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Finansiering, herunder tilskudds-, låne-, garanti- og egenkapitalordninger</td>\n</tr>",
-        "text": "1.Finansiering, herunder tilskudds-, låne-, garanti- og egenkapitalordninger"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Finansiering, herunder tilskudds-, låne-, garanti- og egenkapitalordninger</td>\n</tr>",
+        "text": "1.\tFinansiering, herunder tilskudds-, låne-, garanti- og egenkapitalordninger"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Rådgivning og kompetansehevende tiltak</td>\n</tr>",
-        "text": "2.Rådgivning og kompetansehevende tiltak"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Rådgivning og kompetansehevende tiltak</td>\n</tr>",
+        "text": "2.\tRådgivning og kompetansehevende tiltak"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Nettverk og infrastruktur</td>\n</tr>",
-        "text": "3.Nettverk og infrastruktur"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Nettverk og infrastruktur</td>\n</tr>",
+        "text": "3.\tNettverk og infrastruktur"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Profilering av norsk næringsliv i utlandet</td>\n</tr>",
-        "text": "4.Profilering av norsk næringsliv i utlandet"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Profilering av norsk næringsliv i utlandet</td>\n</tr>",
+        "text": "4.\tProfilering av norsk næringsliv i utlandet"
     },
     {
         "tag": "p",
@@ -318,9 +328,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For å fremme formålet i § 1 kan Kongen tillegge selskapet å utføre oppgaver knyttet til forvaltningen av andre statlige nærings-, handels- og regionalpolitiske virkemidler, og kan i denne forbindelse fastsette nærmere regler om utøvelsen av slike oppgaver.",
+        "html": "For å fremme formålet i <a data-id=\"lov/2003-12-19-130/§1\" class=\" reference\" href=\"/lov/2003-12-19-130/%C2%A71\">§ 1</a> kan Kongen tillegge selskapet å utføre oppgaver knyttet til forvaltningen av andre statlige nærings-, handels- og regionalpolitiske virkemidler, og kan i denne forbindelse fastsette nærmere regler om utøvelsen av slike oppgaver.",
         "text": "For å fremme formålet i § 1 kan Kongen tillegge selskapet å utføre oppgaver knyttet til forvaltningen av andre statlige nærings-, handels- og regionalpolitiske virkemidler, og kan i denne forbindelse fastsette nærmere regler om utøvelsen av slike oppgaver."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -340,6 +351,7 @@
         "html": "Selskapet skal ha en organisering som er tilpasset ulike behov i regionene. Selskapet skal samarbeide med fylkeskommunene og andre aktører på regionalt nivå. Samarbeidet reguleres nærmere gjennom egne avtaler mellom selskapet og den enkelte aktør.",
         "text": "Selskapet skal ha en organisering som er tilpasset ulike behov i regionene. Selskapet skal samarbeide med fylkeskommunene og andre aktører på regionalt nivå. Samarbeidet reguleres nærmere gjennom egne avtaler mellom selskapet og den enkelte aktør."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -366,6 +378,7 @@
         "text": "Kapittel 4. Styre og administrerende direktør"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -384,6 +397,7 @@
         "html": "Selskapet ledes av et styre og en administrerende direktør.",
         "text": "Selskapet ledes av et styre og en administrerende direktør."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -418,7 +432,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene i aksjeloven § 20-6 om representasjon av begge kjønn i styret gjelder tilsvarende.",
+        "html": "Reglene i <a data-id=\"lov/1997-06-13-44/§20-6\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A720-6\">aksjeloven § 20-6</a> om representasjon av begge kjønn i styret gjelder tilsvarende.",
         "text": "Reglene i aksjeloven § 20-6 om representasjon av begge kjønn i styret gjelder tilsvarende."
     },
     {
@@ -439,6 +453,7 @@
         "html": "Styret skal ha en leder og nestleder som velges av foretaksmøtet.",
         "text": "Styret skal ha en leder og nestleder som velges av foretaksmøtet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -465,6 +480,7 @@
         "text": "Et styremedlem blir stående inntil nytt styremedlem blir valgt selv om tjenestetiden er utløpt."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -490,6 +506,7 @@
         "text": "Opphører vervet for et styremedlem før utløpet av tjenestetiden og vararepresentant for ham eller henne ikke er utnevnt, skal foretaksmøtet velge et nytt styremedlem for resten av perioden. Valget kan likevel utstå til neste ordinære foretaksmøte dersom styret er vedtaksført med de gjenværende medlemmer og vararepresentanter."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -514,6 +531,7 @@
         "html": "I vedtektene kan det bestemmes at visse saker skal avgjøres av styret.",
         "text": "I vedtektene kan det bestemmes at visse saker skal avgjøres av styret."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -546,6 +564,7 @@
         "text": "Ved styremøtene skal det føres protokoll som underskrives av samtlige tilstedeværende styremedlemmer. Dersom styremedlem eller administrerende direktør er uenig i styrets beslutning, kan de kreve sin oppfatning innført i protokollen. Protokollen skal snarest, og senest fjorten dager etter at styremøte er avholdt, sendes departementet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -577,6 +596,7 @@
         "text": "Ved valg og ansettelse anses den valgt eller ansatt som får flest stemmer. Styret kan på forhånd bestemme at det skal holdes ny avstemning dersom ingen får flertall av de avgitte stemmer. Står stemmene likt ved valg av møteleder, avgjøres valget ved loddtrekning."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -595,6 +615,7 @@
         "html": "Selskapet skal ha en administrerende direktør som tilsettes av styret. Styret fastsetter også administrerende direktørs lønn. Styret treffer vedtak om å si opp eller avskjedige administrerende direktør.",
         "text": "Selskapet skal ha en administrerende direktør som tilsettes av styret. Styret fastsetter også administrerende direktørs lønn. Styret treffer vedtak om å si opp eller avskjedige administrerende direktør."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -620,6 +641,7 @@
         "html": "Den daglige ledelse omfatter ikke saker som etter selskapets forhold er av uvanlig art eller stor betydning, eller som etter vedtektene eller annet vedtak av foretaksmøtet hører under styret. Slike saker kan administrerende direktør bare avgjøre om styret i enkelte tilfelle har gitt ham eller henne myndighet til det, eller styrets beslutning ikke kan avventes uten vesentlig ulempe for foretakets virksomhet. Styret skal i så fall snarest underrettes om saken.",
         "text": "Den daglige ledelse omfatter ikke saker som etter selskapets forhold er av uvanlig art eller stor betydning, eller som etter vedtektene eller annet vedtak av foretaksmøtet hører under styret. Slike saker kan administrerende direktør bare avgjøre om styret i enkelte tilfelle har gitt ham eller henne myndighet til det, eller styrets beslutning ikke kan avventes uten vesentlig ulempe for foretakets virksomhet. Styret skal i så fall snarest underrettes om saken."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -648,9 +670,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Administrerende direktør representerer selskapet utad i saker som faller innenfor hans eller hennes myndighet etter § 21.",
+        "html": "Administrerende direktør representerer selskapet utad i saker som faller innenfor hans eller hennes myndighet etter <a data-id=\"lov/2003-12-19-130/§21\" class=\" reference\" href=\"/lov/2003-12-19-130/%C2%A721\">§ 21</a>.",
         "text": "Administrerende direktør representerer selskapet utad i saker som faller innenfor hans eller hennes myndighet etter § 21."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -677,6 +700,7 @@
         "text": "Kapittel 5. Habilitet, taushetsplikt m.m."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -696,6 +720,7 @@
         "text": "Selskapet skal ha egne etiske retningslinjer som omhandler selskapet som sådan og de ansattes virke på vegne av selskapet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -714,6 +739,7 @@
         "html": "Den som er ansatt eller har tillitsverv i selskapet må ikke delta i behandling eller avgjørelser av spørsmål som har slik betydning for vedkommende selv eller nærstående at han eller hun må anses for å ha en fremtredende personlig eller økonomisk særinteresse i saken. Han eller hun må heller ikke ta del i behandling eller avgjørelser av noe spørsmål som har fremtredende økonomisk særinteresse for selskap, forening eller annen offentlig eller privat institusjon han eller hun er knyttet til. Likeså må den som er ansatt eller har tillitsverv i selskapet ikke delta i behandling eller avgjørelse av spørsmål når det foreligger andre særegne forhold som er egnet til å svekke tilliten til vedkommendes upartiskhet.",
         "text": "Den som er ansatt eller har tillitsverv i selskapet må ikke delta i behandling eller avgjørelser av spørsmål som har slik betydning for vedkommende selv eller nærstående at han eller hun må anses for å ha en fremtredende personlig eller økonomisk særinteresse i saken. Han eller hun må heller ikke ta del i behandling eller avgjørelser av noe spørsmål som har fremtredende økonomisk særinteresse for selskap, forening eller annen offentlig eller privat institusjon han eller hun er knyttet til. Likeså må den som er ansatt eller har tillitsverv i selskapet ikke delta i behandling eller avgjørelse av spørsmål når det foreligger andre særegne forhold som er egnet til å svekke tilliten til vedkommendes upartiskhet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -752,6 +778,7 @@
         "text": "Den som har mottatt ytelse i strid med forbudet i paragrafen her, plikter å betale et beløp som tilsvarer det som urettmessig er mottatt. Overtredelse kan videre medføre ordensstraff eller avskjed."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -777,6 +804,7 @@
         "text": "Kapittel 6. Foretaksmøtet"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -793,7 +821,7 @@
         "tag": "p",
         "class": "avsnitt",
         "html": "Departementet utøver den øverste myndighet i selskapet i  foretaksmøtet. Departementets myndighet i selskapet kan ikke utøves utenom i foretaksmøtet.",
-        "text": "Departementet utøver den øverste myndighet i selskapet i foretaksmøtet. Departementets myndighet i selskapet kan ikke utøves utenom i foretaksmøtet."
+        "text": "Departementet utøver den øverste myndighet i selskapet i  foretaksmøtet. Departementets myndighet i selskapet kan ikke utøves utenom i foretaksmøtet."
     },
     {
         "tag": "p",
@@ -801,6 +829,7 @@
         "html": "Selskapets styre, administrerende direktør og revisor har rett til å være tilstede og til å uttale seg i foretaksmøtet. Administrerende direktør og styrets leder har plikt til å være tilstede med mindre dette er åpenbart unødvendig eller det foreligger gyldig forfall. I sistnevnte tilfelle skal det utpekes en stedfortreder. Foretakets revisor har plikt til å være tilstede i den grad de saker som skal behandles er av slik art at revisors nærvær er ønskelig.",
         "text": "Selskapets styre, administrerende direktør og revisor har rett til å være tilstede og til å uttale seg i foretaksmøtet. Administrerende direktør og styrets leder har plikt til å være tilstede med mindre dette er åpenbart unødvendig eller det foreligger gyldig forfall. I sistnevnte tilfelle skal det utpekes en stedfortreder. Foretakets revisor har plikt til å være tilstede i den grad de saker som skal behandles er av slik art at revisors nærvær er ønskelig."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -828,16 +857,17 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Godkjennelse av årsregnskapet og årsberetningen, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd.</td>\n</tr>",
-        "text": "1.Godkjennelse av årsregnskapet og årsberetningen, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Godkjennelse av årsregnskapet og årsberetningen, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd.</td>\n</tr>",
+        "text": "1.\tGodkjennelse av årsregnskapet og årsberetningen, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Andre saker som etter lov eller vedtekter hører under foretaksmøtet.</td>\n</tr>",
-        "text": "2.Andre saker som etter lov eller vedtekter hører under foretaksmøtet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Andre saker som etter lov eller vedtekter hører under foretaksmøtet.</td>\n</tr>",
+        "text": "2.\tAndre saker som etter lov eller vedtekter hører under foretaksmøtet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -857,6 +887,7 @@
         "html": "Ekstraordinært foretaksmøte avholdes når departementet, styret eller revisor finner det nødvendig.",
         "text": "Ekstraordinært foretaksmøte avholdes når departementet, styret eller revisor finner det nødvendig."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -879,15 +910,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Til møtet innkalles de som etter § 28 annet ledd har rett til å være tilstede i foretaksmøtet.",
+        "html": "Til møtet innkalles de som etter <a data-id=\"lov/2003-12-19-130/§28\" class=\" reference\" href=\"/lov/2003-12-19-130/%C2%A728\">§ 28</a> annet ledd har rett til å være tilstede i foretaksmøtet.",
         "text": "Til møtet innkalles de som etter § 28 annet ledd har rett til å være tilstede i foretaksmøtet."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Innkallingen skal bestemt angi de saker som skal behandles på møtet. Vil vedtektene bli foreslått endret, skal hovedinnholdet i forslaget gjengis i innkallingen. Foretaksmøtet kan ikke treffe vedtak i andre saker enn de som er nevnt i innkallingen med mindre samtlige av de som etter § 28 annet ledd har rett til å være tilstede samtykker i det.",
+        "html": "Innkallingen skal bestemt angi de saker som skal behandles på møtet. Vil vedtektene bli foreslått endret, skal hovedinnholdet i forslaget gjengis i innkallingen. Foretaksmøtet kan ikke treffe vedtak i andre saker enn de som er nevnt i innkallingen med mindre samtlige av de som etter <a data-id=\"lov/2003-12-19-130/§28\" class=\" reference\" href=\"/lov/2003-12-19-130/%C2%A728\">§ 28</a> annet ledd har rett til å være tilstede samtykker i det.",
         "text": "Innkallingen skal bestemt angi de saker som skal behandles på møtet. Vil vedtektene bli foreslått endret, skal hovedinnholdet i forslaget gjengis i innkallingen. Foretaksmøtet kan ikke treffe vedtak i andre saker enn de som er nevnt i innkallingen med mindre samtlige av de som etter § 28 annet ledd har rett til å være tilstede samtykker i det."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -910,7 +942,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Møtelederen skal sørge for at det føres protokoll fra foretaksmøtet. Protokollen skal underskrives av møtelederen og en annen person som velges blant de tilstedværende. Er noen av de som etter § 28 annet ledd har rett til å være tilstede på møtet, uenig i departementets beslutning, skal deres oppfatning føres inn i protokollen.",
+        "html": "Møtelederen skal sørge for at det føres protokoll fra foretaksmøtet. Protokollen skal underskrives av møtelederen og en annen person som velges blant de tilstedværende. Er noen av de som etter <a data-id=\"lov/2003-12-19-130/§28\" class=\" reference\" href=\"/lov/2003-12-19-130/%C2%A728\">§ 28</a> annet ledd har rett til å være tilstede på møtet, uenig i departementets beslutning, skal deres oppfatning føres inn i protokollen.",
         "text": "Møtelederen skal sørge for at det føres protokoll fra foretaksmøtet. Protokollen skal underskrives av møtelederen og en annen person som velges blant de tilstedværende. Er noen av de som etter § 28 annet ledd har rett til å være tilstede på møtet, uenig i departementets beslutning, skal deres oppfatning føres inn i protokollen."
     },
     {
@@ -919,6 +951,7 @@
         "html": "Kapittel 7. Regnskap, revisjon og gransking",
         "text": "Kapittel 7. Regnskap, revisjon og gransking"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -939,6 +972,7 @@
         "text": "Selskapet er regnskapspliktig etter regnskapsloven."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -957,6 +991,7 @@
         "html": "Selskapet skal ha revisor som velges av foretaksmøtet. Revisor skal være registrert eller statsautorisert.",
         "text": "Selskapet skal ha revisor som velges av foretaksmøtet. Revisor skal være registrert eller statsautorisert."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -979,9 +1014,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som på vegne av foretaksmøtet forestår granskingen har rett til å foreta de undersøkelser i selskapet som finnes nødvendig, og kan i denne forbindelse kreve nødvendig bistand av selskapet. Den som forestår granskingen kan av styret, administrerende direktør og enhver annen ansatt eller tillitsvalgt i selskapet, kreve enhver opplysning om selskapet forhold som granskingen gjør nødvendig. Den som på vegne av foretaksmøtet foretar granskingen har taushetsplikt etter samme regler som gjelder for revisorer, jf. revisorloven § 6-1.",
+        "html": "Den som på vegne av foretaksmøtet forestår granskingen har rett til å foreta de undersøkelser i selskapet som finnes nødvendig, og kan i denne forbindelse kreve nødvendig bistand av selskapet. Den som forestår granskingen kan av styret, administrerende direktør og enhver annen ansatt eller tillitsvalgt i selskapet, kreve enhver opplysning om selskapet forhold som granskingen gjør nødvendig. Den som på vegne av foretaksmøtet foretar granskingen har taushetsplikt etter samme regler som gjelder for revisorer, jf. <a data-id=\"lov/1999-01-15-2/§6-1\" class=\" reference\" href=\"/lov/1999-01-15-2/%C2%A76-1\">revisorloven § 6-1</a>.",
         "text": "Den som på vegne av foretaksmøtet forestår granskingen har rett til å foreta de undersøkelser i selskapet som finnes nødvendig, og kan i denne forbindelse kreve nødvendig bistand av selskapet. Den som forestår granskingen kan av styret, administrerende direktør og enhver annen ansatt eller tillitsvalgt i selskapet, kreve enhver opplysning om selskapet forhold som granskingen gjør nødvendig. Den som på vegne av foretaksmøtet foretar granskingen har taushetsplikt etter samme regler som gjelder for revisorer, jf. revisorloven § 6-1."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1014,6 +1050,7 @@
         "text": "Kapittel 8. Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1033,6 +1070,7 @@
         "text": "Denne lov trer i kraft fra den tid Kongen bestemmer."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1048,7 +1086,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Tjenestemannsloven § 13 nr. 2 – 6 om fortrinnsrett til annen statsstilling og ventelønn, skal fortsatt gjelde for arbeidstakere i Statens veiledningskontor for oppfinnere som blir sagt opp av grunn som nevnt i tjenestemannsloven § 13 nr. 1 (a), (b) og (c), og som var omfattet av disse reglene før omdanningen. Fortrinnsretten til annen statsstilling og retten til ventelønn etter forrige punktum opphører tre år etter omdanningstidspunktet.",
+        "html": "<a data-id=\"lov/1983-03-04-3/§13\" class=\" reference\" href=\"/lov/1983-03-04-3/%C2%A713\">Tjenestemannsloven § 13</a> nr. 2 – 6 om fortrinnsrett til annen statsstilling og ventelønn, skal fortsatt gjelde for arbeidstakere i Statens veiledningskontor for oppfinnere som blir sagt opp av grunn som nevnt i <a data-id=\"lov/1983-03-04-3/§13\" class=\" reference\" href=\"/lov/1983-03-04-3/%C2%A713\">tjenestemannsloven § 13</a> nr. 1 (a), (b) og (c), og som var omfattet av disse reglene før omdanningen. Fortrinnsretten til annen statsstilling og retten til ventelønn etter forrige punktum opphører tre år etter omdanningstidspunktet.",
         "text": "Tjenestemannsloven § 13 nr. 2 – 6 om fortrinnsrett til annen statsstilling og ventelønn, skal fortsatt gjelde for arbeidstakere i Statens veiledningskontor for oppfinnere som blir sagt opp av grunn som nevnt i tjenestemannsloven § 13 nr. 1 (a), (b) og (c), og som var omfattet av disse reglene før omdanningen. Fortrinnsretten til annen statsstilling og retten til ventelønn etter forrige punktum opphører tre år etter omdanningstidspunktet."
     },
     {
@@ -1057,6 +1095,7 @@
         "html": "Øvrige overgangsbestemmelser fastsettes av Kongen.",
         "text": "Øvrige overgangsbestemmelser fastsettes av Kongen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1079,49 +1118,49 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "1. Lov om Statens nærings- og distriktsutviklingsfond av 3. juli 1992 nr. 97 oppheves.",
+        "html": "1. Lov om Statens nærings- og distriktsutviklingsfond av <a data-id=\"lov/1992-07-03-97\" class=\" reference\" href=\"/lov/1992-07-03-97\">3. juli 1992 nr. 97</a> oppheves.",
         "text": "1. Lov om Statens nærings- og distriktsutviklingsfond av 3. juli 1992 nr. 97 oppheves."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen kan bestemme at § 39 pkt. 1 kan settes i kraft til annen tid enn lovens øvrige bestemmelser.",
+        "html": "Kongen kan bestemme at § 39 <a data-id=\"lov/1992-07-03-97/kap1\" class=\" reference\" href=\"/lov/1992-07-03-97/kap1\">pkt</a>. 1 kan settes i kraft til annen tid enn lovens øvrige bestemmelser.",
         "text": "Kongen kan bestemme at § 39 pkt. 1 kan settes i kraft til annen tid enn lovens øvrige bestemmelser."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "2. I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) skal § 2-30 nr. (1) bokstav e nr. 6 lyde:",
+        "html": "2. I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven) skal <a data-id=\"lov/1999-03-26-14/§2-30\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-30\">§ 2-30</a> nr. (1) bokstav e nr. 6 lyde:",
         "text": "2. I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) skal § 2-30 nr. (1) bokstav e nr. 6 lyde:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Innovasjon Norge</td>\n</tr>",
-        "text": "6.Innovasjon Norge"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Innovasjon Norge</td>\n</tr>",
+        "text": "6.\tInnovasjon Norge"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "3. I lov 19. juni 1997 nr. 79 om verdipapirhandel skal § 2a-1 første ledd nr. 7 lyde:",
+        "html": "3. I <a data-id=\"lov/1997-06-19-79\" class=\" reference\" href=\"/lov/1997-06-19-79\">lov 19. juni 1997 nr. 79</a> om verdipapirhandel skal <a data-id=\"lov/1997-06-19-79/§2a-1\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A72a-1\">§ 2a-1</a> første ledd nr. 7 lyde:",
         "text": "3. I lov 19. juni 1997 nr. 79 om verdipapirhandel skal § 2a-1 første ledd nr. 7 lyde:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Innovasjon Norge, Statens nærings- og distriktsutviklingsfond, Husbanken, Folketrygdfondet, Norges Bank og Statens Bankinvesteringsfond,</td>\n</tr>",
-        "text": "7.Innovasjon Norge, Statens nærings- og distriktsutviklingsfond, Husbanken, Folketrygdfondet, Norges Bank og Statens Bankinvesteringsfond,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Innovasjon Norge, Statens nærings- og distriktsutviklingsfond, Husbanken, Folketrygdfondet, Norges Bank og Statens Bankinvesteringsfond,</td>\n</tr>",
+        "text": "7.\tInnovasjon Norge, Statens nærings- og distriktsutviklingsfond, Husbanken, Folketrygdfondet, Norges Bank og Statens Bankinvesteringsfond,"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "4. I lov 3. mai 2002 nr. 13 om utenrikstjenesten gjøres følgende endringer:",
+        "html": "4. I <a data-id=\"lov/2002-05-03-13\" class=\" reference\" href=\"/lov/2002-05-03-13\">lov 3. mai 2002 nr. 13</a> om utenrikstjenesten gjøres følgende endringer:",
         "text": "4. I lov 3. mai 2002 nr. 13 om utenrikstjenesten gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 6 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2002-05-03-13/§6\" class=\" reference\" href=\"/lov/2002-05-03-13/%C2%A76\">§ 6</a> første ledd skal lyde:",
         "text": "§ 6 første ledd skal lyde:"
     },
     {
@@ -1133,13 +1172,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 6 nytt andre ledd skal lyde:",
+        "html": "<a data-id=\"lov/2002-05-03-13/§6\" class=\" reference\" href=\"/lov/2002-05-03-13/%C2%A76\">§ 6</a> nytt andre ledd skal lyde:",
         "text": "§ 6 nytt andre ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Utsending finansiert av Innovasjon Norge kan tilsettes som spesialutsending i henhold til § 12.",
+        "html": "Utsending finansiert av Innovasjon Norge kan tilsettes som spesialutsending i henhold til <a data-id=\"lov/2002-05-03-13/§12\" class=\" reference\" href=\"/lov/2002-05-03-13/%C2%A712\">§ 12</a>.",
         "text": "Utsending finansiert av Innovasjon Norge kan tilsettes som spesialutsending i henhold til § 12."
     },
     {
@@ -1151,7 +1190,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 7 skal lyde:",
+        "html": "<a data-id=\"lov/2002-05-03-13/§7\" class=\" reference\" href=\"/lov/2002-05-03-13/%C2%A77\">§ 7</a> skal lyde:",
         "text": "§ 7 skal lyde:"
     },
     {
@@ -1163,7 +1202,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 12 skal lyde:",
+        "html": "<a data-id=\"lov/2002-05-03-13/§12\" class=\" reference\" href=\"/lov/2002-05-03-13/%C2%A712\">§ 12</a> skal lyde:",
         "text": "§ 12 skal lyde:"
     },
     {

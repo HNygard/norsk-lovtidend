@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.1 LS (2011–2012), Innst.4 L (2011–2012), Lovvedtak 16 (2011–2012). Stortingets første og andre gangs behandling hhv. 24. november og 1. desember 2011. Fremmet av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-1-ls-201112\" class=\" reference\" href=\"/forarbeid/prop-1-ls-201112\">Prop.1 LS (2011–2012)</a>, <a data-id=\"forarbeid/inns-4-l-201112\" class=\" reference\" href=\"/forarbeid/inns-4-l-201112\">Innst.4 L (2011–2012)</a>, <a data-id=\"forarbeid/lovvedtak-16-201112\" class=\" reference\" href=\"/forarbeid/lovvedtak-16-201112\">Lovvedtak 16 (2011–2012)</a>. Stortingets første og andre gangs behandling hhv. 24. november og 1. desember 2011. Fremmet av Finansdepartementet.",
         "text": "Prop.1 LS (2011–2012), Innst.4 L (2011–2012), Lovvedtak 16 (2011–2012). Stortingets første og andre gangs behandling hhv. 24. november og 1. desember 2011. Fremmet av Finansdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 25. juni 2010 nr. 41 om endringar i lov 14. desember 2007 nr. 107 om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven).",
+        "html": "<a data-id=\"lov/2010-06-25-41\" class=\" reference\" href=\"/lov/2010-06-25-41\">Lov 25. juni 2010 nr. 41</a> om endringar i <a data-id=\"lov/2007-12-14-107\" class=\" reference\" href=\"/lov/2007-12-14-107\">lov 14. desember 2007 nr. 107</a> om endringer i <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).",
         "text": "Lov 25. juni 2010 nr. 41 om endringar i lov 14. desember 2007 nr. 107 om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 25. juni 2010 nr. 41 om endringar i lov 14. desember 2007 nr. 107 om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/2010-06-25-41\" class=\" reference\" href=\"/lov/2010-06-25-41\">lov 25. juni 2010 nr. 41</a> om endringar i <a data-id=\"lov/2007-12-14-107\" class=\" reference\" href=\"/lov/2007-12-14-107\">lov 14. desember 2007 nr. 107</a> om endringer i <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:",
         "text": "I lov 25. juni 2010 nr. 41 om endringar i lov 14. desember 2007 nr. 107 om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:"
     },
     {
@@ -55,26 +55,26 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foreslått utdeling av utbytte etter aksjeloven § 8-2 eller allmennaksjeloven § 8-2 ved avleggelsen av selskapets årsoppgjør, eller</td>\n</tr>",
-        "text": "a.foreslått utdeling av utbytte etter aksjeloven § 8-2 eller allmennaksjeloven § 8-2 ved avleggelsen av selskapets årsoppgjør, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foreslått utdeling av utbytte etter <a data-id=\"lov/1997-06-13-44/§8-2\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A78-2\">aksjeloven § 8-2</a> eller <a data-id=\"lov/1997-06-13-45/§8-2\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A78-2\">allmennaksjeloven § 8-2</a> ved avleggelsen av selskapets årsoppgjør, eller</td>\n</tr>",
+        "text": "a.\tforeslått utdeling av utbytte etter aksjeloven § 8-2 eller allmennaksjeloven § 8-2 ved avleggelsen av selskapets årsoppgjør, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avgitt konsernbidrag, eller</td>\n</tr>",
-        "text": "b.avgitt konsernbidrag, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avgitt konsernbidrag, eller</td>\n</tr>",
+        "text": "b.\tavgitt konsernbidrag, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utdelt utbytte i løpet av inntektsåret, jf. skatteloven § 10-11, som overstiger fjorårets forslag fra styret om utdeling av utbytte, eller utdeling av mer enn aksjens forholdsmessige del av innbetalt aksjekapital, herunder overkurs, ved nedsettelse av aksjekapitalen ved innløsning av enkeltaksje, jf. skatteloven § 10-37 annet ledd.</td>\n</tr>",
-        "text": "c.utdelt utbytte i løpet av inntektsåret, jf. skatteloven § 10-11, som overstiger fjorårets forslag fra styret om utdeling av utbytte, eller utdeling av mer enn aksjens forholdsmessige del av innbetalt aksjekapital, herunder overkurs, ved nedsettelse av aksjekapitalen ved innløsning av enkeltaksje, jf. skatteloven § 10-37 annet ledd."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utdelt utbytte i løpet av inntektsåret, jf. <a data-id=\"lov/1999-03-26-14/§10-11\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-11\">skatteloven § 10-11</a>, som overstiger fjorårets forslag fra styret om utdeling av utbytte, eller utdeling av mer enn aksjens forholdsmessige del av innbetalt aksjekapital, herunder overkurs, ved nedsettelse av aksjekapitalen ved innløsning av enkeltaksje, jf. <a data-id=\"lov/1999-03-26-14/§10-37\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-37\">skatteloven § 10-37</a> annet ledd.</td>\n</tr>",
+        "text": "c.\tutdelt utbytte i løpet av inntektsåret, jf. skatteloven § 10-11, som overstiger fjorårets forslag fra styret om utdeling av utbytte, eller utdeling av mer enn aksjens forholdsmessige del av innbetalt aksjekapital, herunder overkurs, ved nedsettelse av aksjekapitalen ved innløsning av enkeltaksje, jf. skatteloven § 10-37 annet ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Utbytte og konsernbidrag som er avsatt i årsoppgjøret for 2009, og vedtatt på generalforsamlingen etter 25. mars 2010, skal inntektsføres for inntektsåret 2010 så langt utdelingen ikke har medført inntektsføring etter skatteloven § 10-5 første ledd i 2009. Dersom samlet utdelt beløp overstiger selskapets oppgjørskonto per 1. januar i inntektsåret, jf. annet ledd, skal det ikke foretas inntektsføring for det overskytende. Inntekt etter skatteloven § 10-5 første ledd for inntektsårene 2007, 2008 og 2009 som skyldes utdeling av gjenstående ubeskattet gevinst beregnet etter første ledd og som ikke senere er fradragsført etter skatteloven § 10-5 sjette ledd, kan ikke kreves fradratt i senere års inntekt.",
+        "html": "Utbytte og konsernbidrag som er avsatt i årsoppgjøret for 2009, og vedtatt på generalforsamlingen etter 25. mars 2010, skal inntektsføres for inntektsåret 2010 så langt utdelingen ikke har medført inntektsføring etter skatteloven <a data-id=\"lov/1999-03-26-14/§10-5\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-5\">§ 10-5</a> første ledd i 2009. Dersom samlet utdelt beløp overstiger selskapets oppgjørskonto per 1. januar i inntektsåret, jf. annet ledd, skal det ikke foretas inntektsføring for det overskytende. Inntekt etter <a data-id=\"lov/1999-03-26-14/§10-5\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-5\">skatteloven § 10-5</a> første ledd for inntektsårene 2007, 2008 og 2009 som skyldes utdeling av gjenstående ubeskattet gevinst beregnet etter første ledd og som ikke senere er fradragsført etter <a data-id=\"lov/1999-03-26-14/§10-5\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-5\">skatteloven § 10-5</a> sjette ledd, kan ikke kreves fradratt i senere års inntekt.",
         "text": "Utbytte og konsernbidrag som er avsatt i årsoppgjøret for 2009, og vedtatt på generalforsamlingen etter 25. mars 2010, skal inntektsføres for inntektsåret 2010 så langt utdelingen ikke har medført inntektsføring etter skatteloven § 10-5 første ledd i 2009. Dersom samlet utdelt beløp overstiger selskapets oppgjørskonto per 1. januar i inntektsåret, jf. annet ledd, skal det ikke foretas inntektsføring for det overskytende. Inntekt etter skatteloven § 10-5 første ledd for inntektsårene 2007, 2008 og 2009 som skyldes utdeling av gjenstående ubeskattet gevinst beregnet etter første ledd og som ikke senere er fradragsført etter skatteloven § 10-5 sjette ledd, kan ikke kreves fradratt i senere års inntekt."
     },
     {

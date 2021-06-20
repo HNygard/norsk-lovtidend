@@ -2,8 +2,8 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.91 L (2009–2010), Innst.311 L (2009–2010), Lovvedtak 60 (2009–2010). Stortingets første og andre gangs behandling hhv. 8.  og 14. juni 2010. Fremmet av Justis- og politidepartementet.",
-        "text": "Prop.91 L (2009–2010), Innst.311 L (2009–2010), Lovvedtak 60 (2009–2010). Stortingets første og andre gangs behandling hhv. 8. og 14. juni 2010. Fremmet av Justis- og politidepartementet."
+        "html": "<a data-id=\"forarbeid/prop-91-l-200910\" class=\" reference\" href=\"/forarbeid/prop-91-l-200910\">Prop.91 L (2009–2010)</a>, <a data-id=\"forarbeid/inns-311-l-200910\" class=\" reference\" href=\"/forarbeid/inns-311-l-200910\">Innst.311 L (2009–2010)</a>, <a data-id=\"forarbeid/lovvedtak-60-200910\" class=\" reference\" href=\"/forarbeid/lovvedtak-60-200910\">Lovvedtak 60 (2009–2010)</a>. Stortingets første og andre gangs behandling hhv. 8.  og 14. juni 2010. Fremmet av Justis- og politidepartementet.",
+        "text": "Prop.91 L (2009–2010), Innst.311 L (2009–2010), Lovvedtak 60 (2009–2010). Stortingets første og andre gangs behandling hhv. 8.  og 14. juni 2010. Fremmet av Justis- og politidepartementet."
     },
     {
         "tag": "p",
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 17. juli 1953 nr. 9 om kommunal beredskapsplikt, sivile beskyttelsestiltak og sivilforsvaret.",
+        "html": "<a data-id=\"lov/1953-07-17-9\" class=\" reference\" href=\"/lov/1953-07-17-9\">Lov 17. juli 1953 nr. 9</a> om kommunal beredskapsplikt, sivile beskyttelsestiltak og sivilforsvaret.",
         "text": "Lov 17. juli 1953 nr. 9 om kommunal beredskapsplikt, sivile beskyttelsestiltak og sivilforsvaret."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven).",
+        "html": "<a data-id=\"lov/2000-11-24-82\" class=\" reference\" href=\"/lov/2000-11-24-82\">Lov 24. november 2000 nr. 82</a> om vassdrag og grunnvann (vannressursloven).",
         "text": "Lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven)."
     },
     {
@@ -35,6 +35,7 @@
         "html": "Kapittel I Formål, virkeområde med mer",
         "text": "Kapittel I Formål, virkeområde med mer"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -46,7 +47,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Formål</em>",
-        "text": "Formål"
+        "text": " Formål"
     },
     {
         "tag": "p",
@@ -54,6 +55,7 @@
         "html": "Lovens formål er å beskytte liv, helse, miljø og materielle verdier ved bruk av ikke-militær makt når riket er i krig, når krig truer, når rikets selvstendighet eller sikkerhet er i fare, og ved uønskede hendelser i fredstid.",
         "text": "Lovens formål er å beskytte liv, helse, miljø og materielle verdier ved bruk av ikke-militær makt når riket er i krig, når krig truer, når rikets selvstendighet eller sikkerhet er i fare, og ved uønskede hendelser i fredstid."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -65,7 +67,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Lovens stedlige virkeområde</em>",
-        "text": "Lovens stedlige virkeområde"
+        "text": " Lovens stedlige virkeområde"
     },
     {
         "tag": "p",
@@ -80,6 +82,7 @@
         "text": "Loven gjelder ikke for virksomhet i sjøområder i forbindelse med undersøkelser etter, utvinning og utnyttelse av naturforekomster på havbunnen eller i dens undergrunn i indre norsk farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -90,7 +93,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Definisjoner</em>",
-        "text": "Definisjoner"
+        "text": " Definisjoner"
     },
     {
         "tag": "p",
@@ -100,21 +103,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Uønskede hendelser:</em> hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø og materielle verdier.</td>\n</tr>",
-        "text": "a)Uønskede hendelser: hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø og materielle verdier."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Uønskede hendelser:</em> hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø og materielle verdier.</td>\n</tr>",
+        "text": "a)\tUønskede hendelser: hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø og materielle verdier."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Sivilforsvarets myndigheter:</em> departementet og den som bemyndiges.</td>\n</tr>",
-        "text": "b)Sivilforsvarets myndigheter: departementet og den som bemyndiges."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Sivilforsvarets myndigheter:</em> departementet og den som bemyndiges.</td>\n</tr>",
+        "text": "b)\tSivilforsvarets myndigheter: departementet og den som bemyndiges."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Egenbeskyttelsestiltak:</em> tiltak som personer eller virksomheter iverksetter for sin eiendom eller virksomhet for beskyttelse av liv, helse, miljø og materielle verdier.</td>\n</tr>",
-        "text": "c)Egenbeskyttelsestiltak: tiltak som personer eller virksomheter iverksetter for sin eiendom eller virksomhet for beskyttelse av liv, helse, miljø og materielle verdier."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Egenbeskyttelsestiltak:</em> tiltak som personer eller virksomheter iverksetter for sin eiendom eller virksomhet for beskyttelse av liv, helse, miljø og materielle verdier.</td>\n</tr>",
+        "text": "c)\tEgenbeskyttelsestiltak: tiltak som personer eller virksomheter iverksetter for sin eiendom eller virksomhet for beskyttelse av liv, helse, miljø og materielle verdier."
     },
     {
         "tag": "h2",
@@ -122,6 +125,7 @@
         "html": "Kapittel II Generelle bestemmelser om Sivilforsvaret",
         "text": "Kapittel II Generelle bestemmelser om Sivilforsvaret"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -133,7 +137,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Sivilforsvarets oppgaver og ansvar</em>",
-        "text": "Sivilforsvarets oppgaver og ansvar"
+        "text": " Sivilforsvarets oppgaver og ansvar"
     },
     {
         "tag": "p",
@@ -143,45 +147,45 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etablere og drifte system for varsling av befolkningen, jf. § 16,</td>\n</tr>",
-        "text": "a)etablere og drifte system for varsling av befolkningen, jf. § 16,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etablere og drifte system for varsling av befolkningen, jf. <a data-id=\"lov/2010-06-25-45/§16\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A716\">§ 16</a>,</td>\n</tr>",
+        "text": "a)\tetablere og drifte system for varsling av befolkningen, jf. § 16,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forestå oppgaver i forbindelse med evakuering av befolkningen, jf. § 17,</td>\n</tr>",
-        "text": "b)forestå oppgaver i forbindelse med evakuering av befolkningen, jf. § 17,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forestå oppgaver i forbindelse med evakuering av befolkningen, jf. <a data-id=\"lov/2010-06-25-45/§17\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A717\">§ 17</a>,</td>\n</tr>",
+        "text": "b)\tforestå oppgaver i forbindelse med evakuering av befolkningen, jf. § 17,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ha ansvar for tilfluktsromtjeneste for offentlige tilfluktsrom, jf. § 22 første ledd,</td>\n</tr>",
-        "text": "c)ha ansvar for tilfluktsromtjeneste for offentlige tilfluktsrom, jf. § 22 første ledd,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ha ansvar for tilfluktsromtjeneste for offentlige tilfluktsrom, jf. <a data-id=\"lov/2010-06-25-45/§22\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A722\">§ 22</a> første ledd,</td>\n</tr>",
+        "text": "c)\tha ansvar for tilfluktsromtjeneste for offentlige tilfluktsrom, jf. § 22 første ledd,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bistå nød- og beredskapsetatene med personell og materiell i forbindelse med skadeforebyggende og skadebegrensende tiltak,</td>\n</tr>",
-        "text": "d)bistå nød- og beredskapsetatene med personell og materiell i forbindelse med skadeforebyggende og skadebegrensende tiltak,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bistå nød- og beredskapsetatene med personell og materiell i forbindelse med skadeforebyggende og skadebegrensende tiltak,</td>\n</tr>",
+        "text": "d)\tbistå nød- og beredskapsetatene med personell og materiell i forbindelse med skadeforebyggende og skadebegrensende tiltak,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lede redningsinnsats på skadestedet og ha ordensmyndighet når nødetater tillagt slik myndighet ikke er tilstede. Myndighet etter denne bestemmelse skal så vidt mulig utøves i samråd med politiet,</td>\n</tr>",
-        "text": "e)lede redningsinnsats på skadestedet og ha ordensmyndighet når nødetater tillagt slik myndighet ikke er tilstede. Myndighet etter denne bestemmelse skal så vidt mulig utøves i samråd med politiet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lede redningsinnsats på skadestedet og ha ordensmyndighet når nødetater tillagt slik myndighet ikke er tilstede. Myndighet etter denne bestemmelse skal så vidt mulig utøves i samråd med politiet,</td>\n</tr>",
+        "text": "e)\tlede redningsinnsats på skadestedet og ha ordensmyndighet når nødetater tillagt slik myndighet ikke er tilstede. Myndighet etter denne bestemmelse skal så vidt mulig utøves i samråd med politiet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etter godkjennelse fra departementet bistå ved internasjonale oppdrag i forbindelse med uønskede hendelser, jf. § 10,</td>\n</tr>",
-        "text": "f)etter godkjennelse fra departementet bistå ved internasjonale oppdrag i forbindelse med uønskede hendelser, jf. § 10,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etter godkjennelse fra departementet bistå ved internasjonale oppdrag i forbindelse med uønskede hendelser, jf. <a data-id=\"lov/2010-06-25-45/§10\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A710\">§ 10</a>,</td>\n</tr>",
+        "text": "f)\tetter godkjennelse fra departementet bistå ved internasjonale oppdrag i forbindelse med uønskede hendelser, jf. § 10,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utføre tilsynsoppgaver der Sivilforsvaret er utpekt som tilsynsmyndighet, jf. § 29.</td>\n</tr>",
-        "text": "g)utføre tilsynsoppgaver der Sivilforsvaret er utpekt som tilsynsmyndighet, jf. § 29."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utføre tilsynsoppgaver der Sivilforsvaret er utpekt som tilsynsmyndighet, jf. <a data-id=\"lov/2010-06-25-45/§29\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A729\">§ 29</a>.</td>\n</tr>",
+        "text": "g)\tutføre tilsynsoppgaver der Sivilforsvaret er utpekt som tilsynsmyndighet, jf. § 29."
     },
     {
         "tag": "p",
@@ -189,6 +193,7 @@
         "html": "Departementet kan gi forskrifter om Sivilforsvarets organisering, oppgaver og ansvar.",
         "text": "Departementet kan gi forskrifter om Sivilforsvarets organisering, oppgaver og ansvar."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -200,7 +205,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Allmennhetens bistandsplikt i akuttsituasjoner</em>",
-        "text": "Allmennhetens bistandsplikt i akuttsituasjoner"
+        "text": " Allmennhetens bistandsplikt i akuttsituasjoner"
     },
     {
         "tag": "p",
@@ -223,7 +228,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Staten skal betale erstatning for skade på person som følge av innsats etter denne bestemmelsen. Lov 16. juni 1989 nr. 65 om yrkesskadeforsikring gjelder tilsvarende for erstatning etter denne bestemmelsen. Staten skal også betale erstatning for materielle skader som følge av bistand etter første ledd.",
+        "html": "Staten skal betale erstatning for skade på person som følge av innsats etter denne bestemmelsen. <a data-id=\"lov/1989-06-16-65\" class=\" reference\" href=\"/lov/1989-06-16-65\">Lov 16. juni 1989 nr. 65</a> om yrkesskadeforsikring gjelder tilsvarende for erstatning etter denne bestemmelsen. Staten skal også betale erstatning for materielle skader som følge av bistand etter første ledd.",
         "text": "Staten skal betale erstatning for skade på person som følge av innsats etter denne bestemmelsen. Lov 16. juni 1989 nr. 65 om yrkesskadeforsikring gjelder tilsvarende for erstatning etter denne bestemmelsen. Staten skal også betale erstatning for materielle skader som følge av bistand etter første ledd."
     },
     {
@@ -232,6 +237,7 @@
         "html": "Departementet kan gi forskrifter om erstatning for skade på person og materiell som følge av innsats etter denne bestemmelsen.",
         "text": "Departementet kan gi forskrifter om erstatning for skade på person og materiell som følge av innsats etter denne bestemmelsen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -264,6 +270,7 @@
         "text": "Kapittel III Tjeneste i Sivilforsvaret"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -274,7 +281,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Tjenesteplikt – generelle regler</em>",
-        "text": "Tjenesteplikt – generelle regler"
+        "text": " Tjenesteplikt – generelle regler"
     },
     {
         "tag": "p",
@@ -312,6 +319,7 @@
         "html": "Departementet kan gi forskrifter om gjennomføringen av sivilforsvarstjenesten, herunder bestemmelser om godtgjøring for og fritak fra tjeneste.",
         "text": "Departementet kan gi forskrifter om gjennomføringen av sivilforsvarstjenesten, herunder bestemmelser om godtgjøring for og fritak fra tjeneste."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -356,6 +364,7 @@
         "text": "Tjenestepliktige og kvinner og menn som vurderes til tjeneste i Sivilforsvaret plikter å gjennomgå legeundersøkelser og andre prøver som er nødvendig for tjenestegjøring i Sivilforsvaret."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -366,7 +375,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Tjenestepliktens nærmere innhold</em>",
-        "text": "Tjenestepliktens nærmere innhold"
+        "text": " Tjenestepliktens nærmere innhold"
     },
     {
         "tag": "p",
@@ -381,6 +390,7 @@
         "text": "Tjenestepliktige kan pålegges å tjenestegjøre som befal eller instruktør."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -391,7 +401,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Utenlandstjeneste</em>",
-        "text": "Utenlandstjeneste"
+        "text": " Utenlandstjeneste"
     },
     {
         "tag": "p",
@@ -399,6 +409,7 @@
         "html": "Disponering av tjenestepliktig personell i Sivilforsvaret til tjenestegjøring utenfor landets grenser krever avtale mellom den enkelte og Sivilforsvarets myndigheter.",
         "text": "Disponering av tjenestepliktig personell i Sivilforsvaret til tjenestegjøring utenfor landets grenser krever avtale mellom den enkelte og Sivilforsvarets myndigheter."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -410,7 +421,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Disiplinærreaksjoner overfor tjenestepliktige</em>",
-        "text": "Disiplinærreaksjoner overfor tjenestepliktige"
+        "text": " Disiplinærreaksjoner overfor tjenestepliktige"
     },
     {
         "tag": "p",
@@ -421,7 +432,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Refselsesbøter kan innkreves av Statens Innkrevingssentral. Innkrevingssentralen kan inndrive bøtene ved trekk i lønn eller andre lignende ytelser som nevnt i lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett § 2-7.",
+        "html": "Refselsesbøter kan innkreves av Statens Innkrevingssentral. Innkrevingssentralen kan inndrive bøtene ved trekk i lønn eller andre lignende ytelser som nevnt i <a data-id=\"lov/1984-06-08-59\" class=\" reference\" href=\"/lov/1984-06-08-59\">lov 8. juni 1984 nr. 59</a> om fordringshavernes dekningsrett <a data-id=\"lov/1984-06-08-59/§2-7\" class=\" reference\" href=\"/lov/1984-06-08-59/%C2%A72-7\">§ 2-7</a>.",
         "text": "Refselsesbøter kan innkreves av Statens Innkrevingssentral. Innkrevingssentralen kan inndrive bøtene ved trekk i lønn eller andre lignende ytelser som nevnt i lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett § 2-7."
     },
     {
@@ -437,6 +448,7 @@
         "text": "Kapittel IV Kommunale plikter"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -447,7 +459,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Kommunens plikter</em>",
-        "text": "Kommunens plikter"
+        "text": " Kommunens plikter"
     },
     {
         "tag": "p",
@@ -463,45 +475,45 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stille rom og kommunal grunn til rådighet ved innsats eller til utdannings- og øvingsformål for Sivilforsvaret, og sørge for varme, lys og renhold i slike rom. Kommunen plikter å tillate forandringer av de rom som stilles til rådighet,</td>\n</tr>",
-        "text": "a)stille rom og kommunal grunn til rådighet ved innsats eller til utdannings- og øvingsformål for Sivilforsvaret, og sørge for varme, lys og renhold i slike rom. Kommunen plikter å tillate forandringer av de rom som stilles til rådighet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stille rom og kommunal grunn til rådighet ved innsats eller til utdannings- og øvingsformål for Sivilforsvaret, og sørge for varme, lys og renhold i slike rom. Kommunen plikter å tillate forandringer av de rom som stilles til rådighet,</td>\n</tr>",
+        "text": "a)\tstille rom og kommunal grunn til rådighet ved innsats eller til utdannings- og øvingsformål for Sivilforsvaret, og sørge for varme, lys og renhold i slike rom. Kommunen plikter å tillate forandringer av de rom som stilles til rådighet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stille kommunal grunn til rådighet for bygging av sivilforsvarsanlegg,</td>\n</tr>",
-        "text": "b)stille kommunal grunn til rådighet for bygging av sivilforsvarsanlegg,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stille kommunal grunn til rådighet for bygging av sivilforsvarsanlegg,</td>\n</tr>",
+        "text": "b)\tstille kommunal grunn til rådighet for bygging av sivilforsvarsanlegg,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sørge for innkvartering, bespisning og annen bistand til Sivilforsvaret når dette er nødvendig,</td>\n</tr>",
-        "text": "c)sørge for innkvartering, bespisning og annen bistand til Sivilforsvaret når dette er nødvendig,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sørge for innkvartering, bespisning og annen bistand til Sivilforsvaret når dette er nødvendig,</td>\n</tr>",
+        "text": "c)\tsørge for innkvartering, bespisning og annen bistand til Sivilforsvaret når dette er nødvendig,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ivareta oppgaver i forbindelse med lagring og vedlikehold av Sivilforsvarets materiell, jf. § 13,</td>\n</tr>",
-        "text": "d)ivareta oppgaver i forbindelse med lagring og vedlikehold av Sivilforsvarets materiell, jf. § 13,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ivareta oppgaver i forbindelse med lagring og vedlikehold av Sivilforsvarets materiell, jf. <a data-id=\"lov/2010-06-25-45/§13\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A713\">§ 13</a>,</td>\n</tr>",
+        "text": "d)\tivareta oppgaver i forbindelse med lagring og vedlikehold av Sivilforsvarets materiell, jf. § 13,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bygge, utstyre, innrede og vedlikeholde offentlige tilfluktsrom, jf. §§ 20 flg.,</td>\n</tr>",
-        "text": "e)bygge, utstyre, innrede og vedlikeholde offentlige tilfluktsrom, jf. §§ 20 flg.,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bygge, utstyre, innrede og vedlikeholde offentlige tilfluktsrom, jf. <a data-id=\"lov/2010-06-25-45/§20\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A720\">§§ 20</a> flg.,</td>\n</tr>",
+        "text": "e)\tbygge, utstyre, innrede og vedlikeholde offentlige tilfluktsrom, jf. §§ 20 flg.,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ivareta de kommunale beredskapsplikter som fremgår av §§ 14 og 15,</td>\n</tr>",
-        "text": "f)ivareta de kommunale beredskapsplikter som fremgår av §§ 14 og 15,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ivareta de kommunale beredskapsplikter som fremgår av <a data-id=\"lov/2010-06-25-45/§14\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A714\">§§ 14</a> og <a data-id=\"lov/2010-06-25-45/§15\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A715\">15</a>,</td>\n</tr>",
+        "text": "f)\tivareta de kommunale beredskapsplikter som fremgår av §§ 14 og 15,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">planlegge og bistå ved gjennomføring av evakuering etter §§ 15, 17 og 18.</td>\n</tr>",
-        "text": "g)planlegge og bistå ved gjennomføring av evakuering etter §§ 15, 17 og 18."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">planlegge og bistå ved gjennomføring av evakuering etter <a data-id=\"lov/2010-06-25-45/§15\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A715\">§§ 15</a>, <a data-id=\"lov/2010-06-25-45/§17\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A717\">17</a> og <a data-id=\"lov/2010-06-25-45/§18\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A718\">18</a>.</td>\n</tr>",
+        "text": "g)\tplanlegge og bistå ved gjennomføring av evakuering etter §§ 15, 17 og 18."
     },
     {
         "tag": "p",
@@ -515,6 +527,7 @@
         "html": "Departementet kan gi forskrifter om andre oppgaver til kommunen som er nødvendige for å gjennomføre tiltak etter denne loven.",
         "text": "Departementet kan gi forskrifter om andre oppgaver til kommunen som er nødvendige for å gjennomføre tiltak etter denne loven."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -559,6 +572,7 @@
         "text": "Kapittel V Kommunal beredskapsplikt"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -569,7 +583,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Kommunal beredskapsplikt – risiko- og sårbarhetsanalyse</em>",
-        "text": "Kommunal beredskapsplikt – risiko- og sårbarhetsanalyse"
+        "text": " Kommunal beredskapsplikt – risiko- og sårbarhetsanalyse"
     },
     {
         "tag": "p",
@@ -580,13 +594,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Risiko- og sårbarhetsanalysen skal legges til grunn for kommunens arbeid med samfunnssikkerhet og beredskap, herunder ved utarbeiding av planer etter lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven).",
+        "html": "Risiko- og sårbarhetsanalysen skal legges til grunn for kommunens arbeid med samfunnssikkerhet og beredskap, herunder ved utarbeiding av planer etter <a data-id=\"lov/2008-06-27-71\" class=\" reference\" href=\"/lov/2008-06-27-71\">lov 27. juni 2008 nr. 71</a> om planlegging og byggesaksbehandling (plan- og bygningsloven).",
         "text": "Risiko- og sårbarhetsanalysen skal legges til grunn for kommunens arbeid med samfunnssikkerhet og beredskap, herunder ved utarbeiding av planer etter lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Risiko- og sårbarhetsanalysen skal oppdateres i takt med revisjon av kommunedelplaner, jf. lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 11-4 første ledd, og for øvrig ved endringer i risiko- og sårbarhetsbildet.",
+        "html": "Risiko- og sårbarhetsanalysen skal oppdateres i takt med revisjon av kommunedelplaner, jf. <a data-id=\"lov/2008-06-27-71\" class=\" reference\" href=\"/lov/2008-06-27-71\">lov 27. juni 2008 nr. 71</a> om planlegging og byggesaksbehandling (plan- og bygningsloven) <a data-id=\"lov/2008-06-27-71/§11-4\" class=\" reference\" href=\"/lov/2008-06-27-71/%C2%A711-4\">§ 11-4</a> første ledd, og for øvrig ved endringer i risiko- og sårbarhetsbildet.",
         "text": "Risiko- og sårbarhetsanalysen skal oppdateres i takt med revisjon av kommunedelplaner, jf. lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 11-4 første ledd, og for øvrig ved endringer i risiko- og sårbarhetsbildet."
     },
     {
@@ -595,6 +609,7 @@
         "html": "Departementet kan gi forskrifter med nærmere bestemmelser om gjennomføring av risiko- og sårbarhetsanalysen.",
         "text": "Departementet kan gi forskrifter med nærmere bestemmelser om gjennomføring av risiko- og sårbarhetsanalysen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -606,12 +621,12 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Kommunal beredskapsplikt – beredskapsplan for kommunen</em>",
-        "text": "Kommunal beredskapsplikt – beredskapsplan for kommunen"
+        "text": " Kommunal beredskapsplikt – beredskapsplan for kommunen"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Med utgangspunkt i risiko- og sårbarhetsanalysen etter § 14 skal kommunen utarbeide en beredskapsplan.",
+        "html": "Med utgangspunkt i risiko- og sårbarhetsanalysen etter <a data-id=\"lov/2010-06-25-45/§14\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A714\">§ 14</a> skal kommunen utarbeide en beredskapsplan.",
         "text": "Med utgangspunkt i risiko- og sårbarhetsanalysen etter § 14 skal kommunen utarbeide en beredskapsplan."
     },
     {
@@ -639,6 +654,7 @@
         "text": "Kapittel VI Sivile beskyttelsestiltak"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -649,7 +665,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Varsling</em>",
-        "text": "Varsling"
+        "text": " Varsling"
     },
     {
         "tag": "p",
@@ -676,6 +692,7 @@
         "text": "Departementet kan gi forskrifter med nærmere bestemmelser om varsling etter denne bestemmelsen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -686,7 +703,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Evakuering i krig eller når krig truer</em>",
-        "text": "Evakuering i krig eller når krig truer"
+        "text": " Evakuering i krig eller når krig truer"
     },
     {
         "tag": "p",
@@ -715,9 +732,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Sivilforsvarets myndigheter kan pålegge berørte kommuner å medvirke under evakuering besluttet etter denne bestemmelse. Kommunene kan gis fullmakt til å utøve rekvisisjonsrett etter bestemmelsene i kapittel VII.",
+        "html": "Sivilforsvarets myndigheter kan pålegge berørte kommuner å medvirke under evakuering besluttet etter denne bestemmelse. Kommunene kan gis fullmakt til å utøve rekvisisjonsrett etter bestemmelsene i <a data-id=\"lov/2010-06-25-45/kapvii\" class=\" reference\" href=\"/lov/2010-06-25-45/kapvii\">kapittel VII</a>.",
         "text": "Sivilforsvarets myndigheter kan pålegge berørte kommuner å medvirke under evakuering besluttet etter denne bestemmelse. Kommunene kan gis fullmakt til å utøve rekvisisjonsrett etter bestemmelsene i kapittel VII."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -729,7 +747,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Allmennhetens bistand ved evakuering</em>",
-        "text": "Allmennhetens bistand ved evakuering"
+        "text": " Allmennhetens bistand ved evakuering"
     },
     {
         "tag": "p",
@@ -740,7 +758,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Vederlag for ytelser etter første ledd fastsettes etter reglene i § 27.",
+        "html": "Vederlag for ytelser etter første ledd fastsettes etter reglene i <a data-id=\"lov/2010-06-25-45/§27\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A727\">§ 27</a>.",
         "text": "Vederlag for ytelser etter første ledd fastsettes etter reglene i § 27."
     },
     {
@@ -749,6 +767,7 @@
         "html": "Ved evakuering etter pålegg betaler staten transportutgifter ved flyttingen. Fraflyttingskommunen betaler vederlaget for husvære for de evakuerte, men kan kreve dette refundert fra de evakuerte. Andre utgifter ved oppholdet betales av de evakuerte.",
         "text": "Ved evakuering etter pålegg betaler staten transportutgifter ved flyttingen. Fraflyttingskommunen betaler vederlaget for husvære for de evakuerte, men kan kreve dette refundert fra de evakuerte. Andre utgifter ved oppholdet betales av de evakuerte."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -760,7 +779,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Forskrifter om evakuering</em>",
-        "text": "Forskrifter om evakuering"
+        "text": " Forskrifter om evakuering"
     },
     {
         "tag": "p",
@@ -768,6 +787,7 @@
         "html": "Departementet kan gi forskrifter om evakuering, herunder bestemmelser om planlegging, iverksetting og gjennomføring av evakuering. Det kan videre gis forskrifter om evakuerte personers rettsstilling og om utredning, fordeling og refusjon av utgifter knyttet til evakuering.",
         "text": "Departementet kan gi forskrifter om evakuering, herunder bestemmelser om planlegging, iverksetting og gjennomføring av evakuering. Det kan videre gis forskrifter om evakuerte personers rettsstilling og om utredning, fordeling og refusjon av utgifter knyttet til evakuering."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -779,7 +799,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Etablering av offentlige og private tilfluktsrom</em>",
-        "text": "Etablering av offentlige og private tilfluktsrom"
+        "text": " Etablering av offentlige og private tilfluktsrom"
     },
     {
         "tag": "p",
@@ -818,6 +838,7 @@
         "text": "Departementet kan gi forskrifter om tilfluktsrom. Det kan herunder gis bestemmelser om statens tilskudd ved bygging av offentlige tilfluktsrom og om overføring av ubenyttede midler til bruk i en annen kommune, jf. tredje ledd."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -828,7 +849,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Plikt til å opprettholde tilfluktsrom</em>",
-        "text": "Plikt til å opprettholde tilfluktsrom"
+        "text": " Plikt til å opprettholde tilfluktsrom"
     },
     {
         "tag": "p",
@@ -855,6 +876,7 @@
         "text": "Departementet kan gi forskrifter om nærmere plikter etter denne bestemmelsen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -865,7 +887,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Tilfluktsromtjeneste i beredskapssituasjoner</em>",
-        "text": "Tilfluktsromtjeneste i beredskapssituasjoner"
+        "text": " Tilfluktsromtjeneste i beredskapssituasjoner"
     },
     {
         "tag": "p",
@@ -886,6 +908,7 @@
         "text": "Departementet kan gi forskrifter om tilfluktsromtjeneste."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -896,7 +919,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Egenbeskyttelsestiltak ved virksomheter</em>",
-        "text": "Egenbeskyttelsestiltak ved virksomheter"
+        "text": " Egenbeskyttelsestiltak ved virksomheter"
     },
     {
         "tag": "p",
@@ -929,6 +952,7 @@
         "text": "Departementet kan gi forskrifter om egenbeskyttelse ved virksomheter."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -939,7 +963,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Egenbeskyttelsestiltak for fast eiendom</em>",
-        "text": "Egenbeskyttelsestiltak for fast eiendom"
+        "text": " Egenbeskyttelsestiltak for fast eiendom"
     },
     {
         "tag": "p",
@@ -960,6 +984,7 @@
         "text": "Kapittel VII Rekvisisjon av fast eiendom, løsøre og rettigheter"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -970,7 +995,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Rekvisisjon</em>",
-        "text": "Rekvisisjon"
+        "text": " Rekvisisjon"
     },
     {
         "tag": "p",
@@ -1005,7 +1030,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Avståelsen kan kreves gjennomført straks, selv om erstatning ikke er betalt eller fastsatt. Rekvirerende myndighet skal i så fall sørge for å innhente de beskrivelser og opplysninger som er nødvendige for fastsetting av erstatning. Skjønn etter § 27 skal avholdes så snart som mulig. Når det er nødvendig kan rekvirering gjennomføres med bistand fra politiet.",
+        "html": "Avståelsen kan kreves gjennomført straks, selv om erstatning ikke er betalt eller fastsatt. Rekvirerende myndighet skal i så fall sørge for å innhente de beskrivelser og opplysninger som er nødvendige for fastsetting av erstatning. Skjønn etter <a data-id=\"lov/2010-06-25-45/§27\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A727\">§ 27</a> skal avholdes så snart som mulig. Når det er nødvendig kan rekvirering gjennomføres med bistand fra politiet.",
         "text": "Avståelsen kan kreves gjennomført straks, selv om erstatning ikke er betalt eller fastsatt. Rekvirerende myndighet skal i så fall sørge for å innhente de beskrivelser og opplysninger som er nødvendige for fastsetting av erstatning. Skjønn etter § 27 skal avholdes så snart som mulig. Når det er nødvendig kan rekvirering gjennomføres med bistand fra politiet."
     },
     {
@@ -1014,6 +1039,7 @@
         "html": "Departementet kan gi forskrifter om rekvisisjon.",
         "text": "Departementet kan gi forskrifter om rekvisisjon."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1025,12 +1051,12 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Forberedende tiltak med sikte på rekvisisjon</em>",
-        "text": "Forberedende tiltak med sikte på rekvisisjon"
+        "text": " Forberedende tiltak med sikte på rekvisisjon"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Som ledd i forberedende tiltak kan de myndigheter som departementet bestemmer, peke ut fast eiendom og løsøre som skal avstås etter § 25, og gi eier og bruker av løsøre pålegg om at tingen i nærmere angitte tilfeller skal stilles til rådighet på angitt sted.",
+        "html": "Som ledd i forberedende tiltak kan de myndigheter som departementet bestemmer, peke ut fast eiendom og løsøre som skal avstås etter <a data-id=\"lov/2010-06-25-45/§25\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A725\">§ 25</a>, og gi eier og bruker av løsøre pålegg om at tingen i nærmere angitte tilfeller skal stilles til rådighet på angitt sted.",
         "text": "Som ledd i forberedende tiltak kan de myndigheter som departementet bestemmer, peke ut fast eiendom og løsøre som skal avstås etter § 25, og gi eier og bruker av løsøre pålegg om at tingen i nærmere angitte tilfeller skal stilles til rådighet på angitt sted."
     },
     {
@@ -1052,6 +1078,7 @@
         "text": "Departementet kan gi forskrifter om forberedende tiltak etter denne bestemmelsen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1062,18 +1089,18 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Erstatning</em>",
-        "text": "Erstatning"
+        "text": " Erstatning"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Erstatning for avståelse etter § 25 og tap og utgifter ved å etterkomme pålegg etter § 26 fastsettes i mangel av minnelig overenskomst ved skjønn etter lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker, med mindre noe annet bestemmes i eller i medhold av denne loven.",
+        "html": "Erstatning for avståelse etter <a data-id=\"lov/2010-06-25-45/§25\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A725\">§ 25</a> og tap og utgifter ved å etterkomme pålegg etter <a data-id=\"lov/2010-06-25-45/§26\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A726\">§ 26</a> fastsettes i mangel av minnelig overenskomst ved skjønn etter <a data-id=\"lov/1917-06-01-1\" class=\" reference\" href=\"/lov/1917-06-01-1\">lov 1. juni 1917 nr. 1</a> om skjønn og ekspropriasjonssaker, med mindre noe annet bestemmes i eller i medhold av denne loven.",
         "text": "Erstatning for avståelse etter § 25 og tap og utgifter ved å etterkomme pålegg etter § 26 fastsettes i mangel av minnelig overenskomst ved skjønn etter lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker, med mindre noe annet bestemmes i eller i medhold av denne loven."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan fastsette takster for bruk av husrom, lagerrom og driftsbygninger, samt for elektrisk kraft, varer og annet løsøre. Det samme gjelder utgifter ved å etterkomme pålegg etter §§ 25 og 26 første ledd, samt for ytelser etter § 18. Takstene kan fastsettes for hele eller deler av riket.",
+        "html": "Departementet kan fastsette takster for bruk av husrom, lagerrom og driftsbygninger, samt for elektrisk kraft, varer og annet løsøre. Det samme gjelder utgifter ved å etterkomme pålegg etter <a data-id=\"lov/2010-06-25-45/§25\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A725\">§§ 25</a> og <a data-id=\"lov/2010-06-25-45/§26\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A726\">26</a> første ledd, samt for ytelser etter <a data-id=\"lov/2010-06-25-45/§18\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A718\">§ 18</a>. Takstene kan fastsettes for hele eller deler av riket.",
         "text": "Departementet kan fastsette takster for bruk av husrom, lagerrom og driftsbygninger, samt for elektrisk kraft, varer og annet løsøre. Det samme gjelder utgifter ved å etterkomme pålegg etter §§ 25 og 26 første ledd, samt for ytelser etter § 18. Takstene kan fastsettes for hele eller deler av riket."
     },
     {
@@ -1085,9 +1112,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan gi forskrifter om erstatning ved rekvisisjon. Slike regler kan gis med virkning for rekvirering som allerede har funnet sted. Det kan herunder bestemmes at erstatning skal fastsettes og utbetales etter reglene i lov 29. juni 1951 nr. 19 om militære rekvisisjoner. Erstatningsfastsettelsen kan i tilfelle legges til de organer som opprettes i medhold av nevnte lovgivning.",
+        "html": "Departementet kan gi forskrifter om erstatning ved rekvisisjon. Slike regler kan gis med virkning for rekvirering som allerede har funnet sted. Det kan herunder bestemmes at erstatning skal fastsettes og utbetales etter reglene i <a data-id=\"lov/1951-06-29-19\" class=\" reference\" href=\"/lov/1951-06-29-19\">lov 29. juni 1951 nr. 19</a> om militære rekvisisjoner. Erstatningsfastsettelsen kan i tilfelle legges til de organer som opprettes i medhold av nevnte lovgivning.",
         "text": "Departementet kan gi forskrifter om erstatning ved rekvisisjon. Slike regler kan gis med virkning for rekvirering som allerede har funnet sted. Det kan herunder bestemmes at erstatning skal fastsettes og utbetales etter reglene i lov 29. juni 1951 nr. 19 om militære rekvisisjoner. Erstatningsfastsettelsen kan i tilfelle legges til de organer som opprettes i medhold av nevnte lovgivning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1099,12 +1127,12 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Samordning av rekvisisjoner</em>",
-        "text": "Samordning av rekvisisjoner"
+        "text": " Samordning av rekvisisjoner"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når militære myndigheter har rekvisisjonsrett etter lov 29. juni 1951 nr. 19 om militære rekvisisjoner, får § 8 i samme lov tilsvarende anvendelse for krav om avståelse etter loven her i den utstrekning departementet bestemmer.",
+        "html": "Når militære myndigheter har rekvisisjonsrett etter <a data-id=\"lov/1951-06-29-19\" class=\" reference\" href=\"/lov/1951-06-29-19\">lov 29. juni 1951 nr. 19</a> om militære rekvisisjoner, får § 8 i samme lov tilsvarende anvendelse for krav om avståelse etter loven her i den utstrekning departementet bestemmer.",
         "text": "Når militære myndigheter har rekvisisjonsrett etter lov 29. juni 1951 nr. 19 om militære rekvisisjoner, får § 8 i samme lov tilsvarende anvendelse for krav om avståelse etter loven her i den utstrekning departementet bestemmer."
     },
     {
@@ -1113,6 +1141,7 @@
         "html": "Kapittel VIII Tilsyn, håndheving og sanksjon med mer",
         "text": "Kapittel VIII Tilsyn, håndheving og sanksjon med mer"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1124,12 +1153,12 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Tilsyn</em>",
-        "text": "Tilsyn"
+        "text": " Tilsyn"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet utpeker hvem som skal føre tilsyn med bestemmelser gitt i eller i medhold av denne lov. Det kan herunder bestemmes at organisasjon eller institusjon skal organisere og føre tilsyn med egenbeskyttelsestiltak ved bestemte virksomheter, jf. § 23.",
+        "html": "Departementet utpeker hvem som skal føre tilsyn med bestemmelser gitt i eller i medhold av denne lov. Det kan herunder bestemmes at organisasjon eller institusjon skal organisere og føre tilsyn med egenbeskyttelsestiltak ved bestemte virksomheter, jf. <a data-id=\"lov/2010-06-25-45/§23\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A723\">§ 23</a>.",
         "text": "Departementet utpeker hvem som skal føre tilsyn med bestemmelser gitt i eller i medhold av denne lov. Det kan herunder bestemmes at organisasjon eller institusjon skal organisere og føre tilsyn med egenbeskyttelsestiltak ved bestemte virksomheter, jf. § 23."
     },
     {
@@ -1144,6 +1173,7 @@
         "html": "For tilsyn med lovligheten av kommunens oppfyllelse av plikter etter §§ 12, 13, 14, 15, 20 og 21 gjelder kapittel 10 A i lov 25. september nr. 107 om kommuner og fylkeskommuner (kommuneloven).",
         "text": "For tilsyn med lovligheten av kommunens oppfyllelse av plikter etter §§ 12, 13, 14, 15, 20 og 21 gjelder kapittel 10 A i lov 25. september nr. 107 om kommuner og fylkeskommuner (kommuneloven)."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1160,7 +1190,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Utgifter som utpekt tilsynsorgan påføres ved å organisere og føre tilsyn med egenbeskyttelsestiltak ved bestemte virksomheter, jf. § 23, kan utliknes og kreves betalt av virksomhetene.",
+        "html": "Utgifter som utpekt tilsynsorgan påføres ved å organisere og føre tilsyn med egenbeskyttelsestiltak ved bestemte virksomheter, jf. <a data-id=\"lov/2010-06-25-45/§23\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A723\">§ 23</a>, kan utliknes og kreves betalt av virksomhetene.",
         "text": "Utgifter som utpekt tilsynsorgan påføres ved å organisere og føre tilsyn med egenbeskyttelsestiltak ved bestemte virksomheter, jf. § 23, kan utliknes og kreves betalt av virksomhetene."
     },
     {
@@ -1169,6 +1199,7 @@
         "html": "Departementet kan gi forskrifter om tilsyn med egenbeskyttelsestiltak ved virksomheter.",
         "text": "Departementet kan gi forskrifter om tilsyn med egenbeskyttelsestiltak ved virksomheter."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1180,7 +1211,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Tilsynsmyndighetens rett til opplysninger</em>",
-        "text": "Tilsynsmyndighetens rett til opplysninger"
+        "text": " Tilsynsmyndighetens rett til opplysninger"
     },
     {
         "tag": "p",
@@ -1201,6 +1232,7 @@
         "text": "Tilsynsmyndigheten kan bestemme i hvilken form opplysninger etter denne bestemmelsen skal gis."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1211,7 +1243,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Rett til adgang mv.</em>",
-        "text": "Rett til adgang mv."
+        "text": " Rett til adgang mv."
     },
     {
         "tag": "p",
@@ -1226,6 +1258,7 @@
         "text": "Tilsynspersonellet skal legitimere seg i samsvar med lov 10. februar 1967 nr. 2 om behandlingsmåten i forvaltningssaker § 15, og om mulig sette seg i kontakt med representant for eier eller bruker av objektet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1236,7 +1269,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Gjennomføring av tilsyn</em>",
-        "text": "Gjennomføring av tilsyn"
+        "text": " Gjennomføring av tilsyn"
     },
     {
         "tag": "p",
@@ -1257,6 +1290,7 @@
         "text": "Departementet kan gi forskrifter om gjennomføring av tilsyn."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1267,7 +1301,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Pålegg og enkeltvedtak</em>",
-        "text": "Pålegg og enkeltvedtak"
+        "text": " Pålegg og enkeltvedtak"
     },
     {
         "tag": "p",
@@ -1290,13 +1324,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Blir pålegg stadfestet i rettskraftig dom eller ikke etterkommet, kan tilsynsmyndigheten selv utføre eller få pålegget utført for regning av den som dommen er rettet mot, uten at det er nødvendig med kjennelse etter lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse § 13-14.",
+        "html": "Blir pålegg stadfestet i rettskraftig dom eller ikke etterkommet, kan tilsynsmyndigheten selv utføre eller få pålegget utført for regning av den som dommen er rettet mot, uten at det er nødvendig med kjennelse etter <a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse <a data-id=\"lov/1992-06-26-86/§13-14\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A713-14\">§ 13-14</a>.",
         "text": "Blir pålegg stadfestet i rettskraftig dom eller ikke etterkommet, kan tilsynsmyndigheten selv utføre eller få pålegget utført for regning av den som dommen er rettet mot, uten at det er nødvendig med kjennelse etter lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse § 13-14."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved overhengende fare kan pålegget fullbyrdes etter reglene i tvangsfullbyrdelsesloven § 13-14 uten at dom kreves.",
+        "html": "Ved overhengende fare kan pålegget fullbyrdes etter reglene i <a data-id=\"lov/1992-06-26-86/§13-14\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A713-14\">tvangsfullbyrdelsesloven § 13-14</a> uten at dom kreves.",
         "text": "Ved overhengende fare kan pålegget fullbyrdes etter reglene i tvangsfullbyrdelsesloven § 13-14 uten at dom kreves."
     },
     {
@@ -1305,6 +1339,7 @@
         "html": "Når det er nødvendig kan pålegg og tiltak etter denne bestemmelsen gjennomføres med bistand fra politiet.",
         "text": "Når det er nødvendig kan pålegg og tiltak etter denne bestemmelsen gjennomføres med bistand fra politiet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1316,7 +1351,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Tvangsmulkt</em>",
-        "text": "Tvangsmulkt"
+        "text": " Tvangsmulkt"
     },
     {
         "tag": "p",
@@ -1337,6 +1372,7 @@
         "text": "Sivilforsvarets myndigheter og tilsynsmyndigheten kan frafalle påløpt tvangsmulkt."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1347,12 +1383,12 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Overtredelsesgebyr</em>",
-        "text": "Overtredelsesgebyr"
+        "text": " Overtredelsesgebyr"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Sivilforsvarets myndigheter og tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 6 første ledd, 7 første ledd, 8 annet, tredje eller femte ledd, 9, 16 annet eller tredje ledd, 20 annet, fjerde eller femte ledd, 21 første ledd, 25 første eller fjerde ledd, 26 første eller annet ledd, 31 første ledd og 32 første ledd.",
+        "html": "Sivilforsvarets myndigheter og tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av <a data-id=\"lov/2010-06-25-45/§6\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A76\">§§ 6</a> første ledd, 7 første ledd, 8 annet, tredje eller femte ledd, 9, 16 annet eller tredje ledd, 20 annet, fjerde eller femte ledd, 21 første ledd, 25 første eller fjerde ledd, 26 første eller annet ledd, 31 første ledd og 32 første ledd.",
         "text": "Sivilforsvarets myndigheter og tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 6 første ledd, 7 første ledd, 8 annet, tredje eller femte ledd, 9, 16 annet eller tredje ledd, 20 annet, fjerde eller femte ledd, 21 første ledd, 25 første eller fjerde ledd, 26 første eller annet ledd, 31 første ledd og 32 første ledd."
     },
     {
@@ -1376,7 +1412,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Overtredelsesgebyr og straff etter § 37 kan ikke brukes på samme lovbrudd.",
+        "html": "Overtredelsesgebyr og straff etter <a data-id=\"lov/2010-06-25-45/§37\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A737\">§ 37</a> kan ikke brukes på samme lovbrudd.",
         "text": "Overtredelsesgebyr og straff etter § 37 kan ikke brukes på samme lovbrudd."
     },
     {
@@ -1385,6 +1421,7 @@
         "html": "Kapittel IX Straff",
         "text": "Kapittel IX Straff"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1396,18 +1433,18 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Straff</em>",
-        "text": "Straff"
+        "text": " Straff"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som forsettlig overtrer §§ 5 første ledd, 20 annet ledd eller bestemmelser gitt i medhold av disse bestemmelsene, eller unnlater å etterkomme pålegg gitt med hjemmel i §§ 18 første ledd første punktum, 22 annet ledd, 25 første eller fjerde ledd, 26 første eller annet ledd straffes med bot eller fengsel inntil 3 måneder.",
+        "html": "Den som forsettlig overtrer <a data-id=\"lov/2010-06-25-45/§5\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A75\">§§ 5</a> første ledd, 20 annet ledd eller bestemmelser gitt i medhold av disse bestemmelsene, eller unnlater å etterkomme pålegg gitt med hjemmel i <a data-id=\"lov/2010-06-25-45/§18\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A718\">§§ 18</a> første ledd første punktum, 22 annet ledd, 25 første eller fjerde ledd, 26 første eller annet ledd straffes med bot eller fengsel inntil 3 måneder.",
         "text": "Den som forsettlig overtrer §§ 5 første ledd, 20 annet ledd eller bestemmelser gitt i medhold av disse bestemmelsene, eller unnlater å etterkomme pålegg gitt med hjemmel i §§ 18 første ledd første punktum, 22 annet ledd, 25 første eller fjerde ledd, 26 første eller annet ledd straffes med bot eller fengsel inntil 3 måneder."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som forsettlig eller grovt uaktsomt overtrer bestemmelsene i §§ 7 første eller femte ledd, 8 første, tredje eller femte ledd, eller § 9 eller bestemmelser gitt i medhold av disse bestemmelsene, straffes med bot eller fengsel inntil 1 år.",
+        "html": "Den som forsettlig eller grovt uaktsomt overtrer bestemmelsene i <a data-id=\"lov/2010-06-25-45/§7\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A77\">§§ 7</a> første eller femte ledd, 8 første, tredje eller femte ledd, eller <a data-id=\"lov/2010-06-25-45/§9\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A79\">§ 9</a> eller bestemmelser gitt i medhold av disse bestemmelsene, straffes med bot eller fengsel inntil 1 år.",
         "text": "Den som forsettlig eller grovt uaktsomt overtrer bestemmelsene i §§ 7 første eller femte ledd, 8 første, tredje eller femte ledd, eller § 9 eller bestemmelser gitt i medhold av disse bestemmelsene, straffes med bot eller fengsel inntil 1 år."
     },
     {
@@ -1423,6 +1460,7 @@
         "text": "Kapittel X Avsluttende bestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1433,18 +1471,18 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Forholdet til forvaltningsloven</em>",
-        "text": "Forholdet til forvaltningsloven"
+        "text": " Forholdet til forvaltningsloven"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når ikke annet er bestemt i medhold av lov 10. februar 1967 nr. 2 om behandlingsmåten i forvaltningssaker § 5 annet ledd, gjelder forvaltningsloven i fredstid for behandling av saker etter denne lov. Forhåndsvarsel til sakens parter kan likevel unnlates dersom antallet parter i saken er stort, eller et stort antall saker behandles under ett, eller forhåndsvarsel kan medføre at saken forsinkes på en uheldig måte. Tilsvarende gjelder dersom forhåndsvarsel av hensyn til partene synes upåkrevet.",
+        "html": "Når ikke annet er bestemt i medhold av lov 10. februar 1967 nr. 2 om behandlingsmåten i forvaltningssaker § 5 annet ledd, gjelder forvaltningsloven i fredstid for behandling av saker etter <a data-id=\"lov/2010-06-25-45/§5\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A75\">denne lov. </a>Forhåndsvarsel til sakens parter kan likevel unnlates dersom antallet parter i saken er stort, eller et stort antall saker behandles under ett, eller forhåndsvarsel kan medføre at saken forsinkes på en uheldig måte. Tilsvarende gjelder dersom forhåndsvarsel av hensyn til partene synes upåkrevet.",
         "text": "Når ikke annet er bestemt i medhold av lov 10. februar 1967 nr. 2 om behandlingsmåten i forvaltningssaker § 5 annet ledd, gjelder forvaltningsloven i fredstid for behandling av saker etter denne lov. Forhåndsvarsel til sakens parter kan likevel unnlates dersom antallet parter i saken er stort, eller et stort antall saker behandles under ett, eller forhåndsvarsel kan medføre at saken forsinkes på en uheldig måte. Tilsvarende gjelder dersom forhåndsvarsel av hensyn til partene synes upåkrevet."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forvaltningsloven kapittel IV–VI gjelder ikke for saker om tjenesteplikten og tjenestens utførelse. Pålegg etter §§ 7 eller 9 kan påklages til departementet.",
+        "html": "<a data-id=\"lov/1967-02-10/kapiv\" class=\" reference\" href=\"/lov/1967-02-10/kapiv\">Forvaltningsloven kapittel IV</a>–VI gjelder ikke for saker om tjenesteplikten og tjenestens utførelse. Pålegg etter <a data-id=\"lov/2010-06-25-45/§7\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A77\">§§ 7</a> eller <a data-id=\"lov/2010-06-25-45/§9\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A79\">9</a> kan påklages til departementet.",
         "text": "Forvaltningsloven kapittel IV–VI gjelder ikke for saker om tjenesteplikten og tjenestens utførelse. Pålegg etter §§ 7 eller 9 kan påklages til departementet."
     },
     {
@@ -1460,6 +1498,7 @@
         "text": "Departementet kan bestemme at vedtak etter denne loven ikke kan kreves grunngitt eller påklages når riket er i krig, krig truer eller rikets selvstendighet eller sikkerhet er i fare. Det samme gjelder ved uønskede hendelser i fredstid."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1470,14 +1509,15 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Overgangsbestemmelser</em>",
-        "text": "Overgangsbestemmelser"
+        "text": " Overgangsbestemmelser"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskrifter gitt med hjemmel i lov 17. juli 1953 nr. 9 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret gjelder også etter at loven her har trådt i kraft.",
+        "html": "Forskrifter gitt med hjemmel i <a data-id=\"lov/1953-07-17-9\" class=\" reference\" href=\"/lov/1953-07-17-9\">lov 17. juli 1953 nr. 9</a> om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret gjelder også etter at loven her har trådt i kraft.",
         "text": "Forskrifter gitt med hjemmel i lov 17. juli 1953 nr. 9 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret gjelder også etter at loven her har trådt i kraft."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1489,7 +1529,7 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Ikrafttredelse</em>",
-        "text": "Ikrafttredelse"
+        "text": " Ikrafttredelse"
     },
     {
         "tag": "p",
@@ -1500,9 +1540,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra samme dato oppheves lov 17. juli 1953 nr. 9 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret.",
+        "html": "Fra samme dato oppheves <a data-id=\"lov/1953-07-17-9\" class=\" reference\" href=\"/lov/1953-07-17-9\">lov 17. juli 1953 nr. 9</a> om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret.",
         "text": "Fra samme dato oppheves lov 17. juli 1953 nr. 9 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1514,12 +1555,12 @@
         "tag": "span",
         "class": "paragrafTittel",
         "html": "<em class=\" \"> Endringer i andre lover</em>",
-        "text": "Endringer i andre lover"
+        "text": " Endringer i andre lover"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven) skal § 40 første ledd første punktum lyde:",
+        "html": "I <a data-id=\"lov/2000-11-24-82\" class=\" reference\" href=\"/lov/2000-11-24-82\">lov 24. november 2000 nr. 82</a> om vassdrag og grunnvann (vannressursloven) skal <a data-id=\"lov/2000-11-24-82/§40\" class=\" reference\" href=\"/lov/2000-11-24-82/%C2%A740\">§ 40</a> første ledd første punktum lyde:",
         "text": "I lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven) skal § 40 første ledd første punktum lyde:"
     },
     {

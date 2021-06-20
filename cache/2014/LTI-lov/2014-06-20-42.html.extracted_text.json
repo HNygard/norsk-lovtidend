@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.72 L (2013–2014), Innst.295 L (2013–2014), Lovvedtak 75 (2013–2014). Stortingets første og andre gangs behandling hhv. 16. og 20. juni 2014. Fremmet av Helse- og omsorgsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-72-l-201314\" class=\" reference\" href=\"/forarbeid/prop-72-l-201314\">Prop.72 L (2013–2014)</a>, <a data-id=\"forarbeid/inns-295-l-201314\" class=\" reference\" href=\"/forarbeid/inns-295-l-201314\">Innst.295 L (2013–2014)</a>, <a data-id=\"forarbeid/lovvedtak-75-201314\" class=\" reference\" href=\"/forarbeid/lovvedtak-75-201314\">Lovvedtak 75 (2013–2014)</a>. Stortingets første og andre gangs behandling hhv. 16. og 20. juni 2014. Fremmet av Helse- og omsorgsdepartementet.",
         "text": "Prop.72 L (2013–2014), Innst.295 L (2013–2014), Lovvedtak 75 (2013–2014). Stortingets første og andre gangs behandling hhv. 16. og 20. juni 2014. Fremmet av Helse- og omsorgsdepartementet."
     },
     {
@@ -11,6 +11,7 @@
         "html": "Kapittel 1 Generelle bestemmelser",
         "text": "Kapittel 1 Generelle bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -32,16 +33,17 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir pasienter og brukere helsehjelp av god kvalitet ved at relevante og nødvendige opplysninger på en rask og effektiv måte blir tilgjengelige for helsepersonell, samtidig som vernet mot at opplysninger gis til uvedkommende ivaretas, og</td>\n</tr>",
-        "text": "a)gir pasienter og brukere helsehjelp av god kvalitet ved at relevante og nødvendige opplysninger på en rask og effektiv måte blir tilgjengelige for helsepersonell, samtidig som vernet mot at opplysninger gis til uvedkommende ivaretas, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir pasienter og brukere helsehjelp av god kvalitet ved at relevante og nødvendige opplysninger på en rask og effektiv måte blir tilgjengelige for helsepersonell, samtidig som vernet mot at opplysninger gis til uvedkommende ivaretas, og</td>\n</tr>",
+        "text": "a)\tgir pasienter og brukere helsehjelp av god kvalitet ved at relevante og nødvendige opplysninger på en rask og effektiv måte blir tilgjengelige for helsepersonell, samtidig som vernet mot at opplysninger gis til uvedkommende ivaretas, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sikrer pasienters og brukeres personvern, pasientsikkerhet og rett til informasjon og medvirkning.</td>\n</tr>",
-        "text": "b)sikrer pasienters og brukeres personvern, pasientsikkerhet og rett til informasjon og medvirkning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sikrer pasienters og brukeres personvern, pasientsikkerhet og rett til informasjon og medvirkning.</td>\n</tr>",
+        "text": "b)\tsikrer pasienters og brukeres personvern, pasientsikkerhet og rett til informasjon og medvirkning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -63,34 +65,35 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">helseopplysninger:</em> taushetsbelagte opplysninger etter helsepersonelloven § 21, og andre opplysninger og vurderinger om helseforhold eller av betydning for helseforhold, som kan knyttes til en enkeltperson,</td>\n</tr>",
-        "text": "a)helseopplysninger: taushetsbelagte opplysninger etter helsepersonelloven § 21, og andre opplysninger og vurderinger om helseforhold eller av betydning for helseforhold, som kan knyttes til en enkeltperson,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">helseopplysninger:</em> taushetsbelagte opplysninger etter <a data-id=\"lov/1999-07-02-64/§21\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A721\">helsepersonelloven § 21</a>, og andre opplysninger og vurderinger om helseforhold eller av betydning for helseforhold, som kan knyttes til en enkeltperson,</td>\n</tr>",
+        "text": "a)\thelseopplysninger: taushetsbelagte opplysninger etter helsepersonelloven § 21, og andre opplysninger og vurderinger om helseforhold eller av betydning for helseforhold, som kan knyttes til en enkeltperson,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">behandling av helseopplysninger:</em> enhver bruk av helseopplysninger, som for eksempel innsamling, registrering, sammenstilling, lagring og utlevering, eller en kombinasjon av slike bruksmåter,</td>\n</tr>",
-        "text": "b)behandling av helseopplysninger: enhver bruk av helseopplysninger, som for eksempel innsamling, registrering, sammenstilling, lagring og utlevering, eller en kombinasjon av slike bruksmåter,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">behandling av helseopplysninger:</em> enhver bruk av helseopplysninger, som for eksempel innsamling, registrering, sammenstilling, lagring og utlevering, eller en kombinasjon av slike bruksmåter,</td>\n</tr>",
+        "text": "b)\tbehandling av helseopplysninger: enhver bruk av helseopplysninger, som for eksempel innsamling, registrering, sammenstilling, lagring og utlevering, eller en kombinasjon av slike bruksmåter,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">helsehjelp</em>: handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som utføres av helsepersonell, jf. helsepersonelloven § 3 første ledd,</td>\n</tr>",
-        "text": "c)helsehjelp: handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som utføres av helsepersonell, jf. helsepersonelloven § 3 første ledd,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">helsehjelp</em>: handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som utføres av helsepersonell, jf. <a data-id=\"lov/1999-07-02-64/§3\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A73\">helsepersonelloven § 3</a> første ledd,</td>\n</tr>",
+        "text": "c)\thelsehjelp: handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som utføres av helsepersonell, jf. helsepersonelloven § 3 første ledd,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">behandlingsrettet helseregister:</em> pasientjournal- og informasjonssystem eller annet register, fortegnelse eller lignende, der helseopplysninger er lagret systematisk slik at opplysninger om den enkelte kan finnes igjen og som skal gi grunnlag for helsehjelp eller administrasjon av helsehjelp til enkeltpersoner,</td>\n</tr>",
-        "text": "d)behandlingsrettet helseregister: pasientjournal- og informasjonssystem eller annet register, fortegnelse eller lignende, der helseopplysninger er lagret systematisk slik at opplysninger om den enkelte kan finnes igjen og som skal gi grunnlag for helsehjelp eller administrasjon av helsehjelp til enkeltpersoner,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">behandlingsrettet helseregister:</em> pasientjournal- og informasjonssystem eller annet register, fortegnelse eller lignende, der helseopplysninger er lagret systematisk slik at opplysninger om den enkelte kan finnes igjen og som skal gi grunnlag for helsehjelp eller administrasjon av helsehjelp til enkeltpersoner,</td>\n</tr>",
+        "text": "d)\tbehandlingsrettet helseregister: pasientjournal- og informasjonssystem eller annet register, fortegnelse eller lignende, der helseopplysninger er lagret systematisk slik at opplysninger om den enkelte kan finnes igjen og som skal gi grunnlag for helsehjelp eller administrasjon av helsehjelp til enkeltpersoner,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">databehandlingsansvarlig:</em> den som bestemmer formålet med behandlingen av helseopplysningene og hvilke hjelpemidler som skal brukes, og den som i eller i medhold av lov er pålagt et databehandlingsansvar.</td>\n</tr>",
-        "text": "e)databehandlingsansvarlig: den som bestemmer formålet med behandlingen av helseopplysningene og hvilke hjelpemidler som skal brukes, og den som i eller i medhold av lov er pålagt et databehandlingsansvar."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">databehandlingsansvarlig:</em> den som bestemmer formålet med behandlingen av helseopplysningene og hvilke hjelpemidler som skal brukes, og den som i eller i medhold av lov er pålagt et databehandlingsansvar.</td>\n</tr>",
+        "text": "e)\tdatabehandlingsansvarlig: den som bestemmer formålet med behandlingen av helseopplysningene og hvilke hjelpemidler som skal brukes, og den som i eller i medhold av lov er pålagt et databehandlingsansvar."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -117,6 +120,7 @@
         "text": "Kongen i statsråd kan i forskrift eller enkeltvedtak bestemme at loven helt eller delvis skal gjelde for behandling av helseopplysninger til andre formål enn helsehjelp."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -141,6 +145,7 @@
         "html": "Loven gjelder også for databehandlingsansvarlige som er etablert i stater utenfor EØS-området, dersom den databehandlingsansvarlige benytter hjelpemidler i Norge. Dette gjelder likevel ikke dersom hjelpemidlene bare brukes til å overføre personopplysninger via Norge. Databehandlingsansvarlige skal ha en representant som er etablert i Norge. Bestemmelsene som gjelder for den databehandlingsansvarlige, gjelder også for representanten.",
         "text": "Loven gjelder også for databehandlingsansvarlige som er etablert i stater utenfor EØS-området, dersom den databehandlingsansvarlige benytter hjelpemidler i Norge. Dette gjelder likevel ikke dersom hjelpemidlene bare brukes til å overføre personopplysninger via Norge. Databehandlingsansvarlige skal ha en representant som er etablert i Norge. Bestemmelsene som gjelder for den databehandlingsansvarlige, gjelder også for representanten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -167,6 +172,7 @@
         "text": "Kapittel 2 Pasientjournaler og andre behandlingsrettede helseregistre"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -182,7 +188,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Behandlingsrettede helseregistre må ha hjemmel i lov. Konsesjonsplikt etter personopplysningsloven § 33 gjelder ikke for behandling av helseopplysninger som skjer med hjemmel i denne loven.",
+        "html": "Behandlingsrettede helseregistre må ha hjemmel i lov. Konsesjonsplikt etter <a data-id=\"lov/2018-06-15-38/§33\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A733\">personopplysningsloven § 33</a> gjelder ikke for behandling av helseopplysninger som skjer med hjemmel i denne loven.",
         "text": "Behandlingsrettede helseregistre må ha hjemmel i lov. Konsesjonsplikt etter personopplysningsloven § 33 gjelder ikke for behandling av helseopplysninger som skjer med hjemmel i denne loven."
     },
     {
@@ -197,6 +203,7 @@
         "html": "Ved behandling av helseopplysninger til internkontroll eller kvalitetssikring skal opplysningene så langt som mulig behandles uten at den registrertes navn og fødselsnummer fremgår.",
         "text": "Ved behandling av helseopplysninger til internkontroll eller kvalitetssikring skal opplysningene så langt som mulig behandles uten at den registrertes navn og fødselsnummer fremgår."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -224,45 +231,45 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">taushetsplikt, jf. § 15,</td>\n</tr>",
-        "text": "a)taushetsplikt, jf. § 15,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">taushetsplikt, jf. <a data-id=\"lov/2014-06-20-42/§15\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A715\">§ 15</a>,</td>\n</tr>",
+        "text": "a)\ttaushetsplikt, jf. § 15,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbud mot urettmessig tilegnelse av helseopplysninger, jf. § 16,</td>\n</tr>",
-        "text": "b)forbud mot urettmessig tilegnelse av helseopplysninger, jf. § 16,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbud mot urettmessig tilegnelse av helseopplysninger, jf. <a data-id=\"lov/2014-06-20-42/§16\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A716\">§ 16</a>,</td>\n</tr>",
+        "text": "b)\tforbud mot urettmessig tilegnelse av helseopplysninger, jf. § 16,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">retten til å motsette seg behandling av helseopplysninger, jf. § 17,</td>\n</tr>",
-        "text": "c)retten til å motsette seg behandling av helseopplysninger, jf. § 17,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">retten til å motsette seg behandling av helseopplysninger, jf. <a data-id=\"lov/2014-06-20-42/§17\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A717\">§ 17</a>,</td>\n</tr>",
+        "text": "c)\tretten til å motsette seg behandling av helseopplysninger, jf. § 17,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">retten til informasjon og innsyn, jf. § 18,</td>\n</tr>",
-        "text": "d)retten til informasjon og innsyn, jf. § 18,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">retten til informasjon og innsyn, jf. <a data-id=\"lov/2014-06-20-42/§18\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A718\">§ 18</a>,</td>\n</tr>",
+        "text": "d)\tretten til informasjon og innsyn, jf. § 18,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsepersonells dokumentasjonsplikt, jf. helsepersonelloven § 39,</td>\n</tr>",
-        "text": "e)helsepersonells dokumentasjonsplikt, jf. helsepersonelloven § 39,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsepersonells dokumentasjonsplikt, jf. <a data-id=\"lov/1999-07-02-64/§39\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A739\">helsepersonelloven § 39</a>,</td>\n</tr>",
+        "text": "e)\thelsepersonells dokumentasjonsplikt, jf. helsepersonelloven § 39,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilgjengeliggjøring av helseopplysninger, jf. §§ 19 og 20 og</td>\n</tr>",
-        "text": "f)tilgjengeliggjøring av helseopplysninger, jf. §§ 19 og 20 og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilgjengeliggjøring av helseopplysninger, jf. <a data-id=\"lov/2014-06-20-42/§19\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A719\">§§ 19</a> og <a data-id=\"lov/2014-06-20-42/§20\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A720\">20</a> og</td>\n</tr>",
+        "text": "f)\ttilgjengeliggjøring av helseopplysninger, jf. §§ 19 og 20 og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjonssikkerhet og internkontroll, jf. §§ 22 og 23.</td>\n</tr>",
-        "text": "g)informasjonssikkerhet og internkontroll, jf. §§ 22 og 23."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjonssikkerhet og internkontroll, jf. <a data-id=\"lov/2014-06-20-42/§22\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A722\">§§ 22</a> og <a data-id=\"lov/2014-06-20-42/§23\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A723\">23</a>.</td>\n</tr>",
+        "text": "g)\tinformasjonssikkerhet og internkontroll, jf. §§ 22 og 23."
     },
     {
         "tag": "p",
@@ -270,6 +277,7 @@
         "html": "Departementet kan i forskrift gi nærmere bestemmelser om plikt til å ha elektroniske systemer, om godkjenning av programvare og sertifisering og om bruk av standarder, standardsystemer, kodeverk og klassifikasjonssystemer.",
         "text": "Departementet kan i forskrift gi nærmere bestemmelser om plikt til å ha elektroniske systemer, om godkjenning av programvare og sertifisering og om bruk av standarder, standardsystemer, kodeverk og klassifikasjonssystemer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -286,9 +294,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Virksomheter som yter helsehjelp skal sørge for å ha behandlingsrettede helseregistre for gjennomføring av helsepersonells dokumentasjonsplikt, jf. helsepersonelloven § 39.",
+        "html": "Virksomheter som yter helsehjelp skal sørge for å ha behandlingsrettede helseregistre for gjennomføring av helsepersonells dokumentasjonsplikt, jf. <a data-id=\"lov/1999-07-02-64/§39\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A739\">helsepersonelloven § 39</a>.",
         "text": "Virksomheter som yter helsehjelp skal sørge for å ha behandlingsrettede helseregistre for gjennomføring av helsepersonells dokumentasjonsplikt, jf. helsepersonelloven § 39."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -305,32 +314,32 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "To eller flere virksomheter kan samarbeide om behandlingsrettede helseregistre, jf. § 8. Virksomhetene skal da inngå skriftlig avtale om",
+        "html": "To eller flere virksomheter kan samarbeide om behandlingsrettede helseregistre, jf. <a data-id=\"lov/2014-06-20-42/§8\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A78\">§ 8</a>. Virksomhetene skal da inngå skriftlig avtale om",
         "text": "To eller flere virksomheter kan samarbeide om behandlingsrettede helseregistre, jf. § 8. Virksomhetene skal da inngå skriftlig avtale om"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hva samarbeidet omfatter,</td>\n</tr>",
-        "text": "a)hva samarbeidet omfatter,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hva samarbeidet omfatter,</td>\n</tr>",
+        "text": "a)\thva samarbeidet omfatter,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan pasientens eller brukerens rettigheter skal ivaretas,</td>\n</tr>",
-        "text": "b)hvordan pasientens eller brukerens rettigheter skal ivaretas,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan pasientens eller brukerens rettigheter skal ivaretas,</td>\n</tr>",
+        "text": "b)\thvordan pasientens eller brukerens rettigheter skal ivaretas,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan helseopplysningene skal behandles og sikres, også ved endringer i eller opphør av samarbeidet, og</td>\n</tr>",
-        "text": "c)hvordan helseopplysningene skal behandles og sikres, også ved endringer i eller opphør av samarbeidet, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan helseopplysningene skal behandles og sikres, også ved endringer i eller opphør av samarbeidet, og</td>\n</tr>",
+        "text": "c)\thvordan helseopplysningene skal behandles og sikres, også ved endringer i eller opphør av samarbeidet, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">databehandlingsansvar.</td>\n</tr>",
-        "text": "d)databehandlingsansvar."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">databehandlingsansvar.</td>\n</tr>",
+        "text": "d)\tdatabehandlingsansvar."
     },
     {
         "tag": "p",
@@ -338,6 +347,7 @@
         "html": "Departementet kan i forskrift eller enkeltvedtak fastsette vilkår for slikt samarbeid.",
         "text": "Departementet kan i forskrift eller enkeltvedtak fastsette vilkår for slikt samarbeid."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -354,7 +364,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen i statsråd kan gi forskrift om etablering av nasjonale behandlingsrettede helseregistre som på bestemte områder kommer i stedet for registre etter §§ 8 og 9.",
+        "html": "Kongen i statsråd kan gi forskrift om etablering av nasjonale behandlingsrettede helseregistre som på bestemte områder kommer i stedet for registre etter <a data-id=\"lov/2014-06-20-42/§8\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A78\">§§ 8</a> og <a data-id=\"lov/2014-06-20-42/§9\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A79\">9</a>.",
         "text": "Kongen i statsråd kan gi forskrift om etablering av nasjonale behandlingsrettede helseregistre som på bestemte områder kommer i stedet for registre etter §§ 8 og 9."
     },
     {
@@ -363,6 +373,7 @@
         "html": "Forskriften skal gi nærmere bestemmelser om drift, behandling og sikring av helseopplysningene, om databehandlingsansvar, om tilgangskontroll og om hvordan rettighetene til pasienten eller brukeren skal ivaretas.",
         "text": "Forskriften skal gi nærmere bestemmelser om drift, behandling og sikring av helseopplysningene, om databehandlingsansvar, om tilgangskontroll og om hvordan rettighetene til pasienten eller brukeren skal ivaretas."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -395,6 +406,7 @@
         "text": "Forskriften skal gi nærmere bestemmelser om behandlingen av opplysningene, om hvilke opplysninger som kan behandles, om den enkeltes rett til å motsette seg behandling av opplysningene og om databehandlingsansvar."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -425,6 +437,7 @@
         "html": "Forskriften skal gi nærmere bestemmelser om formålet med behandlingen av opplysningene, hvilke opplysninger som skal behandles og hvem som er databehandlingsansvarlig for opplysningene.",
         "text": "Forskriften skal gi nærmere bestemmelser om formålet med behandlingen av opplysningene, hvilke opplysninger som skal behandles og hvem som er databehandlingsansvarlig for opplysningene."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -459,7 +472,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Helsepersonell med tjenstlig behov ved ytelse av helsehjelp kan etter samtykke fra den registrerte gis tilgang til nødvendige og relevante helseopplysninger fra nasjonal kjernejournal. Med samtykke menes en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar at det gis slik tilgang. Når det er nødvendig for å yte forsvarlig helsehjelp, kan Kongen i statsråd i forskrift gjøre unntak fra kravet om samtykke. Ved unntak fra samtykke gjelder helsepersonelloven § 45 første ledd første punktum tilsvarende.",
+        "html": "Helsepersonell med tjenstlig behov ved ytelse av helsehjelp kan etter samtykke fra den registrerte gis tilgang til nødvendige og relevante helseopplysninger fra nasjonal kjernejournal. Med samtykke menes en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar at det gis slik tilgang. Når det er nødvendig for å yte forsvarlig helsehjelp, kan Kongen i statsråd i forskrift gjøre unntak fra kravet om samtykke. Ved unntak fra samtykke gjelder <a data-id=\"lov/1999-07-02-64/§45\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A745\">helsepersonelloven § 45</a> første ledd første punktum tilsvarende.",
         "text": "Helsepersonell med tjenstlig behov ved ytelse av helsehjelp kan etter samtykke fra den registrerte gis tilgang til nødvendige og relevante helseopplysninger fra nasjonal kjernejournal. Med samtykke menes en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar at det gis slik tilgang. Når det er nødvendig for å yte forsvarlig helsehjelp, kan Kongen i statsråd i forskrift gjøre unntak fra kravet om samtykke. Ved unntak fra samtykke gjelder helsepersonelloven § 45 første ledd første punktum tilsvarende."
     },
     {
@@ -468,6 +481,7 @@
         "html": "Kongen i statsråd kan i forskrift gi nærmere bestemmelser om drift og behandling av helseopplysninger, for eksempel hvilke opplysninger som skal behandles, hvem som er databehandlingsansvarlig, regler om sletting, tilgang og tilgangskontroll, samt pasientens rettigheter.",
         "text": "Kongen i statsråd kan i forskrift gi nærmere bestemmelser om drift og behandling av helseopplysninger, for eksempel hvilke opplysninger som skal behandles, hvem som er databehandlingsansvarlig, regler om sletting, tilgang og tilgangskontroll, samt pasientens rettigheter."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -490,7 +504,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen kan i forskrift gi nærmere bestemmelser om innhenting av helseopplysninger til registre som omfattes av §§ 11 til 13, blant annet om frister, formkrav, bruk av meldingsskjemaer og standarder.",
+        "html": "Kongen kan i forskrift gi nærmere bestemmelser om innhenting av helseopplysninger til registre som omfattes av <a data-id=\"lov/2014-06-20-42/§11\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A711\">§§ 11</a> til <a data-id=\"lov/2014-06-20-42/§13\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A713\">13</a>, blant annet om frister, formkrav, bruk av meldingsskjemaer og standarder.",
         "text": "Kongen kan i forskrift gi nærmere bestemmelser om innhenting av helseopplysninger til registre som omfattes av §§ 11 til 13, blant annet om frister, formkrav, bruk av meldingsskjemaer og standarder."
     },
     {
@@ -505,6 +519,7 @@
         "html": "Kapittel 3 Taushetsplikt, innsynsrett og rett til å motsette seg behandling av helseopplysninger",
         "text": "Kapittel 3 Taushetsplikt, innsynsrett og rett til å motsette seg behandling av helseopplysninger"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -521,9 +536,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Enhver som behandler helseopplysninger etter denne lov, har taushetsplikt etter helsepersonelloven §§ 21 flg. Andre som får adgang eller kjennskap til helseopplysninger fra et behandlingsrettet helseregister, har samme taushetsplikt.",
+        "html": "Enhver som behandler helseopplysninger etter denne lov, har taushetsplikt etter <a data-id=\"lov/1999-07-02-64/§21\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A721\">helsepersonelloven §§ 21</a> flg. Andre som får adgang eller kjennskap til helseopplysninger fra et behandlingsrettet helseregister, har samme taushetsplikt.",
         "text": "Enhver som behandler helseopplysninger etter denne lov, har taushetsplikt etter helsepersonelloven §§ 21 flg. Andre som får adgang eller kjennskap til helseopplysninger fra et behandlingsrettet helseregister, har samme taushetsplikt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -543,6 +559,7 @@
         "html": "Det er forbudt å lese, søke etter eller på annen måte tilegne seg, bruke eller besitte helseopplysninger fra behandlingsrettede helseregistre uten at det er begrunnet i helsehjelp til den enkelte, administrasjon av slike tjenester eller har særskilt hjemmel i lov eller forskrift.",
         "text": "Det er forbudt å lese, søke etter eller på annen måte tilegne seg, bruke eller besitte helseopplysninger fra behandlingsrettede helseregistre uten at det er begrunnet i helsehjelp til den enkelte, administrasjon av slike tjenester eller har særskilt hjemmel i lov eller forskrift."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -564,28 +581,29 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i §§ 8 til 10 gjøres tilgjengelige for helsepersonell etter § 19, jf. helsepersonelloven §§ 25 og 45 og pasient- og brukerrettighetsloven § 5-3,</td>\n</tr>",
-        "text": "a)helseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i §§ 8 til 10 gjøres tilgjengelige for helsepersonell etter § 19, jf. helsepersonelloven §§ 25 og 45 og pasient- og brukerrettighetsloven § 5-3,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i <a data-id=\"lov/2014-06-20-42/§8\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A78\">§§ 8</a> til <a data-id=\"lov/2014-06-20-42/§10\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A710\">10</a> gjøres tilgjengelige for helsepersonell etter <a data-id=\"lov/2014-06-20-42/§19\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A719\">§ 19</a>, jf. <a data-id=\"lov/1999-07-02-64/§25\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A725\">helsepersonelloven §§ 25</a> og <a data-id=\"lov/1999-07-02-64/§45\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A745\">45</a> og pasient- og <a data-id=\"lov/1999-07-02-63/§5-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A75-3\">brukerrettighetsloven § 5-3</a>,</td>\n</tr>",
+        "text": "a)\thelseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i §§ 8 til 10 gjøres tilgjengelige for helsepersonell etter § 19, jf. helsepersonelloven §§ 25 og 45 og pasient- og brukerrettighetsloven § 5-3,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i § 11, og</td>\n</tr>",
-        "text": "b)opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i § 11, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i <a data-id=\"lov/2014-06-20-42/§11\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A711\">§ 11</a>, og</td>\n</tr>",
+        "text": "b)\topplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i § 11, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i § 13.</td>\n</tr>",
-        "text": "c)helseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i § 13."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i <a data-id=\"lov/2014-06-20-42/§13\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A713\">§ 13</a>.</td>\n</tr>",
+        "text": "c)\thelseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i § 13."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene om samtykkekompetanse i pasient- og brukerrettighetsloven §§ 4-3 til 4-7 gjelder tilsvarende for retten til å motsette seg behandling av opplysningene.",
+        "html": "Reglene om samtykkekompetanse i pasient- og <a data-id=\"lov/1999-07-02-63/§4-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-3\">brukerrettighetsloven §§ 4-3</a> til <a data-id=\"lov/1999-07-02-63/§4-7\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-7\">4-7</a> gjelder tilsvarende for retten til å motsette seg behandling av opplysningene.",
         "text": "Reglene om samtykkekompetanse i pasient- og brukerrettighetsloven §§ 4-3 til 4-7 gjelder tilsvarende for retten til å motsette seg behandling av opplysningene."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -602,7 +620,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pasienten eller brukeren har rett til informasjon og innsyn i behandlingsrettede helseregistre etter pasient- og brukerrettighetsloven § 5-1, helsepersonelloven § 41 og personopplysningsloven §§ 18 flg. Dette omfatter også innsyn i hvem som har hatt tilgang til eller fått utlevert helseopplysninger som er knyttet til pasientens eller brukerens navn eller fødselsnummer.",
+        "html": "Pasienten eller brukeren har rett til informasjon og innsyn i behandlingsrettede helseregistre etter pasient- og <a data-id=\"lov/1999-07-02-63/§5-1\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A75-1\">brukerrettighetsloven § 5-1</a>, <a data-id=\"lov/1999-07-02-64/§41\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A741\">helsepersonelloven § 41</a> og <a data-id=\"lov/2018-06-15-38/§18\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A718\">personopplysningsloven §§ 18</a> flg. Dette omfatter også innsyn i hvem som har hatt tilgang til eller fått utlevert helseopplysninger som er knyttet til pasientens eller brukerens navn eller fødselsnummer.",
         "text": "Pasienten eller brukeren har rett til informasjon og innsyn i behandlingsrettede helseregistre etter pasient- og brukerrettighetsloven § 5-1, helsepersonelloven § 41 og personopplysningsloven §§ 18 flg. Dette omfatter også innsyn i hvem som har hatt tilgang til eller fått utlevert helseopplysninger som er knyttet til pasientens eller brukerens navn eller fødselsnummer."
     },
     {
@@ -623,6 +641,7 @@
         "html": "Kapittel 4 Virksomhetens plikter ved behandling av helseopplysninger",
         "text": "Kapittel 4 Virksomhetens plikter ved behandling av helseopplysninger"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -655,6 +674,7 @@
         "text": "Departementet kan i forskrift gi nærmere bestemmelser om hvordan helseopplysninger i behandlingsrettede helseregistre kan gjøres tilgjengelige."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -674,6 +694,7 @@
         "text": "Den databehandlingsansvarlige kan gjøre helseopplysninger tilgjengelige for andre formål enn helsehjelp når den enkelte samtykker eller dette er fastsatt i lov eller i medhold av lov. Med samtykke menes en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar at opplysningene gjøres tilgjengelige."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -692,6 +713,7 @@
         "html": "Den databehandlingsansvarlige kan innhente personopplysninger fra Det sentrale folkeregisteret når dette er nødvendig for å oppfylle den databehandlingsansvarliges plikter etter loven. Dette gjelder uten hensyn til om opplysningene er underlagt taushetsplikt etter folkeregisterloven.",
         "text": "Den databehandlingsansvarlige kan innhente personopplysninger fra Det sentrale folkeregisteret når dette er nødvendig for å oppfylle den databehandlingsansvarliges plikter etter loven. Dette gjelder uten hensyn til om opplysningene er underlagt taushetsplikt etter folkeregisterloven."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -730,6 +752,7 @@
         "text": "Departementet kan i forskrift fastsette nærmere krav til informasjonssikkerhet ved behandling av helseopplysninger, blant annet om organisatoriske og tekniske tiltak."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -761,6 +784,7 @@
         "text": "Departementet kan i forskrift gi nærmere bestemmelser om internkontroll."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -785,6 +809,7 @@
         "html": "Departementet kan i forskrift gi nærmere bestemmelser om overføring av helseopplysninger ved opphør eller overdragelse av virksomhet.",
         "text": "Departementet kan i forskrift gi nærmere bestemmelser om overføring av helseopplysninger ved opphør eller overdragelse av virksomhet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -823,6 +848,7 @@
         "text": "Kapittel 5 Tilsyn og sanksjoner"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -838,7 +864,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Datatilsynet fører tilsyn med at bestemmelsene i loven blir fulgt og at feil eller mangler blir rettet, jf. personopplysningsloven § 42. Dette gjelder ikke for tilsynsoppgaver som påligger Statens helsetilsyn eller Fylkesmannen etter helsetilsynsloven.",
+        "html": "Datatilsynet fører tilsyn med at bestemmelsene i loven blir fulgt og at feil eller mangler blir rettet, jf. <a data-id=\"lov/2018-06-15-38/§42\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A742\">personopplysningsloven § 42</a>. Dette gjelder ikke for tilsynsoppgaver som påligger Statens helsetilsyn eller Fylkesmannen etter helsetilsynsloven.",
         "text": "Datatilsynet fører tilsyn med at bestemmelsene i loven blir fulgt og at feil eller mangler blir rettet, jf. personopplysningsloven § 42. Dette gjelder ikke for tilsynsoppgaver som påligger Statens helsetilsyn eller Fylkesmannen etter helsetilsynsloven."
     },
     {
@@ -862,13 +888,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Tilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter § 15. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak.",
+        "html": "Tilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter <a data-id=\"lov/2014-06-20-42/§15\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A715\">§ 15</a>. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak.",
         "text": "Tilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter § 15. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Avgjørelser som Datatilsynet fatter etter denne bestemmelsen eller etter §§ 27, 28 eller 29, kan påklages til Personvernnemnda.",
+        "html": "Avgjørelser som Datatilsynet fatter etter denne bestemmelsen eller etter <a data-id=\"lov/2014-06-20-42/§27\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A727\">§§ 27</a>, <a data-id=\"lov/2014-06-20-42/§28\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A728\">28</a> eller <a data-id=\"lov/2014-06-20-42/§29\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A729\">29</a>, kan påklages til Personvernnemnda.",
         "text": "Avgjørelser som Datatilsynet fatter etter denne bestemmelsen eller etter §§ 27, 28 eller 29, kan påklages til Personvernnemnda."
     },
     {
@@ -877,6 +903,7 @@
         "html": "Kongen kan gi forskrift om unntak fra første til fjerde ledd av hensyn til rikets sikkerhet. Kongen kan også gi forskrift om dekning av utgiftene ved kontroll. Skyldige bidrag til dekning av utgiftene er tvangsgrunnlag for utlegg.",
         "text": "Kongen kan gi forskrift om unntak fra første til fjerde ledd av hensyn til rikets sikkerhet. Kongen kan også gi forskrift om dekning av utgiftene ved kontroll. Skyldige bidrag til dekning av utgiftene er tvangsgrunnlag for utlegg."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -909,6 +936,7 @@
         "text": "Det skal settes en frist for å rette seg etter pålegget."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -924,7 +952,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved pålegg etter § 27 kan Datatilsynet fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt.",
+        "html": "Ved pålegg etter <a data-id=\"lov/2014-06-20-42/§27\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A727\">§ 27</a> kan Datatilsynet fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt.",
         "text": "Ved pålegg etter § 27 kan Datatilsynet fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt."
     },
     {
@@ -939,6 +967,7 @@
         "html": "Datatilsynet kan frafalle påløpt tvangsmulkt.",
         "text": "Datatilsynet kan frafalle påløpt tvangsmulkt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -966,51 +995,51 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvor alvorlig overtredelsen har krenket de interesser loven verner,</td>\n</tr>",
-        "text": "a)hvor alvorlig overtredelsen har krenket de interesser loven verner,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvor alvorlig overtredelsen har krenket de interesser loven verner,</td>\n</tr>",
+        "text": "a)\thvor alvorlig overtredelsen har krenket de interesser loven verner,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">graden av skyld,</td>\n</tr>",
-        "text": "b)graden av skyld,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">graden av skyld,</td>\n</tr>",
+        "text": "b)\tgraden av skyld,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,</td>\n</tr>",
-        "text": "c)om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,</td>\n</tr>",
+        "text": "c)\tom overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme overtrederens interesser,</td>\n</tr>",
-        "text": "d)om overtredelsen er begått for å fremme overtrederens interesser,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme overtrederens interesser,</td>\n</tr>",
+        "text": "d)\tom overtredelsen er begått for å fremme overtrederens interesser,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,</td>\n</tr>",
-        "text": "e)om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,</td>\n</tr>",
+        "text": "e)\tom overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentakelse,</td>\n</tr>",
-        "text": "f)om det foreligger gjentakelse,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentakelse,</td>\n</tr>",
+        "text": "f)\tom det foreligger gjentakelse,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson blir ilagt straff, og</td>\n</tr>",
-        "text": "g)om andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson blir ilagt straff, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson blir ilagt straff, og</td>\n</tr>",
+        "text": "g)\tom andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson blir ilagt straff, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrederens økonomiske evne.</td>\n</tr>",
-        "text": "h)overtrederens økonomiske evne."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrederens økonomiske evne.</td>\n</tr>",
+        "text": "h)\tovertrederens økonomiske evne."
     },
     {
         "tag": "p",
@@ -1018,6 +1047,7 @@
         "html": "Oppfyllelsesfristen er fire uker etter at vedtaket om overtredelsesgebyr er endelig. Dersom et vedtak om overtredelsesgebyr bringes inn for en domstol, kan den prøve alle sider av saken.",
         "text": "Oppfyllelsesfristen er fire uker etter at vedtaket om overtredelsesgebyr er endelig. Dersom et vedtak om overtredelsesgebyr bringes inn for en domstol, kan den prøve alle sider av saken."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1034,7 +1064,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som forsettlig eller grovt uaktsomt overtrer § 15 om taushetsplikt eller § 16 om forbud mot urettmessig tilegnelse av helseopplysninger, straffes med bøter eller fengsel i inntil tre måneder.",
+        "html": "Den som forsettlig eller grovt uaktsomt overtrer <a data-id=\"lov/2014-06-20-42/§15\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A715\">§ 15</a> om taushetsplikt eller <a data-id=\"lov/2014-06-20-42/§16\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A716\">§ 16</a> om forbud mot urettmessig tilegnelse av helseopplysninger, straffes med bøter eller fengsel i inntil tre måneder.",
         "text": "Den som forsettlig eller grovt uaktsomt overtrer § 15 om taushetsplikt eller § 16 om forbud mot urettmessig tilegnelse av helseopplysninger, straffes med bøter eller fengsel i inntil tre måneder."
     },
     {
@@ -1045,27 +1075,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandler helseopplysninger i strid med § 22,</td>\n</tr>",
-        "text": "a)behandler helseopplysninger i strid med § 22,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandler helseopplysninger i strid med <a data-id=\"lov/2014-06-20-42/§22\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A722\">§ 22</a>,</td>\n</tr>",
+        "text": "a)\tbehandler helseopplysninger i strid med § 22,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å informere den registrerte etter § 18, jf. personopplysningsloven §§ 19 eller 20,</td>\n</tr>",
-        "text": "b)unnlater å informere den registrerte etter § 18, jf. personopplysningsloven §§ 19 eller 20,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å informere den registrerte etter <a data-id=\"lov/2014-06-20-42/§18\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A718\">§ 18</a>, jf. <a data-id=\"lov/2018-06-15-38/§19\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A719\">personopplysningsloven §§ 19</a> eller <a data-id=\"lov/2018-06-15-38/§20\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A720\">20</a>,</td>\n</tr>",
+        "text": "b)\tunnlater å informere den registrerte etter § 18, jf. personopplysningsloven §§ 19 eller 20,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å gi opplysninger til tilsynsmyndighetene etter § 26, eller</td>\n</tr>",
-        "text": "c)unnlater å gi opplysninger til tilsynsmyndighetene etter § 26, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å gi opplysninger til tilsynsmyndighetene etter <a data-id=\"lov/2014-06-20-42/§26\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A726\">§ 26</a>, eller</td>\n</tr>",
+        "text": "c)\tunnlater å gi opplysninger til tilsynsmyndighetene etter § 26, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å etterkomme pålegg eller overtrer vilkår fra tilsynsmyndighetene etter § 27.</td>\n</tr>",
-        "text": "d)unnlater å etterkomme pålegg eller overtrer vilkår fra tilsynsmyndighetene etter § 27."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å etterkomme pålegg eller overtrer vilkår fra tilsynsmyndighetene etter <a data-id=\"lov/2014-06-20-42/§27\" class=\" reference\" href=\"/lov/2014-06-20-42/%C2%A727\">§ 27</a>.</td>\n</tr>",
+        "text": "d)\tunnlater å etterkomme pålegg eller overtrer vilkår fra tilsynsmyndighetene etter § 27."
     },
     {
         "tag": "p",
@@ -1085,6 +1115,7 @@
         "html": "I forskrift som gis i medhold av loven, kan det fastsettes at den som forsettlig eller grovt uaktsomt overtrer forskriften skal straffes med bøter eller fengsel inntil ett år eller begge deler.",
         "text": "I forskrift som gis i medhold av loven, kan det fastsettes at den som forsettlig eller grovt uaktsomt overtrer forskriften skal straffes med bøter eller fengsel inntil ett år eller begge deler."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1117,6 +1148,7 @@
         "text": "Kapittel 6 Ikraftsetting mv."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1136,6 +1168,7 @@
         "text": "Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til ulik tid."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1151,7 +1184,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskrifter gitt i medhold av lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger, gjelder også etter at loven her har trådt i kraft.",
+        "html": "Forskrifter gitt i medhold av <a data-id=\"lov/2001-05-18-24\" class=\" reference\" href=\"/lov/2001-05-18-24\">lov 18. mai 2001 nr. 24</a> om helseregistre og behandling av helseopplysninger, gjelder også etter at loven her har trådt i kraft.",
         "text": "Forskrifter gitt i medhold av lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger, gjelder også etter at loven her har trådt i kraft."
     }
 ]

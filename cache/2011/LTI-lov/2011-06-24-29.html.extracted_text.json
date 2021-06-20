@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.90 L (2010–2011), Innst.423 L (2010–2011), Lovvedtak 64 (2010–2011). Stortingets første og andre gangs behandling hhv. 14. og 17. juni 2011. Fremmet av Helse- og omsorgsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-90-l-201011\" class=\" reference\" href=\"/forarbeid/prop-90-l-201011\">Prop.90 L (2010–2011)</a>, <a data-id=\"forarbeid/inns-423-l-201011\" class=\" reference\" href=\"/forarbeid/inns-423-l-201011\">Innst.423 L (2010–2011)</a>, <a data-id=\"forarbeid/lovvedtak-64-201011\" class=\" reference\" href=\"/forarbeid/lovvedtak-64-201011\">Lovvedtak 64 (2010–2011)</a>. Stortingets første og andre gangs behandling hhv. 14. og 17. juni 2011. Fremmet av Helse- og omsorgsdepartementet.",
         "text": "Prop.90 L (2010–2011), Innst.423 L (2010–2011), Lovvedtak 64 (2010–2011). Stortingets første og andre gangs behandling hhv. 14. og 17. juni 2011. Fremmet av Helse- og omsorgsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 19. juni 2009 nr. 65 om fylkeskommuners oppgaver i folkehelsearbeidet.",
+        "html": "<a data-id=\"lov/2009-06-19-65\" class=\" reference\" href=\"/lov/2009-06-19-65\">Lov 19. juni 2009 nr. 65</a> om fylkeskommuners oppgaver i folkehelsearbeidet.",
         "text": "Lov 19. juni 2009 nr. 65 om fylkeskommuners oppgaver i folkehelsearbeidet."
     },
     {
@@ -25,21 +25,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 9. mars 1973 nr. 14 om vern mot tobakkskader (tobakksskadeloven).</td>\n</tr>",
-        "text": "1Lov 9. mars 1973 nr. 14 om vern mot tobakkskader (tobakksskadeloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1973-03-09-14\" class=\" reference\" href=\"/lov/1973-03-09-14\">Lov 9. mars 1973 nr. 14</a> om vern mot tobakkskader (tobakksskadeloven).</td>\n</tr>",
+        "text": "1\tLov 9. mars 1973 nr. 14 om vern mot tobakkskader (tobakksskadeloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer.</td>\n</tr>",
-        "text": "2Lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1994-08-05-55\" class=\" reference\" href=\"/lov/1994-08-05-55\">Lov 5. august 1994 nr. 55</a> om vern mot smittsomme sykdommer.</td>\n</tr>",
+        "text": "2\tLov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap.</td>\n</tr>",
-        "text": "3Lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2000-06-23-56\" class=\" reference\" href=\"/lov/2000-06-23-56\">Lov 23. juni 2000 nr. 56</a> om helsemessig og sosial beredskap.</td>\n</tr>",
+        "text": "3\tLov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap."
     },
     {
         "tag": "h2",
@@ -47,6 +47,7 @@
         "html": "Kapittel 1 Innledende bestemmelser",
         "text": "Kapittel 1 Innledende bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -73,6 +74,7 @@
         "text": "Loven skal sikre at kommuner, fylkeskommuner og statlige helsemyndigheter setter i verk tiltak og samordner sin virksomhet i folkehelsearbeidet på en forsvarlig måte. Loven skal legge til rette for et langsiktig og systematisk folkehelsearbeid."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -94,7 +96,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lovens kapittel 3 gjelder i tillegg for privat og offentlig virksomhet og eiendom når forhold ved disse direkte eller indirekte kan ha innvirkning på helsen.",
+        "html": "<a data-id=\"lov/2011-06-24-29/kap3\" class=\" reference\" href=\"/lov/2011-06-24-29/kap3\">Lovens kapittel 3</a> gjelder i tillegg for privat og offentlig virksomhet og eiendom når forhold ved disse direkte eller indirekte kan ha innvirkning på helsen.",
         "text": "Lovens kapittel 3 gjelder i tillegg for privat og offentlig virksomhet og eiendom når forhold ved disse direkte eller indirekte kan ha innvirkning på helsen."
     },
     {
@@ -106,9 +108,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven gjelder for helsepersonell, offentlige tjenestemenn og private der dette fastsettes i medhold av §§ 28 og 29.",
+        "html": "Loven gjelder for helsepersonell, offentlige tjenestemenn og private der dette fastsettes i medhold av <a data-id=\"lov/2011-06-24-29/§28\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A728\">§§ 28</a> og <a data-id=\"lov/2011-06-24-29/§29\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A729\">29</a>.",
         "text": "Loven gjelder for helsepersonell, offentlige tjenestemenn og private der dette fastsettes i medhold av §§ 28 og 29."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -130,15 +133,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">folkehelse:</em> befolkningens helsetilstand og hvordan helsen fordeler seg i en befolkning</td>\n</tr>",
-        "text": "a)folkehelse: befolkningens helsetilstand og hvordan helsen fordeler seg i en befolkning"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">folkehelse:</em> befolkningens helsetilstand og hvordan helsen fordeler seg i en befolkning</td>\n</tr>",
+        "text": "a)\tfolkehelse: befolkningens helsetilstand og hvordan helsen fordeler seg i en befolkning"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">folkehelsearbeid:</em> samfunnets innsats for å påvirke faktorer som direkte eller indirekte fremmer befolkningens helse og trivsel, forebygger psykisk og somatisk sykdom, skade eller lidelse, eller som beskytter mot helsetrusler, samt arbeid for en jevnere fordeling av faktorer som direkte eller indirekte påvirker helsen.</td>\n</tr>",
-        "text": "b)folkehelsearbeid: samfunnets innsats for å påvirke faktorer som direkte eller indirekte fremmer befolkningens helse og trivsel, forebygger psykisk og somatisk sykdom, skade eller lidelse, eller som beskytter mot helsetrusler, samt arbeid for en jevnere fordeling av faktorer som direkte eller indirekte påvirker helsen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">folkehelsearbeid:</em> samfunnets innsats for å påvirke faktorer som direkte eller indirekte fremmer befolkningens helse og trivsel, forebygger psykisk og somatisk sykdom, skade eller lidelse, eller som beskytter mot helsetrusler, samt arbeid for en jevnere fordeling av faktorer som direkte eller indirekte påvirker helsen.</td>\n</tr>",
+        "text": "b)\tfolkehelsearbeid: samfunnets innsats for å påvirke faktorer som direkte eller indirekte fremmer befolkningens helse og trivsel, forebygger psykisk og somatisk sykdom, skade eller lidelse, eller som beskytter mot helsetrusler, samt arbeid for en jevnere fordeling av faktorer som direkte eller indirekte påvirker helsen."
     },
     {
         "tag": "h2",
@@ -146,6 +149,7 @@
         "html": "Kapittel 2 Kommunens ansvar",
         "text": "Kapittel 2 Kommunens ansvar"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -178,6 +182,7 @@
         "text": "Kommunen skal medvirke til at helsemessige hensyn blir ivaretatt av andre myndigheter og virksomheter. Medvirkning skal skje blant annet gjennom råd, uttalelser, samarbeid og deltagelse i planlegging. Kommunen skal legge til rette for samarbeid med frivillig sektor."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -198,21 +203,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger som statlige helsemyndigheter og fylkeskommunen gjør tilgjengelig etter §§ 20 og 25,</td>\n</tr>",
-        "text": "a)opplysninger som statlige helsemyndigheter og fylkeskommunen gjør tilgjengelig etter §§ 20 og 25,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger som statlige helsemyndigheter og fylkeskommunen gjør tilgjengelig etter <a data-id=\"lov/2011-06-24-29/§20\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A720\">§§ 20</a> og <a data-id=\"lov/2011-06-24-29/§25\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A725\">25</a>,</td>\n</tr>",
+        "text": "a)\topplysninger som statlige helsemyndigheter og fylkeskommunen gjør tilgjengelig etter §§ 20 og 25,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kunnskap fra de kommunale helse- og omsorgstjenestene, jf. helse- og omsorgstjenesteloven § 3-3 og</td>\n</tr>",
-        "text": "b)kunnskap fra de kommunale helse- og omsorgstjenestene, jf. helse- og omsorgstjenesteloven § 3-3 og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kunnskap fra de kommunale helse- og omsorgstjenestene, jf. helse- og <a data-id=\"lov/2011-06-24-30/§3-3\" class=\" reference\" href=\"/lov/2011-06-24-30/%C2%A73-3\">omsorgstjenesteloven § 3-3</a> og</td>\n</tr>",
+        "text": "b)\tkunnskap fra de kommunale helse- og omsorgstjenestene, jf. helse- og omsorgstjenesteloven § 3-3 og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kunnskap om faktorer og utviklingstrekk i miljø og lokalsamfunn som kan ha innvirkning på befolkningens helse.</td>\n</tr>",
-        "text": "c)kunnskap om faktorer og utviklingstrekk i miljø og lokalsamfunn som kan ha innvirkning på befolkningens helse."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kunnskap om faktorer og utviklingstrekk i miljø og lokalsamfunn som kan ha innvirkning på befolkningens helse.</td>\n</tr>",
+        "text": "c)\tkunnskap om faktorer og utviklingstrekk i miljø og lokalsamfunn som kan ha innvirkning på befolkningens helse."
     },
     {
         "tag": "p",
@@ -226,6 +231,7 @@
         "html": "Departementet kan gi nærmere forskrifter om krav til kommunens oversikt.",
         "text": "Departementet kan gi nærmere forskrifter om krav til kommunens oversikt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -242,15 +248,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Oversikten etter § 5 annet ledd skal inngå som grunnlag for arbeidet med kommunens planstrategi. En drøfting av kommunens folkehelseutfordringer bør inngå i strategien, jf. plan- og bygningsloven § 10-1.",
+        "html": "Oversikten etter <a data-id=\"lov/2011-06-24-29/§5\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A75\">§ 5</a> annet ledd skal inngå som grunnlag for arbeidet med kommunens planstrategi. En drøfting av kommunens folkehelseutfordringer bør inngå i strategien, jf. plan- og <a data-id=\"lov/2008-06-27-71/§10-1\" class=\" reference\" href=\"/lov/2008-06-27-71/%C2%A710-1\">bygningsloven § 10-1</a>.",
         "text": "Oversikten etter § 5 annet ledd skal inngå som grunnlag for arbeidet med kommunens planstrategi. En drøfting av kommunens folkehelseutfordringer bør inngå i strategien, jf. plan- og bygningsloven § 10-1."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunen skal i sitt arbeid med kommuneplaner etter plan- og bygningsloven kapittel 11 fastsette overordnede mål og strategier for folkehelsearbeidet som er egnet til å møte de utfordringer kommunen står overfor med utgangspunkt i oversikten etter § 5 annet ledd.",
+        "html": "Kommunen skal i sitt arbeid med kommuneplaner etter plan- og <a data-id=\"lov/2008-06-27-71/kap11\" class=\" reference\" href=\"/lov/2008-06-27-71/kap11\">bygningsloven kapittel 11</a> fastsette overordnede mål og strategier for folkehelsearbeidet som er egnet til å møte de utfordringer kommunen står overfor med utgangspunkt i oversikten etter <a data-id=\"lov/2011-06-24-29/§5\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A75\">§ 5</a> annet ledd.",
         "text": "Kommunen skal i sitt arbeid med kommuneplaner etter plan- og bygningsloven kapittel 11 fastsette overordnede mål og strategier for folkehelsearbeidet som er egnet til å møte de utfordringer kommunen står overfor med utgangspunkt i oversikten etter § 5 annet ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -267,7 +274,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunen skal iverksette nødvendige tiltak for å møte kommunens folkehelseutfordringer, jf. § 5. Dette kan blant annet omfatte tiltak knyttet til oppvekst- og levekårsforhold som bolig, utdanning, arbeid og inntekt, fysiske og sosiale miljøer, fysisk aktivitet, ernæring, skader og ulykker, tobakksbruk og alkohol- og annen rusmiddelbruk.",
+        "html": "Kommunen skal iverksette nødvendige tiltak for å møte kommunens folkehelseutfordringer, jf. <a data-id=\"lov/2011-06-24-29/§5\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A75\">§ 5</a>. Dette kan blant annet omfatte tiltak knyttet til oppvekst- og levekårsforhold som bolig, utdanning, arbeid og inntekt, fysiske og sosiale miljøer, fysisk aktivitet, ernæring, skader og ulykker, tobakksbruk og alkohol- og annen rusmiddelbruk.",
         "text": "Kommunen skal iverksette nødvendige tiltak for å møte kommunens folkehelseutfordringer, jf. § 5. Dette kan blant annet omfatte tiltak knyttet til oppvekst- og levekårsforhold som bolig, utdanning, arbeid og inntekt, fysiske og sosiale miljøer, fysisk aktivitet, ernæring, skader og ulykker, tobakksbruk og alkohol- og annen rusmiddelbruk."
     },
     {
@@ -282,6 +289,7 @@
         "html": "Kapittel 3 Miljørettet helsevern",
         "text": "Kapittel 3 Miljørettet helsevern"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -304,9 +312,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan innenfor formålene etter § 1, gi forskrifter om miljørettet helsevern, herunder bestemmelser om innemiljø, luftkvalitet, vann og vannforsyning, støy, omgivelseshygiene, forebygging av ulykker og skader mv. Det kan også gis forskrifter om plikt til å ha internkontrollsystemer og til å føre internkontroll for å sikre at krav fastsatt i eller i medhold av dette kapittel overholdes.",
+        "html": "Departementet kan innenfor formålene etter <a data-id=\"lov/2011-06-24-29/§1\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A71\">§ 1</a>, gi forskrifter om miljørettet helsevern, herunder bestemmelser om innemiljø, luftkvalitet, vann og vannforsyning, støy, omgivelseshygiene, forebygging av ulykker og skader mv. Det kan også gis forskrifter om plikt til å ha internkontrollsystemer og til å føre internkontroll for å sikre at krav fastsatt i eller i medhold av dette kapittel overholdes.",
         "text": "Departementet kan innenfor formålene etter § 1, gi forskrifter om miljørettet helsevern, herunder bestemmelser om innemiljø, luftkvalitet, vann og vannforsyning, støy, omgivelseshygiene, forebygging av ulykker og skader mv. Det kan også gis forskrifter om plikt til å ha internkontrollsystemer og til å føre internkontroll for å sikre at krav fastsatt i eller i medhold av dette kapittel overholdes."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -323,7 +332,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunen skal føre tilsyn med de faktorer og forhold i miljøet som til enhver tid direkte eller indirekte kan ha innvirkning på helsen, jf. § 8. Ansvar og oppgaver innen miljørettet helsevern som i denne lov er lagt til kommunen, kan i tillegg til å delegeres etter bestemmelsene i kommuneloven delegeres til et interkommunalt selskap.",
+        "html": "Kommunen skal føre tilsyn med de faktorer og forhold i miljøet som til enhver tid direkte eller indirekte kan ha innvirkning på helsen, jf. <a data-id=\"lov/2011-06-24-29/§8\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A78\">§ 8</a>. Ansvar og oppgaver innen miljørettet helsevern som i denne lov er lagt til kommunen, kan i tillegg til å delegeres etter bestemmelsene i kommuneloven delegeres til et interkommunalt selskap.",
         "text": "Kommunen skal føre tilsyn med de faktorer og forhold i miljøet som til enhver tid direkte eller indirekte kan ha innvirkning på helsen, jf. § 8. Ansvar og oppgaver innen miljørettet helsevern som i denne lov er lagt til kommunen, kan i tillegg til å delegeres etter bestemmelsene i kommuneloven delegeres til et interkommunalt selskap."
     },
     {
@@ -332,6 +341,7 @@
         "html": "Kommunens myndighet kan utøves av kommunelegen dersom dette på grunn av tidsnød er nødvendig for at kommunens oppgaver etter dette kapittel skal kunne utføres.",
         "text": "Kommunens myndighet kan utøves av kommunelegen dersom dette på grunn av tidsnød er nødvendig for at kommunens oppgaver etter dette kapittel skal kunne utføres."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -348,7 +358,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan innenfor miljørettet helsevern, jf. § 8, gi nærmere bestemmelser om meldeplikt til, eller plikt til å innhente godkjenning fra, kommunen før eller ved iverksetting av virksomhet som kan ha innvirkning på helsen. Det samme gjelder ved endring av slik virksomhet. Kommunen kan ved godkjenning sette vilkår for å ivareta hensynet til folks helse, jf. §§ 1 og 8. Nærmere bestemmelser om godkjenning, herunder saksbehandlingsregler til utfylling av tjenesteloven, kan gis i forskriftene. Unntak fra tjenesteloven § 11 annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn.",
+        "html": "Departementet kan innenfor miljørettet helsevern, jf. <a data-id=\"lov/2011-06-24-29/§8\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A78\">§ 8</a>, gi nærmere bestemmelser om meldeplikt til, eller plikt til å innhente godkjenning fra, kommunen før eller ved iverksetting av virksomhet som kan ha innvirkning på helsen. Det samme gjelder ved endring av slik virksomhet. Kommunen kan ved godkjenning sette vilkår for å ivareta hensynet til folks helse, jf. <a data-id=\"lov/2011-06-24-29/§1\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A71\">§§ 1</a> og <a data-id=\"lov/2011-06-24-29/§8\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A78\">8</a>. Nærmere bestemmelser om godkjenning, herunder saksbehandlingsregler til utfylling av tjenesteloven, kan gis i forskriftene. Unntak fra <a data-id=\"lov/2009-06-19-103/§11\" class=\" reference\" href=\"/lov/2009-06-19-103/%C2%A711\">tjenesteloven § 11</a> annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn.",
         "text": "Departementet kan innenfor miljørettet helsevern, jf. § 8, gi nærmere bestemmelser om meldeplikt til, eller plikt til å innhente godkjenning fra, kommunen før eller ved iverksetting av virksomhet som kan ha innvirkning på helsen. Det samme gjelder ved endring av slik virksomhet. Kommunen kan ved godkjenning sette vilkår for å ivareta hensynet til folks helse, jf. §§ 1 og 8. Nærmere bestemmelser om godkjenning, herunder saksbehandlingsregler til utfylling av tjenesteloven, kan gis i forskriftene. Unntak fra tjenesteloven § 11 annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn."
     },
     {
@@ -369,6 +379,7 @@
         "html": "I forskriftene kan det bestemmes at fylkesmannen skal ha godkjenningsmyndighet dersom virksomheten berører flere kommuner. Berører virksomheten flere fylker, kan det bestemmes at departementet skal ha godkjenningsmyndigheten. For vann og vannforsyning kan det i forskrift bestemmes at annen statlig myndighet enn fylkesmannen skal ha godkjenningsmyndigheten. Det kan videre gis særskilte bestemmelser om klageordning i tilfeller hvor fylkesmannen, departementet eller annen statlig myndighet gir godkjenning.",
         "text": "I forskriftene kan det bestemmes at fylkesmannen skal ha godkjenningsmyndighet dersom virksomheten berører flere kommuner. Berører virksomheten flere fylker, kan det bestemmes at departementet skal ha godkjenningsmyndigheten. For vann og vannforsyning kan det i forskrift bestemmes at annen statlig myndighet enn fylkesmannen skal ha godkjenningsmyndigheten. Det kan videre gis særskilte bestemmelser om klageordning i tilfeller hvor fylkesmannen, departementet eller annen statlig myndighet gir godkjenning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -394,6 +405,7 @@
         "html": "Klageinstansen har ved behandling av klagesaker tilsvarende rett til å kreve helsekonsekvensutredning.",
         "text": "Klageinstansen har ved behandling av klagesaker tilsvarende rett til å kreve helsekonsekvensutredning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -426,6 +438,7 @@
         "text": "Kommunen kan dessuten pålegge den ansvarlige for eiendom eller virksomhet som nevnt i første ledd, plikt til å gi allmennheten, kunder eller andre opplysninger om forhold ved eiendommen eller virksomheten som kan ha innvirkning på helsen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -441,7 +454,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunen kan for å ivareta sine oppgaver etter dette kapittel beslutte at det skal foretas gransking av eiendom eller virksomhet. Granskingen kan gjennomføres av den som er delegert myndighet etter § 9 eller av kommunelegen i hastesaker. Granskingen kan om nødvendig gjennomføres med bistand fra politiet.",
+        "html": "Kommunen kan for å ivareta sine oppgaver etter dette kapittel beslutte at det skal foretas gransking av eiendom eller virksomhet. Granskingen kan gjennomføres av den som er delegert myndighet etter <a data-id=\"lov/2011-06-24-29/§9\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A79\">§ 9</a> eller av kommunelegen i hastesaker. Granskingen kan om nødvendig gjennomføres med bistand fra politiet.",
         "text": "Kommunen kan for å ivareta sine oppgaver etter dette kapittel beslutte at det skal foretas gransking av eiendom eller virksomhet. Granskingen kan gjennomføres av den som er delegert myndighet etter § 9 eller av kommunelegen i hastesaker. Granskingen kan om nødvendig gjennomføres med bistand fra politiet."
     },
     {
@@ -462,6 +475,7 @@
         "html": "Ved gransking av virksomhet eller eiendom, skal den som utfører granskingen, først ta kontakt med representanter for virksomhetens ledelse.",
         "text": "Ved gransking av virksomhet eller eiendom, skal den som utfører granskingen, først ta kontakt med representanter for virksomhetens ledelse."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -488,6 +502,7 @@
         "text": "Pålegget skal være skriftlig og inneholde en frist for når det skal være utført. Det skal rettes til den som er ansvarlig for forholdet, eller til virksomheten som sådan. Kostnadene ved å gjennomføre pålegget skal dekkes av den som er ansvarlig for forholdet, eventuelt av virksomheten som sådan."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -503,7 +518,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunen kan ved oversittelse av frist for å oppfylle pålegg om retting av forhold etter § 14 ilegge adressaten for pålegget tvangsmulkt i form av engangsmulkt eller løpende dagmulkt. Tvangsmulkten må være fastsatt enten samtidig med pålegget eller i forbindelse med fastsettelse av ny frist for oppfyllelse av pålegget. Tvangsmulktens størrelse fastsettes under hensyn til hvor viktig det er at pålegget blir gjennomført og hvilke kostnader det antas å medføre. Tvangsmulkten tilfaller statskassen.",
+        "html": "Kommunen kan ved oversittelse av frist for å oppfylle pålegg om retting av forhold etter <a data-id=\"lov/2011-06-24-29/§14\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A714\">§ 14</a> ilegge adressaten for pålegget tvangsmulkt i form av engangsmulkt eller løpende dagmulkt. Tvangsmulkten må være fastsatt enten samtidig med pålegget eller i forbindelse med fastsettelse av ny frist for oppfyllelse av pålegget. Tvangsmulktens størrelse fastsettes under hensyn til hvor viktig det er at pålegget blir gjennomført og hvilke kostnader det antas å medføre. Tvangsmulkten tilfaller statskassen.",
         "text": "Kommunen kan ved oversittelse av frist for å oppfylle pålegg om retting av forhold etter § 14 ilegge adressaten for pålegget tvangsmulkt i form av engangsmulkt eller løpende dagmulkt. Tvangsmulkten må være fastsatt enten samtidig med pålegget eller i forbindelse med fastsettelse av ny frist for oppfyllelse av pålegget. Tvangsmulktens størrelse fastsettes under hensyn til hvor viktig det er at pålegget blir gjennomført og hvilke kostnader det antas å medføre. Tvangsmulkten tilfaller statskassen."
     },
     {
@@ -518,6 +533,7 @@
         "html": "Departementet kan gi nærmere bestemmelser om fastsettelse og beregning av tvangsmulkt.",
         "text": "Departementet kan gi nærmere bestemmelser om fastsettelse og beregning av tvangsmulkt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -538,6 +554,7 @@
         "text": "Oppstår det forhold ved en virksomhet eller eiendom som medfører en overhengende fare for helseskade, skal kommunen stanse hele eller deler av virksomheten eller aktiviteten inntil forholdene er rettet eller faren er over. Stansing kan om nødvendig gjennomføres med bistand fra politiet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -553,7 +570,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan i forskrift fastsette at kommunen kan ilegge overtredelsesgebyr overfor den som forsettlig eller uaktsomt overtrer bestemmelsene i §§ 10 til 14 og § 16. Det samme gjelder ved overtredelse av forskrifter gitt i medhold av §§ 8 og 10 når det er fastsatt i forskriften at overtredelse kan medføre slik sanksjon.",
+        "html": "Departementet kan i forskrift fastsette at kommunen kan ilegge overtredelsesgebyr overfor den som forsettlig eller uaktsomt overtrer bestemmelsene i <a data-id=\"lov/2011-06-24-29/§10\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A710\">§§ 10</a> til <a data-id=\"lov/2011-06-24-29/§14\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A714\">14</a> og § <a data-id=\"lov/2011-06-24-29/§16\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A716\">16</a>. Det samme gjelder ved overtredelse av forskrifter gitt i medhold av §§ 8 og 10 når det er fastsatt i forskriften at overtredelse kan medføre slik sanksjon.",
         "text": "Departementet kan i forskrift fastsette at kommunen kan ilegge overtredelsesgebyr overfor den som forsettlig eller uaktsomt overtrer bestemmelsene i §§ 10 til 14 og § 16. Det samme gjelder ved overtredelse av forskrifter gitt i medhold av §§ 8 og 10 når det er fastsatt i forskriften at overtredelse kan medføre slik sanksjon."
     },
     {
@@ -574,6 +591,7 @@
         "html": "Foretak kan ilegges overtredelsesgebyr i samsvar med første til tredje ledd når overtredelsen er begått av noen som har handlet på vegne av foretaket. Dette gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr.",
         "text": "Foretak kan ilegges overtredelsesgebyr i samsvar med første til tredje ledd når overtredelsen er begått av noen som har handlet på vegne av foretaket. Dette gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -600,6 +618,7 @@
         "text": "Har overtredelsen ikke medført helseskade eller kun ubetydelig fare for helseskade, skjer offentlig påtale kun etter begjæring fra kommunestyret selv."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -625,6 +644,7 @@
         "text": "Kapittel 4 Fylkeskommunens ansvar"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -640,15 +660,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fylkeskommunen skal fremme folkehelse innen de oppgaver og med de virkemidler som fylkeskommunen er tillagt. Dette skal skje gjennom regional utvikling og planlegging, forvaltning og tjenesteyting og tiltak som kan møte fylkets folkehelseutfordringer, jf. § 21 annet ledd.",
+        "html": "Fylkeskommunen skal fremme folkehelse innen de oppgaver og med de virkemidler som fylkeskommunen er tillagt. Dette skal skje gjennom regional utvikling og planlegging, forvaltning og tjenesteyting og tiltak som kan møte fylkets folkehelseutfordringer, jf. <a data-id=\"lov/2011-06-24-29/§21\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A721\">§ 21</a> annet ledd.",
         "text": "Fylkeskommunen skal fremme folkehelse innen de oppgaver og med de virkemidler som fylkeskommunen er tillagt. Dette skal skje gjennom regional utvikling og planlegging, forvaltning og tjenesteyting og tiltak som kan møte fylkets folkehelseutfordringer, jf. § 21 annet ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fylkeskommunen skal understøtte folkehelsearbeidet i kommunene, blant annet ved å gjøre tilgjengelig opplysninger i henhold til § 21, jf. § 5 første ledd bokstav a. Fylkeskommunen skal være pådriver for og samordne folkehelsearbeidet i fylket, for eksempel gjennom partnerskap.",
+        "html": "Fylkeskommunen skal understøtte folkehelsearbeidet i kommunene, blant annet ved å gjøre tilgjengelig opplysninger i henhold til <a data-id=\"lov/2011-06-24-29/§21\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A721\">§ 21</a>, jf. <a data-id=\"lov/2011-06-24-29/§5\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A75\">§ 5</a> første ledd bokstav a. Fylkeskommunen skal være pådriver for og samordne folkehelsearbeidet i fylket, for eksempel gjennom partnerskap.",
         "text": "Fylkeskommunen skal understøtte folkehelsearbeidet i kommunene, blant annet ved å gjøre tilgjengelig opplysninger i henhold til § 21, jf. § 5 første ledd bokstav a. Fylkeskommunen skal være pådriver for og samordne folkehelsearbeidet i fylket, for eksempel gjennom partnerskap."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -670,15 +691,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger som statlige helsemyndigheter gjør tilgjengelig etter § 25,</td>\n</tr>",
-        "text": "a)opplysninger som statlige helsemyndigheter gjør tilgjengelig etter § 25,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger som statlige helsemyndigheter gjør tilgjengelig etter <a data-id=\"lov/2011-06-24-29/§25\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A725\">§ 25</a>,</td>\n</tr>",
+        "text": "a)\topplysninger som statlige helsemyndigheter gjør tilgjengelig etter § 25,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">relevant kunnskap fra kommunene, tannhelsetjenesten og andre deler av fylkeskommunens virksomhet med betydning for folkehelsen.</td>\n</tr>",
-        "text": "b)relevant kunnskap fra kommunene, tannhelsetjenesten og andre deler av fylkeskommunens virksomhet med betydning for folkehelsen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">relevant kunnskap fra kommunene, tannhelsetjenesten og andre deler av fylkeskommunens virksomhet med betydning for folkehelsen.</td>\n</tr>",
+        "text": "b)\trelevant kunnskap fra kommunene, tannhelsetjenesten og andre deler av fylkeskommunens virksomhet med betydning for folkehelsen."
     },
     {
         "tag": "p",
@@ -689,7 +710,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Oversikten over fylkeskommunens folkehelseutfordringer etter annet ledd skal inngå som grunnlag for arbeidet med fylkeskommunens planstrategi. En drøfting av disse utfordringene bør inngå i strategien, jf. plan- og bygningsloven § 7-1.",
+        "html": "Oversikten over fylkeskommunens folkehelseutfordringer etter annet ledd skal inngå som grunnlag for arbeidet med fylkeskommunens planstrategi. En drøfting av disse utfordringene bør inngå i strategien, jf. plan- og <a data-id=\"lov/2008-06-27-71/§7-1\" class=\" reference\" href=\"/lov/2008-06-27-71/%C2%A77-1\">bygningsloven § 7-1</a>.",
         "text": "Oversikten over fylkeskommunens folkehelseutfordringer etter annet ledd skal inngå som grunnlag for arbeidet med fylkeskommunens planstrategi. En drøfting av disse utfordringene bør inngå i strategien, jf. plan- og bygningsloven § 7-1."
     },
     {
@@ -704,6 +725,7 @@
         "html": "Kapittel 5 Statlige myndigheters ansvar",
         "text": "Kapittel 5 Statlige myndigheters ansvar"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -724,6 +746,7 @@
         "text": "Statlige myndigheter skal i sin virksomhet vurdere konsekvenser for befolkningens helse der det er relevant."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -742,6 +765,7 @@
         "html": "Fylkesmannen skal bidra til å iverksette nasjonal politikk på folkehelseområdet og være pådriver for kunnskapsbasert folkehelsearbeid på lokalt og regionalt nivå, blant annet gjennom råd og veiledning til kommuner og fylkeskommuner.",
         "text": "Fylkesmannen skal bidra til å iverksette nasjonal politikk på folkehelseområdet og være pådriver for kunnskapsbasert folkehelsearbeid på lokalt og regionalt nivå, blant annet gjennom råd og veiledning til kommuner og fylkeskommuner."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -764,9 +788,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Helsedirektoratet skal gi kommuner, fylkeskommuner, fylkesmenn og andre statlige institusjoner, helsepersonell og befolkningen informasjon, råd og veiledning om strategier og tiltak i folkehelsearbeidet. Direktoratet skal videre samarbeide med Nasjonalt folkehelseinstitutt om å gjøre tilgjengelig opplysninger om helsetilstand og påvirkningsfaktorer etter § 25.",
+        "html": "Helsedirektoratet skal gi kommuner, fylkeskommuner, fylkesmenn og andre statlige institusjoner, helsepersonell og befolkningen informasjon, råd og veiledning om strategier og tiltak i folkehelsearbeidet. Direktoratet skal videre samarbeide med Nasjonalt folkehelseinstitutt om å gjøre tilgjengelig opplysninger om helsetilstand og påvirkningsfaktorer etter <a data-id=\"lov/2011-06-24-29/§25\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A725\">§ 25</a>.",
         "text": "Helsedirektoratet skal gi kommuner, fylkeskommuner, fylkesmenn og andre statlige institusjoner, helsepersonell og befolkningen informasjon, råd og veiledning om strategier og tiltak i folkehelsearbeidet. Direktoratet skal videre samarbeide med Nasjonalt folkehelseinstitutt om å gjøre tilgjengelig opplysninger om helsetilstand og påvirkningsfaktorer etter § 25."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -789,7 +814,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nasjonalt folkehelseinstitutt skal gjøre tilgjengelig opplysninger som grunnlag for kommunenes og fylkeskommunenes oversikter etter §§ 5 og 21. Opplysningene skal være basert på statistikk fra sentrale helseregistre, samt annen relevant statistikk. Nasjonalt folkehelseinstitutt skal gi bistand, råd, veiledning og informasjon i den forbindelse.",
+        "html": "Nasjonalt folkehelseinstitutt skal gjøre tilgjengelig opplysninger som grunnlag for kommunenes og fylkeskommunenes oversikter etter <a data-id=\"lov/2011-06-24-29/§5\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A75\">§§ 5</a> og <a data-id=\"lov/2011-06-24-29/§21\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A721\">21</a>. Opplysningene skal være basert på statistikk fra sentrale helseregistre, samt annen relevant statistikk. Nasjonalt folkehelseinstitutt skal gi bistand, råd, veiledning og informasjon i den forbindelse.",
         "text": "Nasjonalt folkehelseinstitutt skal gjøre tilgjengelig opplysninger som grunnlag for kommunenes og fylkeskommunenes oversikter etter §§ 5 og 21. Opplysningene skal være basert på statistikk fra sentrale helseregistre, samt annen relevant statistikk. Nasjonalt folkehelseinstitutt skal gi bistand, råd, veiledning og informasjon i den forbindelse."
     },
     {
@@ -810,6 +835,7 @@
         "html": "Kapittel 6 Samarbeid, beredskap, internkontroll, tilsyn mv.",
         "text": "Kapittel 6 Samarbeid, beredskap, internkontroll, tilsyn mv."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -836,6 +862,7 @@
         "text": "Dersom forholdene tilsier det, skal kommunen yte bistand til andre kommuner ved ulykker og andre akutte situasjoner. Anmodning om bistand fremmes av den kommunen som har bistandsbehovet. Den kommunen som mottar bistand skal yte kommunen som bidrar med hjelp, kompensasjon for utgifter som pådras, med mindre annet er avtalt eller bestemt i medhold av første ledd."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -856,21 +883,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">samfunnsmedisinsk rådgivning i kommunens folkehelsearbeid, jf. §§ 4 til 7, herunder epidemiologiske analyser, jf. § 5 annet ledd,</td>\n</tr>",
-        "text": "a)samfunnsmedisinsk rådgivning i kommunens folkehelsearbeid, jf. §§ 4 til 7, herunder epidemiologiske analyser, jf. § 5 annet ledd,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">samfunnsmedisinsk rådgivning i kommunens folkehelsearbeid, jf. <a data-id=\"lov/2011-06-24-29/§4\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A74\">§§ 4</a> til <a data-id=\"lov/2011-06-24-29/§7\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A77\">7</a>, herunder epidemiologiske analyser, jf. <a data-id=\"lov/2011-06-24-29/§5\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A75\">§ 5</a> annet ledd,</td>\n</tr>",
+        "text": "a)\tsamfunnsmedisinsk rådgivning i kommunens folkehelsearbeid, jf. §§ 4 til 7, herunder epidemiologiske analyser, jf. § 5 annet ledd,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hastekompetanse på kommunens vegne i saker innen miljørettet helsevern, smittevern og helsemessig beredskap og</td>\n</tr>",
-        "text": "b)hastekompetanse på kommunens vegne i saker innen miljørettet helsevern, smittevern og helsemessig beredskap og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hastekompetanse på kommunens vegne i saker innen miljørettet helsevern, smittevern og helsemessig beredskap og</td>\n</tr>",
+        "text": "b)\thastekompetanse på kommunens vegne i saker innen miljørettet helsevern, smittevern og helsemessig beredskap og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre oppgaver delegert fra kommunestyret.</td>\n</tr>",
-        "text": "c)andre oppgaver delegert fra kommunestyret."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre oppgaver delegert fra kommunestyret.</td>\n</tr>",
+        "text": "c)\tandre oppgaver delegert fra kommunestyret."
     },
     {
         "tag": "p",
@@ -878,6 +905,7 @@
         "html": "Kommunene kan samarbeide med andre kommuner om ansettelse av kommunelege.",
         "text": "Kommunene kan samarbeide med andre kommuner om ansettelse av kommunelege."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -894,13 +922,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunen, fylkeskommunen, fylkesmannen, Helsedirektoratet og Nasjonalt folkehelseinstitutt har ansvar for nødvendige beredskapsforberedelser og for tiltak i beredskapssituasjoner, jf. helseberedskapsloven § 2-1.",
+        "html": "Kommunen, fylkeskommunen, fylkesmannen, Helsedirektoratet og Nasjonalt folkehelseinstitutt har ansvar for nødvendige beredskapsforberedelser og for tiltak i beredskapssituasjoner, jf. <a data-id=\"lov/2000-06-23-56/§2-1\" class=\" reference\" href=\"/lov/2000-06-23-56/%C2%A72-1\">helseberedskapsloven § 2-1</a>.",
         "text": "Kommunen, fylkeskommunen, fylkesmannen, Helsedirektoratet og Nasjonalt folkehelseinstitutt har ansvar for nødvendige beredskapsforberedelser og for tiltak i beredskapssituasjoner, jf. helseberedskapsloven § 2-1."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunen plikter å utarbeide en beredskapsplan for sine oppgaver etter denne lovens kapittel 3, i samsvar med helseberedskapsloven. Helseberedskapsplanen skal samordnes med kommunens øvrige beredskapsplaner.",
+        "html": "Kommunen plikter å utarbeide en beredskapsplan for sine oppgaver etter denne lovens <a data-id=\"lov/2011-06-24-29/kap3\" class=\" reference\" href=\"/lov/2011-06-24-29/kap3\">kapittel 3</a>, i samsvar med helseberedskapsloven. Helseberedskapsplanen skal samordnes med kommunens øvrige beredskapsplaner.",
         "text": "Kommunen plikter å utarbeide en beredskapsplan for sine oppgaver etter denne lovens kapittel 3, i samsvar med helseberedskapsloven. Helseberedskapsplanen skal samordnes med kommunens øvrige beredskapsplaner."
     },
     {
@@ -909,6 +937,7 @@
         "html": "Departementet kan i forskrift gi nærmere bestemmelser om kommunens beredskap innen miljørettet helsevern, og om meldeplikt for kommuner, helseforetak og helsepersonell til Nasjonalt folkehelseinstitutt om miljøhendelser eller mistanke om utbrudd av sykdom relatert til eksponering for helseskadelige miljøfaktorer. I forskrift kan videre gis nærmere bestemmelser om oppgaver for og ansvarsfordeling mellom kommuner, fylkeskommuner og statlige helsemyndigheter for å sikre beskyttelse av befolkningens helse.",
         "text": "Departementet kan i forskrift gi nærmere bestemmelser om kommunens beredskap innen miljørettet helsevern, og om meldeplikt for kommuner, helseforetak og helsepersonell til Nasjonalt folkehelseinstitutt om miljøhendelser eller mistanke om utbrudd av sykdom relatert til eksponering for helseskadelige miljøfaktorer. I forskrift kan videre gis nærmere bestemmelser om oppgaver for og ansvarsfordeling mellom kommuner, fylkeskommuner og statlige helsemyndigheter for å sikre beskyttelse av befolkningens helse."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -941,6 +970,7 @@
         "text": "Forskrift etter første ledd kan gi bestemmelser om iverksetting av midlertidige og stående tiltak fra Verdens helseorganisasjon."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -962,9 +992,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunenes tilsyn med virksomhet og eiendom i henhold til § 9 skal dokumenteres særskilt, herunder uavhengighet og likebehandling i tilsynet.",
+        "html": "Kommunenes tilsyn med virksomhet og eiendom i henhold til <a data-id=\"lov/2011-06-24-29/§9\" class=\" reference\" href=\"/lov/2011-06-24-29/%C2%A79\">§ 9</a> skal dokumenteres særskilt, herunder uavhengighet og likebehandling i tilsynet.",
         "text": "Kommunenes tilsyn med virksomhet og eiendom i henhold til § 9 skal dokumenteres særskilt, herunder uavhengighet og likebehandling i tilsynet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -987,9 +1018,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene i kommuneloven kapittel 10 A gjelder for tilsynsvirksomheten etter første ledd.",
+        "html": "Reglene i <a data-id=\"lov/1992-09-25-107/kap10a\" class=\" reference\" href=\"/lov/1992-09-25-107/kap10a\">kommuneloven kapittel 10 A</a> gjelder for tilsynsvirksomheten etter første ledd.",
         "text": "Reglene i kommuneloven kapittel 10 A gjelder for tilsynsvirksomheten etter første ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1010,6 +1042,7 @@
         "text": "Statens helsetilsyn har det overordnede faglige tilsyn med loven her i henhold til § 31, og skal utøve myndighet i samsvar med det som er bestemt i lov og forskrift."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1025,9 +1058,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskrifter gitt eller videreført i medhold av lov 19. november 1982 nr. 66 om helsetjenesten i kommunene kapittel 4a og § 7-9 gjelder også etter at loven her har trådt i kraft.",
+        "html": "Forskrifter gitt eller videreført i medhold av lov 19. november 1982 nr. 66 om helsetjenesten i kommunene kapittel <a data-id=\"lov/1982-11-19-66/kap4a\" class=\" reference\" href=\"/lov/1982-11-19-66/kap4a\">4a</a> og <a data-id=\"lov/1982-11-19-66/§7-9\" class=\" reference\" href=\"/lov/1982-11-19-66/%C2%A77-9\">§ 7-9</a> gjelder også etter at loven her har trådt i kraft.",
         "text": "Forskrifter gitt eller videreført i medhold av lov 19. november 1982 nr. 66 om helsetjenesten i kommunene kapittel 4a og § 7-9 gjelder også etter at loven her har trådt i kraft."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1047,6 +1081,7 @@
         "html": "Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.",
         "text": "Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1069,37 +1104,37 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "1. Lov 19. juni 2009 nr. 65 om fylkeskommuners oppgaver i folkehelsearbeidet oppheves.",
+        "html": "1. <a data-id=\"lov/2009-06-19-65\" class=\" reference\" href=\"/lov/2009-06-19-65\">Lov 19. juni 2009 nr. 65</a> om fylkeskommuners oppgaver i folkehelsearbeidet oppheves.",
         "text": "1. Lov 19. juni 2009 nr. 65 om fylkeskommuners oppgaver i folkehelsearbeidet oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "2. I lov 9. mars 1973 nr. 14 om vern mot tobakkskader gjøres følgende endringer:",
+        "html": "2. I <a data-id=\"lov/1973-03-09-14\" class=\" reference\" href=\"/lov/1973-03-09-14\">lov 9. mars 1973 nr. 14</a> om vern mot tobakkskader gjøres følgende endringer:",
         "text": "2. I lov 9. mars 1973 nr. 14 om vern mot tobakkskader gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 13 annet ledd skal lyde:",
+        "html": "<a data-id=\"lov/1973-03-09-14/§13\" class=\" reference\" href=\"/lov/1973-03-09-14/%C2%A713\">§ 13</a> annet ledd skal lyde:",
         "text": "§ 13 annet ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene vedrørende kommunestyrets og Arbeidstilsynets virksomhet som tilsynsorgan etter henholdsvis folkehelseloven kapittel 3 og arbeidsmiljøloven § 18-4 til 18-8 får tilsvarende anvendelse ved tilsyn etter paragrafen her.",
+        "html": "Reglene vedrørende kommunestyrets og Arbeidstilsynets virksomhet som tilsynsorgan etter henholdsvis <a data-id=\"lov/2011-06-24-29/kap3\" class=\" reference\" href=\"/lov/2011-06-24-29/kap3\">folkehelseloven kapittel 3</a> og <a data-id=\"lov/2005-06-17-62/§18-4\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A718-4\">arbeidsmiljøloven § 18-4</a> til 18-8 får tilsvarende anvendelse ved tilsyn etter paragrafen her.",
         "text": "Reglene vedrørende kommunestyrets og Arbeidstilsynets virksomhet som tilsynsorgan etter henholdsvis folkehelseloven kapittel 3 og arbeidsmiljøloven § 18-4 til 18-8 får tilsvarende anvendelse ved tilsyn etter paragrafen her."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "3. I lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer gjøres følgende endringer:",
+        "html": "3. I <a data-id=\"lov/1994-08-05-55\" class=\" reference\" href=\"/lov/1994-08-05-55\">lov 5. august 1994 nr. 55</a> om vern mot smittsomme sykdommer gjøres følgende endringer:",
         "text": "3. I lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 2-2 åttende ledd skal lyde:",
+        "html": "<a data-id=\"lov/1994-08-05-55/§2-2\" class=\" reference\" href=\"/lov/1994-08-05-55/%C2%A72-2\">§ 2-2</a> åttende ledd skal lyde:",
         "text": "§ 2-2 åttende ledd skal lyde:"
     },
     {
@@ -1111,7 +1146,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 4-10 første til tredje ledd skal lyde:",
+        "html": "<a data-id=\"lov/1994-08-05-55/§4-10\" class=\" reference\" href=\"/lov/1994-08-05-55/%C2%A74-10\">§ 4-10</a> første til tredje ledd skal lyde:",
         "text": "§ 4-10 første til tredje ledd skal lyde:"
     },
     {
@@ -1129,7 +1164,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 4-10 tredje ledd oppheves.",
+        "html": "<a data-id=\"lov/1994-08-05-55/§4-10\" class=\" reference\" href=\"/lov/1994-08-05-55/%C2%A74-10\">§ 4-10</a> tredje ledd oppheves.",
         "text": "§ 4-10 tredje ledd oppheves."
     },
     {
@@ -1147,13 +1182,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 4-10 femte ledd blir nytt fjerde ledd og sjette ledd blir nytt femte ledd.",
+        "html": "<a data-id=\"lov/1994-08-05-55/§4-10\" class=\" reference\" href=\"/lov/1994-08-05-55/%C2%A74-10\">§ 4-10</a> femte ledd blir nytt fjerde ledd og sjette ledd blir nytt femte ledd.",
         "text": "§ 4-10 femte ledd blir nytt fjerde ledd og sjette ledd blir nytt femte ledd."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "4. I lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap gjøres følgende endringer:",
+        "html": "4. I <a data-id=\"lov/2000-06-23-56\" class=\" reference\" href=\"/lov/2000-06-23-56\">lov 23. juni 2000 nr. 56</a> om helsemessig og sosial beredskap gjøres følgende endringer:",
         "text": "4. I lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap gjøres følgende endringer:"
     },
     {
@@ -1165,13 +1200,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "<em class=\" \">Lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap (helseberedskapsloven)</em>",
+        "html": "<em class=\" \"><a data-id=\"lov/2000-06-23-56\" class=\" reference\" href=\"/lov/2000-06-23-56\">Lov 23. juni 2000 nr. 56</a> om helsemessig og sosial beredskap (helseberedskapsloven)</em>",
         "text": "Lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap (helseberedskapsloven)"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1-3 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2000-06-23-56/§1-3\" class=\" reference\" href=\"/lov/2000-06-23-56/%C2%A71-3\">§ 1-3</a> første ledd skal lyde:",
         "text": "§ 1-3 første ledd skal lyde:"
     },
     {
@@ -1182,50 +1217,50 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den offentlige helse- og omsorgstjeneste og kommunens folkehelsearbeid etter folkehelseloven kapittel 2 og 3,</td>\n</tr>",
-        "text": "a)den offentlige helse- og omsorgstjeneste og kommunens folkehelsearbeid etter folkehelseloven kapittel 2 og 3,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den offentlige helse- og omsorgstjeneste og kommunens folkehelsearbeid etter <a data-id=\"lov/2011-06-24-29/kap2\" class=\" reference\" href=\"/lov/2011-06-24-29/kap2\">folkehelseloven kapittel 2</a> og 3,</td>\n</tr>",
+        "text": "a)\tden offentlige helse- og omsorgstjeneste og kommunens folkehelsearbeid etter folkehelseloven kapittel 2 og 3,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">private som i henhold til lov eller avtale tilbyr helse- og omsorgstjenester eller sosialtjenester til befolkningen,</td>\n</tr>",
-        "text": "b)private som i henhold til lov eller avtale tilbyr helse- og omsorgstjenester eller sosialtjenester til befolkningen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">private som i henhold til lov eller avtale tilbyr helse- og omsorgstjenester eller sosialtjenester til befolkningen,</td>\n</tr>",
+        "text": "b)\tprivate som i henhold til lov eller avtale tilbyr helse- og omsorgstjenester eller sosialtjenester til befolkningen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">private som uten formell tilknytning til kommune, fylkeskommune, regionalt helseforetak eller staten tilbyr helse- og omsorgstjenester eller sosialtjenester,</td>\n</tr>",
-        "text": "c)private som uten formell tilknytning til kommune, fylkeskommune, regionalt helseforetak eller staten tilbyr helse- og omsorgstjenester eller sosialtjenester,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">private som uten formell tilknytning til kommune, fylkeskommune, regionalt helseforetak eller staten tilbyr helse- og omsorgstjenester eller sosialtjenester,</td>\n</tr>",
+        "text": "c)\tprivate som uten formell tilknytning til kommune, fylkeskommune, regionalt helseforetak eller staten tilbyr helse- og omsorgstjenester eller sosialtjenester,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Mattilsynet,</td>\n</tr>",
-        "text": "d)Mattilsynet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Mattilsynet,</td>\n</tr>",
+        "text": "d)\tMattilsynet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentlige næringsmiddellaboratorier,</td>\n</tr>",
-        "text": "e)offentlige næringsmiddellaboratorier,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentlige næringsmiddellaboratorier,</td>\n</tr>",
+        "text": "e)\toffentlige næringsmiddellaboratorier,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">private næringsmiddellaboratorier,</td>\n</tr>",
-        "text": "f)private næringsmiddellaboratorier,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">private næringsmiddellaboratorier,</td>\n</tr>",
+        "text": "f)\tprivate næringsmiddellaboratorier,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vannverk</td>\n</tr>",
-        "text": "g)vannverk"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vannverk</td>\n</tr>",
+        "text": "g)\tvannverk"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">apotek, grossister og tilvirkere av legemidler.</td>\n</tr>",
-        "text": "h)apotek, grossister og tilvirkere av legemidler."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">apotek, grossister og tilvirkere av legemidler.</td>\n</tr>",
+        "text": "h)\tapotek, grossister og tilvirkere av legemidler."
     }
 ]

@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.49 (2006–2007), Innst.O.nr.77 (2006–2007) og Besl.O.nr.100 (2006–2007). Odels- og lagtingsvedtak hhv. 7. og 12. juni 2007. Fremmet av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-49-200607\" class=\" reference\" href=\"/forarbeid/otprp-49-200607\">Ot.prp.nr.49 (2006–2007)</a>, <a data-id=\"forarbeid/inns-o-77-200607\" class=\" reference\" href=\"/forarbeid/inns-o-77-200607\">Innst.O.nr.77 (2006–2007)</a> og <a data-id=\"forarbeid/besl-o-100-200607\" class=\" reference\" href=\"/forarbeid/besl-o-100-200607\">Besl.O.nr.100 (2006–2007)</a>. Odels- og lagtingsvedtak hhv. 7. og 12. juni 2007. Fremmet av Finansdepartementet.",
         "text": "Ot.prp.nr.49 (2006–2007), Innst.O.nr.77 (2006–2007) og Besl.O.nr.100 (2006–2007). Odels- og lagtingsvedtak hhv. 7. og 12. juni 2007. Fremmet av Finansdepartementet."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven).</td>\n</tr>",
-        "text": "1Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td>\n</tr>",
+        "text": "1\tLov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 21. desember 2005 nr. 123 om Statens pensjonsfond.</td>\n</tr>",
-        "text": "2Lov 21. desember 2005 nr. 123 om Statens pensjonsfond."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-12-21-123\" class=\" reference\" href=\"/lov/2005-12-21-123\">Lov 21. desember 2005 nr. 123</a> om Statens pensjonsfond.</td>\n</tr>",
+        "text": "2\tLov 21. desember 2005 nr. 123 om Statens pensjonsfond."
     },
     null,
     {
@@ -140,7 +140,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Folketrygdfondet regnes som offentlig organ etter lov 4. desember 1992 nr. 126 om arkiv § 2 bokstav g.",
+        "html": "Folketrygdfondet regnes som offentlig organ etter <a data-id=\"lov/1992-12-04-126\" class=\" reference\" href=\"/lov/1992-12-04-126\">lov 4. desember 1992 nr. 126</a> om arkiv <a data-id=\"lov/1992-12-04-126/§2\" class=\" reference\" href=\"/lov/1992-12-04-126/%C2%A72\">§ 2</a> bokstav g.",
         "text": "Folketrygdfondet regnes som offentlig organ etter lov 4. desember 1992 nr. 126 om arkiv § 2 bokstav g."
     },
     null,
@@ -220,7 +220,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Aksjeloven § 20-6 gjelder tilsvarende for Folketrygdfondet.",
+        "html": "<a data-id=\"lov/1997-06-13-44/§20-6\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A720-6\">Aksjeloven § 20-6</a> gjelder tilsvarende for Folketrygdfondet.",
         "text": "Aksjeloven § 20-6 gjelder tilsvarende for Folketrygdfondet."
     },
     null,
@@ -257,7 +257,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Aksjeloven § 6-17 gjelder tilsvarende for styret i Folketrygdfondet.",
+        "html": "<a data-id=\"lov/1997-06-13-44/§6-17\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A76-17\">Aksjeloven § 6-17</a> gjelder tilsvarende for styret i Folketrygdfondet.",
         "text": "Aksjeloven § 6-17 gjelder tilsvarende for styret i Folketrygdfondet."
     },
     null,
@@ -294,13 +294,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Administrerende direktør skal sørge for at Folketrygdfondets regnskap oppfyller kravene som følger av § 12 i denne lov og at formuesforvaltningen er ordnet på betryggende måte.",
+        "html": "Administrerende direktør skal sørge for at Folketrygdfondets regnskap oppfyller kravene som følger av <a data-id=\"lov/2007-06-29-44/§12\" class=\" reference\" href=\"/lov/2007-06-29-44/%C2%A712\">§ 12</a> i denne lov og at formuesforvaltningen er ordnet på betryggende måte.",
         "text": "Administrerende direktør skal sørge for at Folketrygdfondets regnskap oppfyller kravene som følger av § 12 i denne lov og at formuesforvaltningen er ordnet på betryggende måte."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Aksjeloven § 6-17 gjelder tilsvarende for administrerende direktør i Folketrygdfondet.",
+        "html": "<a data-id=\"lov/1997-06-13-44/§6-17\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A76-17\">Aksjeloven § 6-17</a> gjelder tilsvarende for administrerende direktør i Folketrygdfondet.",
         "text": "Aksjeloven § 6-17 gjelder tilsvarende for administrerende direktør i Folketrygdfondet."
     },
     null,
@@ -331,7 +331,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Administrerende direktør representerer Folketrygdfondet utad i saker som faller innenfor hans eller hennes myndighet etter § 10 i denne lov.",
+        "html": "Administrerende direktør representerer Folketrygdfondet utad i saker som faller innenfor hans eller hennes myndighet etter <a data-id=\"lov/2007-06-29-44/§10\" class=\" reference\" href=\"/lov/2007-06-29-44/%C2%A710\">§ 10</a> i denne lov.",
         "text": "Administrerende direktør representerer Folketrygdfondet utad i saker som faller innenfor hans eller hennes myndighet etter § 10 i denne lov."
     },
     {
@@ -412,7 +412,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser i Folketrygdfondet etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget.",
+        "html": "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser i Folketrygdfondet etter <a data-id=\"lov/2004-05-07-21\" class=\" reference\" href=\"/lov/2004-05-07-21\">lov 7. mai 2004 nr. 21</a> om Riksrevisjonen og instruks fastsatt av Stortinget.",
         "text": "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser i Folketrygdfondet etter lov 7. mai 2004 nr. 21 om Riksrevisjonen og instruks fastsatt av Stortinget."
     },
     null,
@@ -462,37 +462,37 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "1. I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:",
+        "html": "1. I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:",
         "text": "1. I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 2-30 nr. (1) bokstav e nr. 7 skal lyde:",
+        "html": "<a data-id=\"lov/1999-03-26-14/§2-30\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-30\">§ 2-30</a> nr. (1) bokstav e nr. 7 skal lyde:",
         "text": "§ 2-30 nr. (1) bokstav e nr. 7 skal lyde:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Folketrygdfondet</td>\n</tr>",
-        "text": "7.Folketrygdfondet"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Folketrygdfondet</td>\n</tr>",
+        "text": "7.\tFolketrygdfondet"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 2-30 nr. (1) bokstav f skal lyde:",
+        "html": "<a data-id=\"lov/1999-03-26-14/§2-30\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-30\">§ 2-30</a> nr. (1) bokstav f skal lyde:",
         "text": "§ 2-30 nr. (1) bokstav f skal lyde:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">folketrygden</td>\n</tr>",
-        "text": "f.folketrygden"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">folketrygden</td>\n</tr>",
+        "text": "f.\tfolketrygden"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "2. I lov 21. desember 2005 nr. 123 om Statens pensjonsfond oppheves § 7 annet punktum.",
+        "html": "2. I <a data-id=\"lov/2005-12-21-123\" class=\" reference\" href=\"/lov/2005-12-21-123\">lov 21. desember 2005 nr. 123</a> om Statens pensjonsfond oppheves <a data-id=\"lov/2005-12-21-123/§7\" class=\" reference\" href=\"/lov/2005-12-21-123/%C2%A77\">§ 7</a> annet punktum.",
         "text": "2. I lov 21. desember 2005 nr. 123 om Statens pensjonsfond oppheves § 7 annet punktum."
     },
     null,
@@ -517,7 +517,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. (tjenestemannsloven) § 13 nr. 2-6 om fortrinnsrett til annen statsstilling og ventelønn, skal fortsatt gjelde for arbeidstakere i forvaltningsorganet Folketrygdfondet som blir sagt opp av grunn som nevnt i tjenestemannsloven § 13 nr. 1 bokstav a, b og c, og som var omfattet av disse reglene før lovens ikrafttredelse. Fortrinnsretten til annen statsstilling og retten til ventelønn etter forrige punktum opphører tre år etter lovens ikrafttredelse.",
+        "html": "<a data-id=\"lov/1983-03-04-3\" class=\" reference\" href=\"/lov/1983-03-04-3\">Lov 4. mars 1983 nr. 3</a> om statens tjenestemenn m.m. (tjenestemannsloven) <a data-id=\"lov/1983-03-04-3/§13\" class=\" reference\" href=\"/lov/1983-03-04-3/%C2%A713\">§ 13</a> nr. 2-6 om fortrinnsrett til annen statsstilling og ventelønn, skal fortsatt gjelde for arbeidstakere i forvaltningsorganet Folketrygdfondet som blir sagt opp av grunn som nevnt i <a data-id=\"lov/1983-03-04-3/§13\" class=\" reference\" href=\"/lov/1983-03-04-3/%C2%A713\">tjenestemannsloven § 13</a> nr. 1 bokstav a, b og c, og som var omfattet av disse reglene før lovens ikrafttredelse. Fortrinnsretten til annen statsstilling og retten til ventelønn etter forrige punktum opphører tre år etter lovens ikrafttredelse.",
         "text": "Lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. (tjenestemannsloven) § 13 nr. 2-6 om fortrinnsrett til annen statsstilling og ventelønn, skal fortsatt gjelde for arbeidstakere i forvaltningsorganet Folketrygdfondet som blir sagt opp av grunn som nevnt i tjenestemannsloven § 13 nr. 1 bokstav a, b og c, og som var omfattet av disse reglene før lovens ikrafttredelse. Fortrinnsretten til annen statsstilling og retten til ventelønn etter forrige punktum opphører tre år etter lovens ikrafttredelse."
     },
     {

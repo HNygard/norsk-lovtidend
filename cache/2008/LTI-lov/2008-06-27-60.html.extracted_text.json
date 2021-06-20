@@ -2,13 +2,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.59 (2007–2008), Innst.O.nr.70 (2007–2008) og Besl.O.nr.112 (2007–2008). Odels- og lagtingsvedtak hhv. 17. og 20. juni 2008. Fremja av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-59-200708\" class=\" reference\" href=\"/forarbeid/otprp-59-200708\">Ot.prp.nr.59 (2007–2008)</a>, <a data-id=\"forarbeid/inns-o-70-200708\" class=\" reference\" href=\"/forarbeid/inns-o-70-200708\">Innst.O.nr.70 (2007–2008)</a> og <a data-id=\"forarbeid/besl-o-112-200708\" class=\" reference\" href=\"/forarbeid/besl-o-112-200708\">Besl.O.nr.112 (2007–2008)</a>. Odels- og lagtingsvedtak hhv. 17. og 20. juni 2008. Fremja av Finansdepartementet.",
         "text": "Ot.prp.nr.59 (2007–2008), Innst.O.nr.70 (2007–2008) og Besl.O.nr.112 (2007–2008). Odels- og lagtingsvedtak hhv. 17. og 20. juni 2008. Fremja av Finansdepartementet."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:"
     },
     {
@@ -43,9 +43,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">europeisk selskap,</td>\n</tr>",
-        "text": "i.europeisk selskap,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">europeisk selskap,</td>\n</tr>",
+        "text": "i.\teuropeisk selskap,"
     },
     {
         "tag": "p",
@@ -55,9 +55,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">europeisk samvirkeforetak,</td>\n</tr>",
-        "text": "j.europeisk samvirkeforetak,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">europeisk samvirkeforetak,</td>\n</tr>",
+        "text": "j.\teuropeisk samvirkeforetak,"
     },
     {
         "tag": "p",

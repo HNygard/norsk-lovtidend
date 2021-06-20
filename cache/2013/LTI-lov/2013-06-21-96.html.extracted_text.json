@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.144 L (2012–2013), Innst.465 L (2012–2013), Lovvedtak 129 (2012–2013). Stortingets første og andre gangs behandling hhv. 17. og 21. juni 2013. Fremmet av Kulturdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-144-l-201213\" class=\" reference\" href=\"/forarbeid/prop-144-l-201213\">Prop.144 L (2012–2013)</a>, <a data-id=\"forarbeid/inns-465-l-201213\" class=\" reference\" href=\"/forarbeid/inns-465-l-201213\">Innst.465 L (2012–2013)</a>, <a data-id=\"forarbeid/lovvedtak-129-201213\" class=\" reference\" href=\"/forarbeid/lovvedtak-129-201213\">Lovvedtak 129 (2012–2013)</a>. Stortingets første og andre gangs behandling hhv. 17. og 21. juni 2013. Fremmet av Kulturdepartementet.",
         "text": "Prop.144 L (2012–2013), Innst.465 L (2012–2013), Lovvedtak 129 (2012–2013). Stortingets første og andre gangs behandling hhv. 17. og 21. juni 2013. Fremmet av Kulturdepartementet."
     },
     null,
@@ -82,21 +82,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">leverandør: virksomhet som utgir bøker</td>\n</tr>",
-        "text": "a)leverandør: virksomhet som utgir bøker"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">leverandør: virksomhet som utgir bøker</td>\n</tr>",
+        "text": "a)\tleverandør: virksomhet som utgir bøker"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forhandler: virksomhet som selger bøker til sluttkunde</td>\n</tr>",
-        "text": "b)forhandler: virksomhet som selger bøker til sluttkunde"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forhandler: virksomhet som selger bøker til sluttkunde</td>\n</tr>",
+        "text": "b)\tforhandler: virksomhet som selger bøker til sluttkunde"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sluttkunde: siste kjøper i omsetningskjeden.</td>\n</tr>",
-        "text": "c)sluttkunde: siste kjøper i omsetningskjeden."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sluttkunde: siste kjøper i omsetningskjeden.</td>\n</tr>",
+        "text": "c)\tsluttkunde: siste kjøper i omsetningskjeden."
     },
     null,
     {
@@ -257,7 +257,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For bøker som i henhold til § 5 er undergitt bindende videresalgspris til sluttkunde, skal rabatt på innkjøpsprisen ikke overstige 50 pst. av prisen til sluttkunde. Rabatter i henhold til § 7 gjelder uavhengig av denne bestemmelsen.",
+        "html": "For bøker som i henhold til <a data-id=\"lov/2013-06-21-96/§5\" class=\" reference\" href=\"/lov/2013-06-21-96/%C2%A75\">§ 5</a> er undergitt bindende videresalgspris til sluttkunde, skal rabatt på innkjøpsprisen ikke overstige 50 pst. av prisen til sluttkunde. Rabatter i henhold til <a data-id=\"lov/2013-06-21-96/§7\" class=\" reference\" href=\"/lov/2013-06-21-96/%C2%A77\">§ 7</a> gjelder uavhengig av denne bestemmelsen.",
         "text": "For bøker som i henhold til § 5 er undergitt bindende videresalgspris til sluttkunde, skal rabatt på innkjøpsprisen ikke overstige 50 pst. av prisen til sluttkunde. Rabatter i henhold til § 7 gjelder uavhengig av denne bestemmelsen."
     },
     {

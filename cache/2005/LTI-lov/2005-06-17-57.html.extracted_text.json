@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.62 (2004–2005), Innst.O.nr.107 (2004–2005) og Besl.O.nr.97 (2004–2005). Odels- og lagtingsvedtak hhv. 6. og 14. juni 2005. Fremja av Arbeids- og sosialdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-62-200405\" class=\" reference\" href=\"/forarbeid/otprp-62-200405\">Ot.prp.nr.62 (2004–2005)</a>, <a data-id=\"forarbeid/inns-o-107-200405\" class=\" reference\" href=\"/forarbeid/inns-o-107-200405\">Innst.O.nr.107 (2004–2005)</a> og <a data-id=\"forarbeid/besl-o-97-200405\" class=\" reference\" href=\"/forarbeid/besl-o-97-200405\">Besl.O.nr.97 (2004–2005)</a>. Odels- og lagtingsvedtak hhv. 6. og 14. juni 2005. Fremja av Arbeids- og sosialdepartementet.",
         "text": "Ot.prp.nr.62 (2004–2005), Innst.O.nr.107 (2004–2005) og Besl.O.nr.97 (2004–2005). Odels- og lagtingsvedtak hhv. 6. og 14. juni 2005. Fremja av Arbeids- og sosialdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 28. februar 1997 nr. 19 om folketrygd blir følgjande endringar gjort:",
+        "html": "I <a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">lov 28. februar 1997 nr. 19</a> om folketrygd blir følgjande endringar gjort:",
         "text": "I lov 28. februar 1997 nr. 19 om folketrygd blir følgjande endringar gjort:"
     },
     {
@@ -43,9 +43,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">deltakelse i arbeidsmarkedstiltak</td>\n</tr>",
-        "text": "-deltakelse i arbeidsmarkedstiltak"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">deltakelse i arbeidsmarkedstiltak</td>\n</tr>",
+        "text": "-\tdeltakelse i arbeidsmarkedstiltak"
     },
     {
         "tag": "p",
@@ -151,21 +151,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">åtte uker første gang et forhold som nevnt i første ledd bokstav a til d eller andre ledd inntreffer,</td>\n</tr>",
-        "text": "a)åtte uker første gang et forhold som nevnt i første ledd bokstav a til d eller andre ledd inntreffer,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">åtte uker første gang et forhold som nevnt i første ledd bokstav a til d eller andre ledd inntreffer,</td>\n</tr>",
+        "text": "a)\tåtte uker første gang et forhold som nevnt i første ledd bokstav a til d eller andre ledd inntreffer,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tolv uker dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller i § 4-10 første ledd har inntruffet to ganger innenfor de siste tolv måneder,</td>\n</tr>",
-        "text": "b)tolv uker dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller i § 4-10 første ledd har inntruffet to ganger innenfor de siste tolv måneder,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tolv uker dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller i § 4-10 første ledd har inntruffet to ganger innenfor de siste tolv måneder,</td>\n</tr>",
+        "text": "b)\ttolv uker dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller i § 4-10 første ledd har inntruffet to ganger innenfor de siste tolv måneder,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">seks måneder dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller i § 4-10 første ledd har inntruffet tre ganger innenfor de siste tolv måneder.</td>\n</tr>",
-        "text": "c)seks måneder dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller i § 4-10 første ledd har inntruffet tre ganger innenfor de siste tolv måneder."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">seks måneder dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller i § 4-10 første ledd har inntruffet tre ganger innenfor de siste tolv måneder.</td>\n</tr>",
+        "text": "c)\tseks måneder dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller i § 4-10 første ledd har inntruffet tre ganger innenfor de siste tolv måneder."
     },
     {
         "tag": "p",
@@ -181,21 +181,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fire uker første gang et forhold som nevnt i første ledd bokstav e inntreffer,</td>\n</tr>",
-        "text": "a)fire uker første gang et forhold som nevnt i første ledd bokstav e inntreffer,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fire uker første gang et forhold som nevnt i første ledd bokstav e inntreffer,</td>\n</tr>",
+        "text": "a)\tfire uker første gang et forhold som nevnt i første ledd bokstav e inntreffer,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">åtte uker dersom forhold som nevnt i første ledd bokstav e har inntruffet to ganger innenfor de siste tolv måneder,</td>\n</tr>",
-        "text": "b)åtte uker dersom forhold som nevnt i første ledd bokstav e har inntruffet to ganger innenfor de siste tolv måneder,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">åtte uker dersom forhold som nevnt i første ledd bokstav e har inntruffet to ganger innenfor de siste tolv måneder,</td>\n</tr>",
+        "text": "b)\tåtte uker dersom forhold som nevnt i første ledd bokstav e har inntruffet to ganger innenfor de siste tolv måneder,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tolv uker dersom forhold som nevnt i første ledd bokstav e har inntruffet tre ganger innenfor de siste tolv måneder.</td>\n</tr>",
-        "text": "c)tolv uker dersom forhold som nevnt i første ledd bokstav e har inntruffet tre ganger innenfor de siste tolv måneder."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tolv uker dersom forhold som nevnt i første ledd bokstav e har inntruffet tre ganger innenfor de siste tolv måneder.</td>\n</tr>",
+        "text": "c)\ttolv uker dersom forhold som nevnt i første ledd bokstav e har inntruffet tre ganger innenfor de siste tolv måneder."
     },
     {
         "tag": "p",
@@ -223,9 +223,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fødselspenger, adopsjonspenger eller svangerskapspenger etter lovens kapittel 14,</td>\n</tr>",
-        "text": "e)fødselspenger, adopsjonspenger eller svangerskapspenger etter lovens kapittel 14,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fødselspenger, adopsjonspenger eller svangerskapspenger etter lovens kapittel 14,</td>\n</tr>",
+        "text": "e)\tfødselspenger, adopsjonspenger eller svangerskapspenger etter lovens kapittel 14,"
     },
     {
         "tag": "p",
@@ -259,15 +259,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uførepensjon etter lovens kapittel 12, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste kalenderår før dagpenger tilstås,</td>\n</tr>",
-        "text": "d)uførepensjon etter lovens kapittel 12, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste kalenderår før dagpenger tilstås,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uførepensjon etter lovens kapittel 12, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste kalenderår før dagpenger tilstås,</td>\n</tr>",
+        "text": "d)\tuførepensjon etter lovens kapittel 12, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste kalenderår før dagpenger tilstås,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fødselspenger, adopsjonspenger eller svangerskapspenger etter lovens kapittel 14,</td>\n</tr>",
-        "text": "e)fødselspenger, adopsjonspenger eller svangerskapspenger etter lovens kapittel 14,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fødselspenger, adopsjonspenger eller svangerskapspenger etter lovens kapittel 14,</td>\n</tr>",
+        "text": "e)\tfødselspenger, adopsjonspenger eller svangerskapspenger etter lovens kapittel 14,"
     },
     {
         "tag": "p",
@@ -289,9 +289,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">redusert uførepensjon fra offentlig pensjonsordning, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste avsluttede kalenderår før dagpenger tilstås,</td>\n</tr>",
-        "text": "c)redusert uførepensjon fra offentlig pensjonsordning, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste avsluttede kalenderår før dagpenger tilstås,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">redusert uførepensjon fra offentlig pensjonsordning, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste avsluttede kalenderår før dagpenger tilstås,</td>\n</tr>",
+        "text": "c)\tredusert uførepensjon fra offentlig pensjonsordning, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste avsluttede kalenderår før dagpenger tilstås,"
     },
     {
         "tag": "p",

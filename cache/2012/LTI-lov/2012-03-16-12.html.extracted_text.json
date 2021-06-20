@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.136 L (2010–2011), Innst.133 L (2011–2012), Lovvedtak 35 (2011–2012). Stortingets første og andre gongs behandling hv. 10. og 17. januar 2012. Fremja av Miljøverndepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-136-l-201011\" class=\" reference\" href=\"/forarbeid/prop-136-l-201011\">Prop.136 L (2010–2011)</a>, <a data-id=\"forarbeid/inns-133-l-201112\" class=\" reference\" href=\"/forarbeid/inns-133-l-201112\">Innst.133 L (2011–2012)</a>, <a data-id=\"forarbeid/lovvedtak-35-201112\" class=\" reference\" href=\"/forarbeid/lovvedtak-35-201112\">Lovvedtak 35 (2011–2012)</a>. Stortingets første og andre gongs behandling hv. 10. og 17. januar 2012. Fremja av Miljøverndepartementet.",
         "text": "Prop.136 L (2010–2011), Innst.133 L (2011–2012), Lovvedtak 35 (2011–2012). Stortingets første og andre gongs behandling hv. 10. og 17. januar 2012. Fremja av Miljøverndepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 31. mai 1974 nr. 17 om kommunale vass- og kloakkavgifter.",
+        "html": "<a data-id=\"lov/1974-05-31-17\" class=\" reference\" href=\"/lov/1974-05-31-17\">Lov 31. mai 1974 nr. 17</a> om kommunale vass- og kloakkavgifter.",
         "text": "Lov 31. mai 1974 nr. 17 om kommunale vass- og kloakkavgifter."
     },
     null,
@@ -33,7 +33,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nye vass- og avløpsanlegg skal vere eigd av kommunar. Eksisterande vass- og avløpsanlegg kan berre seljast eller på annan måte overdragast til kommunar. Vesentleg utviding eller samanslåing av eksisterande private anlegg kan berre skje med løyve frå kommunen etter § 2.",
+        "html": "Nye vass- og avløpsanlegg skal vere eigd av kommunar. Eksisterande vass- og avløpsanlegg kan berre seljast eller på annan måte overdragast til kommunar. Vesentleg utviding eller samanslåing av eksisterande private anlegg kan berre skje med løyve frå kommunen etter <a data-id=\"lov/2012-03-16-12/§2\" class=\" reference\" href=\"/lov/2012-03-16-12/%C2%A72\">§ 2</a>.",
         "text": "Nye vass- og avløpsanlegg skal vere eigd av kommunar. Eksisterande vass- og avløpsanlegg kan berre seljast eller på annan måte overdragast til kommunar. Vesentleg utviding eller samanslåing av eksisterande private anlegg kan berre skje med løyve frå kommunen etter § 2."
     },
     {
@@ -75,15 +75,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det private anlegget ligg så langt frå kommunalt vass- og avløpsanlegg at kommunen ikkje kan krevje at busetnaden som det private anlegget tener eller skal tene skal knytast til det kommunale anlegget med heimel i plan- og bygningslova § 27-1 og § 27-2, eller</td>\n</tr>",
-        "text": "-det private anlegget ligg så langt frå kommunalt vass- og avløpsanlegg at kommunen ikkje kan krevje at busetnaden som det private anlegget tener eller skal tene skal knytast til det kommunale anlegget med heimel i plan- og bygningslova § 27-1 og § 27-2, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det private anlegget ligg så langt frå kommunalt vass- og avløpsanlegg at kommunen ikkje kan krevje at busetnaden som det private anlegget tener eller skal tene skal knytast til det kommunale anlegget med heimel i plan- og <a data-id=\"lov/2008-06-27-71/§27-1\" class=\" reference\" href=\"/lov/2008-06-27-71/%C2%A727-1\">bygningslova § 27-1</a> og § <a data-id=\"lov/2008-06-27-71/§27-2\" class=\" reference\" href=\"/lov/2008-06-27-71/%C2%A727-2\">27-2</a>, eller</td>\n</tr>",
+        "text": "-\tdet private anlegget ligg så langt frå kommunalt vass- og avløpsanlegg at kommunen ikkje kan krevje at busetnaden som det private anlegget tener eller skal tene skal knytast til det kommunale anlegget med heimel i plan- og bygningslova § 27-1 og § 27-2, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnadene ved å knyte seg til det kommunale anlegget vil vere uhøveleg store eller andre særlege omsyn talar for det.</td>\n</tr>",
-        "text": "-kostnadene ved å knyte seg til det kommunale anlegget vil vere uhøveleg store eller andre særlege omsyn talar for det."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnadene ved å knyte seg til det kommunale anlegget vil vere uhøveleg store eller andre særlege omsyn talar for det.</td>\n</tr>",
+        "text": "-\tkostnadene ved å knyte seg til det kommunale anlegget vil vere uhøveleg store eller andre særlege omsyn talar for det."
     },
     {
         "tag": "p",
@@ -113,7 +113,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når ein fast eigedom har tilknyting til kommunal vass- eller avløpsleidning, anten beinveges eller gjennom privat samleidning, har eigaren skyldnad til å svare vass- og avløpsgebyr til kommunen. Det same gjeld når kommunen med heimel i plan- og bygningslova §§ 27-1 eller 27-2 har kravd at eigedomen skal ha slik tilknyting. Gebyr kan krevjast jamvel av eigedom som det ikkje er hus på, når kommunen kunne kravd tilknyting til slike leidningar om det hadde vore hus på eigedomen. Er det ikkje bygd på eigedomen av di det, i lov eller i vedtak av offentleg styresmakt, er sett forbod mot bygging, kan det ikkje krevjast gebyr så lenge forbodet gjeld. Det same gjeld når byggjehindringa er annan serleg grunn som eigaren ikkje har ansvaret for.",
+        "html": "Når ein fast eigedom har tilknyting til kommunal vass- eller avløpsleidning, anten beinveges eller gjennom privat samleidning, har eigaren skyldnad til å svare vass- og avløpsgebyr til kommunen. Det same gjeld når kommunen med heimel i plan- og <a data-id=\"lov/2008-06-27-71/§27-1\" class=\" reference\" href=\"/lov/2008-06-27-71/%C2%A727-1\">bygningslova §§ 27-1</a> eller <a data-id=\"lov/2008-06-27-71/§27-2\" class=\" reference\" href=\"/lov/2008-06-27-71/%C2%A727-2\">27-2</a> har kravd at eigedomen skal ha slik tilknyting. Gebyr kan krevjast jamvel av eigedom som det ikkje er hus på, når kommunen kunne kravd tilknyting til slike leidningar om det hadde vore hus på eigedomen. Er det ikkje bygd på eigedomen av di det, i lov eller i vedtak av offentleg styresmakt, er sett forbod mot bygging, kan det ikkje krevjast gebyr så lenge forbodet gjeld. Det same gjeld når byggjehindringa er annan serleg grunn som eigaren ikkje har ansvaret for.",
         "text": "Når ein fast eigedom har tilknyting til kommunal vass- eller avløpsleidning, anten beinveges eller gjennom privat samleidning, har eigaren skyldnad til å svare vass- og avløpsgebyr til kommunen. Det same gjeld når kommunen med heimel i plan- og bygningslova §§ 27-1 eller 27-2 har kravd at eigedomen skal ha slik tilknyting. Gebyr kan krevjast jamvel av eigedom som det ikkje er hus på, når kommunen kunne kravd tilknyting til slike leidningar om det hadde vore hus på eigedomen. Er det ikkje bygd på eigedomen av di det, i lov eller i vedtak av offentleg styresmakt, er sett forbod mot bygging, kan det ikkje krevjast gebyr så lenge forbodet gjeld. Det same gjeld når byggjehindringa er annan serleg grunn som eigaren ikkje har ansvaret for."
     },
     {
@@ -194,7 +194,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forfalt krav på årsgebyr etter denne lova er sikra med lovpant i eigedomen etter pantelova § 6-1. Både årsgebyr og eingongsgebyr for tilknyting er elles tvangsgrunnlag for utlegg. Gebyra kan krevjast inn av kommunekasseraren etter reglane for innkrevjing av skatt.",
+        "html": "Forfalt krav på årsgebyr etter denne lova er sikra med lovpant i eigedomen etter <a data-id=\"lov/1980-02-08-2/§6-1\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A76-1\">pantelova § 6-1</a>. Både årsgebyr og eingongsgebyr for tilknyting er elles tvangsgrunnlag for utlegg. Gebyra kan krevjast inn av kommunekasseraren etter reglane for innkrevjing av skatt.",
         "text": "Forfalt krav på årsgebyr etter denne lova er sikra med lovpant i eigedomen etter pantelova § 6-1. Både årsgebyr og eingongsgebyr for tilknyting er elles tvangsgrunnlag for utlegg. Gebyra kan krevjast inn av kommunekasseraren etter reglane for innkrevjing av skatt."
     },
     null,
@@ -213,13 +213,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lova tek til å gjelde frå den tid Kongen fastset. Frå same tid opphevast lov 31. mai 1974 nr. 17 om kommunale vass- og kloakkavgifter.",
+        "html": "Lova tek til å gjelde frå den tid Kongen fastset. Frå same tid opphevast <a data-id=\"lov/1974-05-31-17\" class=\" reference\" href=\"/lov/1974-05-31-17\">lov 31. mai 1974 nr. 17</a> om kommunale vass- og kloakkavgifter.",
         "text": "Lova tek til å gjelde frå den tid Kongen fastset. Frå same tid opphevast lov 31. mai 1974 nr. 17 om kommunale vass- og kloakkavgifter."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskrifter gjevne i medhald av lov 31. mai 1974 nr. 17 om kommunale vass- og kloakkavgifter gjeld òg etter at lova her tek til å gjelde.",
+        "html": "Forskrifter gjevne i medhald av <a data-id=\"lov/1974-05-31-17\" class=\" reference\" href=\"/lov/1974-05-31-17\">lov 31. mai 1974 nr. 17</a> om kommunale vass- og kloakkavgifter gjeld òg etter at lova her tek til å gjelde.",
         "text": "Forskrifter gjevne i medhald av lov 31. mai 1974 nr. 17 om kommunale vass- og kloakkavgifter gjeld òg etter at lova her tek til å gjelde."
     }
 ]

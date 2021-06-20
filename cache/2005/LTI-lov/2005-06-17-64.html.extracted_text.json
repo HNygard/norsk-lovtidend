@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.72 (2004–2005), Innst.O.nr.117 (2004–2005) og Besl.O.nr.112 (2004–2005). Odels- og lagtingsvedtak hhv. 10. og 14. juni 2005. Fremmet av Barne- og familiedepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-72-200405\" class=\" reference\" href=\"/forarbeid/otprp-72-200405\">Ot.prp.nr.72 (2004–2005)</a>, <a data-id=\"forarbeid/inns-o-117-200405\" class=\" reference\" href=\"/forarbeid/inns-o-117-200405\">Innst.O.nr.117 (2004–2005)</a> og <a data-id=\"forarbeid/besl-o-112-200405\" class=\" reference\" href=\"/forarbeid/besl-o-112-200405\">Besl.O.nr.112 (2004–2005)</a>. Odels- og lagtingsvedtak hhv. 10. og 14. juni 2005. Fremmet av Barne- og familiedepartementet.",
         "text": "Ot.prp.nr.72 (2004–2005), Innst.O.nr.117 (2004–2005) og Besl.O.nr.112 (2004–2005). Odels- og lagtingsvedtak hhv. 10. og 14. juni 2005. Fremmet av Barne- og familiedepartementet."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 5. mai 1995 nr. 19 om barnehager.</td>\n</tr>",
-        "text": "1Lov 5. mai 1995 nr. 19 om barnehager."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">Lov 5. mai 1995 nr. 19</a> om barnehager.</td>\n</tr>",
+        "text": "1\tLov 5. mai 1995 nr. 19 om barnehager."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 19. juni 1997 nr. 64 om endringer i lov 5. mai 1995 nr. 19 om barnehager.</td>\n</tr>",
-        "text": "2Lov 19. juni 1997 nr. 64 om endringer i lov 5. mai 1995 nr. 19 om barnehager."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-06-19-64\" class=\" reference\" href=\"/lov/1997-06-19-64\">Lov 19. juni 1997 nr. 64</a> om endringer i <a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">lov 5. mai 1995 nr. 19</a> om barnehager.</td>\n</tr>",
+        "text": "2\tLov 19. juni 1997 nr. 64 om endringer i lov 5. mai 1995 nr. 19 om barnehager."
     },
     {
         "tag": "h2",
@@ -29,6 +29,7 @@
         "html": "Kapittel I. Barnehagens formål og innhold",
         "text": "Kapittel I. Barnehagens formål og innhold"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -66,6 +67,7 @@
         "html": "Private barnehager og barnehager eiet eller drevet av menigheter innen Den norske kirke kan i vedtektene fastsette særlige bestemmelser om livssynsformål.",
         "text": "Private barnehager og barnehager eiet eller drevet av menigheter innen Den norske kirke kan i vedtektene fastsette særlige bestemmelser om livssynsformål."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -140,6 +142,7 @@
         "text": "Kapittel II. Barns og foreldres medvirkning"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -171,6 +174,7 @@
         "text": "Barnets synspunkter skal tillegges vekt i samsvar med dets alder og modenhet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -192,7 +196,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Foreldrerådet består av foreldrene/de foresatte til alle barna og skal fremme deres fellesinteresser og bidra til at samarbeidet mellom barnehagen og foreldregruppen skaper et godt barnehagemiljø. Er det i forskrift etter § 15 satt maksimalgrense for foreldrebetaling, kan bare foreldrerådet samtykke i foreldrebetaling ut over dette.",
+        "html": "Foreldrerådet består av foreldrene/de foresatte til alle barna og skal fremme deres fellesinteresser og bidra til at samarbeidet mellom barnehagen og foreldregruppen skaper et godt barnehagemiljø. Er det i forskrift etter <a data-id=\"lov/2005-06-17-64/§15\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A715\">§ 15</a> satt maksimalgrense for foreldrebetaling, kan bare foreldrerådet samtykke i foreldrebetaling ut over dette.",
         "text": "Foreldrerådet består av foreldrene/de foresatte til alle barna og skal fremme deres fellesinteresser og bidra til at samarbeidet mellom barnehagen og foreldregruppen skaper et godt barnehagemiljø. Er det i forskrift etter § 15 satt maksimalgrense for foreldrebetaling, kan bare foreldrerådet samtykke i foreldrebetaling ut over dette."
     },
     {
@@ -207,6 +211,7 @@
         "html": "Barnehageeieren skal sørge for at saker av viktighet forelegges foreldrerådet og samarbeidsutvalget.",
         "text": "Barnehageeieren skal sørge for at saker av viktighet forelegges foreldrerådet og samarbeidsutvalget."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -223,7 +228,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunen kan bestemme at det skal være felles samarbeidsutvalg for kommunal barnehage og grunnskole. Der begge parter ønsker det, kan det etableres tilsvarende ordning for privat barnehage og kommunal eller privat skole. Samarbeidsutvalget settes også i slike tilfeller sammen etter § 4 tredje ledd, men slik at foreldre/foresatte og ansatte fra både barnehagen og skolen skal være representert, jf. lov om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 11-1 fjerde ledd.",
+        "html": "Kommunen kan bestemme at det skal være felles samarbeidsutvalg for kommunal barnehage og grunnskole. Der begge parter ønsker det, kan det etableres tilsvarende ordning for privat barnehage og kommunal eller privat skole. Samarbeidsutvalget settes også i slike tilfeller sammen etter <a data-id=\"lov/2005-06-17-64/§4\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A74\">§ 4</a> tredje ledd, men slik at foreldre/foresatte og ansatte fra både barnehagen og skolen skal være representert, jf. <a data-id=\"lov/1998-07-17-61/§11-1\" class=\" reference\" href=\"/lov/1998-07-17-61/%C2%A711-1\">lov om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 11-1</a> fjerde ledd.",
         "text": "Kommunen kan bestemme at det skal være felles samarbeidsutvalg for kommunal barnehage og grunnskole. Der begge parter ønsker det, kan det etableres tilsvarende ordning for privat barnehage og kommunal eller privat skole. Samarbeidsutvalget settes også i slike tilfeller sammen etter § 4 tredje ledd, men slik at foreldre/foresatte og ansatte fra både barnehagen og skolen skal være representert, jf. lov om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 11-1 fjerde ledd."
     },
     {
@@ -232,6 +237,7 @@
         "html": "Kapittel III. Godkjenningsplikt og oppgavefordeling",
         "text": "Kapittel III. Godkjenningsplikt og oppgavefordeling"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -253,21 +259,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten er regelmessig og ett eller flere barn har en ukentlig oppholdstid på mer enn 20 timer, og</td>\n</tr>",
-        "text": "a)virksomheten er regelmessig og ett eller flere barn har en ukentlig oppholdstid på mer enn 20 timer, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten er regelmessig og ett eller flere barn har en ukentlig oppholdstid på mer enn 20 timer, og</td>\n</tr>",
+        "text": "a)\tvirksomheten er regelmessig og ett eller flere barn har en ukentlig oppholdstid på mer enn 20 timer, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">antall barn som er til stede samtidig er ti eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og</td>\n</tr>",
-        "text": "b)antall barn som er til stede samtidig er ti eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">antall barn som er til stede samtidig er ti eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og</td>\n</tr>",
+        "text": "b)\tantall barn som er til stede samtidig er ti eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten utføres mot godtgjøring.</td>\n</tr>",
-        "text": "c)virksomheten utføres mot godtgjøring."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten utføres mot godtgjøring.</td>\n</tr>",
+        "text": "c)\tvirksomheten utføres mot godtgjøring."
     },
     {
         "tag": "p",
@@ -275,6 +281,7 @@
         "html": "Virksomheter etter første ledd må være godkjent før driften settes i gang.",
         "text": "Virksomheter etter første ledd må være godkjent før driften settes i gang."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -303,7 +310,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Barnehageeieren plikter å gi barnets bostedskommune de opplysninger som er nødvendige for å kunne føre et register som nevnt i § 8 fjerde ledd.",
+        "html": "Barnehageeieren plikter å gi barnets bostedskommune de opplysninger som er nødvendige for å kunne føre et register som nevnt i <a data-id=\"lov/2005-06-17-64/§8\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A78\">§ 8</a> fjerde ledd.",
         "text": "Barnehageeieren plikter å gi barnets bostedskommune de opplysninger som er nødvendige for å kunne føre et register som nevnt i § 8 fjerde ledd."
     },
     {
@@ -314,33 +321,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eierforhold,</td>\n</tr>",
-        "text": "a)eierforhold,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eierforhold,</td>\n</tr>",
+        "text": "a)\teierforhold,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formål, jf. § 1 fjerde ledd, herunder eventuell reservasjon fra § 1 annet ledd, jf. tredje ledd,</td>\n</tr>",
-        "text": "b)formål, jf. § 1 fjerde ledd, herunder eventuell reservasjon fra § 1 annet ledd, jf. tredje ledd,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formål, jf. <a data-id=\"lov/2005-06-17-64/§1\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A71\">§ 1</a> fjerde ledd, herunder eventuell reservasjon fra <a data-id=\"lov/2005-06-17-64/§1\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A71\">§ 1</a> annet ledd, jf. tredje ledd,</td>\n</tr>",
+        "text": "b)\tformål, jf. § 1 fjerde ledd, herunder eventuell reservasjon fra § 1 annet ledd, jf. tredje ledd,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptakskriterier,</td>\n</tr>",
-        "text": "c)opptakskriterier,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptakskriterier,</td>\n</tr>",
+        "text": "c)\topptakskriterier,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">antall medlemmer i samarbeidsutvalget,</td>\n</tr>",
-        "text": "d)antall medlemmer i samarbeidsutvalget,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">antall medlemmer i samarbeidsutvalget,</td>\n</tr>",
+        "text": "d)\tantall medlemmer i samarbeidsutvalget,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnehagens åpningstid.</td>\n</tr>",
-        "text": "e)barnehagens åpningstid."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnehagens åpningstid.</td>\n</tr>",
+        "text": "e)\tbarnehagens åpningstid."
     },
     {
         "tag": "p",
@@ -348,6 +355,7 @@
         "html": "Godkjente virksomheter skal være registrert i Enhetsregisteret.",
         "text": "Godkjente virksomheter skal være registrert i Enhetsregisteret."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -398,6 +406,7 @@
         "text": "Kommunen forvalter tilskuddene til ikke-kommunale barnehager i kommunen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -413,7 +422,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fylkesmannen skal veilede kommuner og eiere av virksomheter etter denne lov og er klageinstans i forhold til vedtak fattet av kommunen etter loven §§ 10, 11, 16, 17 og 18 og der det følger av forskrifter gitt i medhold av denne lov.",
+        "html": "Fylkesmannen skal veilede kommuner og eiere av virksomheter etter denne lov og er klageinstans i forhold til vedtak fattet av kommunen etter loven <a data-id=\"lov/2005-06-17-64/§10\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A710\">§§ 10</a>, <a data-id=\"lov/2005-06-17-64/§11\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A711\">11</a>, <a data-id=\"lov/2005-06-17-64/§16\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A716\">16</a>, <a data-id=\"lov/2005-06-17-64/§17\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A717\">17</a> og <a data-id=\"lov/2005-06-17-64/§18\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A718\">18</a> og der det følger av forskrifter gitt i medhold av denne lov.",
         "text": "Fylkesmannen skal veilede kommuner og eiere av virksomheter etter denne lov og er klageinstans i forhold til vedtak fattet av kommunen etter loven §§ 10, 11, 16, 17 og 18 og der det følger av forskrifter gitt i medhold av denne lov."
     },
     {
@@ -435,6 +444,7 @@
         "text": "Kapittel IV. Barnehagemyndighetens generelle oppgaver mv."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -450,7 +460,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kommunen avgjør søknad om godkjenning etter en vurdering av barnehagens egnethet i forhold til formål og innhold, jf. §§ 1 og 2.",
+        "html": "Kommunen avgjør søknad om godkjenning etter en vurdering av barnehagens egnethet i forhold til formål og innhold, jf. <a data-id=\"lov/2005-06-17-64/§1\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A71\">§§ 1</a> og <a data-id=\"lov/2005-06-17-64/§2\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A72\">2</a>.",
         "text": "Kommunen avgjør søknad om godkjenning etter en vurdering av barnehagens egnethet i forhold til formål og innhold, jf. §§ 1 og 2."
     },
     {
@@ -465,6 +475,7 @@
         "html": "Kommunens vedtak kan påklages til fylkesmannen.",
         "text": "Kommunens vedtak kan påklages til fylkesmannen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -491,6 +502,7 @@
         "text": "Departementet kan gi forskrifter om godkjenning og drift av familiebarnehager."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -516,6 +528,7 @@
         "text": "Forvaltningsloven kapittel IV-VI gjelder ikke for opptak i barnehage. Kongen gir forskrift om behandling av søknader om opptak i barnehage."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -537,7 +550,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Barn som det er fattet vedtak om etter lov om barneverntjenester §§ 4-12 og 4-4 annet og fjerde ledd, har rett til prioritet ved opptak i barnehage.",
+        "html": "Barn som det er fattet vedtak om etter <a data-id=\"lov/1992-07-17-100/§4-12\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-12\">lov om barneverntjenester §§ 4-12</a> og <a data-id=\"lov/1992-07-17-100/§4-4\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-4\">4-4</a> annet og fjerde ledd, har rett til prioritet ved opptak i barnehage.",
         "text": "Barn som det er fattet vedtak om etter lov om barneverntjenester §§ 4-12 og 4-4 annet og fjerde ledd, har rett til prioritet ved opptak i barnehage."
     },
     {
@@ -546,6 +559,7 @@
         "html": "Kommunen har ansvaret for at barn med rett til prioritet får plass i barnehage.",
         "text": "Kommunen har ansvaret for at barn med rett til prioritet får plass i barnehage."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -566,6 +580,7 @@
         "text": "Godkjente barnehager skal behandles likeverdig i forhold til offentlige tilskudd. Kongen kan gi forskrifter med nærmere bestemmelser om hva som menes med likeverdig behandling."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -584,6 +599,7 @@
         "html": "Kongen kan gi forskrifter med nærmere bestemmelser om foreldrebetaling i barnehagen, herunder søskenmoderasjon, inntektsgradering og maksimalgrense.",
         "text": "Kongen kan gi forskrifter med nærmere bestemmelser om foreldrebetaling i barnehagen, herunder søskenmoderasjon, inntektsgradering og maksimalgrense."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -609,6 +625,7 @@
         "html": "Kapittel V. Personalet",
         "text": "Kapittel V. Personalet"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -646,6 +663,7 @@
         "html": "Departementet gir nærmere forskrifter om dispensasjon fra utdanningskravet og om godkjenning av utenlandske utdanninger.",
         "text": "Departementet gir nærmere forskrifter om dispensasjon fra utdanningskravet og om godkjenning av utenlandske utdanninger."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -696,6 +714,7 @@
         "text": "Departementet gir utfyllende forskrifter om pedagogisk bemanning."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -739,6 +758,7 @@
         "text": "Kapittel VI. Forskjellige bestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -754,9 +774,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For virksomheter etter denne lov gjelder reglene om taushetsplikt i forvaltningsloven §§ 13 til 13f tilsvarende.",
+        "html": "For virksomheter etter denne lov gjelder reglene om taushetsplikt i <a data-id=\"lov/1967-02-10/§13\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713\">forvaltningsloven §§ 13</a> til <a data-id=\"lov/1967-02-10/§13f\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713f\">13f</a> tilsvarende.",
         "text": "For virksomheter etter denne lov gjelder reglene om taushetsplikt i forvaltningsloven §§ 13 til 13f tilsvarende."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -776,6 +797,7 @@
         "html": "Barnehagepersonalet skal gi sosialtjenesten bistand i klientsaker. De skal i sitt arbeid være oppmerksom på forhold som bør føre til tiltak fra sosialtjenestens side, og de skal av eget tiltak gi sosialtjenesten opplysninger om slike forhold. Av eget tiltak kan opplysninger bare gis etter samtykke fra klienten, eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt. Opplysninger skal normalt gis av styrer.",
         "text": "Barnehagepersonalet skal gi sosialtjenesten bistand i klientsaker. De skal i sitt arbeid være oppmerksom på forhold som bør føre til tiltak fra sosialtjenestens side, og de skal av eget tiltak gi sosialtjenesten opplysninger om slike forhold. Av eget tiltak kan opplysninger bare gis etter samtykke fra klienten, eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt. Opplysninger skal normalt gis av styrer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -798,9 +820,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Uten hinder av taushetsplikt skal barnehagepersonalet av eget tiltak gi opplysninger til barneverntjenesten, når det er grunn til å tro at et barn blir mishandlet i hjemmet eller det foreligger andre former for alvorlig omsorgssvikt, jf. lov om barneverntjenester § 4-10, § 4-11, § 4-12, eller når et barn har vist vedvarende alvorlige adferdsvansker, jf. samme lov § 4-24. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om barneverntjenester, plikter barnehagepersonalet å gi slike opplysninger. Opplysninger skal normalt gis av styrer.",
+        "html": "Uten hinder av taushetsplikt skal barnehagepersonalet av eget tiltak gi opplysninger til barneverntjenesten, når det er grunn til å tro at et barn blir mishandlet i hjemmet eller det foreligger andre former for alvorlig omsorgssvikt, jf. <a data-id=\"lov/1992-07-17-100/§4-10\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-10\">lov om barneverntjenester § 4-10</a>, <a data-id=\"lov/1992-07-17-100/§4-11\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-11\">§ 4-11</a>, <a data-id=\"lov/1992-07-17-100/§4-12\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-12\">§ 4-12</a>, eller når et barn har vist vedvarende alvorlige adferdsvansker, jf. samme lov § 4-24. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av <a data-id=\"lov/1992-07-17-100/§4-24\" class=\" reference\" href=\"/lov/1992-07-17-100/%C2%A74-24\">lov om barneverntjenester, </a>plikter barnehagepersonalet å gi slike opplysninger. Opplysninger skal normalt gis av styrer.",
         "text": "Uten hinder av taushetsplikt skal barnehagepersonalet av eget tiltak gi opplysninger til barneverntjenesten, når det er grunn til å tro at et barn blir mishandlet i hjemmet eller det foreligger andre former for alvorlig omsorgssvikt, jf. lov om barneverntjenester § 4-10, § 4-11, § 4-12, eller når et barn har vist vedvarende alvorlige adferdsvansker, jf. samme lov § 4-24. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om barneverntjenester, plikter barnehagepersonalet å gi slike opplysninger. Opplysninger skal normalt gis av styrer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -827,6 +850,7 @@
         "text": "Barnehagens personale har plikt til å gjennomgå tuberkulosekontroll i henhold til gjeldende regelverk."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -851,6 +875,7 @@
         "html": "Barnehagens styrer og pedagogiske ledere plikter å veilede studenter i slik øvingsopplæring.",
         "text": "Barnehagens styrer og pedagogiske ledere plikter å veilede studenter i slik øvingsopplæring."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -877,6 +902,7 @@
         "text": "Kapittel VII. Ikrafttredelse og endringer i andre lover"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -898,13 +924,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når loven trer i kraft, oppheves lov 5. mai 1995 nr. 19 om barnehager. Vedtak som er truffet etter denne loven, gjelder inntil de faller bort eller blir endret etter loven her.",
+        "html": "Når loven trer i kraft, oppheves <a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">lov 5. mai 1995 nr. 19</a> om barnehager. Vedtak som er truffet etter denne loven, gjelder inntil de faller bort eller blir endret etter loven her.",
         "text": "Når loven trer i kraft, oppheves lov 5. mai 1995 nr. 19 om barnehager. Vedtak som er truffet etter denne loven, gjelder inntil de faller bort eller blir endret etter loven her."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 19. juni 1997 nr. 64 om endringer i lov 5. mai 1995 nr. 19 om barnehager oppheves straks.",
+        "html": "<a data-id=\"lov/1997-06-19-64\" class=\" reference\" href=\"/lov/1997-06-19-64\">Lov 19. juni 1997 nr. 64</a> om endringer i <a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">lov 5. mai 1995 nr. 19</a> om barnehager oppheves straks.",
         "text": "Lov 19. juni 1997 nr. 64 om endringer i lov 5. mai 1995 nr. 19 om barnehager oppheves straks."
     },
     {

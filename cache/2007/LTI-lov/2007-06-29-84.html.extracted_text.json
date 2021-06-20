@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.31 (2006–2007), Innst.O.nr.82 (2006–2007) og Besl.O.nr.104 (2006–2007). Odels- og lagtingsvedtak hhv. 11. og 15. juni 2007. Fremmet av Justis- og politidepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-31-200607\" class=\" reference\" href=\"/forarbeid/otprp-31-200607\">Ot.prp.nr.31 (2006–2007)</a>, <a data-id=\"forarbeid/inns-o-82-200607\" class=\" reference\" href=\"/forarbeid/inns-o-82-200607\">Innst.O.nr.82 (2006–2007)</a> og <a data-id=\"forarbeid/besl-o-104-200607\" class=\" reference\" href=\"/forarbeid/besl-o-104-200607\">Besl.O.nr.104 (2006–2007)</a>. Odels- og lagtingsvedtak hhv. 11. og 15. juni 2007. Fremmet av Justis- og politidepartementet.",
         "text": "Ot.prp.nr.31 (2006–2007), Innst.O.nr.82 (2006–2007) og Besl.O.nr.104 (2006–2007). Odels- og lagtingsvedtak hhv. 11. og 15. juni 2007. Fremmet av Justis- og politidepartementet."
     },
     {
@@ -13,21 +13,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Almindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10.</td>\n</tr>",
-        "text": "1Almindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Almindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10.</td>\n</tr>",
+        "text": "1\tAlmindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vegtrafikklov 18. juni 1965 nr. 4.</td>\n</tr>",
-        "text": "2Vegtrafikklov 18. juni 1965 nr. 4."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vegtrafikklov <a data-id=\"lov/1965-06-18-4\" class=\" reference\" href=\"/lov/1965-06-18-4\">18. juni 1965 nr. 4</a>.</td>\n</tr>",
+        "text": "2\tVegtrafikklov 18. juni 1965 nr. 4."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 20. mai 2005 nr. 28 om straff (straffeloven).</td>\n</tr>",
-        "text": "3Lov 20. mai 2005 nr. 28 om straff (straffeloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-05-20-28\" class=\" reference\" href=\"/lov/2005-05-20-28\">Lov 20. mai 2005 nr. 28</a> om straff (straffeloven).</td>\n</tr>",
+        "text": "3\tLov 20. mai 2005 nr. 28 om straff (straffeloven)."
     },
     {
         "tag": "h2",
@@ -38,7 +38,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I straffeloven 22. mai 1902 nr. 10 gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1902-05-22-10\" class=\" reference\" href=\"/lov/1902-05-22-10\">straffeloven 22. mai 1902 nr. 10</a> gjøres følgende endringer:",
         "text": "I straffeloven 22. mai 1902 nr. 10 gjøres følgende endringer:"
     },
     {
@@ -62,7 +62,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "at den domfelte, dersom han samtykker, gjennomfører narkotikaprogram med domstolskontroll, jf. nr. 6, eller program mot ruspåvirket kjøring for personer som er dømt for overtredelse av vegtrafikkloven § 31, jf. § 22 første ledd, og som har problem med alkohol eller annet berusende eller bedøvende middel. Straffeprosessloven § 461 gjelder tilsvarende.",
+        "html": "at den domfelte, dersom han samtykker, gjennomfører narkotikaprogram med domstolskontroll, jf. nr. 6, eller program mot ruspåvirket kjøring for personer som er dømt for overtredelse av <a data-id=\"lov/1965-06-18-4/§31\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A731\">vegtrafikkloven § 31</a>, jf. <a data-id=\"lov/1965-06-18-4/§22\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A722\">§ 22</a> første ledd, og som har problem med alkohol eller annet berusende eller bedøvende middel. <a data-id=\"lov/1981-05-22-25/§461\" class=\" reference\" href=\"/lov/1981-05-22-25/%C2%A7461\">Straffeprosessloven § 461</a> gjelder tilsvarende.",
         "text": "at den domfelte, dersom han samtykker, gjennomfører narkotikaprogram med domstolskontroll, jf. nr. 6, eller program mot ruspåvirket kjøring for personer som er dømt for overtredelse av vegtrafikkloven § 31, jf. § 22 første ledd, og som har problem med alkohol eller annet berusende eller bedøvende middel. Straffeprosessloven § 461 gjelder tilsvarende."
     },
     {
@@ -86,7 +86,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I vegtrafikkloven 18. juni 1965 nr. 4 gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1965-06-18-4\" class=\" reference\" href=\"/lov/1965-06-18-4\">vegtrafikkloven 18. juni 1965 nr. 4</a> gjøres følgende endringer:",
         "text": "I vegtrafikkloven 18. juni 1965 nr. 4 gjøres følgende endringer:"
     },
     {
@@ -110,7 +110,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som ellers ville ha blitt idømt bot og ubetinget fengsel for overtredelse av § 22 første ledd, kan i stedet idømmes bot og betinget fengsel med vilkår om program mot ruspåvirket kjøring som nevnt i straffeloven § 53 nr. 3 bokstav e.",
+        "html": "Den som ellers ville ha blitt idømt bot og ubetinget fengsel for overtredelse av § 22 første ledd, kan i stedet idømmes bot og betinget fengsel med vilkår om program mot ruspåvirket kjøring som nevnt i <a data-id=\"lov/2005-05-20-28/§53\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A753\">straffeloven § 53</a> nr. 3 bokstav e.",
         "text": "Den som ellers ville ha blitt idømt bot og ubetinget fengsel for overtredelse av § 22 første ledd, kan i stedet idømmes bot og betinget fengsel med vilkår om program mot ruspåvirket kjøring som nevnt i straffeloven § 53 nr. 3 bokstav e."
     },
     {
@@ -128,7 +128,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I straffegjennomføringsloven 18. mai 2001 nr. 21 gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/2001-05-18-21\" class=\" reference\" href=\"/lov/2001-05-18-21\">straffegjennomføringsloven 18. mai 2001 nr. 21</a> gjøres følgende endringer:",
         "text": "I straffegjennomføringsloven 18. mai 2001 nr. 21 gjøres følgende endringer:"
     },
     {
@@ -218,7 +218,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som forsettlig eller grovt uaktsomt unnlater å etterkomme pålegg som nevnt i straffeprosessloven § 461 første ledd, eller medvirker til dette, straffes med bøter eller fengsel inntil 3 måneder. Fengselsstraff under 14 dager kan idømmes.",
+        "html": "Den som forsettlig eller grovt uaktsomt unnlater å etterkomme pålegg som nevnt i <a data-id=\"lov/1981-05-22-25/§461\" class=\" reference\" href=\"/lov/1981-05-22-25/%C2%A7461\">straffeprosessloven § 461</a> første ledd, eller medvirker til dette, straffes med bøter eller fengsel inntil 3 måneder. Fengselsstraff under 14 dager kan idømmes.",
         "text": "Den som forsettlig eller grovt uaktsomt unnlater å etterkomme pålegg som nevnt i straffeprosessloven § 461 første ledd, eller medvirker til dette, straffes med bøter eller fengsel inntil 3 måneder. Fengselsstraff under 14 dager kan idømmes."
     },
     {
@@ -236,7 +236,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I straffeloven 20. mai 2005 nr. 28 gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/2005-05-20-28\" class=\" reference\" href=\"/lov/2005-05-20-28\">straffeloven 20. mai 2005 nr. 28</a> gjøres følgende endringer:",
         "text": "I straffeloven 20. mai 2005 nr. 28 gjøres følgende endringer:"
     },
     {

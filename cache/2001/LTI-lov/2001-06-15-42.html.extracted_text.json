@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.53 (2000–2001), Innst.O.nr.104 (2000–2001) og Besl.O.nr.98 (2000–2001). Odels- og lagtingsvedtak hhv. 28. mai og 7. juni 2001. Fremmet av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-53-200001\" class=\" reference\" href=\"/forarbeid/otprp-53-200001\">Ot.prp.nr.53 (2000–2001)</a>, <a data-id=\"forarbeid/inns-o-104-200001\" class=\" reference\" href=\"/forarbeid/inns-o-104-200001\">Innst.O.nr.104 (2000–2001)</a> og <a data-id=\"forarbeid/besl-o-98-200001\" class=\" reference\" href=\"/forarbeid/besl-o-98-200001\">Besl.O.nr.98 (2000–2001)</a>. Odels- og lagtingsvedtak hhv. 28. mai og 7. juni 2001. Fremmet av Finansdepartementet.",
         "text": "Ot.prp.nr.53 (2000–2001), Innst.O.nr.104 (2000–2001) og Besl.O.nr.98 (2000–2001). Odels- og lagtingsvedtak hhv. 28. mai og 7. juni 2001. Fremmet av Finansdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 17. november 2000 nr. 80 om børsvirksomhet m.m. (børsloven).",
+        "html": "<a data-id=\"lov/2000-11-17-80\" class=\" reference\" href=\"/lov/2000-11-17-80\">Lov av 17. november 2000 nr. 80</a> om børsvirksomhet m.m. (børsloven).",
         "text": "Lov av 17. november 2000 nr. 80 om børsvirksomhet m.m. (børsloven)."
     },
     {
@@ -26,37 +26,37 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 19. juni 1997 nr. 79 om verdipapirhandel gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1997-06-19-79\" class=\" reference\" href=\"/lov/1997-06-19-79\">lov 19. juni 1997 nr. 79</a> om verdipapirhandel gjøres følgende endringer:",
         "text": "I lov 19. juni 1997 nr. 79 om verdipapirhandel gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1-2 andre ledd nr. 6 til 8 skal lyde:",
+        "html": "<a data-id=\"lov/1997-06-19-79/§1-2\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A71-2\">§ 1-2</a> andre ledd nr. 6 til 8 skal lyde:",
         "text": "§ 1-2 andre ledd nr. 6 til 8 skal lyde:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rente- og valutabytteavtale samt bytteavtale knyttet til aksjer og aksjeindeks,</td>\n</tr>",
-        "text": "6.rente- og valutabytteavtale samt bytteavtale knyttet til aksjer og aksjeindeks,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rente- og valutabytteavtale samt bytteavtale knyttet til aksjer og aksjeindeks,</td>\n</tr>",
+        "text": "6.\trente- og valutabytteavtale samt bytteavtale knyttet til aksjer og aksjeindeks,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opsjoner på kjøp eller salg av ethvert instrument som nevnt i punkt 1 til 6, herunder indeksopsjoner, valuta- og renteopsjoner samt tilsvarende instrumenter med kontant oppgjør, eller</td>\n</tr>",
-        "text": "7.opsjoner på kjøp eller salg av ethvert instrument som nevnt i punkt 1 til 6, herunder indeksopsjoner, valuta- og renteopsjoner samt tilsvarende instrumenter med kontant oppgjør, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opsjoner på kjøp eller salg av ethvert instrument som nevnt i <a data-id=\"lov/1997-06-19-79/kap1\" class=\" reference\" href=\"/lov/1997-06-19-79/kap1\">punkt</a> 1 til 6, herunder indeksopsjoner, valuta- og renteopsjoner samt tilsvarende instrumenter med kontant oppgjør, eller</td>\n</tr>",
+        "text": "7.\topsjoner på kjøp eller salg av ethvert instrument som nevnt i punkt 1 til 6, herunder indeksopsjoner, valuta- og renteopsjoner samt tilsvarende instrumenter med kontant oppgjør, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">varderivater.</td>\n</tr>",
-        "text": "8.varderivater."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">varderivater.</td>\n</tr>",
+        "text": "8.\tvarderivater."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1-2 nytt fjerde ledd skal lyde:",
+        "html": "<a data-id=\"lov/1997-06-19-79/§1-2\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A71-2\">§ 1-2</a> nytt fjerde ledd skal lyde:",
         "text": "§ 1-2 nytt fjerde ledd skal lyde:"
     },
     {
@@ -68,73 +68,73 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1-5 skal lyde:",
+        "html": "<a data-id=\"lov/1997-06-19-79/§1-5\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A71-5\">§ 1-5</a> skal lyde:",
         "text": "§ 1-5 skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Med oppgjørsvirksomhet menes yrkesmessig virksomhet som består i å tre inn som part eller på annen måte garantere for oppfyllelse av avtaler som gjelder handel med finansielle instrumenter som nevnt i § 1-2 annet ledd nr. 4 til 8 og forpliktelser vedrørende lån av finansielle instrumenter.",
+        "html": "Med oppgjørsvirksomhet menes yrkesmessig virksomhet som består i å tre inn som part eller på annen måte garantere for oppfyllelse av avtaler som gjelder handel med finansielle instrumenter som nevnt i <a data-id=\"lov/1997-06-19-79/§1-2\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A71-2\">§ 1-2</a> annet ledd nr. 4 til 8 og forpliktelser vedrørende lån av finansielle instrumenter.",
         "text": "Med oppgjørsvirksomhet menes yrkesmessig virksomhet som består i å tre inn som part eller på annen måte garantere for oppfyllelse av avtaler som gjelder handel med finansielle instrumenter som nevnt i § 1-2 annet ledd nr. 4 til 8 og forpliktelser vedrørende lån av finansielle instrumenter."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ny § 1-7 skal lyde:",
+        "html": "Ny <a data-id=\"lov/1997-06-19-79/§1-7\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A71-7\">§ 1-7</a> skal lyde:",
         "text": "Ny § 1-7 skal lyde:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "<strong class=\" \">§ 1-7.</strong> <em class=\" \">Lovens anvendelse ved handel med og virksomhet knyttet til varederivater</em>",
+        "html": "<strong class=\" \"><a data-id=\"lov/1997-06-19-79/§1-7\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A71-7\">§ 1-7</a>.</strong> <em class=\" \">Lovens anvendelse ved handel med og virksomhet knyttet til varederivater</em>",
         "text": "§ 1-7. Lovens anvendelse ved handel med og virksomhet knyttet til varederivater"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved handel med eller ved virksomhet som i hovedsak er knyttet til finansielle instrumenter som nevnt i § 1-2 annet ledd nr. 8, gjelder bare følgende bestemmelser i loven: kapittel 1, §§ 2-5 og 2-6, kapittel 6, § 9-2, § 9-3 annet ledd første punktum, § 9-4 første og tredje ledd og kapitlene 10, 12 og 14.",
+        "html": "Ved handel med eller ved virksomhet som i hovedsak er knyttet til finansielle instrumenter som nevnt i § 1-2 annet ledd nr. 8, gjelder bare følgende bestemmelser i loven: <a data-id=\"lov/1997-06-19-79/kap1\" class=\" reference\" href=\"/lov/1997-06-19-79/kap1\">kapittel 1</a>, <a data-id=\"lov/1997-06-19-79/§2-5\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A72-5\">§§ 2-5</a> og <a data-id=\"lov/1997-06-19-79/§2-6\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A72-6\">2-6</a>, <a data-id=\"lov/1997-06-19-79/kap6\" class=\" reference\" href=\"/lov/1997-06-19-79/kap6\">kapittel 6</a>, <a data-id=\"lov/1997-06-19-79/§9-2\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A79-2\">§ 9-2</a>, <a data-id=\"lov/1997-06-19-79/§9-3\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A79-3\">§ 9-3</a> annet ledd første punktum, <a data-id=\"lov/1997-06-19-79/§9-4\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A79-4\">§ 9-4</a> første og tredje ledd og kapitlene 10, 12 og 14.",
         "text": "Ved handel med eller ved virksomhet som i hovedsak er knyttet til finansielle instrumenter som nevnt i § 1-2 annet ledd nr. 8, gjelder bare følgende bestemmelser i loven: kapittel 1, §§ 2-5 og 2-6, kapittel 6, § 9-2, § 9-3 annet ledd første punktum, § 9-4 første og tredje ledd og kapitlene 10, 12 og 14."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan ved forskrift bestemme at § 2-1 og § 2-2 skal få anvendelse ved handel i finansielle instrumenter som nevnt i § 1-2 annet ledd nr. 8.",
+        "html": "Departementet kan ved forskrift bestemme at <a data-id=\"lov/1997-06-19-79/§2-1\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A72-1\">§ 2-1</a> og <a data-id=\"lov/1997-06-19-79/§2-2\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A72-2\">§ 2-2</a> skal få anvendelse ved handel i finansielle instrumenter som nevnt i <a data-id=\"lov/1997-06-19-79/§1-2\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A71-2\">§ 1-2</a> annet ledd nr. 8.",
         "text": "Departementet kan ved forskrift bestemme at § 2-1 og § 2-2 skal få anvendelse ved handel i finansielle instrumenter som nevnt i § 1-2 annet ledd nr. 8."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 9-4 tredje ledd nytt tredje punktum skal lyde:",
+        "html": "<a data-id=\"lov/1997-06-19-79/§9-4\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A79-4\">§ 9-4</a> tredje ledd nytt tredje punktum skal lyde:",
         "text": "§ 9-4 tredje ledd nytt tredje punktum skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "All handel i børsnoterte finansielle instrumenter nevnt i § 1-2 annet ledd nr. 8 skal foretas under medvirkning av en oppgjørssentral som nevnt i § 6-1.",
+        "html": "All handel i børsnoterte finansielle instrumenter nevnt i <a data-id=\"lov/1997-06-19-79/§1-2\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A71-2\">§ 1-2</a> annet ledd nr. 8 skal foretas under medvirkning av en oppgjørssentral som nevnt i <a data-id=\"lov/1997-06-19-79/§6-1\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A76-1\">§ 6-1</a>.",
         "text": "All handel i børsnoterte finansielle instrumenter nevnt i § 1-2 annet ledd nr. 8 skal foretas under medvirkning av en oppgjørssentral som nevnt i § 6-1."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 9-5 første ledd første punktum skal lyde:",
+        "html": "<a data-id=\"lov/1997-06-19-79/§9-5\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A79-5\">§ 9-5</a> første ledd første punktum skal lyde:",
         "text": "§ 9-5 første ledd første punktum skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved formidling av handel i finansielle instrumenter som nevnt i § 1-2 annet ledd nr. 4 til 8, skal verdipapirforetaket påse at foretaket har betryggende sikkerhet for oppfyllelse av sine forpliktelser.",
+        "html": "Ved formidling av handel i finansielle instrumenter som nevnt i <a data-id=\"lov/1997-06-19-79/§1-2\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A71-2\">§ 1-2</a> annet ledd nr. 4 til 8, skal verdipapirforetaket påse at foretaket har betryggende sikkerhet for oppfyllelse av sine forpliktelser.",
         "text": "Ved formidling av handel i finansielle instrumenter som nevnt i § 1-2 annet ledd nr. 4 til 8, skal verdipapirforetaket påse at foretaket har betryggende sikkerhet for oppfyllelse av sine forpliktelser."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 9-5 fjerde ledd oppheves.",
+        "html": "<a data-id=\"lov/1997-06-19-79/§9-5\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A79-5\">§ 9-5</a> fjerde ledd oppheves.",
         "text": "§ 9-5 fjerde ledd oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 10-1 skal lyde:",
+        "html": "<a data-id=\"lov/1997-06-19-79/§10-1\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A710-1\">§ 10-1</a> skal lyde:",
         "text": "§ 10-1 skal lyde:"
     },
     {
@@ -152,25 +152,25 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 17. november 2000 nr. 80 om børsvirksomhet m.m. gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/2000-11-17-80\" class=\" reference\" href=\"/lov/2000-11-17-80\">lov 17. november 2000 nr. 80</a> om børsvirksomhet m.m. gjøres følgende endringer:",
         "text": "I lov 17. november 2000 nr. 80 om børsvirksomhet m.m. gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1-4 oppheves.",
+        "html": "<a data-id=\"lov/2000-11-17-80/§1-4\" class=\" reference\" href=\"/lov/2000-11-17-80/%C2%A71-4\">§ 1-4</a> oppheves.",
         "text": "§ 1-4 oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 5-6 første ledd nytt femte punktum skal lyde:",
+        "html": "<a data-id=\"lov/2000-11-17-80/§5-6\" class=\" reference\" href=\"/lov/2000-11-17-80/%C2%A75-6\">§ 5-6</a> første ledd nytt femte punktum skal lyde:",
         "text": "§ 5-6 første ledd nytt femte punktum skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Opptak til børsnotering av finansielle instrumenter som nevnt i verdipapirhandelloven § 1-2 annet ledd nr. 8, kan bare skje dersom det foreligger en betydelig handel med betryggende kursfastsettelse i den eller de underliggende varer eller tjenester.",
+        "html": "Opptak til børsnotering av finansielle instrumenter som nevnt i <a data-id=\"lov/2007-06-29-75/§1-2\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A71-2\">verdipapirhandelloven § 1-2</a> annet ledd nr. 8, kan bare skje dersom det foreligger en betydelig handel med betryggende kursfastsettelse i den eller de underliggende varer eller tjenester.",
         "text": "Opptak til børsnotering av finansielle instrumenter som nevnt i verdipapirhandelloven § 1-2 annet ledd nr. 8, kan bare skje dersom det foreligger en betydelig handel med betryggende kursfastsettelse i den eller de underliggende varer eller tjenester."
     },
     {
@@ -188,7 +188,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Endringen i lov 19. juni 1997 nr. 79 om verdipapirhandel § 10-1 trer i kraft senest 1. juli 2001.",
+        "html": "Endringen i <a data-id=\"lov/1997-06-19-79\" class=\" reference\" href=\"/lov/1997-06-19-79\">lov 19. juni 1997 nr. 79</a> om verdipapirhandel <a data-id=\"lov/1997-06-19-79/§10-1\" class=\" reference\" href=\"/lov/1997-06-19-79/%C2%A710-1\">§ 10-1</a> trer i kraft senest 1. juli 2001.",
         "text": "Endringen i lov 19. juni 1997 nr. 79 om verdipapirhandel § 10-1 trer i kraft senest 1. juli 2001."
     },
     {

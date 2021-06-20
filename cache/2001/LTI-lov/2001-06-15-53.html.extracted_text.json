@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.31 (1998–1999), Ot.prp.nr.55 (1999–2000), Innst.O.nr.68 (2000–2001) og Besl.O.nr.78 (2000–2001). Odels- og lagtingsvedtak hhv. 5. og 26. april 2001. Fremmet av Justis- og politidepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-31-199899\" class=\" reference\" href=\"/forarbeid/otprp-31-199899\">Ot.prp.nr.31 (1998–1999)</a>, <a data-id=\"forarbeid/otprp-55-199900\" class=\" reference\" href=\"/forarbeid/otprp-55-199900\">Ot.prp.nr.55 (1999–2000)</a>, <a data-id=\"forarbeid/inns-o-68-200001\" class=\" reference\" href=\"/forarbeid/inns-o-68-200001\">Innst.O.nr.68 (2000–2001)</a> og <a data-id=\"forarbeid/besl-o-78-200001\" class=\" reference\" href=\"/forarbeid/besl-o-78-200001\">Besl.O.nr.78 (2000–2001)</a>. Odels- og lagtingsvedtak hhv. 5. og 26. april 2001. Fremmet av Justis- og politidepartementet.",
         "text": "Ot.prp.nr.31 (1998–1999), Ot.prp.nr.55 (1999–2000), Innst.O.nr.68 (2000–2001) og Besl.O.nr.78 (2000–2001). Odels- og lagtingsvedtak hhv. 5. og 26. april 2001. Fremmet av Justis- og politidepartementet."
     },
     {
@@ -13,21 +13,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov av 13. juni 1969 nr. 26 om skadeserstatning.</td>\n</tr>",
-        "text": "1.Lov av 13. juni 1969 nr. 26 om skadeserstatning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1969-06-13-26\" class=\" reference\" href=\"/lov/1969-06-13-26\">Lov av 13. juni 1969 nr. 26</a> om skadeserstatning.</td>\n</tr>",
+        "text": "1.\tLov av 13. juni 1969 nr. 26 om skadeserstatning."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov av 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven).</td>\n</tr>",
-        "text": "2.Lov av 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1980-06-13-24\" class=\" reference\" href=\"/lov/1980-06-13-24\">Lov av 13. juni 1980 nr. 24</a> om ligningsforvaltning (ligningsloven).</td>\n</tr>",
+        "text": "2.\tLov av 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov av 5. august 1994 nr. 55 om vern mot smittsomme sykdommer.</td>\n</tr>",
-        "text": "3.Lov av 5. august 1994 nr. 55 om vern mot smittsomme sykdommer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1994-08-05-55\" class=\" reference\" href=\"/lov/1994-08-05-55\">Lov av 5. august 1994 nr. 55</a> om vern mot smittsomme sykdommer.</td>\n</tr>",
+        "text": "3.\tLov av 5. august 1994 nr. 55 om vern mot smittsomme sykdommer."
     },
     {
         "tag": "h2",
@@ -35,6 +35,7 @@
         "html": "Kapittel 1 Pasientskadeansvar",
         "text": "Kapittel 1 Pasientskadeansvar"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -56,21 +57,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i institusjon under spesialisthelsetjenesten og kommunehelsetjenesten,</td>\n</tr>",
-        "text": "a)i institusjon under spesialisthelsetjenesten og kommunehelsetjenesten,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i institusjon under spesialisthelsetjenesten og kommunehelsetjenesten,</td>\n</tr>",
+        "text": "a)\ti institusjon under spesialisthelsetjenesten og kommunehelsetjenesten,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">under ambulansetransport, eller</td>\n</tr>",
-        "text": "b)under ambulansetransport, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">under ambulansetransport, eller</td>\n</tr>",
+        "text": "b)\tunder ambulansetransport, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">av helsepersonell som yter helsehjelp i henhold til offentlig autorisasjon eller lisens, personer som opptrer på vegne av disse eller andre personer som fastsatt i forskrift.</td>\n</tr>",
-        "text": "c)av helsepersonell som yter helsehjelp i henhold til offentlig autorisasjon eller lisens, personer som opptrer på vegne av disse eller andre personer som fastsatt i forskrift."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">av helsepersonell som yter helsehjelp i henhold til offentlig autorisasjon eller lisens, personer som opptrer på vegne av disse eller andre personer som fastsatt i forskrift.</td>\n</tr>",
+        "text": "c)\tav helsepersonell som yter helsehjelp i henhold til offentlig autorisasjon eller lisens, personer som opptrer på vegne av disse eller andre personer som fastsatt i forskrift."
     },
     {
         "tag": "p",
@@ -78,6 +79,7 @@
         "html": "Slike skader regnes som pasientskader dersom de er voldt under veiledning, undersøkelse, diagnostisering, behandling, ekspedisjon av legemidler fra apotek, pleie, vaksinasjon, prøvetaking, analyse av prøver, røntgen, forebygging av helseskader, medisinsk forsøksvirksomhet samt donasjon av organer, blod og vev.",
         "text": "Slike skader regnes som pasientskader dersom de er voldt under veiledning, undersøkelse, diagnostisering, behandling, ekspedisjon av legemidler fra apotek, pleie, vaksinasjon, prøvetaking, analyse av prøver, røntgen, forebygging av helseskader, medisinsk forsøksvirksomhet samt donasjon av organer, blod og vev."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -99,33 +101,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">svikt ved ytelsen av helsehjelp, selv om ingen kan lastes,</td>\n</tr>",
-        "text": "a)svikt ved ytelsen av helsehjelp, selv om ingen kan lastes,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">svikt ved ytelsen av helsehjelp, selv om ingen kan lastes,</td>\n</tr>",
+        "text": "a)\tsvikt ved ytelsen av helsehjelp, selv om ingen kan lastes,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">teknisk svikt ved apparat, redskap eller annet utstyr som er brukt ved ytelsen av helsehjelp,</td>\n</tr>",
-        "text": "b)teknisk svikt ved apparat, redskap eller annet utstyr som er brukt ved ytelsen av helsehjelp,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">teknisk svikt ved apparat, redskap eller annet utstyr som er brukt ved ytelsen av helsehjelp,</td>\n</tr>",
+        "text": "b)\tteknisk svikt ved apparat, redskap eller annet utstyr som er brukt ved ytelsen av helsehjelp,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">smitte eller infeksjon, når dette ikke i hovedsak skyldes pasientens tilstand eller sykdom,</td>\n</tr>",
-        "text": "c)smitte eller infeksjon, når dette ikke i hovedsak skyldes pasientens tilstand eller sykdom,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">smitte eller infeksjon, når dette ikke i hovedsak skyldes pasientens tilstand eller sykdom,</td>\n</tr>",
+        "text": "c)\tsmitte eller infeksjon, når dette ikke i hovedsak skyldes pasientens tilstand eller sykdom,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vaksinasjon, eller</td>\n</tr>",
-        "text": "d)vaksinasjon, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vaksinasjon, eller</td>\n</tr>",
+        "text": "d)\tvaksinasjon, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forhold som medfører ansvar for helsetjenesten eller helsepersonell etter alminnelige erstatningsregler.</td>\n</tr>",
-        "text": "e)forhold som medfører ansvar for helsetjenesten eller helsepersonell etter alminnelige erstatningsregler."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forhold som medfører ansvar for helsetjenesten eller helsepersonell etter alminnelige erstatningsregler.</td>\n</tr>",
+        "text": "e)\tforhold som medfører ansvar for helsetjenesten eller helsepersonell etter alminnelige erstatningsregler."
     },
     {
         "tag": "p",
@@ -145,6 +147,7 @@
         "html": "Kongen kan bestemme at erstatningskrav i henhold til konvensjoner som Norge er forpliktet av, skal behandles som krav etter denne loven.",
         "text": "Kongen kan bestemme at erstatningskrav i henhold til konvensjoner som Norge er forpliktet av, skal behandles som krav etter denne loven."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -167,9 +170,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved erstatning som følge av skade etter anbefalte eller påbudte vaksinasjoner etter lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer, gjelder retten til erstatning etter § 2 første ledd bokstav d med mindre den ansvarlige godtgjør at en eller flere andre årsaker er mer sannsynlige.",
+        "html": "Ved erstatning som følge av skade etter anbefalte eller påbudte vaksinasjoner etter <a data-id=\"lov/1994-08-05-55\" class=\" reference\" href=\"/lov/1994-08-05-55\">lov 5. august 1994 nr. 55</a> om vern mot smittsomme sykdommer, gjelder retten til erstatning etter § 2 første ledd bokstav d med mindre den ansvarlige godtgjør at en eller flere andre årsaker er mer sannsynlige.",
         "text": "Ved erstatning som følge av skade etter anbefalte eller påbudte vaksinasjoner etter lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer, gjelder retten til erstatning etter § 2 første ledd bokstav d med mindre den ansvarlige godtgjør at en eller flere andre årsaker er mer sannsynlige."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -186,21 +190,22 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For tapsutmåling, skadelidtes medvirkning mv. gjelder lov 13. juni 1969 nr. 26 om skadeserstatning og alminnelige erstatningsrettslige regler. Erstatning (oppreisning) for skade av ikke-økonomisk art etter skadeserstatningsloven § 3-5 og tap under 5 000 kroner erstattes likevel ikke etter loven her.",
+        "html": "For tapsutmåling, skadelidtes medvirkning mv. gjelder <a data-id=\"lov/1969-06-13-26\" class=\" reference\" href=\"/lov/1969-06-13-26\">lov 13. juni 1969 nr. 26</a> om skadeserstatning og alminnelige erstatningsrettslige regler. Erstatning (oppreisning) for skade av ikke-økonomisk art etter <a data-id=\"lov/1969-06-13-26/§3-5\" class=\" reference\" href=\"/lov/1969-06-13-26/%C2%A73-5\">skadeserstatningsloven § 3-5</a> og tap under 5 000 kroner erstattes likevel ikke etter loven her.",
         "text": "For tapsutmåling, skadelidtes medvirkning mv. gjelder lov 13. juni 1969 nr. 26 om skadeserstatning og alminnelige erstatningsrettslige regler. Erstatning (oppreisning) for skade av ikke-økonomisk art etter skadeserstatningsloven § 3-5 og tap under 5 000 kroner erstattes likevel ikke etter loven her."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Skader som faller inn under dekningsområdet til lov 16. juni 1989 nr. 65 om yrkesskadeforsikring § 10 kan ikke kreves erstattet etter loven her.",
+        "html": "Skader som faller inn under dekningsområdet til <a data-id=\"lov/1989-06-16-65\" class=\" reference\" href=\"/lov/1989-06-16-65\">lov 16. juni 1989 nr. 65</a> om yrkesskadeforsikring <a data-id=\"lov/1989-06-16-65/§10\" class=\" reference\" href=\"/lov/1989-06-16-65/%C2%A710\">§ 10</a> kan ikke kreves erstattet etter loven her.",
         "text": "Skader som faller inn under dekningsområdet til lov 16. juni 1989 nr. 65 om yrkesskadeforsikring § 10 kan ikke kreves erstattet etter loven her."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven er ikke til hinder for at erstatningskrav gjøres gjeldende overfor andre enn den ansvarlige etter loven her. Krav som kan fremmes etter loven her, kan likevel ikke fremmes mot staten, fylkeskommuner og kommuner. Regress kan bare kreves mot den som selv har voldt skaden forsettlig eller har unnlatt å tegne forsikring etter § 8.",
+        "html": "Loven er ikke til hinder for at erstatningskrav gjøres gjeldende overfor andre enn den ansvarlige etter loven her. Krav som kan fremmes etter loven her, kan likevel ikke fremmes mot staten, fylkeskommuner og kommuner. Regress kan bare kreves mot den som selv har voldt skaden forsettlig eller har unnlatt å tegne forsikring etter <a data-id=\"lov/2001-06-15-53/§8\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A78\">§ 8</a>.",
         "text": "Loven er ikke til hinder for at erstatningskrav gjøres gjeldende overfor andre enn den ansvarlige etter loven her. Krav som kan fremmes etter loven her, kan likevel ikke fremmes mot staten, fylkeskommuner og kommuner. Regress kan bare kreves mot den som selv har voldt skaden forsettlig eller har unnlatt å tegne forsikring etter § 8."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -217,7 +222,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Krav etter denne loven foreldes etter lov 18. mai 1979 nr. 18 om foreldelse av fordringer. Foreldelsen avbrytes ved at kravet meldes etter § 9. Slik melding avbryter ikke foreldelsesfristen av erstatningskrav mot andre enn de ansvarlige etter denne loven og deres forsikringsgivere.",
+        "html": "Krav etter denne <a data-id=\"lov/1979-05-18-18\" class=\" reference\" href=\"/lov/1979-05-18-18\">loven foreldes etter lov 18. mai 1979 nr. 18</a> om foreldelse av fordringer. Foreldelsen avbrytes ved at kravet meldes etter <a data-id=\"lov/2001-06-15-53/§9\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A79\">§ 9</a>. Slik melding avbryter ikke foreldelsesfristen av erstatningskrav mot andre enn de ansvarlige etter denne loven og deres forsikringsgivere.",
         "text": "Krav etter denne loven foreldes etter lov 18. mai 1979 nr. 18 om foreldelse av fordringer. Foreldelsen avbrytes ved at kravet meldes etter § 9. Slik melding avbryter ikke foreldelsesfristen av erstatningskrav mot andre enn de ansvarlige etter denne loven og deres forsikringsgivere."
     },
     {
@@ -226,6 +231,7 @@
         "html": "Kapittel 2 De ansvarlige",
         "text": "Kapittel 2 De ansvarlige"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -242,15 +248,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Norsk Pasientskadeerstatning er ansvarlig for skade som kan kreves erstattet etter loven her når den er voldt i den offentlige helsetjenesten. For øvrig er den som yter helsehjelp som nevnt i § 1 første ledd ansvarlig.",
+        "html": "Norsk Pasientskadeerstatning er ansvarlig for skade som kan kreves erstattet etter loven her når den er voldt i den offentlige helsetjenesten. For øvrig er den som yter helsehjelp som nevnt i <a data-id=\"lov/2001-06-15-53/§1\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A71\">§ 1</a> første ledd ansvarlig.",
         "text": "Norsk Pasientskadeerstatning er ansvarlig for skade som kan kreves erstattet etter loven her når den er voldt i den offentlige helsetjenesten. For øvrig er den som yter helsehjelp som nevnt i § 1 første ledd ansvarlig."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Til den offentlige helsetjenesten regnes virksomheten til staten, fylkeskommunene eller kommunene. Det samme gjelder virksomhet som drives på oppdrag av eller med driftstilskudd fra noen av disse med mindre det er tegnet forsikring for virksomheten i samsvar med forskrift etter § 7 annet ledd annet punktum. Kongen kan gi forskrift om hva som skal regnes til den offentlige helsetjenesten, og om hvem som har ansvar etter loven.",
+        "html": "Til den offentlige helsetjenesten regnes virksomheten til staten, fylkeskommunene eller kommunene. Det samme gjelder virksomhet som drives på oppdrag av eller med driftstilskudd fra noen av disse med mindre det er tegnet forsikring for virksomheten i samsvar med forskrift etter <a data-id=\"lov/2001-06-15-53/§7\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A77\">§ 7</a> annet ledd annet punktum. Kongen kan gi forskrift om hva som skal regnes til den offentlige helsetjenesten, og om hvem som har ansvar etter loven.",
         "text": "Til den offentlige helsetjenesten regnes virksomheten til staten, fylkeskommunene eller kommunene. Det samme gjelder virksomhet som drives på oppdrag av eller med driftstilskudd fra noen av disse med mindre det er tegnet forsikring for virksomheten i samsvar med forskrift etter § 7 annet ledd annet punktum. Kongen kan gi forskrift om hva som skal regnes til den offentlige helsetjenesten, og om hvem som har ansvar etter loven."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -273,9 +280,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Staten, fylkeskommuner og kommuner yter tilskudd til Norsk Pasientskadeerstatning for å dekke erstatning for pasientskader voldt i den offentlige helsetjenesten, samt bidrag til driften i samsvar med forskrift gitt av Kongen. Det kan fastsettes at det for enkelte helseinstitusjoner i stedet kan eller skal tegnes forsikring som nevnt i § 8.",
+        "html": "Staten, fylkeskommuner og kommuner yter tilskudd til Norsk Pasientskadeerstatning for å dekke erstatning for pasientskader voldt i den offentlige helsetjenesten, samt bidrag til driften i samsvar med forskrift gitt av Kongen. Det kan fastsettes at det for enkelte helseinstitusjoner i stedet kan eller skal tegnes forsikring som nevnt i <a data-id=\"lov/2001-06-15-53/§8\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A78\">§ 8</a>.",
         "text": "Staten, fylkeskommuner og kommuner yter tilskudd til Norsk Pasientskadeerstatning for å dekke erstatning for pasientskader voldt i den offentlige helsetjenesten, samt bidrag til driften i samsvar med forskrift gitt av Kongen. Det kan fastsettes at det for enkelte helseinstitusjoner i stedet kan eller skal tegnes forsikring som nevnt i § 8."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -292,7 +300,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som yter helsehjelp som nevnt i § 1 første ledd utenfor den offentlige helsetjenesten, skal tegne forsikring i den utstrekning det er fastsatt ved forskrift til dekning av ansvaret etter loven her. Forsikringsgivere og vilkår skal godkjennes av Kongen.",
+        "html": "Den som yter helsehjelp som nevnt i <a data-id=\"lov/2001-06-15-53/§1\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A71\">§ 1</a> første ledd utenfor den offentlige helsetjenesten, skal tegne forsikring i den utstrekning det er fastsatt ved forskrift til dekning av ansvaret etter loven her. Forsikringsgivere og vilkår skal godkjennes av Kongen.",
         "text": "Den som yter helsehjelp som nevnt i § 1 første ledd utenfor den offentlige helsetjenesten, skal tegne forsikring i den utstrekning det er fastsatt ved forskrift til dekning av ansvaret etter loven her. Forsikringsgivere og vilkår skal godkjennes av Kongen."
     },
     {
@@ -314,6 +322,7 @@
         "text": "Kapittel 3 Behandlingen av krav"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -329,9 +338,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Krav om erstatning for pasientskade meldes skriftlig til Norsk Pasientskadeerstatning. Norsk Pasientskadeerstatning kan i særlige tilfeller tillate at krav om erstatning meldes muntlig. Fremsettes kravet overfor helsepersonell, helseinstitusjon eller forsikringsgiver etter § 8, skal kravet meldes videre til Norsk Pasientskadeerstatning.",
+        "html": "Krav om erstatning for pasientskade meldes skriftlig til Norsk Pasientskadeerstatning. Norsk Pasientskadeerstatning kan i særlige tilfeller tillate at krav om erstatning meldes muntlig. Fremsettes kravet overfor helsepersonell, helseinstitusjon eller forsikringsgiver etter <a data-id=\"lov/2001-06-15-53/§8\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A78\">§ 8</a>, skal kravet meldes videre til Norsk Pasientskadeerstatning.",
         "text": "Krav om erstatning for pasientskade meldes skriftlig til Norsk Pasientskadeerstatning. Norsk Pasientskadeerstatning kan i særlige tilfeller tillate at krav om erstatning meldes muntlig. Fremsettes kravet overfor helsepersonell, helseinstitusjon eller forsikringsgiver etter § 8, skal kravet meldes videre til Norsk Pasientskadeerstatning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -360,9 +370,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Norsk Pasientskadeerstatning kan kreve bevisopptak etter domstolloven § 43 annet ledd.",
+        "html": "Norsk Pasientskadeerstatning kan kreve bevisopptak etter <a data-id=\"lov/1915-08-13-5/§43\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A743\">domstolloven § 43</a> annet ledd.",
         "text": "Norsk Pasientskadeerstatning kan kreve bevisopptak etter domstolloven § 43 annet ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -383,6 +394,7 @@
         "text": "Pasientens utgifter til advokathjelp dekkes dersom Norsk Pasientskadeerstatning har truffet vedtak om det, eller utgiftene må regnes som tap som følge av skaden. Pasienten kan kreve forhåndsavgjørelse fra Norsk Pasientskadeerstatning om hvilke advokatutgifter som vil bli dekket."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -401,6 +413,7 @@
         "html": "Når Norsk Pasientskadeerstatning har utredet saken, treffer den vedtak om erstatning skal ytes og om erstatningens størrelse. Vedtaket skal begrunnes og underretning gis partene i samsvar med forvaltningslovens regler. Det skal opplyses at vedtaket kan klages inn for Pasientskadenemnda innen tre uker.",
         "text": "Når Norsk Pasientskadeerstatning har utredet saken, treffer den vedtak om erstatning skal ytes og om erstatningens størrelse. Vedtaket skal begrunnes og underretning gis partene i samsvar med forvaltningslovens regler. Det skal opplyses at vedtaket kan klages inn for Pasientskadenemnda innen tre uker."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -423,9 +436,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Om renteplikt gjelder reglene i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.",
+        "html": "Om renteplikt gjelder reglene i <a data-id=\"lov/1976-12-17-100\" class=\" reference\" href=\"/lov/1976-12-17-100\">lov 17. desember 1976 nr. 100</a> om renter ved forsinket betaling m.m.",
         "text": "Om renteplikt gjelder reglene i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -442,7 +456,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forvaltningsloven og offentlighetsloven gjelder for virksomheten til Norsk Pasientskadeerstatning. Som enkeltvedtak anses avgjørelse om erstatning skal ytes, avgjørelse om erstatningens størrelse, avgjørelse om delutbetaling samt avgjørelse om advokatbistand etter § 11.",
+        "html": "Forvaltningsloven og offentlighetsloven gjelder for virksomheten til Norsk Pasientskadeerstatning. Som enkeltvedtak anses avgjørelse om erstatning skal ytes, avgjørelse om erstatningens størrelse, avgjørelse om delutbetaling samt avgjørelse om advokatbistand etter <a data-id=\"lov/2001-06-15-53/§11\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A711\">§ 11</a>.",
         "text": "Forvaltningsloven og offentlighetsloven gjelder for virksomheten til Norsk Pasientskadeerstatning. Som enkeltvedtak anses avgjørelse om erstatning skal ytes, avgjørelse om erstatningens størrelse, avgjørelse om delutbetaling samt avgjørelse om advokatbistand etter § 11."
     },
     {
@@ -451,6 +465,7 @@
         "html": "Kapittel 4 Klage og domstolsprøving",
         "text": "Kapittel 4 Klage og domstolsprøving"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -467,7 +482,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Norsk Pasientskadeerstatnings enkeltvedtak som nevnt i § 14 annet punktum kan påklages til Pasientskadenemnda av den som krever erstatning etter loven her. Det samme gjelder for en ansvarlig etter § 6 første ledd annet punktum eller dennes forsikringsgiver etter § 8, som blir pålagt å betale erstatning ved Norsk Pasientskadeerstatnings vedtak. Andre kan ikke påklage Norsk Pasientskadeerstatnings vedtak til Pasientskadenemnda. Klagefristen er tre uker.",
+        "html": "Norsk Pasientskadeerstatnings enkeltvedtak som nevnt i <a data-id=\"lov/2001-06-15-53/§14\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A714\">§ 14</a> annet punktum kan påklages til Pasientskadenemnda av den som krever erstatning etter loven her. Det samme gjelder for en ansvarlig etter <a data-id=\"lov/2001-06-15-53/§6\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A76\">§ 6</a> første ledd annet punktum eller dennes forsikringsgiver etter <a data-id=\"lov/2001-06-15-53/§8\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A78\">§ 8</a>, som blir pålagt å betale erstatning ved Norsk Pasientskadeerstatnings vedtak. Andre kan ikke påklage Norsk Pasientskadeerstatnings vedtak til Pasientskadenemnda. Klagefristen er tre uker.",
         "text": "Norsk Pasientskadeerstatnings enkeltvedtak som nevnt i § 14 annet punktum kan påklages til Pasientskadenemnda av den som krever erstatning etter loven her. Det samme gjelder for en ansvarlig etter § 6 første ledd annet punktum eller dennes forsikringsgiver etter § 8, som blir pålagt å betale erstatning ved Norsk Pasientskadeerstatnings vedtak. Andre kan ikke påklage Norsk Pasientskadeerstatnings vedtak til Pasientskadenemnda. Klagefristen er tre uker."
     },
     {
@@ -482,6 +497,7 @@
         "html": "Kongen kan fastsette forskrift om gebyr for klage mv. etter denne bestemmelsen.",
         "text": "Kongen kan fastsette forskrift om gebyr for klage mv. etter denne bestemmelsen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -499,7 +515,7 @@
         "tag": "p",
         "class": "avsnitt",
         "html": "Kongen oppnevner leder, nestleder og medlemmer med personlige varamedlemmer til Pasientskadenemnda. Leder skal ha juridisk  embetseksamen. Funksjonstiden er tre år.",
-        "text": "Kongen oppnevner leder, nestleder og medlemmer med personlige varamedlemmer til Pasientskadenemnda. Leder skal ha juridisk embetseksamen. Funksjonstiden er tre år."
+        "text": "Kongen oppnevner leder, nestleder og medlemmer med personlige varamedlemmer til Pasientskadenemnda. Leder skal ha juridisk  embetseksamen. Funksjonstiden er tre år."
     },
     {
         "tag": "p",
@@ -516,9 +532,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pasientskadenemndas virksomhet dekkes i samsvar med forskrift gitt av Kongen, ved bidrag fra Norsk Pasientskadeerstatning og forsikringsgivere som er godkjent etter § 8.",
+        "html": "Pasientskadenemndas virksomhet dekkes i samsvar med forskrift gitt av Kongen, ved bidrag fra Norsk Pasientskadeerstatning og forsikringsgivere som er godkjent etter <a data-id=\"lov/2001-06-15-53/§8\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A78\">§ 8</a>.",
         "text": "Pasientskadenemndas virksomhet dekkes i samsvar med forskrift gitt av Kongen, ved bidrag fra Norsk Pasientskadeerstatning og forsikringsgivere som er godkjent etter § 8."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -541,7 +558,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Saksbehandlingsreglene for Norsk Pasientskadeerstatning i kapittel 3 gjelder tilsvarende for Pasientskadenemnda. Forvaltningsloven § 11 c om muntlige konferanser med saksbehandleren gjelder tilsvarende.",
+        "html": "Saksbehandlingsreglene for Norsk Pasientskadeerstatning i <a data-id=\"lov/2001-06-15-53/kap3\" class=\" reference\" href=\"/lov/2001-06-15-53/kap3\">kapittel 3</a> gjelder tilsvarende for Pasientskadenemnda. <a data-id=\"lov/1967-02-10/§11c\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A711c\">Forvaltningsloven § 11 c</a> om muntlige konferanser med saksbehandleren gjelder tilsvarende.",
         "text": "Saksbehandlingsreglene for Norsk Pasientskadeerstatning i kapittel 3 gjelder tilsvarende for Pasientskadenemnda. Forvaltningsloven § 11 c om muntlige konferanser med saksbehandleren gjelder tilsvarende."
     },
     {
@@ -563,6 +580,7 @@
         "text": "Nemndas avgjørelser settes i verk av Norsk Pasientskadeerstatning på samme måte som Norsk Pasientskadeerstatnings egne avgjørelser."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -578,7 +596,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som krever erstatning etter loven her, kan bringe saken inn for domstolene når endelig vedtak i Pasientskadenemnda foreligger. Det samme gjelder for ansvarlig etter § 6 første ledd annet punktum eller dennes forsikringsgiver etter § 8, som blir pålagt å betale erstatning ved Pasientskadenemndas vedtak. Andre kan ikke bringe saken inn for domstolene.",
+        "html": "Den som krever erstatning etter loven her, kan bringe saken inn for domstolene når endelig vedtak i Pasientskadenemnda foreligger. Det samme gjelder for ansvarlig etter <a data-id=\"lov/2001-06-15-53/§6\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A76\">§ 6</a> første ledd annet punktum eller dennes forsikringsgiver etter <a data-id=\"lov/2001-06-15-53/§8\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A78\">§ 8</a>, som blir pålagt å betale erstatning ved Pasientskadenemndas vedtak. Andre kan ikke bringe saken inn for domstolene.",
         "text": "Den som krever erstatning etter loven her, kan bringe saken inn for domstolene når endelig vedtak i Pasientskadenemnda foreligger. Det samme gjelder for ansvarlig etter § 6 første ledd annet punktum eller dennes forsikringsgiver etter § 8, som blir pålagt å betale erstatning ved Pasientskadenemndas vedtak. Andre kan ikke bringe saken inn for domstolene."
     },
     {
@@ -596,7 +614,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Søksmål etter første ledd første punktum reises mot den ansvarlige etter § 6 eller dennes forsikringsgiver etter § 8. Søksmål etter første ledd annet punktum reises mot Pasientskadenemnda.",
+        "html": "Søksmål etter første ledd første punktum reises mot den ansvarlige etter <a data-id=\"lov/2001-06-15-53/§6\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A76\">§ 6</a> eller dennes forsikringsgiver etter <a data-id=\"lov/2001-06-15-53/§8\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A78\">§ 8</a>. Søksmål etter første ledd annet punktum reises mot Pasientskadenemnda.",
         "text": "Søksmål etter første ledd første punktum reises mot den ansvarlige etter § 6 eller dennes forsikringsgiver etter § 8. Søksmål etter første ledd annet punktum reises mot Pasientskadenemnda."
     },
     {
@@ -605,6 +623,7 @@
         "html": "Kapittel 5 Virkeområde, ikrafttredelse og overgangsregler",
         "text": "Kapittel 5 Virkeområde, ikrafttredelse og overgangsregler"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -625,6 +644,7 @@
         "text": "Loven gjelder skade som voldes i riket med Svalbard. Loven gjelder også skade voldt ved helsetjenester i utlandet (herunder behandlingsreiser til utlandet) som det offentlige helt eller delvis bekoster. Kongen kan bestemme at loven ikke skal gjelde når det ytes helsehjelp her i riket med særskilt liten norsk tilknytning."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -643,6 +663,7 @@
         "html": "Loven gjelder fra den tid Kongen bestemmer.",
         "text": "Loven gjelder fra den tid Kongen bestemmer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -664,34 +685,35 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler for midlertidig ordning med pasientskadeerstatning for somatiske sykehus/poliklinikker,</td>\n</tr>",
-        "text": "a)regler for midlertidig ordning med pasientskadeerstatning for somatiske sykehus/poliklinikker,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler for midlertidig ordning med pasientskadeerstatning for somatiske sykehus/poliklinikker,</td>\n</tr>",
+        "text": "a)\tregler for midlertidig ordning med pasientskadeerstatning for somatiske sykehus/poliklinikker,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler for midlertidig ordning med pasientskadeerstatning for psykiatriske sykehus/poliklinikker,</td>\n</tr>",
-        "text": "b)regler for midlertidig ordning med pasientskadeerstatning for psykiatriske sykehus/poliklinikker,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler for midlertidig ordning med pasientskadeerstatning for psykiatriske sykehus/poliklinikker,</td>\n</tr>",
+        "text": "b)\tregler for midlertidig ordning med pasientskadeerstatning for psykiatriske sykehus/poliklinikker,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler for midlertidig ordning med pasientskadeerstatning for kommunelegetjenesten/kommunal legevakt,</td>\n</tr>",
-        "text": "c)regler for midlertidig ordning med pasientskadeerstatning for kommunelegetjenesten/kommunal legevakt,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler for midlertidig ordning med pasientskadeerstatning for kommunelegetjenesten/kommunal legevakt,</td>\n</tr>",
+        "text": "c)\tregler for midlertidig ordning med pasientskadeerstatning for kommunelegetjenesten/kommunal legevakt,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 8-2, slik den lød før opphevelsen ved loven her, og</td>\n</tr>",
-        "text": "d)lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 8-2, slik den lød før opphevelsen ved loven her, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1994-08-05-55\" class=\" reference\" href=\"/lov/1994-08-05-55\">lov 5. august 1994 nr. 55</a> om vern mot smittsomme sykdommer <a data-id=\"lov/1994-08-05-55/§8-2\" class=\" reference\" href=\"/lov/1994-08-05-55/%C2%A78-2\">§ 8-2</a>, slik den lød før opphevelsen ved loven her, og</td>\n</tr>",
+        "text": "d)\tlov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 8-2, slik den lød før opphevelsen ved loven her, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alminnelig erstatningsrett.</td>\n</tr>",
-        "text": "e)alminnelig erstatningsrett."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alminnelig erstatningsrett.</td>\n</tr>",
+        "text": "e)\talminnelig erstatningsrett."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -708,13 +730,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "1. I lov 13. juni 1969 nr. 26 om skadeserstatning gjøres følgende endringer:",
+        "html": "1. I <a data-id=\"lov/1969-06-13-26\" class=\" reference\" href=\"/lov/1969-06-13-26\">lov 13. juni 1969 nr. 26</a> om skadeserstatning gjøres følgende endringer:",
         "text": "1. I lov 13. juni 1969 nr. 26 om skadeserstatning gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 2-1 nytt nr. 4 skal lyde:",
+        "html": "<a data-id=\"lov/1969-06-13-26/§2-1\" class=\" reference\" href=\"/lov/1969-06-13-26/%C2%A72-1\">§ 2-1</a> nytt nr. 4 skal lyde:",
         "text": "§ 2-1 nytt nr. 4 skal lyde:"
     },
     {
@@ -726,19 +748,19 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 3-10 første ledd tredje punktum skal lyde:",
+        "html": "<a data-id=\"lov/1969-06-13-26/§3-10\" class=\" reference\" href=\"/lov/1969-06-13-26/%C2%A73-10\">§ 3-10</a> første ledd tredje punktum skal lyde:",
         "text": "§ 3-10 første ledd tredje punktum skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Krav på erstatning etter § 3-2 eller oppreising etter § 3-5 eller § 3-6 kan heller ikke overføres ved arv, så lenge det ikke er godkjent eller gjort gjeldende ved søksmål, eller det er meldt til Norsk Pasientskadeerstatning etter pasientskadeloven § 9.",
+        "html": "Krav på erstatning etter <a data-id=\"lov/1969-06-13-26/§3-2\" class=\" reference\" href=\"/lov/1969-06-13-26/%C2%A73-2\">§ 3-2</a> eller oppreising etter <a data-id=\"lov/1969-06-13-26/§3-5\" class=\" reference\" href=\"/lov/1969-06-13-26/%C2%A73-5\">§ 3-5</a> eller <a data-id=\"lov/1969-06-13-26/§3-6\" class=\" reference\" href=\"/lov/1969-06-13-26/%C2%A73-6\">§ 3-6</a> kan heller ikke overføres ved arv, så lenge det ikke er godkjent eller gjort gjeldende ved søksmål, eller det er meldt til Norsk Pasientskadeerstatning etter <a data-id=\"lov/2001-06-15-53/§9\" class=\" reference\" href=\"/lov/2001-06-15-53/%C2%A79\">pasientskadeloven § 9</a>.",
         "text": "Krav på erstatning etter § 3-2 eller oppreising etter § 3-5 eller § 3-6 kan heller ikke overføres ved arv, så lenge det ikke er godkjent eller gjort gjeldende ved søksmål, eller det er meldt til Norsk Pasientskadeerstatning etter pasientskadeloven § 9."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 3-10 tredje ledd skal lyde:",
+        "html": "<a data-id=\"lov/1969-06-13-26/§3-10\" class=\" reference\" href=\"/lov/1969-06-13-26/%C2%A73-10\">§ 3-10</a> tredje ledd skal lyde:",
         "text": "§ 3-10 tredje ledd skal lyde:"
     },
     {
@@ -750,7 +772,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "2. Lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) skal § 6-7 lyde:",
+        "html": "2. <a data-id=\"lov/1980-06-13-24\" class=\" reference\" href=\"/lov/1980-06-13-24\">Lov 13. juni 1980 nr. 24</a> om ligningsforvaltning (ligningsloven) skal <a data-id=\"lov/1980-06-13-24/§6-7\" class=\" reference\" href=\"/lov/1980-06-13-24/%C2%A76-7\">§ 6-7</a> lyde:",
         "text": "2. Lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) skal § 6-7 lyde:"
     },
     {
@@ -762,7 +784,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "3. Lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 8-2 oppheves.",
+        "html": "3. <a data-id=\"lov/1994-08-05-55\" class=\" reference\" href=\"/lov/1994-08-05-55\">Lov 5. august 1994 nr. 55</a> om vern mot smittsomme sykdommer <a data-id=\"lov/1994-08-05-55/§8-2\" class=\" reference\" href=\"/lov/1994-08-05-55/%C2%A78-2\">§ 8-2</a> oppheves.",
         "text": "3. Lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 8-2 oppheves."
     }
 ]

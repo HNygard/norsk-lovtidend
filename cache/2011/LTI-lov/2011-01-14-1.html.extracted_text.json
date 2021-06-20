@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.152 L (2009–2010), Innst.118 L (2010–2011), Lovvedtak 30 (2010–2011). Stortingets første og andre gongs behandling hv. 10. og 14. desember 2010. Fremja av Kommunal- og regionaldepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-152-l-200910\" class=\" reference\" href=\"/forarbeid/prop-152-l-200910\">Prop.152 L (2009–2010)</a>, <a data-id=\"forarbeid/inns-118-l-201011\" class=\" reference\" href=\"/forarbeid/inns-118-l-201011\">Innst.118 L (2010–2011)</a>, <a data-id=\"forarbeid/lovvedtak-30-201011\" class=\" reference\" href=\"/forarbeid/lovvedtak-30-201011\">Lovvedtak 30 (2010–2011)</a>. Stortingets første og andre gongs behandling hv. 10. og 14. desember 2010. Fremja av Kommunal- og regionaldepartementet.",
         "text": "Prop.152 L (2009–2010), Innst.118 L (2010–2011), Lovvedtak 30 (2010–2011). Stortingets første og andre gongs behandling hv. 10. og 14. desember 2010. Fremja av Kommunal- og regionaldepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven).",
+        "html": "<a data-id=\"lov/1992-09-25-107\" class=\" reference\" href=\"/lov/1992-09-25-107\">Lov 25. september 1992 nr. 107</a> om kommuner og fylkeskommuner (kommuneloven).",
         "text": "Lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven)."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner skal desse endringane gjerast:",
+        "html": "I <a data-id=\"lov/1992-09-25-107\" class=\" reference\" href=\"/lov/1992-09-25-107\">lov 25. september 1992 nr. 107</a> om kommuner og fylkeskommuner skal desse endringane gjerast:",
         "text": "I lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner skal desse endringane gjerast:"
     },
     {
@@ -55,33 +55,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Enhver har rett til å overvære møtene i folkevalgte organer.</td>\n</tr>",
-        "text": "1.Enhver har rett til å overvære møtene i folkevalgte organer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Enhver har rett til å overvære møtene i folkevalgte organer.</td>\n</tr>",
+        "text": "1.\tEnhver har rett til å overvære møtene i folkevalgte organer."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Et folkevalgt organ skal vedta å lukke et møte når det foreligger lovbestemt taushetsplikt.</td>\n</tr>",
-        "text": "2.Et folkevalgt organ skal vedta å lukke et møte når det foreligger lovbestemt taushetsplikt."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Et folkevalgt organ skal vedta å lukke et møte når det foreligger lovbestemt taushetsplikt.</td>\n</tr>",
+        "text": "2.\tEt folkevalgt organ skal vedta å lukke et møte når det foreligger lovbestemt taushetsplikt."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Et folkevalgt organ skal vedta å lukke et møte når det skal behandle en sak som angår en arbeidstakers tjenstlige forhold.</td>\n</tr>",
-        "text": "3.Et folkevalgt organ skal vedta å lukke et møte når det skal behandle en sak som angår en arbeidstakers tjenstlige forhold."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Et folkevalgt organ skal vedta å lukke et møte når det skal behandle en sak som angår en arbeidstakers tjenstlige forhold.</td>\n</tr>",
+        "text": "3.\tEt folkevalgt organ skal vedta å lukke et møte når det skal behandle en sak som angår en arbeidstakers tjenstlige forhold."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Et folkevalgt organ kan vedta å lukke et møte når hensynet til personvern krever det.</td>\n</tr>",
-        "text": "4.Et folkevalgt organ kan vedta å lukke et møte når hensynet til personvern krever det."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Et folkevalgt organ kan vedta å lukke et møte når hensynet til personvern krever det.</td>\n</tr>",
+        "text": "4.\tEt folkevalgt organ kan vedta å lukke et møte når hensynet til personvern krever det."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Et folkevalgt organ kan vedta å lukke et møte når hensynet til tungtveiende offentlige interesser tilsier det, og det vil komme fram opplysninger i møtet som kunne ha vært unntatt offentlig innsyn etter lov 19. mai 2006 nr. 16 (offentleglova) dersom de hadde stått i et dokument.</td>\n</tr>",
-        "text": "5.Et folkevalgt organ kan vedta å lukke et møte når hensynet til tungtveiende offentlige interesser tilsier det, og det vil komme fram opplysninger i møtet som kunne ha vært unntatt offentlig innsyn etter lov 19. mai 2006 nr. 16 (offentleglova) dersom de hadde stått i et dokument."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Et folkevalgt organ kan vedta å lukke et møte når hensynet til tungtveiende offentlige interesser tilsier det, og det vil komme fram opplysninger i møtet som kunne ha vært unntatt offentlig innsyn etter <a data-id=\"lov/2006-05-19-16\" class=\" reference\" href=\"/lov/2006-05-19-16\">lov 19. mai 2006 nr. 16</a> (offentleglova) dersom de hadde stått i et dokument.</td>\n</tr>",
+        "text": "5.\tEt folkevalgt organ kan vedta å lukke et møte når hensynet til tungtveiende offentlige interesser tilsier det, og det vil komme fram opplysninger i møtet som kunne ha vært unntatt offentlig innsyn etter lov 19. mai 2006 nr. 16 (offentleglova) dersom de hadde stått i et dokument."
     },
     {
         "tag": "p",
@@ -97,21 +97,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Hvis møtelederen eller vedkommende organ krever det, skal debatten om lukking av et møte holdes i lukket møte. Avstemningen skal skje i åpent møte.</td>\n</tr>",
-        "text": "1.Hvis møtelederen eller vedkommende organ krever det, skal debatten om lukking av et møte holdes i lukket møte. Avstemningen skal skje i åpent møte."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Hvis møtelederen eller vedkommende organ krever det, skal debatten om lukking av et møte holdes i lukket møte. Avstemningen skal skje i åpent møte.</td>\n</tr>",
+        "text": "1.\tHvis møtelederen eller vedkommende organ krever det, skal debatten om lukking av et møte holdes i lukket møte. Avstemningen skal skje i åpent møte."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Møtelederen skal etter anmodning gi tillatelse til å gjøre opptak av eller overføre lyd eller bilde fra åpne møter, såfremt dette ikke virker forstyrrende på gjennomføringen av møtet.</td>\n</tr>",
-        "text": "2.Møtelederen skal etter anmodning gi tillatelse til å gjøre opptak av eller overføre lyd eller bilde fra åpne møter, såfremt dette ikke virker forstyrrende på gjennomføringen av møtet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Møtelederen skal etter anmodning gi tillatelse til å gjøre opptak av eller overføre lyd eller bilde fra åpne møter, såfremt dette ikke virker forstyrrende på gjennomføringen av møtet.</td>\n</tr>",
+        "text": "2.\tMøtelederen skal etter anmodning gi tillatelse til å gjøre opptak av eller overføre lyd eller bilde fra åpne møter, såfremt dette ikke virker forstyrrende på gjennomføringen av møtet."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunerådet eller fylkesrådet bestemmer selv om deres møter skal være åpne, såfremt § 31 ikke er til hinder for åpenhet.</td>\n</tr>",
-        "text": "3.Kommunerådet eller fylkesrådet bestemmer selv om deres møter skal være åpne, såfremt § 31 ikke er til hinder for åpenhet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunerådet eller fylkesrådet bestemmer selv om deres møter skal være åpne, såfremt § 31 ikke er til hinder for åpenhet.</td>\n</tr>",
+        "text": "3.\tKommunerådet eller fylkesrådet bestemmer selv om deres møter skal være åpne, såfremt § 31 ikke er til hinder for åpenhet."
     },
     {
         "tag": "p",

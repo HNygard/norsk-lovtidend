@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.123 L (2011–2012), Innst.65 L (2012–2013), Lovvedtak 16 (2012–2013). Stortingets første og andre gangs behandling hhv. 29. november og 4. desember 2012. Fremmet av Helse- og omsorgsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-123-l-201112\" class=\" reference\" href=\"/forarbeid/prop-123-l-201112\">Prop.123 L (2011–2012)</a>, <a data-id=\"forarbeid/inns-65-l-201213\" class=\" reference\" href=\"/forarbeid/inns-65-l-201213\">Innst.65 L (2012–2013)</a>, <a data-id=\"forarbeid/lovvedtak-16-201213\" class=\" reference\" href=\"/forarbeid/lovvedtak-16-201213\">Lovvedtak 16 (2012–2013)</a>. Stortingets første og andre gangs behandling hhv. 29. november og 4. desember 2012. Fremmet av Helse- og omsorgsdepartementet.",
         "text": "Prop.123 L (2011–2012), Innst.65 L (2012–2013), Lovvedtak 16 (2012–2013). Stortingets første og andre gangs behandling hhv. 29. november og 4. desember 2012. Fremmet av Helse- og omsorgsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).",
+        "html": "<a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).",
         "text": "Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
     },
     {
@@ -26,13 +26,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">lov 28. februar 1997 nr. 19</a> om folketrygd gjøres følgende endringer:",
         "text": "I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 5-3 annet ledd skal lyde:",
+        "html": "<a data-id=\"lov/1997-02-28-19/§5-3\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A75-3\">§ 5-3</a> annet ledd skal lyde:",
         "text": "§ 5-3 annet ledd skal lyde:"
     },
     {
@@ -43,38 +43,38 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tannlege- og tannpleierhjelp</td>\n</tr>",
-        "text": "a)tannlege- og tannpleierhjelp"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tannlege- og tannpleierhjelp</td>\n</tr>",
+        "text": "a)\ttannlege- og tannpleierhjelp"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fysioterapi</td>\n</tr>",
-        "text": "b)fysioterapi"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fysioterapi</td>\n</tr>",
+        "text": "b)\tfysioterapi"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opphold ved opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetak</td>\n</tr>",
-        "text": "c)opphold ved opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetak"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opphold ved opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetak</td>\n</tr>",
+        "text": "c)\topphold ved opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetak"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandlingsreiser til utlandet (klimareiser).</td>\n</tr>",
-        "text": "d)behandlingsreiser til utlandet (klimareiser)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandlingsreiser til utlandet (klimareiser).</td>\n</tr>",
+        "text": "d)\tbehandlingsreiser til utlandet (klimareiser)."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ny § 5-6 a skal lyde:",
+        "html": "Ny <a data-id=\"lov/1997-02-28-19/§5-6a\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A75-6a\">§ 5-6 a</a> skal lyde:",
         "text": "Ny § 5-6 a skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 5-6 a. <em class=\" \">Tannpleierhjelp</em>",
+        "html": "<a data-id=\"lov/1997-02-28-19/§5-6a\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A75-6a\">§ 5-6 a</a>. <em class=\" \">Tannpleierhjelp</em>",
         "text": "§ 5-6 a. Tannpleierhjelp"
     },
     {

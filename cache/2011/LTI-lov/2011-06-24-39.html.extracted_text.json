@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.101 L (2010–2011), Innst.379 L (2010–2011), Lovvedtak 61 (2010–2011). Stortingets første og andre gangs behandling hhv. 9. og 15. juni 2011. Fremmet av Olje- og energidepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-101-l-201011\" class=\" reference\" href=\"/forarbeid/prop-101-l-201011\">Prop.101 L (2010–2011)</a>, <a data-id=\"forarbeid/inns-379-l-201011\" class=\" reference\" href=\"/forarbeid/inns-379-l-201011\">Innst.379 L (2010–2011)</a>, <a data-id=\"forarbeid/lovvedtak-61-201011\" class=\" reference\" href=\"/forarbeid/lovvedtak-61-201011\">Lovvedtak 61 (2010–2011)</a>. Stortingets første og andre gangs behandling hhv. 9. og 15. juni 2011. Fremmet av Olje- og energidepartementet.",
         "text": "Prop.101 L (2010–2011), Innst.379 L (2010–2011), Lovvedtak 61 (2010–2011). Stortingets første og andre gangs behandling hhv. 9. og 15. juni 2011. Fremmet av Olje- og energidepartementet."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven).</td>\n</tr>",
-        "text": "1Lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1984-06-08-58\" class=\" reference\" href=\"/lov/1984-06-08-58\">Lov 8. juni 1984 nr. 58</a> om gjeldsforhandling og konkurs (konkursloven).</td>\n</tr>",
+        "text": "1\tLov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse.</td>\n</tr>",
-        "text": "2Lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">Lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse.</td>\n</tr>",
+        "text": "2\tLov 26. juni 1992 nr. 86 om tvangsfullbyrdelse."
     },
     {
         "tag": "h2",
@@ -29,6 +29,7 @@
         "html": "Kapittel 1. Innledende bestemmelser",
         "text": "Kapittel 1. Innledende bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -48,6 +49,7 @@
         "html": "Lovens formål er å bidra til økt produksjon av elektrisk energi fra fornybare energikilder.",
         "text": "Lovens formål er å bidra til økt produksjon av elektrisk energi fra fornybare energikilder."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -70,7 +72,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen kan bestemme at loven helt eller delvis skal gjelde på kontinentalsokkelen eller i jurisdiksjonsområder opprettet i medhold av lov 17. desember 1976 nr. 91 om Norges økonomiske sone.",
+        "html": "Kongen kan bestemme at loven helt eller delvis skal gjelde på kontinentalsokkelen eller i jurisdiksjonsområder opprettet i medhold av <a data-id=\"lov/1976-12-17-91\" class=\" reference\" href=\"/lov/1976-12-17-91\">lov 17. desember 1976 nr. 91</a> om Norges økonomiske sone.",
         "text": "Kongen kan bestemme at loven helt eller delvis skal gjelde på kontinentalsokkelen eller i jurisdiksjonsområder opprettet i medhold av lov 17. desember 1976 nr. 91 om Norges økonomiske sone."
     },
     {
@@ -79,6 +81,7 @@
         "html": "Kongen kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold.",
         "text": "Kongen kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -100,34 +103,35 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">elsertifikat</em>: et bevis utstedt av staten for at det er produsert en megawattime fornybar elektrisk energi i henhold til denne lov</td>\n</tr>",
-        "text": "a)elsertifikat: et bevis utstedt av staten for at det er produsert en megawattime fornybar elektrisk energi i henhold til denne lov"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">elsertifikat</em>: et bevis utstedt av staten for at det er produsert en megawattime fornybar elektrisk energi i henhold til denne lov</td>\n</tr>",
+        "text": "a)\telsertifikat: et bevis utstedt av staten for at det er produsert en megawattime fornybar elektrisk energi i henhold til denne lov"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">elsertifikatberettiget</em>: innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i kapittel 2 er oppfylt</td>\n</tr>",
-        "text": "b)elsertifikatberettiget: innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i kapittel 2 er oppfylt"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">elsertifikatberettiget</em>: innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i <a data-id=\"lov/2011-06-24-39/kap2\" class=\" reference\" href=\"/lov/2011-06-24-39/kap2\">kapittel 2</a> er oppfylt</td>\n</tr>",
+        "text": "b)\telsertifikatberettiget: innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i kapittel 2 er oppfylt"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">elsertifikatplikt</em>: plikt til per 1. april hvert år å inneha et visst antall elsertifikater for annullering i samsvar med denne lov</td>\n</tr>",
-        "text": "c)elsertifikatplikt: plikt til per 1. april hvert år å inneha et visst antall elsertifikater for annullering i samsvar med denne lov"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">elsertifikatplikt</em>: plikt til per 1. april hvert år å inneha et visst antall elsertifikater for annullering i samsvar med denne lov</td>\n</tr>",
+        "text": "c)\telsertifikatplikt: plikt til per 1. april hvert år å inneha et visst antall elsertifikater for annullering i samsvar med denne lov"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">produksjonsanlegg</em>: en innretning for produksjon av elektrisk energi</td>\n</tr>",
-        "text": "d)produksjonsanlegg: en innretning for produksjon av elektrisk energi"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">produksjonsanlegg</em>: en innretning for produksjon av elektrisk energi</td>\n</tr>",
+        "text": "d)\tproduksjonsanlegg: en innretning for produksjon av elektrisk energi"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">registeransvarlig</em>: den enhet som er utpekt etter § 11 som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater</td>\n</tr>",
-        "text": "e)registeransvarlig: den enhet som er utpekt etter § 11 som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">registeransvarlig</em>: den enhet som er utpekt etter <a data-id=\"lov/2011-06-24-39/§11\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A711\">§ 11</a> som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater</td>\n</tr>",
+        "text": "e)\tregisteransvarlig: den enhet som er utpekt etter § 11 som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -147,6 +151,7 @@
         "html": "Elsertifikater kan utstedes for produksjon som skjer til og med 31. desember 2035. Siste annullering av elsertifikater skjer 1. april 2036.",
         "text": "Elsertifikater kan utstedes for produksjon som skjer til og med 31. desember 2035. Siste annullering av elsertifikater skjer 1. april 2036."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -173,6 +178,7 @@
         "text": "Kapittel 2. Utstedelse av elsertifikater"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -193,22 +199,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produserer elektrisk energi basert på fornybare energikilder etter § 7,</td>\n</tr>",
-        "text": "a)produserer elektrisk energi basert på fornybare energikilder etter § 7,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produserer elektrisk energi basert på fornybare energikilder etter <a data-id=\"lov/2011-06-24-39/§7\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A77\">§ 7</a>,</td>\n</tr>",
+        "text": "a)\tproduserer elektrisk energi basert på fornybare energikilder etter § 7,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er godkjent etter § 8 og</td>\n</tr>",
-        "text": "b)er godkjent etter § 8 og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er godkjent etter <a data-id=\"lov/2011-06-24-39/§8\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A78\">§ 8</a> og</td>\n</tr>",
+        "text": "b)\ter godkjent etter § 8 og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">oppfyller krav til måling og rapportering etter § 9.</td>\n</tr>",
-        "text": "c)oppfyller krav til måling og rapportering etter § 9."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">oppfyller krav til måling og rapportering etter <a data-id=\"lov/2011-06-24-39/§9\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A79\">§ 9</a>.</td>\n</tr>",
+        "text": "c)\toppfyller krav til måling og rapportering etter § 9."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -230,39 +237,39 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vannkraft</td>\n</tr>",
-        "text": "a)vannkraft"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vannkraft</td>\n</tr>",
+        "text": "a)\tvannkraft"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vindkraft</td>\n</tr>",
-        "text": "b)vindkraft"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vindkraft</td>\n</tr>",
+        "text": "b)\tvindkraft"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">solenergi</td>\n</tr>",
-        "text": "c)solenergi"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">solenergi</td>\n</tr>",
+        "text": "c)\tsolenergi"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">havenergi</td>\n</tr>",
-        "text": "d)havenergi"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">havenergi</td>\n</tr>",
+        "text": "d)\thavenergi"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">geotermisk energi</td>\n</tr>",
-        "text": "e)geotermisk energi"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">geotermisk energi</td>\n</tr>",
+        "text": "e)\tgeotermisk energi"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bioenergi</td>\n</tr>",
-        "text": "f)bioenergi"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bioenergi</td>\n</tr>",
+        "text": "f)\tbioenergi"
     },
     {
         "tag": "p",
@@ -270,6 +277,7 @@
         "html": "Departementet kan i forskrift fastsette nærmere regler om hva som anses som fornybare energikilder.",
         "text": "Departementet kan i forskrift fastsette nærmere regler om hva som anses som fornybare energikilder."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -291,21 +299,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ha hatt byggestart etter 7. september 2009,</td>\n</tr>",
-        "text": "a)ha hatt byggestart etter 7. september 2009,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ha hatt byggestart etter 7. september 2009,</td>\n</tr>",
+        "text": "a)\tha hatt byggestart etter 7. september 2009,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">være et vannkraftverk med installert effekt inntil 1 MW som hadde byggestart etter 1. januar 2004, eller</td>\n</tr>",
-        "text": "b)være et vannkraftverk med installert effekt inntil 1 MW som hadde byggestart etter 1. januar 2004, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">være et vannkraftverk med installert effekt inntil 1 MW som hadde byggestart etter 1. januar 2004, eller</td>\n</tr>",
+        "text": "b)\tvære et vannkraftverk med installert effekt inntil 1 MW som hadde byggestart etter 1. januar 2004, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">varig øke sin energiproduksjon med byggestart etter 7. september 2009.</td>\n</tr>",
-        "text": "c)varig øke sin energiproduksjon med byggestart etter 7. september 2009."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">varig øke sin energiproduksjon med byggestart etter 7. september 2009.</td>\n</tr>",
+        "text": "c)\tvarig øke sin energiproduksjon med byggestart etter 7. september 2009."
     },
     {
         "tag": "p",
@@ -338,6 +346,7 @@
         "text": "Kongen kan fastsette bestemmelser til gjennomføring av forpliktelser med annen stat om å avskjære rett til elsertifikater dersom det gis offentlig støtte knyttet til produksjon av elektrisk energi i godkjente produksjonsanlegg."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -353,7 +362,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Elsertifikater utstedes for elektrisk energi som er målt og rapportert til registeransvarlig, basert på et system for måling av produksjonen og verifisering av måleresultatene. Ved søknad etter § 8 må det foreligge dokumentasjon for dette.",
+        "html": "Elsertifikater utstedes for elektrisk energi som er målt og rapportert til registeransvarlig, basert på et system for måling av produksjonen og verifisering av måleresultatene. Ved søknad etter <a data-id=\"lov/2011-06-24-39/§8\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A78\">§ 8</a> må det foreligge dokumentasjon for dette.",
         "text": "Elsertifikater utstedes for elektrisk energi som er målt og rapportert til registeransvarlig, basert på et system for måling av produksjonen og verifisering av måleresultatene. Ved søknad etter § 8 må det foreligge dokumentasjon for dette."
     },
     {
@@ -368,6 +377,7 @@
         "html": "Departementet kan i forskrift fastsette nærmere regler om måling og rapportering av produksjon av elektrisk energi.",
         "text": "Departementet kan i forskrift fastsette nærmere regler om måling og rapportering av produksjon av elektrisk energi."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -384,7 +394,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Registeransvarlig skal utstede ett elsertifikat til den elsertifikatberettigede for hver megawattime elektrisk energi fra produksjonsanlegg som er godkjent etter § 8. Hvert elsertifikat skal ha et identifikasjonsnummer og dato for utstedelsen.",
+        "html": "Registeransvarlig skal utstede ett elsertifikat til den elsertifikatberettigede for hver megawattime elektrisk energi fra produksjonsanlegg som er godkjent etter <a data-id=\"lov/2011-06-24-39/§8\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A78\">§ 8</a>. Hvert elsertifikat skal ha et identifikasjonsnummer og dato for utstedelsen.",
         "text": "Registeransvarlig skal utstede ett elsertifikat til den elsertifikatberettigede for hver megawattime elektrisk energi fra produksjonsanlegg som er godkjent etter § 8. Hvert elsertifikat skal ha et identifikasjonsnummer og dato for utstedelsen."
     },
     {
@@ -396,7 +406,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For det enkelte godkjente produksjonsanlegg kan elsertifikater utstedes i en samlet periode på 15 år fra første tildeling. For produksjonsanlegg som er omfattet av § 8 første ledd bokstav c, regnes utstedelsesperioden fra tidspunktet for første tildeling etter at den økte produksjonen kom i drift. For produksjonsanlegg som er omfattet av § 8 første ledd og som er satt i drift før lovens ikrafttredelse, skal driftsperioden fram til lovens ikrafttredelse trekkes fra i den samlede utstedelsesperioden.",
+        "html": "For det enkelte godkjente produksjonsanlegg kan elsertifikater utstedes i en samlet periode på 15 år fra første tildeling. For produksjonsanlegg som er omfattet av <a data-id=\"lov/2011-06-24-39/§8\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A78\">§ 8</a> første ledd bokstav c, regnes utstedelsesperioden fra tidspunktet for første tildeling etter at den økte produksjonen kom i drift. For produksjonsanlegg som er omfattet av <a data-id=\"lov/2011-06-24-39/§8\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A78\">§ 8</a> første ledd og som er satt i drift før lovens ikrafttredelse, skal driftsperioden fram til lovens ikrafttredelse trekkes fra i den samlede utstedelsesperioden.",
         "text": "For det enkelte godkjente produksjonsanlegg kan elsertifikater utstedes i en samlet periode på 15 år fra første tildeling. For produksjonsanlegg som er omfattet av § 8 første ledd bokstav c, regnes utstedelsesperioden fra tidspunktet for første tildeling etter at den økte produksjonen kom i drift. For produksjonsanlegg som er omfattet av § 8 første ledd og som er satt i drift før lovens ikrafttredelse, skal driftsperioden fram til lovens ikrafttredelse trekkes fra i den samlede utstedelsesperioden."
     },
     {
@@ -429,6 +439,7 @@
         "html": "Kapittel 3. Elsertifikatregisteret og omsetning av elsertifikater",
         "text": "Kapittel 3. Elsertifikatregisteret og omsetning av elsertifikater"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -467,6 +478,7 @@
         "text": "Departementet utpeker registeransvarlig og kan i forskrift eller ved enkeltvedtak fastsette vilkår for elsertifikatregisteret, herunder om plikt til å opprette elsertifikatkonti, føring av elsertifikatregisteret, kriterier for når en rettighet skal anses registrert, rapportering til elsertifikatregisteret og offentliggjøring av informasjon registrert i elsertifikatregisteret."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -482,7 +494,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Elsertifikater kan omsettes til enhver som har opprettet elsertifikatkonto etter § 11. All omsetning av elsertifikater og omsetningsprisen skal registreres i elsertifikatregisteret.",
+        "html": "Elsertifikater kan omsettes til enhver som har opprettet elsertifikatkonto etter <a data-id=\"lov/2011-06-24-39/§11\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A711\">§ 11</a>. All omsetning av elsertifikater og omsetningsprisen skal registreres i elsertifikatregisteret.",
         "text": "Elsertifikater kan omsettes til enhver som har opprettet elsertifikatkonto etter § 11. All omsetning av elsertifikater og omsetningsprisen skal registreres i elsertifikatregisteret."
     },
     {
@@ -516,6 +528,7 @@
         "text": "Registeransvarlig kan rette åpenbare feil i opplysninger i elsertifikatregisteret. Registeransvarlig skal umiddelbart etter at retting er foretatt sende melding til kontohavere og andre rettighetshavere som berøres av rettingen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -537,7 +550,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved pantsettelse av elsertifikater skal partene sende melding til registeransvarlig om pantsettelsen. For sletting av panterettighet må panthaveren gi samtykke. Bestemmelsene om registrering, foreløpig registrering og retting av feil i § 12 gjelder tilsvarende.",
+        "html": "Ved pantsettelse av elsertifikater skal partene sende melding til registeransvarlig om pantsettelsen. For sletting av panterettighet må panthaveren gi samtykke. Bestemmelsene om registrering, foreløpig registrering og retting av feil i <a data-id=\"lov/2011-06-24-39/§12\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A712\">§ 12</a> gjelder tilsvarende.",
         "text": "Ved pantsettelse av elsertifikater skal partene sende melding til registeransvarlig om pantsettelsen. For sletting av panterettighet må panthaveren gi samtykke. Bestemmelsene om registrering, foreløpig registrering og retting av feil i § 12 gjelder tilsvarende."
     },
     {
@@ -549,7 +562,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Registrert panterett i elsertifikater er tvangsgrunnlag for tvangsdekning etter tvangsfullbyrdelsesloven kapittel 10.",
+        "html": "Registrert panterett i elsertifikater er tvangsgrunnlag for tvangsdekning etter <a data-id=\"lov/1992-06-26-86/kap10\" class=\" reference\" href=\"/lov/1992-06-26-86/kap10\">tvangsfullbyrdelsesloven kapittel 10</a>.",
         "text": "Registrert panterett i elsertifikater er tvangsgrunnlag for tvangsdekning etter tvangsfullbyrdelsesloven kapittel 10."
     },
     {
@@ -558,6 +571,7 @@
         "html": "Departementet kan i forskrift fastsette nærmere regler om pant i elsertifikater.",
         "text": "Departementet kan i forskrift fastsette nærmere regler om pant i elsertifikater."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -585,15 +599,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den yngre rettigheten bygger på avtale og erververen av den yngre rettigheten ved registreringen kjente eller burde kjent til den eldre rettigheten, eller</td>\n</tr>",
-        "text": "a)den yngre rettigheten bygger på avtale og erververen av den yngre rettigheten ved registreringen kjente eller burde kjent til den eldre rettigheten, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den yngre rettigheten bygger på avtale og erververen av den yngre rettigheten ved registreringen kjente eller burde kjent til den eldre rettigheten, eller</td>\n</tr>",
+        "text": "a)\tden yngre rettigheten bygger på avtale og erververen av den yngre rettigheten ved registreringen kjente eller burde kjent til den eldre rettigheten, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den yngre rettigheten er ervervet ved arv.</td>\n</tr>",
-        "text": "b)den yngre rettigheten er ervervet ved arv."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den yngre rettigheten er ervervet ved arv.</td>\n</tr>",
+        "text": "b)\tden yngre rettigheten er ervervet ved arv."
     },
     {
         "tag": "p",
@@ -601,6 +615,7 @@
         "html": "Når en rettighet som er ervervet ved avtale er registrert, kan det ikke gjøres gjeldende mot kjøper at selgerens rett ikke var i samsvar med elsertifikatregisterets innhold. Dette gjelder ikke dersom kjøperen var eller burde være kjent med selgerens manglende rett da kjøpet ble registrert, eller ved konflikter mellom kolliderende rettigheter som nevnt i første og annet ledd.",
         "text": "Når en rettighet som er ervervet ved avtale er registrert, kan det ikke gjøres gjeldende mot kjøper at selgerens rett ikke var i samsvar med elsertifikatregisterets innhold. Dette gjelder ikke dersom kjøperen var eller burde være kjent med selgerens manglende rett da kjøpet ble registrert, eller ved konflikter mellom kolliderende rettigheter som nevnt i første og annet ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -639,6 +654,7 @@
         "text": "Kapittel 4. Elsertifikatplikt"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -659,21 +675,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver som leverer elektrisk energi til sluttbruker,</td>\n</tr>",
-        "text": "a)enhver som leverer elektrisk energi til sluttbruker,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver som leverer elektrisk energi til sluttbruker,</td>\n</tr>",
+        "text": "a)\tenhver som leverer elektrisk energi til sluttbruker,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver som forbruker elektrisk energi som er egenprodusert, og</td>\n</tr>",
-        "text": "b)enhver som forbruker elektrisk energi som er egenprodusert, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver som forbruker elektrisk energi som er egenprodusert, og</td>\n</tr>",
+        "text": "b)\tenhver som forbruker elektrisk energi som er egenprodusert, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale.</td>\n</tr>",
-        "text": "c)enhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale.</td>\n</tr>",
+        "text": "c)\tenhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale."
     },
     {
         "tag": "p",
@@ -681,6 +697,7 @@
         "html": "I tilfeller hvor kjøperen er elsertifikatpliktig etter bokstav c, er ikke selgeren elsertifikatpliktig.",
         "text": "I tilfeller hvor kjøperen er elsertifikatpliktig etter bokstav c, er ikke selgeren elsertifikatpliktig."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -707,6 +724,7 @@
         "text": "Beregningsår for elsertifikatkvotenElsertifikatkvoten20120,03020130,04920140,06920150,08820160,10820170,12720180,14620190,16520200,18320210,18220220,18120230,18020240,17920250,17620260,16420270,15120280,13220290,11320300,09420310,07520320,05620330,03720340,01820350,009"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -728,7 +746,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Som beregningsrelevant mengde etter første ledd anses leveranser som nevnt i Stortingets vedtak om forbruksavgift på elektrisk kraft § 1 slik det lyder for budsjetterminen 2011. Kongen fastsetter i forskrift nærmere regler om at kraftforbruk i kraftintensiv industriell virksomhet, eventuelt over et bestemt forbruksnivå, etter søknad ikke skal anses beregningsrelevant.",
+        "html": "Som beregningsrelevant mengde etter første ledd anses leveranser som nevnt i Stortingets vedtak om forbruksavgift på elektrisk kraft <a data-id=\"lov/2011-06-24-39/§1\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A71\">§ 1</a> slik det lyder for budsjetterminen 2011. Kongen fastsetter i forskrift nærmere regler om at kraftforbruk i kraftintensiv industriell virksomhet, eventuelt over et bestemt forbruksnivå, etter søknad ikke skal anses beregningsrelevant.",
         "text": "Som beregningsrelevant mengde etter første ledd anses leveranser som nevnt i Stortingets vedtak om forbruksavgift på elektrisk kraft § 1 slik det lyder for budsjetterminen 2011. Kongen fastsetter i forskrift nærmere regler om at kraftforbruk i kraftintensiv industriell virksomhet, eventuelt over et bestemt forbruksnivå, etter søknad ikke skal anses beregningsrelevant."
     },
     {
@@ -750,6 +768,7 @@
         "text": "Den elsertifikatpliktige kan ikke belaste sluttbrukere med kostnader knyttet til elsertifikater for forbruk som ikke er beregningsrelevant."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -765,15 +784,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som har elsertifikatplikt etter §§ 16 og 18, skal sende melding til departementet senest to uker etter at elsertifikatplikten inntrådte. Departementet kan etter forutgående varsel registrere aktører som ikke har meldt seg som elsertifikatpliktige.",
+        "html": "Den som har elsertifikatplikt etter <a data-id=\"lov/2011-06-24-39/§16\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A716\">§§ 16</a> og <a data-id=\"lov/2011-06-24-39/§18\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A718\">18</a>, skal sende melding til departementet senest to uker etter at elsertifikatplikten inntrådte. Departementet kan etter forutgående varsel registrere aktører som ikke har meldt seg som elsertifikatpliktige.",
         "text": "Den som har elsertifikatplikt etter §§ 16 og 18, skal sende melding til departementet senest to uker etter at elsertifikatplikten inntrådte. Departementet kan etter forutgående varsel registrere aktører som ikke har meldt seg som elsertifikatpliktige."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Etter søknad kan departementet fatte vedtak for elsertifikatpliktige aktører etter § 16 som avgjør om elektrisk energi anses beregningsrelevant etter § 18.",
+        "html": "Etter søknad kan departementet fatte vedtak for elsertifikatpliktige aktører etter <a data-id=\"lov/2011-06-24-39/§16\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A716\">§ 16</a> som avgjør om elektrisk energi anses beregningsrelevant etter <a data-id=\"lov/2011-06-24-39/§18\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A718\">§ 18</a>.",
         "text": "Etter søknad kan departementet fatte vedtak for elsertifikatpliktige aktører etter § 16 som avgjør om elektrisk energi anses beregningsrelevant etter § 18."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -790,7 +810,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den elsertifikatpliktige skal innen 1. mars hvert år rapportere til registeransvarlig all elektrisk energi som inngår i beregningen av elsertifikatplikten etter § 18, samt hvor mange elsertifikater som skal annulleres. Registeransvarlig rapporterer opplysningene videre til departementet.",
+        "html": "Den elsertifikatpliktige skal innen 1. mars hvert år rapportere til registeransvarlig all elektrisk energi som inngår i beregningen av elsertifikatplikten etter <a data-id=\"lov/2011-06-24-39/§18\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A718\">§ 18</a>, samt hvor mange elsertifikater som skal annulleres. Registeransvarlig rapporterer opplysningene videre til departementet.",
         "text": "Den elsertifikatpliktige skal innen 1. mars hvert år rapportere til registeransvarlig all elektrisk energi som inngår i beregningen av elsertifikatplikten etter § 18, samt hvor mange elsertifikater som skal annulleres. Registeransvarlig rapporterer opplysningene videre til departementet."
     },
     {
@@ -805,6 +825,7 @@
         "html": "Den elsertifikatpliktige skal oppbevare dokumentasjon for fastsettelsen av elsertifikatplikten i 10 år etter utløpet av det kalenderår elsertifikatplikten gjelder for.",
         "text": "Den elsertifikatpliktige skal oppbevare dokumentasjon for fastsettelsen av elsertifikatplikten i 10 år etter utløpet av det kalenderår elsertifikatplikten gjelder for."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -821,7 +842,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom det for den elsertifikatpliktige ikke annulleres tilstrekkelig antall elsertifikater etter § 20, ilegger departementet en avgift for hvert elsertifikat som mangler for å oppfylle elsertifikatplikten.",
+        "html": "Dersom det for den elsertifikatpliktige ikke annulleres tilstrekkelig antall elsertifikater etter <a data-id=\"lov/2011-06-24-39/§20\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A720\">§ 20</a>, ilegger departementet en avgift for hvert elsertifikat som mangler for å oppfylle elsertifikatplikten.",
         "text": "Dersom det for den elsertifikatpliktige ikke annulleres tilstrekkelig antall elsertifikater etter § 20, ilegger departementet en avgift for hvert elsertifikat som mangler for å oppfylle elsertifikatplikten."
     },
     {
@@ -830,6 +851,7 @@
         "html": "Endelig vedtak om ileggelse av avgift er tvangsgrunnlag for utlegg. Departementet fastsetter i forskrift nærmere regler om hvordan avgift for manglende oppfyllelse av elsertifikatplikten skal beregnes, ilegges og inndrives.",
         "text": "Endelig vedtak om ileggelse av avgift er tvangsgrunnlag for utlegg. Departementet fastsetter i forskrift nærmere regler om hvordan avgift for manglende oppfyllelse av elsertifikatplikten skal beregnes, ilegges og inndrives."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -855,6 +877,7 @@
         "html": "Kapittel 5. Forskjellige bestemmelser",
         "text": "Kapittel 5. Forskjellige bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -893,6 +916,7 @@
         "text": "Departementet har rett til tilgang til produksjonsanlegg, lokaler, områder tilhørende slikt produksjonsanlegg og den registeransvarliges lokaler i den utstrekning dette er nødvendig for å utøve tilsyn etter denne lov."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -908,9 +932,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom godkjenning som elsertifikatberettiget etter § 8 er gitt på grunnlag av uriktige eller villedende opplysninger, eller dersom produksjonsanlegget av andre årsaker ikke lenger oppfyller kravene til godkjenning, kan godkjenningen trekkes tilbake.",
+        "html": "Dersom godkjenning som elsertifikatberettiget etter <a data-id=\"lov/2011-06-24-39/§8\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A78\">§ 8</a> er gitt på grunnlag av uriktige eller villedende opplysninger, eller dersom produksjonsanlegget av andre årsaker ikke lenger oppfyller kravene til godkjenning, kan godkjenningen trekkes tilbake.",
         "text": "Dersom godkjenning som elsertifikatberettiget etter § 8 er gitt på grunnlag av uriktige eller villedende opplysninger, eller dersom produksjonsanlegget av andre årsaker ikke lenger oppfyller kravene til godkjenning, kan godkjenningen trekkes tilbake."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -930,6 +955,7 @@
         "html": "Departementet kan fatte vedtak om tvangsmulkt for å sikre at en plikt som følger av eller i medhold av denne lov, blir oppfylt. Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Tvangsmulkten tilfaller statskassen og er tvangsgrunnlag for utlegg. Departementet kan helt eller delvis frafalle påløpt tvangsmulkt.",
         "text": "Departementet kan fatte vedtak om tvangsmulkt for å sikre at en plikt som følger av eller i medhold av denne lov, blir oppfylt. Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Tvangsmulkten tilfaller statskassen og er tvangsgrunnlag for utlegg. Departementet kan helt eller delvis frafalle påløpt tvangsmulkt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -951,44 +977,44 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter § 8,</td>\n</tr>",
-        "text": "a)gir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter § 8,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter <a data-id=\"lov/2011-06-24-39/§8\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A78\">§ 8</a>,</td>\n</tr>",
+        "text": "a)\tgir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter § 8,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter §§ 9 og 10,</td>\n</tr>",
-        "text": "b)gir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter §§ 9 og 10,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter <a data-id=\"lov/2011-06-24-39/§9\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A79\">§§ 9</a> og <a data-id=\"lov/2011-06-24-39/§10\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A710\">10</a>,</td>\n</tr>",
+        "text": "b)\tgir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter §§ 9 og 10,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger etter §§ 12 eller 15 ved salg av elsertifikater,</td>\n</tr>",
-        "text": "c)gir uriktige eller villedende opplysninger etter §§ 12 eller 15 ved salg av elsertifikater,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger etter <a data-id=\"lov/2011-06-24-39/§12\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A712\">§§ 12</a> eller <a data-id=\"lov/2011-06-24-39/§15\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A715\">15</a> ved salg av elsertifikater,</td>\n</tr>",
+        "text": "c)\tgir uriktige eller villedende opplysninger etter §§ 12 eller 15 ved salg av elsertifikater,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av bestemmelser om oppbevaring av dokumentasjon etter § 10 sjette ledd eller § 20 tredje ledd,</td>\n</tr>",
-        "text": "d)overtrer eller medvirker til overtredelse av bestemmelser om oppbevaring av dokumentasjon etter § 10 sjette ledd eller § 20 tredje ledd,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av bestemmelser om oppbevaring av dokumentasjon etter <a data-id=\"lov/2011-06-24-39/§10\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A710\">§ 10</a> sjette ledd eller <a data-id=\"lov/2011-06-24-39/§20\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A720\">§ 20</a> tredje ledd,</td>\n</tr>",
+        "text": "d)\tovertrer eller medvirker til overtredelse av bestemmelser om oppbevaring av dokumentasjon etter § 10 sjette ledd eller § 20 tredje ledd,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av bestemmelsene om elsertifikatplikt i §§ 19, 20 eller 22, eller</td>\n</tr>",
-        "text": "e)overtrer eller medvirker til overtredelse av bestemmelsene om elsertifikatplikt i §§ 19, 20 eller 22, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av bestemmelsene om elsertifikatplikt i <a data-id=\"lov/2011-06-24-39/§19\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A719\">§§ 19</a>, <a data-id=\"lov/2011-06-24-39/§20\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A720\">20</a> eller <a data-id=\"lov/2011-06-24-39/§22\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A722\">22</a>, eller</td>\n</tr>",
+        "text": "e)\tovertrer eller medvirker til overtredelse av bestemmelsene om elsertifikatplikt i §§ 19, 20 eller 22, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av vedtak truffet etter §§ 18, 21 eller 23.</td>\n</tr>",
-        "text": "f)overtrer eller medvirker til overtredelse av vedtak truffet etter §§ 18, 21 eller 23."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av vedtak truffet etter <a data-id=\"lov/2011-06-24-39/§18\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A718\">§§ 18</a>, <a data-id=\"lov/2011-06-24-39/§21\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A721\">21</a> eller <a data-id=\"lov/2011-06-24-39/§23\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A723\">23</a>.</td>\n</tr>",
+        "text": "f)\tovertrer eller medvirker til overtredelse av vedtak truffet etter §§ 18, 21 eller 23."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Betalingsfristen for ilagt gebyr er fire uker fra vedtakstidspunktet. Ilagt gebyr er tvangsgrunnlag for utlegg. Krav på gebyr innkreves av Statens innkrevingssentral. Innkrevingssentralen kan inndrive kravet ved trekk i lønn og andre lignende ytelser etter reglene i dekningsloven § 2-7. Innkrevingssentralen kan også inndrive kravet ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til tredjeperson, jf. panteloven kapittel 5, og utleggsforretningen kan holdes på Innkrevingssentralens kontor etter tvangsfullbyrdelsesloven § 7-9 første ledd.",
+        "html": "Betalingsfristen for ilagt gebyr er fire uker fra vedtakstidspunktet. Ilagt gebyr er tvangsgrunnlag for utlegg. Krav på gebyr innkreves av Statens innkrevingssentral. Innkrevingssentralen kan inndrive kravet ved trekk i lønn og andre lignende ytelser etter reglene i <a data-id=\"lov/1984-06-08-59/§2-7\" class=\" reference\" href=\"/lov/1984-06-08-59/%C2%A72-7\">dekningsloven § 2-7</a>. Innkrevingssentralen kan også inndrive kravet ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til tredjeperson, jf. <a data-id=\"lov/1980-02-08-2/kap5\" class=\" reference\" href=\"/lov/1980-02-08-2/kap5\">panteloven kapittel 5</a>, og utleggsforretningen kan holdes på Innkrevingssentralens kontor etter <a data-id=\"lov/1992-06-26-86/§7-9\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A77-9\">tvangsfullbyrdelsesloven § 7-9</a> første ledd.",
         "text": "Betalingsfristen for ilagt gebyr er fire uker fra vedtakstidspunktet. Ilagt gebyr er tvangsgrunnlag for utlegg. Krav på gebyr innkreves av Statens innkrevingssentral. Innkrevingssentralen kan inndrive kravet ved trekk i lønn og andre lignende ytelser etter reglene i dekningsloven § 2-7. Innkrevingssentralen kan også inndrive kravet ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til tredjeperson, jf. panteloven kapittel 5, og utleggsforretningen kan holdes på Innkrevingssentralens kontor etter tvangsfullbyrdelsesloven § 7-9 første ledd."
     },
     {
@@ -1005,40 +1031,41 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet,</td>\n</tr>",
-        "text": "a)overtredelsens grovhet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet,</td>\n</tr>",
+        "text": "a)\tovertredelsens grovhet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen,</td>\n</tr>",
-        "text": "b)om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen,</td>\n</tr>",
+        "text": "b)\tom foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme foretakets interesser,</td>\n</tr>",
-        "text": "c)om overtredelsen er begått for å fremme foretakets interesser,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme foretakets interesser,</td>\n</tr>",
+        "text": "c)\tom overtredelsen er begått for å fremme foretakets interesser,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,</td>\n</tr>",
-        "text": "d)om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,</td>\n</tr>",
+        "text": "d)\tom foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentagelse, eller</td>\n</tr>",
-        "text": "e)om det foreligger gjentagelse, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentagelse, eller</td>\n</tr>",
+        "text": "e)\tom det foreligger gjentagelse, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretakets økonomiske evne.</td>\n</tr>",
-        "text": "f)foretakets økonomiske evne."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretakets økonomiske evne.</td>\n</tr>",
+        "text": "f)\tforetakets økonomiske evne."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1060,33 +1087,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter § 8,</td>\n</tr>",
-        "text": "a)gir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter § 8,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter <a data-id=\"lov/2011-06-24-39/§8\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A78\">§ 8</a>,</td>\n</tr>",
+        "text": "a)\tgir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter § 8,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter §§ 9 og 10,</td>\n</tr>",
-        "text": "b)gir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter §§ 9 og 10,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter <a data-id=\"lov/2011-06-24-39/§9\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A79\">§§ 9</a> og <a data-id=\"lov/2011-06-24-39/§10\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A710\">10</a>,</td>\n</tr>",
+        "text": "b)\tgir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter §§ 9 og 10,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktig eller villedende opplysninger etter §§ 12 eller 15 ved salg av elsertifikater,</td>\n</tr>",
-        "text": "c)gir uriktig eller villedende opplysninger etter §§ 12 eller 15 ved salg av elsertifikater,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktig eller villedende opplysninger etter <a data-id=\"lov/2011-06-24-39/§12\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A712\">§§ 12</a> eller <a data-id=\"lov/2011-06-24-39/§15\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A715\">15</a> ved salg av elsertifikater,</td>\n</tr>",
+        "text": "c)\tgir uriktig eller villedende opplysninger etter §§ 12 eller 15 ved salg av elsertifikater,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av bestemmelsene om elsertifikatplikt etter §§ 19, 20 eller 22, eller</td>\n</tr>",
-        "text": "d)overtrer eller medvirker til overtredelse av bestemmelsene om elsertifikatplikt etter §§ 19, 20 eller 22, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av bestemmelsene om elsertifikatplikt etter <a data-id=\"lov/2011-06-24-39/§19\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A719\">§§ 19</a>, <a data-id=\"lov/2011-06-24-39/§20\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A720\">20</a> eller <a data-id=\"lov/2011-06-24-39/§22\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A722\">22</a>, eller</td>\n</tr>",
+        "text": "d)\tovertrer eller medvirker til overtredelse av bestemmelsene om elsertifikatplikt etter §§ 19, 20 eller 22, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av vedtak i medhold av §§ 21 eller 23.</td>\n</tr>",
-        "text": "e)overtrer eller medvirker til overtredelse av vedtak i medhold av §§ 21 eller 23."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller medvirker til overtredelse av vedtak i medhold av <a data-id=\"lov/2011-06-24-39/§21\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A721\">§§ 21</a> eller <a data-id=\"lov/2011-06-24-39/§23\" class=\" reference\" href=\"/lov/2011-06-24-39/%C2%A723\">23</a>.</td>\n</tr>",
+        "text": "e)\tovertrer eller medvirker til overtredelse av vedtak i medhold av §§ 21 eller 23."
     },
     {
         "tag": "p",
@@ -1094,6 +1121,7 @@
         "html": "Medvirkning straffes på samme måte.",
         "text": "Medvirkning straffes på samme måte."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1119,6 +1147,7 @@
         "html": "Gebyrene er tvangsgrunnlag for utlegg.",
         "text": "Gebyrene er tvangsgrunnlag for utlegg."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1157,6 +1186,7 @@
         "text": "Ved skadelidtes medvirkning kan erstatningsansvaret nedsettes eller falle helt bort."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1182,6 +1212,7 @@
         "text": "Kapittel 6. Ikrafttredelses- og overgangsregler. Endringer i andre lover"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1200,6 +1231,7 @@
         "html": "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
         "text": "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1222,25 +1254,25 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "1. I lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs skal § 79 annet ledd nr. 5 og nytt nr. 6 lyde:",
+        "html": "1. I <a data-id=\"lov/1984-06-08-58\" class=\" reference\" href=\"/lov/1984-06-08-58\">lov 8. juni 1984 nr. 58</a> om gjeldsforhandling og konkurs skal <a data-id=\"lov/1984-06-08-58/§79\" class=\" reference\" href=\"/lov/1984-06-08-58/%C2%A779\">§ 79</a> annet ledd nr. 5 og nytt nr. 6 lyde:",
         "text": "1. I lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs skal § 79 annet ledd nr. 5 og nytt nr. 6 lyde:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Regnskapsregisteret, dersom skyldnerens virksomhet er innsendingspliktig,</td>\n</tr>",
-        "text": "5)Regnskapsregisteret, dersom skyldnerens virksomhet er innsendingspliktig,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Regnskapsregisteret, dersom skyldnerens virksomhet er innsendingspliktig,</td>\n</tr>",
+        "text": "5)\tRegnskapsregisteret, dersom skyldnerens virksomhet er innsendingspliktig,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Elsertifikatregisteret, dersom skyldneren innehar elsertifikatkonto.</td>\n</tr>",
-        "text": "6)Elsertifikatregisteret, dersom skyldneren innehar elsertifikatkonto."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Elsertifikatregisteret, dersom skyldneren innehar elsertifikatkonto.</td>\n</tr>",
+        "text": "6)\tElsertifikatregisteret, dersom skyldneren innehar elsertifikatkonto."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "2. I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse:",
+        "html": "2. I <a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse:",
         "text": "2. I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse:"
     },
     {

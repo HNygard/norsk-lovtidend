@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.87 (2008–2009), Innst.O.nr.114 (2008–2009) og Besl.O.nr.129 (2008–2009). Odels- og lagtingsvedtak hhv. 15. og 18. juni 2009. Fremmet av Kunnskapsdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-87-200809\" class=\" reference\" href=\"/forarbeid/otprp-87-200809\">Ot.prp.nr.87 (2008–2009)</a>, <a data-id=\"forarbeid/inns-o-114-200809\" class=\" reference\" href=\"/forarbeid/inns-o-114-200809\">Innst.O.nr.114 (2008–2009)</a> og <a data-id=\"forarbeid/besl-o-129-200809\" class=\" reference\" href=\"/forarbeid/besl-o-129-200809\">Besl.O.nr.129 (2008–2009)</a>. Odels- og lagtingsvedtak hhv. 15. og 18. juni 2009. Fremmet av Kunnskapsdepartementet.",
         "text": "Ot.prp.nr.87 (2008–2009), Innst.O.nr.114 (2008–2009) og Besl.O.nr.129 (2008–2009). Odels- og lagtingsvedtak hhv. 15. og 18. juni 2009. Fremmet av Kunnskapsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 28. mai 1976 nr. 35 om voksenopplæring.",
+        "html": "<a data-id=\"lov/1976-05-28-35\" class=\" reference\" href=\"/lov/1976-05-28-35\">Lov 28. mai 1976 nr. 35</a> om voksenopplæring.",
         "text": "Lov 28. mai 1976 nr. 35 om voksenopplæring."
     },
     {
@@ -25,15 +25,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova).</td>\n</tr>",
-        "text": "1Lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1998-07-17-61\" class=\" reference\" href=\"/lov/1998-07-17-61\">Lov 17. juli 1998 nr. 61</a> om grunnskolen og den vidaregåande opplæringa (opplæringslova).</td>\n</tr>",
+        "text": "1\tLov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot (privatskolelova).</td>\n</tr>",
-        "text": "2Lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot (privatskolelova)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2003-07-04-84\" class=\" reference\" href=\"/lov/2003-07-04-84\">Lov 4. juli 2003 nr. 84</a> om private skolar med rett til statstilskot (privatskolelova).</td>\n</tr>",
+        "text": "2\tLov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot (privatskolelova)."
     },
     {
         "tag": "h2",
@@ -41,6 +41,7 @@
         "html": "Kapittel 1. Formål og virkeområde",
         "text": "Kapittel 1. Formål og virkeområde"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -60,6 +61,7 @@
         "html": "Formålet med denne loven er å fremme livslang læring ved å legge til rette for organiserte læringsaktiviteter ved siden av det formelle utdanningssystemet. Loven skal bidra til motivasjon og tilgang til kunnskap og kompetanse for alle, og slik fremme den enkeltes utvikling og møte behovene i samfunns- og arbeidslivet.",
         "text": "Formålet med denne loven er å fremme livslang læring ved å legge til rette for organiserte læringsaktiviteter ved siden av det formelle utdanningssystemet. Loven skal bidra til motivasjon og tilgang til kunnskap og kompetanse for alle, og slik fremme den enkeltes utvikling og møte behovene i samfunns- og arbeidslivet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -82,7 +84,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven gjelder videre vilkår for statstilskudd for skoler som 30. juni 2010 er godkjent og i drift etter kapittel 6A i lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot (privatskolelova), jf. kapittel 4 i loven, og skoler som blir godkjent etter § 17 annet ledd i denne loven.",
+        "html": "Loven gjelder videre vilkår for statstilskudd for skoler som 30. juni 2010 er godkjent og i drift etter kapittel 6A i <a data-id=\"lov/2003-07-04-84\" class=\" reference\" href=\"/lov/2003-07-04-84\">lov 4. juli 2003 nr. 84</a> om private skolar med rett til statstilskot (privatskolelova), jf. kapittel 4 i loven, og skoler som blir godkjent etter § 17 annet ledd i <a data-id=\"lov/2009-06-19-95/§17\" class=\" reference\" href=\"/lov/2009-06-19-95/%C2%A717\">denne lov</a>en.",
         "text": "Loven gjelder videre vilkår for statstilskudd for skoler som 30. juni 2010 er godkjent og i drift etter kapittel 6A i lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot (privatskolelova), jf. kapittel 4 i loven, og skoler som blir godkjent etter § 17 annet ledd i denne loven."
     },
     {
@@ -91,6 +93,7 @@
         "html": "Kongen gir forskrifter om lovens anvendelse på Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold.",
         "text": "Kongen gir forskrifter om lovens anvendelse på Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -112,33 +115,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Studieforbund:</em> ideell og demokratisk organisasjon godkjent etter lovens § 5, som utfører oppgaver innenfor voksenopplæring, og som har flere medlemsorganisasjoner.</td>\n</tr>",
-        "text": "a)Studieforbund: ideell og demokratisk organisasjon godkjent etter lovens § 5, som utfører oppgaver innenfor voksenopplæring, og som har flere medlemsorganisasjoner."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Studieforbund:</em> ideell og demokratisk organisasjon godkjent etter <a data-id=\"lov/2009-06-19-95/§5\" class=\" reference\" href=\"/lov/2009-06-19-95/%C2%A75\">lovens § 5</a>, som utfører oppgaver innenfor voksenopplæring, og som har flere medlemsorganisasjoner.</td>\n</tr>",
+        "text": "a)\tStudieforbund: ideell og demokratisk organisasjon godkjent etter lovens § 5, som utfører oppgaver innenfor voksenopplæring, og som har flere medlemsorganisasjoner."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Samisk studieforbund:</em> studieforbund av og blant samer.</td>\n</tr>",
-        "text": "b)Samisk studieforbund: studieforbund av og blant samer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Samisk studieforbund:</em> studieforbund av og blant samer.</td>\n</tr>",
+        "text": "b)\tSamisk studieforbund: studieforbund av og blant samer."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Medlemsorganisasjon i studieforbund:</em> organisasjon som utfører oppgaver innenfor voksenopplæring, og som er medlem av et studieforbund, jf. § 5 bokstav f.</td>\n</tr>",
-        "text": "c)Medlemsorganisasjon i studieforbund: organisasjon som utfører oppgaver innenfor voksenopplæring, og som er medlem av et studieforbund, jf. § 5 bokstav f."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Medlemsorganisasjon i studieforbund:</em> organisasjon som utfører oppgaver innenfor voksenopplæring, og som er medlem av et studieforbund, jf. <a data-id=\"lov/2009-06-19-95/§5\" class=\" reference\" href=\"/lov/2009-06-19-95/%C2%A75\">§ 5</a> bokstav f.</td>\n</tr>",
+        "text": "c)\tMedlemsorganisasjon i studieforbund: organisasjon som utfører oppgaver innenfor voksenopplæring, og som er medlem av et studieforbund, jf. § 5 bokstav f."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Nettskole:</em> ideell virksomhet godkjent etter lovens § 13 som har fjernundervisning som hovedformål.</td>\n</tr>",
-        "text": "d)Nettskole: ideell virksomhet godkjent etter lovens § 13 som har fjernundervisning som hovedformål."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Nettskole:</em> ideell virksomhet godkjent etter <a data-id=\"lov/2009-06-19-95/§13\" class=\" reference\" href=\"/lov/2009-06-19-95/%C2%A713\">lovens § 13</a> som har fjernundervisning som hovedformål.</td>\n</tr>",
+        "text": "d)\tNettskole: ideell virksomhet godkjent etter lovens § 13 som har fjernundervisning som hovedformål."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Fjernundervisning:</em> opplæring ved fjernkommunikasjon hvor lærer og deltager er adskilt i rom eller tid.</td>\n</tr>",
-        "text": "e)Fjernundervisning: opplæring ved fjernkommunikasjon hvor lærer og deltager er adskilt i rom eller tid."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Fjernundervisning:</em> opplæring ved fjernkommunikasjon hvor lærer og deltager er adskilt i rom eller tid.</td>\n</tr>",
+        "text": "e)\tFjernundervisning: opplæring ved fjernkommunikasjon hvor lærer og deltager er adskilt i rom eller tid."
     },
     {
         "tag": "h2",
@@ -146,6 +149,7 @@
         "html": "Kapittel 2. Studieforbund",
         "text": "Kapittel 2. Studieforbund"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -167,40 +171,41 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å bidra til å vedlikeholde og styrke demokratiet og legge grunnlag for bærekraftig utvikling ved å engasjere og utvikle aktive medborgere.</td>\n</tr>",
-        "text": "a)Å bidra til å vedlikeholde og styrke demokratiet og legge grunnlag for bærekraftig utvikling ved å engasjere og utvikle aktive medborgere."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å bidra til å vedlikeholde og styrke demokratiet og legge grunnlag for bærekraftig utvikling ved å engasjere og utvikle aktive medborgere.</td>\n</tr>",
+        "text": "a)\tÅ bidra til å vedlikeholde og styrke demokratiet og legge grunnlag for bærekraftig utvikling ved å engasjere og utvikle aktive medborgere."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å gjøre det mulig for mennesker å påvirke egen livssituasjon.</td>\n</tr>",
-        "text": "b)Å gjøre det mulig for mennesker å påvirke egen livssituasjon."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å gjøre det mulig for mennesker å påvirke egen livssituasjon.</td>\n</tr>",
+        "text": "b)\tÅ gjøre det mulig for mennesker å påvirke egen livssituasjon."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å bekjempe utstøting og bidra til inkludering.</td>\n</tr>",
-        "text": "c)Å bekjempe utstøting og bidra til inkludering."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å bekjempe utstøting og bidra til inkludering.</td>\n</tr>",
+        "text": "c)\tÅ bekjempe utstøting og bidra til inkludering."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å bidra til motivasjon og tilgang til kunnskap og kompetanse for alle og slik møte behov i et samfunn og arbeidsliv i stadig endring.</td>\n</tr>",
-        "text": "d)Å bidra til motivasjon og tilgang til kunnskap og kompetanse for alle og slik møte behov i et samfunn og arbeidsliv i stadig endring."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å bidra til motivasjon og tilgang til kunnskap og kompetanse for alle og slik møte behov i et samfunn og arbeidsliv i stadig endring.</td>\n</tr>",
+        "text": "d)\tÅ bidra til motivasjon og tilgang til kunnskap og kompetanse for alle og slik møte behov i et samfunn og arbeidsliv i stadig endring."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å styrke kulturelt mangfold og øke deltagelse i kulturlivet.</td>\n</tr>",
-        "text": "e)Å styrke kulturelt mangfold og øke deltagelse i kulturlivet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å styrke kulturelt mangfold og øke deltagelse i kulturlivet.</td>\n</tr>",
+        "text": "e)\tÅ styrke kulturelt mangfold og øke deltagelse i kulturlivet."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å være en selvstendig arena for læring og et supplement til offentlige utdanningstilbud for voksne.</td>\n</tr>",
-        "text": "f)Å være en selvstendig arena for læring og et supplement til offentlige utdanningstilbud for voksne."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å være en selvstendig arena for læring og et supplement til offentlige utdanningstilbud for voksne.</td>\n</tr>",
+        "text": "f)\tÅ være en selvstendig arena for læring og et supplement til offentlige utdanningstilbud for voksne."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -223,44 +228,44 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I tillegg til å drive sin opplæringsvirksomhet i samsvar med § 4, må et studieforbund oppfylle følgende vilkår:",
+        "html": "I tillegg til å drive sin opplæringsvirksomhet i samsvar med <a data-id=\"lov/2009-06-19-95/§4\" class=\" reference\" href=\"/lov/2009-06-19-95/%C2%A74\">§ 4</a>, må et studieforbund oppfylle følgende vilkår:",
         "text": "I tillegg til å drive sin opplæringsvirksomhet i samsvar med § 4, må et studieforbund oppfylle følgende vilkår:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha opplæring som hovedformål, og ellers ha et ideelt formål.</td>\n</tr>",
-        "text": "a)Det må ha opplæring som hovedformål, og ellers ha et ideelt formål."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha opplæring som hovedformål, og ellers ha et ideelt formål.</td>\n</tr>",
+        "text": "a)\tDet må ha opplæring som hovedformål, og ellers ha et ideelt formål."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha betegnelsen «studieforbund» i navnet.</td>\n</tr>",
-        "text": "b)Det må ha betegnelsen «studieforbund» i navnet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha betegnelsen «studieforbund» i navnet.</td>\n</tr>",
+        "text": "b)\tDet må ha betegnelsen «studieforbund» i navnet."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha en demokratisk oppbygning.</td>\n</tr>",
-        "text": "c)Det må ha en demokratisk oppbygning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha en demokratisk oppbygning.</td>\n</tr>",
+        "text": "c)\tDet må ha en demokratisk oppbygning."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha virksomhet over hele landet, herunder en regional organisasjonsmessig forankring.</td>\n</tr>",
-        "text": "d)Det må ha virksomhet over hele landet, herunder en regional organisasjonsmessig forankring."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det må ha virksomhet over hele landet, herunder en regional organisasjonsmessig forankring.</td>\n</tr>",
+        "text": "d)\tDet må ha virksomhet over hele landet, herunder en regional organisasjonsmessig forankring."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Studieforbundets kursvirksomhet må utgjøre et minimumsnivå. Departementet fastsetter minimumsnivået, samt regler for rapportering, i forskrift.</td>\n</tr>",
-        "text": "e)Studieforbundets kursvirksomhet må utgjøre et minimumsnivå. Departementet fastsetter minimumsnivået, samt regler for rapportering, i forskrift."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Studieforbundets kursvirksomhet må utgjøre et minimumsnivå. Departementet fastsetter minimumsnivået, samt regler for rapportering, i forskrift.</td>\n</tr>",
+        "text": "e)\tStudieforbundets kursvirksomhet må utgjøre et minimumsnivå. Departementet fastsetter minimumsnivået, samt regler for rapportering, i forskrift."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Studieforbundet må ha et minimum antall medlemsorganisasjoner. Departementet fastsetter minimumstallet i forskrift.</td>\n</tr>",
-        "text": "f)Studieforbundet må ha et minimum antall medlemsorganisasjoner. Departementet fastsetter minimumstallet i forskrift."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Studieforbundet må ha et minimum antall medlemsorganisasjoner. Departementet fastsetter minimumstallet i forskrift.</td>\n</tr>",
+        "text": "f)\tStudieforbundet må ha et minimum antall medlemsorganisasjoner. Departementet fastsetter minimumstallet i forskrift."
     },
     {
         "tag": "p",
@@ -268,6 +273,7 @@
         "html": "Hva gjelder bestemmelsene i bokstavene d, e og f i annet ledd, fastsetter departementet i forskrift egne krav for samiske studieforbund. Hva gjelder bestemmelsen i bokstav e i annet ledd, fastsetter departementet i forskrift egne krav for politiske partiers studieforbund.",
         "text": "Hva gjelder bestemmelsene i bokstavene d, e og f i annet ledd, fastsetter departementet i forskrift egne krav for samiske studieforbund. Hva gjelder bestemmelsen i bokstav e i annet ledd, fastsetter departementet i forskrift egne krav for politiske partiers studieforbund."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -295,21 +301,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Grunntilskudd.</td>\n</tr>",
-        "text": "a)Grunntilskudd."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Grunntilskudd.</td>\n</tr>",
+        "text": "a)\tGrunntilskudd."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Opplæringstilskudd.</td>\n</tr>",
-        "text": "b)Opplæringstilskudd."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Opplæringstilskudd.</td>\n</tr>",
+        "text": "b)\tOpplæringstilskudd."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Tilretteleggingstilskudd.</td>\n</tr>",
-        "text": "c)Tilretteleggingstilskudd."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Tilretteleggingstilskudd.</td>\n</tr>",
+        "text": "c)\tTilretteleggingstilskudd."
     },
     {
         "tag": "p",
@@ -330,6 +336,7 @@
         "text": "Kommuner og fylkeskommuner kan gi tilskudd til studieforbund ut fra kommunale og fylkeskommunale planer."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -348,6 +355,7 @@
         "html": "Undervisningslokaler der driftsutgiftene dekkes av det offentlige, skal etter søknad stilles vederlagsfritt til disposisjon for studieforbund og medlemsorganisasjoner ved avholdelse av kurs med tilskudd etter kapittel 2 i loven. Departementet gir nærmere forskrifter.",
         "text": "Undervisningslokaler der driftsutgiftene dekkes av det offentlige, skal etter søknad stilles vederlagsfritt til disposisjon for studieforbund og medlemsorganisasjoner ved avholdelse av kurs med tilskudd etter kapittel 2 i loven. Departementet gir nærmere forskrifter."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -368,6 +376,7 @@
         "text": "Fellesorgan for studieforbund kan etter søknad få tilskudd til drift, samt til samordningsoppgaver overfor studieforbundene og oppgaver for departementet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -383,9 +392,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Betegnelsen studieforbund kan bare benyttes som navn av organisasjoner som er godkjent som studieforbund etter loven, jf. § 5.",
+        "html": "Betegnelsen studieforbund kan bare benyttes som navn av organisasjoner som er godkjent som studieforbund etter loven, jf. <a data-id=\"lov/2009-06-19-95/§5\" class=\" reference\" href=\"/lov/2009-06-19-95/%C2%A75\">§ 5</a>.",
         "text": "Betegnelsen studieforbund kan bare benyttes som navn av organisasjoner som er godkjent som studieforbund etter loven, jf. § 5."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -406,6 +416,7 @@
         "text": "Deltagere på kurs med tilskudd etter kapittel 2 i loven skal ha dokumentasjon på gjennomført opplæring. Departementet gir nærmere forskrifter."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -424,6 +435,7 @@
         "html": "Departementet fører tilsyn og kontroll med virksomhet som hører under dette kapittel, og skal i den sammenheng ha tilgang til relevant dokumentasjon.",
         "text": "Departementet fører tilsyn og kontroll med virksomhet som hører under dette kapittel, og skal i den sammenheng ha tilgang til relevant dokumentasjon."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -453,8 +465,9 @@
         "tag": "h2",
         "class": "",
         "html": " Kapittel 3. Nettskoler",
-        "text": "Kapittel 3. Nettskoler"
+        "text": " Kapittel 3. Nettskoler"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -488,22 +501,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å utvikle fjernundervisning som opplæringsmetode.</td>\n</tr>",
-        "text": "a)Å utvikle fjernundervisning som opplæringsmetode."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å utvikle fjernundervisning som opplæringsmetode.</td>\n</tr>",
+        "text": "a)\tÅ utvikle fjernundervisning som opplæringsmetode."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å gi tilgang til fleksibel og kvalitetssikret opplæring for å møte den enkeltes behov i samfunns- og arbeidsliv.</td>\n</tr>",
-        "text": "b)Å gi tilgang til fleksibel og kvalitetssikret opplæring for å møte den enkeltes behov i samfunns- og arbeidsliv."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å gi tilgang til fleksibel og kvalitetssikret opplæring for å møte den enkeltes behov i samfunns- og arbeidsliv.</td>\n</tr>",
+        "text": "b)\tÅ gi tilgang til fleksibel og kvalitetssikret opplæring for å møte den enkeltes behov i samfunns- og arbeidsliv."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å utvikle opplæringstilbud tilrettelagt for den enkelte ut fra forutsetninger og behov.</td>\n</tr>",
-        "text": "c)Å utvikle opplæringstilbud tilrettelagt for den enkelte ut fra forutsetninger og behov."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Å utvikle opplæringstilbud tilrettelagt for den enkelte ut fra forutsetninger og behov.</td>\n</tr>",
+        "text": "c)\tÅ utvikle opplæringstilbud tilrettelagt for den enkelte ut fra forutsetninger og behov."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -530,6 +544,7 @@
         "text": "Departementet kan gi forskrift om kriterier for tilskudd, behandling av tilskuddssøknader, rapportering og kontroll."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -548,6 +563,7 @@
         "html": "Departementet fører tilsyn og kontroll med virksomhet som hører under dette kapittel, og skal i den sammenheng ha tilgang til relevant dokumentasjon.",
         "text": "Departementet fører tilsyn og kontroll med virksomhet som hører under dette kapittel, og skal i den sammenheng ha tilgang til relevant dokumentasjon."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -577,8 +593,9 @@
         "tag": "h2",
         "class": "",
         "html": " Kapittel 4. Diverse skoler",
-        "text": "Kapittel 4. Diverse skoler"
+        "text": " Kapittel 4. Diverse skoler"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -595,7 +612,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Skoler som 30. juni 2010 er godkjent og i drift etter kapittel 6A i lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot (privatskoleloven), har rett til statstilskudd og til å drive virksomhet etter dette kapitlet.",
+        "html": "Skoler som 30. juni 2010 er godkjent og i drift etter kapittel 6A i <a data-id=\"lov/2003-07-04-84\" class=\" reference\" href=\"/lov/2003-07-04-84\">lov 4. juli 2003 nr. 84</a> om private skolar med rett til statstilskot (privatskoleloven), har rett til statstilskudd og til å drive virksomhet etter dette kapitlet.",
         "text": "Skoler som 30. juni 2010 er godkjent og i drift etter kapittel 6A i lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot (privatskoleloven), har rett til statstilskudd og til å drive virksomhet etter dette kapitlet."
     },
     {
@@ -616,6 +633,7 @@
         "html": "Departementet kan gi forskrift om kjøp av opplæringstjenester.",
         "text": "Departementet kan gi forskrift om kjøp av opplæringstjenester."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -648,6 +666,7 @@
         "text": "Departementet kan gi forskrift om et nasjonalt kvalifikasjonsrammeverk."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -675,9 +694,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved avgjørelse etter disse reglene gjelder forvaltningsloven. Avgjørelse om inntak er enkeltvedtak, jf. forvaltningsloven § 2. Departementet er klageinstans.",
+        "html": "Ved avgjørelse etter disse reglene gjelder forvaltningsloven. Avgjørelse om inntak er enkeltvedtak, jf. <a data-id=\"lov/1967-02-10/§2\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A72\">forvaltningsloven § 2</a>. Departementet er klageinstans.",
         "text": "Ved avgjørelse etter disse reglene gjelder forvaltningsloven. Avgjørelse om inntak er enkeltvedtak, jf. forvaltningsloven § 2. Departementet er klageinstans."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -706,9 +726,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved ansettelse gjelder arbeidsmiljøloven §§ 13-3 og 13-4 og diskrimineringsloven §§ 4 og 7.",
+        "html": "Ved ansettelse gjelder <a data-id=\"lov/2005-06-17-62/§13-3\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A713-3\">arbeidsmiljøloven §§ 13-3</a> og <a data-id=\"lov/2005-06-17-62/§13-4\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A713-4\">13-4</a> og <a data-id=\"lov/2017-06-16-51/§4\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A74\">diskrimineringsloven §§ 4</a> og 7.",
         "text": "Ved ansettelse gjelder arbeidsmiljøloven §§ 13-3 og 13-4 og diskrimineringsloven §§ 4 og 7."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -728,6 +749,7 @@
         "html": "Styret fastsetter de ansattes lønns- og arbeidsvilkår.",
         "text": "Styret fastsetter de ansattes lønns- og arbeidsvilkår."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -762,9 +784,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forvaltningsloven gjelder ved vedtak etter denne paragraf. Avgjørelse om bortvisning er enkeltvedtak, jf. forvaltningsloven § 2. Departementet er klageinstans.",
+        "html": "Forvaltningsloven gjelder ved vedtak etter denne paragraf. Avgjørelse om bortvisning er enkeltvedtak, jf. <a data-id=\"lov/1967-02-10/§2\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A72\">forvaltningsloven § 2</a>. Departementet er klageinstans.",
         "text": "Forvaltningsloven gjelder ved vedtak etter denne paragraf. Avgjørelse om bortvisning er enkeltvedtak, jf. forvaltningsloven § 2. Departementet er klageinstans."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -786,15 +809,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gi utbytte eller på annen måte overføre overskudd til eierne eller deres nærstående, verken når skolen er i drift eller når driften blir nedlagt</td>\n</tr>",
-        "text": "a)gi utbytte eller på annen måte overføre overskudd til eierne eller deres nærstående, verken når skolen er i drift eller når driften blir nedlagt"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gi utbytte eller på annen måte overføre overskudd til eierne eller deres nærstående, verken når skolen er i drift eller når driften blir nedlagt</td>\n</tr>",
+        "text": "a)\tgi utbytte eller på annen måte overføre overskudd til eierne eller deres nærstående, verken når skolen er i drift eller når driften blir nedlagt"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pådra seg kostnader i form av leieutgifter for eiendom eller lokale som tilhører skolens eiere eller deres nærstående, eller på annen måte pådra seg kostnader som kan innebære at alle offentlige tilskudd eller eiendeler fra elevene ikke kommer elevene til gode.</td>\n</tr>",
-        "text": "b)pådra seg kostnader i form av leieutgifter for eiendom eller lokale som tilhører skolens eiere eller deres nærstående, eller på annen måte pådra seg kostnader som kan innebære at alle offentlige tilskudd eller eiendeler fra elevene ikke kommer elevene til gode."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pådra seg kostnader i form av leieutgifter for eiendom eller lokale som tilhører skolens eiere eller deres nærstående, eller på annen måte pådra seg kostnader som kan innebære at alle offentlige tilskudd eller eiendeler fra elevene ikke kommer elevene til gode.</td>\n</tr>",
+        "text": "b)\tpådra seg kostnader i form av leieutgifter for eiendom eller lokale som tilhører skolens eiere eller deres nærstående, eller på annen måte pådra seg kostnader som kan innebære at alle offentlige tilskudd eller eiendeler fra elevene ikke kommer elevene til gode."
     },
     {
         "tag": "p",
@@ -821,6 +844,7 @@
         "text": "Skolene kan pålegge elevene å holde seg med undervisningsmateriell og utstyr til eget bruk som opplæringen normalt gjør det nødvendig å ha, og de kan kreve betaling fra elevene for utgifter til å kopiere slikt materiell. Skolene kan ikke kreve noen form for betaling for opplæringen fra elever utover det som følger av denne bestemmelsen eller forskrift gitt i medhold av denne bestemmelsen. Departementet gir nærmere forskrift om adgangen til å ta betaling for opplæringen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -836,75 +860,76 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Følgende bestemmelser i privatskoleloven gjelder så langt de passer for skoler etter kapittel 4:",
+        "html": "Følgende bestemmelser i privatskoleloven gjelder så langt de passer for skoler etter <a data-id=\"lov/2009-06-19-95/kap4\" class=\" reference\" href=\"/lov/2009-06-19-95/kap4\">kapittel 4</a>:",
         "text": "Følgende bestemmelser i privatskoleloven gjelder så langt de passer for skoler etter kapittel 4:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 2-2 om krav til virksomheten til skolen, med unntak av tredje ledd. Dersom en skole etter kapittel 4 har færre enn 10 elever tre skoleår i sammenheng, faller godkjenningen bort.</td>\n</tr>",
-        "text": "-§ 2-2 om krav til virksomheten til skolen, med unntak av tredje ledd. Dersom en skole etter kapittel 4 har færre enn 10 elever tre skoleår i sammenheng, faller godkjenningen bort."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 2-2 om krav til virksomheten til skolen, med unntak av tredje ledd. Dersom en skole etter <a data-id=\"lov/2009-06-19-95/kap4\" class=\" reference\" href=\"/lov/2009-06-19-95/kap4\">kapittel 4</a> har færre enn 10 elever tre skoleår i sammenheng, faller godkjenningen bort.</td>\n</tr>",
+        "text": "-\t§ 2-2 om krav til virksomheten til skolen, med unntak av tredje ledd. Dersom en skole etter kapittel 4 har færre enn 10 elever tre skoleår i sammenheng, faller godkjenningen bort."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 2-4 om krav til skoleanlegg og skolemiljø</td>\n</tr>",
-        "text": "-§ 2-4 om krav til skoleanlegg og skolemiljø"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 2-4 om krav til skoleanlegg og skolemiljø</td>\n</tr>",
+        "text": "-\t§ 2-4 om krav til skoleanlegg og skolemiljø"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 3-3 tredje ledd om skolegangen</td>\n</tr>",
-        "text": "-§ 3-3 tredje ledd om skolegangen"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 3-3 tredje ledd om skolegangen</td>\n</tr>",
+        "text": "-\t§ 3-3 tredje ledd om skolegangen"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 3-4 om tilpasset opplæring og organisering av elevene i grupper, med unntak av tredje ledd</td>\n</tr>",
-        "text": "-§ 3-4 om tilpasset opplæring og organisering av elevene i grupper, med unntak av tredje ledd"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 3-4 om tilpasset opplæring og organisering av elevene i grupper, med unntak av tredje ledd</td>\n</tr>",
+        "text": "-\t§ 3-4 om tilpasset opplæring og organisering av elevene i grupper, med unntak av tredje ledd"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 3-9 om ordensreglement og lignende</td>\n</tr>",
-        "text": "-§ 3-9 om ordensreglement og lignende"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 3-9 om ordensreglement og lignende</td>\n</tr>",
+        "text": "-\t§ 3-9 om ordensreglement og lignende"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 4-1 om ledelse</td>\n</tr>",
-        "text": "-§ 4-1 om ledelse"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 4-1 om ledelse</td>\n</tr>",
+        "text": "-\t§ 4-1 om ledelse"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 5-1 om styret, med unntak av bokstavene a og c</td>\n</tr>",
-        "text": "-§ 5-1 om styret, med unntak av bokstavene a og c"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 5-1 om styret, med unntak av bokstavene a og c</td>\n</tr>",
+        "text": "-\t§ 5-1 om styret, med unntak av bokstavene a og c"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 5-2 om styrets oppgaver, med unntak av bokstavene a og e</td>\n</tr>",
-        "text": "-§ 5-2 om styrets oppgaver, med unntak av bokstavene a og e"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 5-2 om styrets oppgaver, med unntak av bokstavene a og e</td>\n</tr>",
+        "text": "-\t§ 5-2 om styrets oppgaver, med unntak av bokstavene a og e"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 5-3 om elevråd, med unntak av første ledd første og annet punktum</td>\n</tr>",
-        "text": "-§ 5-3 om elevråd, med unntak av første ledd første og annet punktum"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 5-3 om elevråd, med unntak av første ledd første og annet punktum</td>\n</tr>",
+        "text": "-\t§ 5-3 om elevråd, med unntak av første ledd første og annet punktum"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 7-1 om budsjett, regnskap og rapportering</td>\n</tr>",
-        "text": "-§ 7-1 om budsjett, regnskap og rapportering"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 7-1 om budsjett, regnskap og rapportering</td>\n</tr>",
+        "text": "-\t§ 7-1 om budsjett, regnskap og rapportering"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 7-3 om taushetsplikt.</td>\n</tr>",
-        "text": "-§ 7-3 om taushetsplikt."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">§ 7-3 om taushetsplikt.</td>\n</tr>",
+        "text": "-\t§ 7-3 om taushetsplikt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -936,6 +961,7 @@
         "html": "Departementet kan gi forskrift som pålegger de ansvarlige for opplæringsvirksomheten og de som får opplæring, å gi opplysninger og delta i evalueringer og rapportere om forhold som er av betydning for evaluering av opplæringsvirksomheten.",
         "text": "Departementet kan gi forskrift som pålegger de ansvarlige for opplæringsvirksomheten og de som får opplæring, å gi opplysninger og delta i evalueringer og rapportere om forhold som er av betydning for evaluering av opplæringsvirksomheten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -970,9 +996,10 @@
     {
         "tag": "h2",
         "class": "",
-        "html": "Kapittel 5. Avsluttende bestemmelser",
-        "text": "Kapittel 5. Avsluttende bestemmelser"
+        "html": " Kapittel 5. Avsluttende bestemmelser",
+        "text": " Kapittel 5. Avsluttende bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -989,15 +1016,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Studieforbund som er godkjent etter lov 28. mai 1976 nr. 35 om voksenopplæring (voksenopplæringsloven), beholder sin godkjenning i 3 år etter at denne loven trer i kraft, jf. § 31. Departementet kan etter søknad gi særskilt tilskudd til sammenslåing av studieforbund.",
+        "html": "Studieforbund som er godkjent etter <a data-id=\"lov/1976-05-28-35\" class=\" reference\" href=\"/lov/1976-05-28-35\">lov 28. mai 1976 nr. 35</a> om voksenopplæring (voksenopplæringsloven), beholder sin godkjenning i 3 år etter at denne loven trer i kraft, jf. § 31. Departementet kan etter søknad gi særskilt tilskudd til sammenslåing av studieforbund.",
         "text": "Studieforbund som er godkjent etter lov 28. mai 1976 nr. 35 om voksenopplæring (voksenopplæringsloven), beholder sin godkjenning i 3 år etter at denne loven trer i kraft, jf. § 31. Departementet kan etter søknad gi særskilt tilskudd til sammenslåing av studieforbund."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Frittstående fjernundervisningsinstitusjoner som er godkjent etter lov 28. mai 1976 nr. 35 om voksenopplæring (voksenopplæringsloven), skal betegnes godkjente nettskoler etter at denne loven trer i kraft, jf. § 31, men beholder for øvrig sin godkjenning.",
+        "html": "Frittstående fjernundervisningsinstitusjoner som er godkjent etter <a data-id=\"lov/1976-05-28-35\" class=\" reference\" href=\"/lov/1976-05-28-35\">lov 28. mai 1976 nr. 35</a> om voksenopplæring (voksenopplæringsloven), skal betegnes godkjente nettskoler etter at denne loven trer i kraft, jf. § 31, men beholder for øvrig sin godkjenning.",
         "text": "Frittstående fjernundervisningsinstitusjoner som er godkjent etter lov 28. mai 1976 nr. 35 om voksenopplæring (voksenopplæringsloven), skal betegnes godkjente nettskoler etter at denne loven trer i kraft, jf. § 31, men beholder for øvrig sin godkjenning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1020,9 +1048,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kapittel 4 trer i kraft 1. juli 2010.",
+        "html": "<a data-id=\"lov/2009-06-19-95/kap4\" class=\" reference\" href=\"/lov/2009-06-19-95/kap4\">Kapittel</a> 4 trer i kraft 1. juli 2010.",
         "text": "Kapittel 4 trer i kraft 1. juli 2010."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1045,13 +1074,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "1) Lov 28. mai 1976 nr. 35 om voksenopplæring oppheves.",
+        "html": "1) <a data-id=\"lov/1976-05-28-35\" class=\" reference\" href=\"/lov/1976-05-28-35\">Lov 28. mai 1976 nr. 35</a> om voksenopplæring oppheves.",
         "text": "1) Lov 28. mai 1976 nr. 35 om voksenopplæring oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "2) I lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa skal § 4A-4 annet ledd lyde:",
+        "html": "2) I <a data-id=\"lov/1998-07-17-61\" class=\" reference\" href=\"/lov/1998-07-17-61\">lov 17. juli 1998 nr. 61</a> om grunnskolen og den vidaregåande opplæringa skal <a data-id=\"lov/1998-07-17-61/§4a-4\" class=\" reference\" href=\"/lov/1998-07-17-61/%C2%A74a-4\">§ 4A-4</a> annet ledd lyde:",
         "text": "2) I lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa skal § 4A-4 annet ledd lyde:"
     },
     {
@@ -1063,7 +1092,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "3) I lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot gjøres følgende endringer:",
+        "html": "3) I <a data-id=\"lov/2003-07-04-84\" class=\" reference\" href=\"/lov/2003-07-04-84\">lov 4. juli 2003 nr. 84</a> om private skolar med rett til statstilskot gjøres følgende endringer:",
         "text": "3) I lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot gjøres følgende endringer:"
     },
     {
@@ -1075,13 +1104,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lova gjeld ikkje skolar som er omfatta av folkehøyskoleloven, fagskoleloven, voksenopplæringsloven eller skolar som driv verksemda si etter opplæringslova § 2-12. Lova gjeld heller ikkje skolar som blir drivne av politiske grupper eller parti på partipolitisk grunnlag.",
+        "html": "Lova gjeld ikkje skolar som er omfatta av folkehøyskoleloven, fagskoleloven, voksenopplæringsloven eller skolar som driv verksemda si etter <a data-id=\"lov/1998-07-17-61/§2-12\" class=\" reference\" href=\"/lov/1998-07-17-61/%C2%A72-12\">opplæringslova § 2-12</a>. Lova gjeld heller ikkje skolar som blir drivne av politiske grupper eller parti på partipolitisk grunnlag.",
         "text": "Lova gjeld ikkje skolar som er omfatta av folkehøyskoleloven, fagskoleloven, voksenopplæringsloven eller skolar som driv verksemda si etter opplæringslova § 2-12. Lova gjeld heller ikkje skolar som blir drivne av politiske grupper eller parti på partipolitisk grunnlag."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 6-1 femte ledd siste punktum oppheves.",
+        "html": "<a data-id=\"lov/2003-07-04-84/§6-1\" class=\" reference\" href=\"/lov/2003-07-04-84/%C2%A76-1\">§ 6-1</a> femte ledd siste punktum oppheves.",
         "text": "§ 6-1 femte ledd siste punktum oppheves."
     }
 ]

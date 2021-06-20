@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.26 (2003–2004), Innst.O.nr.53 (2003–2004) og Besl.O.nr.61 (2003–2004). Odels- og lagtingsvedtak hhv. 12. og 30. mars 2004. Fremmet av Kommunal- og regionaldepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-26-200304\" class=\" reference\" href=\"/forarbeid/otprp-26-200304\">Ot.prp.nr.26 (2003–2004)</a>, <a data-id=\"forarbeid/inns-o-53-200304\" class=\" reference\" href=\"/forarbeid/inns-o-53-200304\">Innst.O.nr.53 (2003–2004)</a> og <a data-id=\"forarbeid/besl-o-61-200304\" class=\" reference\" href=\"/forarbeid/besl-o-61-200304\">Besl.O.nr.61 (2003–2004)</a>. Odels- og lagtingsvedtak hhv. 12. og 30. mars 2004. Fremmet av Kommunal- og regionaldepartementet.",
         "text": "Ot.prp.nr.26 (2003–2004), Innst.O.nr.53 (2003–2004) og Besl.O.nr.61 (2003–2004). Odels- og lagtingsvedtak hhv. 12. og 30. mars 2004. Fremmet av Kommunal- og regionaldepartementet."
     },
     {
@@ -14,13 +14,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (sameloven) skal § 2-6 lyde:",
+        "html": "I <a data-id=\"lov/1987-06-12-56\" class=\" reference\" href=\"/lov/1987-06-12-56\">lov 12. juni 1987 nr. 56</a> om Sametinget og andre samiske rettsforhold (sameloven) skal <a data-id=\"lov/1987-06-12-56/§2-6\" class=\" reference\" href=\"/lov/1987-06-12-56/%C2%A72-6\">§ 2-6</a> lyde:",
         "text": "I lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (sameloven) skal § 2-6 lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 2-6. <em class=\" \">Samemanntallet</em>",
+        "html": "<a data-id=\"lov/1987-06-12-56/§2-6\" class=\" reference\" href=\"/lov/1987-06-12-56/%C2%A72-6\">§ 2-6</a>. <em class=\" \">Samemanntallet</em>",
         "text": "§ 2-6. Samemanntallet"
     },
     {
@@ -31,21 +31,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har samisk som hjemmespråk, eller</td>\n</tr>",
-        "text": "a)har samisk som hjemmespråk, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har samisk som hjemmespråk, eller</td>\n</tr>",
+        "text": "a)\thar samisk som hjemmespråk, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har eller har hatt forelder, besteforelder eller oldeforelder med samisk som hjemmespråk, eller</td>\n</tr>",
-        "text": "b)har eller har hatt forelder, besteforelder eller oldeforelder med samisk som hjemmespråk, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har eller har hatt forelder, besteforelder eller oldeforelder med samisk som hjemmespråk, eller</td>\n</tr>",
+        "text": "b)\thar eller har hatt forelder, besteforelder eller oldeforelder med samisk som hjemmespråk, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er barn av person som står eller har stått i manntallet</td>\n</tr>",
-        "text": "c)er barn av person som står eller har stått i manntallet"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er barn av person som står eller har stått i manntallet</td>\n</tr>",
+        "text": "c)\ter barn av person som står eller har stått i manntallet"
     },
     {
         "tag": "p",

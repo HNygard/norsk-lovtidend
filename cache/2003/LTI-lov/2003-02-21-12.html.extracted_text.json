@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.56 (2001–2002), Innst.O.nr.52 (2002–2003) og Besl.O.nr.58 (2002–2003). Odels- og lagtingsvedtak hhv. 23. og 28. januar 2003. Fremmet av Helsedepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-56-200102\" class=\" reference\" href=\"/forarbeid/otprp-56-200102\">Ot.prp.nr.56 (2001–2002)</a>, <a data-id=\"forarbeid/inns-o-52-200203\" class=\" reference\" href=\"/forarbeid/inns-o-52-200203\">Innst.O.nr.52 (2002–2003)</a> og <a data-id=\"forarbeid/besl-o-58-200203\" class=\" reference\" href=\"/forarbeid/besl-o-58-200203\">Besl.O.nr.58 (2002–2003)</a>. Odels- og lagtingsvedtak hhv. 23. og 28. januar 2003. Fremmet av Helsedepartementet.",
         "text": "Ot.prp.nr.56 (2001–2002), Innst.O.nr.52 (2002–2003) og Besl.O.nr.58 (2002–2003). Odels- og lagtingsvedtak hhv. 23. og 28. januar 2003. Fremmet av Helsedepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m.",
+        "html": "<a data-id=\"lov/1973-02-09-6\" class=\" reference\" href=\"/lov/1973-02-09-6\">Lov av 9. februar 1973 nr. 6</a> om transplantasjon, sykehusobduksjon og avgivelse av lik m.m.",
         "text": "Lov av 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m."
     },
     {
@@ -23,6 +23,7 @@
         "html": "Kapittel 1 Lovens formål, definisjoner og virkeområde",
         "text": "Kapittel 1 Lovens formål, definisjoner og virkeområde"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -48,6 +49,7 @@
         "html": "Loven skal legge til rette for at materialet i biobanken kan benyttes til helsemessige formål, herunder diagnostikk, behandling, forskning og undervisning, på en etisk forsvarlig måte.",
         "text": "Loven skal legge til rette for at materialet i biobanken kan benyttes til helsemessige formål, herunder diagnostikk, behandling, forskning og undervisning, på en etisk forsvarlig måte."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -85,6 +87,7 @@
         "html": "Med giver forstås i denne lov en person som avgir biologisk materiale til en diagnostisk biobank, behandlingsbiobank eller en forskningsbiobank.",
         "text": "Med giver forstås i denne lov en person som avgir biologisk materiale til en diagnostisk biobank, behandlingsbiobank eller en forskningsbiobank."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -129,6 +132,7 @@
         "text": "Kapittel 2 Melding og organisering av biobanker"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -149,51 +153,51 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formålet med opprettelsen,</td>\n</tr>",
-        "text": "1.formålet med opprettelsen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formålet med opprettelsen,</td>\n</tr>",
+        "text": "1.\tformålet med opprettelsen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hva slags materiale den skal inneholde og hvordan materialet innhentes,</td>\n</tr>",
-        "text": "2.hva slags materiale den skal inneholde og hvordan materialet innhentes,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hva slags materiale den skal inneholde og hvordan materialet innhentes,</td>\n</tr>",
+        "text": "2.\thva slags materiale den skal inneholde og hvordan materialet innhentes,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,</td>\n</tr>",
-        "text": "3.hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,</td>\n</tr>",
+        "text": "3.\thvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,</td>\n</tr>",
-        "text": "4.hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,</td>\n</tr>",
+        "text": "4.\thvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,</td>\n</tr>",
-        "text": "5.biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,</td>\n</tr>",
+        "text": "5.\tbiobankens varighet og hva som skal skje med materialet ved opphør av biobanken,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,</td>\n</tr>",
-        "text": "6.hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,</td>\n</tr>",
+        "text": "6.\thvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som er ansvarshavende etter § 7 og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og</td>\n</tr>",
-        "text": "7.hvem som er ansvarshavende etter § 7 og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som er ansvarshavende etter <a data-id=\"lov/2003-02-21-12/§7\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A77\">§ 7</a> og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og</td>\n</tr>",
+        "text": "7.\thvem som er ansvarshavende etter § 7 og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning.</td>\n</tr>",
-        "text": "8.finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning.</td>\n</tr>",
+        "text": "8.\tfinansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning."
     },
     {
         "tag": "p",
@@ -214,6 +218,7 @@
         "text": "Departementet kan i forskrift gi nærmere bestemmelser om hva slags opplysninger som skal meldes etter første ledd."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -229,15 +234,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Biobanker som opprettes i forbindelse med diagnostikk og behandling skal meldes til departementet. Meldingen skal inneholde opplysninger om forhold som nevnt under § 4 første ledd nr. 1-8. Melding må sendes departementet innen 2 måneder etter at biobanken ble opprettet.",
+        "html": "Biobanker som opprettes i forbindelse med diagnostikk og behandling skal meldes til departementet. Meldingen skal inneholde opplysninger om forhold som nevnt under <a data-id=\"lov/2003-02-21-12/§4\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A74\">§ 4</a> første ledd nr. 1-8. Melding må sendes departementet innen 2 måneder etter at biobanken ble opprettet.",
         "text": "Biobanker som opprettes i forbindelse med diagnostikk og behandling skal meldes til departementet. Meldingen skal inneholde opplysninger om forhold som nevnt under § 4 første ledd nr. 1-8. Melding må sendes departementet innen 2 måneder etter at biobanken ble opprettet."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom materiale fra en biobank opprettet for diagnostikk og behandling skal brukes til forskning, gjelder § 4.",
+        "html": "Dersom materiale fra en biobank opprettet for diagnostikk og behandling skal brukes til forskning, gjelder <a data-id=\"lov/2003-02-21-12/§4\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A74\">§ 4</a>.",
         "text": "Dersom materiale fra en biobank opprettet for diagnostikk og behandling skal brukes til forskning, gjelder § 4."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -257,6 +263,7 @@
         "html": "Departementet har ansvaret for å føre et register over innmeldte biobanker. Registeret skal være offentlig tilgjengelig.",
         "text": "Departementet har ansvaret for å føre et register over innmeldte biobanker. Registeret skal være offentlig tilgjengelig."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -289,6 +296,7 @@
         "text": "Departementet kan ved forskrift fastsette nærmere regler for hvilke biobanker som skal ha et styre, styrets oppgaver og sammensetning mv."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -320,6 +328,7 @@
         "text": "Dersom departementet innen 45 dager etter at slik melding er mottatt ikke har kommet med innsigelser eller bedt om ytterligere opplysninger, kan biobanken helt eller delvis nedlegges eller destrueres i samsvar med meldingen. Dersom departementet finner at biobanken på grunn av sitt innhold ikke bør nedlegges eller destrueres, kan departementet bestemme at biobanken fortsatt skal oppbevares, eller at den skal overføres til en annen biobank. Departementet må da overta det økonomiske ansvaret og sørge for at biobanken blir ivaretatt og forvaltet i tråd med denne lov."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -344,6 +353,7 @@
         "html": "Departementet kan ved forskrift gi nærmere regler om hvordan humant biologisk materiale og opplysninger i en biobank skal oppbevares.",
         "text": "Departementet kan ved forskrift gi nærmere regler om hvordan humant biologisk materiale og opplysninger i en biobank skal oppbevares."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -388,6 +398,7 @@
         "text": "Kapittel 3 Informasjon og samtykke"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -403,15 +414,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Samtykke til helsehjelp etter pasientrettighetsloven §§ 4-1 og 4-2 omfatter også innhenting, oppbevaring og behandling av humant biologisk materiale, herunder bruk av materialet til forebygging, kvalitetskontroll og metodeutvikling.",
+        "html": "Samtykke til helsehjelp etter <a data-id=\"lov/1999-07-02-63/§4-1\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-1\">pasientrettighetsloven §§ 4-1</a> og <a data-id=\"lov/1999-07-02-63/§4-2\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-2\">4-2</a> omfatter også innhenting, oppbevaring og behandling av humant biologisk materiale, herunder bruk av materialet til forebygging, kvalitetskontroll og metodeutvikling.",
         "text": "Samtykke til helsehjelp etter pasientrettighetsloven §§ 4-1 og 4-2 omfatter også innhenting, oppbevaring og behandling av humant biologisk materiale, herunder bruk av materialet til forebygging, kvalitetskontroll og metodeutvikling."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For personer uten samtykkekompetanse etter pasientrettighetsloven § 4-3, gjelder pasienterettighetsloven §§ 4-4 til 4-8 om samtykke på vegne av andre tilsvarende.",
+        "html": "For personer uten samtykkekompetanse etter <a data-id=\"lov/1999-07-02-63/§4-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-3\">pasientrettighetsloven § 4-3</a>, gjelder pasienterettighetsloven <a data-id=\"lov/1999-07-02-63/§4-4\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-4\">§§ 4-4</a> til <a data-id=\"lov/1999-07-02-63/§4-8\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-8\">4-8</a> om samtykke på vegne av andre tilsvarende.",
         "text": "For personer uten samtykkekompetanse etter pasientrettighetsloven § 4-3, gjelder pasienterettighetsloven §§ 4-4 til 4-8 om samtykke på vegne av andre tilsvarende."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -452,9 +464,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For personer uten samtykkekompetanse etter pasientrettighetsloven § 4-3 gjelder pasientrettighetsloven §§ 4-4, 4-5, 4-7 og 4-8 om samtykke til helsehjelp på andres vegne tilsvarende for samtykke til innsamling, oppbevaring og behandling av biobankmateriale til forskning.",
+        "html": "For personer uten samtykkekompetanse etter <a data-id=\"lov/1999-07-02-63/§4-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-3\">pasientrettighetsloven § 4-3</a> gjelder <a data-id=\"lov/1999-07-02-63/§4-4\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-4\">pasientrettighetsloven §§ 4-4</a>, <a data-id=\"lov/1999-07-02-63/§4-5\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-5\">4-5</a>, <a data-id=\"lov/1999-07-02-63/§4-7\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-7\">4-7</a> og <a data-id=\"lov/1999-07-02-63/§4-8\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-8\">4-8</a> om samtykke til helsehjelp på andres vegne tilsvarende for samtykke til innsamling, oppbevaring og behandling av biobankmateriale til forskning.",
         "text": "For personer uten samtykkekompetanse etter pasientrettighetsloven § 4-3 gjelder pasientrettighetsloven §§ 4-4, 4-5, 4-7 og 4-8 om samtykke til helsehjelp på andres vegne tilsvarende for samtykke til innsamling, oppbevaring og behandling av biobankmateriale til forskning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -493,6 +506,7 @@
         "text": "Endret, utvidet eller ny bruk av anonymisert materiale krever ikke samtykke, men må vurderes av en regional komité for medisinsk forskningsetikk."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -508,7 +522,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den som har avgitt samtykke etter §§ 11-13, kan til enhver tid tilbakekalle slikt samtykke.",
+        "html": "Den som har avgitt samtykke etter <a data-id=\"lov/2003-02-21-12/§11\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A711\">§§ 11-13</a>, kan til enhver tid tilbakekalle slikt samtykke.",
         "text": "Den som har avgitt samtykke etter §§ 11-13, kan til enhver tid tilbakekalle slikt samtykke."
     },
     {
@@ -523,6 +537,7 @@
         "html": "Adgangen til å tilbakekalle samtykket eller kreve destruksjon, sletting eller utlevering etter første eller annet ledd, gjelder ikke dersom materialet eller opplysningene er anonymisert, dersom materialet etter bearbeidelse inngår i et annet biologisk produkt, eller dersom opplysningene allerede har inngått i vitenskapelige arbeider. Adgangen til destruksjon gjelder heller ikke dersom det ved lov er fastsatt at materialet eller opplysningene skal oppbevares.",
         "text": "Adgangen til å tilbakekalle samtykket eller kreve destruksjon, sletting eller utlevering etter første eller annet ledd, gjelder ikke dersom materialet eller opplysningene er anonymisert, dersom materialet etter bearbeidelse inngår i et annet biologisk produkt, eller dersom opplysningene allerede har inngått i vitenskapelige arbeider. Adgangen til destruksjon gjelder heller ikke dersom det ved lov er fastsatt at materialet eller opplysningene skal oppbevares."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -539,7 +554,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom det foreligger samtykke fra materialets giver i tråd med §§ 11-13, kan andre gis tilgang til det biologiske materialet i biobanken eller nærmere bestemte deler av materialet. Tilgang kan skje ved at det aktuelle materialet stilles til rådighet hos den ansvarlige, ved at materialet utlånes eller ved at materialet eller deler av det utleveres. Den som ber om tilgang, skal redegjøre for hvilke formål materialet er tenkt utnyttet til, hvordan og hvor lenge materialet vil bli behandlet, og om materialet vil bli destruert, slettet eller tilbakelevert når den planlagte bruk er ferdig.",
+        "html": "Dersom det foreligger samtykke fra materialets giver i tråd med <a data-id=\"lov/2003-02-21-12/§11\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A711\">§§ 11-13</a>, kan andre gis tilgang til det biologiske materialet i biobanken eller nærmere bestemte deler av materialet. Tilgang kan skje ved at det aktuelle materialet stilles til rådighet hos den ansvarlige, ved at materialet utlånes eller ved at materialet eller deler av det utleveres. Den som ber om tilgang, skal redegjøre for hvilke formål materialet er tenkt utnyttet til, hvordan og hvor lenge materialet vil bli behandlet, og om materialet vil bli destruert, slettet eller tilbakelevert når den planlagte bruk er ferdig.",
         "text": "Dersom det foreligger samtykke fra materialets giver i tråd med §§ 11-13, kan andre gis tilgang til det biologiske materialet i biobanken eller nærmere bestemte deler av materialet. Tilgang kan skje ved at det aktuelle materialet stilles til rådighet hos den ansvarlige, ved at materialet utlånes eller ved at materialet eller deler av det utleveres. Den som ber om tilgang, skal redegjøre for hvilke formål materialet er tenkt utnyttet til, hvordan og hvor lenge materialet vil bli behandlet, og om materialet vil bli destruert, slettet eller tilbakelevert når den planlagte bruk er ferdig."
     },
     {
@@ -579,6 +594,7 @@
         "text": "Kapittel 4 Forskjellige bestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -597,6 +613,7 @@
         "html": "Helsepersonellovens bestemmelser om taushetsplikt gjelder tilsvarende for alle som oppretter, oppbevarer, bruker eller på andre måter forvalter eller arbeider ved en biobank.",
         "text": "Helsepersonellovens bestemmelser om taushetsplikt gjelder tilsvarende for alle som oppretter, oppbevarer, bruker eller på andre måter forvalter eller arbeider ved en biobank."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -623,6 +640,7 @@
         "text": "Datatilsynet skal føre tilsyn med at behandling av de helse- og personopplysninger som utledes av materialet i en biobank skjer i tråd med personopplysningslovens og helseregisterlovens bestemmelser."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -638,7 +656,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet kan gi pålegg eller stanse videre drift av biobanker som drives i strid med denne lov eller der hvor driften går ut over det som er meldt til departementet etter §§ 4 og 5. Departementet kan overta den videre driften eller kreve biobanken nedlagt.",
+        "html": "Departementet kan gi pålegg eller stanse videre drift av biobanker som drives i strid med denne lov eller der hvor driften går ut over det som er meldt til departementet etter <a data-id=\"lov/2003-02-21-12/§4\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A74\">§§ 4</a> og <a data-id=\"lov/2003-02-21-12/§5\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A75\">5</a>. Departementet kan overta den videre driften eller kreve biobanken nedlagt.",
         "text": "Departementet kan gi pålegg eller stanse videre drift av biobanker som drives i strid med denne lov eller der hvor driften går ut over det som er meldt til departementet etter §§ 4 og 5. Departementet kan overta den videre driften eller kreve biobanken nedlagt."
     },
     {
@@ -647,6 +665,7 @@
         "html": "Med bøter eller fengsel inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt innsamler, oppbevarer, behandler eller destruerer materiale som inngår i en biobank i strid med denne lov. Medvirkning straffes på samme måte.",
         "text": "Med bøter eller fengsel inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt innsamler, oppbevarer, behandler eller destruerer materiale som inngår i en biobank i strid med denne lov. Medvirkning straffes på samme måte."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -663,7 +682,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den behandlingsansvarlige og ansvarshavende etter § 7 skal erstatte skade som er oppstått som følge av at virksomheten er drevet i strid med bestemmelser i eller i medhold av denne lov, med mindre det kan godtgjøres at skaden ikke skyldes feil eller forsømmelse på disses side. Erstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av brudd på bestemmelsene i denne lov. Den behandlingsansvarlige og ansvarshavende kan også pålegges å betale slik erstatning for ikke-økonomisk art (oppreisning) som synes rimelig.",
+        "html": "Den behandlingsansvarlige og ansvarshavende etter <a data-id=\"lov/2003-02-21-12/§7\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A77\">§ 7</a> skal erstatte skade som er oppstått som følge av at virksomheten er drevet i strid med bestemmelser i eller i medhold av denne lov, med mindre det kan godtgjøres at skaden ikke skyldes feil eller forsømmelse på disses side. Erstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av brudd på bestemmelsene i denne lov. Den behandlingsansvarlige og ansvarshavende kan også pålegges å betale slik erstatning for ikke-økonomisk art (oppreisning) som synes rimelig.",
         "text": "Den behandlingsansvarlige og ansvarshavende etter § 7 skal erstatte skade som er oppstått som følge av at virksomheten er drevet i strid med bestemmelser i eller i medhold av denne lov, med mindre det kan godtgjøres at skaden ikke skyldes feil eller forsømmelse på disses side. Erstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av brudd på bestemmelsene i denne lov. Den behandlingsansvarlige og ansvarshavende kan også pålegges å betale slik erstatning for ikke-økonomisk art (oppreisning) som synes rimelig."
     },
     {
@@ -685,6 +704,7 @@
         "text": "Kapittel 5 Ikraftsetting, overgangsbestemmelse, endringer i andre lover"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -704,6 +724,7 @@
         "text": "Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -719,9 +740,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For virksomhet som omfattes av denne lov, og som allerede er i gang når loven trer i kraft, skal det sendes melding til departementet med opplysninger som nevnt i § 4 første ledd nr. 1-8 innen to år etter lovens ikrafttredelse.",
+        "html": "For virksomhet som omfattes av denne lov, og som allerede er i gang når loven trer i kraft, skal det sendes melding til departementet med opplysninger som nevnt i <a data-id=\"lov/2003-02-21-12/§4\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A74\">§ 4</a> første ledd nr. 1-8 innen to år etter lovens ikrafttredelse.",
         "text": "For virksomhet som omfattes av denne lov, og som allerede er i gang når loven trer i kraft, skal det sendes melding til departementet med opplysninger som nevnt i § 4 første ledd nr. 1-8 innen to år etter lovens ikrafttredelse."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -738,7 +760,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. § 10 b oppheves.",
+        "html": "<a data-id=\"lov/1973-02-09-6\" class=\" reference\" href=\"/lov/1973-02-09-6\">Lov 9. februar 1973 nr. 6</a> om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. <a data-id=\"lov/1973-02-09-6/§10b\" class=\" reference\" href=\"/lov/1973-02-09-6/%C2%A710b\">§ 10 b</a> oppheves.",
         "text": "Lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. § 10 b oppheves."
     }
 ]

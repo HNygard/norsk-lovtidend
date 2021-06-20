@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.30 (2004–2005), Innst.O.nr.62 (2004–2005) og Besl.O.nr.58 (2004–2005). Odels- og lagtingsvedtak hhv. 18. mars og 12. april 2005. Fremmet av Kultur- og kirkedepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-30-200405\" class=\" reference\" href=\"/forarbeid/otprp-30-200405\">Ot.prp.nr.30 (2004–2005)</a>, <a data-id=\"forarbeid/inns-o-62-200405\" class=\" reference\" href=\"/forarbeid/inns-o-62-200405\">Innst.O.nr.62 (2004–2005)</a> og <a data-id=\"forarbeid/besl-o-58-200405\" class=\" reference\" href=\"/forarbeid/besl-o-58-200405\">Besl.O.nr.58 (2004–2005)</a>. Odels- og lagtingsvedtak hhv. 18. mars og 12. april 2005. Fremmet av Kultur- og kirkedepartementet.",
         "text": "Ot.prp.nr.30 (2004–2005), Innst.O.nr.62 (2004–2005) og Besl.O.nr.58 (2004–2005). Odels- og lagtingsvedtak hhv. 18. mars og 12. april 2005. Fremmet av Kultur- og kirkedepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 7. juni 1996 nr. 31 om Den norske kirke endres slik:",
+        "html": "<a data-id=\"lov/1996-06-07-31\" class=\" reference\" href=\"/lov/1996-06-07-31\">Lov 7. juni 1996 nr. 31</a> om Den norske kirke endres slik:",
         "text": "Lov 7. juni 1996 nr. 31 om Den norske kirke endres slik:"
     },
     {
@@ -25,9 +25,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en representant fra døvemenighetene i Oslo bispedømmeråd.</td>\n</tr>",
-        "text": "f)en representant fra døvemenighetene i Oslo bispedømmeråd."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en representant fra døvemenighetene i Oslo bispedømmeråd.</td>\n</tr>",
+        "text": "f)\ten representant fra døvemenighetene i Oslo bispedømmeråd."
     },
     {
         "tag": "p",

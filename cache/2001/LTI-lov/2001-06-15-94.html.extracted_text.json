@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.61 (2000–2001), Innst.O.nr.93 (2000–2001) og Besl.O.nr.120 (2000–2001). Odels- og lagtingsvedtak hhv. 5. og 12. juni 2001. Fremmet av Sosial- og helsedepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-61-200001\" class=\" reference\" href=\"/forarbeid/otprp-61-200001\">Ot.prp.nr.61 (2000–2001)</a>, <a data-id=\"forarbeid/inns-o-93-200001\" class=\" reference\" href=\"/forarbeid/inns-o-93-200001\">Innst.O.nr.93 (2000–2001)</a> og <a data-id=\"forarbeid/besl-o-120-200001\" class=\" reference\" href=\"/forarbeid/besl-o-120-200001\">Besl.O.nr.120 (2000–2001)</a>. Odels- og lagtingsvedtak hhv. 5. og 12. juni 2001. Fremmet av Sosial- og helsedepartementet.",
         "text": "Ot.prp.nr.61 (2000–2001), Innst.O.nr.93 (2000–2001) og Besl.O.nr.120 (2000–2001). Odels- og lagtingsvedtak hhv. 5. og 12. juni 2001. Fremmet av Sosial- og helsedepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 2. juni 2000 nr. 39 om apotek (apotekloven) endres slik:",
+        "html": "<a data-id=\"lov/2000-06-02-39\" class=\" reference\" href=\"/lov/2000-06-02-39\">Lov 2. juni 2000 nr. 39</a> om apotek (apotekloven) endres slik:",
         "text": "Lov 2. juni 2000 nr. 39 om apotek (apotekloven) endres slik:"
     },
     {
@@ -31,15 +31,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Søker er et foretak som direkte eller indirekte eies med 10 prosent eller mer av person med rekvireringsrett for legemidler eller av nærstående til denne eller av foretak som tar syke i behandling eller av foretak som har kontroll over slikt foretak. Grensen gjelder tilsvarende for samarbeidende grupper av slike personer. Departementet kan i det enkelte tilfellet gjøre unntak fra grensen i første punktum for nærstående til person med rekvireringsrett.</td>\n</tr>",
-        "text": "c)Søker er et foretak som direkte eller indirekte eies med 10 prosent eller mer av person med rekvireringsrett for legemidler eller av nærstående til denne eller av foretak som tar syke i behandling eller av foretak som har kontroll over slikt foretak. Grensen gjelder tilsvarende for samarbeidende grupper av slike personer. Departementet kan i det enkelte tilfellet gjøre unntak fra grensen i første punktum for nærstående til person med rekvireringsrett."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Søker er et foretak som direkte eller indirekte eies med 10 prosent eller mer av person med rekvireringsrett for legemidler eller av nærstående til denne eller av foretak som tar syke i behandling eller av foretak som har kontroll over slikt foretak. Grensen gjelder tilsvarende for samarbeidende grupper av slike personer. Departementet kan i det enkelte tilfellet gjøre unntak fra grensen i første punktum for nærstående til person med rekvireringsrett.</td>\n</tr>",
+        "text": "c)\tSøker er et foretak som direkte eller indirekte eies med 10 prosent eller mer av person med rekvireringsrett for legemidler eller av nærstående til denne eller av foretak som tar syke i behandling eller av foretak som har kontroll over slikt foretak. Grensen gjelder tilsvarende for samarbeidende grupper av slike personer. Departementet kan i det enkelte tilfellet gjøre unntak fra grensen i første punktum for nærstående til person med rekvireringsrett."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Søker kontrolleres av en eller flere industrielle tilvirkere av legemidler eller av foretak som direkte eller indirekte eier 10 prosent eller mer av slike tilvirkere.</td>\n</tr>",
-        "text": "d)Søker kontrolleres av en eller flere industrielle tilvirkere av legemidler eller av foretak som direkte eller indirekte eier 10 prosent eller mer av slike tilvirkere."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Søker kontrolleres av en eller flere industrielle tilvirkere av legemidler eller av foretak som direkte eller indirekte eier 10 prosent eller mer av slike tilvirkere.</td>\n</tr>",
+        "text": "d)\tSøker kontrolleres av en eller flere industrielle tilvirkere av legemidler eller av foretak som direkte eller indirekte eier 10 prosent eller mer av slike tilvirkere."
     },
     {
         "tag": "p",
@@ -49,9 +49,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Søker har kontroll over et foretak som tar syke i behandling.</td>\n</tr>",
-        "text": "e)Søker har kontroll over et foretak som tar syke i behandling."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Søker har kontroll over et foretak som tar syke i behandling.</td>\n</tr>",
+        "text": "e)\tSøker har kontroll over et foretak som tar syke i behandling."
     },
     {
         "tag": "p",
@@ -91,9 +91,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Tillatelse til etablering av medisinutsalg på et bestemt sted hvis departementet anser det nødvendig for å sikre en forsvarlig legemiddelforsyning. Tillatelse til å ha medisinutsalg kan kalles tilbake med 6 måneders varsel, og skal kalles tilbake hvis det etableres et apotek på stedet.</td>\n</tr>",
-        "text": "a)Tillatelse til etablering av medisinutsalg på et bestemt sted hvis departementet anser det nødvendig for å sikre en forsvarlig legemiddelforsyning. Tillatelse til å ha medisinutsalg kan kalles tilbake med 6 måneders varsel, og skal kalles tilbake hvis det etableres et apotek på stedet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Tillatelse til etablering av medisinutsalg på et bestemt sted hvis departementet anser det nødvendig for å sikre en forsvarlig legemiddelforsyning. Tillatelse til å ha medisinutsalg kan kalles tilbake med 6 måneders varsel, og skal kalles tilbake hvis det etableres et apotek på stedet.</td>\n</tr>",
+        "text": "a)\tTillatelse til etablering av medisinutsalg på et bestemt sted hvis departementet anser det nødvendig for å sikre en forsvarlig legemiddelforsyning. Tillatelse til å ha medisinutsalg kan kalles tilbake med 6 måneders varsel, og skal kalles tilbake hvis det etableres et apotek på stedet."
     },
     {
         "tag": "p",
@@ -146,7 +146,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) endres slik:",
+        "html": "<a data-id=\"lov/1992-12-04-132\" class=\" reference\" href=\"/lov/1992-12-04-132\">Lov 4. desember 1992 nr. 132</a> om legemidler m.v. (legemiddelloven) endres slik:",
         "text": "Lov 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) endres slik:"
     },
     {

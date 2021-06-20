@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.82 (1999–2000), Innst.O.nr.41 (2000–2001) og Besl.O.nr.53 (2000–2001). Odels- og lagtingsvedtak hhv. 14. og 18. desember 2000. Fremmet av Nærings- og handelsdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-82-199900\" class=\" reference\" href=\"/forarbeid/otprp-82-199900\">Ot.prp.nr.82 (1999–2000)</a>, <a data-id=\"forarbeid/inns-o-41-200001\" class=\" reference\" href=\"/forarbeid/inns-o-41-200001\">Innst.O.nr.41 (2000–2001)</a> og <a data-id=\"forarbeid/besl-o-53-200001\" class=\" reference\" href=\"/forarbeid/besl-o-53-200001\">Besl.O.nr.53 (2000–2001)</a>. Odels- og lagtingsvedtak hhv. 14. og 18. desember 2000. Fremmet av Nærings- og handelsdepartementet.",
         "text": "Ot.prp.nr.82 (1999–2000), Innst.O.nr.41 (2000–2001) og Besl.O.nr.53 (2000–2001). Odels- og lagtingsvedtak hhv. 14. og 18. desember 2000. Fremmet av Nærings- og handelsdepartementet."
     },
     {
@@ -11,6 +11,7 @@
         "html": "Kapittel I Alminnelige regler",
         "text": "Kapittel I Alminnelige regler"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -31,6 +32,7 @@
         "text": "Formålet med denne loven er å legge til rette for en sikker og effektiv bruk av elektronisk signatur ved å fastsette krav til kvalifiserte sertifikater, til utstederne av disse sertifikatene og til sikre signaturfremstillingssystemer."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -46,7 +48,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven gjelder for sertifikatutstedere som er etablert i Norge. Loven regulerer rammebetingelsene for bruk av kvalifiserte elektroniske signaturer, med unntak av § 6 annet punktum og § 7 som gjelder alle elektroniske signaturer.",
+        "html": "Loven gjelder for sertifikatutstedere som er etablert i Norge. Loven regulerer rammebetingelsene for bruk av kvalifiserte elektroniske signaturer, med unntak av <a data-id=\"lov/2001-06-15-81/§6\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A76\">§ 6</a> annet punktum og <a data-id=\"lov/2001-06-15-81/§7\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A77\">§ 7</a> som gjelder alle elektroniske signaturer.",
         "text": "Loven gjelder for sertifikatutstedere som er etablert i Norge. Loven regulerer rammebetingelsene for bruk av kvalifiserte elektroniske signaturer, med unntak av § 6 annet punktum og § 7 som gjelder alle elektroniske signaturer."
     },
     {
@@ -55,6 +57,7 @@
         "html": "Kongen kan i forskrift bestemme at loven skal gjelde for Svalbard og Jan Mayen.",
         "text": "Kongen kan i forskrift bestemme at loven skal gjelde for Svalbard og Jan Mayen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -76,88 +79,89 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">elektronisk signatur</em>: data i elektronisk form som er knyttet til andre elektroniske data og som brukes til å kontrollere at disse stammer fra den som fremstår som undertegner,</td>\n</tr>",
-        "text": "1.elektronisk signatur: data i elektronisk form som er knyttet til andre elektroniske data og som brukes til å kontrollere at disse stammer fra den som fremstår som undertegner,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">elektronisk signatur</em>: data i elektronisk form som er knyttet til andre elektroniske data og som brukes til å kontrollere at disse stammer fra den som fremstår som undertegner,</td>\n</tr>",
+        "text": "1.\telektronisk signatur: data i elektronisk form som er knyttet til andre elektroniske data og som brukes til å kontrollere at disse stammer fra den som fremstår som undertegner,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">avansert elektronisk signatur</em>: en elektronisk signatur som</td>\n</tr>",
-        "text": "2.avansert elektronisk signatur: en elektronisk signatur som"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">avansert elektronisk signatur</em>: en elektronisk signatur som</td>\n</tr>",
+        "text": "2.\tavansert elektronisk signatur: en elektronisk signatur som"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er entydig knyttet til undertegneren,</td>\n</tr>",
-        "text": "a)er entydig knyttet til undertegneren,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er entydig knyttet til undertegneren,</td>\n</tr>",
+        "text": "a)\ter entydig knyttet til undertegneren,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kan identifisere undertegneren,</td>\n</tr>",
-        "text": "b)kan identifisere undertegneren,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kan identifisere undertegneren,</td>\n</tr>",
+        "text": "b)\tkan identifisere undertegneren,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er laget ved hjelp av midler som bare undertegneren har kontroll over, og</td>\n</tr>",
-        "text": "c)er laget ved hjelp av midler som bare undertegneren har kontroll over, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er laget ved hjelp av midler som bare undertegneren har kontroll over, og</td>\n</tr>",
+        "text": "c)\ter laget ved hjelp av midler som bare undertegneren har kontroll over, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er knyttet til andre elektroniske data på en slik måte at det kan oppdages om disse har blitt endret etter signering,</td>\n</tr>",
-        "text": "d)er knyttet til andre elektroniske data på en slik måte at det kan oppdages om disse har blitt endret etter signering,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er knyttet til andre elektroniske data på en slik måte at det kan oppdages om disse har blitt endret etter signering,</td>\n</tr>",
+        "text": "d)\ter knyttet til andre elektroniske data på en slik måte at det kan oppdages om disse har blitt endret etter signering,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">kvalifisert elektronisk signatur</em>: en avansert elektronisk signatur som er basert på et kvalifisert sertifikat og fremstilt av et godkjent sikkert signaturfremstillingssystem,</td>\n</tr>",
-        "text": "3.kvalifisert elektronisk signatur: en avansert elektronisk signatur som er basert på et kvalifisert sertifikat og fremstilt av et godkjent sikkert signaturfremstillingssystem,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">kvalifisert elektronisk signatur</em>: en avansert elektronisk signatur som er basert på et kvalifisert sertifikat og fremstilt av et godkjent sikkert signaturfremstillingssystem,</td>\n</tr>",
+        "text": "3.\tkvalifisert elektronisk signatur: en avansert elektronisk signatur som er basert på et kvalifisert sertifikat og fremstilt av et godkjent sikkert signaturfremstillingssystem,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">undertegner</em>: den som disponerer et signaturfremstillingssystem og som handler på vegne av seg selv eller på vegne av en annen fysisk eller juridisk person,</td>\n</tr>",
-        "text": "4.undertegner: den som disponerer et signaturfremstillingssystem og som handler på vegne av seg selv eller på vegne av en annen fysisk eller juridisk person,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">undertegner</em>: den som disponerer et signaturfremstillingssystem og som handler på vegne av seg selv eller på vegne av en annen fysisk eller juridisk person,</td>\n</tr>",
+        "text": "4.\tundertegner: den som disponerer et signaturfremstillingssystem og som handler på vegne av seg selv eller på vegne av en annen fysisk eller juridisk person,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">signaturfremstillingssdata</em>: unike data, som for eksempel koder eller private nøkler, som undertegneren benytter for å fremstille en elektronisk signatur,</td>\n</tr>",
-        "text": "5.signaturfremstillingssdata: unike data, som for eksempel koder eller private nøkler, som undertegneren benytter for å fremstille en elektronisk signatur,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">signaturfremstillingssdata</em>: unike data, som for eksempel koder eller private nøkler, som undertegneren benytter for å fremstille en elektronisk signatur,</td>\n</tr>",
+        "text": "5.\tsignaturfremstillingssdata: unike data, som for eksempel koder eller private nøkler, som undertegneren benytter for å fremstille en elektronisk signatur,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">signaturfremstillingssystem</em>: programvare eller maskinvare som benyttes til å fremstille elektronisk signatur ved hjelp av signaturfremstillingsdata,</td>\n</tr>",
-        "text": "6.signaturfremstillingssystem: programvare eller maskinvare som benyttes til å fremstille elektronisk signatur ved hjelp av signaturfremstillingsdata,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">signaturfremstillingssystem</em>: programvare eller maskinvare som benyttes til å fremstille elektronisk signatur ved hjelp av signaturfremstillingsdata,</td>\n</tr>",
+        "text": "6.\tsignaturfremstillingssystem: programvare eller maskinvare som benyttes til å fremstille elektronisk signatur ved hjelp av signaturfremstillingsdata,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">signaturverifikasjonsdata</em>: unike data, som for eksempel koder eller offentlige nøkler, som benyttes til å verifisere en elektronisk signatur,</td>\n</tr>",
-        "text": "7.signaturverifikasjonsdata: unike data, som for eksempel koder eller offentlige nøkler, som benyttes til å verifisere en elektronisk signatur,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">signaturverifikasjonsdata</em>: unike data, som for eksempel koder eller offentlige nøkler, som benyttes til å verifisere en elektronisk signatur,</td>\n</tr>",
+        "text": "7.\tsignaturverifikasjonsdata: unike data, som for eksempel koder eller offentlige nøkler, som benyttes til å verifisere en elektronisk signatur,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">signaturverifikasjonssystem</em>: programvare eller maskinvare som benyttes for å verifisere elektronisk signatur ved hjelp av signaturverifikasjonsdata,</td>\n</tr>",
-        "text": "8.signaturverifikasjonssystem: programvare eller maskinvare som benyttes for å verifisere elektronisk signatur ved hjelp av signaturverifikasjonsdata,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">signaturverifikasjonssystem</em>: programvare eller maskinvare som benyttes for å verifisere elektronisk signatur ved hjelp av signaturverifikasjonsdata,</td>\n</tr>",
+        "text": "8.\tsignaturverifikasjonssystem: programvare eller maskinvare som benyttes for å verifisere elektronisk signatur ved hjelp av signaturverifikasjonsdata,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">sertifikat</em>: en kopling mellom signaturverifikasjonsdata og undertegner som bekrefter undertegners identitet og er signert av sertifikatutsteder,</td>\n</tr>",
-        "text": "9.sertifikat: en kopling mellom signaturverifikasjonsdata og undertegner som bekrefter undertegners identitet og er signert av sertifikatutsteder,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">sertifikat</em>: en kopling mellom signaturverifikasjonsdata og undertegner som bekrefter undertegners identitet og er signert av sertifikatutsteder,</td>\n</tr>",
+        "text": "9.\tsertifikat: en kopling mellom signaturverifikasjonsdata og undertegner som bekrefter undertegners identitet og er signert av sertifikatutsteder,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">sertifikatutsteder</em>: en fysisk eller juridisk person som utsteder sertifikater eller tilbyr andre tjenester relatert til elektronisk signatur.</td>\n</tr>",
-        "text": "10.sertifikatutsteder: en fysisk eller juridisk person som utsteder sertifikater eller tilbyr andre tjenester relatert til elektronisk signatur."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">sertifikatutsteder</em>: en fysisk eller juridisk person som utsteder sertifikater eller tilbyr andre tjenester relatert til elektronisk signatur.</td>\n</tr>",
+        "text": "10.\tsertifikatutsteder: en fysisk eller juridisk person som utsteder sertifikater eller tilbyr andre tjenester relatert til elektronisk signatur."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -174,7 +178,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Betegnelsen kvalifisert sertifikat skal kun brukes om sertifikater som oppfyller kravene i denne paragrafen og utstedes for en begrenset periode av en sertifikatutsteder som oppfyller kravene i §§ 10 – 15.",
+        "html": "Betegnelsen kvalifisert sertifikat skal kun brukes om sertifikater som oppfyller kravene i denne paragrafen og utstedes for en begrenset periode av en sertifikatutsteder som oppfyller kravene i <a data-id=\"lov/2001-06-15-81/§10\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A710\">§§ 10</a> – 15.",
         "text": "Betegnelsen kvalifisert sertifikat skal kun brukes om sertifikater som oppfyller kravene i denne paragrafen og utstedes for en begrenset periode av en sertifikatutsteder som oppfyller kravene i §§ 10 – 15."
     },
     {
@@ -185,63 +189,63 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en angivelse av at sertifikatet er utstedt som et kvalifisert sertifikat,</td>\n</tr>",
-        "text": "a)en angivelse av at sertifikatet er utstedt som et kvalifisert sertifikat,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en angivelse av at sertifikatet er utstedt som et kvalifisert sertifikat,</td>\n</tr>",
+        "text": "a)\ten angivelse av at sertifikatet er utstedt som et kvalifisert sertifikat,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatutstederens identitet og den stat den er etablert i,</td>\n</tr>",
-        "text": "b)sertifikatutstederens identitet og den stat den er etablert i,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatutstederens identitet og den stat den er etablert i,</td>\n</tr>",
+        "text": "b)\tsertifikatutstederens identitet og den stat den er etablert i,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">undertegnerens navn eller pseudonym med opplysning om at det er et pseudonym,</td>\n</tr>",
-        "text": "c)undertegnerens navn eller pseudonym med opplysning om at det er et pseudonym,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">undertegnerens navn eller pseudonym med opplysning om at det er et pseudonym,</td>\n</tr>",
+        "text": "c)\tundertegnerens navn eller pseudonym med opplysning om at det er et pseudonym,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelt ytterligere opplysninger om undertegneren, dersom de er relevante for bruken av sertifikatet,</td>\n</tr>",
-        "text": "d)eventuelt ytterligere opplysninger om undertegneren, dersom de er relevante for bruken av sertifikatet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelt ytterligere opplysninger om undertegneren, dersom de er relevante for bruken av sertifikatet,</td>\n</tr>",
+        "text": "d)\teventuelt ytterligere opplysninger om undertegneren, dersom de er relevante for bruken av sertifikatet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">de signaturverifikasjonsdata, som svarer til de signaturfremstillingsdata som er under undertegnerens kontroll,</td>\n</tr>",
-        "text": "e)de signaturverifikasjonsdata, som svarer til de signaturfremstillingsdata som er under undertegnerens kontroll,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">de signaturverifikasjonsdata, som svarer til de signaturfremstillingsdata som er under undertegnerens kontroll,</td>\n</tr>",
+        "text": "e)\tde signaturverifikasjonsdata, som svarer til de signaturfremstillingsdata som er under undertegnerens kontroll,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatets ikrafttredelses- og utløpsdato,</td>\n</tr>",
-        "text": "f)sertifikatets ikrafttredelses- og utløpsdato,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatets ikrafttredelses- og utløpsdato,</td>\n</tr>",
+        "text": "f)\tsertifikatets ikrafttredelses- og utløpsdato,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatets identifikasjonskode,</td>\n</tr>",
-        "text": "g)sertifikatets identifikasjonskode,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatets identifikasjonskode,</td>\n</tr>",
+        "text": "g)\tsertifikatets identifikasjonskode,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatutstederens avanserte elektroniske signatur,</td>\n</tr>",
-        "text": "h)sertifikatutstederens avanserte elektroniske signatur,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatutstederens avanserte elektroniske signatur,</td>\n</tr>",
+        "text": "h)\tsertifikatutstederens avanserte elektroniske signatur,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle begrensninger i sertifikatets anvendelsesområde, og</td>\n</tr>",
-        "text": "i)eventuelle begrensninger i sertifikatets anvendelsesområde, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle begrensninger i sertifikatets anvendelsesområde, og</td>\n</tr>",
+        "text": "i)\teventuelle begrensninger i sertifikatets anvendelsesområde, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle beløpsmessige begrensninger i sertifikatet med hensyn til hvilke transaksjoner sertifikatet kan brukes til.</td>\n</tr>",
-        "text": "j)eventuelle beløpsmessige begrensninger i sertifikatet med hensyn til hvilke transaksjoner sertifikatet kan brukes til."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle beløpsmessige begrensninger i sertifikatet med hensyn til hvilke transaksjoner sertifikatet kan brukes til.</td>\n</tr>",
+        "text": "j)\teventuelle beløpsmessige begrensninger i sertifikatet med hensyn til hvilke transaksjoner sertifikatet kan brukes til."
     },
     {
         "tag": "p",
@@ -249,6 +253,7 @@
         "html": "Kongen kan i forskrift regulere hva det kvalifiserte sertifikatet nærmere skal inneholde.",
         "text": "Kongen kan i forskrift regulere hva det kvalifiserte sertifikatet nærmere skal inneholde."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -269,6 +274,7 @@
         "text": "Kongen kan fastsette nærmere regler om hvilke krav som skal stilles til kvalifiserte elektroniske signaturer som skal brukes ved kommunikasjon med og i offentlig sektor."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -287,6 +293,7 @@
         "html": "Dersom det i lov, forskrift eller på annen måte er oppstilt krav om underskrift for å få en bestemt rettsvirkning og disposisjonen kan gjennomføres elektronisk, oppfyller en kvalifisert elektronisk signatur alltid et slikt krav. En elektronisk signatur som ikke er kvalifisert, kan oppfylle et slikt krav.",
         "text": "Dersom det i lov, forskrift eller på annen måte er oppstilt krav om underskrift for å få en bestemt rettsvirkning og disposisjonen kan gjennomføres elektronisk, oppfyller en kvalifisert elektronisk signatur alltid et slikt krav. En elektronisk signatur som ikke er kvalifisert, kan oppfylle et slikt krav."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -319,6 +326,7 @@
         "text": "Kapittel II Sikre signaturfremstillingssystemer"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -339,21 +347,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i praksis kun kan fremtre én gang og med rimelig grad av sikkerhet forblir hemmeligholdt,</td>\n</tr>",
-        "text": "a)i praksis kun kan fremtre én gang og med rimelig grad av sikkerhet forblir hemmeligholdt,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i praksis kun kan fremtre én gang og med rimelig grad av sikkerhet forblir hemmeligholdt,</td>\n</tr>",
+        "text": "a)\ti praksis kun kan fremtre én gang og med rimelig grad av sikkerhet forblir hemmeligholdt,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i rimelig utstrekning ikke kan utledes, og</td>\n</tr>",
-        "text": "b)i rimelig utstrekning ikke kan utledes, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i rimelig utstrekning ikke kan utledes, og</td>\n</tr>",
+        "text": "b)\ti rimelig utstrekning ikke kan utledes, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på pålitelig vis kan beskyttes av rette undertegner mot andres bruk.</td>\n</tr>",
-        "text": "c)på pålitelig vis kan beskyttes av rette undertegner mot andres bruk."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på pålitelig vis kan beskyttes av rette undertegner mot andres bruk.</td>\n</tr>",
+        "text": "c)\tpå pålitelig vis kan beskyttes av rette undertegner mot andres bruk."
     },
     {
         "tag": "p",
@@ -361,6 +369,7 @@
         "html": "Et sikkert signaturfremstillingssystem må ikke forandre data i elektronisk form som skal signeres, eller hindre at dataene vises for undertegner før det signeres.",
         "text": "Et sikkert signaturfremstillingssystem må ikke forandre data i elektronisk form som skal signeres, eller hindre at dataene vises for undertegner før det signeres."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -377,7 +386,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Godkjennelse som et sikkert signaturfremstillingssystem, jf. § 8, gis av det organ som Kongen utpeker. Kongen kan i forskrift gi nærmere bestemmelser om organet og om krav til sikre signaturfremstillingssystem.",
+        "html": "Godkjennelse som et sikkert signaturfremstillingssystem, jf. <a data-id=\"lov/2001-06-15-81/§8\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A78\">§ 8</a>, gis av det organ som Kongen utpeker. Kongen kan i forskrift gi nærmere bestemmelser om organet og om krav til sikre signaturfremstillingssystem.",
         "text": "Godkjennelse som et sikkert signaturfremstillingssystem, jf. § 8, gis av det organ som Kongen utpeker. Kongen kan i forskrift gi nærmere bestemmelser om organet og om krav til sikre signaturfremstillingssystem."
     },
     {
@@ -389,7 +398,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kravene i § 8 skal anses oppfylt når den maskin- eller programvaren som benyttes, er i samsvar med de standarder for elektroniske signaturprodukter som Europakommisjonen fastsetter og som offentliggjøres i De Europeiske Fellesskaps Tidende.",
+        "html": "Kravene i <a data-id=\"lov/2001-06-15-81/§8\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A78\">§ 8</a> skal anses oppfylt når den maskin- eller programvaren som benyttes, er i samsvar med de standarder for elektroniske signaturprodukter som Europakommisjonen fastsetter og som offentliggjøres i De Europeiske Fellesskaps Tidende.",
         "text": "Kravene i § 8 skal anses oppfylt når den maskin- eller programvaren som benyttes, er i samsvar med de standarder for elektroniske signaturprodukter som Europakommisjonen fastsetter og som offentliggjøres i De Europeiske Fellesskaps Tidende."
     },
     {
@@ -398,6 +407,7 @@
         "html": "Kapittel III Krav til utstedere av kvalifiserte sertifikater",
         "text": "Kapittel III Krav til utstedere av kvalifiserte sertifikater"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -424,6 +434,7 @@
         "text": "Sertifikatutstederen skal til enhver tid ha tilstrekkelige økonomiske ressurser til å kunne drive virksomheten i henhold til kravene som er stilt i eller i medhold av denne lov."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -445,7 +456,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kravene i første ledd skal anses oppfylte dersom sertifikatutsteder benytter seg av produkter og systemer som er godkjent av et organ i henhold til § 9 første og annet ledd, eller er i samsvar med standarder fastsatt av Europakommisjonen etter § 9 tredje ledd.",
+        "html": "Kravene i første ledd skal anses oppfylte dersom sertifikatutsteder benytter seg av produkter og systemer som er godkjent av et organ i henhold til <a data-id=\"lov/2001-06-15-81/§9\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A79\">§ 9</a> første og annet ledd, eller er i samsvar med standarder fastsatt av Europakommisjonen etter <a data-id=\"lov/2001-06-15-81/§9\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A79\">§ 9</a> tredje ledd.",
         "text": "Kravene i første ledd skal anses oppfylte dersom sertifikatutsteder benytter seg av produkter og systemer som er godkjent av et organ i henhold til § 9 første og annet ledd, eller er i samsvar med standarder fastsatt av Europakommisjonen etter § 9 tredje ledd."
     },
     {
@@ -454,6 +465,7 @@
         "html": "Sertifikatutsteder skal iverksette tiltak mot forfalskning av sertifikatene. Dersom sertifikatutsteder fremstiller signaturfremstillingsdata, skal utstederen garantere fortroligheten av disse dataene under fremstillingsprosessen.",
         "text": "Sertifikatutsteder skal iverksette tiltak mot forfalskning av sertifikatene. Dersom sertifikatutsteder fremstiller signaturfremstillingsdata, skal utstederen garantere fortroligheten av disse dataene under fremstillingsprosessen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -473,6 +485,7 @@
         "html": "Utstedere av kvalifiserte sertifikater skal sørge for en hurtig og sikker katalog- og tilbaketrekkingstjeneste og skal sikre at det er mulig å fastslå dato og tidspunkt for ikrafttredelse eller tilbaketrekking av et sertifikat.",
         "text": "Utstedere av kvalifiserte sertifikater skal sørge for en hurtig og sikker katalog- og tilbaketrekkingstjeneste og skal sikre at det er mulig å fastslå dato og tidspunkt for ikrafttredelse eller tilbaketrekking av et sertifikat."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -498,6 +511,7 @@
         "html": "Opplysninger om rutinene som nevnt i første ledd skal være offentlig tilgjengelige.",
         "text": "Opplysninger om rutinene som nevnt i første ledd skal være offentlig tilgjengelige."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -525,21 +539,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysningens ekthet kan kontrolleres,</td>\n</tr>",
-        "text": "a)opplysningens ekthet kan kontrolleres,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysningens ekthet kan kontrolleres,</td>\n</tr>",
+        "text": "a)\topplysningens ekthet kan kontrolleres,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatene kun er offentlig tilgjengelige i de tilfellene  der innehaveren har gitt sitt samtykke, og</td>\n</tr>",
-        "text": "b)sertifikatene kun er offentlig tilgjengelige i de tilfellene der innehaveren har gitt sitt samtykke, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatene kun er offentlig tilgjengelige i de tilfellene  der innehaveren har gitt sitt samtykke, og</td>\n</tr>",
+        "text": "b)\tsertifikatene kun er offentlig tilgjengelige i de tilfellene  der innehaveren har gitt sitt samtykke, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle tekniske endringer, som bringer disse sikkerhetskravene i fare, er synlige for operatøren.</td>\n</tr>",
-        "text": "c)eventuelle tekniske endringer, som bringer disse sikkerhetskravene i fare, er synlige for operatøren."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle tekniske endringer, som bringer disse sikkerhetskravene i fare, er synlige for operatøren.</td>\n</tr>",
+        "text": "c)\teventuelle tekniske endringer, som bringer disse sikkerhetskravene i fare, er synlige for operatøren."
     },
     {
         "tag": "p",
@@ -547,6 +561,7 @@
         "html": "Utstedere av kvalifiserte sertifikater må ikke oppbevare eller kopiere undertegners signaturfremstillingsdata.",
         "text": "Utstedere av kvalifiserte sertifikater må ikke oppbevare eller kopiere undertegners signaturfremstillingsdata."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -568,21 +583,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkårene og begrensningene for bruken av sertifikatet,</td>\n</tr>",
-        "text": "a)vilkårene og begrensningene for bruken av sertifikatet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkårene og begrensningene for bruken av sertifikatet,</td>\n</tr>",
+        "text": "a)\tvilkårene og begrensningene for bruken av sertifikatet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om eventuelle frivillige akkrediterings- eller sertifiseringsordninger, og</td>\n</tr>",
-        "text": "b)opplysninger om eventuelle frivillige akkrediterings- eller sertifiseringsordninger, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om eventuelle frivillige akkrediterings- eller sertifiseringsordninger, og</td>\n</tr>",
+        "text": "b)\topplysninger om eventuelle frivillige akkrediterings- eller sertifiseringsordninger, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">prosedyrer for klage og avgjørelse av tvister.</td>\n</tr>",
-        "text": "c)prosedyrer for klage og avgjørelse av tvister."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">prosedyrer for klage og avgjørelse av tvister.</td>\n</tr>",
+        "text": "c)\tprosedyrer for klage og avgjørelse av tvister."
     },
     {
         "tag": "p",
@@ -590,6 +605,7 @@
         "html": "Opplysninger i henhold til første ledd kan sendes elektronisk, dersom det skjer i en for motparten umiddelbart lesbar form. Disse opplysningene skal også kunne kontrolleres av signaturmottakeren.",
         "text": "Opplysninger i henhold til første ledd kan sendes elektronisk, dersom det skjer i en for motparten umiddelbart lesbar form. Disse opplysningene skal også kunne kontrolleres av signaturmottakeren."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -606,7 +622,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen kan i forskrift fastsette nærmere regler om hvilke krav som kan stilles til utstedere av kvalifiserte sertifikater for å oppfylle bestemmelsene i §§ 10-15.",
+        "html": "Kongen kan i forskrift fastsette nærmere regler om hvilke krav som kan stilles til utstedere av kvalifiserte sertifikater for å oppfylle bestemmelsene i <a data-id=\"lov/2001-06-15-81/§10\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A710\">§§ 10-15</a>.",
         "text": "Kongen kan i forskrift fastsette nærmere regler om hvilke krav som kan stilles til utstedere av kvalifiserte sertifikater for å oppfylle bestemmelsene i §§ 10-15."
     },
     {
@@ -615,6 +631,7 @@
         "html": "Kapittel IV Tilsyn og sanksjoner",
         "text": "Kapittel IV Tilsyn og sanksjoner"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -665,6 +682,7 @@
         "text": "Kongen kan gi nærmere forskrifter om tilsynets virksomhet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -683,6 +701,7 @@
         "html": "En sertifikatutsteder kan ikke utstede kvalifiserte sertifikater før registreringsmelding er sendt til tilsynet. Endringer i allerede registrerte opplysninger og nye opplysninger som skal registeres, skal meldes til tilsynet uten ugrunnet opphold.",
         "text": "En sertifikatutsteder kan ikke utstede kvalifiserte sertifikater før registreringsmelding er sendt til tilsynet. Endringer i allerede registrerte opplysninger og nye opplysninger som skal registeres, skal meldes til tilsynet uten ugrunnet opphold."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -711,9 +730,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker § 15 om fremgangsmåten ved granskning, kommer til anvendelse.",
+        "html": "<a data-id=\"lov/1967-02-10\" class=\" reference\" href=\"/lov/1967-02-10\">Lov av 10. februar 1967</a> om behandlingsmåten i forvaltningssaker <a data-id=\"lov/1967-02-10/§15\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A715\">§ 15</a> om fremgangsmåten ved granskning, kommer til anvendelse.",
         "text": "Lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker § 15 om fremgangsmåten ved granskning, kommer til anvendelse."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -746,6 +766,7 @@
         "text": "Tilsynet kan frafalle påløpt tvangsmulkt."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -766,27 +787,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å registrere/sende melding etter § 18,</td>\n</tr>",
-        "text": "a)unnlater å registrere/sende melding etter § 18,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å registrere/sende melding etter <a data-id=\"lov/2001-06-15-81/§18\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A718\">§ 18</a>,</td>\n</tr>",
+        "text": "a)\tunnlater å registrere/sende melding etter § 18,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å gi opplysninger etter § 17,</td>\n</tr>",
-        "text": "b)unnlater å gi opplysninger etter § 17,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å gi opplysninger etter <a data-id=\"lov/2001-06-15-81/§17\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A717\">§ 17</a>,</td>\n</tr>",
+        "text": "b)\tunnlater å gi opplysninger etter § 17,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandler personopplysninger i strid med §§ 7 og 14, eller</td>\n</tr>",
-        "text": "c)behandler personopplysninger i strid med §§ 7 og 14, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandler personopplysninger i strid med <a data-id=\"lov/2001-06-15-81/§7\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A77\">§§ 7</a> og <a data-id=\"lov/2001-06-15-81/§14\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A714\">14</a>, eller</td>\n</tr>",
+        "text": "c)\tbehandler personopplysninger i strid med §§ 7 og 14, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger til tilsynet.</td>\n</tr>",
-        "text": "d)gir uriktige eller villedende opplysninger til tilsynet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gir uriktige eller villedende opplysninger til tilsynet.</td>\n</tr>",
+        "text": "d)\tgir uriktige eller villedende opplysninger til tilsynet."
     },
     {
         "tag": "p",
@@ -794,6 +815,7 @@
         "html": "Medvirkning straffes på samme måte.",
         "text": "Medvirkning straffes på samme måte."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -815,33 +837,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjonen angitt i sertifikatet var korrekt på utstedelsestidspunktet,</td>\n</tr>",
-        "text": "a)informasjonen angitt i sertifikatet var korrekt på utstedelsestidspunktet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjonen angitt i sertifikatet var korrekt på utstedelsestidspunktet,</td>\n</tr>",
+        "text": "a)\tinformasjonen angitt i sertifikatet var korrekt på utstedelsestidspunktet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatet inneholder alle opplysninger som kreves i henhold til § 4,</td>\n</tr>",
-        "text": "b)sertifikatet inneholder alle opplysninger som kreves i henhold til § 4,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatet inneholder alle opplysninger som kreves i henhold til <a data-id=\"lov/2001-06-15-81/§4\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A74\">§ 4</a>,</td>\n</tr>",
+        "text": "b)\tsertifikatet inneholder alle opplysninger som kreves i henhold til § 4,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">signaturfremstillingsdata og signaturverifikasjonsdata hører sammen på en unik måte dersom sertifikatutstederen fremstiller begge,</td>\n</tr>",
-        "text": "c)signaturfremstillingsdata og signaturverifikasjonsdata hører sammen på en unik måte dersom sertifikatutstederen fremstiller begge,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">signaturfremstillingsdata og signaturverifikasjonsdata hører sammen på en unik måte dersom sertifikatutstederen fremstiller begge,</td>\n</tr>",
+        "text": "c)\tsignaturfremstillingsdata og signaturverifikasjonsdata hører sammen på en unik måte dersom sertifikatutstederen fremstiller begge,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">undertegner disponerte korrekt signaturfremstillingsdata på tidspunktet da sertifikatet ble utstedt, eller</td>\n</tr>",
-        "text": "d)undertegner disponerte korrekt signaturfremstillingsdata på tidspunktet da sertifikatet ble utstedt, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">undertegner disponerte korrekt signaturfremstillingsdata på tidspunktet da sertifikatet ble utstedt, eller</td>\n</tr>",
+        "text": "d)\tundertegner disponerte korrekt signaturfremstillingsdata på tidspunktet da sertifikatet ble utstedt, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatet blir registrert i tilbaketrekkingslisten, jf. § 12.</td>\n</tr>",
-        "text": "e)sertifikatet blir registrert i tilbaketrekkingslisten, jf. § 12."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatet blir registrert i tilbaketrekkingslisten, jf. <a data-id=\"lov/2001-06-15-81/§12\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A712\">§ 12</a>.</td>\n</tr>",
+        "text": "e)\tsertifikatet blir registrert i tilbaketrekkingslisten, jf. § 12."
     },
     {
         "tag": "p",
@@ -855,6 +877,7 @@
         "html": "Sertifikatutsteder er ikke erstatningsansvarlig for skade som skyldes at sertifikatet har blitt brukt i strid med tydelige begrensninger i sertifikatets anvendelsesområde eller utover beløpsmessige begrensninger.",
         "text": "Sertifikatutsteder er ikke erstatningsansvarlig for skade som skyldes at sertifikatet har blitt brukt i strid med tydelige begrensninger i sertifikatets anvendelsesområde eller utover beløpsmessige begrensninger."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -875,6 +898,7 @@
         "text": "Tilsynets avgjørelser etter bestemmelser som er gitt i eller i medhold av denne loven, kan påklages til det organ Kongen utpeker."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -890,7 +914,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen kan i forskrift bestemme at sertifikatutstedere som er registreringspliktige etter § 18, skal betale gebyr. Gebyrene må ikke overstige kostnadene ved tilsynets virksomhet.",
+        "html": "Kongen kan i forskrift bestemme at sertifikatutstedere som er registreringspliktige etter <a data-id=\"lov/2001-06-15-81/§18\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A718\">§ 18</a>, skal betale gebyr. Gebyrene må ikke overstige kostnadene ved tilsynets virksomhet.",
         "text": "Kongen kan i forskrift bestemme at sertifikatutstedere som er registreringspliktige etter § 18, skal betale gebyr. Gebyrene må ikke overstige kostnadene ved tilsynets virksomhet."
     },
     {
@@ -899,6 +923,7 @@
         "html": "Kapittel V Internasjonale forhold",
         "text": "Kapittel V Internasjonale forhold"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -926,21 +951,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utstederen oppfyller kravene i denne lov og har blitt godkjent iht. en frivillig godkjenningsordning i et medlemsland,</td>\n</tr>",
-        "text": "a)utstederen oppfyller kravene i denne lov og har blitt godkjent iht. en frivillig godkjenningsordning i et medlemsland,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utstederen oppfyller kravene i denne lov og har blitt godkjent iht. en frivillig godkjenningsordning i et medlemsland,</td>\n</tr>",
+        "text": "a)\tutstederen oppfyller kravene i denne lov og har blitt godkjent iht. en frivillig godkjenningsordning i et medlemsland,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en sertifikatutsteder som er etablert innen EØS-området, og som oppfyller kravene i denne loven, garanterer for utstederen, eller</td>\n</tr>",
-        "text": "b)en sertifikatutsteder som er etablert innen EØS-området, og som oppfyller kravene i denne loven, garanterer for utstederen, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en sertifikatutsteder som er etablert innen EØS-området, og som oppfyller kravene i denne loven, garanterer for utstederen, eller</td>\n</tr>",
+        "text": "b)\ten sertifikatutsteder som er etablert innen EØS-området, og som oppfyller kravene i denne loven, garanterer for utstederen, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatet eller utstederen er anerkjent i henhold til multilaterale eller bilaterale avtaler med Norge, EU, tredjeland eller internasjonale organisasjoner.</td>\n</tr>",
-        "text": "c)sertifikatet eller utstederen er anerkjent i henhold til multilaterale eller bilaterale avtaler med Norge, EU, tredjeland eller internasjonale organisasjoner."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sertifikatet eller utstederen er anerkjent i henhold til multilaterale eller bilaterale avtaler med Norge, EU, tredjeland eller internasjonale organisasjoner.</td>\n</tr>",
+        "text": "c)\tsertifikatet eller utstederen er anerkjent i henhold til multilaterale eller bilaterale avtaler med Norge, EU, tredjeland eller internasjonale organisasjoner."
     },
     {
         "tag": "h2",
@@ -948,6 +973,7 @@
         "html": "Kapittel VI Ikrafttredelse og overgangsregler",
         "text": "Kapittel VI Ikrafttredelse og overgangsregler"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -968,6 +994,7 @@
         "text": "Loven trer i kraft fra den tid Kongen bestemmer."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -983,7 +1010,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Utstedere av kvalifiserte sertifikater skal innen 6 måneder etter at loven har trådt i kraft registrere seg i henhold til § 18 eller innenfor samme frist opphøre med å kalle sertifikatene for kvalifiserte eller bruke betegnelse som gir inntrykk av at de er kvalifiserte.",
+        "html": "Utstedere av kvalifiserte sertifikater skal innen 6 måneder etter at loven har trådt i kraft registrere seg i henhold til <a data-id=\"lov/2001-06-15-81/§18\" class=\" reference\" href=\"/lov/2001-06-15-81/%C2%A718\">§ 18</a> eller innenfor samme frist opphøre med å kalle sertifikatene for kvalifiserte eller bruke betegnelse som gir inntrykk av at de er kvalifiserte.",
         "text": "Utstedere av kvalifiserte sertifikater skal innen 6 måneder etter at loven har trådt i kraft registrere seg i henhold til § 18 eller innenfor samme frist opphøre med å kalle sertifikatene for kvalifiserte eller bruke betegnelse som gir inntrykk av at de er kvalifiserte."
     }
 ]

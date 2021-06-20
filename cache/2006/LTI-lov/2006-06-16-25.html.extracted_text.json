@@ -2,13 +2,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.77 (2005–2006), Innst.O.nr.65 (2005–2006) og Besl.O.nr.85 (2005–2006). Odels- og lagtingsvedtak hhv. 13. og 16. juni 2006. Fremja av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-77-200506\" class=\" reference\" href=\"/forarbeid/otprp-77-200506\">Ot.prp.nr.77 (2005–2006)</a>, <a data-id=\"forarbeid/inns-o-65-200506\" class=\" reference\" href=\"/forarbeid/inns-o-65-200506\">Innst.O.nr.65 (2005–2006)</a> og <a data-id=\"forarbeid/besl-o-85-200506\" class=\" reference\" href=\"/forarbeid/besl-o-85-200506\">Besl.O.nr.85 (2005–2006)</a>. Odels- og lagtingsvedtak hhv. 13. og 16. juni 2006. Fremja av Finansdepartementet.",
         "text": "Ot.prp.nr.77 (2005–2006), Innst.O.nr.65 (2005–2006) og Besl.O.nr.85 (2005–2006). Odels- og lagtingsvedtak hhv. 13. og 16. juni 2006. Fremja av Finansdepartementet."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjerast følgjande endringar:",
+        "html": "I <a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">lov 6. juni 1975 nr. 29</a> om eigedomsskatt til kommunane gjerast følgjande endringar:",
         "text": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjerast følgjande endringar:"
     },
     {
@@ -49,9 +49,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Eigedom som vert driven som gardsbruk eller skogbruk.</td>\n</tr>",
-        "text": "h)Eigedom som vert driven som gardsbruk eller skogbruk."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Eigedom som vert driven som gardsbruk eller skogbruk.</td>\n</tr>",
+        "text": "h)\tEigedom som vert driven som gardsbruk eller skogbruk."
     },
     {
         "tag": "p",

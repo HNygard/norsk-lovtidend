@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.118 L (2011–2012), Innst.396 L (2011–2012), Lovvedtak 2 (2012–2013). Stortingets første og andre gangs behandling hhv. 11. og 16. oktober 2012. Fremmet av Arbeidsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-118-l-201112\" class=\" reference\" href=\"/forarbeid/prop-118-l-201112\">Prop.118 L (2011–2012)</a>, <a data-id=\"forarbeid/inns-396-l-201112\" class=\" reference\" href=\"/forarbeid/inns-396-l-201112\">Innst.396 L (2011–2012)</a>, <a data-id=\"forarbeid/lovvedtak-2-201213\" class=\" reference\" href=\"/forarbeid/lovvedtak-2-201213\">Lovvedtak 2 (2012–2013)</a>. Stortingets første og andre gangs behandling hhv. 11. og 16. oktober 2012. Fremmet av Arbeidsdepartementet.",
         "text": "Prop.118 L (2011–2012), Innst.396 L (2011–2012), Lovvedtak 2 (2012–2013). Stortingets første og andre gangs behandling hhv. 11. og 16. oktober 2012. Fremmet av Arbeidsdepartementet."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).</td>\n</tr>",
-        "text": "1Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td>\n</tr>",
+        "text": "1\tLov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).</td>\n</tr>",
-        "text": "2Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).</td>\n</tr>",
+        "text": "2\tLov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)."
     },
     {
         "tag": "h2",
@@ -32,7 +32,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 28. februar 1997 nr. 19 om folketrygd skal disse endringer gjøres:",
+        "html": "I <a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">lov 28. februar 1997 nr. 19</a> om folketrygd skal disse endringer gjøres:",
         "text": "I lov 28. februar 1997 nr. 19 om folketrygd skal disse endringer gjøres:"
     },
     {
@@ -49,9 +49,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omfatte stønad ved helsetjenester etter kapittel 5, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, og ytelser ved fødsel og adopsjon etter kapittel 14.</td>\n</tr>",
-        "text": "b)omfatte stønad ved helsetjenester etter kapittel 5, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, og ytelser ved fødsel og adopsjon etter kapittel 14."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omfatte stønad ved helsetjenester etter kapittel 5, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, og ytelser ved fødsel og adopsjon etter kapittel 14.</td>\n</tr>",
+        "text": "b)\tomfatte stønad ved helsetjenester etter kapittel 5, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, og ytelser ved fødsel og adopsjon etter kapittel 14."
     },
     {
         "tag": "p",
@@ -61,9 +61,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ytelser fra folketrygden i form av dagpenger under arbeidsløshet etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11 og svangerskapspenger og foreldrepenger etter kapittel 14</td>\n</tr>",
-        "text": "e)ytelser fra folketrygden i form av dagpenger under arbeidsløshet etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11 og svangerskapspenger og foreldrepenger etter kapittel 14"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ytelser fra folketrygden i form av dagpenger under arbeidsløshet etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11 og svangerskapspenger og foreldrepenger etter kapittel 14</td>\n</tr>",
+        "text": "e)\tytelser fra folketrygden i form av dagpenger under arbeidsløshet etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11 og svangerskapspenger og foreldrepenger etter kapittel 14"
     },
     {
         "tag": "p",
@@ -145,21 +145,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">får aktiv behandling, eller</td>\n</tr>",
-        "text": "a)får aktiv behandling, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">får aktiv behandling, eller</td>\n</tr>",
+        "text": "a)\tfår aktiv behandling, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">deltar på et arbeidsrettet tiltak, eller</td>\n</tr>",
-        "text": "b)deltar på et arbeidsrettet tiltak, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">deltar på et arbeidsrettet tiltak, eller</td>\n</tr>",
+        "text": "b)\tdeltar på et arbeidsrettet tiltak, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etter å ha prøvd tiltak etter bokstavene a eller b fortsatt anses å ha en viss mulighet for å komme i arbeid, og får oppfølging fra Arbeids- og velferdsetaten.</td>\n</tr>",
-        "text": "c)etter å ha prøvd tiltak etter bokstavene a eller b fortsatt anses å ha en viss mulighet for å komme i arbeid, og får oppfølging fra Arbeids- og velferdsetaten."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etter å ha prøvd tiltak etter bokstavene a eller b fortsatt anses å ha en viss mulighet for å komme i arbeid, og får oppfølging fra Arbeids- og velferdsetaten.</td>\n</tr>",
+        "text": "c)\tetter å ha prøvd tiltak etter bokstavene a eller b fortsatt anses å ha en viss mulighet for å komme i arbeid, og får oppfølging fra Arbeids- og velferdsetaten."
     },
     {
         "tag": "p",
@@ -170,7 +170,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Medlemmet skal medvirke ved utarbeidelsen av en konkret plan for hvordan han eller hun skal komme i arbeid (aktivitetsplan), jf. arbeids- og velferdsforvaltningsloven § 14a tredje ledd.",
+        "html": "Medlemmet skal medvirke ved utarbeidelsen av en konkret plan for hvordan han eller hun skal komme i arbeid (aktivitetsplan), jf. arbeids- og <a data-id=\"lov/2006-06-16-20/§14a\" class=\" reference\" href=\"/lov/2006-06-16-20/%C2%A714a\">velferdsforvaltningsloven § 14a</a> tredje ledd.",
         "text": "Medlemmet skal medvirke ved utarbeidelsen av en konkret plan for hvordan han eller hun skal komme i arbeid (aktivitetsplan), jf. arbeids- og velferdsforvaltningsloven § 14a tredje ledd."
     },
     {
@@ -229,9 +229,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pleiepenger for pleie av barn og nærstående (§§ 9-10 til 9-12)</td>\n</tr>",
-        "text": "d)pleiepenger for pleie av barn og nærstående (§§ 9-10 til 9-12)"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pleiepenger for pleie av barn og nærstående (§§ 9-10 til 9-12)</td>\n</tr>",
+        "text": "d)\tpleiepenger for pleie av barn og nærstående (§§ 9-10 til 9-12)"
     },
     {
         "tag": "p",
@@ -254,7 +254,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. skal disse endringene gjøres:",
+        "html": "I <a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. skal disse endringene gjøres:",
         "text": "I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. skal disse endringene gjøres:"
     },
     {
@@ -296,7 +296,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Endringen i folketrygdloven § 22-15 trer i kraft straks. De øvrige endringene trer i kraft fra den tid Kongen bestemmer.",
+        "html": "Endringen i <a data-id=\"lov/1997-02-28-19/§22-15\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A722-15\">folketrygdloven § 22-15</a> trer i kraft straks. De øvrige endringene trer i kraft fra den tid Kongen bestemmer.",
         "text": "Endringen i folketrygdloven § 22-15 trer i kraft straks. De øvrige endringene trer i kraft fra den tid Kongen bestemmer."
     }
 ]

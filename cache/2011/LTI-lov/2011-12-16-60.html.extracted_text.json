@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.9 L (2011–2012), Innst.97 L (2011–2012), Lovvedtak 26 (2011–2012). Stortingets første og andre gangs behandling hhv. 8. og 15. desember 2011. Fremmet av Arbeidsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-9-l-201112\" class=\" reference\" href=\"/forarbeid/prop-9-l-201112\">Prop.9 L (2011–2012)</a>, <a data-id=\"forarbeid/inns-97-l-201112\" class=\" reference\" href=\"/forarbeid/inns-97-l-201112\">Innst.97 L (2011–2012)</a>, <a data-id=\"forarbeid/lovvedtak-26-201112\" class=\" reference\" href=\"/forarbeid/lovvedtak-26-201112\">Lovvedtak 26 (2011–2012)</a>. Stortingets første og andre gangs behandling hhv. 8. og 15. desember 2011. Fremmet av Arbeidsdepartementet.",
         "text": "Prop.9 L (2011–2012), Innst.97 L (2011–2012), Lovvedtak 26 (2011–2012). Stortingets første og andre gangs behandling hhv. 8. og 15. desember 2011. Fremmet av Arbeidsdepartementet."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder.</td>\n</tr>",
-        "text": "1Lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1951-12-14-11\" class=\" reference\" href=\"/lov/1951-12-14-11\">Lov 14. desember 1951 nr. 11</a> om pensjonsordning for statsråder.</td>\n</tr>",
+        "text": "1\tLov 14. desember 1951 nr. 11 om pensjonsordning for statsråder."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter.</td>\n</tr>",
-        "text": "2Lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1981-06-12-61\" class=\" reference\" href=\"/lov/1981-06-12-61\">Lov 12. juni 1981 nr. 61</a> om pensjonsordning for stortingsrepresentanter.</td>\n</tr>",
+        "text": "2\tLov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter."
     },
     {
         "tag": "h2",
@@ -29,6 +29,7 @@
         "html": "Kapittel 1 Innledende bestemmelser",
         "text": "Kapittel 1 Innledende bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -48,6 +49,7 @@
         "html": "Formålet med pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer er å sikre medlemmene pensjonsytelser ved alderdom og uførhet. Ordningen skal også sikre pensjonsytelser til etterlatte.",
         "text": "Formålet med pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer er å sikre medlemmene pensjonsytelser ved alderdom og uførhet. Ordningen skal også sikre pensjonsytelser til etterlatte."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -80,6 +82,7 @@
         "text": "Regjeringsmedlemmer som ilegges karantene før overgang til ny stilling, opprettholder medlemskap i ordningen til karantenen utløper."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -95,19 +98,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Alderspensjon etter kapittel 2 er en nettoberegnet ytelse, og den skal ikke samordnes etter bestemmelsene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven).",
+        "html": "Alderspensjon etter kapittel 2 er en nettoberegnet ytelse, og den skal ikke samordnes etter bestemmelsene i <a data-id=\"lov/1957-07-06-26\" class=\" reference\" href=\"/lov/1957-07-06-26\">lov 6. juli 1957 nr. 26</a> om samordning av pensjons- og trygdeytelser (samordningsloven).",
         "text": "Alderspensjon etter kapittel 2 er en nettoberegnet ytelse, og den skal ikke samordnes etter bestemmelsene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven)."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Alderspensjon etter kapitlene 3 og 4 og uførepensjon etter kapittel 5 samordnes etter bestemmelsene i samordningsloven. Alderspensjon etter kapitlene 3 og 4 skal regnes som to forskjellige ordninger ved anvendelse av bestemmelsene i samordningsloven.",
+        "html": "Alderspensjon etter kapitlene 3 og 4 og uførepensjon etter <a data-id=\"lov/2011-12-16-60/kap5\" class=\" reference\" href=\"/lov/2011-12-16-60/kap5\">kapittel 5</a> samordnes etter bestemmelsene i samordningsloven. Alderspensjon etter kapitlene 3 og 4 skal regnes som to forskjellige ordninger ved anvendelse av bestemmelsene i samordningsloven.",
         "text": "Alderspensjon etter kapitlene 3 og 4 og uførepensjon etter kapittel 5 samordnes etter bestemmelsene i samordningsloven. Alderspensjon etter kapitlene 3 og 4 skal regnes som to forskjellige ordninger ved anvendelse av bestemmelsene i samordningsloven."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Etterlattepensjon etter kapittel 6 skal samordnes etter bestemmelsene i samordningsloven når pensjonen beregnes som bruttoytelse. Når pensjonen beregnes som nettoytelse, gjelder bestemmelsen i samordningsloven § 3 tredje ledd.",
+        "html": "Etterlattepensjon etter <a data-id=\"lov/2011-12-16-60/kap6\" class=\" reference\" href=\"/lov/2011-12-16-60/kap6\">kapittel 6</a> skal samordnes etter bestemmelsene i samordningsloven når pensjonen beregnes som bruttoytelse. Når pensjonen beregnes som nettoytelse, gjelder bestemmelsen i <a data-id=\"lov/1957-07-06-26/§3\" class=\" reference\" href=\"/lov/1957-07-06-26/%C2%A73\">samordningsloven § 3</a> tredje ledd.",
         "text": "Etterlattepensjon etter kapittel 6 skal samordnes etter bestemmelsene i samordningsloven når pensjonen beregnes som bruttoytelse. Når pensjonen beregnes som nettoytelse, gjelder bestemmelsen i samordningsloven § 3 tredje ledd."
     },
     {
@@ -116,6 +119,7 @@
         "html": "Kapittel 2 Alderspensjon",
         "text": "Kapittel 2 Alderspensjon"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -135,6 +139,7 @@
         "html": "Kapitlet gjelder alderspensjon til stortingsrepresentanter og regjeringsmedlemmer.",
         "text": "Kapitlet gjelder alderspensjon til stortingsrepresentanter og regjeringsmedlemmer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -163,7 +168,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det gis pensjonsopptjening til den som mottar uførepensjon etter § 5-3 første ledd. Opptjeningsgrunnlaget skal være pensjonsgrunnlaget som uførepensjonen beregnes etter.",
+        "html": "Det gis pensjonsopptjening til den som mottar uførepensjon etter <a data-id=\"lov/2011-12-16-60/§5-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A75-3\">§ 5-3</a> første ledd. Opptjeningsgrunnlaget skal være pensjonsgrunnlaget som uførepensjonen beregnes etter.",
         "text": "Det gis pensjonsopptjening til den som mottar uførepensjon etter § 5-3 første ledd. Opptjeningsgrunnlaget skal være pensjonsgrunnlaget som uførepensjonen beregnes etter."
     },
     {
@@ -187,9 +192,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjonsbeholdningen reguleres årlig i samsvar med lønnsveksten, se § 7-2 første ledd.",
+        "html": "Pensjonsbeholdningen reguleres årlig i samsvar med lønnsveksten, se <a data-id=\"lov/2011-12-16-60/§7-2\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A77-2\">§ 7-2</a> første ledd.",
         "text": "Pensjonsbeholdningen reguleres årlig i samsvar med lønnsveksten, se § 7-2 første ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -210,6 +216,7 @@
         "text": "Det kreves minst ett års samlet medlemskap for å ha rett til alderspensjon etter kapitlet her."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -228,6 +235,7 @@
         "html": "Alderspensjon kan tidligst tas ut fra fylte 62 år. Dersom pensjonen ikke er tatt ut innen vedkommende fyller 75 år, skal pensjonen uansett utbetales fra og med måneden etter fylte 75 år.",
         "text": "Alderspensjon kan tidligst tas ut fra fylte 62 år. Dersom pensjonen ikke er tatt ut innen vedkommende fyller 75 år, skal pensjonen uansett utbetales fra og med måneden etter fylte 75 år."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -256,9 +264,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Levealdersjustering og nøytralt uttak gjennomføres ved hjelp av delingstall. For årskull fra og med 1963-kullet benyttes delingstall som i folketrygden, se folketrygdloven §§ 20-12 og 20-13. For årskullene 1943 til og med 1962 benyttes særskilte delingstall som sikrer at levealdersjusteringen mellom årskull skal være den samme som i folketrygden. De særskilte delingstallene fastsettes av Statens pensjonskasse. Departementet kan gi forskrift om fastsetting av særskilte delingstall.",
+        "html": "Levealdersjustering og nøytralt uttak gjennomføres ved hjelp av delingstall. For årskull fra og med 1963-kullet benyttes delingstall som i folketrygden, se <a data-id=\"lov/1997-02-28-19/§20-12\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A720-12\">folketrygdloven §§ 20-12</a> og <a data-id=\"lov/1997-02-28-19/§20-13\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A720-13\">20-13</a>. For årskullene 1943 til og med 1962 benyttes særskilte delingstall som sikrer at levealdersjusteringen mellom årskull skal være den samme som i folketrygden. De særskilte delingstallene fastsettes av Statens pensjonskasse. Departementet kan gi forskrift om fastsetting av særskilte delingstall.",
         "text": "Levealdersjustering og nøytralt uttak gjennomføres ved hjelp av delingstall. For årskull fra og med 1963-kullet benyttes delingstall som i folketrygden, se folketrygdloven §§ 20-12 og 20-13. For årskullene 1943 til og med 1962 benyttes særskilte delingstall som sikrer at levealdersjusteringen mellom årskull skal være den samme som i folketrygden. De særskilte delingstallene fastsettes av Statens pensjonskasse. Departementet kan gi forskrift om fastsetting av særskilte delingstall."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -278,6 +287,7 @@
         "html": "Pensjonen beregnes på grunnlag av pensjonsbeholdningen på uttakstidspunktet. Pensjonsbeholdingen gjøres om til årlig pensjon ved å dividere den med vedkommendes delingstall ved inngangen til den måneden pensjonen tas ut fra.",
         "text": "Pensjonen beregnes på grunnlag av pensjonsbeholdningen på uttakstidspunktet. Pensjonsbeholdingen gjøres om til årlig pensjon ved å dividere den med vedkommendes delingstall ved inngangen til den måneden pensjonen tas ut fra."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -304,6 +314,7 @@
         "text": "Alderspensjonen opphører ved utgangen av måneden etter pensjonistens død. Dersom avdøde etterlater seg ektefelle, utbetales pensjonen i ytterligere én måned."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -329,6 +340,7 @@
         "text": "Omregningen foretas med virkning fra 1. januar året etter at opptjeningen fant sted."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -344,13 +356,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For den som har opptjening etter kapitlet her, og som har opptjente rettigheter etter kapittel 3 eller 4 eller begge kapitlene, skal samlet pensjon ikke overstige en beregnet maksimal pensjon.",
+        "html": "For den som har opptjening etter kapitlet her, og som har opptjente rettigheter etter <a data-id=\"lov/2011-12-16-60/kap3\" class=\" reference\" href=\"/lov/2011-12-16-60/kap3\">kapittel 3</a> eller 4 eller begge kapitlene, skal samlet pensjon ikke overstige en beregnet maksimal pensjon.",
         "text": "For den som har opptjening etter kapitlet her, og som har opptjente rettigheter etter kapittel 3 eller 4 eller begge kapitlene, skal samlet pensjon ikke overstige en beregnet maksimal pensjon."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Beregnet maksimal pensjon skal tilsvare pensjon beregnet etter kapitlene 3 og 4 for hele opptjeningstiden som den enkelte har som stortingsrepresentant og regjeringsmedlem. Har vedkommende både vært stortingsrepresentant og regjeringsmedlem, skal reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven) kapittel II også anvendes. Eventuelle andre pensjoner som er omfattet av samordningsloven skal holdes utenfor ved beregningen av maksimal pensjon.",
+        "html": "Beregnet maksimal pensjon skal tilsvare pensjon beregnet etter kapitlene 3 og 4 for hele opptjeningstiden som den enkelte har som stortingsrepresentant og regjeringsmedlem. Har vedkommende både vært stortingsrepresentant og regjeringsmedlem, skal reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven) kapittel <a data-id=\"lov/1957-07-06-26/kapii\" class=\" reference\" href=\"/lov/1957-07-06-26/kapii\">II</a> også anvendes. Eventuelle andre pensjoner som er omfattet av samordningsloven skal holdes utenfor ved beregningen av maksimal pensjon.",
         "text": "Beregnet maksimal pensjon skal tilsvare pensjon beregnet etter kapitlene 3 og 4 for hele opptjeningstiden som den enkelte har som stortingsrepresentant og regjeringsmedlem. Har vedkommende både vært stortingsrepresentant og regjeringsmedlem, skal reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven) kapittel II også anvendes. Eventuelle andre pensjoner som er omfattet av samordningsloven skal holdes utenfor ved beregningen av maksimal pensjon."
     },
     {
@@ -372,6 +384,7 @@
         "text": "Kapittel 3 Alderspensjon opptjent etter den tidligere loven om pensjonsordning for stortingsrepresentanter"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -387,9 +400,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kapitlet gjelder alderspensjon som er opptjent etter tidligere lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter.",
+        "html": "Kapitlet gjelder alderspensjon som er opptjent etter tidligere <a data-id=\"lov/1981-06-12-61\" class=\" reference\" href=\"/lov/1981-06-12-61\">lov 12. juni 1981 nr. 61</a> om pensjonsordning for stortingsrepresentanter.",
         "text": "Kapitlet gjelder alderspensjon som er opptjent etter tidligere lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -406,15 +420,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Opptjeningstiden etter kapitlet her beregnes etter bestemmelsene om pensjonsgivende tid i tidligere lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter.",
+        "html": "Opptjeningstiden etter kapitlet her beregnes etter bestemmelsene om pensjonsgivende tid i tidligere <a data-id=\"lov/1981-06-12-61\" class=\" reference\" href=\"/lov/1981-06-12-61\">lov 12. juni 1981 nr. 61</a> om pensjonsordning for stortingsrepresentanter.",
         "text": "Opptjeningstiden etter kapitlet her beregnes etter bestemmelsene om pensjonsgivende tid i tidligere lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Den tiden en person som var valgt som stortingsrepresentant har vært regjeringsmedlem, medregnes som opptjeningstid etter kapitlet her så lenge den ikke samtidig benyttes som opptjeningstid etter kapittel 4.",
+        "html": "Den tiden en person som var valgt som stortingsrepresentant har vært regjeringsmedlem, medregnes som opptjeningstid etter kapitlet her så lenge den ikke samtidig benyttes som opptjeningstid etter <a data-id=\"lov/2011-12-16-60/kap4\" class=\" reference\" href=\"/lov/2011-12-16-60/kap4\">kapittel 4</a>.",
         "text": "Den tiden en person som var valgt som stortingsrepresentant har vært regjeringsmedlem, medregnes som opptjeningstid etter kapitlet her så lenge den ikke samtidig benyttes som opptjeningstid etter kapittel 4."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -431,9 +446,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det kreves minst tre års opptjeningstid for å ha rett til alderspensjon etter kapitlet her, jf. likevel reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6. Det kan gis alderspensjon for kortere opptjeningstid når summen av opptjeningstid etter kapitlet her og medlemstid etter kapittel 2 er minst tre år.",
+        "html": "Det kreves minst tre års opptjeningstid for å ha rett til alderspensjon etter kapitlet her, jf. likevel reglene i <a data-id=\"lov/1957-07-06-26\" class=\" reference\" href=\"/lov/1957-07-06-26\">lov 6. juli 1957 nr. 26</a> om samordning av pensjons- og trygdeytelser <a data-id=\"lov/1957-07-06-26/§6\" class=\" reference\" href=\"/lov/1957-07-06-26/%C2%A76\">§ 6</a>. Det kan gis alderspensjon for kortere opptjeningstid når summen av opptjeningstid etter kapitlet her og medlemstid etter <a data-id=\"lov/2011-12-16-60/kap2\" class=\" reference\" href=\"/lov/2011-12-16-60/kap2\">kapittel 2</a> er minst tre år.",
         "text": "Det kreves minst tre års opptjeningstid for å ha rett til alderspensjon etter kapitlet her, jf. likevel reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6. Det kan gis alderspensjon for kortere opptjeningstid når summen av opptjeningstid etter kapitlet her og medlemstid etter kapittel 2 er minst tre år."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -456,19 +472,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Alderspensjonen kan tas ut før fylte 65 år når summen av alder og opptjeningstid er minst 75 år. Dette gjelder likevel ikke når vedkommende har eller får pensjonsgivende inntekt etter folketrygdloven § 3-15, eller arbeidsinntekt av samme art i utlandet, som overstiger en inntektsgrense. Inntektsgrensen skal settes til full pensjon beregnet etter § 3-6 første ledd første punktum i loven her ut fra pensjonsgrunnlaget fastsatt ved lovens ikrafttredelse og oppregulert etter § 7-2 andre ledd. Feriepenger som skriver seg fra opphørte arbeidsforhold, skal ikke medregnes. Pensjonen kan heller ikke tas ut samtidig med uførepensjon etter loven her.",
+        "html": "Alderspensjonen kan tas ut før fylte 65 år når summen av alder og opptjeningstid er minst 75 år. Dette gjelder likevel ikke når vedkommende har eller får pensjonsgivende inntekt etter <a data-id=\"lov/1997-02-28-19/§3-15\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A73-15\">folketrygdloven § 3-15</a>, eller arbeidsinntekt av samme art i utlandet, som overstiger en inntektsgrense. Inntektsgrensen skal settes til full pensjon beregnet etter § 3-6 første ledd første punktum i loven her ut fra pensjonsgrunnlaget fastsatt ved lovens ikrafttredelse og oppregulert etter <a data-id=\"lov/2011-12-16-60/§7-2\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A77-2\">§ 7-2</a> andre ledd. Feriepenger som skriver seg fra opphørte arbeidsforhold, skal ikke medregnes. Pensjonen kan heller ikke tas ut samtidig med uførepensjon etter loven her.",
         "text": "Alderspensjonen kan tas ut før fylte 65 år når summen av alder og opptjeningstid er minst 75 år. Dette gjelder likevel ikke når vedkommende har eller får pensjonsgivende inntekt etter folketrygdloven § 3-15, eller arbeidsinntekt av samme art i utlandet, som overstiger en inntektsgrense. Inntektsgrensen skal settes til full pensjon beregnet etter § 3-6 første ledd første punktum i loven her ut fra pensjonsgrunnlaget fastsatt ved lovens ikrafttredelse og oppregulert etter § 7-2 andre ledd. Feriepenger som skriver seg fra opphørte arbeidsforhold, skal ikke medregnes. Pensjonen kan heller ikke tas ut samtidig med uførepensjon etter loven her."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjonen en har rett til i perioden fra 65 til 67 år, kan tas ut tidligst fra fylte 62 år beregnet etter bestemmelsen i § 3-6 tredje ledd. Det kan ikke tas ut alderspensjon etter andre og tredje ledd i paragrafen her samtidig. Den som tar ut pensjon etter første punktum i leddet her, mister retten til å ta ut pensjon etter andre ledd.",
+        "html": "Pensjonen en har rett til i perioden fra 65 til 67 år, kan tas ut tidligst fra fylte 62 år beregnet etter bestemmelsen i <a data-id=\"lov/2011-12-16-60/§3-6\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-6\">§ 3-6</a> tredje ledd. Det kan ikke tas ut alderspensjon etter andre og tredje ledd i paragrafen her samtidig. Den som tar ut pensjon etter første punktum i leddet her, mister retten til å ta ut pensjon etter andre ledd.",
         "text": "Pensjonen en har rett til i perioden fra 65 til 67 år, kan tas ut tidligst fra fylte 62 år beregnet etter bestemmelsen i § 3-6 tredje ledd. Det kan ikke tas ut alderspensjon etter andre og tredje ledd i paragrafen her samtidig. Den som tar ut pensjon etter første punktum i leddet her, mister retten til å ta ut pensjon etter andre ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det gis ikke pensjon etter tredje ledd for tidsrom der det ytes avtalefestet pensjon som nevnt i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1 nr. 1 første ledd bokstav d, arbeidsavklaringspenger eller uførepensjon fra folketrygden eller uførepensjon etter loven her.",
+        "html": "Det gis ikke pensjon etter tredje ledd for tidsrom der det ytes avtalefestet pensjon som nevnt i <a data-id=\"lov/1957-07-06-26\" class=\" reference\" href=\"/lov/1957-07-06-26\">lov 6. juli 1957 nr. 26</a> om samordning av pensjons- og trygdeytelser <a data-id=\"lov/1957-07-06-26/§1\" class=\" reference\" href=\"/lov/1957-07-06-26/%C2%A71\">§ 1</a> nr. 1 første ledd bokstav d, arbeidsavklaringspenger eller uførepensjon fra folketrygden eller uførepensjon etter loven her.",
         "text": "Det gis ikke pensjon etter tredje ledd for tidsrom der det ytes avtalefestet pensjon som nevnt i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1 nr. 1 første ledd bokstav d, arbeidsavklaringspenger eller uførepensjon fra folketrygden eller uførepensjon etter loven her."
     },
     {
@@ -477,6 +493,7 @@
         "html": "Det gis ikke alderspensjon til den som har verv som stortingsrepresentant eller stilling som regjeringsmedlem. Det samme gjelder den som er ansatt i statlig eller kommunal tjeneste i minst 80 prosent stilling, eller har minst 80 prosent stilling som kommunalt ombud.",
         "text": "Det gis ikke alderspensjon til den som har verv som stortingsrepresentant eller stilling som regjeringsmedlem. Det samme gjelder den som er ansatt i statlig eller kommunal tjeneste i minst 80 prosent stilling, eller har minst 80 prosent stilling som kommunalt ombud."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -505,9 +522,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Før pensjonen tas ut, reguleres pensjonsgrunnlaget årlig i samsvar med lønnsveksten, se § 7-2 andre ledd.",
+        "html": "Før pensjonen tas ut, reguleres pensjonsgrunnlaget årlig i samsvar med lønnsveksten, se <a data-id=\"lov/2011-12-16-60/§7-2\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A77-2\">§ 7-2</a> andre ledd.",
         "text": "Før pensjonen tas ut, reguleres pensjonsgrunnlaget årlig i samsvar med lønnsveksten, se § 7-2 andre ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -530,39 +548,40 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene om levealdersjustering og garantert pensjonsnivå i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 24 og § 24 a gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full tjenestetid fastsettes etter første ledd.",
+        "html": "Reglene om levealdersjustering og garantert pensjonsnivå i <a data-id=\"lov/1949-07-28-26\" class=\" reference\" href=\"/lov/1949-07-28-26\">lov 28. juli 1949 nr. 26</a> om Statens pensjonskasse <a data-id=\"lov/1949-07-28-26/§24\" class=\" reference\" href=\"/lov/1949-07-28-26/%C2%A724\">§ 24</a> og <a data-id=\"lov/1949-07-28-26/§24a\" class=\" reference\" href=\"/lov/1949-07-28-26/%C2%A724a\">§ 24 a</a> gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full tjenestetid fastsettes etter første ledd.",
         "text": "Reglene om levealdersjustering og garantert pensjonsnivå i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 24 og § 24 a gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full tjenestetid fastsettes etter første ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjon som tas ut etter § 3-4 tredje ledd, beregnes slik:",
+        "html": "Pensjon som tas ut etter <a data-id=\"lov/2011-12-16-60/§3-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-4\">§ 3-4</a> tredje ledd, beregnes slik:",
         "text": "Pensjon som tas ut etter § 3-4 tredje ledd, beregnes slik:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det tas utgangspunkt i summen av årlig alderspensjon etter § 3-6 første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se § 3-5.</td>\n</tr>",
-        "text": "a)Det tas utgangspunkt i summen av årlig alderspensjon etter § 3-6 første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se § 3-5."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det tas utgangspunkt i summen av årlig alderspensjon etter <a data-id=\"lov/2011-12-16-60/§3-6\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-6\">§ 3-6</a> første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se <a data-id=\"lov/2011-12-16-60/§3-5\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-5\">§ 3-5</a>.</td>\n</tr>",
+        "text": "a)\tDet tas utgangspunkt i summen av årlig alderspensjon etter § 3-6 første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se § 3-5."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Summen av alderspensjon for perioden fra 65 til 67 år beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.</td>\n</tr>",
-        "text": "b)Summen av alderspensjon for perioden fra 65 til 67 år beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Summen av alderspensjon for perioden fra 65 til 67 år beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.</td>\n</tr>",
+        "text": "b)\tSummen av alderspensjon for perioden fra 65 til 67 år beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.</td>\n</tr>",
-        "text": "c)Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.</td>\n</tr>",
+        "text": "c)\tPensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom det er opptjent rett til tjenestepensjon som omfattes av lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år.",
+        "html": "Dersom det er opptjent rett til tjenestepensjon som omfattes av <a data-id=\"lov/1957-07-06-26\" class=\" reference\" href=\"/lov/1957-07-06-26\">lov 6. juli 1957 nr. 26</a> om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år.",
         "text": "Dersom det er opptjent rett til tjenestepensjon som omfattes av lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -579,7 +598,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn gis et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full opptjeningstid. Er pensjonen beregnet etter redusert opptjeningstid, reduseres begrensningen tilsvarende. Når alderspensjonen tas ut etter § 3-4 tredje ledd, gis det barnetillegg fra 65 år. Tillegget beregnes som om alderspensjonen hadde vært tatt ut ved 65 år.",
+        "html": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn gis et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full opptjeningstid. Er pensjonen beregnet etter redusert opptjeningstid, reduseres begrensningen tilsvarende. Når alderspensjonen tas ut etter <a data-id=\"lov/2011-12-16-60/§3-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-4\">§ 3-4</a> tredje ledd, gis det barnetillegg fra 65 år. Tillegget beregnes som om alderspensjonen hadde vært tatt ut ved 65 år.",
         "text": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn gis et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full opptjeningstid. Er pensjonen beregnet etter redusert opptjeningstid, reduseres begrensningen tilsvarende. Når alderspensjonen tas ut etter § 3-4 tredje ledd, gis det barnetillegg fra 65 år. Tillegget beregnes som om alderspensjonen hadde vært tatt ut ved 65 år."
     },
     {
@@ -588,6 +607,7 @@
         "html": "Barnetillegg utbetales til og med den måneden barnet fyller 18 år. Dersom barnet dør før fylte 18 år, utbetales tillegget til og med måneden etter at barnet døde.",
         "text": "Barnetillegg utbetales til og med den måneden barnet fyller 18 år. Dersom barnet dør før fylte 18 år, utbetales tillegget til og med måneden etter at barnet døde."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -604,7 +624,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Alderspensjonen gis fra og med måneden etter den måneden vedkommende fyller vilkårene for rett til alderspensjon. Alderspensjon etter § 3-4 tredje ledd gis tidligst fra og med måneden etter den måneden melding om uttak av pensjon ble gitt.",
+        "html": "Alderspensjonen gis fra og med måneden etter den måneden vedkommende fyller vilkårene for rett til alderspensjon. Alderspensjon etter <a data-id=\"lov/2011-12-16-60/§3-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-4\">§ 3-4</a> tredje ledd gis tidligst fra og med måneden etter den måneden melding om uttak av pensjon ble gitt.",
         "text": "Alderspensjonen gis fra og med måneden etter den måneden vedkommende fyller vilkårene for rett til alderspensjon. Alderspensjon etter § 3-4 tredje ledd gis tidligst fra og med måneden etter den måneden melding om uttak av pensjon ble gitt."
     },
     {
@@ -619,6 +639,7 @@
         "html": "Kapittel 4 Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder",
         "text": "Kapittel 4 Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -635,9 +656,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kapitlet gjelder alderspensjon som er opptjent etter tidligere lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder.",
+        "html": "Kapitlet gjelder alderspensjon som er opptjent etter tidligere <a data-id=\"lov/1951-12-14-11\" class=\" reference\" href=\"/lov/1951-12-14-11\">lov 14. desember 1951 nr. 11</a> om pensjonsordning for statsråder.",
         "text": "Kapitlet gjelder alderspensjon som er opptjent etter tidligere lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -654,9 +676,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Opptjeningstiden etter kapitlet her beregnes etter bestemmelsene om pensjonsgivende tid i tidligere lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder.",
+        "html": "Opptjeningstiden etter kapitlet her beregnes etter bestemmelsene om pensjonsgivende tid i tidligere <a data-id=\"lov/1951-12-14-11\" class=\" reference\" href=\"/lov/1951-12-14-11\">lov 14. desember 1951 nr. 11</a> om pensjonsordning for statsråder.",
         "text": "Opptjeningstiden etter kapitlet her beregnes etter bestemmelsene om pensjonsgivende tid i tidligere lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -673,9 +696,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det kreves minst tre års opptjeningstid for å ha rett til alderspensjon etter kapitlet her, jf. likevel reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6. Det kan gis alderspensjon for kortere opptjeningstid når summen av opptjeningstid etter kapitlet her og medlemstid etter kapittel 2 er minst tre år.",
+        "html": "Det kreves minst tre års opptjeningstid for å ha rett til alderspensjon etter kapitlet her, jf. likevel reglene i <a data-id=\"lov/1957-07-06-26\" class=\" reference\" href=\"/lov/1957-07-06-26\">lov 6. juli 1957 nr. 26</a> om samordning av pensjons- og trygdeytelser <a data-id=\"lov/1957-07-06-26/§6\" class=\" reference\" href=\"/lov/1957-07-06-26/%C2%A76\">§ 6</a>. Det kan gis alderspensjon for kortere opptjeningstid når summen av opptjeningstid etter kapitlet her og medlemstid etter <a data-id=\"lov/2011-12-16-60/kap2\" class=\" reference\" href=\"/lov/2011-12-16-60/kap2\">kapittel 2</a> er minst tre år.",
         "text": "Det kreves minst tre års opptjeningstid for å ha rett til alderspensjon etter kapitlet her, jf. likevel reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6. Det kan gis alderspensjon for kortere opptjeningstid når summen av opptjeningstid etter kapitlet her og medlemstid etter kapittel 2 er minst tre år."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -698,13 +722,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjonen en har rett til i perioden fra 65 til 67 år, kan likevel tas ut tidligst fra fylte 62 år beregnet etter bestemmelsen i § 4-6 tredje ledd. Dersom vedkommende også har rett til å ta ut pensjon etter § 3-4 andre ledd før fylte 65 år, kan ikke pensjonen etter første punktum i leddet her tas ut samtidig. Den som tar ut pensjon etter første punktum, mister retten til å ta ut pensjon etter § 3-4 andre ledd.",
+        "html": "Pensjonen en har rett til i perioden fra 65 til 67 år, kan likevel tas ut tidligst fra fylte 62 år beregnet etter bestemmelsen i <a data-id=\"lov/2011-12-16-60/§4-6\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-6\">§ 4-6</a> tredje ledd. Dersom vedkommende også har rett til å ta ut pensjon etter <a data-id=\"lov/2011-12-16-60/§3-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-4\">§ 3-4</a> andre ledd før fylte 65 år, kan ikke pensjonen etter første punktum i leddet her tas ut samtidig. Den som tar ut pensjon etter første punktum, mister retten til å ta ut pensjon etter <a data-id=\"lov/2011-12-16-60/§3-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-4\">§ 3-4</a> andre ledd.",
         "text": "Pensjonen en har rett til i perioden fra 65 til 67 år, kan likevel tas ut tidligst fra fylte 62 år beregnet etter bestemmelsen i § 4-6 tredje ledd. Dersom vedkommende også har rett til å ta ut pensjon etter § 3-4 andre ledd før fylte 65 år, kan ikke pensjonen etter første punktum i leddet her tas ut samtidig. Den som tar ut pensjon etter første punktum, mister retten til å ta ut pensjon etter § 3-4 andre ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det gis ikke pensjon etter andre ledd i paragrafen her for tidsrom der det gis avtalefestet pensjon som nevnt i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1 nr. 1 første ledd bokstav d, arbeidsavklaringspenger eller uførepensjon fra folketrygden eller uførepensjon etter loven her.",
+        "html": "Det gis ikke pensjon etter andre ledd i paragrafen her for tidsrom der det gis avtalefestet pensjon som nevnt i <a data-id=\"lov/1957-07-06-26\" class=\" reference\" href=\"/lov/1957-07-06-26\">lov 6. juli 1957 nr. 26</a> om samordning av pensjons- og trygdeytelser <a data-id=\"lov/1957-07-06-26/§1\" class=\" reference\" href=\"/lov/1957-07-06-26/%C2%A71\">§ 1</a> nr. 1 første ledd bokstav d, arbeidsavklaringspenger eller uførepensjon fra folketrygden eller uførepensjon etter loven her.",
         "text": "Det gis ikke pensjon etter andre ledd i paragrafen her for tidsrom der det gis avtalefestet pensjon som nevnt i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1 nr. 1 første ledd bokstav d, arbeidsavklaringspenger eller uførepensjon fra folketrygden eller uførepensjon etter loven her."
     },
     {
@@ -713,6 +737,7 @@
         "html": "Det gis ikke alderspensjon til den som har verv som stortingsrepresentant eller stilling som regjeringsmedlem. Det samme gjelder den som er ansatt i statlig eller kommunal tjeneste i minst 80 prosent stilling, eller som har minst 80 prosent stilling som kommunalt ombud.",
         "text": "Det gis ikke alderspensjon til den som har verv som stortingsrepresentant eller stilling som regjeringsmedlem. Det samme gjelder den som er ansatt i statlig eller kommunal tjeneste i minst 80 prosent stilling, eller som har minst 80 prosent stilling som kommunalt ombud."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -735,15 +760,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For regjeringsmedlem som har fratrådt vervet før lovens ikrafttredelse, benyttes det pensjonsgrunnlaget som følger av reglene i tidligere lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder.",
+        "html": "For regjeringsmedlem som har fratrådt vervet før lovens ikrafttredelse, benyttes det pensjonsgrunnlaget som følger av reglene i tidligere <a data-id=\"lov/1951-12-14-11\" class=\" reference\" href=\"/lov/1951-12-14-11\">lov 14. desember 1951 nr. 11</a> om pensjonsordning for statsråder.",
         "text": "For regjeringsmedlem som har fratrådt vervet før lovens ikrafttredelse, benyttes det pensjonsgrunnlaget som følger av reglene i tidligere lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Før pensjonen tas ut, reguleres pensjonsgrunnlaget årlig i samsvar med lønnsveksten, se § 7-2 andre ledd.",
+        "html": "Før pensjonen tas ut, reguleres pensjonsgrunnlaget årlig i samsvar med lønnsveksten, se <a data-id=\"lov/2011-12-16-60/§7-2\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A77-2\">§ 7-2</a> andre ledd.",
         "text": "Før pensjonen tas ut, reguleres pensjonsgrunnlaget årlig i samsvar med lønnsveksten, se § 7-2 andre ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -766,39 +792,40 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglene om levealdersjustering og garantert pensjonsnivå i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 24 og § 24 a gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full opptjeningstid og pensjonsprosent fastsettes etter første ledd.",
+        "html": "Reglene om levealdersjustering og garantert pensjonsnivå i <a data-id=\"lov/1949-07-28-26\" class=\" reference\" href=\"/lov/1949-07-28-26\">lov 28. juli 1949 nr. 26</a> om Statens pensjonskasse <a data-id=\"lov/1949-07-28-26/§24\" class=\" reference\" href=\"/lov/1949-07-28-26/%C2%A724\">§ 24</a> og <a data-id=\"lov/1949-07-28-26/§24a\" class=\" reference\" href=\"/lov/1949-07-28-26/%C2%A724a\">§ 24 a</a> gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full opptjeningstid og pensjonsprosent fastsettes etter første ledd.",
         "text": "Reglene om levealdersjustering og garantert pensjonsnivå i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 24 og § 24 a gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full opptjeningstid og pensjonsprosent fastsettes etter første ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjon som tas ut etter § 4-4 andre ledd, beregnes slik:",
+        "html": "Pensjon som tas ut etter <a data-id=\"lov/2011-12-16-60/§4-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-4\">§ 4-4</a> andre ledd, beregnes slik:",
         "text": "Pensjon som tas ut etter § 4-4 andre ledd, beregnes slik:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det tas utgangspunkt i summen av årlig alderspensjon etter § 4-6 første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se § 4-4.</td>\n</tr>",
-        "text": "a)Det tas utgangspunkt i summen av årlig alderspensjon etter § 4-6 første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se § 4-4."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det tas utgangspunkt i summen av årlig alderspensjon etter <a data-id=\"lov/2011-12-16-60/§4-6\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-6\">§ 4-6</a> første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se <a data-id=\"lov/2011-12-16-60/§4-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-4\">§ 4-4</a>.</td>\n</tr>",
+        "text": "a)\tDet tas utgangspunkt i summen av årlig alderspensjon etter § 4-6 første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se § 4-4."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Summen av årlig alderspensjon beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.</td>\n</tr>",
-        "text": "b)Summen av årlig alderspensjon beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Summen av årlig alderspensjon beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.</td>\n</tr>",
+        "text": "b)\tSummen av årlig alderspensjon beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.</td>\n</tr>",
-        "text": "c)Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.</td>\n</tr>",
+        "text": "c)\tPensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom det er opptjent rett til tjenestepensjon som omfattes av lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år.",
+        "html": "Dersom det er opptjent rett til tjenestepensjon som omfattes av <a data-id=\"lov/1957-07-06-26\" class=\" reference\" href=\"/lov/1957-07-06-26\">lov 6. juli 1957 nr. 26</a> om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år.",
         "text": "Dersom det er opptjent rett til tjenestepensjon som omfattes av lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -815,7 +842,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn gis et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full opptjeningstid. Er pensjonen beregnet etter redusert opptjeningstid, reduseres begrensningen tilsvarende. Når alderspensjonen tas ut etter § 4-4 andre ledd, gis det barnetillegg fra 65 år. Tillegget beregnes som om alderspensjonen hadde vært tatt ut ved 65 år.",
+        "html": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn gis et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full opptjeningstid. Er pensjonen beregnet etter redusert opptjeningstid, reduseres begrensningen tilsvarende. Når alderspensjonen tas ut etter <a data-id=\"lov/2011-12-16-60/§4-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-4\">§ 4-4</a> andre ledd, gis det barnetillegg fra 65 år. Tillegget beregnes som om alderspensjonen hadde vært tatt ut ved 65 år.",
         "text": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn gis et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full opptjeningstid. Er pensjonen beregnet etter redusert opptjeningstid, reduseres begrensningen tilsvarende. Når alderspensjonen tas ut etter § 4-4 andre ledd, gis det barnetillegg fra 65 år. Tillegget beregnes som om alderspensjonen hadde vært tatt ut ved 65 år."
     },
     {
@@ -824,6 +851,7 @@
         "html": "Barnetillegg utbetales til og med den måneden barnet fyller 18 år. Dersom barnet dør før fylte 18 år, utbetales tillegget til og med måneden etter at barnet døde.",
         "text": "Barnetillegg utbetales til og med den måneden barnet fyller 18 år. Dersom barnet dør før fylte 18 år, utbetales tillegget til og med måneden etter at barnet døde."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -840,7 +868,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Alderspensjonen gis fra og med måneden etter den måneden vedkommende fyller vilkårene for rett til alderspensjon. Alderspensjon etter § 4-4 andre ledd gis tidligst fra og med måneden etter den måneden melding om uttak av pensjon ble gitt.",
+        "html": "Alderspensjonen gis fra og med måneden etter den måneden vedkommende fyller vilkårene for rett til alderspensjon. Alderspensjon etter <a data-id=\"lov/2011-12-16-60/§4-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-4\">§ 4-4</a> andre ledd gis tidligst fra og med måneden etter den måneden melding om uttak av pensjon ble gitt.",
         "text": "Alderspensjonen gis fra og med måneden etter den måneden vedkommende fyller vilkårene for rett til alderspensjon. Alderspensjon etter § 4-4 andre ledd gis tidligst fra og med måneden etter den måneden melding om uttak av pensjon ble gitt."
     },
     {
@@ -855,6 +883,7 @@
         "html": "Kapittel 5 Uførepensjon",
         "text": "Kapittel 5 Uførepensjon"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -875,6 +904,7 @@
         "text": "Kapitlet gjelder uførepensjon for den som er eller har vært stortingsrepresentant eller regjeringsmedlem."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -893,6 +923,7 @@
         "html": "Reglene om uførepensjon i lov 28. juli 1949 nr. 26 om Statens pensjonskasse kapittel 6 gjelder så langt ikke annet følger av loven her.",
         "text": "Reglene om uførepensjon i lov 28. juli 1949 nr. 26 om Statens pensjonskasse kapittel 6 gjelder så langt ikke annet følger av loven her."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -920,22 +951,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har rett til uførepensjon etter folketrygdloven,</td>\n</tr>",
-        "text": "a)har rett til uførepensjon etter folketrygdloven,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har rett til uførepensjon etter folketrygdloven,</td>\n</tr>",
+        "text": "a)\thar rett til uførepensjon etter folketrygdloven,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har en samlet medlemstid i ordningen på minst tre år, der opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder også regnes med, og</td>\n</tr>",
-        "text": "b)har en samlet medlemstid i ordningen på minst tre år, der opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder også regnes med, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har en samlet medlemstid i ordningen på minst tre år, der opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder også regnes med, og</td>\n</tr>",
+        "text": "b)\thar en samlet medlemstid i ordningen på minst tre år, der opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder også regnes med, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er under 65 år.</td>\n</tr>",
-        "text": "c)er under 65 år."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er under 65 år.</td>\n</tr>",
+        "text": "c)\ter under 65 år."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -952,13 +984,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjonsgrunnlaget for den som omfattes av § 5-3 første ledd, er det opptjeningsgrunnlaget som stortingsrepresentanten eller regjeringsmedlemmet har på tidspunktet uførepensjonen gis virkning fra, se § 2-2 andre ledd.",
+        "html": "Pensjonsgrunnlaget for den som omfattes av <a data-id=\"lov/2011-12-16-60/§5-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A75-3\">§ 5-3</a> første ledd, er det opptjeningsgrunnlaget som stortingsrepresentanten eller regjeringsmedlemmet har på tidspunktet uførepensjonen gis virkning fra, se <a data-id=\"lov/2011-12-16-60/§2-2\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A72-2\">§ 2-2</a> andre ledd.",
         "text": "Pensjonsgrunnlaget for den som omfattes av § 5-3 første ledd, er det opptjeningsgrunnlaget som stortingsrepresentanten eller regjeringsmedlemmet har på tidspunktet uførepensjonen gis virkning fra, se § 2-2 andre ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjonsgrunnlaget for den som omfattes av § 5-3 andre ledd, er opptjeningsgrunnlaget på fratredelsestidspunktet. Har vedkommende fratrådt ved lovens ikrafttredelse, fastsettes pensjonsgrunnlaget etter § 3-5 andre ledd eller § 4-5 andre ledd. Pensjonsgrunnlaget reguleres fram til virkningstidspunktet for pensjonen i samsvar med lønnsveksten, se § 7-4 om reguleringsfaktorer.",
+        "html": "Pensjonsgrunnlaget for den som omfattes av <a data-id=\"lov/2011-12-16-60/§5-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A75-3\">§ 5-3</a> andre ledd, er opptjeningsgrunnlaget på fratredelsestidspunktet. Har vedkommende fratrådt ved lovens ikrafttredelse, fastsettes pensjonsgrunnlaget etter <a data-id=\"lov/2011-12-16-60/§3-5\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-5\">§ 3-5</a> andre ledd eller <a data-id=\"lov/2011-12-16-60/§4-5\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-5\">§ 4-5</a> andre ledd. Pensjonsgrunnlaget reguleres fram til virkningstidspunktet for pensjonen i samsvar med lønnsveksten, se <a data-id=\"lov/2011-12-16-60/§7-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A77-4\">§ 7-4</a> om reguleringsfaktorer.",
         "text": "Pensjonsgrunnlaget for den som omfattes av § 5-3 andre ledd, er opptjeningsgrunnlaget på fratredelsestidspunktet. Har vedkommende fratrådt ved lovens ikrafttredelse, fastsettes pensjonsgrunnlaget etter § 3-5 andre ledd eller § 4-5 andre ledd. Pensjonsgrunnlaget reguleres fram til virkningstidspunktet for pensjonen i samsvar med lønnsveksten, se § 7-4 om reguleringsfaktorer."
     },
     {
@@ -967,6 +999,7 @@
         "html": "Pensjonsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp.",
         "text": "Pensjonsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -983,7 +1016,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Som opptjeningstid regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For den som omfattes av § 5-3 første ledd, skal tiden fram til fylte 65 år regnes med i opptjeningstiden.",
+        "html": "Som opptjeningstid regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For den som omfattes av <a data-id=\"lov/2011-12-16-60/§5-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A75-3\">§ 5-3</a> første ledd, skal tiden fram til fylte 65 år regnes med i opptjeningstiden.",
         "text": "Som opptjeningstid regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For den som omfattes av § 5-3 første ledd, skal tiden fram til fylte 65 år regnes med i opptjeningstiden."
     },
     {
@@ -994,22 +1027,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og</td>\n</tr>",
-        "text": "a)opptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og</td>\n</tr>",
+        "text": "a)\topptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.</td>\n</tr>",
-        "text": "b)opptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.</td>\n</tr>",
+        "text": "b)\topptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 19 første ledd om avrunding av opptjeningstid gjelder tilsvarende.",
+        "html": "<a data-id=\"lov/1949-07-28-26\" class=\" reference\" href=\"/lov/1949-07-28-26\">Lov 28. juli 1949 nr. 26</a> om Statens pensjonskasse <a data-id=\"lov/1949-07-28-26/§19\" class=\" reference\" href=\"/lov/1949-07-28-26/%C2%A719\">§ 19</a> første ledd om avrunding av opptjeningstid gjelder tilsvarende.",
         "text": "Lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 19 første ledd om avrunding av opptjeningstid gjelder tilsvarende."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1026,15 +1060,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Uførepensjonen for den som omfattes av § 5-3 første ledd, utgjør 66 prosent av pensjonsgrunnlaget ved 30 års opptjeningstid og full uføregrad. Det samme gjelder for den som omfattes av § 5-3 andre ledd og som har opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder. Ved kortere opptjeningstid reduseres pensjonen forholdsmessig. Det samme gjelder ved lavere uføregrad enn 100 prosent.",
+        "html": "Uførepensjonen for den som omfattes av <a data-id=\"lov/2011-12-16-60/§5-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A75-3\">§ 5-3</a> første ledd, utgjør 66 prosent av pensjonsgrunnlaget ved 30 års opptjeningstid og full uføregrad. Det samme gjelder for den som omfattes av <a data-id=\"lov/2011-12-16-60/§5-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A75-3\">§ 5-3</a> andre ledd og som har opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder. Ved kortere opptjeningstid reduseres pensjonen forholdsmessig. Det samme gjelder ved lavere uføregrad enn 100 prosent.",
         "text": "Uførepensjonen for den som omfattes av § 5-3 første ledd, utgjør 66 prosent av pensjonsgrunnlaget ved 30 års opptjeningstid og full uføregrad. Det samme gjelder for den som omfattes av § 5-3 andre ledd og som har opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder. Ved kortere opptjeningstid reduseres pensjonen forholdsmessig. Det samme gjelder ved lavere uføregrad enn 100 prosent."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Uførepensjonen for den som omfattes av § 5-3 andre ledd og som ikke har opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder, utgjør 66 prosent av pensjonsgrunnlaget ved full opptjeningstid og full uføregrad. Som full opptjeningstid regnes perioden fra vedkommende ble medlem og fram til 65 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år. Ved kortere opptjeningstid reduseres pensjonen forholdsmessig. Det samme gjelder ved lavere uføregrad enn 100 prosent.",
+        "html": "Uførepensjonen for den som omfattes av <a data-id=\"lov/2011-12-16-60/§5-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A75-3\">§ 5-3</a> andre ledd og som ikke har opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder, utgjør 66 prosent av pensjonsgrunnlaget ved full opptjeningstid og full uføregrad. Som full opptjeningstid regnes perioden fra vedkommende ble medlem og fram til 65 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år. Ved kortere opptjeningstid reduseres pensjonen forholdsmessig. Det samme gjelder ved lavere uføregrad enn 100 prosent.",
         "text": "Uførepensjonen for den som omfattes av § 5-3 andre ledd og som ikke har opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder, utgjør 66 prosent av pensjonsgrunnlaget ved full opptjeningstid og full uføregrad. Som full opptjeningstid regnes perioden fra vedkommende ble medlem og fram til 65 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år. Ved kortere opptjeningstid reduseres pensjonen forholdsmessig. Det samme gjelder ved lavere uføregrad enn 100 prosent."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1054,6 +1089,7 @@
         "html": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn ytes et barnetillegg på ti prosent av uførepensjonen. Uførepensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget når pensjonen er beregnet etter full opptjeningstid og full uføregrad. Ved kortere opptjeningstid reduseres begrensningen tilsvarende. Det samme gjelder ved lavere uføregrad enn 100 prosent. Barnetillegg betales ut den måned barnet fyller 18 år. Dersom barnet dør før fylte 18 år, utbetales tillegget til og med måneden etter at barnet døde.",
         "text": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn ytes et barnetillegg på ti prosent av uførepensjonen. Uførepensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget når pensjonen er beregnet etter full opptjeningstid og full uføregrad. Ved kortere opptjeningstid reduseres begrensningen tilsvarende. Det samme gjelder ved lavere uføregrad enn 100 prosent. Barnetillegg betales ut den måned barnet fyller 18 år. Dersom barnet dør før fylte 18 år, utbetales tillegget til og med måneden etter at barnet døde."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1086,6 +1122,7 @@
         "text": "Kapittel 6 Etterlattepensjon"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1105,6 +1142,7 @@
         "text": "Kapitlet gjelder etterlattepensjon til gjenlevende ektefelle og barn under 20 år etter stortingsrepresentanter og regjeringsmedlemmer."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1123,6 +1161,7 @@
         "html": "Reglene om etterlattepensjon i lov 28. juli 1949 nr. 26 om Statens pensjonskasse kapittel 7 gjelder så langt ikke annet følger av loven her.",
         "text": "Reglene om etterlattepensjon i lov 28. juli 1949 nr. 26 om Statens pensjonskasse kapittel 7 gjelder så langt ikke annet følger av loven her."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1149,6 +1188,7 @@
         "text": "Det kan også ytes etterlattepensjon til etterlatt etter tidligere stortingsrepresentant eller regjeringsmedlem når samlet medlemstid i pensjonsordningen er minst tre år. Som medlemstid regnes også opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1164,13 +1204,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjonsgrunnlaget for etterlatte som omfattes av § 6-3 første ledd, er opptjeningsgrunnlaget avdøde hadde på tidspunktet for dødsfallet, se § 2-2 andre ledd.",
+        "html": "Pensjonsgrunnlaget for etterlatte som omfattes av <a data-id=\"lov/2011-12-16-60/§6-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A76-3\">§ 6-3</a> første ledd, er opptjeningsgrunnlaget avdøde hadde på tidspunktet for dødsfallet, se <a data-id=\"lov/2011-12-16-60/§2-2\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A72-2\">§ 2-2</a> andre ledd.",
         "text": "Pensjonsgrunnlaget for etterlatte som omfattes av § 6-3 første ledd, er opptjeningsgrunnlaget avdøde hadde på tidspunktet for dødsfallet, se § 2-2 andre ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For etterlatte som omfattes av § 6-3 andre ledd, er pensjonsgrunnlaget det opptjeningsgrunnlaget avdøde hadde ved fratredelsen. Har avdøde fratrådt før lovens ikrafttredelse, fastsettes pensjonsgrunnlaget etter § 3-5 andre ledd eller § 4-5 andre ledd. Pensjonsgrunnlaget reguleres fram til virkningstidspunktet for pensjonen i samsvar med lønnsveksten. Når avdøde var over 67 år ved dødsfallet, skal pensjonsgrunnlaget for tiden fra 67 år reguleres med lønnsveksten og fratrekkes deretter 0,75 prosent. Ved regulering benyttes de reguleringsfaktorer som fastsettes årlig, jf. § 7-4.",
+        "html": "For etterlatte som omfattes av <a data-id=\"lov/2011-12-16-60/§6-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A76-3\">§ 6-3</a> andre ledd, er pensjonsgrunnlaget det opptjeningsgrunnlaget avdøde hadde ved fratredelsen. Har avdøde fratrådt før lovens ikrafttredelse, fastsettes pensjonsgrunnlaget etter <a data-id=\"lov/2011-12-16-60/§3-5\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-5\">§ 3-5</a> andre ledd eller <a data-id=\"lov/2011-12-16-60/§4-5\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-5\">§ 4-5</a> andre ledd. Pensjonsgrunnlaget reguleres fram til virkningstidspunktet for pensjonen i samsvar med lønnsveksten. Når avdøde var over 67 år ved dødsfallet, skal pensjonsgrunnlaget for tiden fra 67 år reguleres med lønnsveksten og fratrekkes deretter 0,75 prosent. Ved regulering benyttes de reguleringsfaktorer som fastsettes årlig, jf. <a data-id=\"lov/2011-12-16-60/§7-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A77-4\">§ 7-4</a>.",
         "text": "For etterlatte som omfattes av § 6-3 andre ledd, er pensjonsgrunnlaget det opptjeningsgrunnlaget avdøde hadde ved fratredelsen. Har avdøde fratrådt før lovens ikrafttredelse, fastsettes pensjonsgrunnlaget etter § 3-5 andre ledd eller § 4-5 andre ledd. Pensjonsgrunnlaget reguleres fram til virkningstidspunktet for pensjonen i samsvar med lønnsveksten. Når avdøde var over 67 år ved dødsfallet, skal pensjonsgrunnlaget for tiden fra 67 år reguleres med lønnsveksten og fratrekkes deretter 0,75 prosent. Ved regulering benyttes de reguleringsfaktorer som fastsettes årlig, jf. § 7-4."
     },
     {
@@ -1179,6 +1219,7 @@
         "html": "Pensjonsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp.",
         "text": "Pensjonsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1195,7 +1236,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Som opptjeningstid ved beregning av etterlattepensjon regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For tilfeller der retten til etterlattepensjon følger av § 6-3 første ledd, regnes tiden som avdøde ville ha fått ved å fortsette i vervet eller stillingen fram til fylte 65 år med i opptjeningstiden.",
+        "html": "Som opptjeningstid ved beregning av etterlattepensjon regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For tilfeller der retten til etterlattepensjon følger av <a data-id=\"lov/2011-12-16-60/§6-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A76-3\">§ 6-3</a> første ledd, regnes tiden som avdøde ville ha fått ved å fortsette i vervet eller stillingen fram til fylte 65 år med i opptjeningstiden.",
         "text": "Som opptjeningstid ved beregning av etterlattepensjon regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For tilfeller der retten til etterlattepensjon følger av § 6-3 første ledd, regnes tiden som avdøde ville ha fått ved å fortsette i vervet eller stillingen fram til fylte 65 år med i opptjeningstiden."
     },
     {
@@ -1206,22 +1247,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og</td>\n</tr>",
-        "text": "a)opptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og</td>\n</tr>",
+        "text": "a)\topptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.</td>\n</tr>",
-        "text": "b)opptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.</td>\n</tr>",
+        "text": "b)\topptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 19 første ledd om avrunding av opptjeningstid gjelder tilsvarende.",
+        "html": "<a data-id=\"lov/1949-07-28-26\" class=\" reference\" href=\"/lov/1949-07-28-26\">Lov 28. juli 1949 nr. 26</a> om Statens pensjonskasse <a data-id=\"lov/1949-07-28-26/§19\" class=\" reference\" href=\"/lov/1949-07-28-26/%C2%A719\">§ 19</a> første ledd om avrunding av opptjeningstid gjelder tilsvarende.",
         "text": "Lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 19 første ledd om avrunding av opptjeningstid gjelder tilsvarende."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1238,13 +1280,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det gis full etterlattepensjon ved 30 års opptjeningstid når etterlattepensjonen gis etter § 6-3 første ledd. Det samme gjelder når etterlattepensjonen gis etter § 6-3 andre ledd og avdøde hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder.",
+        "html": "Det gis full etterlattepensjon ved 30 års opptjeningstid når etterlattepensjonen gis etter <a data-id=\"lov/2011-12-16-60/§6-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A76-3\">§ 6-3</a> første ledd. Det samme gjelder når etterlattepensjonen gis etter <a data-id=\"lov/2011-12-16-60/§6-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A76-3\">§ 6-3</a> andre ledd og avdøde hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder.",
         "text": "Det gis full etterlattepensjon ved 30 års opptjeningstid når etterlattepensjonen gis etter § 6-3 første ledd. Det samme gjelder når etterlattepensjonen gis etter § 6-3 andre ledd og avdøde hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når etterlattepensjon gis etter § 6-3 andre ledd og avdøde ikke hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder, regnes full opptjeningstid som perioden fra vedkommende ble medlem og fram til 65 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år.",
+        "html": "Når etterlattepensjon gis etter <a data-id=\"lov/2011-12-16-60/§6-3\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A76-3\">§ 6-3</a> andre ledd og avdøde ikke hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder, regnes full opptjeningstid som perioden fra vedkommende ble medlem og fram til 65 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år.",
         "text": "Når etterlattepensjon gis etter § 6-3 andre ledd og avdøde ikke hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder, regnes full opptjeningstid som perioden fra vedkommende ble medlem og fram til 65 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år."
     },
     {
@@ -1256,9 +1298,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Beregningen av etterlattepensjon skjer for øvrig i samsvar med lov 28. juli 1949 nr. 26 om Statens pensjonskasse, men med de særskilte beregningsfaktorene som framgår av kapitlet her.",
+        "html": "Beregningen av etterlattepensjon skjer for øvrig i samsvar med <a data-id=\"lov/1949-07-28-26\" class=\" reference\" href=\"/lov/1949-07-28-26\">lov 28. juli 1949 nr. 26</a> om Statens pensjonskasse, men med de særskilte beregningsfaktorene som framgår av kapitlet her.",
         "text": "Beregningen av etterlattepensjon skjer for øvrig i samsvar med lov 28. juli 1949 nr. 26 om Statens pensjonskasse, men med de særskilte beregningsfaktorene som framgår av kapitlet her."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1285,6 +1328,7 @@
         "text": "Kapittel 7 Regulering"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1300,7 +1344,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Alderspensjon etter kapittel 2 under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med lønnsveksten og fratrekkes deretter 0,75 prosent. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.",
+        "html": "Alderspensjon etter <a data-id=\"lov/2011-12-16-60/kap2\" class=\" reference\" href=\"/lov/2011-12-16-60/kap2\">kapittel 2</a> under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med lønnsveksten og fratrekkes deretter 0,75 prosent. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.",
         "text": "Alderspensjon etter kapittel 2 under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med lønnsveksten og fratrekkes deretter 0,75 prosent. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut."
     },
     {
@@ -1315,6 +1359,7 @@
         "html": "Alderspensjon etter kapitlene 3 og 4 som er tatt ut før 67 år, skal omregnes fra måneden etter fylte 67 år ved at pensjonsgrunnlaget oppreguleres med lønnsveksten fra uttakstidspunktet og fram til omregningstidspunktet. Bestemmelsen i første ledd andre punktum gjelder tilsvarende ved første regulering etter at pensjonsgrunnlaget er omregnet.",
         "text": "Alderspensjon etter kapitlene 3 og 4 som er tatt ut før 67 år, skal omregnes fra måneden etter fylte 67 år ved at pensjonsgrunnlaget oppreguleres med lønnsveksten fra uttakstidspunktet og fram til omregningstidspunktet. Bestemmelsen i første ledd andre punktum gjelder tilsvarende ved første regulering etter at pensjonsgrunnlaget er omregnet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1331,15 +1376,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjonsbeholdningen etter § 2-2 reguleres årlig med virkning fra 1. mai i samsvar med lønnsveksten.",
+        "html": "Pensjonsbeholdningen etter <a data-id=\"lov/2011-12-16-60/§2-2\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A72-2\">§ 2-2</a> reguleres årlig med virkning fra 1. mai i samsvar med lønnsveksten.",
         "text": "Pensjonsbeholdningen etter § 2-2 reguleres årlig med virkning fra 1. mai i samsvar med lønnsveksten."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjonsgrunnlaget etter §§ 3-5 og 4-5 reguleres med lønnsveksten fram til tidspunktet det tas ut alderspensjon etter loven her.",
+        "html": "Pensjonsgrunnlaget etter <a data-id=\"lov/2011-12-16-60/§3-5\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-5\">§§ 3-5</a> og <a data-id=\"lov/2011-12-16-60/§4-5\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-5\">4-5</a> reguleres med lønnsveksten fram til tidspunktet det tas ut alderspensjon etter loven her.",
         "text": "Pensjonsgrunnlaget etter §§ 3-5 og 4-5 reguleres med lønnsveksten fram til tidspunktet det tas ut alderspensjon etter loven her."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1366,6 +1412,7 @@
         "text": "Fra måneden etter fylte 67 år reguleres etterlattepensjonen i samsvar med lønnsveksten og fratrekkes deretter 0,75 prosent. Ved første reguleringstidspunkt etter 67 år i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1381,7 +1428,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved regulering benyttes de reguleringsfaktorene som er fastsatt av Kongen etter folketrygdloven § 19-14 åttende ledd og § 20-18 åttende ledd.",
+        "html": "Ved regulering benyttes de reguleringsfaktorene som er fastsatt av Kongen etter <a data-id=\"lov/1997-02-28-19/§19-14\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A719-14\">folketrygdloven § 19-14</a> åttende ledd og <a data-id=\"lov/1997-02-28-19/§20-18\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A720-18\">§ 20-18</a> åttende ledd.",
         "text": "Ved regulering benyttes de reguleringsfaktorene som er fastsatt av Kongen etter folketrygdloven § 19-14 åttende ledd og § 20-18 åttende ledd."
     },
     {
@@ -1390,6 +1437,7 @@
         "html": "Kapittel 8 Forskjellige bestemmelser",
         "text": "Kapittel 8 Forskjellige bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1416,6 +1464,7 @@
         "text": "Pensjonskassen skal senest seks måneder etter at regnskapsåret er avsluttet, utarbeide en beretning om virksomheten i siste regnskapsår. Beretningen utarbeides for departementet og forelegges Stortinget."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1431,9 +1480,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For å få alderspensjon etter kapittel 2, § 3-4 tredje ledd og § 4-4 andre ledd må den som har rett til ytelsen, gi melding om uttak av pensjonen.",
+        "html": "For å få alderspensjon etter <a data-id=\"lov/2011-12-16-60/kap2\" class=\" reference\" href=\"/lov/2011-12-16-60/kap2\">kapittel 2</a>, <a data-id=\"lov/2011-12-16-60/§3-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A73-4\">§ 3-4</a> tredje ledd og <a data-id=\"lov/2011-12-16-60/§4-4\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A74-4\">§ 4-4</a> andre ledd må den som har rett til ytelsen, gi melding om uttak av pensjonen.",
         "text": "For å få alderspensjon etter kapittel 2, § 3-4 tredje ledd og § 4-4 andre ledd må den som har rett til ytelsen, gi melding om uttak av pensjonen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1453,6 +1503,7 @@
         "html": "Den som skal ha utbetalt en pensjon etter loven her, har plikt til å gi de opplysninger og levere de dokumenter som er nødvendige for at Statens pensjonskasse skal kunne vurdere om vedkommende har rett til ytelsen. Den som mottar en ytelse, plikter å underrette Statens pensjonskasse om forhold som etter loven her kan føre til at ytelsen skal endres eller falle bort.",
         "text": "Den som skal ha utbetalt en pensjon etter loven her, har plikt til å gi de opplysninger og levere de dokumenter som er nødvendige for at Statens pensjonskasse skal kunne vurdere om vedkommende har rett til ytelsen. Den som mottar en ytelse, plikter å underrette Statens pensjonskasse om forhold som etter loven her kan føre til at ytelsen skal endres eller falle bort."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1478,6 +1529,7 @@
         "html": "Den som blir pålagt å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av taushetsplikt.",
         "text": "Den som blir pålagt å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av taushetsplikt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1506,13 +1558,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Feilutbetalt pensjon kan kreves tilbakebetalt etter bestemmelsene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 44 sjette til niende ledd.",
+        "html": "Feilutbetalt pensjon kan kreves tilbakebetalt etter bestemmelsene i <a data-id=\"lov/1949-07-28-26\" class=\" reference\" href=\"/lov/1949-07-28-26\">lov 28. juli 1949 nr. 26</a> om Statens pensjonskasse <a data-id=\"lov/1949-07-28-26/§44\" class=\" reference\" href=\"/lov/1949-07-28-26/%C2%A744\">§ 44</a> sjette til niende ledd.",
         "text": "Feilutbetalt pensjon kan kreves tilbakebetalt etter bestemmelsene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 44 sjette til niende ledd."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Renter ved forsinket utbetaling av pensjon gis etter bestemmelsene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 44 a.",
+        "html": "Renter ved forsinket utbetaling av pensjon gis etter bestemmelsene i <a data-id=\"lov/1949-07-28-26\" class=\" reference\" href=\"/lov/1949-07-28-26\">lov 28. juli 1949 nr. 26</a> om Statens pensjonskasse <a data-id=\"lov/1949-07-28-26/§44a\" class=\" reference\" href=\"/lov/1949-07-28-26/%C2%A744a\">§ 44 a</a>.",
         "text": "Renter ved forsinket utbetaling av pensjon gis etter bestemmelsene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 44 a."
     },
     {
@@ -1521,6 +1573,7 @@
         "html": "Det er et vilkår for rett til ytelser etter kapitlene 3 til 6 at pensjonssøkeren setter fram krav om tilsvarende ytelser etter folketrygdloven. Departementet kan gi forskrift om framsetting av slikt krav.",
         "text": "Det er et vilkår for rett til ytelser etter kapitlene 3 til 6 at pensjonssøkeren setter fram krav om tilsvarende ytelser etter folketrygdloven. Departementet kan gi forskrift om framsetting av slikt krav."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1547,6 +1600,7 @@
         "text": "Kapittel 9 Ikrafttredelse og overgangsbestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1568,9 +1622,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra samme tidspunkt oppheves lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder og lov 6. desember 1981 nr. 61 om pensjonsordning for stortingsrepresentanter.",
+        "html": "Fra samme tidspunkt oppheves <a data-id=\"lov/1951-12-14-11\" class=\" reference\" href=\"/lov/1951-12-14-11\">lov 14. desember 1951 nr. 11</a> om pensjonsordning for statsråder og lov 6. desember 1981 nr. 61 om pensjonsordning for stortingsrepresentanter.",
         "text": "Fra samme tidspunkt oppheves lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder og lov 6. desember 1981 nr. 61 om pensjonsordning for stortingsrepresentanter."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1592,38 +1647,38 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stortingsrepresentanter og som ikke hadde opparbeidet rett til pensjon etter lov 6. desember 1981 nr. 61 om pensjonsordning for stortingsrepresentanter før 1. oktober 2009,</td>\n</tr>",
-        "text": "a)stortingsrepresentanter og som ikke hadde opparbeidet rett til pensjon etter lov 6. desember 1981 nr. 61 om pensjonsordning for stortingsrepresentanter før 1. oktober 2009,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stortingsrepresentanter og som ikke hadde opparbeidet rett til pensjon etter lov 6. desember 1981 nr. 61 om pensjonsordning for stortingsrepresentanter før 1. oktober 2009,</td>\n</tr>",
+        "text": "a)\tstortingsrepresentanter og som ikke hadde opparbeidet rett til pensjon etter lov 6. desember 1981 nr. 61 om pensjonsordning for stortingsrepresentanter før 1. oktober 2009,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regjeringsmedlemmer og som ikke har opparbeidet rett til pensjon etter lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder før 1. januar 2012.</td>\n</tr>",
-        "text": "b)regjeringsmedlemmer og som ikke har opparbeidet rett til pensjon etter lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder før 1. januar 2012."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regjeringsmedlemmer og som ikke har opparbeidet rett til pensjon etter <a data-id=\"lov/1951-12-14-11\" class=\" reference\" href=\"/lov/1951-12-14-11\">lov 14. desember 1951 nr. 11</a> om pensjonsordning for statsråder før 1. januar 2012.</td>\n</tr>",
+        "text": "b)\tregjeringsmedlemmer og som ikke har opparbeidet rett til pensjon etter lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder før 1. januar 2012."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved vurderingen av om det er tjent opp rett til pensjon etter første ledd gjelder bestemmelsen i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6 om sammenlegging av tjenestetid.",
+        "html": "Ved vurderingen av om det er tjent opp rett til pensjon etter første ledd gjelder bestemmelsen i <a data-id=\"lov/1957-07-06-26\" class=\" reference\" href=\"/lov/1957-07-06-26\">lov 6. juli 1957 nr. 26</a> om samordning av pensjons- og trygdeytelser <a data-id=\"lov/1957-07-06-26/§6\" class=\" reference\" href=\"/lov/1957-07-06-26/%C2%A76\">§ 6</a> om sammenlegging av tjenestetid.",
         "text": "Ved vurderingen av om det er tjent opp rett til pensjon etter første ledd gjelder bestemmelsen i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6 om sammenlegging av tjenestetid."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Stortingsrepresentanter og regjeringsmedlemmer som får opptjening i kapittel 2 etter første ledd skal ikke ha opptjening etter kapitlene 3 og 4 for samme periode.",
+        "html": "Stortingsrepresentanter og regjeringsmedlemmer som får opptjening i <a data-id=\"lov/2011-12-16-60/kap2\" class=\" reference\" href=\"/lov/2011-12-16-60/kap2\">kapittel 2</a> etter første ledd skal ikke ha opptjening etter kapitlene 3 og 4 for samme periode.",
         "text": "Stortingsrepresentanter og regjeringsmedlemmer som får opptjening i kapittel 2 etter første ledd skal ikke ha opptjening etter kapitlene 3 og 4 for samme periode."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pensjonsopptjening etter første ledd skal legges til grunn for fastsetting av en pensjonsbeholdning 1. januar 2012. Opptjeningen beregnes etter § 2-2. Opptjeningen 1. mai 2010 reguleres i samsvar med økningen i folketrygdens grunnbeløp på dette tidspunkt. Opptjeningen 1. mai 2011 reguleres i samsvar med folketrygdens grunnbeløp på dette tidspunkt.",
+        "html": "Pensjonsopptjening etter første ledd skal legges til grunn for fastsetting av en pensjonsbeholdning 1. januar 2012. Opptjeningen beregnes etter <a data-id=\"lov/2011-12-16-60/§2-2\" class=\" reference\" href=\"/lov/2011-12-16-60/%C2%A72-2\">§ 2-2</a>. Opptjeningen 1. mai 2010 reguleres i samsvar med økningen i folketrygdens grunnbeløp på dette tidspunkt. Opptjeningen 1. mai 2011 reguleres i samsvar med folketrygdens grunnbeløp på dette tidspunkt.",
         "text": "Pensjonsopptjening etter første ledd skal legges til grunn for fastsetting av en pensjonsbeholdning 1. januar 2012. Opptjeningen beregnes etter § 2-2. Opptjeningen 1. mai 2010 reguleres i samsvar med økningen i folketrygdens grunnbeløp på dette tidspunkt. Opptjeningen 1. mai 2011 reguleres i samsvar med folketrygdens grunnbeløp på dette tidspunkt."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "De som før 1. januar 2012 mottar uførepensjon eller etterlattepensjon etter lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter eller etter lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder, skal fortsatt ha pensjonen beregnet etter disse reglene. For øvrig gjelder loven her. Ved overgang fra uførepensjon til alderspensjon ved fylte 65 år skal alderspensjonen beregnes etter bestemmelsene i kapitlene 3 og 4.",
+        "html": "De som før 1. januar 2012 mottar uførepensjon eller etterlattepensjon etter <a data-id=\"lov/1981-06-12-61\" class=\" reference\" href=\"/lov/1981-06-12-61\">lov 12. juni 1981 nr. 61</a> om pensjonsordning for stortingsrepresentanter eller etter <a data-id=\"lov/1951-12-14-11\" class=\" reference\" href=\"/lov/1951-12-14-11\">lov 14. desember 1951 nr. 11</a> om pensjonsordning for statsråder, skal fortsatt ha pensjonen beregnet etter disse reglene. For øvrig gjelder loven her. Ved overgang fra uførepensjon til alderspensjon ved fylte 65 år skal alderspensjonen beregnes etter bestemmelsene i kapitlene 3 og 4.",
         "text": "De som før 1. januar 2012 mottar uførepensjon eller etterlattepensjon etter lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter eller etter lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder, skal fortsatt ha pensjonen beregnet etter disse reglene. For øvrig gjelder loven her. Ved overgang fra uførepensjon til alderspensjon ved fylte 65 år skal alderspensjonen beregnes etter bestemmelsene i kapitlene 3 og 4."
     }
 ]

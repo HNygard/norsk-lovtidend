@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.56 (2003–2004), Innst.O.nr.104 (2003–2004) og Besl.O.nr.104 (2003–2004). Odels- og lagtingsvedtak hhv. 14. og 17. juni 2004. Fremmet av Justis- og politidepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-56-200304\" class=\" reference\" href=\"/forarbeid/otprp-56-200304\">Ot.prp.nr.56 (2003–2004)</a>, <a data-id=\"forarbeid/inns-o-104-200304\" class=\" reference\" href=\"/forarbeid/inns-o-104-200304\">Innst.O.nr.104 (2003–2004)</a> og <a data-id=\"forarbeid/besl-o-104-200304\" class=\" reference\" href=\"/forarbeid/besl-o-104-200304\">Besl.O.nr.104 (2003–2004)</a>. Odels- og lagtingsvedtak hhv. 14. og 17. juni 2004. Fremmet av Justis- og politidepartementet.",
         "text": "Ot.prp.nr.56 (2003–2004), Innst.O.nr.104 (2003–2004) og Besl.O.nr.104 (2003–2004). Odels- og lagtingsvedtak hhv. 14. og 17. juni 2004. Fremmet av Justis- og politidepartementet."
     },
     null,
@@ -33,15 +33,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">injiserer narkotika i et godkjent sprøyterom, eller</td>\n</tr>",
-        "text": "a)injiserer narkotika i et godkjent sprøyterom, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">injiserer narkotika i et godkjent sprøyterom, eller</td>\n</tr>",
+        "text": "a)\tinjiserer narkotika i et godkjent sprøyterom, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">besitter en brukerdose narkotika til eget bruk i et godkjent sprøyterom eller tilstøtende venterom eller samtalerom, kan ikke straffes for dette etter legemiddelloven § 31, jf. § 24 første ledd.</td>\n</tr>",
-        "text": "b)besitter en brukerdose narkotika til eget bruk i et godkjent sprøyterom eller tilstøtende venterom eller samtalerom, kan ikke straffes for dette etter legemiddelloven § 31, jf. § 24 første ledd."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">besitter en brukerdose narkotika til eget bruk i et godkjent sprøyterom eller tilstøtende venterom eller samtalerom, kan ikke straffes for dette etter <a data-id=\"lov/1992-12-04-132/§31\" class=\" reference\" href=\"/lov/1992-12-04-132/%C2%A731\">legemiddelloven § 31</a>, jf. <a data-id=\"lov/1992-12-04-132/§24\" class=\" reference\" href=\"/lov/1992-12-04-132/%C2%A724\">§ 24</a> første ledd.</td>\n</tr>",
+        "text": "b)\tbesitter en brukerdose narkotika til eget bruk i et godkjent sprøyterom eller tilstøtende venterom eller samtalerom, kan ikke straffes for dette etter legemiddelloven § 31, jf. § 24 første ledd."
     },
     null,
     {
@@ -53,7 +53,7 @@
     {
         "tag": "span",
         "class": "paragrafTittel",
-        "html": "En kommune som etablerer en godkjent sprøyteromsordning, kan føre register og behandle personopplysninger som nevnt i personopplysningsloven § 2 nr. 1 og 8 i den grad det er nødvendig for å oppfylle reglene gitt i eller i medhold av loven her.",
+        "html": "En kommune som etablerer en godkjent sprøyteromsordning, kan føre register og behandle personopplysninger som nevnt i <a data-id=\"lov/2018-06-15-38/§2\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A72\">personopplysningsloven § 2</a> nr. 1 og 8 i den grad det er nødvendig for å oppfylle reglene gitt i eller i medhold av loven her.",
         "text": "En kommune som etablerer en godkjent sprøyteromsordning, kan føre register og behandle personopplysninger som nevnt i personopplysningsloven § 2 nr. 1 og 8 i den grad det er nødvendig for å oppfylle reglene gitt i eller i medhold av loven her."
     },
     null,
@@ -72,7 +72,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Har politiet mistanke om straffbar besittelse eller bruk av narkotika i sprøyteromslokalene, skal personalet uten hinder av taushetsplikten i forvaltningsloven §§ 13 til 13 e og på begjæring gi politiet opplysning om hvorvidt en identifisert person er registrert bruker av sprøyterommet eller ikke.",
+        "html": "Har politiet mistanke om straffbar besittelse eller bruk av narkotika i sprøyteromslokalene, skal personalet uten hinder av taushetsplikten i <a data-id=\"lov/1967-02-10/§13\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713\">forvaltningsloven §§ 13</a> til <a data-id=\"lov/1967-02-10/§13e\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713e\">13 e</a> og på begjæring gi politiet opplysning om hvorvidt en identifisert person er registrert bruker av sprøyterommet eller ikke.",
         "text": "Har politiet mistanke om straffbar besittelse eller bruk av narkotika i sprøyteromslokalene, skal personalet uten hinder av taushetsplikten i forvaltningsloven §§ 13 til 13 e og på begjæring gi politiet opplysning om hvorvidt en identifisert person er registrert bruker av sprøyterommet eller ikke."
     },
     null,
@@ -103,63 +103,63 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem ordningen skal gjelde for,</td>\n</tr>",
-        "text": "a)hvem ordningen skal gjelde for,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem ordningen skal gjelde for,</td>\n</tr>",
+        "text": "a)\thvem ordningen skal gjelde for,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ordninger for adgangsregulering,</td>\n</tr>",
-        "text": "b)ordninger for adgangsregulering,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ordninger for adgangsregulering,</td>\n</tr>",
+        "text": "b)\tordninger for adgangsregulering,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">type og mengde narkotika som straffriheten skal omfatte,</td>\n</tr>",
-        "text": "c)type og mengde narkotika som straffriheten skal omfatte,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">type og mengde narkotika som straffriheten skal omfatte,</td>\n</tr>",
+        "text": "c)\ttype og mengde narkotika som straffriheten skal omfatte,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ordninger for kontroll av type og mengde narkotika en person har med seg inn i sprøyteromslokalene,</td>\n</tr>",
-        "text": "d)ordninger for kontroll av type og mengde narkotika en person har med seg inn i sprøyteromslokalene,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ordninger for kontroll av type og mengde narkotika en person har med seg inn i sprøyteromslokalene,</td>\n</tr>",
+        "text": "d)\tordninger for kontroll av type og mengde narkotika en person har med seg inn i sprøyteromslokalene,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilken adgang politiet skal ha til sprøyteromslokalene,</td>\n</tr>",
-        "text": "e)hvilken adgang politiet skal ha til sprøyteromslokalene,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilken adgang politiet skal ha til sprøyteromslokalene,</td>\n</tr>",
+        "text": "e)\thvilken adgang politiet skal ha til sprøyteromslokalene,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til personalet som har ansvar for sprøyteromslokalene,</td>\n</tr>",
-        "text": "f)krav til personalet som har ansvar for sprøyteromslokalene,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til personalet som har ansvar for sprøyteromslokalene,</td>\n</tr>",
+        "text": "f)\tkrav til personalet som har ansvar for sprøyteromslokalene,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan personopplysninger i registeret kan behandles,</td>\n</tr>",
-        "text": "g)hvordan personopplysninger i registeret kan behandles,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan personopplysninger i registeret kan behandles,</td>\n</tr>",
+        "text": "g)\thvordan personopplysninger i registeret kan behandles,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav for å bli godkjent kommune for ordningen,</td>\n</tr>",
-        "text": "h)krav for å bli godkjent kommune for ordningen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav for å bli godkjent kommune for ordningen,</td>\n</tr>",
+        "text": "h)\tkrav for å bli godkjent kommune for ordningen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til internkontroll med ordningen,</td>\n</tr>",
-        "text": "i)krav til internkontroll med ordningen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til internkontroll med ordningen,</td>\n</tr>",
+        "text": "i)\tkrav til internkontroll med ordningen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">plikt for kommunen til å avgi opplysninger av betydning for evalueringen av ordningen.</td>\n</tr>",
-        "text": "j)plikt for kommunen til å avgi opplysninger av betydning for evalueringen av ordningen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">plikt for kommunen til å avgi opplysninger av betydning for evalueringen av ordningen.</td>\n</tr>",
+        "text": "j)\tplikt for kommunen til å avgi opplysninger av betydning for evalueringen av ordningen."
     },
     null,
     {

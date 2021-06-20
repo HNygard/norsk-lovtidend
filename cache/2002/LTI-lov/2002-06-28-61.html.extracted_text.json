@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.81 (2001–2002), Innst.O.nr.84 (2001–2002) og Besl.O.nr.98 (2001–2002). Odels- og lagtingsvedtak hhv. 18. og 21. juni 2002. Fremmet av Olje- og energidepartementet.",
+        "html": "Ot.prp.nr.81 (2001–2002), <a data-id=\"forarbeid/inns-o-84-200102\" class=\" reference\" href=\"/forarbeid/inns-o-84-200102\">Innst.O.nr.84 (2001–2002)</a> og <a data-id=\"forarbeid/besl-o-98-200102\" class=\" reference\" href=\"/forarbeid/besl-o-98-200102\">Besl.O.nr.98 (2001–2002)</a>. Odels- og lagtingsvedtak hhv. 18. og 21. juni 2002. Fremmet av Olje- og energidepartementet.",
         "text": "Ot.prp.nr.81 (2001–2002), Innst.O.nr.84 (2001–2002) og Besl.O.nr.98 (2001–2002). Odels- og lagtingsvedtak hhv. 18. og 21. juni 2002. Fremmet av Olje- og energidepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 29. november 1996 nr. 72 om petroleumsvirksomhet.",
+        "html": "<a data-id=\"lov/1996-11-29-72\" class=\" reference\" href=\"/lov/1996-11-29-72\">Lov av 29. november 1996 nr. 72</a> om petroleumsvirksomhet.",
         "text": "Lov av 29. november 1996 nr. 72 om petroleumsvirksomhet."
     },
     {
@@ -29,6 +29,7 @@
         "html": "Lov om felles regler for det indre marked for naturgass",
         "text": "Lov om felles regler for det indre marked for naturgass"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -45,9 +46,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven kommer til anvendelse på overføring, distribusjon, forsyning og lagring av naturgass som ikke omfattes av lov 29. november 1996 nr. 72 om petroleumsvirksomhet.",
+        "html": "Loven kommer til anvendelse på overføring, distribusjon, forsyning og lagring av naturgass som ikke omfattes av <a data-id=\"lov/1996-11-29-72\" class=\" reference\" href=\"/lov/1996-11-29-72\">lov 29. november 1996 nr. 72</a> om petroleumsvirksomhet.",
         "text": "Loven kommer til anvendelse på overføring, distribusjon, forsyning og lagring av naturgass som ikke omfattes av lov 29. november 1996 nr. 72 om petroleumsvirksomhet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -69,40 +71,41 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">naturgassforetak, enhver fysisk eller juridisk person som ivaretar minst en av følgende funksjoner: produksjon, overføring, distribusjon, forsyning, innkjøp eller lagring av naturgass, herunder nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige og tekniske oppgaver eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder,</td>\n</tr>",
-        "text": "a)naturgassforetak, enhver fysisk eller juridisk person som ivaretar minst en av følgende funksjoner: produksjon, overføring, distribusjon, forsyning, innkjøp eller lagring av naturgass, herunder nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige og tekniske oppgaver eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">naturgassforetak, enhver fysisk eller juridisk person som ivaretar minst en av følgende funksjoner: produksjon, overføring, distribusjon, forsyning, innkjøp eller lagring av naturgass, herunder nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige og tekniske oppgaver eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder,</td>\n</tr>",
+        "text": "a)\tnaturgassforetak, enhver fysisk eller juridisk person som ivaretar minst en av følgende funksjoner: produksjon, overføring, distribusjon, forsyning, innkjøp eller lagring av naturgass, herunder nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige og tekniske oppgaver eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overføring, transport av naturgass gjennom et høytrykksgassrørledningsnett, med sikte på levering til kunder,</td>\n</tr>",
-        "text": "b)overføring, transport av naturgass gjennom et høytrykksgassrørledningsnett, med sikte på levering til kunder,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overføring, transport av naturgass gjennom et høytrykksgassrørledningsnett, med sikte på levering til kunder,</td>\n</tr>",
+        "text": "b)\toverføring, transport av naturgass gjennom et høytrykksgassrørledningsnett, med sikte på levering til kunder,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">distribusjon, overføring av naturgass gjennom lokale eller regionale gassrørledningsnett, med sikte på levering til kunder,</td>\n</tr>",
-        "text": "c)distribusjon, overføring av naturgass gjennom lokale eller regionale gassrørledningsnett, med sikte på levering til kunder,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">distribusjon, overføring av naturgass gjennom lokale eller regionale gassrørledningsnett, med sikte på levering til kunder,</td>\n</tr>",
+        "text": "c)\tdistribusjon, overføring av naturgass gjennom lokale eller regionale gassrørledningsnett, med sikte på levering til kunder,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsyning, levering eller salg av naturgass, herunder av LNG, til kunder,</td>\n</tr>",
-        "text": "d)forsyning, levering eller salg av naturgass, herunder av LNG, til kunder,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsyning, levering eller salg av naturgass, herunder av LNG, til kunder,</td>\n</tr>",
+        "text": "d)\tforsyning, levering eller salg av naturgass, herunder av LNG, til kunder,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kunder, grossister eller sluttkunder samt naturgassforetak som kjøper naturgass,</td>\n</tr>",
-        "text": "e)kunder, grossister eller sluttkunder samt naturgassforetak som kjøper naturgass,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kunder, grossister eller sluttkunder samt naturgassforetak som kjøper naturgass,</td>\n</tr>",
+        "text": "e)\tkunder, grossister eller sluttkunder samt naturgassforetak som kjøper naturgass,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">system, ethvert overførings- eller distribusjonsnett eller LNG-anlegg som eies eller drives av et naturgassforetak, herunder dettes anlegg som yter tilknyttede tjenester og tilknyttede foretaks anlegg som er nødvendig for å gi adgang til overføring og distribusjon,</td>\n</tr>",
-        "text": "f)system, ethvert overførings- eller distribusjonsnett eller LNG-anlegg som eies eller drives av et naturgassforetak, herunder dettes anlegg som yter tilknyttede tjenester og tilknyttede foretaks anlegg som er nødvendig for å gi adgang til overføring og distribusjon,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">system, ethvert overførings- eller distribusjonsnett eller LNG-anlegg som eies eller drives av et naturgassforetak, herunder dettes anlegg som yter tilknyttede tjenester og tilknyttede foretaks anlegg som er nødvendig for å gi adgang til overføring og distribusjon,</td>\n</tr>",
+        "text": "f)\tsystem, ethvert overførings- eller distribusjonsnett eller LNG-anlegg som eies eller drives av et naturgassforetak, herunder dettes anlegg som yter tilknyttede tjenester og tilknyttede foretaks anlegg som er nødvendig for å gi adgang til overføring og distribusjon,"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -129,6 +132,7 @@
         "text": "Med mindre departementet bestemmer noe annet omfatter kvalifisert kunde gassfyrte kraftverk, uansett årlig forbruksnivå, samt øvrige sluttkunder som forbruker mer enn 25 millioner kubikkmeter gass per år og per forbrukssted, og som har adgang til systemet i den EØS-stat der vedkommende er hjemmehørende."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -147,6 +151,7 @@
         "html": "Kongen gir nærmere regler til gjennomføring og utfylling av denne lov, herunder nærmere bestemmelser om retten til adgang til og drift av systemet og bestemmelser om regnskap og løsning av tvister vedrørende adgang til og bruk av systemet.",
         "text": "Kongen gir nærmere regler til gjennomføring og utfylling av denne lov, herunder nærmere bestemmelser om retten til adgang til og drift av systemet og bestemmelser om regnskap og løsning av tvister vedrørende adgang til og bruk av systemet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -175,13 +180,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 29. november 1996 nr. 72 om petroleumsvirksomhet gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1996-11-29-72\" class=\" reference\" href=\"/lov/1996-11-29-72\">lov 29. november 1996 nr. 72</a> om petroleumsvirksomhet gjøres følgende endringer:",
         "text": "I lov 29. november 1996 nr. 72 om petroleumsvirksomhet gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1-6 ny bokstav m skal lyde:",
+        "html": "<a data-id=\"lov/1996-11-29-72/§1-6\" class=\" reference\" href=\"/lov/1996-11-29-72/%C2%A71-6\">§ 1-6</a> ny bokstav m skal lyde:",
         "text": "§ 1-6 ny bokstav m skal lyde:"
     },
     {
@@ -193,7 +198,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1-6 ny bokstav n skal lyde:",
+        "html": "<a data-id=\"lov/1996-11-29-72/§1-6\" class=\" reference\" href=\"/lov/1996-11-29-72/%C2%A71-6\">§ 1-6</a> ny bokstav n skal lyde:",
         "text": "§ 1-6 ny bokstav n skal lyde:"
     },
     {
@@ -205,7 +210,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1-6 ny bokstav o skal lyde:",
+        "html": "<a data-id=\"lov/1996-11-29-72/§1-6\" class=\" reference\" href=\"/lov/1996-11-29-72/%C2%A71-6\">§ 1-6</a> ny bokstav o skal lyde:",
         "text": "§ 1-6 ny bokstav o skal lyde:"
     },
     {
@@ -217,7 +222,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 4-8 første ledd nytt annet og tredje punktum skal lyde:",
+        "html": "<a data-id=\"lov/1996-11-29-72/§4-8\" class=\" reference\" href=\"/lov/1996-11-29-72/%C2%A74-8\">§ 4-8</a> første ledd nytt annet og tredje punktum skal lyde:",
         "text": "§ 4-8 første ledd nytt annet og tredje punktum skal lyde:"
     },
     {
@@ -235,7 +240,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov om felles regler for det indre marked for naturgass og endringer i lov 29. november 1996 nr. 72 om petroleumsvirksomhet trer i kraft fra den tid Kongen bestemmer.",
+        "html": "Lov om felles regler for det indre marked for naturgass og endringer i <a data-id=\"lov/1996-11-29-72\" class=\" reference\" href=\"/lov/1996-11-29-72\">lov 29. november 1996 nr. 72</a> om petroleumsvirksomhet trer i kraft fra den tid Kongen bestemmer.",
         "text": "Lov om felles regler for det indre marked for naturgass og endringer i lov 29. november 1996 nr. 72 om petroleumsvirksomhet trer i kraft fra den tid Kongen bestemmer."
     }
 ]

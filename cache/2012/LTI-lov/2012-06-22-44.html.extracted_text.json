@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.112 L (2011–2012), Innst.370 L (2011–2012), Lovvedtak 85 (2011–2012). Stortingets første og andre gongs behandling hv. 12. og 15. juni 2012. Fremja av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-112-l-201112\" class=\" reference\" href=\"/forarbeid/prop-112-l-201112\">Prop.112 L (2011–2012)</a>, <a data-id=\"forarbeid/inns-370-l-201112\" class=\" reference\" href=\"/forarbeid/inns-370-l-201112\">Innst.370 L (2011–2012)</a>, <a data-id=\"forarbeid/lovvedtak-85-201112\" class=\" reference\" href=\"/forarbeid/lovvedtak-85-201112\">Lovvedtak 85 (2011–2012)</a>. Stortingets første og andre gongs behandling hv. 12. og 15. juni 2012. Fremja av Finansdepartementet.",
         "text": "Prop.112 L (2011–2012), Innst.370 L (2011–2012), Lovvedtak 85 (2011–2012). Stortingets første og andre gongs behandling hv. 12. og 15. juni 2012. Fremja av Finansdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 17. desember 1982 nr. 82 om mellombels tillegg til lov 6. juni 1975 nr. 29 om eigedomsskatt.",
+        "html": "<a data-id=\"lov/1982-12-17-82\" class=\" reference\" href=\"/lov/1982-12-17-82\">Lov 17. desember 1982 nr. 82</a> om mellombels tillegg til <a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">lov 6. juni 1975 nr. 29</a> om eigedomsskatt.",
         "text": "Lov 17. desember 1982 nr. 82 om mellombels tillegg til lov 6. juni 1975 nr. 29 om eigedomsskatt."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane.",
+        "html": "<a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">Lov 6. juni 1975 nr. 29</a> om eigedomsskatt til kommunane.",
         "text": "Lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane."
     },
     {
@@ -38,7 +38,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjer ein følgjande endringar:",
+        "html": "I <a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">lov 6. juni 1975 nr. 29</a> om eigedomsskatt til kommunane gjer ein følgjande endringar:",
         "text": "I lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane gjer ein følgjande endringar:"
     },
     {
@@ -151,21 +151,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigedomen er delt,</td>\n</tr>",
-        "text": "a)eigedomen er delt,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigedomen er delt,</td>\n</tr>",
+        "text": "a)\teigedomen er delt,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bygningar på eigedomen er rive eller øydelagt av brann eller liknande, eller</td>\n</tr>",
-        "text": "b)bygningar på eigedomen er rive eller øydelagt av brann eller liknande, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bygningar på eigedomen er rive eller øydelagt av brann eller liknande, eller</td>\n</tr>",
+        "text": "b)\tbygningar på eigedomen er rive eller øydelagt av brann eller liknande, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er ført opp nye bygningar eller gjort monalege forandringar på eigedomen.</td>\n</tr>",
-        "text": "d)det er ført opp nye bygningar eller gjort monalege forandringar på eigedomen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er ført opp nye bygningar eller gjort monalege forandringar på eigedomen.</td>\n</tr>",
+        "text": "d)\tdet er ført opp nye bygningar eller gjort monalege forandringar på eigedomen."
     },
     {
         "tag": "table",
@@ -254,7 +254,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Verdet (taksten) av anlegg som nemnt i skatteloven § 18-5 første leden skal ikkje setjast lågare enn kr 0,95/kWh eller høgare enn kr 2,74/kWh av 1/7 av grunnlaget for anlegget si samla produksjon av elektrisk kraft for inntektsåret og dei seks foregåande åra. Har kraftanlegget vore i drift i færre enn sju år, vert gjennomsnittet for desse åra lagt til grunn for utrekninga.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Verdet (taksten) av anlegg som nemnt i <a data-id=\"lov/1999-03-26-14/§18-5\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A718-5\">skatteloven § 18-5</a> første leden skal ikkje setjast lågare enn kr 0,95/kWh eller høgare enn kr 2,74/kWh av 1/7 av grunnlaget for anlegget si samla produksjon av elektrisk kraft for inntektsåret og dei seks foregåande åra. Har kraftanlegget vore i drift i færre enn sju år, vert gjennomsnittet for desse åra lagt til grunn for utrekninga.</td></tr>",
         "text": "(4) Verdet (taksten) av anlegg som nemnt i skatteloven § 18-5 første leden skal ikkje setjast lågare enn kr 0,95/kWh eller høgare enn kr 2,74/kWh av 1/7 av grunnlaget for anlegget si samla produksjon av elektrisk kraft for inntektsåret og dei seks foregåande åra. Har kraftanlegget vore i drift i færre enn sju år, vert gjennomsnittet for desse åra lagt til grunn for utrekninga."
     },
     {
@@ -302,7 +302,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når taksten byggjer på likningsverdet, skal utskrivinga rettast berre så langt likninga vert brigda etter kapittel 9 i likningslova. Fristane for retting etter likningslova § 9-6 gjeld då tilsvarande for eigedomsskatten.",
+        "html": "Når taksten byggjer på likningsverdet, skal utskrivinga rettast berre så langt likninga vert brigda etter kapittel 9 i likningslova. Fristane for retting etter <a data-id=\"lov/1980-06-13-24/§9-6\" class=\" reference\" href=\"/lov/1980-06-13-24/%C2%A79-6\">likningslova § 9-6</a> gjeld då tilsvarande for eigedomsskatten.",
         "text": "Når taksten byggjer på likningsverdet, skal utskrivinga rettast berre så langt likninga vert brigda etter kapittel 9 i likningslova. Fristane for retting etter likningslova § 9-6 gjeld då tilsvarande for eigedomsskatten."
     },
     {
@@ -320,7 +320,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For anlegg for produksjon av elektrisk kraft kan klaga ikkje gjelda det verdet som er sett på eigedomen ved likninga, jf. likningslova § 9-4.",
+        "html": "For anlegg for produksjon av elektrisk kraft kan klaga ikkje gjelda det verdet som er sett på eigedomen ved likninga, jf. <a data-id=\"lov/1980-06-13-24/§9-4\" class=\" reference\" href=\"/lov/1980-06-13-24/%C2%A79-4\">likningslova § 9-4</a>.",
         "text": "For anlegg for produksjon av elektrisk kraft kan klaga ikkje gjelda det verdet som er sett på eigedomen ved likninga, jf. likningslova § 9-4."
     },
     {
@@ -380,31 +380,31 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Reglane i likningslova § 3-13 om teieplikt gjeld på tilsvarande måte for tenestemenn og nemndmedlemmer som er med på å skriva ut eigedomsskatt i staden for reglane om teieplikt i forvaltningslova.",
+        "html": "Reglane i <a data-id=\"lov/1980-06-13-24/§3-13\" class=\" reference\" href=\"/lov/1980-06-13-24/%C2%A73-13\">likningslova § 3-13</a> om teieplikt gjeld på tilsvarande måte for tenestemenn og nemndmedlemmer som er med på å skriva ut eigedomsskatt i staden for reglane om teieplikt i forvaltningslova.",
         "text": "Reglane i likningslova § 3-13 om teieplikt gjeld på tilsvarande måte for tenestemenn og nemndmedlemmer som er med på å skriva ut eigedomsskatt i staden for reglane om teieplikt i forvaltningslova."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forvaltningslova § 11 d andre ledd andre punktum gjeld ikkje for tenestemenn som tar del i synfaring i samband med taksering.",
+        "html": "<a data-id=\"lov/1967-02-10/§11d\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A711d\">Forvaltningslova § 11 d</a> andre ledd andre punktum gjeld ikkje for tenestemenn som tar del i synfaring i samband med taksering.",
         "text": "Forvaltningslova § 11 d andre ledd andre punktum gjeld ikkje for tenestemenn som tar del i synfaring i samband med taksering."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forvaltningslova § 24 gjeld ikkje for den årlege utskrivinga av eigedomsskatt.",
+        "html": "<a data-id=\"lov/1967-02-10/§24\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A724\">Forvaltningslova § 24</a> gjeld ikkje for den årlege utskrivinga av eigedomsskatt.",
         "text": "Forvaltningslova § 24 gjeld ikkje for den årlege utskrivinga av eigedomsskatt."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forvaltningslova § 25 gjeld ikkje for vedtak om takst eller overtakst. I staden for gjeld eit krav om stutt grunngjeving for avgjerda.",
+        "html": "<a data-id=\"lov/1967-02-10/§25\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A725\">Forvaltningslova § 25</a> gjeld ikkje for vedtak om takst eller overtakst. I staden for gjeld eit krav om stutt grunngjeving for avgjerda.",
         "text": "Forvaltningslova § 25 gjeld ikkje for vedtak om takst eller overtakst. I staden for gjeld eit krav om stutt grunngjeving for avgjerda."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forvaltningslova § 36 gjeld ikkje i eigedomsskattesaker. Reglane om dekning av sakskostnader i likningslova § 9-11 gjeld på tilsvarande måte i eigedomsskattesaker.",
+        "html": "<a data-id=\"lov/1967-02-10/§36\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A736\">Forvaltningslova § 36</a> gjeld ikkje i eigedomsskattesaker. Reglane om dekning av sakskostnader i <a data-id=\"lov/1980-06-13-24/§9-11\" class=\" reference\" href=\"/lov/1980-06-13-24/%C2%A79-11\">likningslova § 9-11</a> gjeld på tilsvarande måte i eigedomsskattesaker.",
         "text": "Forvaltningslova § 36 gjeld ikkje i eigedomsskattesaker. Reglane om dekning av sakskostnader i likningslova § 9-11 gjeld på tilsvarande måte i eigedomsskattesaker."
     },
     {
@@ -445,15 +445,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">0,5 promille av skattegrunnlaget når forseinkinga ikkje er over ein månad,</td>\n</tr>",
-        "text": "a.0,5 promille av skattegrunnlaget når forseinkinga ikkje er over ein månad,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">0,5 promille av skattegrunnlaget når forseinkinga ikkje er over ein månad,</td>\n</tr>",
+        "text": "a.\t0,5 promille av skattegrunnlaget når forseinkinga ikkje er over ein månad,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">1 promille av skattegrunnlaget når forseinkinga er over ein månad.</td>\n</tr>",
-        "text": "b.1 promille av skattegrunnlaget når forseinkinga er over ein månad."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">1 promille av skattegrunnlaget når forseinkinga er over ein månad.</td>\n</tr>",
+        "text": "b.\t1 promille av skattegrunnlaget når forseinkinga er over ein månad."
     },
     {
         "tag": "p",
@@ -482,7 +482,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 17. desember 1982 nr. 82 om mellombels tillegg til lov 6. juni 1975 nr. 29 om eigedomsskatt blir oppheva.",
+        "html": "<a data-id=\"lov/1982-12-17-82\" class=\" reference\" href=\"/lov/1982-12-17-82\">Lov 17. desember 1982 nr. 82</a> om mellombels tillegg til <a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">lov 6. juni 1975 nr. 29</a> om eigedomsskatt blir oppheva.",
         "text": "Lov 17. desember 1982 nr. 82 om mellombels tillegg til lov 6. juni 1975 nr. 29 om eigedomsskatt blir oppheva."
     },
     {

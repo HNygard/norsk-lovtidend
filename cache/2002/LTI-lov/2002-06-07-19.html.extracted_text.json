@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.31 (2001–2002), Innst.O.nr.33 (2001–2002) og Besl.O.nr.42 (2001–2002). Odels- og lagtingsvedtak hhv. 21. mars og 18. april 2002. Fremmet av Justis- og politidepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-31-200102\" class=\" reference\" href=\"/forarbeid/otprp-31-200102\">Ot.prp.nr.31 (2001–2002)</a>, <a data-id=\"forarbeid/inns-o-33-200102\" class=\" reference\" href=\"/forarbeid/inns-o-33-200102\">Innst.O.nr.33 (2001–2002)</a> og <a data-id=\"forarbeid/besl-o-42-200102\" class=\" reference\" href=\"/forarbeid/besl-o-42-200102\">Besl.O.nr.42 (2001–2002)</a>. Odels- og lagtingsvedtak hhv. 21. mars og 18. april 2002. Fremmet av Justis- og politidepartementet.",
         "text": "Ot.prp.nr.31 (2001–2002), Innst.O.nr.33 (2001–2002) og Besl.O.nr.42 (2001–2002). Odels- og lagtingsvedtak hhv. 21. mars og 18. april 2002. Fremmet av Justis- og politidepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 29. mai 1964 nr. 1 om personnamn.",
+        "html": "<a data-id=\"lov/1964-05-29-1\" class=\" reference\" href=\"/lov/1964-05-29-1\">Lov av 29. mai 1964 nr. 1</a> om personnamn.",
         "text": "Lov av 29. mai 1964 nr. 1 om personnamn."
     },
     {
@@ -25,21 +25,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Almindelig borgerlig Straffelov (Straffeloven) av 22. mai 1902 nr. 10.</td>\n</tr>",
-        "text": "1Almindelig borgerlig Straffelov (Straffeloven) av 22. mai 1902 nr. 10."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Almindelig borgerlig Straffelov (Straffeloven) av 22. mai 1902 nr. 10.</td>\n</tr>",
+        "text": "1\tAlmindelig borgerlig Straffelov (Straffeloven) av 22. mai 1902 nr. 10."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov av 23. juni 1978 nr. 70 om kartlegging, deling og registrering av grunneiendom (Delingsloven).</td>\n</tr>",
-        "text": "2Lov av 23. juni 1978 nr. 70 om kartlegging, deling og registrering av grunneiendom (Delingsloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1978-06-23-70\" class=\" reference\" href=\"/lov/1978-06-23-70\">Lov av 23. juni 1978 nr. 70</a> om kartlegging, deling og registrering av grunneiendom (Delingsloven).</td>\n</tr>",
+        "text": "2\tLov av 23. juni 1978 nr. 70 om kartlegging, deling og registrering av grunneiendom (Delingsloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov av 21. juni 1985 nr. 79 om enerett til firma og andre forretningskjennetegn (firmaloven).</td>\n</tr>",
-        "text": "3Lov av 21. juni 1985 nr. 79 om enerett til firma og andre forretningskjennetegn (firmaloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1985-06-21-79\" class=\" reference\" href=\"/lov/1985-06-21-79\">Lov av 21. juni 1985 nr. 79</a> om enerett til firma og andre forretningskjennetegn (firmaloven).</td>\n</tr>",
+        "text": "3\tLov av 21. juni 1985 nr. 79 om enerett til firma og andre forretningskjennetegn (firmaloven)."
     },
     {
         "tag": "h2",
@@ -47,6 +47,7 @@
         "html": "Kapittel 1. Navneplikt",
         "text": "Kapittel 1. Navneplikt"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -66,6 +67,7 @@
         "html": "Alle skal ha fornavn og ett enkelt eller dobbelt etternavn og kan i tillegg ha mellomnavn. Enhver har plikt til å bruke sitt fornavn og etternavn som personnavn. Ingen kan ta, endre eller sløyfe navn på annen måte enn etter loven her.",
         "text": "Alle skal ha fornavn og ett enkelt eller dobbelt etternavn og kan i tillegg ha mellomnavn. Enhver har plikt til å bruke sitt fornavn og etternavn som personnavn. Ingen kan ta, endre eller sløyfe navn på annen måte enn etter loven her."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -88,7 +90,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Har barnet fylt seks måneder uten at melding er sendt eller uten at meldingen kan godtas, får barnet morens etternavn. Dette gjelder ikke etternavn som nevnt i § 4 første ledd nr. 2, og har moren ikke annet etternavn, får barnet i stedet morens fornavn med ending som viser slektskapet.",
+        "html": "Har barnet fylt seks måneder uten at melding er sendt eller uten at meldingen kan godtas, får barnet morens etternavn. Dette gjelder ikke etternavn som nevnt i <a data-id=\"lov/2002-06-07-19/§4\" class=\" reference\" href=\"/lov/2002-06-07-19/%C2%A74\">§ 4</a> første ledd nr. 2, og har moren ikke annet etternavn, får barnet i stedet morens fornavn med ending som viser slektskapet.",
         "text": "Har barnet fylt seks måneder uten at melding er sendt eller uten at meldingen kan godtas, får barnet morens etternavn. Dette gjelder ikke etternavn som nevnt i § 4 første ledd nr. 2, og har moren ikke annet etternavn, får barnet i stedet morens fornavn med ending som viser slektskapet."
     },
     {
@@ -97,6 +99,7 @@
         "html": "Kapittel 2. Etternavn, fornavn og mellomnavn",
         "text": "Kapittel 2. Etternavn, fornavn og mellomnavn"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -130,22 +133,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er så likt et beskyttet etternavn at navnene lett kan blandes sammen. Navnet kan likevel tas dersom alle som har det beskyttede navnet som etternavn, samtykker. Annet ledd annet punktum gjelder tilsvarende.</td>\n</tr>",
-        "text": "1.er så likt et beskyttet etternavn at navnene lett kan blandes sammen. Navnet kan likevel tas dersom alle som har det beskyttede navnet som etternavn, samtykker. Annet ledd annet punktum gjelder tilsvarende."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er så likt et beskyttet etternavn at navnene lett kan blandes sammen. Navnet kan likevel tas dersom alle som har det beskyttede navnet som etternavn, samtykker. Annet ledd annet punktum gjelder tilsvarende.</td>\n</tr>",
+        "text": "1.\ter så likt et beskyttet etternavn at navnene lett kan blandes sammen. Navnet kan likevel tas dersom alle som har det beskyttede navnet som etternavn, samtykker. Annet ledd annet punktum gjelder tilsvarende."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er identisk eller har likhet som nevnt i nr. 1 med et alminnelig kjent firma, varemerke eller annet kjennetegn som er vernet her i riket, med et alminnelig kjent navn på en stiftelse, forening, institusjon eller lignende eller med et alminnelig kjent kunstnernavn, og det må antas at berettigede interesser vil lide skade dersom vedkommende får navnet.</td>\n</tr>",
-        "text": "2.er identisk eller har likhet som nevnt i nr. 1 med et alminnelig kjent firma, varemerke eller annet kjennetegn som er vernet her i riket, med et alminnelig kjent navn på en stiftelse, forening, institusjon eller lignende eller med et alminnelig kjent kunstnernavn, og det må antas at berettigede interesser vil lide skade dersom vedkommende får navnet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er identisk eller har likhet som nevnt i nr. 1 med et alminnelig kjent firma, varemerke eller annet kjennetegn som er vernet her i riket, med et alminnelig kjent navn på en stiftelse, forening, institusjon eller lignende eller med et alminnelig kjent kunstnernavn, og det må antas at berettigede interesser vil lide skade dersom vedkommende får navnet.</td>\n</tr>",
+        "text": "2.\ter identisk eller har likhet som nevnt i nr. 1 med et alminnelig kjent firma, varemerke eller annet kjennetegn som er vernet her i riket, med et alminnelig kjent navn på en stiftelse, forening, institusjon eller lignende eller med et alminnelig kjent kunstnernavn, og det må antas at berettigede interesser vil lide skade dersom vedkommende får navnet."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er registrert i Det sentrale folkeregister som et navn som er eller har vært i bruk som fornavn. Navnet kan likevel tas som etternavn dersom det har opphav eller tradisjon som etternavn i Norge eller i utlandet eller har tradisjon i en kultur som ikke skiller mellom fornavn og etternavn.</td>\n</tr>",
-        "text": "3.er registrert i Det sentrale folkeregister som et navn som er eller har vært i bruk som fornavn. Navnet kan likevel tas som etternavn dersom det har opphav eller tradisjon som etternavn i Norge eller i utlandet eller har tradisjon i en kultur som ikke skiller mellom fornavn og etternavn."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er registrert i Det sentrale folkeregister som et navn som er eller har vært i bruk som fornavn. Navnet kan likevel tas som etternavn dersom det har opphav eller tradisjon som etternavn i Norge eller i utlandet eller har tradisjon i en kultur som ikke skiller mellom fornavn og etternavn.</td>\n</tr>",
+        "text": "3.\ter registrert i Det sentrale folkeregister som et navn som er eller har vært i bruk som fornavn. Navnet kan likevel tas som etternavn dersom det har opphav eller tradisjon som etternavn i Norge eller i utlandet eller har tradisjon i en kultur som ikke skiller mellom fornavn og etternavn."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -162,62 +166,62 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Uavhengig av begrensningene i § 3 kan følgende navn tas som etternavn:",
+        "html": "Uavhengig av begrensningene i <a data-id=\"lov/2002-06-07-19/§3\" class=\" reference\" href=\"/lov/2002-06-07-19/%C2%A73\">§ 3</a> kan følgende navn tas som etternavn:",
         "text": "Uavhengig av begrensningene i § 3 kan følgende navn tas som etternavn:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn som er eller har vært en av tippoldeforeldrenes, oldeforeldrenes, besteforeldrenes eller foreldrenes etternavn eller mellomnavn. Dette gjelder ikke tidligere navn som er ervervet ved ekteskap eller samboerskap.</td>\n</tr>",
-        "text": "1.navn som er eller har vært en av tippoldeforeldrenes, oldeforeldrenes, besteforeldrenes eller foreldrenes etternavn eller mellomnavn. Dette gjelder ikke tidligere navn som er ervervet ved ekteskap eller samboerskap."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn som er eller har vært en av tippoldeforeldrenes, oldeforeldrenes, besteforeldrenes eller foreldrenes etternavn eller mellomnavn. Dette gjelder ikke tidligere navn som er ervervet ved ekteskap eller samboerskap.</td>\n</tr>",
+        "text": "1.\tnavn som er eller har vært en av tippoldeforeldrenes, oldeforeldrenes, besteforeldrenes eller foreldrenes etternavn eller mellomnavn. Dette gjelder ikke tidligere navn som er ervervet ved ekteskap eller samboerskap."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en av foreldrenes fornavn med ending som viser slektskapet, eller når navnet har en tradisjon i en kultur som tillater det, en av besteforeldrenes fornavn med ending som viser slektskap.</td>\n</tr>",
-        "text": "2.en av foreldrenes fornavn med ending som viser slektskapet, eller når navnet har en tradisjon i en kultur som tillater det, en av besteforeldrenes fornavn med ending som viser slektskap."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en av foreldrenes fornavn med ending som viser slektskapet, eller når navnet har en tradisjon i en kultur som tillater det, en av besteforeldrenes fornavn med ending som viser slektskap.</td>\n</tr>",
+        "text": "2.\ten av foreldrenes fornavn med ending som viser slektskapet, eller når navnet har en tradisjon i en kultur som tillater det, en av besteforeldrenes fornavn med ending som viser slektskap."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn som er eller har vært en av foreldrenes eller besteforeldrenes fornavn, når navnet har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn.</td>\n</tr>",
-        "text": "3.navn som er eller har vært en av foreldrenes eller besteforeldrenes fornavn, når navnet har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn som er eller har vært en av foreldrenes eller besteforeldrenes fornavn, når navnet har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn.</td>\n</tr>",
+        "text": "3.\tnavn som er eller har vært en av foreldrenes eller besteforeldrenes fornavn, når navnet har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn som er eller har vært ektefellens etternavn eller mellomnavn, og som ikke er ervervet ved et tidligere ekteskap eller samboerskap.</td>\n</tr>",
-        "text": "4.navn som er eller har vært ektefellens etternavn eller mellomnavn, og som ikke er ervervet ved et tidligere ekteskap eller samboerskap."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn som er eller har vært ektefellens etternavn eller mellomnavn, og som ikke er ervervet ved et tidligere ekteskap eller samboerskap.</td>\n</tr>",
+        "text": "4.\tnavn som er eller har vært ektefellens etternavn eller mellomnavn, og som ikke er ervervet ved et tidligere ekteskap eller samboerskap."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefellens fornavn når navnet har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn.</td>\n</tr>",
-        "text": "5.ektefellens fornavn når navnet har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefellens fornavn når navnet har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn.</td>\n</tr>",
+        "text": "5.\tektefellens fornavn når navnet har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn som er en av steforeldrenes eller fosterforeldrenes etternavn eller mellomnavn, og vedkommende samtykker.</td>\n</tr>",
-        "text": "6.navn som er en av steforeldrenes eller fosterforeldrenes etternavn eller mellomnavn, og vedkommende samtykker."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn som er en av steforeldrenes eller fosterforeldrenes etternavn eller mellomnavn, og vedkommende samtykker.</td>\n</tr>",
+        "text": "6.\tnavn som er en av steforeldrenes eller fosterforeldrenes etternavn eller mellomnavn, og vedkommende samtykker."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etternavn eller mellomnavn som vedkommende har hatt tidligere, og som ikke er ervervet ved ekteskap eller samboerskap, eller mellomnavn som vedkommende har.</td>\n</tr>",
-        "text": "7.etternavn eller mellomnavn som vedkommende har hatt tidligere, og som ikke er ervervet ved ekteskap eller samboerskap, eller mellomnavn som vedkommende har."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etternavn eller mellomnavn som vedkommende har hatt tidligere, og som ikke er ervervet ved ekteskap eller samboerskap, eller mellomnavn som vedkommende har.</td>\n</tr>",
+        "text": "7.\tetternavn eller mellomnavn som vedkommende har hatt tidligere, og som ikke er ervervet ved ekteskap eller samboerskap, eller mellomnavn som vedkommende har."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn på et gårdsbruk som vedkommende eller en av dennes foreldre eier og har eid i minst 10 år, eller som vedkommende eller en av foreldrene bruker og har brukt i minst 20 år eller har brukt i minst 10 år og har en bruksrett til som er fastsatt for en av foreldrenes eller vedkommendes livstid. Dette gjelder ikke dersom navnet på gårdsbruket er valgt etter 1. januar 1947 og strider mot delingsloven § 5-3 annet ledd.</td>\n</tr>",
-        "text": "8.navn på et gårdsbruk som vedkommende eller en av dennes foreldre eier og har eid i minst 10 år, eller som vedkommende eller en av foreldrene bruker og har brukt i minst 20 år eller har brukt i minst 10 år og har en bruksrett til som er fastsatt for en av foreldrenes eller vedkommendes livstid. Dette gjelder ikke dersom navnet på gårdsbruket er valgt etter 1. januar 1947 og strider mot delingsloven § 5-3 annet ledd."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn på et gårdsbruk som vedkommende eller en av dennes foreldre eier og har eid i minst 10 år, eller som vedkommende eller en av foreldrene bruker og har brukt i minst 20 år eller har brukt i minst 10 år og har en bruksrett til som er fastsatt for en av foreldrenes eller vedkommendes livstid. Dette gjelder ikke dersom navnet på gårdsbruket er valgt etter 1. januar 1947 og strider mot delingsloven § 5-3 annet ledd.</td>\n</tr>",
+        "text": "8.\tnavn på et gårdsbruk som vedkommende eller en av dennes foreldre eier og har eid i minst 10 år, eller som vedkommende eller en av foreldrene bruker og har brukt i minst 20 år eller har brukt i minst 10 år og har en bruksrett til som er fastsatt for en av foreldrenes eller vedkommendes livstid. Dette gjelder ikke dersom navnet på gårdsbruket er valgt etter 1. januar 1947 og strider mot delingsloven § 5-3 annet ledd."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etternavn eller mellomnavn som vedkommende for øvrig har en særlig tilknytning til.</td>\n</tr>",
-        "text": "9.etternavn eller mellomnavn som vedkommende for øvrig har en særlig tilknytning til."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etternavn eller mellomnavn som vedkommende for øvrig har en særlig tilknytning til.</td>\n</tr>",
+        "text": "9.\tetternavn eller mellomnavn som vedkommende for øvrig har en særlig tilknytning til."
     },
     {
         "tag": "p",
@@ -231,6 +235,7 @@
         "html": "Foruten etter adoptivslekten kan den som er adoptert ta navn etter sin biologiske slekt etter første ledd nr. 1, 2 og 3.",
         "text": "Foruten etter adoptivslekten kan den som er adoptert ta navn etter sin biologiske slekt etter første ledd nr. 1, 2 og 3."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -253,9 +258,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når ektefeller sammen adopterer noen som er under 18 år, får adoptivbarnet adoptivmorens etternavn med mindre annet er fastsatt i forbindelse med adopsjonen. § 2 annet ledd annet punktum gjelder tilsvarende.",
+        "html": "Når ektefeller sammen adopterer noen som er under 18 år, får adoptivbarnet adoptivmorens etternavn med mindre annet er fastsatt i forbindelse med adopsjonen. <a data-id=\"lov/2002-06-07-19/§2\" class=\" reference\" href=\"/lov/2002-06-07-19/%C2%A72\">§ 2</a> annet ledd annet punktum gjelder tilsvarende.",
         "text": "Når ektefeller sammen adopterer noen som er under 18 år, får adoptivbarnet adoptivmorens etternavn med mindre annet er fastsatt i forbindelse med adopsjonen. § 2 annet ledd annet punktum gjelder tilsvarende."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -282,6 +288,7 @@
         "text": "En endring av et etternavns kjønnsbestemte ending regnes ikke som å ta et annet navn."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -297,9 +304,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "To navn som kan tas som etternavn, kan tas som et dobbelt etternavn der de to navnene er satt sammen med bindestrek. I forhold til §§ 3 og 4 regnes et dobbelt etternavn som to adskilte etternavn.",
+        "html": "To navn som kan tas som etternavn, kan tas som et dobbelt etternavn der de to navnene er satt sammen med bindestrek. I forhold til <a data-id=\"lov/2002-06-07-19/§3\" class=\" reference\" href=\"/lov/2002-06-07-19/%C2%A73\">§§ 3</a> og <a data-id=\"lov/2002-06-07-19/§4\" class=\" reference\" href=\"/lov/2002-06-07-19/%C2%A74\">4</a> regnes et dobbelt etternavn som to adskilte etternavn.",
         "text": "To navn som kan tas som etternavn, kan tas som et dobbelt etternavn der de to navnene er satt sammen med bindestrek. I forhold til §§ 3 og 4 regnes et dobbelt etternavn som to adskilte etternavn."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -320,6 +328,7 @@
         "text": "Som fornavn kan det ikke velges et navn som er registrert i Det sentrale folkeregister som et navn som er eller har vært i bruk som etternavn eller mellomnavn. Navnet kan likevel tas som fornavn dersom det har opphav eller tradisjon som fornavn i Norge eller i utlandet eller har tradisjon i en kultur som ikke skiller mellom fornavn og etternavn."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -338,6 +347,7 @@
         "html": "Navn som kan tas som etternavn, kan tas som mellomnavn.",
         "text": "Navn som kan tas som etternavn, kan tas som mellomnavn."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -365,33 +375,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ta som etternavn etternavnet til en ektefelle eller en samboer som vedkommende har bodd sammen med i minst to år eller har barn sammen med, eller for navn som har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn, ektefellens eller samboerens fornavn,</td>\n</tr>",
-        "text": "1.ta som etternavn etternavnet til en ektefelle eller en samboer som vedkommende har bodd sammen med i minst to år eller har barn sammen med, eller for navn som har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn, ektefellens eller samboerens fornavn,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ta som etternavn etternavnet til en ektefelle eller en samboer som vedkommende har bodd sammen med i minst to år eller har barn sammen med, eller for navn som har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn, ektefellens eller samboerens fornavn,</td>\n</tr>",
+        "text": "1.\tta som etternavn etternavnet til en ektefelle eller en samboer som vedkommende har bodd sammen med i minst to år eller har barn sammen med, eller for navn som har en tradisjon i en kultur som ikke skiller mellom fornavn og etternavn, ektefellens eller samboerens fornavn,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ta som etternavn et etternavn som vedkommende tidligere har hatt,</td>\n</tr>",
-        "text": "2.ta som etternavn et etternavn som vedkommende tidligere har hatt,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ta som etternavn et etternavn som vedkommende tidligere har hatt,</td>\n</tr>",
+        "text": "2.\tta som etternavn et etternavn som vedkommende tidligere har hatt,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ta som etternavn steforeldres, fosterforeldres eller adoptivforeldres etternavn, og</td>\n</tr>",
-        "text": "3.ta som etternavn steforeldres, fosterforeldres eller adoptivforeldres etternavn, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ta som etternavn steforeldres, fosterforeldres eller adoptivforeldres etternavn, og</td>\n</tr>",
+        "text": "3.\tta som etternavn steforeldres, fosterforeldres eller adoptivforeldres etternavn, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">endre fornavnet tilbake til det fornavnet vedkommende hadde før endringen,</td>\n</tr>",
-        "text": "4.endre fornavnet tilbake til det fornavnet vedkommende hadde før endringen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">endre fornavnet tilbake til det fornavnet vedkommende hadde før endringen,</td>\n</tr>",
+        "text": "4.\tendre fornavnet tilbake til det fornavnet vedkommende hadde før endringen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ta, endre eller sløyfe fornavn eller etternavn dersom det foreligger særlige grunner.</td>\n</tr>",
-        "text": "5.ta, endre eller sløyfe fornavn eller etternavn dersom det foreligger særlige grunner."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ta, endre eller sløyfe fornavn eller etternavn dersom det foreligger særlige grunner.</td>\n</tr>",
+        "text": "5.\tta, endre eller sløyfe fornavn eller etternavn dersom det foreligger særlige grunner."
     },
     {
         "tag": "h2",
@@ -399,6 +409,7 @@
         "html": "Kapittel 3. Saksbehandling m.m.",
         "text": "Kapittel 3. Saksbehandling m.m."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -425,6 +436,7 @@
         "text": "Departementet kan gi nærmere regler om bruk av meldingsskjema og meldingenes innhold og om saksbehandlingen for øvrig."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -444,6 +456,7 @@
         "text": "Melding om å ta, endre eller sløyfe navn for noen som ikke har fylt 18 år, skal fremsettes av den eller de som har foreldreansvaret, eller disse må ha samtykket i meldingen. Gjelder meldingen et barn over 12 år, må også barnet selv ha samtykket. Selv om det ikke foreligger samtykke etter første eller annet punktum, kan meldingen godtas dersom det foreligger særlig grunn."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -462,6 +475,7 @@
         "html": "Er noens rettigheter krenket ved et vedtak som godtar en melding om å ta, endre eller sløyfe navn, kan vedkommende gjøre sin rett gjeldende ved søksmål innen to år etter at vedkommende fikk eller burde skaffet seg kunnskap om vedtaket. Søksmålet må være reist innen 10 år etter at vedtaket ble truffet.",
         "text": "Er noens rettigheter krenket ved et vedtak som godtar en melding om å ta, endre eller sløyfe navn, kan vedkommende gjøre sin rett gjeldende ved søksmål innen to år etter at vedkommende fikk eller burde skaffet seg kunnskap om vedtaket. Søksmålet må være reist innen 10 år etter at vedtaket ble truffet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -500,6 +514,7 @@
         "text": "Kapittel 4. Sluttbestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -515,9 +530,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven gjelder fra den tid Kongen bestemmer. Fra samme tid opphører lov 29. mai 1964 nr. 1 om personnamn å gjelde.",
+        "html": "Loven gjelder fra den tid Kongen bestemmer. Fra samme tid opphører <a data-id=\"lov/1964-05-29-1\" class=\" reference\" href=\"/lov/1964-05-29-1\">lov 29. mai 1964 nr. 1</a> om personnamn å gjelde.",
         "text": "Loven gjelder fra den tid Kongen bestemmer. Fra samme tid opphører lov 29. mai 1964 nr. 1 om personnamn å gjelde."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -544,6 +560,7 @@
         "text": "Etternavn som ved lovens ikrafttredelse består av to navn forbundet med bindestrek, anses som et dobbelt etternavn bestående av to etternavn."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -565,7 +582,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "1. I Almindelig borgerlig Straffelov 22. mai 1902 nr. 10 skal § 337 nytt annet ledd lyde:",
+        "html": "1. I Almindelig borgerlig Straffelov <a data-id=\"lov/1902-05-22-10\" class=\" reference\" href=\"/lov/1902-05-22-10\">22. mai 1902 nr. 10</a> skal <a data-id=\"lov/1902-05-22-10/§337\" class=\" reference\" href=\"/lov/1902-05-22-10/%C2%A7337\">§ 337</a> nytt annet ledd lyde:",
         "text": "1. I Almindelig borgerlig Straffelov 22. mai 1902 nr. 10 skal § 337 nytt annet ledd lyde:"
     },
     {
@@ -577,7 +594,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "2. I lov 23. juni 1978 nr. 70 om kartlegging, deling og registrering av grunneiendom skal § 5-3 annet ledd lyde:",
+        "html": "2. I <a data-id=\"lov/1978-06-23-70\" class=\" reference\" href=\"/lov/1978-06-23-70\">lov 23. juni 1978 nr. 70</a> om kartlegging, deling og registrering av grunneiendom skal <a data-id=\"lov/1978-06-23-70/§5-3\" class=\" reference\" href=\"/lov/1978-06-23-70/%C2%A75-3\">§ 5-3</a> annet ledd lyde:",
         "text": "2. I lov 23. juni 1978 nr. 70 om kartlegging, deling og registrering av grunneiendom skal § 5-3 annet ledd lyde:"
     },
     {
@@ -589,7 +606,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "3. I lov 21. juni 1985 nr. 79 om enerett til firma og andre forretningskjennetegn skal § 2-2 første ledd lyde:",
+        "html": "3. I <a data-id=\"lov/1985-06-21-79\" class=\" reference\" href=\"/lov/1985-06-21-79\">lov 21. juni 1985 nr. 79</a> om enerett til firma og andre forretningskjennetegn skal <a data-id=\"lov/1985-06-21-79/§2-2\" class=\" reference\" href=\"/lov/1985-06-21-79/%C2%A72-2\">§ 2-2</a> første ledd lyde:",
         "text": "3. I lov 21. juni 1985 nr. 79 om enerett til firma og andre forretningskjennetegn skal § 2-2 første ledd lyde:"
     },
     {

@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.95 (2003–2004), Innst.O.nr.15 (2004–2005) og Besl.O.nr.14 (2004–2005). Odels- og lagtingsvedtak hhv. 23. november og 2. desember 2004. Fremmet av Nærings- og handelsdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-95-200304\" class=\" reference\" href=\"/forarbeid/otprp-95-200304\">Ot.prp.nr.95 (2003–2004)</a>, <a data-id=\"forarbeid/inns-o-15-200405\" class=\" reference\" href=\"/forarbeid/inns-o-15-200405\">Innst.O.nr.15 (2004–2005)</a> og <a data-id=\"forarbeid/besl-o-14-200405\" class=\" reference\" href=\"/forarbeid/besl-o-14-200405\">Besl.O.nr.14 (2004–2005)</a>. Odels- og lagtingsvedtak hhv. 23. november og 2. desember 2004. Fremmet av Nærings- og handelsdepartementet.",
         "text": "Ot.prp.nr.95 (2003–2004), Innst.O.nr.15 (2004–2005) og Besl.O.nr.14 (2004–2005). Odels- og lagtingsvedtak hhv. 23. november og 2. desember 2004. Fremmet av Nærings- og handelsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).",
+        "html": "<a data-id=\"lov/1967-02-10\" class=\" reference\" href=\"/lov/1967-02-10\">Lov 10. februar 1967</a> om behandlingsmåten i forvaltningssaker (forvaltningsloven).",
         "text": "Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven)."
     },
     {
@@ -23,6 +23,7 @@
         "html": "Kapitel I Alminnelige bestemmelser",
         "text": "Kapitel I Alminnelige bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -42,6 +43,7 @@
         "html": "Loven skal motvirke ulovlige handelshindringer og bidra til fri bevegelighet i EØS indre marked for varer og informasjonssamfunnstjenester, og etableringer av slike tjenester, gjennom et system for europeisk meldeplikt (EØS-høring) for forslag til tekniske regler.",
         "text": "Loven skal motvirke ulovlige handelshindringer og bidra til fri bevegelighet i EØS indre marked for varer og informasjonssamfunnstjenester, og etableringer av slike tjenester, gjennom et system for europeisk meldeplikt (EØS-høring) for forslag til tekniske regler."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -63,50 +65,50 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomfører bindende bestemmelser i EØS-rettsakter, herunder rettsakter på området elektronisk kommunikasjon,</td>\n</tr>",
-        "text": "a)gjennomfører bindende bestemmelser i EØS-rettsakter, herunder rettsakter på området elektronisk kommunikasjon,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomfører bindende bestemmelser i EØS-rettsakter, herunder rettsakter på området elektronisk kommunikasjon,</td>\n</tr>",
+        "text": "a)\tgjennomfører bindende bestemmelser i EØS-rettsakter, herunder rettsakter på området elektronisk kommunikasjon,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende bygger på beskyttelsesklausuler i bindende EØS-rettsakter,</td>\n</tr>",
-        "text": "b)utelukkende bygger på beskyttelsesklausuler i bindende EØS-rettsakter,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende bygger på beskyttelsesklausuler i bindende EØS-rettsakter,</td>\n</tr>",
+        "text": "b)\tutelukkende bygger på beskyttelsesklausuler i bindende EØS-rettsakter,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende gjennomfører en dom avsagt av EFTA-domstolen eller EF-domstolen,</td>\n</tr>",
-        "text": "c)utelukkende gjennomfører en dom avsagt av EFTA-domstolen eller EF-domstolen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende gjennomfører en dom avsagt av EFTA-domstolen eller EF-domstolen,</td>\n</tr>",
+        "text": "c)\tutelukkende gjennomfører en dom avsagt av EFTA-domstolen eller EF-domstolen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende endrer en teknisk regel i samsvar med en anmodning fra EFTAs overvåkningsorgan,</td>\n</tr>",
-        "text": "d)utelukkende endrer en teknisk regel i samsvar med en anmodning fra EFTAs overvåkningsorgan,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende endrer en teknisk regel i samsvar med en anmodning fra EFTAs overvåkningsorgan,</td>\n</tr>",
+        "text": "d)\tutelukkende endrer en teknisk regel i samsvar med en anmodning fra EFTAs overvåkningsorgan,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende oppfyller forpliktelser etter internasjonale avtaler som fører til felles regler i EØS,</td>\n</tr>",
-        "text": "e)utelukkende oppfyller forpliktelser etter internasjonale avtaler som fører til felles regler i EØS,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende oppfyller forpliktelser etter internasjonale avtaler som fører til felles regler i EØS,</td>\n</tr>",
+        "text": "e)\tutelukkende oppfyller forpliktelser etter internasjonale avtaler som fører til felles regler i EØS,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende gjelder produkter innen landbruks- og fiskerisektoren, så langt disse sektorene ikke er omfattet av EØS-avtalen,</td>\n</tr>",
-        "text": "f)utelukkende gjelder produkter innen landbruks- og fiskerisektoren, så langt disse sektorene ikke er omfattet av EØS-avtalen,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende gjelder produkter innen landbruks- og fiskerisektoren, så langt disse sektorene ikke er omfattet av EØS-avtalen,</td>\n</tr>",
+        "text": "f)\tutelukkende gjelder produkter innen landbruks- og fiskerisektoren, så langt disse sektorene ikke er omfattet av EØS-avtalen,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er meldt til EFTAs overvåkingsorgan gjennom meldesystemet for forbrukerprodukter som utgjør en alvorlig risiko (RAPEX), jf. direktiv <a data-id=\"eu/32001l0095\" class=\" reference\" href=\"/eu/32001l0095\">2001/95/EF</a> artikkel 12 nr. 1.</td>\n</tr>",
-        "text": "g)er meldt til EFTAs overvåkingsorgan gjennom meldesystemet for forbrukerprodukter som utgjør en alvorlig risiko (RAPEX), jf. direktiv 2001/95/EF artikkel 12 nr. 1."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er meldt til EFTAs overvåkingsorgan gjennom meldesystemet for forbrukerprodukter som utgjør en alvorlig risiko (RAPEX), jf. direktiv <a data-id=\"eu/32001l0095\" class=\" reference\" href=\"/eu/32001l0095\">2001/95/EF</a> artikkel 12 nr. 1.</td>\n</tr>",
+        "text": "g)\ter meldt til EFTAs overvåkingsorgan gjennom meldesystemet for forbrukerprodukter som utgjør en alvorlig risiko (RAPEX), jf. direktiv 2001/95/EF artikkel 12 nr. 1."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Bortsett fra § 13 gjelder loven heller ikke tekniske regler om investeringstjenester i forbindelse med verdipapirer, som etter sitt innhold er identiske med direktiv 93/22/EØF, eller om markeder eller organer som utfører oppgaver i forbindelse med oppgjør for slike markeder.",
+        "html": "Bortsett fra <a data-id=\"lov/2004-12-17-101/§13\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A713\">§ 13</a> gjelder loven heller ikke tekniske regler om investeringstjenester i forbindelse med verdipapirer, som etter sitt innhold er identiske med direktiv 93/22/EØF, eller om markeder eller organer som utfører oppgaver i forbindelse med oppgjør for slike markeder.",
         "text": "Bortsett fra § 13 gjelder loven heller ikke tekniske regler om investeringstjenester i forbindelse med verdipapirer, som etter sitt innhold er identiske med direktiv 93/22/EØF, eller om markeder eller organer som utfører oppgaver i forbindelse med oppgjør for slike markeder."
     },
     {
@@ -122,6 +124,7 @@
         "text": "Kongen kan i forskrift bestemme at loven skal gjelde for Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -136,33 +139,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">tekniske regler</em> menes i denne lov:</td>\n</tr>",
-        "text": "1.Med tekniske regler menes i denne lov:"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">tekniske regler</em> menes i denne lov:</td>\n</tr>",
+        "text": "1.\tMed tekniske regler menes i denne lov:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske spesifikasjoner eller andre krav, herunder instrukser, som rettslig eller faktisk må følges for å kunne bringe i omsetning eller bruke et produkt i hele eller en større del av Norge,</td>\n</tr>",
-        "text": "a)tekniske spesifikasjoner eller andre krav, herunder instrukser, som rettslig eller faktisk må følges for å kunne bringe i omsetning eller bruke et produkt i hele eller en større del av Norge,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske spesifikasjoner eller andre krav, herunder instrukser, som rettslig eller faktisk må følges for å kunne bringe i omsetning eller bruke et produkt i hele eller en større del av Norge,</td>\n</tr>",
+        "text": "a)\ttekniske spesifikasjoner eller andre krav, herunder instrukser, som rettslig eller faktisk må følges for å kunne bringe i omsetning eller bruke et produkt i hele eller en større del av Norge,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til informasjonssamfunnstjenester, herunder instrukser, som rettslig eller faktisk må følges for å kunne yte, omsette, etablere eller bruke slike tjenester i hele eller en større del av Norge,</td>\n</tr>",
-        "text": "b)krav til informasjonssamfunnstjenester, herunder instrukser, som rettslig eller faktisk må følges for å kunne yte, omsette, etablere eller bruke slike tjenester i hele eller en større del av Norge,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til informasjonssamfunnstjenester, herunder instrukser, som rettslig eller faktisk må følges for å kunne yte, omsette, etablere eller bruke slike tjenester i hele eller en større del av Norge,</td>\n</tr>",
+        "text": "b)\tkrav til informasjonssamfunnstjenester, herunder instrukser, som rettslig eller faktisk må følges for å kunne yte, omsette, etablere eller bruke slike tjenester i hele eller en større del av Norge,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler som forbyr produksjon, import, omsetning eller bruk av et produkt,</td>\n</tr>",
-        "text": "c)regler som forbyr produksjon, import, omsetning eller bruk av et produkt,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler som forbyr produksjon, import, omsetning eller bruk av et produkt,</td>\n</tr>",
+        "text": "c)\tregler som forbyr produksjon, import, omsetning eller bruk av et produkt,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler som forbyr ytelse, omsetning, etablering eller bruk av en informasjonssamfunnstjeneste.</td>\n</tr>",
-        "text": "d)regler som forbyr ytelse, omsetning, etablering eller bruk av en informasjonssamfunnstjeneste."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regler som forbyr ytelse, omsetning, etablering eller bruk av en informasjonssamfunnstjeneste.</td>\n</tr>",
+        "text": "d)\tregler som forbyr ytelse, omsetning, etablering eller bruk av en informasjonssamfunnstjeneste."
     },
     {
         "tag": "p",
@@ -172,45 +175,45 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">tekniske spesifikasjoner</em> menes krav til et produkts egenskaper, for eksempel med hensyn til kvalitet, yteevne, sikkerhet eller dimensjoner, samt krav til produktet som gjelder betegnelse, terminologi, symboler, testing og testingsmetoder, pakking, merking og etikettering og fremgangsmåter for samsvarsvurdering. Som tekniske spesifikasjoner regnes også krav til produksjonsmetoder for:</td>\n</tr>",
-        "text": "2.Med tekniske spesifikasjoner menes krav til et produkts egenskaper, for eksempel med hensyn til kvalitet, yteevne, sikkerhet eller dimensjoner, samt krav til produktet som gjelder betegnelse, terminologi, symboler, testing og testingsmetoder, pakking, merking og etikettering og fremgangsmåter for samsvarsvurdering. Som tekniske spesifikasjoner regnes også krav til produksjonsmetoder for:"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">tekniske spesifikasjoner</em> menes krav til et produkts egenskaper, for eksempel med hensyn til kvalitet, yteevne, sikkerhet eller dimensjoner, samt krav til produktet som gjelder betegnelse, terminologi, symboler, testing og testingsmetoder, pakking, merking og etikettering og fremgangsmåter for samsvarsvurdering. Som tekniske spesifikasjoner regnes også krav til produksjonsmetoder for:</td>\n</tr>",
+        "text": "2.\tMed tekniske spesifikasjoner menes krav til et produkts egenskaper, for eksempel med hensyn til kvalitet, yteevne, sikkerhet eller dimensjoner, samt krav til produktet som gjelder betegnelse, terminologi, symboler, testing og testingsmetoder, pakking, merking og etikettering og fremgangsmåter for samsvarsvurdering. Som tekniske spesifikasjoner regnes også krav til produksjonsmetoder for:"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produkter beregnet på konsum, fôrvarer samt legemidler som definert i legemiddelloven § 2, og</td>\n</tr>",
-        "text": "a)produkter beregnet på konsum, fôrvarer samt legemidler som definert i legemiddelloven § 2, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produkter beregnet på konsum, fôrvarer samt legemidler som definert i <a data-id=\"lov/1992-12-04-132/§2\" class=\" reference\" href=\"/lov/1992-12-04-132/%C2%A72\">legemiddelloven § 2</a>, og</td>\n</tr>",
+        "text": "a)\tprodukter beregnet på konsum, fôrvarer samt legemidler som definert i legemiddelloven § 2, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre produkter når kravene påvirker produktenes egenskaper.</td>\n</tr>",
-        "text": "b)andre produkter når kravene påvirker produktenes egenskaper."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre produkter når kravene påvirker produktenes egenskaper.</td>\n</tr>",
+        "text": "b)\tandre produkter når kravene påvirker produktenes egenskaper."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">andre krav</em> menes krav som ikke er tekniske spesifikasjoner, og som påvirker produktets levetid etter at det er brakt på markedet, for eksempel krav til bruk, resirkulering eller gjenbruk, dersom slike krav i betydelig grad kan påvirke produktets sammensetning, egenskaper eller omsetning.</td>\n</tr>",
-        "text": "3.Med andre krav menes krav som ikke er tekniske spesifikasjoner, og som påvirker produktets levetid etter at det er brakt på markedet, for eksempel krav til bruk, resirkulering eller gjenbruk, dersom slike krav i betydelig grad kan påvirke produktets sammensetning, egenskaper eller omsetning."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">andre krav</em> menes krav som ikke er tekniske spesifikasjoner, og som påvirker produktets levetid etter at det er brakt på markedet, for eksempel krav til bruk, resirkulering eller gjenbruk, dersom slike krav i betydelig grad kan påvirke produktets sammensetning, egenskaper eller omsetning.</td>\n</tr>",
+        "text": "3.\tMed andre krav menes krav som ikke er tekniske spesifikasjoner, og som påvirker produktets levetid etter at det er brakt på markedet, for eksempel krav til bruk, resirkulering eller gjenbruk, dersom slike krav i betydelig grad kan påvirke produktets sammensetning, egenskaper eller omsetning."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">produkt</em> menes industriprodukter og landbruksprodukter som omfattes av EØS-avtalen.</td>\n</tr>",
-        "text": "4.Med produkt menes industriprodukter og landbruksprodukter som omfattes av EØS-avtalen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">produkt</em> menes industriprodukter og landbruksprodukter som omfattes av EØS-avtalen.</td>\n</tr>",
+        "text": "4.\tMed produkt menes industriprodukter og landbruksprodukter som omfattes av EØS-avtalen."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">informasjonssamfunnstjenester</em> menes enhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk over avstand og etter individuell anmodning fra en tjenestemottaker, jf. den veiledende listen i direktiv <a data-id=\"eu/31998l0048\" class=\" reference\" href=\"/eu/31998l0048\">98/48/EF</a> vedlegg V.</td>\n</tr>",
-        "text": "5.Med informasjonssamfunnstjenester menes enhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk over avstand og etter individuell anmodning fra en tjenestemottaker, jf. den veiledende listen i direktiv 98/48/EF vedlegg V."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">informasjonssamfunnstjenester</em> menes enhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk over avstand og etter individuell anmodning fra en tjenestemottaker, jf. den veiledende listen i direktiv <a data-id=\"eu/31998l0048\" class=\" reference\" href=\"/eu/31998l0048\">98/48/EF</a> vedlegg V.</td>\n</tr>",
+        "text": "5.\tMed informasjonssamfunnstjenester menes enhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk over avstand og etter individuell anmodning fra en tjenestemottaker, jf. den veiledende listen i direktiv 98/48/EF vedlegg V."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">regler om informasjonssamfunnstjenester</em> menes regler som helt eller delvis har som direkte formål å regulere tilgangen til informasjonssamfunnstjenester og ytelse av slike tjenester, særlig bestemmelser som gjelder tjenesteyteren, mottakeren av tjenester og tjenestene som sådanne.</td>\n</tr>",
-        "text": "6.Med regler om informasjonssamfunnstjenester menes regler som helt eller delvis har som direkte formål å regulere tilgangen til informasjonssamfunnstjenester og ytelse av slike tjenester, særlig bestemmelser som gjelder tjenesteyteren, mottakeren av tjenester og tjenestene som sådanne."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Med <em class=\" \">regler om informasjonssamfunnstjenester</em> menes regler som helt eller delvis har som direkte formål å regulere tilgangen til informasjonssamfunnstjenester og ytelse av slike tjenester, særlig bestemmelser som gjelder tjenesteyteren, mottakeren av tjenester og tjenestene som sådanne.</td>\n</tr>",
+        "text": "6.\tMed regler om informasjonssamfunnstjenester menes regler som helt eller delvis har som direkte formål å regulere tilgangen til informasjonssamfunnstjenester og ytelse av slike tjenester, særlig bestemmelser som gjelder tjenesteyteren, mottakeren av tjenester og tjenestene som sådanne."
     },
     {
         "tag": "h2",
@@ -218,6 +221,7 @@
         "html": "Kapittel II Meldeplikt",
         "text": "Kapittel II Meldeplikt"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -245,22 +249,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">endrer virkeområdet,</td>\n</tr>",
-        "text": "a)endrer virkeområdet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">endrer virkeområdet,</td>\n</tr>",
+        "text": "a)\tendrer virkeområdet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forkorter tidsplanen for gjennomføring, eller</td>\n</tr>",
-        "text": "b)forkorter tidsplanen for gjennomføring, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forkorter tidsplanen for gjennomføring, eller</td>\n</tr>",
+        "text": "b)\tforkorter tidsplanen for gjennomføring, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innfører nye eller strengere krav.</td>\n</tr>",
-        "text": "c)innfører nye eller strengere krav."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innfører nye eller strengere krav.</td>\n</tr>",
+        "text": "c)\tinnfører nye eller strengere krav."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -305,6 +310,7 @@
         "text": "Kapittel III Stillstandsplikt"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -320,7 +326,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forslag til tekniske regler som skal meldes etter § 4, kan ikke vedtas før tre måneder etter det tidspunkt EFTAs overvåkingsorgan mottar melding etter kapittel II, såfremt ikke annet følger av tredje ledd i paragrafen her eller §§ 7 og 8.",
+        "html": "Forslag til tekniske regler som skal meldes etter <a data-id=\"lov/2004-12-17-101/§4\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A74\">§ 4</a>, kan ikke vedtas før tre måneder etter det tidspunkt EFTAs overvåkingsorgan mottar melding etter <a data-id=\"lov/2004-12-17-101/kapii\" class=\" reference\" href=\"/lov/2004-12-17-101/kapii\">kapittel II</a>, såfremt ikke annet følger av tredje ledd i paragrafen her eller <a data-id=\"lov/2004-12-17-101/§7\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A77\">§§ 7</a> og <a data-id=\"lov/2004-12-17-101/§8\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A78\">8</a>.",
         "text": "Forslag til tekniske regler som skal meldes etter § 4, kan ikke vedtas før tre måneder etter det tidspunkt EFTAs overvåkingsorgan mottar melding etter kapittel II, såfremt ikke annet følger av tredje ledd i paragrafen her eller §§ 7 og 8."
     },
     {
@@ -337,16 +343,17 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en måned for forslag til regler om informasjonssamfunnstjenester og for forslag til vilkår i avtaler som nevnt i § 3 nr. 1 annet ledd, og</td>\n</tr>",
-        "text": "a)en måned for forslag til regler om informasjonssamfunnstjenester og for forslag til vilkår i avtaler som nevnt i § 3 nr. 1 annet ledd, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en måned for forslag til regler om informasjonssamfunnstjenester og for forslag til vilkår i avtaler som nevnt i <a data-id=\"lov/2004-12-17-101/§3\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A73\">§ 3</a> nr. 1 annet ledd, og</td>\n</tr>",
+        "text": "a)\ten måned for forslag til regler om informasjonssamfunnstjenester og for forslag til vilkår i avtaler som nevnt i § 3 nr. 1 annet ledd, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tre måneder for andre forslag til tekniske regler.</td>\n</tr>",
-        "text": "b)tre måneder for andre forslag til tekniske regler."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tre måneder for andre forslag til tekniske regler.</td>\n</tr>",
+        "text": "b)\ttre måneder for andre forslag til tekniske regler."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -363,39 +370,40 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Stillstandsplikten etter § 6 får ikke anvendelse når tekniske regler må utarbeides på kort tid og vedtas umiddelbart på grunn av en alvorlig og uforutsigbar situasjon knyttet til",
+        "html": "Stillstandsplikten etter <a data-id=\"lov/2004-12-17-101/§6\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A76\">§ 6</a> får ikke anvendelse når tekniske regler må utarbeides på kort tid og vedtas umiddelbart på grunn av en alvorlig og uforutsigbar situasjon knyttet til",
         "text": "Stillstandsplikten etter § 6 får ikke anvendelse når tekniske regler må utarbeides på kort tid og vedtas umiddelbart på grunn av en alvorlig og uforutsigbar situasjon knyttet til"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vern av folkehelsen, dyrs helse eller plantelivet,</td>\n</tr>",
-        "text": "a)vern av folkehelsen, dyrs helse eller plantelivet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vern av folkehelsen, dyrs helse eller plantelivet,</td>\n</tr>",
+        "text": "a)\tvern av folkehelsen, dyrs helse eller plantelivet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentlig sikkerhet, eller</td>\n</tr>",
-        "text": "b)offentlig sikkerhet, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentlig sikkerhet, eller</td>\n</tr>",
+        "text": "b)\toffentlig sikkerhet, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentlig orden når det gjelder regler om informasjonssamfunnstjenester, herunder særlig regler til vern av mindreårige.</td>\n</tr>",
-        "text": "c)offentlig orden når det gjelder regler om informasjonssamfunnstjenester, herunder særlig regler til vern av mindreårige."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentlig orden når det gjelder regler om informasjonssamfunnstjenester, herunder særlig regler til vern av mindreårige.</td>\n</tr>",
+        "text": "c)\toffentlig orden når det gjelder regler om informasjonssamfunnstjenester, herunder særlig regler til vern av mindreårige."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Stillstandsplikten etter § 6 får heller ikke anvendelse når regler om finansielle tjenester må vedtas og settes i kraft umiddelbart på grunn av en alvorlig situasjon knyttet til det økonomiske systems sikkerhet og integritet, herunder særlig regler til vern av innskytere, investorer og forsikrede.",
+        "html": "Stillstandsplikten etter <a data-id=\"lov/2004-12-17-101/§6\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A76\">§ 6</a> får heller ikke anvendelse når regler om finansielle tjenester må vedtas og settes i kraft umiddelbart på grunn av en alvorlig situasjon knyttet til det økonomiske systems sikkerhet og integritet, herunder særlig regler til vern av innskytere, investorer og forsikrede.",
         "text": "Stillstandsplikten etter § 6 får heller ikke anvendelse når regler om finansielle tjenester må vedtas og settes i kraft umiddelbart på grunn av en alvorlig situasjon knyttet til det økonomiske systems sikkerhet og integritet, herunder særlig regler til vern av innskytere, investorer og forsikrede."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Meldingen etter kapittel II skal angi grunnen til at umiddelbar vedtakelse anses nødvendig.",
+        "html": "Meldingen etter <a data-id=\"lov/2004-12-17-101/kapii\" class=\" reference\" href=\"/lov/2004-12-17-101/kapii\">kapittel II</a> skal angi grunnen til at umiddelbar vedtakelse anses nødvendig.",
         "text": "Meldingen etter kapittel II skal angi grunnen til at umiddelbar vedtakelse anses nødvendig."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -412,20 +420,20 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Stillstandsplikten etter § 6 kommer ikke til anvendelse på",
+        "html": "Stillstandsplikten etter <a data-id=\"lov/2004-12-17-101/§6\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A76\">§ 6</a> kommer ikke til anvendelse på",
         "text": "Stillstandsplikten etter § 6 kommer ikke til anvendelse på"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske regler som forbyr produksjon uten å hindre den frie bevegeligheten av varer, og</td>\n</tr>",
-        "text": "a)tekniske regler som forbyr produksjon uten å hindre den frie bevegeligheten av varer, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske regler som forbyr produksjon uten å hindre den frie bevegeligheten av varer, og</td>\n</tr>",
+        "text": "a)\ttekniske regler som forbyr produksjon uten å hindre den frie bevegeligheten av varer, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske regler om økonomiske tiltak som nevnt i § 3 nr. 1 annet ledd.</td>\n</tr>",
-        "text": "b)tekniske regler om økonomiske tiltak som nevnt i § 3 nr. 1 annet ledd."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske regler om økonomiske tiltak som nevnt i <a data-id=\"lov/2004-12-17-101/§3\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A73\">§ 3</a> nr. 1 annet ledd.</td>\n</tr>",
+        "text": "b)\ttekniske regler om økonomiske tiltak som nevnt i § 3 nr. 1 annet ledd."
     },
     {
         "tag": "h2",
@@ -433,6 +441,7 @@
         "html": "Kapittel IV Rettsvirkninger ved brudd på loven",
         "text": "Kapittel IV Rettsvirkninger ved brudd på loven"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -449,21 +458,22 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Tekniske regler som er vedtatt uten behandling i samsvar med kapittel II og III, kan ikke anvendes eller påberopes overfor den enkelte før de er behandlet i samsvar med § 10, så langt anvendelse eller påberopelse vil kunne hindre eller vanskeliggjøre",
+        "html": "Tekniske regler som er vedtatt uten behandling i samsvar med <a data-id=\"lov/2004-12-17-101/kapii\" class=\" reference\" href=\"/lov/2004-12-17-101/kapii\">kapittel II</a> og III, kan ikke anvendes eller påberopes overfor den enkelte før de er behandlet i samsvar med <a data-id=\"lov/2004-12-17-101/§10\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A710\">§ 10</a>, så langt anvendelse eller påberopelse vil kunne hindre eller vanskeliggjøre",
         "text": "Tekniske regler som er vedtatt uten behandling i samsvar med kapittel II og III, kan ikke anvendes eller påberopes overfor den enkelte før de er behandlet i samsvar med § 10, så langt anvendelse eller påberopelse vil kunne hindre eller vanskeliggjøre"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon, import, omsetning eller bruk av et produkt, eller</td>\n</tr>",
-        "text": "a)produksjon, import, omsetning eller bruk av et produkt, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon, import, omsetning eller bruk av et produkt, eller</td>\n</tr>",
+        "text": "a)\tproduksjon, import, omsetning eller bruk av et produkt, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ytelse, omsetning, etablering eller bruk av informasjonssamfunnstjenester.</td>\n</tr>",
-        "text": "b)ytelse, omsetning, etablering eller bruk av informasjonssamfunnstjenester."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ytelse, omsetning, etablering eller bruk av informasjonssamfunnstjenester.</td>\n</tr>",
+        "text": "b)\tytelse, omsetning, etablering eller bruk av informasjonssamfunnstjenester."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -480,15 +490,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Tekniske regler som er vedtatt uten behandling i samsvar med kapittel II og III, skal umiddelbart meldes til EFTAs overvåkingsorgan etter §§ 4 og 5 som forslag til tekniske regler.",
+        "html": "Tekniske regler som er vedtatt uten behandling i samsvar med <a data-id=\"lov/2004-12-17-101/kapii\" class=\" reference\" href=\"/lov/2004-12-17-101/kapii\">kapittel II</a> og III, skal umiddelbart meldes til EFTAs overvåkingsorgan etter <a data-id=\"lov/2004-12-17-101/§4\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A74\">§§ 4</a> og <a data-id=\"lov/2004-12-17-101/§5\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A75\">5</a> som forslag til tekniske regler.",
         "text": "Tekniske regler som er vedtatt uten behandling i samsvar med kapittel II og III, skal umiddelbart meldes til EFTAs overvåkingsorgan etter §§ 4 og 5 som forslag til tekniske regler."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom de vedtatte tekniske reglene ikke endres etter at de er behandlet i samsvar med kapittel II og III, skal reglene stadfestes. Tekniske regler som er vedtatt ved lov, stadfestes av Kongen. Tekniske regler som er vedtatt ved forskrift, stadfestes av det organ som har vedtatt forskriften.",
+        "html": "Dersom de vedtatte tekniske reglene ikke endres etter at de er behandlet i samsvar med <a data-id=\"lov/2004-12-17-101/kapii\" class=\" reference\" href=\"/lov/2004-12-17-101/kapii\">kapittel II</a> og III, skal reglene stadfestes. Tekniske regler som er vedtatt ved lov, stadfestes av Kongen. Tekniske regler som er vedtatt ved forskrift, stadfestes av det organ som har vedtatt forskriften.",
         "text": "Dersom de vedtatte tekniske reglene ikke endres etter at de er behandlet i samsvar med kapittel II og III, skal reglene stadfestes. Tekniske regler som er vedtatt ved lov, stadfestes av Kongen. Tekniske regler som er vedtatt ved forskrift, stadfestes av det organ som har vedtatt forskriften."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -505,19 +516,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Samtidig med at melding etter § 10 første ledd sendes til EFTAs overvåkningsorgan, skal opplysning om meldingen sendes til kunngjøring i Norsk Lovtidend.",
+        "html": "Samtidig med at melding etter <a data-id=\"lov/2004-12-17-101/§10\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A710\">§ 10</a> første ledd sendes til EFTAs overvåkningsorgan, skal opplysning om meldingen sendes til kunngjøring i Norsk Lovtidend.",
         "text": "Samtidig med at melding etter § 10 første ledd sendes til EFTAs overvåkningsorgan, skal opplysning om meldingen sendes til kunngjøring i Norsk Lovtidend."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Stadfestelse etter § 10 annet ledd skal kunngjøres i Norsk Lovtidend.",
+        "html": "Stadfestelse etter <a data-id=\"lov/2004-12-17-101/§10\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A710\">§ 10</a> annet ledd skal kunngjøres i Norsk Lovtidend.",
         "text": "Stadfestelse etter § 10 annet ledd skal kunngjøres i Norsk Lovtidend."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved kunngjøring i henhold til denne paragrafen gjelder kravene i § 12.",
+        "html": "Ved kunngjøring i henhold til denne paragrafen gjelder kravene i <a data-id=\"lov/2004-12-17-101/§12\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A712\">§ 12</a>.",
         "text": "Ved kunngjøring i henhold til denne paragrafen gjelder kravene i § 12."
     },
     {
@@ -526,6 +537,7 @@
         "html": "Kapittel V Forskjellige bestemmelser",
         "text": "Kapittel V Forskjellige bestemmelser"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -546,6 +558,7 @@
         "text": "Tekniske regler som kunngjøres, skal inneholde en henvisning til direktiv 98/34/EF, som endret ved direktiv 98/48/EF, og denne loven."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -565,6 +578,7 @@
         "text": "Tekniske regler som har vært meldt til EFTAs overvåkingsorgan etter loven her og har trådt i kraft, skal sendes til EFTAs overvåkingsorgan gjennom departementet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -583,6 +597,7 @@
         "html": "Departementet kan ved forskrift gi regler om meldeplikt m.m. ved nasjonal utarbeidelse av standarder.",
         "text": "Departementet kan ved forskrift gi regler om meldeplikt m.m. ved nasjonal utarbeidelse av standarder."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -609,6 +624,7 @@
         "text": "Kapittel VI Sluttbestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -634,6 +650,7 @@
         "text": "Loven gjelder ikke for tekniske regler vedtatt før lovens ikrafttredelse."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -649,20 +666,20 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fra den tid loven trer i kraft gjøres følgende endring i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker § 38 første ledd bokstav a:",
+        "html": "Fra den tid loven trer i kraft gjøres følgende endring i <a data-id=\"lov/1967-02-10\" class=\" reference\" href=\"/lov/1967-02-10\">lov 10. februar 1967</a> om behandlingsmåten i forvaltningssaker <a data-id=\"lov/1967-02-10/§38\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A738\">§ 38</a> første ledd bokstav a:",
         "text": "Fra den tid loven trer i kraft gjøres følgende endring i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker § 38 første ledd bokstav a:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "inneholde en utrykkelig henvisning til den eller de bestemmelser som gir forvaltningsorganet hjemmel til å utferdige forskriften, og en henvisning i samsvar med EØS-høringsloven § 12 hvis forskriften inneholder tekniske regler i henhold til nevnte lov.",
-        "text": "inneholde en utrykkelig henvisning til den eller de bestemmelser som gir forvaltningsorganet hjemmel til å utferdige forskriften, og en henvisning i samsvar med EØS-høringsloven § 12 hvis forskriften inneholder tekniske regler i henhold til nevnte lov."
+        "html": "inneholde en utrykkelig henvisning til den eller de bestemmelser som gir forvaltningsorganet hjemmel til å utferdige forskriften, og en henvisning i samsvar med <a data-id=\"lov/2004-12-17-101/§12\" class=\" reference\" href=\"/lov/2004-12-17-101/%C2%A712\">EØS-høringsloven § 12</a> hvis forskriften inneholder tekniske regler i henhold til nevnte lov. ",
+        "text": "inneholde en utrykkelig henvisning til den eller de bestemmelser som gir forvaltningsorganet hjemmel til å utferdige forskriften, og en henvisning i samsvar med EØS-høringsloven § 12 hvis forskriften inneholder tekniske regler i henhold til nevnte lov. "
     },
     {
         "tag": "h2",
         "class": "",
-        "html": "Rettelser",
-        "text": "Rettelser"
+        "html": " Rettelser",
+        "text": " Rettelser"
     },
     {
         "tag": "table",
@@ -685,7 +702,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "<em class=\" \">Jf. EØS-avtalen vedlegg II kap. XIX nr. 1 (direktiv <a data-id=\"eu/31998l0034\" class=\" reference\" href=\"/eu/31998l0034\">98/34/EF</a> som endret ved direktiv <a data-id=\"eu/31998l0048\" class=\" reference\" href=\"/eu/31998l0048\">98/48/EF</a>).</em>",
+        "html": "<em class=\" \">Jf. EØS-avtalen vedlegg II kap. <a data-id=\"lov/1992-11-27-109/kapxix\" class=\" reference\" href=\"/lov/1992-11-27-109/kapxix\">XIX</a> nr. 1 (direktiv <a data-id=\"eu/31998l0034\" class=\" reference\" href=\"/eu/31998l0034\">98/34/EF</a> som endret ved direktiv <a data-id=\"eu/31998l0048\" class=\" reference\" href=\"/eu/31998l0048\">98/48/EF</a>).</em>",
         "text": "Jf. EØS-avtalen vedlegg II kap. XIX nr. 1 (direktiv 98/34/EF som endret ved direktiv 98/48/EF)."
     }
 ]

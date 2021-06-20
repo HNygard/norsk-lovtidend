@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.150 LS (2012–2013), Innst.475 L (2012–2013), Lovvedtak 116 (2012–2013). Stortingets første og andre gongs behandling hv. 17. og 21. juni 2013. Fremja av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-150-ls-201213\" class=\" reference\" href=\"/forarbeid/prop-150-ls-201213\">Prop.150 LS (2012–2013)</a>, <a data-id=\"forarbeid/inns-475-l-201213\" class=\" reference\" href=\"/forarbeid/inns-475-l-201213\">Innst.475 L (2012–2013)</a>, <a data-id=\"forarbeid/lovvedtak-116-201213\" class=\" reference\" href=\"/forarbeid/lovvedtak-116-201213\">Lovvedtak 116 (2012–2013)</a>. Stortingets første og andre gongs behandling hv. 17. og 21. juni 2013. Fremja av Finansdepartementet.",
         "text": "Prop.150 LS (2012–2013), Innst.475 L (2012–2013), Lovvedtak 116 (2012–2013). Stortingets første og andre gongs behandling hv. 17. og 21. juni 2013. Fremja av Finansdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven).",
+        "html": "<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).",
         "text": "Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt gjer ein følgjande endringar:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:"
     },
     {
@@ -43,9 +43,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">husleiestøtte etter lov om bustøtte og kommunal bostøtte utenfor arbeidsforhold,</td>\n</tr>",
-        "text": "f.husleiestøtte etter lov om bustøtte og kommunal bostøtte utenfor arbeidsforhold,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">husleiestøtte etter lov om bustøtte og kommunal bostøtte utenfor arbeidsforhold,</td>\n</tr>",
+        "text": "f.\thusleiestøtte etter lov om bustøtte og kommunal bostøtte utenfor arbeidsforhold,"
     },
     {
         "tag": "p",
@@ -55,9 +55,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentlig tilgjengelige tiltak arrangert av massemedier. Departementet kan gi forskrift for å utfylle forrige punktum.</td>\n</tr>",
-        "text": "e)offentlig tilgjengelige tiltak arrangert av massemedier. Departementet kan gi forskrift for å utfylle forrige punktum."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">offentlig tilgjengelige tiltak arrangert av massemedier. Departementet kan gi forskrift for å utfylle forrige punktum.</td>\n</tr>",
+        "text": "e)\toffentlig tilgjengelige tiltak arrangert av massemedier. Departementet kan gi forskrift for å utfylle forrige punktum."
     },
     {
         "tag": "p",
@@ -92,7 +92,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt gjer ein følgjande endringar:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:"
     },
     {
@@ -109,15 +109,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ved overføring av andel i selskapet fra deltaker som har skatteplikt etter §§ 2-1 eller 2-2, til deltaker som ikke har slik skatteplikt og</td>\n</tr>",
-        "text": "a.ved overføring av andel i selskapet fra deltaker som har skatteplikt etter §§ 2-1 eller 2-2, til deltaker som ikke har slik skatteplikt og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ved overføring av andel i selskapet fra deltaker som har skatteplikt etter §§ 2-1 eller 2-2, til deltaker som ikke har slik skatteplikt og</td>\n</tr>",
+        "text": "a.\tved overføring av andel i selskapet fra deltaker som har skatteplikt etter §§ 2-1 eller 2-2, til deltaker som ikke har slik skatteplikt og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når eiendelen eller forpliktelsen på annen måte mister tilknytning til Norge slik at norsk skattelovgivning ikke får virkning for inntekter og kostnader knyttet til eiendelen eller forpliktelsen.</td>\n</tr>",
-        "text": "b.når eiendelen eller forpliktelsen på annen måte mister tilknytning til Norge slik at norsk skattelovgivning ikke får virkning for inntekter og kostnader knyttet til eiendelen eller forpliktelsen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når eiendelen eller forpliktelsen på annen måte mister tilknytning til Norge slik at norsk skattelovgivning ikke får virkning for inntekter og kostnader knyttet til eiendelen eller forpliktelsen.</td>\n</tr>",
+        "text": "b.\tnår eiendelen eller forpliktelsen på annen måte mister tilknytning til Norge slik at norsk skattelovgivning ikke får virkning for inntekter og kostnader knyttet til eiendelen eller forpliktelsen."
     },
     {
         "tag": "p",
@@ -151,15 +151,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ved overføring av andel i selskapet fra deltaker som har skatteplikt etter §§ 2-1 eller 2-2, til deltaker som ikke har slik skatteplikt og</td>\n</tr>",
-        "text": "a.ved overføring av andel i selskapet fra deltaker som har skatteplikt etter §§ 2-1 eller 2-2, til deltaker som ikke har slik skatteplikt og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ved overføring av andel i selskapet fra deltaker som har skatteplikt etter §§ 2-1 eller 2-2, til deltaker som ikke har slik skatteplikt og</td>\n</tr>",
+        "text": "a.\tved overføring av andel i selskapet fra deltaker som har skatteplikt etter §§ 2-1 eller 2-2, til deltaker som ikke har slik skatteplikt og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når driftsmidlet på annen måte mister tilknytning til Norge slik at norsk skattelovgivning ikke får virkning for inntekter og kostnader knyttet til driftsmidlet.</td>\n</tr>",
-        "text": "b.når driftsmidlet på annen måte mister tilknytning til Norge slik at norsk skattelovgivning ikke får virkning for inntekter og kostnader knyttet til driftsmidlet."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når driftsmidlet på annen måte mister tilknytning til Norge slik at norsk skattelovgivning ikke får virkning for inntekter og kostnader knyttet til driftsmidlet.</td>\n</tr>",
+        "text": "b.\tnår driftsmidlet på annen måte mister tilknytning til Norge slik at norsk skattelovgivning ikke får virkning for inntekter og kostnader knyttet til driftsmidlet."
     },
     {
         "tag": "p",

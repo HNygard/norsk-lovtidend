@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.150 L (2011–2012), Innst.100 L (2012–2013), Lovvedtak 19 (2012–2013). Stortingets første og andre gongs behandling hv. 4. og 13. desember 2012. Fremja av Justis- og beredskapsdepartementet. Jf. EØS-avtalen vedlegg XII nr. 2 (direktiv <a data-id=\"eu/32011l0007\" class=\" reference\" href=\"/eu/32011l0007\">2011/7/EU</a>).",
+        "html": "<a data-id=\"forarbeid/prop-150-l-201112\" class=\" reference\" href=\"/forarbeid/prop-150-l-201112\">Prop.150 L (2011–2012)</a>, <a data-id=\"forarbeid/inns-100-l-201213\" class=\" reference\" href=\"/forarbeid/inns-100-l-201213\">Innst.100 L (2012–2013)</a>, <a data-id=\"forarbeid/lovvedtak-19-201213\" class=\" reference\" href=\"/forarbeid/lovvedtak-19-201213\">Lovvedtak 19 (2012–2013)</a>. Stortingets første og andre gongs behandling hv. 4. og 13. desember 2012. Fremja av Justis- og beredskapsdepartementet. Jf. EØS-avtalen vedlegg XII nr. 2 (direktiv <a data-id=\"eu/32011l0007\" class=\" reference\" href=\"/eu/32011l0007\">2011/7/EU</a>).",
         "text": "Prop.150 L (2011–2012), Innst.100 L (2012–2013), Lovvedtak 19 (2012–2013). Stortingets første og andre gongs behandling hv. 4. og 13. desember 2012. Fremja av Justis- og beredskapsdepartementet. Jf. EØS-avtalen vedlegg XII nr. 2 (direktiv 2011/7/EU)."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.</td>\n</tr>",
-        "text": "1Lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1976-12-17-100\" class=\" reference\" href=\"/lov/1976-12-17-100\">Lov 17. desember 1976 nr. 100</a> om renter ved forsinket betaling m.m.</td>\n</tr>",
+        "text": "1\tLov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 13. mai 1988 nr. 27 om kjøp.</td>\n</tr>",
-        "text": "2Lov 13. mai 1988 nr. 27 om kjøp."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1988-05-13-27\" class=\" reference\" href=\"/lov/1988-05-13-27\">Lov 13. mai 1988 nr. 27</a> om kjøp.</td>\n</tr>",
+        "text": "2\tLov 13. mai 1988 nr. 27 om kjøp."
     },
     {
         "tag": "h2",
@@ -32,7 +32,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. skal det gjerast følgjande endringar:",
+        "html": "I <a data-id=\"lov/1976-12-17-100\" class=\" reference\" href=\"/lov/1976-12-17-100\">lov 17. desember 1976 nr. 100</a> om renter ved forsinket betaling m.m. skal det gjerast følgjande endringar:",
         "text": "I lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. skal det gjerast følgjande endringar:"
     },
     {
@@ -44,7 +44,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven)",
+        "html": "<a data-id=\"lov/1976-12-17-100\" class=\" reference\" href=\"/lov/1976-12-17-100\">Lov 17. desember 1976 nr. 100</a> om renter ved forsinket betaling m.m. (forsinkelsesrenteloven)",
         "text": "Lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven)"
     },
     {
@@ -97,27 +97,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">30 dager etter at skyldneren mottok faktura eller en tilsvarende betalingsoppfordring,</td>\n</tr>",
-        "text": "a)30 dager etter at skyldneren mottok faktura eller en tilsvarende betalingsoppfordring,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">30 dager etter at skyldneren mottok faktura eller en tilsvarende betalingsoppfordring,</td>\n</tr>",
+        "text": "a)\t30 dager etter at skyldneren mottok faktura eller en tilsvarende betalingsoppfordring,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">30 dager etter mottak av varene eller tjenestene, dersom det er uklart når faktura eller en tilsvarende betalingsoppfordring er mottatt,</td>\n</tr>",
-        "text": "b)30 dager etter mottak av varene eller tjenestene, dersom det er uklart når faktura eller en tilsvarende betalingsoppfordring er mottatt,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">30 dager etter mottak av varene eller tjenestene, dersom det er uklart når faktura eller en tilsvarende betalingsoppfordring er mottatt,</td>\n</tr>",
+        "text": "b)\t30 dager etter mottak av varene eller tjenestene, dersom det er uklart når faktura eller en tilsvarende betalingsoppfordring er mottatt,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">30 dager etter mottak av varene eller tjenestene, dersom skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere enn varene eller tjenestene,</td>\n</tr>",
-        "text": "c)30 dager etter mottak av varene eller tjenestene, dersom skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere enn varene eller tjenestene,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">30 dager etter mottak av varene eller tjenestene, dersom skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere enn varene eller tjenestene,</td>\n</tr>",
+        "text": "c)\t30 dager etter mottak av varene eller tjenestene, dersom skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere enn varene eller tjenestene,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">30 dager etter datoen for godkjennelse og kontroll, dersom det skal foretas en lovbestemt eller avtalebestemt kontrollprosedyre for å sikre at varene eller tjenestene er avtalemessige, og skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere eller samme dag som kontrollprosedyren sluttføres.</td>\n</tr>",
-        "text": "d)30 dager etter datoen for godkjennelse og kontroll, dersom det skal foretas en lovbestemt eller avtalebestemt kontrollprosedyre for å sikre at varene eller tjenestene er avtalemessige, og skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere eller samme dag som kontrollprosedyren sluttføres."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">30 dager etter datoen for godkjennelse og kontroll, dersom det skal foretas en lovbestemt eller avtalebestemt kontrollprosedyre for å sikre at varene eller tjenestene er avtalemessige, og skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere eller samme dag som kontrollprosedyren sluttføres.</td>\n</tr>",
+        "text": "d)\t30 dager etter datoen for godkjennelse og kontroll, dersom det skal foretas en lovbestemt eller avtalebestemt kontrollprosedyre for å sikre at varene eller tjenestene er avtalemessige, og skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere eller samme dag som kontrollprosedyren sluttføres."
     },
     {
         "tag": "p",
@@ -133,21 +133,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det kan ikke avtales mellom skyldneren og fordringshaveren når en faktura skal anses mottatt av skyldneren.</td>\n</tr>",
-        "text": "a)Det kan ikke avtales mellom skyldneren og fordringshaveren når en faktura skal anses mottatt av skyldneren."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det kan ikke avtales mellom skyldneren og fordringshaveren når en faktura skal anses mottatt av skyldneren.</td>\n</tr>",
+        "text": "a)\tDet kan ikke avtales mellom skyldneren og fordringshaveren når en faktura skal anses mottatt av skyldneren."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">En kontrollprosedyre som nevnt i andre ledd bokstav d skal ikke overstige 30 dager fra mottak av varene eller tjenestene. Dette gjelder likevel ikke dersom noe annet er uttrykkelig bestemt i avtalen eller i anbudsdokumentene.</td>\n</tr>",
-        "text": "b)En kontrollprosedyre som nevnt i andre ledd bokstav d skal ikke overstige 30 dager fra mottak av varene eller tjenestene. Dette gjelder likevel ikke dersom noe annet er uttrykkelig bestemt i avtalen eller i anbudsdokumentene."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">En kontrollprosedyre som nevnt i andre ledd bokstav d skal ikke overstige 30 dager fra mottak av varene eller tjenestene. Dette gjelder likevel ikke dersom noe annet er uttrykkelig bestemt i avtalen eller i anbudsdokumentene.</td>\n</tr>",
+        "text": "b)\tEn kontrollprosedyre som nevnt i andre ledd bokstav d skal ikke overstige 30 dager fra mottak av varene eller tjenestene. Dette gjelder likevel ikke dersom noe annet er uttrykkelig bestemt i avtalen eller i anbudsdokumentene."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det kan ikke avtales at forsinkelsesrenten som skal svares av offentlige myndigheter etter bestemmelsen her, skal være lavere enn den lovbestemte forsinkelsesrenten etter § 3.</td>\n</tr>",
-        "text": "c)Det kan ikke avtales at forsinkelsesrenten som skal svares av offentlige myndigheter etter bestemmelsen her, skal være lavere enn den lovbestemte forsinkelsesrenten etter § 3."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det kan ikke avtales at forsinkelsesrenten som skal svares av offentlige myndigheter etter bestemmelsen her, skal være lavere enn den lovbestemte forsinkelsesrenten etter § 3.</td>\n</tr>",
+        "text": "c)\tDet kan ikke avtales at forsinkelsesrenten som skal svares av offentlige myndigheter etter bestemmelsen her, skal være lavere enn den lovbestemte forsinkelsesrenten etter § 3."
     },
     {
         "tag": "p",
@@ -205,9 +205,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bestemmelsene i §§ 2 a, 2 b, 3 a og 4 a gjelder ikke når skylderen er en forbruker.</td>\n</tr>",
-        "text": "(d)Bestemmelsene i §§ 2 a, 2 b, 3 a og 4 a gjelder ikke når skylderen er en forbruker."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bestemmelsene i §§ 2 a, 2 b, 3 a og 4 a gjelder ikke når skylderen er en forbruker.</td>\n</tr>",
+        "text": "(d)\tBestemmelsene i §§ 2 a, 2 b, 3 a og 4 a gjelder ikke når skylderen er en forbruker."
     },
     {
         "tag": "p",
@@ -218,13 +218,13 @@
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 4 a. <em class=\" \">Anvendelse av avtaleloven § 36 mv.</em>",
+        "html": "§ 4 a. <em class=\" \">Anvendelse av <a data-id=\"lov/1918-05-31-4/§36\" class=\" reference\" href=\"/lov/1918-05-31-4/%C2%A736\">avtaleloven § 36</a> mv.</em>",
         "text": "§ 4 a. Anvendelse av avtaleloven § 36 mv."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved anvendelsen av avtaleloven § 36 skal et vilkår eller en praksis som utelukker renter ved forsinket betaling, alltid anses urimelig. Et vilkår eller en praksis som utelukker kompensasjon for inndrivelseskostnader i samsvar med § 3 a, skal presumeres å være urimelig.",
+        "html": "Ved anvendelsen av <a data-id=\"lov/1918-05-31-4/§36\" class=\" reference\" href=\"/lov/1918-05-31-4/%C2%A736\">avtaleloven § 36</a> skal et vilkår eller en praksis som utelukker renter ved forsinket betaling, alltid anses urimelig. Et vilkår eller en praksis som utelukker kompensasjon for inndrivelseskostnader i samsvar med § 3 a, skal presumeres å være urimelig.",
         "text": "Ved anvendelsen av avtaleloven § 36 skal et vilkår eller en praksis som utelukker renter ved forsinket betaling, alltid anses urimelig. Et vilkår eller en praksis som utelukker kompensasjon for inndrivelseskostnader i samsvar med § 3 a, skal presumeres å være urimelig."
     },
     {
@@ -248,7 +248,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 13. mai 1988 nr. 27 om kjøp skal § 49 andre ledd nytt andre punktum lyde:",
+        "html": "I <a data-id=\"lov/1988-05-13-27\" class=\" reference\" href=\"/lov/1988-05-13-27\">lov 13. mai 1988 nr. 27</a> om kjøp skal <a data-id=\"lov/1988-05-13-27/§49\" class=\" reference\" href=\"/lov/1988-05-13-27/%C2%A749\">§ 49</a> andre ledd nytt andre punktum lyde:",
         "text": "I lov 13. mai 1988 nr. 27 om kjøp skal § 49 andre ledd nytt andre punktum lyde:"
     },
     {
@@ -265,14 +265,14 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lova gjeld frå den tid Kongen bestemmer.</td>\n</tr>",
-        "text": "1.Lova gjeld frå den tid Kongen bestemmer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lova gjeld frå den tid Kongen bestemmer.</td>\n</tr>",
+        "text": "1.\tLova gjeld frå den tid Kongen bestemmer."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lova gjeld ikkje for krav som er forfalle før lova trer i kraft.</td>\n</tr>",
-        "text": "2.Lova gjeld ikkje for krav som er forfalle før lova trer i kraft."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lova gjeld ikkje for krav som er forfalle før lova trer i kraft.</td>\n</tr>",
+        "text": "2.\tLova gjeld ikkje for krav som er forfalle før lova trer i kraft."
     }
 ]

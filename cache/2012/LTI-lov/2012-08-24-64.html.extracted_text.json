@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.76 L (2011–2012), Innst.323 L (2011–2012), Lovvedtak 59 (2011–2012). Stortingets første og andre gongs behandling hv. 31. mai og 11. juni 2012. Fremja av Kommunal- og regionaldepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-76-l-201112\" class=\" reference\" href=\"/forarbeid/prop-76-l-201112\">Prop.76 L (2011–2012)</a>, <a data-id=\"forarbeid/inns-323-l-201112\" class=\" reference\" href=\"/forarbeid/inns-323-l-201112\">Innst.323 L (2011–2012)</a>, <a data-id=\"forarbeid/lovvedtak-59-201112\" class=\" reference\" href=\"/forarbeid/lovvedtak-59-201112\">Lovvedtak 59 (2011–2012)</a>. Stortingets første og andre gongs behandling hv. 31. mai og 11. juni 2012. Fremja av Kommunal- og regionaldepartementet.",
         "text": "Prop.76 L (2011–2012), Innst.323 L (2011–2012), Lovvedtak 59 (2011–2012). Stortingets første og andre gongs behandling hv. 31. mai og 11. juni 2012. Fremja av Kommunal- og regionaldepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 29. mai 2009 nr. 30 om Husbanken.",
+        "html": "<a data-id=\"lov/2009-05-29-30\" class=\" reference\" href=\"/lov/2009-05-29-30\">Lov 29. mai 2009 nr. 30</a> om Husbanken.",
         "text": "Lov 29. mai 2009 nr. 30 om Husbanken."
     },
     null,
@@ -76,21 +76,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er over 18 år eller har eigne barn som bur i bustaden,</td>\n</tr>",
-        "text": "a)er over 18 år eller har eigne barn som bur i bustaden,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er over 18 år eller har eigne barn som bur i bustaden,</td>\n</tr>",
+        "text": "a)\ter over 18 år eller har eigne barn som bur i bustaden,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">svarar for buutgifter i ein bustad som fyller vilkåra i § 5, og</td>\n</tr>",
-        "text": "b)svarar for buutgifter i ein bustad som fyller vilkåra i § 5, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">svarar for buutgifter i ein bustad som fyller vilkåra i <a data-id=\"lov/2012-08-24-64/§5\" class=\" reference\" href=\"/lov/2012-08-24-64/%C2%A75\">§ 5</a>, og</td>\n</tr>",
+        "text": "b)\tsvarar for buutgifter i ein bustad som fyller vilkåra i § 5, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sjølve bur i bustaden.</td>\n</tr>",
-        "text": "c)sjølve bur i bustaden."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sjølve bur i bustaden.</td>\n</tr>",
+        "text": "c)\tsjølve bur i bustaden."
     },
     null,
     {
@@ -150,21 +150,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er godkjend som bustad,</td>\n</tr>",
-        "text": "a)er godkjend som bustad,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er godkjend som bustad,</td>\n</tr>",
+        "text": "a)\ter godkjend som bustad,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er ein sjølvstendig bustad med eigen inngang, og</td>\n</tr>",
-        "text": "b)er ein sjølvstendig bustad med eigen inngang, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er ein sjølvstendig bustad med eigen inngang, og</td>\n</tr>",
+        "text": "b)\ter ein sjølvstendig bustad med eigen inngang, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har eige bad og toalett og gjev høve til kvile og matlaging.</td>\n</tr>",
-        "text": "c)har eige bad og toalett og gjev høve til kvile og matlaging."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har eige bad og toalett og gjev høve til kvile og matlaging.</td>\n</tr>",
+        "text": "c)\thar eige bad og toalett og gjev høve til kvile og matlaging."
     },
     {
         "tag": "p",
@@ -299,27 +299,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottakaren visste eller burde ha visst at han eller ho ikkje har hatt krav på støtte,</td>\n</tr>",
-        "text": "a)mottakaren visste eller burde ha visst at han eller ho ikkje har hatt krav på støtte,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottakaren visste eller burde ha visst at han eller ho ikkje har hatt krav på støtte,</td>\n</tr>",
+        "text": "a)\tmottakaren visste eller burde ha visst at han eller ho ikkje har hatt krav på støtte,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottakaren eller nokon som har handla på vegner av mottakaren, aktlaust har gjeve galne eller mangelfulle opplysningar,</td>\n</tr>",
-        "text": "b)mottakaren eller nokon som har handla på vegner av mottakaren, aktlaust har gjeve galne eller mangelfulle opplysningar,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottakaren eller nokon som har handla på vegner av mottakaren, aktlaust har gjeve galne eller mangelfulle opplysningar,</td>\n</tr>",
+        "text": "b)\tmottakaren eller nokon som har handla på vegner av mottakaren, aktlaust har gjeve galne eller mangelfulle opplysningar,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Husbanken eller kommunen har gjort eit mistak og mottakaren burde ha skjøna det, eller</td>\n</tr>",
-        "text": "c)Husbanken eller kommunen har gjort eit mistak og mottakaren burde ha skjøna det, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Husbanken eller kommunen har gjort eit mistak og mottakaren burde ha skjøna det, eller</td>\n</tr>",
+        "text": "c)\tHusbanken eller kommunen har gjort eit mistak og mottakaren burde ha skjøna det, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etterkontroll syner at husstanden i perioden det er motteke bustøtte for, har hatt inntekt og/eller formue som overstig grenser gjevne av departementet i forskrift. Det gjeld utan omsyn til kven som er skuld i at det er utbetalt for mykje.</td>\n</tr>",
-        "text": "d)etterkontroll syner at husstanden i perioden det er motteke bustøtte for, har hatt inntekt og/eller formue som overstig grenser gjevne av departementet i forskrift. Det gjeld utan omsyn til kven som er skuld i at det er utbetalt for mykje."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etterkontroll syner at husstanden i perioden det er motteke bustøtte for, har hatt inntekt og/eller formue som overstig grenser gjevne av departementet i forskrift. Det gjeld utan omsyn til kven som er skuld i at det er utbetalt for mykje.</td>\n</tr>",
+        "text": "d)\tetterkontroll syner at husstanden i perioden det er motteke bustøtte for, har hatt inntekt og/eller formue som overstig grenser gjevne av departementet i forskrift. Det gjeld utan omsyn til kven som er skuld i at det er utbetalt for mykje."
     },
     {
         "tag": "p",
@@ -349,7 +349,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Statens innkrevjingssentral kan drive kravet inn ved trekk i løn og andre liknande ytingar etter dekningsloven § 2-7. Statens innkrevjingssentral kan òg drive inn kravet ved å stifte utleggspant for kravet dersom panteretten kan gjevast rettsvern ved registrering i eit register eller ved melding til ein tredjeperson, jf. lov 8. februar 1980 nr. 2 om pant kapittel 5, og utleggsforretninga kan haldast på kontoret til Statens innkrevjingssentral etter lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse § 7-9 første ledd.",
+        "html": "Statens innkrevjingssentral kan drive kravet inn ved trekk i løn og andre liknande ytingar etter <a data-id=\"lov/1984-06-08-59/§2-7\" class=\" reference\" href=\"/lov/1984-06-08-59/%C2%A72-7\">dekningsloven § 2-7</a>. Statens innkrevjingssentral kan òg drive inn kravet ved å stifte utleggspant for kravet dersom panteretten kan gjevast rettsvern ved registrering i eit register eller ved melding til ein tredjeperson, jf. lov 8. februar 1980 nr. 2 om pant kapittel 5, og utleggsforretninga kan haldast på kontoret til Statens innkrevjingssentral etter <a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse <a data-id=\"lov/1992-06-26-86/§7-9\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A77-9\">§ 7-9</a> første ledd.",
         "text": "Statens innkrevjingssentral kan drive kravet inn ved trekk i løn og andre liknande ytingar etter dekningsloven § 2-7. Statens innkrevjingssentral kan òg drive inn kravet ved å stifte utleggspant for kravet dersom panteretten kan gjevast rettsvern ved registrering i eit register eller ved melding til ein tredjeperson, jf. lov 8. februar 1980 nr. 2 om pant kapittel 5, og utleggsforretninga kan haldast på kontoret til Statens innkrevjingssentral etter lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse § 7-9 første ledd."
     },
     null,
@@ -449,13 +449,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Frå denne lova tek til å gjelde, skal lov 29. mai 2009 nr. 30 om Husbanken endrast slik:",
+        "html": "Frå denne lova tek til å gjelde, skal <a data-id=\"lov/2009-05-29-30\" class=\" reference\" href=\"/lov/2009-05-29-30\">lov 29. mai 2009 nr. 30</a> om Husbanken endrast slik:",
         "text": "Frå denne lova tek til å gjelde, skal lov 29. mai 2009 nr. 30 om Husbanken endrast slik:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1 andre ledd skal lyde:",
+        "html": "<a data-id=\"lov/2012-08-24-64/§1\" class=\" reference\" href=\"/lov/2012-08-24-64/%C2%A71\">§ 1</a> andre ledd skal lyde:",
         "text": "§ 1 andre ledd skal lyde:"
     },
     {
@@ -467,13 +467,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 9 skal lyde:",
+        "html": "<a data-id=\"lov/2012-08-24-64/§9\" class=\" reference\" href=\"/lov/2012-08-24-64/%C2%A79\">§ 9</a> skal lyde:",
         "text": "§ 9 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 9. <em class=\" \">Ettergjeving av krav</em>",
+        "html": "<a data-id=\"lov/2012-08-24-64/§9\" class=\" reference\" href=\"/lov/2012-08-24-64/%C2%A79\">§ 9</a>. <em class=\" \">Ettergjeving av krav</em>",
         "text": "§ 9. Ettergjeving av krav"
     },
     {
@@ -485,7 +485,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§§ 10, 11 og 12 blir oppheva. Noverande § 13 blir ny § 10.",
+        "html": "<a data-id=\"lov/2012-08-24-64/§10\" class=\" reference\" href=\"/lov/2012-08-24-64/%C2%A710\">§§ 10</a>, <a data-id=\"lov/2012-08-24-64/§11\" class=\" reference\" href=\"/lov/2012-08-24-64/%C2%A711\">11</a> og <a data-id=\"lov/2012-08-24-64/§12\" class=\" reference\" href=\"/lov/2012-08-24-64/%C2%A712\">12</a> blir oppheva. Noverande <a data-id=\"lov/2012-08-24-64/§13\" class=\" reference\" href=\"/lov/2012-08-24-64/%C2%A713\">§ 13</a> blir ny <a data-id=\"lov/2012-08-24-64/§10\" class=\" reference\" href=\"/lov/2012-08-24-64/%C2%A710\">§ 10</a>.",
         "text": "§§ 10, 11 og 12 blir oppheva. Noverande § 13 blir ny § 10."
     }
 ]

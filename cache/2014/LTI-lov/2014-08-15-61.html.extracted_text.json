@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.65 L (2013–2014), Innst.253 L (2013–2014), Lovvedtak 90 (2013–2014). Stortingets første og andre gangs behandling hhv. 16. og 20. juni 2014. Fremmet av Samferdselsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-65-l-201314\" class=\" reference\" href=\"/forarbeid/prop-65-l-201314\">Prop.65 L (2013–2014)</a>, <a data-id=\"forarbeid/inns-253-l-201314\" class=\" reference\" href=\"/forarbeid/inns-253-l-201314\">Innst.253 L (2013–2014)</a>, <a data-id=\"forarbeid/lovvedtak-90-201314\" class=\" reference\" href=\"/forarbeid/lovvedtak-90-201314\">Lovvedtak 90 (2013–2014)</a>. Stortingets første og andre gangs behandling hhv. 16. og 20. juni 2014. Fremmet av Samferdselsdepartementet.",
         "text": "Prop.65 L (2013–2014), Innst.253 L (2013–2014), Lovvedtak 90 (2013–2014). Stortingets første og andre gangs behandling hhv. 16. og 20. juni 2014. Fremmet av Samferdselsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 16. juni 1989 nr. 59 om lostjenesten m.v.",
+        "html": "<a data-id=\"lov/1989-06-16-59\" class=\" reference\" href=\"/lov/1989-06-16-59\">Lov 16. juni 1989 nr. 59</a> om lostjenesten m.v.",
         "text": "Lov 16. juni 1989 nr. 59 om lostjenesten m.v."
     },
     null,
@@ -113,33 +113,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">losing: veiledning for fartøy ved navigering og manøvrering, som utføres av los</td>\n</tr>",
-        "text": "a)losing: veiledning for fartøy ved navigering og manøvrering, som utføres av los"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">losing: veiledning for fartøy ved navigering og manøvrering, som utføres av los</td>\n</tr>",
+        "text": "a)\tlosing: veiledning for fartøy ved navigering og manøvrering, som utføres av los"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">los: person ansatt i lostjenesten med lossertifikat som er utstedt i henhold til loven her</td>\n</tr>",
-        "text": "b)los: person ansatt i lostjenesten med lossertifikat som er utstedt i henhold til loven her"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">los: person ansatt i lostjenesten med lossertifikat som er utstedt i henhold til loven her</td>\n</tr>",
+        "text": "b)\tlos: person ansatt i lostjenesten med lossertifikat som er utstedt i henhold til loven her"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">losplikt: plikt til å bruke los eller farledsbevis</td>\n</tr>",
-        "text": "c)losplikt: plikt til å bruke los eller farledsbevis"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">losplikt: plikt til å bruke los eller farledsbevis</td>\n</tr>",
+        "text": "c)\tlosplikt: plikt til å bruke los eller farledsbevis"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fartøy: enhver flytende innretning som kan brukes som transportmiddel, fremkomstmiddel, løfteinnretning, oppholdssted, produksjonssted eller lagersted, herunder undervannsfartøy av enhver art</td>\n</tr>",
-        "text": "d)fartøy: enhver flytende innretning som kan brukes som transportmiddel, fremkomstmiddel, løfteinnretning, oppholdssted, produksjonssted eller lagersted, herunder undervannsfartøy av enhver art"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fartøy: enhver flytende innretning som kan brukes som transportmiddel, fremkomstmiddel, løfteinnretning, oppholdssted, produksjonssted eller lagersted, herunder undervannsfartøy av enhver art</td>\n</tr>",
+        "text": "d)\tfartøy: enhver flytende innretning som kan brukes som transportmiddel, fremkomstmiddel, løfteinnretning, oppholdssted, produksjonssted eller lagersted, herunder undervannsfartøy av enhver art"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kadettfarledsbevis: midlertidig farledsbevis som utstedes til navigatører som er under kontraktfestet opplæring i kystseilas om bord</td>\n</tr>",
-        "text": "e)kadettfarledsbevis: midlertidig farledsbevis som utstedes til navigatører som er under kontraktfestet opplæring i kystseilas om bord"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kadettfarledsbevis: midlertidig farledsbevis som utstedes til navigatører som er under kontraktfestet opplæring i kystseilas om bord</td>\n</tr>",
+        "text": "e)\tkadettfarledsbevis: midlertidig farledsbevis som utstedes til navigatører som er under kontraktfestet opplæring i kystseilas om bord"
     },
     null,
     {
@@ -169,7 +169,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det statlige tilsynet utøves i henhold til § 15.",
+        "html": "Det statlige tilsynet utøves i henhold til <a data-id=\"lov/2014-08-15-61/§15\" class=\" reference\" href=\"/lov/2014-08-15-61/%C2%A715\">§ 15</a>.",
         "text": "Det statlige tilsynet utøves i henhold til § 15."
     },
     {
@@ -211,15 +211,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke geografiske områder losplikten gjelder for</td>\n</tr>",
-        "text": "a)hvilke geografiske områder losplikten gjelder for"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke geografiske områder losplikten gjelder for</td>\n</tr>",
+        "text": "a)\thvilke geografiske områder losplikten gjelder for"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke fartøy som er lospliktige, herunder hvilke som skal bruke los og hvilke som kan benytte farledsbevis</td>\n</tr>",
-        "text": "b)hvilke fartøy som er lospliktige, herunder hvilke som skal bruke los og hvilke som kan benytte farledsbevis"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke fartøy som er lospliktige, herunder hvilke som skal bruke los og hvilke som kan benytte farledsbevis</td>\n</tr>",
+        "text": "b)\thvilke fartøy som er lospliktige, herunder hvilke som skal bruke los og hvilke som kan benytte farledsbevis"
     },
     {
         "tag": "p",
@@ -340,15 +340,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medfører et forsettlig brudd på nasjonalt regelverk som skal trygge ferdselen på sjøen, eller</td>\n</tr>",
-        "text": "a)medfører et forsettlig brudd på nasjonalt regelverk som skal trygge ferdselen på sjøen, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medfører et forsettlig brudd på nasjonalt regelverk som skal trygge ferdselen på sjøen, eller</td>\n</tr>",
+        "text": "a)\tmedfører et forsettlig brudd på nasjonalt regelverk som skal trygge ferdselen på sjøen, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utgjør en åpenbar risiko for tap av menneskeliv, skade på miljøet eller tap av verdier</td>\n</tr>",
-        "text": "b)utgjør en åpenbar risiko for tap av menneskeliv, skade på miljøet eller tap av verdier"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utgjør en åpenbar risiko for tap av menneskeliv, skade på miljøet eller tap av verdier</td>\n</tr>",
+        "text": "b)\tutgjør en åpenbar risiko for tap av menneskeliv, skade på miljøet eller tap av verdier"
     },
     {
         "tag": "p",
@@ -378,13 +378,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved anvendelse av skadeserstatningsloven § 2-1 betraktes losen for å være i fartøyets tjeneste under losingen. Loven her medfører ellers ingen endring i gjeldende erstatningsregler.",
+        "html": "Ved anvendelse av <a data-id=\"lov/1969-06-13-26/§2-1\" class=\" reference\" href=\"/lov/1969-06-13-26/%C2%A72-1\">skadeserstatningsloven § 2-1</a> betraktes losen for å være i fartøyets tjeneste under losingen. Loven her medfører ellers ingen endring i gjeldende erstatningsregler.",
         "text": "Ved anvendelse av skadeserstatningsloven § 2-1 betraktes losen for å være i fartøyets tjeneste under losingen. Loven her medfører ellers ingen endring i gjeldende erstatningsregler."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Losen plikter å erstatte skade som losen volder ved feil eller forsømmelse i tjenesten, etter gjeldende erstatningsregler, jf. skadeserstatningsloven § 2-3.",
+        "html": "Losen plikter å erstatte skade som losen volder ved feil eller forsømmelse i tjenesten, etter gjeldende erstatningsregler, jf. <a data-id=\"lov/1969-06-13-26/§2-3\" class=\" reference\" href=\"/lov/1969-06-13-26/%C2%A72-3\">skadeserstatningsloven § 2-3</a>.",
         "text": "Losen plikter å erstatte skade som losen volder ved feil eller forsømmelse i tjenesten, etter gjeldende erstatningsregler, jf. skadeserstatningsloven § 2-3."
     },
     null,
@@ -451,33 +451,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kvalifikasjonskrav for opptak som losaspirant, herunder helsekrav og krav til utdanning, fartstid og sertifikater</td>\n</tr>",
-        "text": "a)kvalifikasjonskrav for opptak som losaspirant, herunder helsekrav og krav til utdanning, fartstid og sertifikater"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kvalifikasjonskrav for opptak som losaspirant, herunder helsekrav og krav til utdanning, fartstid og sertifikater</td>\n</tr>",
+        "text": "a)\tkvalifikasjonskrav for opptak som losaspirant, herunder helsekrav og krav til utdanning, fartstid og sertifikater"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsekrav til og legeundersøkelse av loser</td>\n</tr>",
-        "text": "b)helsekrav til og legeundersøkelse av loser"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsekrav til og legeundersøkelse av loser</td>\n</tr>",
+        "text": "b)\thelsekrav til og legeundersøkelse av loser"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til utdanning og eksaminering av loser</td>\n</tr>",
-        "text": "c)krav til utdanning og eksaminering av loser"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til utdanning og eksaminering av loser</td>\n</tr>",
+        "text": "c)\tkrav til utdanning og eksaminering av loser"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkår for å få, utvide og opprettholde lossertifikat, herunder de krav som stilles til farvannskunnskap</td>\n</tr>",
-        "text": "d)vilkår for å få, utvide og opprettholde lossertifikat, herunder de krav som stilles til farvannskunnskap"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkår for å få, utvide og opprettholde lossertifikat, herunder de krav som stilles til farvannskunnskap</td>\n</tr>",
+        "text": "d)\tvilkår for å få, utvide og opprettholde lossertifikat, herunder de krav som stilles til farvannskunnskap"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til lossertifikaters form, utstedelse og innhold</td>\n</tr>",
-        "text": "e)krav til lossertifikaters form, utstedelse og innhold"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav til lossertifikaters form, utstedelse og innhold</td>\n</tr>",
+        "text": "e)\tkrav til lossertifikaters form, utstedelse og innhold"
     },
     null,
     {
@@ -506,27 +506,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">losberedskapsavgift og losingsavgift for fartøy som bruker los</td>\n</tr>",
-        "text": "a)losberedskapsavgift og losingsavgift for fartøy som bruker los"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">losberedskapsavgift og losingsavgift for fartøy som bruker los</td>\n</tr>",
+        "text": "a)\tlosberedskapsavgift og losingsavgift for fartøy som bruker los"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">losberedskapsavgift for fartøy som benytter navigatør med farledsbevis</td>\n</tr>",
-        "text": "b)losberedskapsavgift for fartøy som benytter navigatør med farledsbevis"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">losberedskapsavgift for fartøy som benytter navigatør med farledsbevis</td>\n</tr>",
+        "text": "b)\tlosberedskapsavgift for fartøy som benytter navigatør med farledsbevis"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at den som søker om farledsbevis skal betale avgift for behandling og utstedelse av farledsbevis</td>\n</tr>",
-        "text": "c)at den som søker om farledsbevis skal betale avgift for behandling og utstedelse av farledsbevis"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at den som søker om farledsbevis skal betale avgift for behandling og utstedelse av farledsbevis</td>\n</tr>",
+        "text": "c)\tat den som søker om farledsbevis skal betale avgift for behandling og utstedelse av farledsbevis"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avgiftenes utforming</td>\n</tr>",
-        "text": "d)avgiftenes utforming"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avgiftenes utforming</td>\n</tr>",
+        "text": "d)\tavgiftenes utforming"
     },
     null,
     {
@@ -568,7 +568,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Krav på avgifter som nevnt i § 12 innkreves av Statens innkrevingssentral, med mindre departementet bestemmer noe annet.",
+        "html": "Krav på avgifter som nevnt i <a data-id=\"lov/2014-08-15-61/§12\" class=\" reference\" href=\"/lov/2014-08-15-61/%C2%A712\">§ 12</a> innkreves av Statens innkrevingssentral, med mindre departementet bestemmer noe annet.",
         "text": "Krav på avgifter som nevnt i § 12 innkreves av Statens innkrevingssentral, med mindre departementet bestemmer noe annet."
     },
     {
@@ -579,15 +579,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utferdigelse, kontroll og innkreving</td>\n</tr>",
-        "text": "a)utferdigelse, kontroll og innkreving"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utferdigelse, kontroll og innkreving</td>\n</tr>",
+        "text": "a)\tutferdigelse, kontroll og innkreving"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilleggsavgift for fartøy som unnlater å betale avgift etter loven her</td>\n</tr>",
-        "text": "b)tilleggsavgift for fartøy som unnlater å betale avgift etter loven her"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilleggsavgift for fartøy som unnlater å betale avgift etter loven her</td>\n</tr>",
+        "text": "b)\ttilleggsavgift for fartøy som unnlater å betale avgift etter loven her"
     },
     null,
     {
@@ -636,7 +636,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Tilsynsmyndigheten etter denne loven skal ha uhindret adgang til fartøy som er lospliktige etter § 6 i den utstrekning det er nødvendig for gjennomføringen av tilsynet.",
+        "html": "Tilsynsmyndigheten etter denne loven skal ha uhindret adgang til fartøy som er lospliktige etter <a data-id=\"lov/2014-08-15-61/§6\" class=\" reference\" href=\"/lov/2014-08-15-61/%C2%A76\">§ 6</a> i den utstrekning det er nødvendig for gjennomføringen av tilsynet.",
         "text": "Tilsynsmyndigheten etter denne loven skal ha uhindret adgang til fartøy som er lospliktige etter § 6 i den utstrekning det er nødvendig for gjennomføringen av tilsynet."
     },
     {
@@ -666,21 +666,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaveren overtrer bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs eller</td>\n</tr>",
-        "text": "a)innehaveren overtrer bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaveren overtrer bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs eller</td>\n</tr>",
+        "text": "a)\tinnehaveren overtrer bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaveren bryter vilkår for å ha farledsbeviset eller kadettfarledsbeviset eller</td>\n</tr>",
-        "text": "b)innehaveren bryter vilkår for å ha farledsbeviset eller kadettfarledsbeviset eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaveren bryter vilkår for å ha farledsbeviset eller kadettfarledsbeviset eller</td>\n</tr>",
+        "text": "b)\tinnehaveren bryter vilkår for å ha farledsbeviset eller kadettfarledsbeviset eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaveren blir involvert i forhold, eller det foreligger omstendigheter, som gjør at han eller hun åpenbart ikke er skikket til å ha farledsbeviset eller kadettfarledsbeviset.</td>\n</tr>",
-        "text": "c)innehaveren blir involvert i forhold, eller det foreligger omstendigheter, som gjør at han eller hun åpenbart ikke er skikket til å ha farledsbeviset eller kadettfarledsbeviset."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaveren blir involvert i forhold, eller det foreligger omstendigheter, som gjør at han eller hun åpenbart ikke er skikket til å ha farledsbeviset eller kadettfarledsbeviset.</td>\n</tr>",
+        "text": "c)\tinnehaveren blir involvert i forhold, eller det foreligger omstendigheter, som gjør at han eller hun åpenbart ikke er skikket til å ha farledsbeviset eller kadettfarledsbeviset."
     },
     {
         "tag": "p",
@@ -710,7 +710,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 6, 7, 8, 11, 12, 16 eller 19.",
+        "html": "Tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av <a data-id=\"lov/2014-08-15-61/§6\" class=\" reference\" href=\"/lov/2014-08-15-61/%C2%A76\">§§ 6</a>, 7, 8, 11, 12, 16 eller 19.",
         "text": "Tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 6, 7, 8, 11, 12, 16 eller 19."
     },
     {
@@ -727,39 +727,39 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet</td>\n</tr>",
-        "text": "a)overtredelsens grovhet"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet</td>\n</tr>",
+        "text": "a)\tovertredelsens grovhet"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om rederiet ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen</td>\n</tr>",
-        "text": "b)om rederiet ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om rederiet ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen</td>\n</tr>",
+        "text": "b)\tom rederiet ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme rederiets interesser</td>\n</tr>",
-        "text": "c)om overtredelsen er begått for å fremme rederiets interesser"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme rederiets interesser</td>\n</tr>",
+        "text": "c)\tom overtredelsen er begått for å fremme rederiets interesser"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om rederiet har hatt eller kunne oppnådd noen fordel ved overtredelsen</td>\n</tr>",
-        "text": "d)om rederiet har hatt eller kunne oppnådd noen fordel ved overtredelsen"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om rederiet har hatt eller kunne oppnådd noen fordel ved overtredelsen</td>\n</tr>",
+        "text": "d)\tom rederiet har hatt eller kunne oppnådd noen fordel ved overtredelsen"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentagelse</td>\n</tr>",
-        "text": "e)om det foreligger gjentagelse"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentagelse</td>\n</tr>",
+        "text": "e)\tom det foreligger gjentagelse"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rederiets økonomiske evne</td>\n</tr>",
-        "text": "f)rederiets økonomiske evne"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rederiets økonomiske evne</td>\n</tr>",
+        "text": "f)\trederiets økonomiske evne"
     },
     {
         "tag": "p",
@@ -783,7 +783,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved mistanke om overtredelse av § 6 kan tilsynsmyndigheten beordre fartøyet stanset og anvise oppankring eller anløp til bestemt sted for nærmere undersøkelser.",
+        "html": "Ved mistanke om overtredelse av <a data-id=\"lov/2014-08-15-61/§6\" class=\" reference\" href=\"/lov/2014-08-15-61/%C2%A76\">§ 6</a> kan tilsynsmyndigheten beordre fartøyet stanset og anvise oppankring eller anløp til bestemt sted for nærmere undersøkelser.",
         "text": "Ved mistanke om overtredelse av § 6 kan tilsynsmyndigheten beordre fartøyet stanset og anvise oppankring eller anløp til bestemt sted for nærmere undersøkelser."
     },
     null,
@@ -827,7 +827,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven gjelder fra den tid Kongen bestemmer. Lov 16. juni 1989 nr. 59 om lostjenesten m.v. oppheves fra den tid Kongen bestemmer.",
+        "html": "Loven gjelder fra den tid Kongen bestemmer. <a data-id=\"lov/1989-06-16-59\" class=\" reference\" href=\"/lov/1989-06-16-59\">Lov 16. juni 1989 nr. 59</a> om lostjenesten m.v. oppheves fra den tid Kongen bestemmer.",
         "text": "Loven gjelder fra den tid Kongen bestemmer. Lov 16. juni 1989 nr. 59 om lostjenesten m.v. oppheves fra den tid Kongen bestemmer."
     },
     null,
@@ -846,7 +846,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forskrifter og enkeltvedtak gitt i medhold av lov 16. juni 1989 nr. 59 og lov 9. april 1948 nr. 2 gjelder også etter at loven her har trådt i kraft.",
+        "html": "Forskrifter og enkeltvedtak gitt i medhold av <a data-id=\"lov/1989-06-16-59\" class=\" reference\" href=\"/lov/1989-06-16-59\">lov 16. juni 1989 nr. 59</a> og <a data-id=\"lov/1948-04-09-2\" class=\" reference\" href=\"/lov/1948-04-09-2\">lov 9. april 1948 nr. 2</a> gjelder også etter at loven her har trådt i kraft.",
         "text": "Forskrifter og enkeltvedtak gitt i medhold av lov 16. juni 1989 nr. 59 og lov 9. april 1948 nr. 2 gjelder også etter at loven her har trådt i kraft."
     },
     {

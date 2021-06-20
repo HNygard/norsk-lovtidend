@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.16 (2008–2009), Innst.O.nr.59 (2008–2009) og Besl.O.nr.79 (2008–2009). Odels- og lagtingsvedtak hv. 14. og 28. mai 2009. Fremja av Justis- og politidepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-16-200809\" class=\" reference\" href=\"/forarbeid/otprp-16-200809\">Ot.prp.nr.16 (2008–2009)</a>, <a data-id=\"forarbeid/inns-o-59-200809\" class=\" reference\" href=\"/forarbeid/inns-o-59-200809\">Innst.O.nr.59 (2008–2009)</a> og <a data-id=\"forarbeid/besl-o-79-200809\" class=\" reference\" href=\"/forarbeid/besl-o-79-200809\">Besl.O.nr.79 (2008–2009)</a>. Odels- og lagtingsvedtak hv. 14. og 28. mai 2009. Fremja av Justis- og politidepartementet.",
         "text": "Ot.prp.nr.16 (2008–2009), Innst.O.nr.59 (2008–2009) og Besl.O.nr.79 (2008–2009). Odels- og lagtingsvedtak hv. 14. og 28. mai 2009. Fremja av Justis- og politidepartementet."
     },
     {
@@ -13,15 +13,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse.</td>\n</tr>",
-        "text": "1Lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">Lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse.</td>\n</tr>",
+        "text": "1\tLov 26. juni 1992 nr. 86 om tvangsfullbyrdelse."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven).</td>\n</tr>",
-        "text": "2Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1994-06-24-39\" class=\" reference\" href=\"/lov/1994-06-24-39\">Lov 24. juni 1994 nr. 39</a> om sjøfarten (sjøloven).</td>\n</tr>",
+        "text": "2\tLov 24. juni 1994 nr. 39 om sjøfarten (sjøloven)."
     },
     {
         "tag": "h2",
@@ -32,7 +32,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven) vert endra slik:",
+        "html": "<a data-id=\"lov/1994-06-24-39\" class=\" reference\" href=\"/lov/1994-06-24-39\">Lov 24. juni 1994 nr. 39</a> om sjøfarten (sjøloven) vert endra slik:",
         "text": "Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven) vert endra slik:"
     },
     {
@@ -49,21 +49,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for hvert tonn fra 1.001 tonn til 2.000 tonn med 2.000 SDR, og</td>\n</tr>",
-        "text": "1.for hvert tonn fra 1.001 tonn til 2.000 tonn med 2.000 SDR, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for hvert tonn fra 1.001 tonn til 2.000 tonn med 2.000 SDR, og</td>\n</tr>",
+        "text": "1.\tfor hvert tonn fra 1.001 tonn til 2.000 tonn med 2.000 SDR, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for hvert tonn fra 2.001 tonn til 10..000 tonn med 5.000 SDR, og</td>\n</tr>",
-        "text": "2.for hvert tonn fra 2.001 tonn til 10..000 tonn med 5.000 SDR, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for hvert tonn fra 2.001 tonn til 10..000 tonn med 5.000 SDR, og</td>\n</tr>",
+        "text": "2.\tfor hvert tonn fra 2.001 tonn til 10..000 tonn med 5.000 SDR, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for hvert tonn over 10.001 tonn med 1.000 SDR.</td>\n</tr>",
-        "text": "3.for hvert tonn over 10.001 tonn med 1.000 SDR."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for hvert tonn over 10.001 tonn med 1.000 SDR.</td>\n</tr>",
+        "text": "3.\tfor hvert tonn over 10.001 tonn med 1.000 SDR."
     },
     {
         "tag": "p",
@@ -98,13 +98,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse skal § 1-8 femte ledd lyde:",
+        "html": "I <a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse skal <a data-id=\"lov/1992-06-26-86/§1-8\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A71-8\">§ 1-8</a> femte ledd lyde:",
         "text": "I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse skal § 1-8 femte ledd lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Med en persons alminnelige verneting menes i denne loven den rettskrets eller det namsmannsdistrikt hvor vedkommende har bopel eller slik tilknytning som nevnt i tvisteloven § 4-4 tredje til femte ledd. Den som har bopel i flere rettskretser eller namsmannsdistrikter, har alminnelig verneting i alle disse. Den som ikke har kjent bopel, har verneting i den rettskrets eller i det namsmannsdistrikt hvor vedkommende oppholder seg når en begjæring etter loven her meddeles. Har personen heller ikke kjent oppholdssted i riket, har vedkommende verneting i den rettskrets eller i det namsmannsdistrikt han eller hun sist hadde kjent bopel eller oppholdssted, dersom saken gjelder en forpliktelse pådratt i Norge eller en forpliktelse som skal oppfylles i Norge.",
+        "html": "Med en persons alminnelige verneting menes i denne loven den rettskrets eller det namsmannsdistrikt hvor vedkommende har bopel eller slik tilknytning som nevnt i <a data-id=\"lov/2005-06-17-90/§4-4\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A74-4\">tvisteloven § 4-4</a> tredje til femte ledd. Den som har bopel i flere rettskretser eller namsmannsdistrikter, har alminnelig verneting i alle disse. Den som ikke har kjent bopel, har verneting i den rettskrets eller i det namsmannsdistrikt hvor vedkommende oppholder seg når en begjæring etter loven her meddeles. Har personen heller ikke kjent oppholdssted i riket, har vedkommende verneting i den rettskrets eller i det namsmannsdistrikt han eller hun sist hadde kjent bopel eller oppholdssted, dersom saken gjelder en forpliktelse pådratt i Norge eller en forpliktelse som skal oppfylles i Norge.",
         "text": "Med en persons alminnelige verneting menes i denne loven den rettskrets eller det namsmannsdistrikt hvor vedkommende har bopel eller slik tilknytning som nevnt i tvisteloven § 4-4 tredje til femte ledd. Den som har bopel i flere rettskretser eller namsmannsdistrikter, har alminnelig verneting i alle disse. Den som ikke har kjent bopel, har verneting i den rettskrets eller i det namsmannsdistrikt hvor vedkommende oppholder seg når en begjæring etter loven her meddeles. Har personen heller ikke kjent oppholdssted i riket, har vedkommende verneting i den rettskrets eller i det namsmannsdistrikt han eller hun sist hadde kjent bopel eller oppholdssted, dersom saken gjelder en forpliktelse pådratt i Norge eller en forpliktelse som skal oppfylles i Norge."
     },
     {

@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.20 L (2009–2010), Innst.90 L (2009–2010), Lovvedtak 24 (2009–2010). Stortingets første og andre gangs behandling hhv. 8. og 15. desember 2009. Fremmet av Helse- og omsorgsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-20-l-200910\" class=\" reference\" href=\"/forarbeid/prop-20-l-200910\">Prop.20 L (2009–2010)</a>, <a data-id=\"forarbeid/inns-90-l-200910\" class=\" reference\" href=\"/forarbeid/inns-90-l-200910\">Innst.90 L (2009–2010)</a>, <a data-id=\"forarbeid/lovvedtak-24-200910\" class=\" reference\" href=\"/forarbeid/lovvedtak-24-200910\">Lovvedtak 24 (2009–2010)</a>. Stortingets første og andre gangs behandling hhv. 8. og 15. desember 2009. Fremmet av Helse- og omsorgsdepartementet.",
         "text": "Prop.20 L (2009–2010), Innst.90 L (2009–2010), Lovvedtak 24 (2009–2010). Stortingets første og andre gangs behandling hhv. 8. og 15. desember 2009. Fremmet av Helse- og omsorgsdepartementet."
     },
     {
@@ -13,21 +13,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).</td>\n</tr>",
-        "text": "1Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td>\n</tr>",
+        "text": "1\tLov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m.</td>\n</tr>",
-        "text": "2Lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-07-02-61\" class=\" reference\" href=\"/lov/1999-07-02-61\">Lov 2. juli 1999 nr. 61</a> om spesialisthelsetjenesten m.m.</td>\n</tr>",
+        "text": "2\tLov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven).</td>\n</tr>",
-        "text": "3Lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2001-05-18-24\" class=\" reference\" href=\"/lov/2001-05-18-24\">Lov 18. mai 2001 nr. 24</a> om helseregistre og behandling av helseopplysninger (helseregisterloven).</td>\n</tr>",
+        "text": "3\tLov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven)."
     },
     {
         "tag": "h2",
@@ -38,13 +38,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">lov 28. februar 1997 nr. 19</a> om folketrygd gjøres følgende endringer:",
         "text": "I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 5-3 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/1997-02-28-19/§5-3\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A75-3\">§ 5-3</a> første ledd skal lyde:",
         "text": "§ 5-3 første ledd skal lyde:"
     },
     {
@@ -55,62 +55,62 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">legehjelp</td>\n</tr>",
-        "text": "a)legehjelp"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">legehjelp</td>\n</tr>",
+        "text": "a)\tlegehjelp"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">psykologhjelp</td>\n</tr>",
-        "text": "b)psykologhjelp"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">psykologhjelp</td>\n</tr>",
+        "text": "b)\tpsykologhjelp"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">viktige legemidler og spesielt medisinsk utstyr</td>\n</tr>",
-        "text": "c)viktige legemidler og spesielt medisinsk utstyr"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">viktige legemidler og spesielt medisinsk utstyr</td>\n</tr>",
+        "text": "c)\tviktige legemidler og spesielt medisinsk utstyr"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">reiseutgifter, jf. spesialisthelsetjenesteloven § 5-5 nr. 4</td>\n</tr>",
-        "text": "d)reiseutgifter, jf. spesialisthelsetjenesteloven § 5-5 nr. 4"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">reiseutgifter, jf. <a data-id=\"lov/1999-07-02-61/§5-5\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A75-5\">spesialisthelsetjenesteloven § 5-5</a> nr. 4</td>\n</tr>",
+        "text": "d)\treiseutgifter, jf. spesialisthelsetjenesteloven § 5-5 nr. 4"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">radiologisk undersøkelse og behandling</td>\n</tr>",
-        "text": "e)radiologisk undersøkelse og behandling"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">radiologisk undersøkelse og behandling</td>\n</tr>",
+        "text": "e)\tradiologisk undersøkelse og behandling"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">laboratorieprøver</td>\n</tr>",
-        "text": "f)laboratorieprøver"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">laboratorieprøver</td>\n</tr>",
+        "text": "f)\tlaboratorieprøver"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsehjelp som utføres poliklinisk</td>\n</tr>",
-        "text": "g)helsehjelp som utføres poliklinisk"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helsehjelp som utføres poliklinisk</td>\n</tr>",
+        "text": "g)\thelsehjelp som utføres poliklinisk"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 21-11a tredje ledd skal lyde:",
+        "html": "<a data-id=\"lov/1997-02-28-19/§21-11a\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-11a\">§ 21-11a</a> tredje ledd skal lyde:",
         "text": "§ 21-11a tredje ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Arbeids- og velferdsforvaltningsloven §§ 6 og 7 første, tredje og femte ledd gjelder tilsvarende for Helsedirektoratet ved behandling av saker etter kapittel 5. Arbeids- og velferdsforvaltningsloven § 7 fjerde ledd gjelder tilsvarende for utlevering av opplysninger fra Helsedirektoratet til offentlige myndigheter i saker etter kapittel 5.",
+        "html": "Arbeids- og <a data-id=\"lov/2006-06-16-20/§6\" class=\" reference\" href=\"/lov/2006-06-16-20/%C2%A76\">velferdsforvaltningsloven §§ 6</a> og <a data-id=\"lov/2006-06-16-20/§7\" class=\" reference\" href=\"/lov/2006-06-16-20/%C2%A77\">7 </a>første, tredje og femte ledd gjelder tilsvarende for Helsedirektoratet ved behandling av saker etter <a data-id=\"lov/1997-02-28-19/kap5\" class=\" reference\" href=\"/lov/1997-02-28-19/kap5\">kapittel 5</a>. Arbeids- og <a data-id=\"lov/2006-06-16-20/§7\" class=\" reference\" href=\"/lov/2006-06-16-20/%C2%A77\">velferdsforvaltningsloven § 7</a> fjerde ledd gjelder tilsvarende for utlevering av opplysninger fra Helsedirektoratet til offentlige myndigheter i saker etter kapittel 5.",
         "text": "Arbeids- og velferdsforvaltningsloven §§ 6 og 7 første, tredje og femte ledd gjelder tilsvarende for Helsedirektoratet ved behandling av saker etter kapittel 5. Arbeids- og velferdsforvaltningsloven § 7 fjerde ledd gjelder tilsvarende for utlevering av opplysninger fra Helsedirektoratet til offentlige myndigheter i saker etter kapittel 5."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 21-11a nytt fjerde ledd skal lyde:",
+        "html": "<a data-id=\"lov/1997-02-28-19/§21-11a\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-11a\">§ 21-11a</a> nytt fjerde ledd skal lyde:",
         "text": "§ 21-11a nytt fjerde ledd skal lyde:"
     },
     {
@@ -128,19 +128,19 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 21-11a nytt femte ledd skal lyde:",
+        "html": "<a data-id=\"lov/1997-02-28-19/§21-11a\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A721-11a\">§ 21-11a</a> nytt femte ledd skal lyde:",
         "text": "§ 21-11a nytt femte ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Helseregisterloven får ikke anvendelse på behandling av personopplysninger i tilknytning til ytelser etter kapittel 5 med mindre annet framgår av helseregisterloven.",
+        "html": "Helseregisterloven får ikke anvendelse på behandling av personopplysninger i tilknytning til ytelser etter <a data-id=\"lov/1997-02-28-19/kap5\" class=\" reference\" href=\"/lov/1997-02-28-19/kap5\">kapittel 5</a> med mindre annet framgår av helseregisterloven.",
         "text": "Helseregisterloven får ikke anvendelse på behandling av personopplysninger i tilknytning til ytelser etter kapittel 5 med mindre annet framgår av helseregisterloven."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 22-13 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/1997-02-28-19/§22-13\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A722-13\">§ 22-13</a> første ledd skal lyde:",
         "text": "§ 22-13 første ledd skal lyde:"
     },
     {
@@ -152,13 +152,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 22-19 nytt andre ledd skal lyde:",
+        "html": "<a data-id=\"lov/1997-02-28-19/§22-19\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A722-19\">§ 22-19</a> nytt andre ledd skal lyde:",
         "text": "§ 22-19 nytt andre ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Bestemmelsene i første ledd gjelder ikke for ytelser etter § 5-3 første ledd (egenandelstak 1).",
+        "html": "Bestemmelsene i første ledd gjelder ikke for ytelser etter <a data-id=\"lov/1997-02-28-19/§5-3\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A75-3\">§ 5-3</a> første ledd (egenandelstak 1).",
         "text": "Bestemmelsene i første ledd gjelder ikke for ytelser etter § 5-3 første ledd (egenandelstak 1)."
     },
     {
@@ -170,19 +170,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/2001-05-18-24\" class=\" reference\" href=\"/lov/2001-05-18-24\">lov 18. mai 2001 nr. 24</a> om helseregistre og behandling av helseopplysninger gjøres følgende endringer:",
         "text": "I lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ny § 6 c skal lyde:",
+        "html": "Ny <a data-id=\"lov/2001-05-18-24/§6c\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A76c\">§ 6 c</a> skal lyde:",
         "text": "Ny § 6 c skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 6 c. <em class=\" \">Registre for saksbehandling og administrering</em>",
+        "html": "<a data-id=\"lov/2001-05-18-24/§6c\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A76c\">§ 6 c</a>. <em class=\" \">Registre for saksbehandling og administrering</em>",
         "text": "§ 6 c. Registre for saksbehandling og administrering"
     },
     {
@@ -193,15 +193,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksbehandling for å avgjøre om det kan treffes vedtak om frikort og refusjon av betalte egenandeler, jf. pasientrettighetsloven § 2-6, spesialisthelsetjenesteloven § 5-5 og folketrygdloven kapittel 5</td>\n</tr>",
-        "text": "1.saksbehandling for å avgjøre om det kan treffes vedtak om frikort og refusjon av betalte egenandeler, jf. pasientrettighetsloven § 2-6, spesialisthelsetjenesteloven § 5-5 og folketrygdloven kapittel 5"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksbehandling for å avgjøre om det kan treffes vedtak om frikort og refusjon av betalte egenandeler, jf. <a data-id=\"lov/1999-07-02-63/§2-6\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A72-6\">pasientrettighetsloven § 2-6</a>, <a data-id=\"lov/1999-07-02-61/§5-5\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A75-5\">spesialisthelsetjenesteloven § 5-5</a> og <a data-id=\"lov/1997-02-28-19/kap5\" class=\" reference\" href=\"/lov/1997-02-28-19/kap5\">folketrygdloven kapittel 5</a>\n</td>\n</tr>",
+        "text": "1.\tsaksbehandling for å avgjøre om det kan treffes vedtak om frikort og refusjon av betalte egenandeler, jf. pasientrettighetsloven § 2-6, spesialisthelsetjenesteloven § 5-5 og folketrygdloven kapittel 5"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrering og samordning av transport til undersøkelse eller behandling i kommune- og spesialisthelsetjenesten, jf. spesialisthelsetjenesteloven § 2-1a første ledd nr. 6.</td>\n</tr>",
-        "text": "2.administrering og samordning av transport til undersøkelse eller behandling i kommune- og spesialisthelsetjenesten, jf. spesialisthelsetjenesteloven § 2-1a første ledd nr. 6."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrering og samordning av transport til undersøkelse eller behandling i kommune- og spesialisthelsetjenesten, jf. <a data-id=\"lov/1999-07-02-61/§2-1a\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A72-1a\">spesialisthelsetjenesteloven § 2-1a</a> første ledd nr. 6.</td>\n</tr>",
+        "text": "2.\tadministrering og samordning av transport til undersøkelse eller behandling i kommune- og spesialisthelsetjenesten, jf. spesialisthelsetjenesteloven § 2-1a første ledd nr. 6."
     },
     {
         "tag": "p",
@@ -218,13 +218,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 9 skal lyde:",
+        "html": "<a data-id=\"lov/2001-05-18-24/§9\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A79\">§ 9</a> skal lyde:",
         "text": "§ 9 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 9. <em class=\" \">Særlig om innsamling av helseopplysninger til sentrale, regionale og lokale helseregistre, meldingsplikt m.v.</em>",
+        "html": "<a data-id=\"lov/2001-05-18-24/§9\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A79\">§ 9</a>. <em class=\" \">Særlig om innsamling av helseopplysninger til sentrale, regionale og lokale helseregistre, meldingsplikt m.v.</em>",
         "text": "§ 9. Særlig om innsamling av helseopplysninger til sentrale, regionale og lokale helseregistre, meldingsplikt m.v."
     },
     {
@@ -236,37 +236,37 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen kan gi forskrifter om innsamling av helseopplysninger etter §§ 6 c, 7 og 8, herunder bestemmelser om hvem som skal gi og motta opplysningene og om frister, formkrav og meldingsskjemaer. Den som mottar opplysningene, skal varsle avsenderen av opplysningene dersom opplysningene er mangelfulle.",
+        "html": "Kongen kan gi forskrifter om innsamling av helseopplysninger etter <a data-id=\"lov/2001-05-18-24/§6c\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A76c\">§§ 6 c</a>, <a data-id=\"lov/2001-05-18-24/§7\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A77\">7 </a><a data-id=\"lov/2001-05-18-24/§8\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A78\">og 8</a>, herunder bestemmelser om hvem som skal gi og motta opplysningene og om frister, formkrav og meldingsskjemaer. Den som mottar opplysningene, skal varsle avsenderen av opplysningene dersom opplysningene er mangelfulle.",
         "text": "Kongen kan gi forskrifter om innsamling av helseopplysninger etter §§ 6 c, 7 og 8, herunder bestemmelser om hvem som skal gi og motta opplysningene og om frister, formkrav og meldingsskjemaer. Den som mottar opplysningene, skal varsle avsenderen av opplysningene dersom opplysningene er mangelfulle."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 12 skal lyde:",
+        "html": "<a data-id=\"lov/2001-05-18-24/§12\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A712\">§ 12</a> skal lyde:",
         "text": "§ 12 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 12. <em class=\" \">Sammenstilling av opplysninger</em>",
+        "html": "<a data-id=\"lov/2001-05-18-24/§12\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A712\">§ 12</a>. <em class=\" \">Sammenstilling av opplysninger</em>",
         "text": "§ 12. Sammenstilling av opplysninger"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Helseopplysninger i behandlingsrettet helseregister kan sammenstilles med opplysninger om samme pasient i annet behandlingsrettet helseregister, i den grad helseopplysningene kan utleveres etter helsepersonelloven §§ 25, 26 og 45.",
+        "html": "Helseopplysninger i behandlingsrettet helseregister kan sammenstilles med opplysninger om samme pasient i annet behandlingsrettet helseregister, i den grad helseopplysningene kan utleveres etter <a data-id=\"lov/1999-07-02-64/§25\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A725\">helsepersonelloven §§ 25</a>, <a data-id=\"lov/1999-07-02-64/§26\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A726\">26</a> og <a data-id=\"lov/1999-07-02-64/§45\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A745\">45</a>.",
         "text": "Helseopplysninger i behandlingsrettet helseregister kan sammenstilles med opplysninger om samme pasient i annet behandlingsrettet helseregister, i den grad helseopplysningene kan utleveres etter helsepersonelloven §§ 25, 26 og 45."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Helseopplysninger som behandles i registre som nevnt i § 6 c kan sammenstilles med hverandre i samsvar med formålene med registrene.",
+        "html": "Helseopplysninger som behandles i registre som nevnt i <a data-id=\"lov/2001-05-18-24/§6c\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A76c\">§ 6 c</a> kan sammenstilles med hverandre i samsvar med formålene med registrene.",
         "text": "Helseopplysninger som behandles i registre som nevnt i § 6 c kan sammenstilles med hverandre i samsvar med formålene med registrene."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Helseopplysninger innsamlet etter § 9, kan sammenstilles etter nærmere bestemmelser fastsatt i forskrift etter § 7 og 8.",
+        "html": "Helseopplysninger innsamlet etter § 9, kan sammenstilles etter nærmere bestemmelser fastsatt i forskrift etter <a data-id=\"lov/2001-05-18-24/§7\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A77\">§ 7</a> og 8.",
         "text": "Helseopplysninger innsamlet etter § 9, kan sammenstilles etter nærmere bestemmelser fastsatt i forskrift etter § 7 og 8."
     },
     {
@@ -278,13 +278,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ut over det som følger av denne paragraf, kan helseopplysninger bare sammenstilles når dette er tillatt etter personopplysningsloven §§ 9 og 33.",
+        "html": "Ut over det som følger av denne paragraf, kan helseopplysninger bare sammenstilles når dette er tillatt etter <a data-id=\"lov/2018-06-15-38/§9\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A79\">personopplysningsloven §§ 9</a> og <a data-id=\"lov/2018-06-15-38/§33\" class=\" reference\" href=\"/lov/2018-06-15-38/%C2%A733\">33</a>.",
         "text": "Ut over det som følger av denne paragraf, kan helseopplysninger bare sammenstilles når dette er tillatt etter personopplysningsloven §§ 9 og 33."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 15 nytt fjerde og femte ledd skal lyde:",
+        "html": "<a data-id=\"lov/2001-05-18-24/§15\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A715\">§ 15</a> nytt fjerde og femte ledd skal lyde:",
         "text": "§ 15 nytt fjerde og femte ledd skal lyde:"
     },
     {
@@ -296,32 +296,32 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Opplysninger om en pasients navn, transportbehov og om pasienten skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport som omfattes av spesialisthelsetjenesteloven § 2-1a første ledd nr. 6.",
+        "html": "Opplysninger om en pasients navn, transportbehov og om pasienten skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport som omfattes av <a data-id=\"lov/1999-07-02-61/§2-1a\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A72-1a\">spesialisthelsetjenesteloven § 2-1a</a> første ledd nr. 6.",
         "text": "Opplysninger om en pasients navn, transportbehov og om pasienten skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport som omfattes av spesialisthelsetjenesteloven § 2-1a første ledd nr. 6."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 22 andre ledd skal lyde:",
+        "html": "<a data-id=\"lov/2001-05-18-24/§22\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A722\">§ 22</a> andre ledd skal lyde:",
         "text": "§ 22 andre ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når helseopplysninger behandles etter §§ 5, 6c, 7 og 8, har den registrerte på forespørsel i tillegg til informasjon som nevnt i § 21 første ledd, rett til å få opplyst",
+        "html": "Når helseopplysninger behandles etter <a data-id=\"lov/2001-05-18-24/§5\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A75\">§§ 5</a>, <a data-id=\"lov/2001-05-18-24/§6c\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A76c\">6c</a>, <a data-id=\"lov/2001-05-18-24/§7\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A77\">7 </a><a data-id=\"lov/2001-05-18-24/§8\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A78\">og 8</a>, har den registrerte på forespørsel i tillegg til informasjon som nevnt i <a data-id=\"lov/2001-05-18-24/§21\" class=\" reference\" href=\"/lov/2001-05-18-24/%C2%A721\">§ 21</a> første ledd, rett til å få opplyst",
         "text": "Når helseopplysninger behandles etter §§ 5, 6c, 7 og 8, har den registrerte på forespørsel i tillegg til informasjon som nevnt i § 21 første ledd, rett til å få opplyst"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke helseopplysninger om den registrerte som behandles, og</td>\n</tr>",
-        "text": "1.hvilke helseopplysninger om den registrerte som behandles, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke helseopplysninger om den registrerte som behandles, og</td>\n</tr>",
+        "text": "1.\thvilke helseopplysninger om den registrerte som behandles, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten.</td>\n</tr>",
-        "text": "2.sikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten.</td>\n</tr>",
+        "text": "2.\tsikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten."
     },
     {
         "tag": "h2",
@@ -332,7 +332,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1999-07-02-61\" class=\" reference\" href=\"/lov/1999-07-02-61\">lov 2. juli 1999 nr. 61</a> om spesialisthelsetjenesten m.m. gjøres følgende endringer:",
         "text": "I lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. gjøres følgende endringer:"
     },
     {
@@ -344,19 +344,19 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "<em class=\" \">Lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)</em>",
+        "html": "<em class=\" \"><a data-id=\"lov/1999-07-02-61\" class=\" reference\" href=\"/lov/1999-07-02-61\">Lov 2. juli 1999 nr. 61</a> om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)</em>",
         "text": "Lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 6-1 andre ledd nytt tredje punktum skal lyde:",
+        "html": "<a data-id=\"lov/1999-07-02-61/§6-1\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A76-1\">§ 6-1</a> andre ledd nytt tredje punktum skal lyde:",
         "text": "§ 6-1 andre ledd nytt tredje punktum skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Opplysning om en pasients navn, transportbehov og om pasienten skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport etter § 2-1a første ledd nr. 6.",
+        "html": "Opplysning om en pasients navn, transportbehov og om pasienten skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport etter <a data-id=\"lov/1999-07-02-61/§2-1a\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A72-1a\">§ 2-1a</a> første ledd nr. 6.",
         "text": "Opplysning om en pasients navn, transportbehov og om pasienten skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport etter § 2-1a første ledd nr. 6."
     },
     {

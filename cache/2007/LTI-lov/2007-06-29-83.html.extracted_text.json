@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.15 (2006–2007), Innst.O.nr.43 (2006–2007) og Besl.O.nr.60 (2006–2007). Odels- og lagtingsvedtak hhv. 20. og 29. mars 2007. Fremmet av Justis- og politidepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-15-200607\" class=\" reference\" href=\"/forarbeid/otprp-15-200607\">Ot.prp.nr.15 (2006–2007)</a>, <a data-id=\"forarbeid/inns-o-43-200607\" class=\" reference\" href=\"/forarbeid/inns-o-43-200607\">Innst.O.nr.43 (2006–2007)</a> og <a data-id=\"forarbeid/besl-o-60-200607\" class=\" reference\" href=\"/forarbeid/besl-o-60-200607\">Besl.O.nr.60 (2006–2007)</a>. Odels- og lagtingsvedtak hhv. 20. og 29. mars 2007. Fremmet av Justis- og politidepartementet.",
         "text": "Ot.prp.nr.15 (2006–2007), Innst.O.nr.43 (2006–2007) og Besl.O.nr.60 (2006–2007). Odels- og lagtingsvedtak hhv. 20. og 29. mars 2007. Fremmet av Justis- og politidepartementet."
     },
     {
@@ -13,21 +13,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Almindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10.</td>\n</tr>",
-        "text": "1Almindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Almindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10.</td>\n</tr>",
+        "text": "1\tAlmindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. (straffegjennomføringsloven).</td>\n</tr>",
-        "text": "2Lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. (straffegjennomføringsloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2001-05-18-21\" class=\" reference\" href=\"/lov/2001-05-18-21\">Lov 18. mai 2001 nr. 21</a> om gjennomføring av straff mv. (straffegjennomføringsloven).</td>\n</tr>",
+        "text": "2\tLov 18. mai 2001 nr. 21 om gjennomføring av straff mv. (straffegjennomføringsloven)."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lov 20. mai 2005 nr. 28 om straff (straffeloven).</td>\n</tr>",
-        "text": "3Lov 20. mai 2005 nr. 28 om straff (straffeloven)."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-05-20-28\" class=\" reference\" href=\"/lov/2005-05-20-28\">Lov 20. mai 2005 nr. 28</a> om straff (straffeloven).</td>\n</tr>",
+        "text": "3\tLov 20. mai 2005 nr. 28 om straff (straffeloven)."
     },
     {
         "tag": "h2",
@@ -38,7 +38,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I straffegjennomføringsloven 18. mai 2001 nr. 21 gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/2001-05-18-21\" class=\" reference\" href=\"/lov/2001-05-18-21\">straffegjennomføringsloven 18. mai 2001 nr. 21</a> gjøres følgende endringer:",
         "text": "I straffegjennomføringsloven 18. mai 2001 nr. 21 gjøres følgende endringer:"
     },
     {
@@ -73,21 +73,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Folkeregisteret; opplysninger om innsattes navn, fødselsnummer, fødested, bopel og statsborgerskap.</td>\n</tr>",
-        "text": "a)Folkeregisteret; opplysninger om innsattes navn, fødselsnummer, fødested, bopel og statsborgerskap."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Folkeregisteret; opplysninger om innsattes navn, fødselsnummer, fødested, bopel og statsborgerskap.</td>\n</tr>",
+        "text": "a)\tFolkeregisteret; opplysninger om innsattes navn, fødselsnummer, fødested, bopel og statsborgerskap."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Tilsatte i barnevernet og sosialtjenesten; opplysninger om innsattes barne- og familieforhold som er nødvendige for å ivareta hensynet til barnet og den øvrige familien under straffegjennomføring, ved permisjon, ved løslatelse og ved overføring til andre gjennomføringsformer enn fengsel med høyt sikkerhetsnivå.</td>\n</tr>",
-        "text": "b)Tilsatte i barnevernet og sosialtjenesten; opplysninger om innsattes barne- og familieforhold som er nødvendige for å ivareta hensynet til barnet og den øvrige familien under straffegjennomføring, ved permisjon, ved løslatelse og ved overføring til andre gjennomføringsformer enn fengsel med høyt sikkerhetsnivå."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Tilsatte i barnevernet og sosialtjenesten; opplysninger om innsattes barne- og familieforhold som er nødvendige for å ivareta hensynet til barnet og den øvrige familien under straffegjennomføring, ved permisjon, ved løslatelse og ved overføring til andre gjennomføringsformer enn fengsel med høyt sikkerhetsnivå.</td>\n</tr>",
+        "text": "b)\tTilsatte i barnevernet og sosialtjenesten; opplysninger om innsattes barne- og familieforhold som er nødvendige for å ivareta hensynet til barnet og den øvrige familien under straffegjennomføring, ved permisjon, ved løslatelse og ved overføring til andre gjennomføringsformer enn fengsel med høyt sikkerhetsnivå."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Helsepersonell i helsetjenesten; opplysninger som nevnt i bokstav b, samt opplysninger som er strengt nødvendige for å avverge fare for liv og helse for den innsatte selv, andre innsatte og tilsatte.</td>\n</tr>",
-        "text": "c)Helsepersonell i helsetjenesten; opplysninger som nevnt i bokstav b, samt opplysninger som er strengt nødvendige for å avverge fare for liv og helse for den innsatte selv, andre innsatte og tilsatte."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Helsepersonell i helsetjenesten; opplysninger som nevnt i bokstav b, samt opplysninger som er strengt nødvendige for å avverge fare for liv og helse for den innsatte selv, andre innsatte og tilsatte.</td>\n</tr>",
+        "text": "c)\tHelsepersonell i helsetjenesten; opplysninger som nevnt i bokstav b, samt opplysninger som er strengt nødvendige for å avverge fare for liv og helse for den innsatte selv, andre innsatte og tilsatte."
     },
     {
         "tag": "p",
@@ -176,7 +176,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom det er sannsynlig at domfelte i kroppen skjuler rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet, kan kriminalomsorgen beslutte at domfelte skal settes i enerom med spesialtoalett. Uttalelse fra lege skal innhentes og tas i betraktning ved vurderingen av om tiltaket skal settes i verk. Under oppholdet skal domfelte ha jevnlig tilsyn av helsepersonell. Dersom det er sannsynlig at domfelte i kroppen skjuler stoffer som ikke er lovlig foreskrevet, kan kriminalomsorgen også benytte radiologisk undersøkelse for å påvise stoffet. Henvisning til slik undersøkelse besluttes av lege som vurderer om bruken av stråling er berettiget, jf. strålevernloven § 13.",
+        "html": "Dersom det er sannsynlig at domfelte i kroppen skjuler rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet, kan kriminalomsorgen beslutte at domfelte skal settes i enerom med spesialtoalett. Uttalelse fra lege skal innhentes og tas i betraktning ved vurderingen av om tiltaket skal settes i verk. Under oppholdet skal domfelte ha jevnlig tilsyn av helsepersonell. Dersom det er sannsynlig at domfelte i kroppen skjuler stoffer som ikke er lovlig foreskrevet, kan kriminalomsorgen også benytte radiologisk undersøkelse for å påvise stoffet. Henvisning til slik undersøkelse besluttes av lege som vurderer om bruken av stråling er berettiget, jf. <a data-id=\"lov/2000-05-12-36/§13\" class=\" reference\" href=\"/lov/2000-05-12-36/%C2%A713\">strålevernloven § 13</a>.",
         "text": "Dersom det er sannsynlig at domfelte i kroppen skjuler rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet, kan kriminalomsorgen beslutte at domfelte skal settes i enerom med spesialtoalett. Uttalelse fra lege skal innhentes og tas i betraktning ved vurderingen av om tiltaket skal settes i verk. Under oppholdet skal domfelte ha jevnlig tilsyn av helsepersonell. Dersom det er sannsynlig at domfelte i kroppen skjuler stoffer som ikke er lovlig foreskrevet, kan kriminalomsorgen også benytte radiologisk undersøkelse for å påvise stoffet. Henvisning til slik undersøkelse besluttes av lege som vurderer om bruken av stråling er berettiget, jf. strålevernloven § 13."
     },
     {
@@ -260,7 +260,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I Alminnelig borgerlig Straffelov 22. mai 1902 nr. 10 (straffeloven) gjøres følgende endringer:",
+        "html": "I Alminnelig borgerlig Straffelov <a data-id=\"lov/1902-05-22-10\" class=\" reference\" href=\"/lov/1902-05-22-10\">22. mai 1902 nr. 10</a> (straffeloven) gjøres følgende endringer:",
         "text": "I Alminnelig borgerlig Straffelov 22. mai 1902 nr. 10 (straffeloven) gjøres følgende endringer:"
     },
     {
@@ -290,13 +290,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov om straff 20. mai 2005 nr. 28 (straffeloven) gjøres følgende endring:",
+        "html": "I <a data-id=\"lov/2005-05-20-28\" class=\" reference\" href=\"/lov/2005-05-20-28\">lov om straff 20. mai 2005 nr. 28</a> (straffeloven) gjøres følgende endring:",
         "text": "I lov om straff 20. mai 2005 nr. 28 (straffeloven) gjøres følgende endring:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 45 nytt sjette ledd skal lyde:",
+        "html": "<a data-id=\"lov/2005-05-20-28/§45\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A745\">§ 45</a> nytt sjette ledd skal lyde:",
         "text": "§ 45 nytt sjette ledd skal lyde:"
     },
     {

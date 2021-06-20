@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.64 (2002–2003), Innst.O.nr.16 (2003–2004) og Besl.O.nr.10 (2003–2004). Odels- og lagtingsvedtak hhv. 18. og 27. november 2003. Fremmet av Helsedepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-64-200203\" class=\" reference\" href=\"/forarbeid/otprp-64-200203\">Ot.prp.nr.64 (2002–2003)</a>, <a data-id=\"forarbeid/inns-o-16-200304\" class=\" reference\" href=\"/forarbeid/inns-o-16-200304\">Innst.O.nr.16 (2003–2004)</a> og <a data-id=\"forarbeid/besl-o-10-200304\" class=\" reference\" href=\"/forarbeid/besl-o-10-200304\">Besl.O.nr.10 (2003–2004)</a>. Odels- og lagtingsvedtak hhv. 18. og 27. november 2003. Fremmet av Helsedepartementet.",
         "text": "Ot.prp.nr.64 (2002–2003), Innst.O.nr.16 (2003–2004) og Besl.O.nr.10 (2003–2004). Odels- og lagtingsvedtak hhv. 18. og 27. november 2003. Fremmet av Helsedepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov av 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi.",
+        "html": "<a data-id=\"lov/1994-08-05-56\" class=\" reference\" href=\"/lov/1994-08-05-56\">Lov av 5. august 1994 nr. 56</a> om medisinsk bruk av bioteknologi.",
         "text": "Lov av 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi."
     },
     {
@@ -36,6 +36,7 @@
         "text": "Kapittel 1. Formål og virkeområde"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -54,6 +55,7 @@
         "html": "Formålet med denne loven er å sikre at medisinsk bruk av bioteknologi utnyttes til beste for mennesker i et samfunn der det er plass til alle. Dette skal skje i samsvar med prinsipper om respekt for menneskeverd, menneskelige rettigheter og personlig integritet og uten diskriminering på grunnlag av arveanlegg basert på de etiske normer nedfelt i vår vestlige kulturarv.",
         "text": "Formålet med denne loven er å sikre at medisinsk bruk av bioteknologi utnyttes til beste for mennesker i et samfunn der det er plass til alle. Dette skal skje i samsvar med prinsipper om respekt for menneskeverd, menneskelige rettigheter og personlig integritet og uten diskriminering på grunnlag av arveanlegg basert på de etiske normer nedfelt i vår vestlige kulturarv."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -76,13 +78,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven gjelder ikke for forskning som ikke har diagnostiske eller behandlingsmessige konsekvenser for deltakeren eller hvor opplysninger om den enkelte ikke føres tilbake til vedkommende. Unntatt fra dette er bestemmelsene i kap. 3.",
+        "html": "Loven gjelder ikke for forskning som ikke har diagnostiske eller behandlingsmessige konsekvenser for deltakeren eller hvor opplysninger om den enkelte ikke føres tilbake til vedkommende. Unntatt fra dette er bestemmelsene i <a data-id=\"lov/2003-12-05-100/kap3\" class=\" reference\" href=\"/lov/2003-12-05-100/kap3\">kap. 3</a>.",
         "text": "Loven gjelder ikke for forskning som ikke har diagnostiske eller behandlingsmessige konsekvenser for deltakeren eller hvor opplysninger om den enkelte ikke føres tilbake til vedkommende. Unntatt fra dette er bestemmelsene i kap. 3."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Loven gjelder ikke for obduksjon som faller inn under lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m., kapittel II og sakkyndig likundersøkelse, jf. lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker § 228.",
+        "html": "Loven gjelder ikke for obduksjon som faller inn under lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m., kapittel <a data-id=\"lov/1973-02-09-6/kapii\" class=\" reference\" href=\"/lov/1973-02-09-6/kapii\">II</a> og sakkyndig likundersøkelse, jf. <a data-id=\"lov/1981-05-22-25\" class=\" reference\" href=\"/lov/1981-05-22-25\">lov 22. mai 1981 nr. 25</a> om rettergangsmåten i straffesaker <a data-id=\"lov/1981-05-22-25/§228\" class=\" reference\" href=\"/lov/1981-05-22-25/%C2%A7228\">§ 228</a>.",
         "text": "Loven gjelder ikke for obduksjon som faller inn under lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m., kapittel II og sakkyndig likundersøkelse, jf. lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker § 228."
     },
     {
@@ -97,6 +99,7 @@
         "html": "Kapittel 2. Assistert befruktning",
         "text": "Kapittel 2. Assistert befruktning"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -118,22 +121,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">assistert befruktning: inseminasjon og befruktning utenfor kroppen;</td>\n</tr>",
-        "text": "a)assistert befruktning: inseminasjon og befruktning utenfor kroppen;"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">assistert befruktning: inseminasjon og befruktning utenfor kroppen;</td>\n</tr>",
+        "text": "a)\tassistert befruktning: inseminasjon og befruktning utenfor kroppen;"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inseminasjon: innføring av sæd i kvinnen på annen måte enn ved samleie;</td>\n</tr>",
-        "text": "b)inseminasjon: innføring av sæd i kvinnen på annen måte enn ved samleie;"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inseminasjon: innføring av sæd i kvinnen på annen måte enn ved samleie;</td>\n</tr>",
+        "text": "b)\tinseminasjon: innføring av sæd i kvinnen på annen måte enn ved samleie;"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">befruktning utenfor kroppen: befruktning av egg utenfor kvinnens kropp.</td>\n</tr>",
-        "text": "c)befruktning utenfor kroppen: befruktning av egg utenfor kvinnens kropp."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">befruktning utenfor kroppen: befruktning av egg utenfor kvinnens kropp.</td>\n</tr>",
+        "text": "c)\tbefruktning utenfor kroppen: befruktning av egg utenfor kvinnens kropp."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -153,6 +157,7 @@
         "html": "Assistert befruktning kan bare utføres på kvinne som er gift eller som er samboer med en mann i ekteskapsliknende forhold.",
         "text": "Assistert befruktning kan bare utføres på kvinne som er gift eller som er samboer med en mann i ekteskapsliknende forhold."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -175,9 +180,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Inseminasjon kan i særskilte tilfelle finne sted dersom kvinnen er bærer av alvorlig arvelig kjønnsbundet sykdom, jf. § 2-13.",
+        "html": "Inseminasjon kan i særskilte tilfelle finne sted dersom kvinnen er bærer av alvorlig arvelig kjønnsbundet sykdom, jf. <a data-id=\"lov/2003-12-05-100/§2-13\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A72-13\">§ 2-13</a>.",
         "text": "Inseminasjon kan i særskilte tilfelle finne sted dersom kvinnen er bærer av alvorlig arvelig kjønnsbundet sykdom, jf. § 2-13."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -197,6 +203,7 @@
         "html": "Befruktning utenfor kroppen kan bare finne sted når kvinnen eller mannen er befruktningsudyktig eller ved uforklarlig befruktningsudyktighet.",
         "text": "Befruktning utenfor kroppen kan bare finne sted når kvinnen eller mannen er befruktningsudyktig eller ved uforklarlig befruktningsudyktighet."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -223,6 +230,7 @@
         "text": "Før behandlingen påbegynnes, skal behandlende lege påse at det foreligger skriftlig samtykke fra kvinnen og hennes ektemann eller samboer. Ved gjentatte behandlinger skal nytt samtykke innhentes."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -248,6 +256,7 @@
         "text": "Legen kan innhente den informasjon som er nødvendig, for å foreta en helhetsvurdering av paret."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -267,6 +276,7 @@
         "text": "Den som er født etter assistert befruktning ved hjelp av donorsæd har ved fylte 18 år rett til å få opplysninger om sædgivers identitet. Et donorregister skal bistå barnet med dette."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -282,9 +292,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Departementet skal opprette register for registrering av sædgivers identitet, slik at barnets rett etter § 2-7 kan oppfylles.",
+        "html": "Departementet skal opprette register for registrering av sædgivers identitet, slik at barnets rett etter <a data-id=\"lov/2003-12-05-100/§2-7\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A72-7\">§ 2-7</a> kan oppfylles.",
         "text": "Departementet skal opprette register for registrering av sædgivers identitet, slik at barnets rett etter § 2-7 kan oppfylles."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -311,6 +322,7 @@
         "text": "En sædgiver skal ikke gis opplysninger om parets eller barnets identitet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -329,6 +341,7 @@
         "html": "Behandlende lege skal velge egnet sædgiver. Virksomheten som utfører den assisterte befruktningen skal sørge for at nødvendige opplysninger om behandlingen registreres og meldes.",
         "text": "Behandlende lege skal velge egnet sædgiver. Virksomheten som utfører den assisterte befruktningen skal sørge for at nødvendige opplysninger om behandlingen registreres og meldes."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -361,6 +374,7 @@
         "text": "Sæd skal ikke utleveres for bruk til assistert befruktning etter givers død."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -380,6 +394,7 @@
         "text": "Departementet kan i forskrift gi nærmere regler om organisering av sædbanker, bruk av donorsæd samt registrering og melding av opplysninger om sædgiver."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -398,6 +413,7 @@
         "html": "Behandling av sæd før befruktning for å påvirke valg av barnets kjønn er bare tillatt dersom kvinnen er bærer av alvorlig arvelig kjønnsbundet sykdom.",
         "text": "Behandling av sæd før befruktning for å påvirke valg av barnets kjønn er bare tillatt dersom kvinnen er bærer av alvorlig arvelig kjønnsbundet sykdom."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -424,6 +440,7 @@
         "text": "Før slik preimplantasjonsdiagnostikk foretas, skal kvinnen eller paret gis genetisk veiledning og informasjon."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -449,6 +466,7 @@
         "text": "Departementet kan gi nærmere forskrifter om tilbakeføring av befruktede egg i en kvinnes kropp ved befruktning utenfor kroppen."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -464,7 +482,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Bare virksomheter som er godkjent etter § 7-1 til å utføre assistert befruktning, kan etter godkjenning lagre befruktede egg.",
+        "html": "Bare virksomheter som er godkjent etter <a data-id=\"lov/2003-12-05-100/§7-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A77-1\">§ 7-1</a> til å utføre assistert befruktning, kan etter godkjenning lagre befruktede egg.",
         "text": "Bare virksomheter som er godkjent etter § 7-1 til å utføre assistert befruktning, kan etter godkjenning lagre befruktede egg."
     },
     {
@@ -473,6 +491,7 @@
         "html": "Befruktede egg må ikke lagres i mer enn fem år, og skal deretter destrueres.",
         "text": "Befruktede egg må ikke lagres i mer enn fem år, og skal deretter destrueres."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -489,7 +508,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Bare virksomheter som er godkjent etter § 7-1 til å utføre assistert befruktning, kan etter godkjenning lagre ubefruktede egg og eggstokkvev.",
+        "html": "Bare virksomheter som er godkjent etter <a data-id=\"lov/2003-12-05-100/§7-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A77-1\">§ 7-1</a> til å utføre assistert befruktning, kan etter godkjenning lagre ubefruktede egg og eggstokkvev.",
         "text": "Bare virksomheter som er godkjent etter § 7-1 til å utføre assistert befruktning, kan etter godkjenning lagre ubefruktede egg og eggstokkvev."
     },
     {
@@ -510,6 +529,7 @@
         "html": "Ved kvinnens død skal lagrede ubefruktede egg og lagret eggstokkvev destrueres.",
         "text": "Ved kvinnens død skal lagrede ubefruktede egg og lagret eggstokkvev destrueres."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -536,6 +556,7 @@
         "text": "Transplantasjon av organer og vev som produserer kjønnsceller fra en person til en annen med det formål å behandle infertilitet er forbudt."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -551,7 +572,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Behandlingsformer som faller inn under § 2-1, lagring og import av sæd jf. § 2-11, teknikker for behandling av sæd jf. § 2-13, samt lagring av befruktede egg og ubefruktede egg og eggstokkvev jf. §§ 2-16 og 2-17, skal godkjennes av departementet, og kan bare tas i bruk eller foretas ved virksomheter godkjent i henhold til § 7-1.",
+        "html": "Behandlingsformer som faller inn under <a data-id=\"lov/2003-12-05-100/§2-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A72-1\">§ 2-1</a>, lagring og import av sæd jf. <a data-id=\"lov/2003-12-05-100/§2-11\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A72-11\">§ 2-11</a>, teknikker for behandling av sæd jf. <a data-id=\"lov/2003-12-05-100/§2-13\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A72-13\">§ 2-13</a>, samt lagring av befruktede egg og ubefruktede egg og eggstokkvev jf. <a data-id=\"lov/2003-12-05-100/§2-16\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A72-16\">§§ 2-16</a> og <a data-id=\"lov/2003-12-05-100/§2-17\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A72-17\">2-17</a>, skal godkjennes av departementet, og kan bare tas i bruk eller foretas ved virksomheter godkjent i henhold til <a data-id=\"lov/2003-12-05-100/§7-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A77-1\">§ 7-1</a>.",
         "text": "Behandlingsformer som faller inn under § 2-1, lagring og import av sæd jf. § 2-11, teknikker for behandling av sæd jf. § 2-13, samt lagring av befruktede egg og ubefruktede egg og eggstokkvev jf. §§ 2-16 og 2-17, skal godkjennes av departementet, og kan bare tas i bruk eller foretas ved virksomheter godkjent i henhold til § 7-1."
     },
     {
@@ -566,6 +587,7 @@
         "html": "Kapittel 3. Forskning på befruktede egg og kloning m.m.",
         "text": "Kapittel 3. Forskning på befruktede egg og kloning m.m."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -585,6 +607,7 @@
         "html": "Det er forbudt å forske på befruktede egg, menneskeembryoer og cellelinjer som er dyrket ut fra befruktede egg eller menneskeembryoer.",
         "text": "Det er forbudt å forske på befruktede egg, menneskeembryoer og cellelinjer som er dyrket ut fra befruktede egg eller menneskeembryoer."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -606,21 +629,21 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å framstille menneskeembryoer ved kloning,</td>\n</tr>",
-        "text": "a)å framstille menneskeembryoer ved kloning,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å framstille menneskeembryoer ved kloning,</td>\n</tr>",
+        "text": "a)\tå framstille menneskeembryoer ved kloning,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å forske på cellelinjer som er dyrket ut fra menneskeembryoer ved kloning og</td>\n</tr>",
-        "text": "b)å forske på cellelinjer som er dyrket ut fra menneskeembryoer ved kloning og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å forske på cellelinjer som er dyrket ut fra menneskeembryoer ved kloning og</td>\n</tr>",
+        "text": "b)\tå forske på cellelinjer som er dyrket ut fra menneskeembryoer ved kloning og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å framstille embryoer ved kloning ved at arvematerial fra menneske settes inn i en eggcelle fra dyr.</td>\n</tr>",
-        "text": "c)å framstille embryoer ved kloning ved at arvematerial fra menneske settes inn i en eggcelle fra dyr."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å framstille embryoer ved kloning ved at arvematerial fra menneske settes inn i en eggcelle fra dyr.</td>\n</tr>",
+        "text": "c)\tå framstille embryoer ved kloning ved at arvematerial fra menneske settes inn i en eggcelle fra dyr."
     },
     {
         "tag": "p",
@@ -628,6 +651,7 @@
         "html": "Med kloning menes teknikker for å framstille arvemessig like kopier.",
         "text": "Med kloning menes teknikker for å framstille arvemessig like kopier."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -654,6 +678,7 @@
         "text": "Kapittel 4. Fosterdiagnostikk"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -675,9 +700,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ultralydundersøkelser i den alminnelige svangerskapsomsorgen anses ikke som fosterdiagnostikk i henhold til første ledd, og omfattes derfor ikke av denne loven med unntak av § 4-5.",
+        "html": "Ultralydundersøkelser i den alminnelige svangerskapsomsorgen anses ikke som fosterdiagnostikk i henhold til første ledd, og omfattes derfor ikke av denne loven med unntak av <a data-id=\"lov/2003-12-05-100/§4-5\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74-5\">§ 4-5</a>.",
         "text": "Ultralydundersøkelser i den alminnelige svangerskapsomsorgen anses ikke som fosterdiagnostikk i henhold til første ledd, og omfattes derfor ikke av denne loven med unntak av § 4-5."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -694,7 +720,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Undersøkelsesmetoder som faller inn under § 4-1 første ledd, skal godkjennes av departementet.",
+        "html": "Undersøkelsesmetoder som faller inn under <a data-id=\"lov/2003-12-05-100/§4-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74-1\">§ 4-1</a> første ledd, skal godkjennes av departementet.",
         "text": "Undersøkelsesmetoder som faller inn under § 4-1 første ledd, skal godkjennes av departementet."
     },
     {
@@ -703,6 +729,7 @@
         "html": "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda.",
         "text": "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -719,9 +746,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Før fosterdiagnostikk, jf. § 4-1 foretas, må den som skal undersøkes, gi skriftlig samtykke.",
+        "html": "Før fosterdiagnostikk, jf. <a data-id=\"lov/2003-12-05-100/§4-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74-1\">§ 4-1</a> foretas, må den som skal undersøkes, gi skriftlig samtykke.",
         "text": "Før fosterdiagnostikk, jf. § 4-1 foretas, må den som skal undersøkes, gi skriftlig samtykke."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -748,6 +776,7 @@
         "text": "Hvis undersøkelsen viser at fosteret kan ha en sykdom eller et utviklingsavvik, skal kvinnen eller paret gis informasjon og genetisk veiledning om den aktuelle sykdommen eller funksjonshemmingen, samt om gjeldende rettigheter og aktuelle hjelpetiltak."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -767,6 +796,7 @@
         "text": "Opplysning om fosterets kjønn før 12. svangerskapsuke som fremkommer ved fosterdiagnostikk eller annen undersøkelse av fosteret, skal bare gis dersom kvinnen er bærer av alvorlig kjønnsbundet sykdom."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -782,7 +812,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Fosterdiagnostikk med sikte på å fastsette farskap og farskapstesting på fosterstadiet er forbudt. Dette gjelder ikke når svangerskapet kan være et resultat av omstendigheter som omtalt i straffeloven §§ 192 til 199.",
+        "html": "Fosterdiagnostikk med sikte på å fastsette farskap og farskapstesting på fosterstadiet er forbudt. Dette gjelder ikke når svangerskapet kan være et resultat av omstendigheter som omtalt i <a data-id=\"lov/2005-05-20-28/§192\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7192\">straffeloven §§ 192</a> til 199.",
         "text": "Fosterdiagnostikk med sikte på å fastsette farskap og farskapstesting på fosterstadiet er forbudt. Dette gjelder ikke når svangerskapet kan være et resultat av omstendigheter som omtalt i straffeloven §§ 192 til 199."
     },
     {
@@ -791,6 +821,7 @@
         "html": "Kapittel 5. Genetiske undersøkelser av fødte m.m.",
         "text": "Kapittel 5. Genetiske undersøkelser av fødte m.m."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -818,22 +849,23 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">genetiske undersøkelser for å stille sykdomsdiagnose.</td>\n</tr>",
-        "text": "a)genetiske undersøkelser for å stille sykdomsdiagnose."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">genetiske undersøkelser for å stille sykdomsdiagnose.</td>\n</tr>",
+        "text": "a)\tgenetiske undersøkelser for å stille sykdomsdiagnose."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">genetiske presymptomatiske undersøkelser, genetiske prediktive undersøkelser og genetiske undersøkelser for å påvise eller utelukke bærertilstand for arvelige sykdommer som først viser seg i senere generasjoner.</td>\n</tr>",
-        "text": "b)genetiske presymptomatiske undersøkelser, genetiske prediktive undersøkelser og genetiske undersøkelser for å påvise eller utelukke bærertilstand for arvelige sykdommer som først viser seg i senere generasjoner."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">genetiske presymptomatiske undersøkelser, genetiske prediktive undersøkelser og genetiske undersøkelser for å påvise eller utelukke bærertilstand for arvelige sykdommer som først viser seg i senere generasjoner.</td>\n</tr>",
+        "text": "b)\tgenetiske presymptomatiske undersøkelser, genetiske prediktive undersøkelser og genetiske undersøkelser for å påvise eller utelukke bærertilstand for arvelige sykdommer som først viser seg i senere generasjoner."
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">genetiske laboratorieundersøkelser for å bestemme kjønnstilhørighet, unntatt genetiske laboratorieundersøkelser for identifikasjonsformål.</td>\n</tr>",
-        "text": "c)genetiske laboratorieundersøkelser for å bestemme kjønnstilhørighet, unntatt genetiske laboratorieundersøkelser for identifikasjonsformål."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">genetiske laboratorieundersøkelser for å bestemme kjønnstilhørighet, unntatt genetiske laboratorieundersøkelser for identifikasjonsformål.</td>\n</tr>",
+        "text": "c)\tgenetiske laboratorieundersøkelser for å bestemme kjønnstilhørighet, unntatt genetiske laboratorieundersøkelser for identifikasjonsformål."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -854,6 +886,7 @@
         "text": "Genetiske undersøkelser skal bare anvendes til medisinske formål med diagnostiske eller behandlingsmessige siktemål."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -869,7 +902,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Før genetiske undersøkelser som omtalt i § 5-1 annet ledd bokstav b tas i bruk, skal departementet gi særskilt godkjenning for den enkelte sykdom/sykdomsdisposisjon som gjøres til gjenstand for undersøkelse.",
+        "html": "Før genetiske undersøkelser som omtalt i <a data-id=\"lov/2003-12-05-100/§5-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A75-1\">§ 5-1</a> annet ledd bokstav b tas i bruk, skal departementet gi særskilt godkjenning for den enkelte sykdom/sykdomsdisposisjon som gjøres til gjenstand for undersøkelse.",
         "text": "Før genetiske undersøkelser som omtalt i § 5-1 annet ledd bokstav b tas i bruk, skal departementet gi særskilt godkjenning for den enkelte sykdom/sykdomsdisposisjon som gjøres til gjenstand for undersøkelse."
     },
     {
@@ -878,6 +911,7 @@
         "html": "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda.",
         "text": "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -894,15 +928,16 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Før genetisk undersøkelse som omfattes av § 5-1 annet ledd bokstav b foretas, må den som skal undersøkes, gi skriftlig samtykke til undersøkelsen.",
+        "html": "Før genetisk undersøkelse som omfattes av <a data-id=\"lov/2003-12-05-100/§5-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A75-1\">§ 5-1</a> annet ledd bokstav b foretas, må den som skal undersøkes, gi skriftlig samtykke til undersøkelsen.",
         "text": "Før genetisk undersøkelse som omfattes av § 5-1 annet ledd bokstav b foretas, må den som skal undersøkes, gi skriftlig samtykke til undersøkelsen."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Før det foretas genetisk undersøkelse som omfattes av § 5-1 annet ledd bokstav b av barn under 16 år, skal det gis skriftlig samtykke fra barnets foreldre eller andre med foreldreansvar.",
+        "html": "Før det foretas genetisk undersøkelse som omfattes av <a data-id=\"lov/2003-12-05-100/§5-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A75-1\">§ 5-1</a> annet ledd bokstav b av barn under 16 år, skal det gis skriftlig samtykke fra barnets foreldre eller andre med foreldreansvar.",
         "text": "Før det foretas genetisk undersøkelse som omfattes av § 5-1 annet ledd bokstav b av barn under 16 år, skal det gis skriftlig samtykke fra barnets foreldre eller andre med foreldreansvar."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -919,7 +954,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ved genetiske undersøkelser som omfattes av § 5-1 annet ledd bokstav b, skal den som undersøkes, gis genetisk veiledning både før, under og etter at undersøkelsen er foretatt.",
+        "html": "Ved genetiske undersøkelser som omfattes av <a data-id=\"lov/2003-12-05-100/§5-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A75-1\">§ 5-1</a> annet ledd bokstav b, skal den som undersøkes, gis genetisk veiledning både før, under og etter at undersøkelsen er foretatt.",
         "text": "Ved genetiske undersøkelser som omfattes av § 5-1 annet ledd bokstav b, skal den som undersøkes, gis genetisk veiledning både før, under og etter at undersøkelsen er foretatt."
     },
     {
@@ -928,6 +963,7 @@
         "html": "Dersom den som undersøkes, er et barn under 16 år, skal genetisk veiledning også gis til barnets foreldre eller andre med foreldreansvar.",
         "text": "Dersom den som undersøkes, er et barn under 16 år, skal genetisk veiledning også gis til barnets foreldre eller andre med foreldreansvar."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -948,6 +984,7 @@
         "text": "Kongen kan gi forskrifter om godkjenning av genetiske masseundersøkelser og farmakogenetiske undersøkelser. I forskriften kan det gjøres unntak fra lovens krav om skriftlig samtykke, genetisk veiledning, godkjenning av virksomhet eller rapportering."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -963,7 +1000,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Genetisk undersøkelse som omfattes av § 5-1 annet ledd bokstav b, skal ikke utføres på barn før barnet er fylt 16 år, med mindre undersøkelsen kan påvise forhold som ved behandling kan forhindre eller redusere helseskade hos barnet.",
+        "html": "Genetisk undersøkelse som omfattes av <a data-id=\"lov/2003-12-05-100/§5-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A75-1\">§ 5-1</a> annet ledd bokstav b, skal ikke utføres på barn før barnet er fylt 16 år, med mindre undersøkelsen kan påvise forhold som ved behandling kan forhindre eller redusere helseskade hos barnet.",
         "text": "Genetisk undersøkelse som omfattes av § 5-1 annet ledd bokstav b, skal ikke utføres på barn før barnet er fylt 16 år, med mindre undersøkelsen kan påvise forhold som ved behandling kan forhindre eller redusere helseskade hos barnet."
     },
     {
@@ -972,6 +1009,7 @@
         "html": "Departementet kan i særlige tilfeller gjøre unntak fra forbudet i første ledd.",
         "text": "Departementet kan i særlige tilfeller gjøre unntak fra forbudet i første ledd."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -988,7 +1026,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Det er forbudt å be om, motta, besitte, eller bruke opplysninger om en annen person som er fremkommet ved genetiske undersøkelser som omfattes av § 5-1 annet ledd bokstav b, eller ved systematisk kartlegging av arvelig sykdom i en familie.",
+        "html": "Det er forbudt å be om, motta, besitte, eller bruke opplysninger om en annen person som er fremkommet ved genetiske undersøkelser som omfattes av <a data-id=\"lov/2003-12-05-100/§5-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A75-1\">§ 5-1</a> annet ledd bokstav b, eller ved systematisk kartlegging av arvelig sykdom i en familie.",
         "text": "Det er forbudt å be om, motta, besitte, eller bruke opplysninger om en annen person som er fremkommet ved genetiske undersøkelser som omfattes av § 5-1 annet ledd bokstav b, eller ved systematisk kartlegging av arvelig sykdom i en familie."
     },
     {
@@ -1000,7 +1038,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forbudet i første og annet ledd omfatter ikke virksomheter som er godkjent etter § 7-1 til å utføre genetiske undersøkelser som omfattes av § 5-1 annet ledd, eller til forskningsformål. Dersom genetiske opplysninger skal benyttes til forskningsformål må den opplysningene gjelder ha gitt samtykke til dette.",
+        "html": "Forbudet i første og annet ledd omfatter ikke virksomheter som er godkjent etter <a data-id=\"lov/2003-12-05-100/§7-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A77-1\">§ 7-1</a> til å utføre genetiske undersøkelser som omfattes av <a data-id=\"lov/2003-12-05-100/§5-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A75-1\">§ 5-1</a> annet ledd, eller til forskningsformål. Dersom genetiske opplysninger skal benyttes til forskningsformål må den opplysningene gjelder ha gitt samtykke til dette.",
         "text": "Forbudet i første og annet ledd omfatter ikke virksomheter som er godkjent etter § 7-1 til å utføre genetiske undersøkelser som omfattes av § 5-1 annet ledd, eller til forskningsformål. Dersom genetiske opplysninger skal benyttes til forskningsformål må den opplysningene gjelder ha gitt samtykke til dette."
     },
     {
@@ -1009,6 +1047,7 @@
         "html": "Unntatt fra forbudet i første og annet ledd er helsepersonell som trenger opplysningene i diagnostisk og behandlingsmessig øyemed.",
         "text": "Unntatt fra forbudet i første og annet ledd er helsepersonell som trenger opplysningene i diagnostisk og behandlingsmessig øyemed."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1054,33 +1093,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det gjelder en sykdom med vesentlige konsekvenser for den enkeltes liv eller helse,</td>\n</tr>",
-        "text": "1.det gjelder en sykdom med vesentlige konsekvenser for den enkeltes liv eller helse,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det gjelder en sykdom med vesentlige konsekvenser for den enkeltes liv eller helse,</td>\n</tr>",
+        "text": "1.\tdet gjelder en sykdom med vesentlige konsekvenser for den enkeltes liv eller helse,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er en rimelig grad av sannsynlighet for at også slektningene har et arvelig sykdomsanlegg som kan føre til sykdom senere i livet,</td>\n</tr>",
-        "text": "2.det er en rimelig grad av sannsynlighet for at også slektningene har et arvelig sykdomsanlegg som kan føre til sykdom senere i livet,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er en rimelig grad av sannsynlighet for at også slektningene har et arvelig sykdomsanlegg som kan føre til sykdom senere i livet,</td>\n</tr>",
+        "text": "2.\tdet er en rimelig grad av sannsynlighet for at også slektningene har et arvelig sykdomsanlegg som kan føre til sykdom senere i livet,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger en dokumentert sammenheng mellom det arvelige sykdomsanlegget og utvikling av sykdom,</td>\n</tr>",
-        "text": "3.det foreligger en dokumentert sammenheng mellom det arvelige sykdomsanlegget og utvikling av sykdom,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger en dokumentert sammenheng mellom det arvelige sykdomsanlegget og utvikling av sykdom,</td>\n</tr>",
+        "text": "3.\tdet foreligger en dokumentert sammenheng mellom det arvelige sykdomsanlegget og utvikling av sykdom,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">de genetiske undersøkelser som benyttes for å fastslå det arvelige sykdomsanlegget, er sikre, og</td>\n</tr>",
-        "text": "4.de genetiske undersøkelser som benyttes for å fastslå det arvelige sykdomsanlegget, er sikre, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">de genetiske undersøkelser som benyttes for å fastslå det arvelige sykdomsanlegget, er sikre, og</td>\n</tr>",
+        "text": "4.\tde genetiske undersøkelser som benyttes for å fastslå det arvelige sykdomsanlegget, er sikre, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sykdommen kan forebygges eller behandles med god effekt.</td>\n</tr>",
-        "text": "5.sykdommen kan forebygges eller behandles med god effekt."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sykdommen kan forebygges eller behandles med god effekt.</td>\n</tr>",
+        "text": "5.\tsykdommen kan forebygges eller behandles med god effekt."
     },
     {
         "tag": "p",
@@ -1101,6 +1140,7 @@
         "text": "Kapittel 6. Genterapi"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1119,6 +1159,7 @@
         "html": "Med genterapi menes i denne loven overføring av genetisk materiale til humane celler for medisinske formål eller for å påvirke biologiske funksjoner.",
         "text": "Med genterapi menes i denne loven overføring av genetisk materiale til humane celler for medisinske formål eller for å påvirke biologiske funksjoner."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1145,6 +1186,7 @@
         "text": "Genterapi på foster og befruktede egg og genterapi som kan medføre genetiske endringer i kjønnsceller, er forbudt."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1160,7 +1202,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Behandlingsformer som faller inn under § 6-2 første ledd, skal godkjennes av departementet.",
+        "html": "Behandlingsformer som faller inn under <a data-id=\"lov/2003-12-05-100/§6-2\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A76-2\">§ 6-2</a> første ledd, skal godkjennes av departementet.",
         "text": "Behandlingsformer som faller inn under § 6-2 første ledd, skal godkjennes av departementet."
     },
     {
@@ -1175,6 +1217,7 @@
         "html": "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda.",
         "text": "Før departementet avgjør om godkjenning skal gis, skal søknaden forelegges Bioteknologinemnda."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1201,6 +1244,7 @@
         "text": "Kapittel 7. Generelle bestemmelser"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1216,7 +1260,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Medisinsk bruk av bioteknologi m.m. som krever godkjenning etter §§ 2-19, 4-2, 5-3 og 6-3 første ledd i denne loven, kan bare finne sted ved virksomheter som er spesielt godkjent av departementet for det aktuelle formål. Det skal fremgå av godkjenningsvedtaket hvilke former for medisinsk bioteknologi virksomheten har tillatelse til å foreta eller rekvirere.",
+        "html": "Medisinsk bruk av bioteknologi m.m. som krever godkjenning etter <a data-id=\"lov/2003-12-05-100/§2-19\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A72-19\">§§ 2-19</a>, <a data-id=\"lov/2003-12-05-100/§4-2\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74-2\">4-2</a>, <a data-id=\"lov/2003-12-05-100/§5-3\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A75-3\">5-3</a> og <a data-id=\"lov/2003-12-05-100/§6-3\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A76-3\">6-3</a> første ledd i denne loven, kan bare finne sted ved virksomheter som er spesielt godkjent av departementet for det aktuelle formål. Det skal fremgå av godkjenningsvedtaket hvilke former for medisinsk bioteknologi virksomheten har tillatelse til å foreta eller rekvirere.",
         "text": "Medisinsk bruk av bioteknologi m.m. som krever godkjenning etter §§ 2-19, 4-2, 5-3 og 6-3 første ledd i denne loven, kan bare finne sted ved virksomheter som er spesielt godkjent av departementet for det aktuelle formål. Det skal fremgå av godkjenningsvedtaket hvilke former for medisinsk bioteknologi virksomheten har tillatelse til å foreta eller rekvirere."
     },
     {
@@ -1225,6 +1269,7 @@
         "html": "Departementet kan i godkjenningsvedtaket sette nærmere vilkår for godkjenning.",
         "text": "Departementet kan i godkjenningsvedtaket sette nærmere vilkår for godkjenning."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1241,7 +1286,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Enhver virksomhet som er godkjent etter § 7-1, skal gi skriftlig rapport til departementet om virksomheten.",
+        "html": "Enhver virksomhet som er godkjent etter <a data-id=\"lov/2003-12-05-100/§7-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A77-1\">§ 7-1</a>, skal gi skriftlig rapport til departementet om virksomheten.",
         "text": "Enhver virksomhet som er godkjent etter § 7-1, skal gi skriftlig rapport til departementet om virksomheten."
     },
     {
@@ -1250,6 +1295,7 @@
         "html": "Departementet fastsetter nærmere regler om rapporteringsplikten.",
         "text": "Departementet fastsetter nærmere regler om rapporteringsplikten."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1276,6 +1322,7 @@
         "text": "Kongen kan gi nærmere regler om nemndas virksomhet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1295,6 +1342,7 @@
         "text": "Kongen kan ved forskrift fastsette nærmere bestemmelser til utfylling og gjennomføring av loven."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -1313,6 +1361,7 @@
         "html": "Den som forsettlig overtrer loven eller bestemmelser gitt i medhold av loven straffes med bøter eller fengsel i inntil tre måneder. Medvirkning straffes på samme måte.",
         "text": "Den som forsettlig overtrer loven eller bestemmelser gitt i medhold av loven straffes med bøter eller fengsel i inntil tre måneder. Medvirkning straffes på samme måte."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1335,9 +1384,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Vedtak truffet med hjemmel i lov 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi skal fortsatt gjelde så langt de ikke strider mot loven her, eller mot forskrifter eller enkeltvedtak truffet i medhold av loven her.",
+        "html": "Vedtak truffet med hjemmel i <a data-id=\"lov/1994-08-05-56\" class=\" reference\" href=\"/lov/1994-08-05-56\">lov 5. august 1994 nr. 56</a> om medisinsk bruk av bioteknologi skal fortsatt gjelde så langt de ikke strider mot loven her, eller mot forskrifter eller enkeltvedtak truffet i medhold av loven her.",
         "text": "Vedtak truffet med hjemmel i lov 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi skal fortsatt gjelde så langt de ikke strider mot loven her, eller mot forskrifter eller enkeltvedtak truffet i medhold av loven her."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -1360,13 +1410,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "1. Lov 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi oppheves.",
+        "html": "1. <a data-id=\"lov/1994-08-05-56\" class=\" reference\" href=\"/lov/1994-08-05-56\">Lov 5. august 1994 nr. 56</a> om medisinsk bruk av bioteknologi oppheves.",
         "text": "1. Lov 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "2. I lov 8. april 1981 nr. 7 om barn og foreldre (barnelova) skal § 9 fjerde og femte ledd lyde:",
+        "html": "2. I <a data-id=\"lov/1981-04-08-7\" class=\" reference\" href=\"/lov/1981-04-08-7\">lov 8. april 1981 nr. 7</a> om barn og foreldre (barnelova) skal <a data-id=\"lov/1981-04-08-7/§9\" class=\" reference\" href=\"/lov/1981-04-08-7/%C2%A79\">§ 9</a> fjerde og femte ledd lyde:",
         "text": "2. I lov 8. april 1981 nr. 7 om barn og foreldre (barnelova) skal § 9 fjerde og femte ledd lyde:"
     },
     {

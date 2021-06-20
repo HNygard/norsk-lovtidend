@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.66 (2006–2007), Innst.O.nr.100 (2006–2007) og Besl.O.nr.139 (2006–2007). Odels- og lagtingsvedtak hhv. 19. og 22. juni 2007. Fremmet av Miljøverndepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-66-200607\" class=\" reference\" href=\"/forarbeid/otprp-66-200607\">Ot.prp.nr.66 (2006–2007)</a>, <a data-id=\"forarbeid/inns-o-100-200607\" class=\" reference\" href=\"/forarbeid/inns-o-100-200607\">Innst.O.nr.100 (2006–2007)</a> og <a data-id=\"forarbeid/besl-o-139-200607\" class=\" reference\" href=\"/forarbeid/besl-o-139-200607\">Besl.O.nr.139 (2006–2007)</a>. Odels- og lagtingsvedtak hhv. 19. og 22. juni 2007. Fremmet av Miljøverndepartementet.",
         "text": "Ot.prp.nr.66 (2006–2007), Innst.O.nr.100 (2006–2007) og Besl.O.nr.139 (2006–2007). Odels- og lagtingsvedtak hhv. 19. og 22. juni 2007. Fremmet av Miljøverndepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 13. mars 1981 nr. 6 om vern mot forurensning og om avfall (Forurensningsloven).",
+        "html": "<a data-id=\"lov/1981-03-13-6\" class=\" reference\" href=\"/lov/1981-03-13-6\">Lov 13. mars 1981 nr. 6</a> om vern mot forurensning og om avfall (Forurensningsloven).",
         "text": "Lov 13. mars 1981 nr. 6 om vern mot forurensning og om avfall (Forurensningsloven)."
     },
     {
@@ -26,19 +26,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 17. desember 2004 nr. 99 om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteloven) gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/2004-12-17-99\" class=\" reference\" href=\"/lov/2004-12-17-99\">lov 17. desember 2004 nr. 99</a> om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteloven) gjøres følgende endringer:",
         "text": "I lov 17. desember 2004 nr. 99 om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteloven) gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1 skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§1\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A71\">§ 1</a> skal lyde:",
         "text": "§ 1 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 1. <em class=\" \">(lovens formål)</em>",
+        "html": "<a data-id=\"lov/2004-12-17-99/§1\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A71\">§ 1</a>. <em class=\" \">(lovens formål)</em>",
         "text": "§ 1. (lovens formål)"
     },
     {
@@ -50,7 +50,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 2 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§2\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A72\">§ 2</a> første ledd skal lyde:",
         "text": "§ 2 første ledd skal lyde:"
     },
     {
@@ -62,13 +62,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 3 skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§3\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A73\">§ 3</a> skal lyde:",
         "text": "§ 3 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 3. <em class=\" \">(utslipp som omfattes av denne loven)</em>",
+        "html": "<a data-id=\"lov/2004-12-17-99/§3\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A73\">§ 3</a>. <em class=\" \">(utslipp som omfattes av denne loven)</em>",
         "text": "§ 3. (utslipp som omfattes av denne loven)"
     },
     {
@@ -79,39 +79,39 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">energiproduksjon</td>\n</tr>",
-        "text": "a)energiproduksjon"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">energiproduksjon</td>\n</tr>",
+        "text": "a)\tenergiproduksjon"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">raffinering av mineralolje</td>\n</tr>",
-        "text": "b)raffinering av mineralolje"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">raffinering av mineralolje</td>\n</tr>",
+        "text": "b)\traffinering av mineralolje"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon av koks</td>\n</tr>",
-        "text": "c)produksjon av koks"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon av koks</td>\n</tr>",
+        "text": "c)\tproduksjon av koks"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon og bearbeiding av jern og stål, herunder røsting og sintring av jernmalm</td>\n</tr>",
-        "text": "d)produksjon og bearbeiding av jern og stål, herunder røsting og sintring av jernmalm"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon og bearbeiding av jern og stål, herunder røsting og sintring av jernmalm</td>\n</tr>",
+        "text": "d)\tproduksjon og bearbeiding av jern og stål, herunder røsting og sintring av jernmalm"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon av sement, kalk, glass, glassfiber og keramiske produkter</td>\n</tr>",
-        "text": "e)produksjon av sement, kalk, glass, glassfiber og keramiske produkter"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon av sement, kalk, glass, glassfiber og keramiske produkter</td>\n</tr>",
+        "text": "e)\tproduksjon av sement, kalk, glass, glassfiber og keramiske produkter"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon av papir, papp og papirmasse fra tre eller andre fibermaterialer.</td>\n</tr>",
-        "text": "f)produksjon av papir, papp og papirmasse fra tre eller andre fibermaterialer."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">produksjon av papir, papp og papirmasse fra tre eller andre fibermaterialer.</td>\n</tr>",
+        "text": "f)\tproduksjon av papir, papp og papirmasse fra tre eller andre fibermaterialer."
     },
     {
         "tag": "p",
@@ -122,31 +122,31 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen kan i forskrift gi bestemmelser om at utslipp av CO2 fra virksomhet som ikke er nevnt i første ledd og utslipp av andre klimagasser enn CO2 fra andre nærmere angitte virksomheter skal være omfattet av denne loven, herunder gi andre regler om tildeling av vederlagsfrie kvoter for 2008–2012 enn det som følger av §§ 7 og 8 for virksomheter og sektorer som inntas i kvotesystemet i medhold av bestemmelsen.",
+        "html": "Kongen kan i forskrift gi bestemmelser om at utslipp av CO2 fra virksomhet som ikke er nevnt i første ledd og utslipp av andre klimagasser enn CO2 fra andre nærmere angitte virksomheter skal være omfattet av denne loven, herunder gi andre regler om tildeling av vederlagsfrie kvoter for 2008–2012 enn det som følger av <a data-id=\"lov/2004-12-17-99/§7\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A77\">§§ 7</a> og <a data-id=\"lov/2004-12-17-99/§8\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A78\">8 </a>for virksomheter og sektorer som inntas i kvotesystemet i medhold av bestemmelsen.",
         "text": "Kongen kan i forskrift gi bestemmelser om at utslipp av CO2 fra virksomhet som ikke er nevnt i første ledd og utslipp av andre klimagasser enn CO2 fra andre nærmere angitte virksomheter skal være omfattet av denne loven, herunder gi andre regler om tildeling av vederlagsfrie kvoter for 2008–2012 enn det som følger av §§ 7 og 8 for virksomheter og sektorer som inntas i kvotesystemet i medhold av bestemmelsen."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 5 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§5\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A75\">§ 5</a> første ledd skal lyde:",
         "text": "§ 5 første ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Virksomhet som er kvotepliktig etter denne loven, og som ikke allerede har særskilt utslippstillatelse etter forurensningsloven § 11 annet ledd, må søke om slik tillatelse innenfor en frist fastsatt av Kongen for å få søknaden behandlet innen 1. januar 2008. Virksomhet som er berettiget til vederlagsfrie kvoter for 2008–2012 etter bestemmelsene i § 7 første ledd må søke om dette innen den samme fristen for å komme i betraktning ved tildelingen av disse kvotene. Søknaden må inneholde de opplysningene som er nødvendige for å vurdere hvor mange kvoter som skal tildeles etter § 8. Forurensningsmyndighetene kan i det enkelte tilfellet fastsette hvilke opplysninger eller undersøkelser søkeren må sørge for.",
+        "html": "Virksomhet som er kvotepliktig etter denne loven, og som ikke allerede har særskilt utslippstillatelse etter <a data-id=\"lov/1981-03-13-6/§11\" class=\" reference\" href=\"/lov/1981-03-13-6/%C2%A711\">forurensningsloven § 11</a> annet ledd, må søke om slik tillatelse innenfor en frist fastsatt av Kongen for å få søknaden behandlet innen 1. januar 2008. Virksomhet som er berettiget til vederlagsfrie kvoter for 2008–2012 etter bestemmelsene i <a data-id=\"lov/2004-12-17-99/§7\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A77\">§ 7</a> første ledd må søke om dette innen den samme fristen for å komme i betraktning ved tildelingen av disse kvotene. Søknaden må inneholde de opplysningene som er nødvendige for å vurdere hvor mange kvoter som skal tildeles etter <a data-id=\"lov/2004-12-17-99/§8\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A78\">§ 8</a>. Forurensningsmyndighetene kan i det enkelte tilfellet fastsette hvilke opplysninger eller undersøkelser søkeren må sørge for.",
         "text": "Virksomhet som er kvotepliktig etter denne loven, og som ikke allerede har særskilt utslippstillatelse etter forurensningsloven § 11 annet ledd, må søke om slik tillatelse innenfor en frist fastsatt av Kongen for å få søknaden behandlet innen 1. januar 2008. Virksomhet som er berettiget til vederlagsfrie kvoter for 2008–2012 etter bestemmelsene i § 7 første ledd må søke om dette innen den samme fristen for å komme i betraktning ved tildelingen av disse kvotene. Søknaden må inneholde de opplysningene som er nødvendige for å vurdere hvor mange kvoter som skal tildeles etter § 8. Forurensningsmyndighetene kan i det enkelte tilfellet fastsette hvilke opplysninger eller undersøkelser søkeren må sørge for."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 6 skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§6\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A76\">§ 6</a> skal lyde:",
         "text": "§ 6 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 6. <em class=\" \">(fastsettelse av det samlede antallet kvoter)</em>",
+        "html": "<a data-id=\"lov/2004-12-17-99/§6\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A76\">§ 6</a>. <em class=\" \">(fastsettelse av det samlede antallet kvoter)</em>",
         "text": "§ 6. (fastsettelse av det samlede antallet kvoter)"
     },
     {
@@ -158,19 +158,19 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen kan gi nærmere bestemmelser om organiseringen og gjennomføringen av salg av kvoter omfattet av § 6.",
+        "html": "Kongen kan gi nærmere bestemmelser om organiseringen og gjennomføringen av salg av kvoter omfattet av <a data-id=\"lov/2004-12-17-99/§6\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A76\">§ 6</a>.",
         "text": "Kongen kan gi nærmere bestemmelser om organiseringen og gjennomføringen av salg av kvoter omfattet av § 6."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 7 skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§7\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A77\">§ 7</a> skal lyde:",
         "text": "§ 7 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 7. <em class=\" \">(tildeling av kvoter vederlagsfritt for perioden 2008–2012)</em>",
+        "html": "<a data-id=\"lov/2004-12-17-99/§7\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A77\">§ 7</a>. <em class=\" \">(tildeling av kvoter vederlagsfritt for perioden 2008–2012)</em>",
         "text": "§ 7. (tildeling av kvoter vederlagsfritt for perioden 2008–2012)"
     },
     {
@@ -182,7 +182,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Landbasert virksomhet skal tildeles vederlagsfrie kvoter i henhold til § 8 annet ledd tilsvarende 100 prosent av sine prosessutslipp og tilsvarende 87 prosent av sine energiutslipp. Ved tildelingen kan det tas særlig hensyn til anlegg som reduserer samlede utslipp av klimagasser gjennom å utnytte overskuddsgass fra landbarsert industri som ikke er regulert gjennom kvotesystem eller avgift.",
+        "html": "Landbasert virksomhet skal tildeles vederlagsfrie kvoter i henhold til <a data-id=\"lov/2004-12-17-99/§8\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A78\">§ 8</a> annet ledd tilsvarende 100 prosent av sine prosessutslipp og tilsvarende 87 prosent av sine energiutslipp. Ved tildelingen kan det tas særlig hensyn til anlegg som reduserer samlede utslipp av klimagasser gjennom å utnytte overskuddsgass fra landbarsert industri som ikke er regulert gjennom kvotesystem eller avgift.",
         "text": "Landbasert virksomhet skal tildeles vederlagsfrie kvoter i henhold til § 8 annet ledd tilsvarende 100 prosent av sine prosessutslipp og tilsvarende 87 prosent av sine energiutslipp. Ved tildelingen kan det tas særlig hensyn til anlegg som reduserer samlede utslipp av klimagasser gjennom å utnytte overskuddsgass fra landbarsert industri som ikke er regulert gjennom kvotesystem eller avgift."
     },
     {
@@ -200,13 +200,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 8 skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§8\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A78\">§ 8</a> skal lyde:",
         "text": "§ 8 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 8. <em class=\" \">(tildeling av kvoter vederlagsfritt)</em>",
+        "html": "<a data-id=\"lov/2004-12-17-99/§8\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A78\">§ 8</a>. <em class=\" \">(tildeling av kvoter vederlagsfritt)</em>",
         "text": "§ 8. (tildeling av kvoter vederlagsfritt)"
     },
     {
@@ -218,31 +218,31 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kvoter skal tildeles vederlagsfritt etter § 7 på grunnlag av den kvotepliktiges gjennomsnittlige utslipp i basisårene 1998–2001.",
+        "html": "Kvoter skal tildeles vederlagsfritt etter <a data-id=\"lov/2004-12-17-99/§7\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A77\">§ 7</a> på grunnlag av den kvotepliktiges gjennomsnittlige utslipp i basisårene 1998–2001.",
         "text": "Kvoter skal tildeles vederlagsfritt etter § 7 på grunnlag av den kvotepliktiges gjennomsnittlige utslipp i basisårene 1998–2001."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Tildelingsvedtaket gjøres betinget av at forurensningsmyndighetene ved den årlige utdelingen av kvoter etter § 9 ikke finner at den kvotepliktige virksomheten er nedlagt og at virksomheten har tillatelse etter forurensningsloven § 11.",
+        "html": "Tildelingsvedtaket gjøres betinget av at forurensningsmyndighetene ved den årlige utdelingen av kvoter etter <a data-id=\"lov/2004-12-17-99/§9\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A79\">§ 9</a> ikke finner at den kvotepliktige virksomheten er nedlagt og at virksomheten har tillatelse etter <a data-id=\"lov/1981-03-13-6/§11\" class=\" reference\" href=\"/lov/1981-03-13-6/%C2%A711\">forurensningsloven § 11</a>.",
         "text": "Tildelingsvedtaket gjøres betinget av at forurensningsmyndighetene ved den årlige utdelingen av kvoter etter § 9 ikke finner at den kvotepliktige virksomheten er nedlagt og at virksomheten har tillatelse etter forurensningsloven § 11."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 9 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§9\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A79\">§ 9</a> første ledd skal lyde:",
         "text": "§ 9 første ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forurensningsmyndighetene deler hvert år ut det antallet kvoter den enkelte kvotepliktige er berettiget til etter vedtak i medhold av § 8. Utdelingen av kvoter skjer ved at forurensningsmyndighetene innen 1. mars hvert år underretter Det norske registeret for klimakvoter om at et angitt antall kvoter skal overføres til den kvotepliktiges konto i registeret.",
+        "html": "Forurensningsmyndighetene deler hvert år ut det antallet kvoter den enkelte kvotepliktige er berettiget til etter vedtak i medhold av <a data-id=\"lov/2004-12-17-99/§8\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A78\">§ 8</a>. Utdelingen av kvoter skjer ved at forurensningsmyndighetene innen 1. mars hvert år underretter Det norske registeret for klimakvoter om at et angitt antall kvoter skal overføres til den kvotepliktiges konto i registeret.",
         "text": "Forurensningsmyndighetene deler hvert år ut det antallet kvoter den enkelte kvotepliktige er berettiget til etter vedtak i medhold av § 8. Utdelingen av kvoter skjer ved at forurensningsmyndighetene innen 1. mars hvert år underretter Det norske registeret for klimakvoter om at et angitt antall kvoter skal overføres til den kvotepliktiges konto i registeret."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 10 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§10\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A710\">§ 10</a> første ledd skal lyde:",
         "text": "§ 10 første ledd skal lyde:"
     },
     {
@@ -254,7 +254,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 12 fjerde ledd skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§12\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A712\">§ 12</a> fjerde ledd skal lyde:",
         "text": "§ 12 fjerde ledd skal lyde:"
     },
     {
@@ -266,31 +266,31 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 13 tredje ledd oppheves.",
+        "html": "<a data-id=\"lov/2004-12-17-99/§13\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A713\">§ 13</a> tredje ledd oppheves.",
         "text": "§ 13 tredje ledd oppheves."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 14 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§14\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A714\">§ 14</a> første ledd skal lyde:",
         "text": "§ 14 første ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kongen kan i forskrift gi nærmere bestemmelser om hvilke typer kvoter, andre enn de som er fastsatt etter § 6, som kan godkjennes i oppgjør i forhold til kvoteplikten, og prosedyrene for dette.",
+        "html": "Kongen kan i forskrift gi nærmere bestemmelser om hvilke typer kvoter, andre enn de som er fastsatt etter <a data-id=\"lov/2004-12-17-99/§6\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A76\">§ 6</a>, som kan godkjennes i oppgjør i forhold til kvoteplikten, og prosedyrene for dette.",
         "text": "Kongen kan i forskrift gi nærmere bestemmelser om hvilke typer kvoter, andre enn de som er fastsatt etter § 6, som kan godkjennes i oppgjør i forhold til kvoteplikten, og prosedyrene for dette."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 16 skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§16\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A716\">§ 16</a> skal lyde:",
         "text": "§ 16 skal lyde:"
     },
     {
         "tag": "div",
         "class": "paragraf",
-        "html": "§ 16. <em class=\" \">(rapportering)</em>",
+        "html": "<a data-id=\"lov/2004-12-17-99/§16\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A716\">§ 16</a>. <em class=\" \">(rapportering)</em>",
         "text": "§ 16. (rapportering)"
     },
     {
@@ -308,13 +308,13 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 17 første og annet ledd skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§17\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A717\">§ 17</a> første og annet ledd skal lyde:",
         "text": "§ 17 første og annet ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forurensningsmyndighetene kontrollerer og godkjenner den enkelte kvotepliktiges rapportering av klimagassutslipp etter § 16. Godkjenningen av utslippsrapporten er et enkeltvedtak.",
+        "html": "Forurensningsmyndighetene kontrollerer og godkjenner den enkelte kvotepliktiges rapportering av klimagassutslipp etter <a data-id=\"lov/2004-12-17-99/§16\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A716\">§ 16</a>. Godkjenningen av utslippsrapporten er et enkeltvedtak.",
         "text": "Forurensningsmyndighetene kontrollerer og godkjenner den enkelte kvotepliktiges rapportering av klimagassutslipp etter § 16. Godkjenningen av utslippsrapporten er et enkeltvedtak."
     },
     {
@@ -326,25 +326,25 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 21 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§21\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A721\">§ 21</a> første ledd skal lyde:",
         "text": "§ 21 første ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Dersom den kvotepliktige ikke har overholdt sine forpliktelser etter § 13 første ledd, ilegger forurensningsmyndighetene et overtredelsesgebyr til statskassen. Overtredelsesgebyret skal tilsvare 100 euro på forfallstidspunktet for hvert tonn rapporteringspliktig klimagassutslipp som det ikke er plassert kvoter for på virksomhetens konto i henhold til § 13 første ledd. Gebyret forfaller til betaling 14 dager etter påkrav. Ved forsinket betaling skal det betales renter etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Kongen kan i forskrift endre størrelsen på overtredelsesgebyret.",
+        "html": "Dersom den kvotepliktige ikke har overholdt sine forpliktelser etter <a data-id=\"lov/2004-12-17-99/§13\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A713\">§ 13</a> første ledd, ilegger forurensningsmyndighetene et overtredelsesgebyr til statskassen. Overtredelsesgebyret skal tilsvare 100 euro på forfallstidspunktet for hvert tonn rapporteringspliktig klimagassutslipp som det ikke er plassert kvoter for på virksomhetens konto i henhold til <a data-id=\"lov/2004-12-17-99/§13\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A713\">§ 13</a> første ledd. Gebyret forfaller til betaling 14 dager etter påkrav. Ved forsinket betaling skal det betales renter etter <a data-id=\"lov/1976-12-17-100\" class=\" reference\" href=\"/lov/1976-12-17-100\">lov 17. desember 1976 nr. 100</a> om renter ved forsinket betaling m.m. Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Kongen kan i forskrift endre størrelsen på overtredelsesgebyret.",
         "text": "Dersom den kvotepliktige ikke har overholdt sine forpliktelser etter § 13 første ledd, ilegger forurensningsmyndighetene et overtredelsesgebyr til statskassen. Overtredelsesgebyret skal tilsvare 100 euro på forfallstidspunktet for hvert tonn rapporteringspliktig klimagassutslipp som det ikke er plassert kvoter for på virksomhetens konto i henhold til § 13 første ledd. Gebyret forfaller til betaling 14 dager etter påkrav. Ved forsinket betaling skal det betales renter etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Kongen kan i forskrift endre størrelsen på overtredelsesgebyret."
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 22 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/2004-12-17-99/§22\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A722\">§ 22</a> første ledd skal lyde:",
         "text": "§ 22 første ledd skal lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Med bøter eller fengsel inntil 3 måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrer bestemmelsene om meldeplikt i § 10 og rapporteringsplikt gitt i eller i medhold av § 16 i denne lov.",
+        "html": "Med bøter eller fengsel inntil 3 måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrer bestemmelsene om meldeplikt i <a data-id=\"lov/2004-12-17-99/§10\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A710\">§ 10</a> og rapporteringsplikt gitt i eller i medhold av <a data-id=\"lov/2004-12-17-99/§16\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A716\">§ 16</a> i denne lov.",
         "text": "Med bøter eller fengsel inntil 3 måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrer bestemmelsene om meldeplikt i § 10 og rapporteringsplikt gitt i eller i medhold av § 16 i denne lov."
     },
     {
@@ -356,13 +356,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 13. mars 1981 nr. 6 om vern mot forurensning og om avfall skal § 11 annet ledd første punktum lyde:",
+        "html": "I <a data-id=\"lov/1981-03-13-6\" class=\" reference\" href=\"/lov/1981-03-13-6\">lov 13. mars 1981 nr. 6</a> om vern mot forurensning og om avfall skal <a data-id=\"lov/1981-03-13-6/§11\" class=\" reference\" href=\"/lov/1981-03-13-6/%C2%A711\">§ 11</a> annet ledd første punktum lyde:",
         "text": "I lov 13. mars 1981 nr. 6 om vern mot forurensning og om avfall skal § 11 annet ledd første punktum lyde:"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Kvotepliktig etter klimakvoteloven § 4 skal etter søknad innvilges tillatelse til kvotepliktige utslipp av klimagasser så fremt han godtgjør at han er i stand til å overvåke og rapportere utslippene på en tilfredsstillende måte.",
+        "html": "Kvotepliktig etter <a data-id=\"lov/2004-12-17-99/§4\" class=\" reference\" href=\"/lov/2004-12-17-99/%C2%A74\">klimakvoteloven § 4</a> skal etter søknad innvilges tillatelse til kvotepliktige utslipp av klimagasser så fremt han godtgjør at han er i stand til å overvåke og rapportere utslippene på en tilfredsstillende måte.",
         "text": "Kvotepliktig etter klimakvoteloven § 4 skal etter søknad innvilges tillatelse til kvotepliktige utslipp av klimagasser så fremt han godtgjør at han er i stand til å overvåke og rapportere utslippene på en tilfredsstillende måte."
     },
     {

@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Prop.38 L (2014–2015), Innst.223 L (2014–2015), Lovvedtak 58 (2014–2015). Stortingets første og andre gongs behandling hv. 9. og 28. april 2015. Fremja av Helse- og omsorgsdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-38-l-201415\" class=\" reference\" href=\"/forarbeid/prop-38-l-201415\">Prop.38 L (2014–2015)</a>, <a data-id=\"forarbeid/inns-223-l-201415\" class=\" reference\" href=\"/forarbeid/inns-223-l-201415\">Innst.223 L (2014–2015)</a>, <a data-id=\"forarbeid/lovvedtak-58-201415\" class=\" reference\" href=\"/forarbeid/lovvedtak-58-201415\">Lovvedtak 58 (2014–2015)</a>. Stortingets første og andre gongs behandling hv. 9. og 28. april 2015. Fremja av Helse- og omsorgsdepartementet.",
         "text": "Prop.38 L (2014–2015), Innst.223 L (2014–2015), Lovvedtak 58 (2014–2015). Stortingets første og andre gongs behandling hv. 9. og 28. april 2015. Fremja av Helse- og omsorgsdepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m.",
+        "html": "<a data-id=\"lov/1973-02-09-6\" class=\" reference\" href=\"/lov/1973-02-09-6\">Lov 9. februar 1973 nr. 6</a> om transplantasjon, sykehusobduksjon og avgivelse av lik m.m.",
         "text": "Lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m."
     },
     {
@@ -26,7 +26,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven).",
+        "html": "<a data-id=\"lov/2003-12-05-100\" class=\" reference\" href=\"/lov/2003-12-05-100\">Lov 5. desember 2003 nr. 100</a> om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven).",
         "text": "Lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)."
     },
     {
@@ -35,6 +35,7 @@
         "html": "Kapittel 1 Formål, verkeområde, definisjonar og ansvar",
         "text": "Kapittel 1 Formål, verkeområde, definisjonar og ansvar"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -54,6 +55,7 @@
         "html": "Formålet med lova er å sikre best mogeleg tilgang på organ, celler og vev til behandling av andre menneske, respekt for vilja og integriteten til donor og at omsynet til dei pårørande blir varetatt.",
         "text": "Formålet med lova er å sikre best mogeleg tilgang på organ, celler og vev til behandling av andre menneske, respekt for vilja og integriteten til donor og at omsynet til dei pårørande blir varetatt."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -80,6 +82,7 @@
         "text": "Kongen kan gi forskrift om at lova og forskrifter med heimel i lova heilt eller delvis skal gjelde for Svalbard og Jan Mayen og kan fastsette særlege reglar under omsyn til forholda på staden."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -100,28 +103,29 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttak: prosess der humane organ, celler eller vev blir tatt ut av donor og gjort tilgjengelege for transplantasjon</td>\n</tr>",
-        "text": "a)uttak: prosess der humane organ, celler eller vev blir tatt ut av donor og gjort tilgjengelege for transplantasjon"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttak: prosess der humane organ, celler eller vev blir tatt ut av donor og gjort tilgjengelege for transplantasjon</td>\n</tr>",
+        "text": "a)\tuttak: prosess der humane organ, celler eller vev blir tatt ut av donor og gjort tilgjengelege for transplantasjon"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">donor: person som gir organ, celler eller vev til bruk i behandlinga av eit anna menneske, uavhengig av om avgjevinga skjer mens personen er i live eller etter at personen er død</td>\n</tr>",
-        "text": "b)donor: person som gir organ, celler eller vev til bruk i behandlinga av eit anna menneske, uavhengig av om avgjevinga skjer mens personen er i live eller etter at personen er død"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">donor: person som gir organ, celler eller vev til bruk i behandlinga av eit anna menneske, uavhengig av om avgjevinga skjer mens personen er i live eller etter at personen er død</td>\n</tr>",
+        "text": "b)\tdonor: person som gir organ, celler eller vev til bruk i behandlinga av eit anna menneske, uavhengig av om avgjevinga skjer mens personen er i live eller etter at personen er død"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fornybart vev: humane celler og vev som blir gjendanna etter donasjon med unntak av del av lever eller anna organ</td>\n</tr>",
-        "text": "c)fornybart vev: humane celler og vev som blir gjendanna etter donasjon med unntak av del av lever eller anna organ"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fornybart vev: humane celler og vev som blir gjendanna etter donasjon med unntak av del av lever eller anna organ</td>\n</tr>",
+        "text": "c)\tfornybart vev: humane celler og vev som blir gjendanna etter donasjon med unntak av del av lever eller anna organ"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pårørande og næraste pårørande: pårørande og næraste pårørande etter pasient- og brukerrettighetsloven § 1-3 bokstav b.</td>\n</tr>",
-        "text": "d)pårørande og næraste pårørande: pårørande og næraste pårørande etter pasient- og brukerrettighetsloven § 1-3 bokstav b."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pårørande og næraste pårørande: pårørande og næraste pårørande etter pasient- og <a data-id=\"lov/1999-07-02-63/§1-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A71-3\">brukerrettighetsloven § 1-3</a> bokstav b.</td>\n</tr>",
+        "text": "d)\tpårørande og næraste pårørande: pårørande og næraste pårørande etter pasient- og brukerrettighetsloven § 1-3 bokstav b."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -154,6 +158,7 @@
         "text": "Kapittel 2 Donasjon frå levande donor"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -180,39 +185,39 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">transplantasjon er nødvendig for å redde livet til mottakaren,</td>\n</tr>",
-        "text": "a)transplantasjon er nødvendig for å redde livet til mottakaren,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">transplantasjon er nødvendig for å redde livet til mottakaren,</td>\n</tr>",
+        "text": "a)\ttransplantasjon er nødvendig for å redde livet til mottakaren,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det finst nokon annan aktuell donor,</td>\n</tr>",
-        "text": "b)det finst nokon annan aktuell donor,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det finst nokon annan aktuell donor,</td>\n</tr>",
+        "text": "b)\tdet finst nokon annan aktuell donor,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">donoren har sterk tilknyting til mottakar,</td>\n</tr>",
-        "text": "c)donoren har sterk tilknyting til mottakar,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">donoren har sterk tilknyting til mottakar,</td>\n</tr>",
+        "text": "c)\tdonoren har sterk tilknyting til mottakar,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttaket inneber eit stort inngrep,</td>\n</tr>",
-        "text": "d)uttaket inneber eit stort inngrep,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttaket inneber eit stort inngrep,</td>\n</tr>",
+        "text": "d)\tuttaket inneber eit stort inngrep,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttaket berre gjeld fornybart vev, jf. § 3 bokstav c, og om</td>\n</tr>",
-        "text": "e)uttaket berre gjeld fornybart vev, jf. § 3 bokstav c, og om"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttaket berre gjeld fornybart vev, jf. <a data-id=\"lov/2015-05-07-25/§3\" class=\" reference\" href=\"/lov/2015-05-07-25/%C2%A73\">§ 3</a> bokstav c, og om</td>\n</tr>",
+        "text": "e)\tuttaket berre gjeld fornybart vev, jf. § 3 bokstav c, og om"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">donoren er moden nok til å skjønne kva inngrepet inneber.</td>\n</tr>",
-        "text": "f)donoren er moden nok til å skjønne kva inngrepet inneber."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">donoren er moden nok til å skjønne kva inngrepet inneber.</td>\n</tr>",
+        "text": "f)\tdonoren er moden nok til å skjønne kva inngrepet inneber."
     },
     {
         "tag": "p",
@@ -222,27 +227,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttaket gjeld fornybart vev, jf. § 3 bokstav c,</td>\n</tr>",
-        "text": "a)uttaket gjeld fornybart vev, jf. § 3 bokstav c,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uttaket gjeld fornybart vev, jf. <a data-id=\"lov/2015-05-07-25/§3\" class=\" reference\" href=\"/lov/2015-05-07-25/%C2%A73\">§ 3</a> bokstav c,</td>\n</tr>",
+        "text": "a)\tuttaket gjeld fornybart vev, jf. § 3 bokstav c,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">donasjonen er nødvendig for å redde livet til mottakaren,</td>\n</tr>",
-        "text": "b)donasjonen er nødvendig for å redde livet til mottakaren,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">donasjonen er nødvendig for å redde livet til mottakaren,</td>\n</tr>",
+        "text": "b)\tdonasjonen er nødvendig for å redde livet til mottakaren,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det ikkje finst ein donor med samtykkekompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), og</td>\n</tr>",
-        "text": "c)det ikkje finst ein donor med samtykkekompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det ikkje finst ein donor med samtykkekompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), og</td>\n</tr>",
+        "text": "c)\tdet ikkje finst ein donor med samtykkekompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren.</td>\n</tr>",
-        "text": "d)mottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren.</td>\n</tr>",
+        "text": "d)\tmottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren."
     },
     {
         "tag": "p",
@@ -250,6 +255,7 @@
         "html": "Uttak kan aldri gjennomførast i strid med viljen til ein donor som ikkje har samtykkekompetanse.",
         "text": "Uttak kan aldri gjennomførast i strid med viljen til ein donor som ikkje har samtykkekompetanse."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -282,6 +288,7 @@
         "text": "Departementet kan gi forskrift om krav til samtykket."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -297,7 +304,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Personar som har fylt 18 år, har rett til å samtykke til donasjon. Pasient- og brukerrettighetsloven § 4-3 andre til fjerde ledd om heilt eller delvis bortfall av samtykkekompetanse gjeld tilsvarande.",
+        "html": "Personar som har fylt 18 år, har rett til å samtykke til donasjon. Pasient- og <a data-id=\"lov/1999-07-02-63/§4-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-3\">brukerrettighetsloven § 4-3</a> andre til fjerde ledd om heilt eller delvis bortfall av samtykkekompetanse gjeld tilsvarande.",
         "text": "Personar som har fylt 18 år, har rett til å samtykke til donasjon. Pasient- og brukerrettighetsloven § 4-3 andre til fjerde ledd om heilt eller delvis bortfall av samtykkekompetanse gjeld tilsvarande."
     },
     {
@@ -309,13 +316,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For personar som har mista samtykkekompetansen etter pasient- og brukerrettighetsloven § 4-3 andre ledd, har næraste pårørande, jf. § 3 bokstav d, rett til å samtykke til donasjon.",
+        "html": "For personar som har mista samtykkekompetansen etter pasient- og <a data-id=\"lov/1999-07-02-63/§4-3\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-3\">brukerrettighetsloven § 4-3</a> andre ledd, har næraste pårørande, jf. § 3 bokstav d, rett til å samtykke til donasjon.",
         "text": "For personar som har mista samtykkekompetansen etter pasient- og brukerrettighetsloven § 4-3 andre ledd, har næraste pårørande, jf. § 3 bokstav d, rett til å samtykke til donasjon."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "For personar som er fråtatt den rettslege handleevna etter vergemålsloven § 22 tredje ledd, gjeld pasient- og brukerrettighetsloven § 4-7 tilsvarande.",
+        "html": "For personar som er fråtatt den rettslege handleevna etter <a data-id=\"lov/2010-03-26-9/§22\" class=\" reference\" href=\"/lov/2010-03-26-9/%C2%A722\">vergemålsloven § 22</a> tredje ledd, gjeld pasient- og <a data-id=\"lov/1999-07-02-63/§4-7\" class=\" reference\" href=\"/lov/1999-07-02-63/%C2%A74-7\">brukerrettighetsloven § 4-7</a> tilsvarande.",
         "text": "For personar som er fråtatt den rettslege handleevna etter vergemålsloven § 22 tredje ledd, gjeld pasient- og brukerrettighetsloven § 4-7 tilsvarande."
     },
     {
@@ -330,6 +337,7 @@
         "html": "For at samtykket skal vere gyldig, må donoren og den som har samtykkekompetansen ha fått informasjon om helsetilstanden til donoren og om inngrepet, under dette om omfanget og konsekvensane av det. Informasjonen skal vere tilpassa dei individuelle føresetnadene til mottakaren, som alder, kor moden donoren er, erfaring og kultur- og språkbakgrunn. Den som gir informasjonen skal forsikre seg om at donoren og den som har rett til å samtykke har forstått informasjonen.",
         "text": "For at samtykket skal vere gyldig, må donoren og den som har samtykkekompetansen ha fått informasjon om helsetilstanden til donoren og om inngrepet, under dette om omfanget og konsekvensane av det. Informasjonen skal vere tilpassa dei individuelle føresetnadene til mottakaren, som alder, kor moden donoren er, erfaring og kultur- og språkbakgrunn. Den som gir informasjonen skal forsikre seg om at donoren og den som har rett til å samtykke har forstått informasjonen."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -349,6 +357,7 @@
         "html": "Den som har ansvaret for behandlinga av ein pasient som treng å få transplantert organ, celler eller vev, kan ikkje aleine gjennomføre vurderinga av om donoren er eigna.",
         "text": "Den som har ansvaret for behandlinga av ein pasient som treng å få transplantert organ, celler eller vev, kan ikkje aleine gjennomføre vurderinga av om donoren er eigna."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -387,6 +396,7 @@
         "text": "Kapittel 3 Donasjon frå død donor"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -402,7 +412,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Uttak, jf. § 3 bokstav a, frå ein død donor kan ikkje skje før døden er stadfesta av lege.",
+        "html": "Uttak, jf. <a data-id=\"lov/2015-05-07-25/§3\" class=\" reference\" href=\"/lov/2015-05-07-25/%C2%A73\">§ 3</a> bokstav a, frå ein død donor kan ikkje skje før døden er stadfesta av lege.",
         "text": "Uttak, jf. § 3 bokstav a, frå ein død donor kan ikkje skje før døden er stadfesta av lege."
     },
     {
@@ -424,6 +434,7 @@
         "text": "Departementet kan gi forskrift om stadfesting av døden."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -443,6 +454,7 @@
         "text": "Når døden er konstatert, eller når det er svært sannsynleg at døden vil inntreffe innan kort tid og vidare livreddande behandling er formålslaus, skal det vurderast om pasienten kan vere aktuell som donor."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -458,7 +470,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når livreddande behandling er formålslaus, og det er svært sannsynleg at pasienten vil døy innan kort tid, kan legen som er ansvarleg for behandlinga av pasienten, ta avgjerd om at det skal gjevast behandling med sikte på donasjon. Behandling etter første punktum kan ikkje gjevast dersom ein av dei næraste pårørande, jf. § 3 bokstav d, nektar.",
+        "html": "Når livreddande behandling er formålslaus, og det er svært sannsynleg at pasienten vil døy innan kort tid, kan legen som er ansvarleg for behandlinga av pasienten, ta avgjerd om at det skal gjevast behandling med sikte på donasjon. Behandling etter første punktum kan ikkje gjevast dersom ein av dei næraste pårørande, jf. <a data-id=\"lov/2015-05-07-25/§3\" class=\" reference\" href=\"/lov/2015-05-07-25/%C2%A73\">§ 3</a> bokstav d, nektar.",
         "text": "Når livreddande behandling er formålslaus, og det er svært sannsynleg at pasienten vil døy innan kort tid, kan legen som er ansvarleg for behandlinga av pasienten, ta avgjerd om at det skal gjevast behandling med sikte på donasjon. Behandling etter første punktum kan ikkje gjevast dersom ein av dei næraste pårørande, jf. § 3 bokstav d, nektar."
     },
     {
@@ -473,6 +485,7 @@
         "html": "Departementet kan gi forskrift om behandling med sikte på donasjon.",
         "text": "Departementet kan gi forskrift om behandling med sikte på donasjon."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -495,7 +508,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Når den døde ikkje har gitt eit samtykke, kan donasjon gjennomførast dersom det ikkje ligg føre forhold som tilseier at den døde ville ha motsett seg. Dei pårørande til den døde skal spørjast om det ligg føre slike forhold. Donasjon kan likevel ikkje gjennomførast dersom ein av dei næraste pårørande til den døde, jf. § 3 bokstav d, nektar. Donasjon kan heller ikkje gjennomførast dersom det ikkje er mogeleg å få kontakt med dei pårørande eller når avdøde ikkje har pårørande.",
+        "html": "Når den døde ikkje har gitt eit samtykke, kan donasjon gjennomførast dersom det ikkje ligg føre forhold som tilseier at den døde ville ha motsett seg. Dei pårørande til den døde skal spørjast om det ligg føre slike forhold. Donasjon kan likevel ikkje gjennomførast dersom ein av dei næraste pårørande til den døde, jf. <a data-id=\"lov/2015-05-07-25/§3\" class=\" reference\" href=\"/lov/2015-05-07-25/%C2%A73\">§ 3</a> bokstav d, nektar. Donasjon kan heller ikkje gjennomførast dersom det ikkje er mogeleg å få kontakt med dei pårørande eller når avdøde ikkje har pårørande.",
         "text": "Når den døde ikkje har gitt eit samtykke, kan donasjon gjennomførast dersom det ikkje ligg føre forhold som tilseier at den døde ville ha motsett seg. Dei pårørande til den døde skal spørjast om det ligg føre slike forhold. Donasjon kan likevel ikkje gjennomførast dersom ein av dei næraste pårørande til den døde, jf. § 3 bokstav d, nektar. Donasjon kan heller ikkje gjennomførast dersom det ikkje er mogeleg å få kontakt med dei pårørande eller når avdøde ikkje har pårørande."
     },
     {
@@ -504,6 +517,7 @@
         "html": "For personar som ikkje har fylt 16 år, har foreldra, eller andre med foreldreansvaret etter barnelova, rett til å samtykke til donasjon etter at dei er døde. Donasjon kan ikkje finne stad dersom foreldra er usamde. Dersom ingen har foreldreansvaret, har verja, eller næraste pårørande til den døde dersom det ikkje er oppnemnd verje, rett til å samtykke til donasjon.",
         "text": "For personar som ikkje har fylt 16 år, har foreldra, eller andre med foreldreansvaret etter barnelova, rett til å samtykke til donasjon etter at dei er døde. Donasjon kan ikkje finne stad dersom foreldra er usamde. Dersom ingen har foreldreansvaret, har verja, eller næraste pårørande til den døde dersom det ikkje er oppnemnd verje, rett til å samtykke til donasjon."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -520,7 +534,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Næraste pårørande til den døde skal underrettast om dødsfallet, det planlagde uttaket, jf. § 3 bokstav a, og om retten til å nekte donasjon før donasjonen blir gjennomført.",
+        "html": "Næraste pårørande til den døde skal underrettast om dødsfallet, det planlagde uttaket, jf. <a data-id=\"lov/2015-05-07-25/§3\" class=\" reference\" href=\"/lov/2015-05-07-25/%C2%A73\">§ 3</a> bokstav a, og om retten til å nekte donasjon før donasjonen blir gjennomført.",
         "text": "Næraste pårørande til den døde skal underrettast om dødsfallet, det planlagde uttaket, jf. § 3 bokstav a, og om retten til å nekte donasjon før donasjonen blir gjennomført."
     },
     {
@@ -529,6 +543,7 @@
         "html": "Næraste pårørande skal få tilpassa informasjon om kva donasjonen inneber.",
         "text": "Næraste pårørande skal få tilpassa informasjon om kva donasjonen inneber."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -545,7 +560,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Pårørande skal, så sant det lar seg gjere, få tid til å ta avskjed med donor før uttaket, jf. § 3 bokstav a, startar.",
+        "html": "Pårørande skal, så sant det lar seg gjere, få tid til å ta avskjed med donor før uttaket, jf. <a data-id=\"lov/2015-05-07-25/§3\" class=\" reference\" href=\"/lov/2015-05-07-25/%C2%A73\">§ 3</a> bokstav a, startar.",
         "text": "Pårørande skal, så sant det lar seg gjere, få tid til å ta avskjed med donor før uttaket, jf. § 3 bokstav a, startar."
     },
     {
@@ -554,6 +569,7 @@
         "html": "Kapittel 4 Fellesreglar",
         "text": "Kapittel 4 Fellesreglar"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -573,6 +589,7 @@
         "html": "Tildeling av organ, celler og vev til transplantasjon skal byggje på medisinske kriterium. Ved donasjon frå levande donor kan det i tillegg leggjast vekt på at mottakar er donors nærståande.",
         "text": "Tildeling av organ, celler og vev til transplantasjon skal byggje på medisinske kriterium. Ved donasjon frå levande donor kan det i tillegg leggjast vekt på at mottakar er donors nærståande."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -599,6 +616,7 @@
         "text": "Departementet kan gi forskrift om korleis anonymiteten skal varetakast."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -617,6 +635,7 @@
         "html": "Alle utgifter og tap av inntekter som ein levande donor eller næraste pårørande til ein død donor pådrar seg som følje av donasjonen, skal kompenserast av det regionale helseføretaket. Dette gjeld likevel ikkje dersom utgiftene blir dekt etter anna regelverk.",
         "text": "Alle utgifter og tap av inntekter som ein levande donor eller næraste pårørande til ein død donor pådrar seg som følje av donasjonen, skal kompenserast av det regionale helseføretaket. Dette gjeld likevel ikkje dersom utgiftene blir dekt etter anna regelverk."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -637,6 +656,7 @@
         "text": "Det er forbode å transplantere levande biologisk materiale frå dyr til menneske."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -656,6 +676,7 @@
         "text": "Alle handlingar som har til hensikt å oppnå økonomisk vinning som følgje av donasjon av organ, celler eller vev til transplantasjon, er forbode. Det same gjeld alle handlingar som medverkar til at nokon mottek slik økonomisk vinning."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
@@ -671,9 +692,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Framtidsfullmakter etter vergemålsloven kapittel 10 kan omfatte samtykke til og rett til å nekte donasjon av organ, celler og vev.",
+        "html": "Framtidsfullmakter etter <a data-id=\"lov/2010-03-26-9/kap10\" class=\" reference\" href=\"/lov/2010-03-26-9/kap10\">vergemålsloven kapittel 10</a> kan omfatte samtykke til og rett til å nekte donasjon av organ, celler og vev.",
         "text": "Framtidsfullmakter etter vergemålsloven kapittel 10 kan omfatte samtykke til og rett til å nekte donasjon av organ, celler og vev."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -690,9 +712,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Forvaltningsloven kapittel IV, V, VI og VIII gjeld ikkje for avgjerder som blir treft etter lova her. For avgjerder etter §§ 9 og 18 gjeld pasient- og brukerettighetsloven kapittel 7.",
+        "html": "<a data-id=\"lov/1967-02-10/kapiv\" class=\" reference\" href=\"/lov/1967-02-10/kapiv\">Forvaltningsloven kapittel IV</a>, V, VI og VIII gjeld ikkje for avgjerder som blir treft etter lova her. For avgjerder etter <a data-id=\"lov/2015-05-07-25/§9\" class=\" reference\" href=\"/lov/2015-05-07-25/%C2%A79\">§§ 9</a> og 18 gjeld pasient- og brukerettighetsloven kapittel 7.",
         "text": "Forvaltningsloven kapittel IV, V, VI og VIII gjeld ikkje for avgjerder som blir treft etter lova her. For avgjerder etter §§ 9 og 18 gjeld pasient- og brukerettighetsloven kapittel 7."
     },
+    null,
     null,
     {
         "tag": "span",
@@ -709,7 +732,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Spesialisthelsetjenesteloven §§ 7-1 og 7-2 gjeld tilsvarande ved brot på lova her og forskrifter gitt etter lova.",
+        "html": "<a data-id=\"lov/1999-07-02-61/§7-1\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A77-1\">Spesialisthelsetjenesteloven §§ 7-1</a> og <a data-id=\"lov/1999-07-02-61/§7-2\" class=\" reference\" href=\"/lov/1999-07-02-61/%C2%A77-2\">7-2</a> gjeld tilsvarande ved brot på lova her og forskrifter gitt etter lova.",
         "text": "Spesialisthelsetjenesteloven §§ 7-1 og 7-2 gjeld tilsvarande ved brot på lova her og forskrifter gitt etter lova."
     },
     {
@@ -730,6 +753,7 @@
         "html": "Kapittel 5 Sluttføresegner",
         "text": "Kapittel 5 Sluttføresegner"
     },
+    null,
     null,
     {
         "tag": "span",
@@ -752,7 +776,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. skal nytt kapittel 4A lyde:",
+        "html": "I <a data-id=\"lov/2003-12-05-100\" class=\" reference\" href=\"/lov/2003-12-05-100\">lov 5. desember 2003 nr. 100</a> om humanmedisinsk bruk av bioteknologi m.m. skal nytt <a data-id=\"lov/2003-12-05-100/kap4a\" class=\" reference\" href=\"/lov/2003-12-05-100/kap4a\">kapittel 4A</a> lyde:",
         "text": "I lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. skal nytt kapittel 4A lyde:"
     },
     {
@@ -762,17 +786,18 @@
         "text": "Kapittel 4A Bruk av fostervev"
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
-        "html": "§ 4A-1  .",
-        "text": "§ 4A-1 ."
+        "html": "",
+        "text": ""
     },
     {
         "tag": "span",
         "class": "paragrafTittel",
-        "html": "§ 4A-1. <em class=\" \">Definisjon</em>",
-        "text": "§ 4A-1. Definisjon"
+        "html": " <a data-id=\"lov/2003-12-05-100/§4a-1\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74a-1\">§ 4A-1</a>. <em class=\" \">Definisjon</em>",
+        "text": " § 4A-1. Definisjon"
     },
     {
         "tag": "p",
@@ -781,16 +806,17 @@
         "text": "Med fostervev forstås i denne lov celler og vev fra provosertaborterte fostre."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
         "html": "§ 4A-2  .",
-        "text": "§ 4A-2 ."
+        "text": "§ 4A-2  ."
     },
     {
         "tag": "span",
         "class": "paragrafTittel",
-        "html": "§ 4A-2. <em class=\" \">Bruk av fostervev</em>",
+        "html": "<a data-id=\"lov/2003-12-05-100/§4a-2\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74a-2\">§ 4A-2</a>. <em class=\" \">Bruk av fostervev</em>",
         "text": "§ 4A-2. Bruk av fostervev"
     },
     {
@@ -818,16 +844,17 @@
         "text": "Kommersiell utnytting av celler og vev fra aborterte fostre er forbudt."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
         "html": "§ 4A-3  .",
-        "text": "§ 4A-3 ."
+        "text": "§ 4A-3  ."
     },
     {
         "tag": "span",
         "class": "paragrafTittel",
-        "html": "§ 4A-3. <em class=\" \">Godkjenning</em>",
+        "html": "<a data-id=\"lov/2003-12-05-100/§4a-3\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74a-3\">§ 4A-3</a>. <em class=\" \">Godkjenning</em>",
         "text": "§ 4A-3. Godkjenning"
     },
     {
@@ -837,16 +864,17 @@
         "text": "Bruk av fostervev til behandling og forskning skal godkjennes av departementet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
         "html": "§ 4A-4  .",
-        "text": "§ 4A-4 ."
+        "text": "§ 4A-4  ."
     },
     {
         "tag": "span",
         "class": "paragrafTittel",
-        "html": "§ 4A-4. <em class=\" \">Samtykke</em>",
+        "html": "<a data-id=\"lov/2003-12-05-100/§4a-4\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74a-4\">§ 4A-4</a>. <em class=\" \">Samtykke</em>",
         "text": "§ 4A-4. Samtykke"
     },
     {
@@ -862,16 +890,17 @@
         "text": "Først etter at beslutningen om svangerskapsavbrudd er tatt, kan kvinnen informeres om mulig bruk av fostervevet. Samtykke kan bare gyldig avgis etter at slik informasjon er gitt."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
         "html": "§ 4A-5  .",
-        "text": "§ 4A-5 ."
+        "text": "§ 4A-5  ."
     },
     {
         "tag": "span",
         "class": "paragrafTittel",
-        "html": "§ 4A-5. <em class=\" \">Fostervevsbank</em>",
+        "html": "<a data-id=\"lov/2003-12-05-100/§4a-5\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74a-5\">§ 4A-5</a>. <em class=\" \">Fostervevsbank</em>",
         "text": "§ 4A-5. Fostervevsbank"
     },
     {
@@ -887,17 +916,18 @@
         "text": "Departementet kan i forskrift gi utfyllende regler om fostervevsbankers innsamling, lagring og utlevering av fostervev."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
-        "html": "§ 4A-6  .",
-        "text": "§ 4A-6 ."
+        "html": "",
+        "text": ""
     },
     {
         "tag": "span",
         "class": "paragrafTittel",
-        "html": "§ 4A-6. <em class=\" \">Anonymitet</em>",
-        "text": "§ 4A-6. Anonymitet"
+        "html": " <a data-id=\"lov/2003-12-05-100/§4a-6\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74a-6\">§ 4A-6</a>. <em class=\" \">Anonymitet</em>",
+        "text": " § 4A-6. Anonymitet"
     },
     {
         "tag": "p",
@@ -912,17 +942,18 @@
         "text": "Den som mottar fostervev skal ikke gis opplysninger om identiteten til kvinnen som har avgitt fostervevet."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
-        "html": "§ 4A-7  .",
-        "text": "§ 4A-7 ."
+        "html": "<a data-id=\"lov/2003-12-05-100/§4a-7\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74a-7\"></a>§",
+        "text": "§"
     },
     {
         "tag": "span",
         "class": "paragrafTittel",
-        "html": "§ 4A-7. <em class=\" \">Informasjon</em>",
-        "text": "§ 4A-7. Informasjon"
+        "html": " 4A-7. <em>Informasjon</em>",
+        "text": " 4A-7. Informasjon"
     },
     {
         "tag": "p",
@@ -931,17 +962,18 @@
         "text": "Enhver som mottar fostervev ved transplantasjon skal informeres om at vevet stammer fra provosertaborterte fostre."
     },
     null,
+    null,
     {
         "tag": "span",
         "class": "paragrafValue",
-        "html": "§ 4A-8  .",
-        "text": "§ 4A-8 ."
+        "html": "",
+        "text": ""
     },
     {
         "tag": "span",
         "class": "paragrafTittel",
-        "html": "§ 4A-8. <em class=\" \">Reservasjonsrett</em>",
-        "text": "§ 4A-8. Reservasjonsrett"
+        "html": " <a data-id=\"lov/2003-12-05-100/§4a-8\" class=\" reference\" href=\"/lov/2003-12-05-100/%C2%A74a-8\">§ 4A-8</a>. <em class=\" \">Reservasjonsrett</em>",
+        "text": " § 4A-8. Reservasjonsrett"
     },
     {
         "tag": "p",
@@ -952,9 +984,10 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. opphevast.",
+        "html": "<a data-id=\"lov/1973-02-09-6\" class=\" reference\" href=\"/lov/1973-02-09-6\">Lov 9. februar 1973 nr. 6</a> om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. opphevast.",
         "text": "Lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. opphevast."
     },
+    null,
     null,
     {
         "tag": "span",

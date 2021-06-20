@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.98 (2002–2003), Innst.O.nr.18 (2003–2004) og Besl.O.nr.12 (2003–2004). Odels- og lagtingsvedtak hhv. 20. og 27. november 2003. Fremmet av Justis- og politidepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-98-200203\" class=\" reference\" href=\"/forarbeid/otprp-98-200203\">Ot.prp.nr.98 (2002–2003)</a>, <a data-id=\"forarbeid/inns-o-18-200304\" class=\" reference\" href=\"/forarbeid/inns-o-18-200304\">Innst.O.nr.18 (2003–2004)</a> og <a data-id=\"forarbeid/besl-o-12-200304\" class=\" reference\" href=\"/forarbeid/besl-o-12-200304\">Besl.O.nr.12 (2003–2004)</a>. Odels- og lagtingsvedtak hhv. 20. og 27. november 2003. Fremmet av Justis- og politidepartementet.",
         "text": "Ot.prp.nr.98 (2002–2003), Innst.O.nr.18 (2003–2004) og Besl.O.nr.12 (2003–2004). Odels- og lagtingsvedtak hhv. 20. og 27. november 2003. Fremmet av Justis- og politidepartementet."
     },
     {
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I straffeprosessloven 22. mai 1981 nr. 25 gjøres disse endringene:",
+        "html": "I <a data-id=\"lov/1981-05-22-25\" class=\" reference\" href=\"/lov/1981-05-22-25\">straffeprosessloven 22. mai 1981 nr. 25</a> gjøres disse endringene:",
         "text": "I straffeprosessloven 22. mai 1981 nr. 25 gjøres disse endringene:"
     },
     {
@@ -43,27 +43,27 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forseelser,</td>\n</tr>",
-        "text": "a)forseelser,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forseelser,</td>\n</tr>",
+        "text": "a)\tforseelser,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbrytelser som etter loven ikke kan medføre straff av fengsel i mer enn ett år, med unntak av saker etter straffeloven kapittel 12 og §§ 176 annet ledd, 198 og 237,</td>\n</tr>",
-        "text": "b)forbrytelser som etter loven ikke kan medføre straff av fengsel i mer enn ett år, med unntak av saker etter straffeloven kapittel 12 og §§ 176 annet ledd, 198 og 237,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbrytelser som etter loven ikke kan medføre straff av fengsel i mer enn ett år, med unntak av saker etter <a data-id=\"lov/2005-05-20-28/kap12\" class=\" reference\" href=\"/lov/2005-05-20-28/kap12\">straffeloven kapittel 12</a> og <a data-id=\"lov/2005-05-20-28/§176\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7176\">§§ 176</a> annet ledd, 198 og 237,</td>\n</tr>",
+        "text": "b)\tforbrytelser som etter loven ikke kan medføre straff av fengsel i mer enn ett år, med unntak av saker etter straffeloven kapittel 12 og §§ 176 annet ledd, 198 og 237,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbrytelse mot straffeloven §§ 147 annet ledd annet punktum, jf. tredje ledd, 162 første ledd, jf. fjerde og femte ledd, 162 b første ledd, jf. tredje og fjerde ledd, 182 til 190, 227 første ledd første punktum, 228 annet ledd første straffalternativ, jf. 232, 229 første straffalternativ, jf. 232, 255, 257, 258, 260, 270, 271, 271 a, 286, jf. 288, 292 og 317 første, tredje og femte ledd, og</td>\n</tr>",
-        "text": "c)forbrytelse mot straffeloven §§ 147 annet ledd annet punktum, jf. tredje ledd, 162 første ledd, jf. fjerde og femte ledd, 162 b første ledd, jf. tredje og fjerde ledd, 182 til 190, 227 første ledd første punktum, 228 annet ledd første straffalternativ, jf. 232, 229 første straffalternativ, jf. 232, 255, 257, 258, 260, 270, 271, 271 a, 286, jf. 288, 292 og 317 første, tredje og femte ledd, og"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbrytelse mot straffeloven §§ 147 annet ledd annet punktum, jf. tredje ledd, 162 første ledd, jf. fjerde og femte ledd, 162 b første ledd, jf. tredje og fjerde ledd, 182 til 190, 227 første ledd første punktum, 228 annet ledd første straffalternativ, jf. 232, 229 første straffalternativ, jf. 232, 255, 257, 258, 260, 270, 271, 271 a, 286, jf. 288, 292 og 317 første, tredje og femte ledd, og</td>\n</tr>",
+        "text": "c)\tforbrytelse mot straffeloven §§ 147 annet ledd annet punktum, jf. tredje ledd, 162 første ledd, jf. fjerde og femte ledd, 162 b første ledd, jf. tredje og fjerde ledd, 182 til 190, 227 første ledd første punktum, 228 annet ledd første straffalternativ, jf. 232, 229 første straffalternativ, jf. 232, 255, 257, 258, 260, 270, 271, 271 a, 286, jf. 288, 292 og 317 første, tredje og femte ledd, og"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbrytelse mot militær straffelov § 34 annet ledd annet straffalternativ, jf. tredje ledd, tolloven § 66, merverdiavgiftsloven § 72, ligningsloven § 12-1, utlendingsloven § 47 annet ledd, jf. femte ledd og regnskapsloven § 8-5 første ledd første og tredje punktum, jf. tredje ledd første punktum.</td>\n</tr>",
-        "text": "d)forbrytelse mot militær straffelov § 34 annet ledd annet straffalternativ, jf. tredje ledd, tolloven § 66, merverdiavgiftsloven § 72, ligningsloven § 12-1, utlendingsloven § 47 annet ledd, jf. femte ledd og regnskapsloven § 8-5 første ledd første og tredje punktum, jf. tredje ledd første punktum."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbrytelse mot militær straffelov § 34 annet ledd annet straffalternativ, jf. tredje ledd, tolloven § 66, merverdiavgiftsloven § 72, ligningsloven § 12-1, <a data-id=\"lov/2008-05-15-35/§47\" class=\" reference\" href=\"/lov/2008-05-15-35/%C2%A747\">utlendingsloven § 47</a> annet ledd, jf. femte ledd og <a data-id=\"lov/1998-07-17-56/§8-5\" class=\" reference\" href=\"/lov/1998-07-17-56/%C2%A78-5\">regnskapsloven § 8-5</a> første ledd første og tredje punktum, jf. tredje ledd første punktum.</td>\n</tr>",
+        "text": "d)\tforbrytelse mot militær straffelov § 34 annet ledd annet straffalternativ, jf. tredje ledd, tolloven § 66, merverdiavgiftsloven § 72, ligningsloven § 12-1, utlendingsloven § 47 annet ledd, jf. femte ledd og regnskapsloven § 8-5 første ledd første og tredje punktum, jf. tredje ledd første punktum."
     },
     {
         "tag": "p",
@@ -91,15 +91,15 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">riksadvokaten treffer vedtak om anke i saker som nevnt i § 64 første ledd,</td>\n</tr>",
-        "text": "a)riksadvokaten treffer vedtak om anke i saker som nevnt i § 64 første ledd,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">riksadvokaten treffer vedtak om anke i saker som nevnt i § 64 første ledd,</td>\n</tr>",
+        "text": "a)\triksadvokaten treffer vedtak om anke i saker som nevnt i § 64 første ledd,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">statsadvokaten treffer vedtak om anke i saker der politiet har tatt ut tiltale etter § 67 annet ledd bokstav c eller d, og i så fall også for forhold i saken der politiet har tatt ut tiltale etter § 67 annet ledd bokstav a eller b. Politiet kan likevel vedta dommen.</td>\n</tr>",
-        "text": "b)statsadvokaten treffer vedtak om anke i saker der politiet har tatt ut tiltale etter § 67 annet ledd bokstav c eller d, og i så fall også for forhold i saken der politiet har tatt ut tiltale etter § 67 annet ledd bokstav a eller b. Politiet kan likevel vedta dommen."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">statsadvokaten treffer vedtak om anke i saker der politiet har tatt ut tiltale etter § 67 annet ledd bokstav c eller d, og i så fall også for forhold i saken der politiet har tatt ut tiltale etter § 67 annet ledd bokstav a eller b. Politiet kan likevel vedta dommen.</td>\n</tr>",
+        "text": "b)\tstatsadvokaten treffer vedtak om anke i saker der politiet har tatt ut tiltale etter § 67 annet ledd bokstav c eller d, og i så fall også for forhold i saken der politiet har tatt ut tiltale etter § 67 annet ledd bokstav a eller b. Politiet kan likevel vedta dommen."
     },
     {
         "tag": "p",

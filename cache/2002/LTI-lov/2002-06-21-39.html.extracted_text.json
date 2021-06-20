@@ -2,8 +2,8 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.78 (2001–2002), Innst.O.nr.63 (2001–2002) og Besl.O.nr.71 (2001–2002). Odels- og lagtingsvedtak hhv. 11. og 17. juni  2002. Fremmet av Samferdselsdepartementet.",
-        "text": "Ot.prp.nr.78 (2001–2002), Innst.O.nr.63 (2001–2002) og Besl.O.nr.71 (2001–2002). Odels- og lagtingsvedtak hhv. 11. og 17. juni 2002. Fremmet av Samferdselsdepartementet."
+        "html": "<a data-id=\"forarbeid/otprp-78-200102\" class=\" reference\" href=\"/forarbeid/otprp-78-200102\">Ot.prp.nr.78 (2001–2002)</a>, <a data-id=\"forarbeid/inns-o-63-200102\" class=\" reference\" href=\"/forarbeid/inns-o-63-200102\">Innst.O.nr.63 (2001–2002)</a> og <a data-id=\"forarbeid/besl-o-71-200102\" class=\" reference\" href=\"/forarbeid/besl-o-71-200102\">Besl.O.nr.71 (2001–2002)</a>. Odels- og lagtingsvedtak hhv. 11. og 17. juni  2002. Fremmet av Samferdselsdepartementet.",
+        "text": "Ot.prp.nr.78 (2001–2002), Innst.O.nr.63 (2001–2002) og Besl.O.nr.71 (2001–2002). Odels- og lagtingsvedtak hhv. 11. og 17. juni  2002. Fremmet av Samferdselsdepartementet."
     },
     {
         "tag": "h2",
@@ -14,7 +14,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I veglov 21. juni 1963 nr. 23 gjøres følgende endringer:",
+        "html": "I veglov <a data-id=\"lov/1963-06-21-23\" class=\" reference\" href=\"/lov/1963-06-21-23\">21. juni 1963 nr. 23</a> gjøres følgende endringer:",
         "text": "I veglov 21. juni 1963 nr. 23 gjøres følgende endringer:"
     },
     {
@@ -62,7 +62,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I vegtrafikklov 18. juni 1965 nr. 4 gjøres følgende endringer:",
+        "html": "I vegtrafikklov <a data-id=\"lov/1965-06-18-4\" class=\" reference\" href=\"/lov/1965-06-18-4\">18. juni 1965 nr. 4</a> gjøres følgende endringer:",
         "text": "I vegtrafikklov 18. juni 1965 nr. 4 gjøres følgende endringer:"
     },
     {
@@ -134,13 +134,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 23. februar 1973 nr. 11 om godkjenning av køyretøyverkstader gjøres følgende endring:",
+        "html": "I <a data-id=\"lov/1973-02-23-11\" class=\" reference\" href=\"/lov/1973-02-23-11\">lov 23. februar 1973 nr. 11</a> om godkjenning av køyretøyverkstader gjøres følgende endring:",
         "text": "I lov 23. februar 1973 nr. 11 om godkjenning av køyretøyverkstader gjøres følgende endring:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 1 første ledd skal lyde:",
+        "html": "<a data-id=\"lov/1973-02-23-11/§1\" class=\" reference\" href=\"/lov/1973-02-23-11/%C2%A71\">§ 1</a> første ledd skal lyde:",
         "text": "§ 1 første ledd skal lyde:"
     },
     {
@@ -151,33 +151,33 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bil,</td>\n</tr>",
-        "text": "a)bil,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bil,</td>\n</tr>",
+        "text": "a)\tbil,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">motorsykkel, unnateke moped,</td>\n</tr>",
-        "text": "b)motorsykkel, unnateke moped,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">motorsykkel, unnateke moped,</td>\n</tr>",
+        "text": "b)\tmotorsykkel, unnateke moped,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">traktor som er konstruert for ein fart av 50 km/t eller meir,</td>\n</tr>",
-        "text": "c)traktor som er konstruert for ein fart av 50 km/t eller meir,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">traktor som er konstruert for ein fart av 50 km/t eller meir,</td>\n</tr>",
+        "text": "c)\ttraktor som er konstruert for ein fart av 50 km/t eller meir,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">motorreiskap som er konstruert for ein fart av 50 km/t eller meir,</td>\n</tr>",
-        "text": "d)motorreiskap som er konstruert for ein fart av 50 km/t eller meir,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">motorreiskap som er konstruert for ein fart av 50 km/t eller meir,</td>\n</tr>",
+        "text": "d)\tmotorreiskap som er konstruert for ein fart av 50 km/t eller meir,"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilhengjar med brems til motorvogn som er nemnd ovanfor.</td>\n</tr>",
-        "text": "e)tilhengjar med brems til motorvogn som er nemnd ovanfor."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilhengjar med brems til motorvogn som er nemnd ovanfor.</td>\n</tr>",
+        "text": "e)\ttilhengjar med brems til motorvogn som er nemnd ovanfor."
     },
     {
         "tag": "h2",
@@ -188,13 +188,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 4. juni 1976 nr. 63 om samferdsel gjøres følgende endringer:",
+        "html": "I <a data-id=\"lov/1976-06-04-63\" class=\" reference\" href=\"/lov/1976-06-04-63\">lov 4. juni 1976 nr. 63</a> om samferdsel gjøres følgende endringer:",
         "text": "I lov 4. juni 1976 nr. 63 om samferdsel gjøres følgende endringer:"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 19 nr. 1 skal lyde:",
+        "html": "<a data-id=\"lov/1976-06-04-63/§19\" class=\" reference\" href=\"/lov/1976-06-04-63/%C2%A719\">§ 19</a> nr. 1 skal lyde:",
         "text": "§ 19 nr. 1 skal lyde:"
     },
     {
@@ -206,7 +206,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "§ 25 nr. 1 skal lyde:",
+        "html": "<a data-id=\"lov/1976-06-04-63/§25\" class=\" reference\" href=\"/lov/1976-06-04-63/%C2%A725\">§ 25</a> nr. 1 skal lyde:",
         "text": "§ 25 nr. 1 skal lyde:"
     },
     {
@@ -224,7 +224,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I plan- og bygningslov 14. juni 1985 nr. 77 gjøres følgende endring:",
+        "html": "I plan- og bygningslov <a data-id=\"lov/1985-06-14-77\" class=\" reference\" href=\"/lov/1985-06-14-77\">14. juni 1985 nr. 77</a> gjøres følgende endring:",
         "text": "I plan- og bygningslov 14. juni 1985 nr. 77 gjøres følgende endring:"
     },
     {

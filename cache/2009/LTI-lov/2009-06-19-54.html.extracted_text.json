@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "Ot.prp.nr.95 (2008–2009), Innst.O.nr.125 (2008–2009) og Besl.O.nr.141 (2008–2009). Odels- og lagtingsvedtak hv. 15. og 18. juni 2009. Fremja av Finansdepartementet.",
+        "html": "<a data-id=\"forarbeid/otprp-95-200809\" class=\" reference\" href=\"/forarbeid/otprp-95-200809\">Ot.prp.nr.95 (2008–2009)</a>, <a data-id=\"forarbeid/inns-o-125-200809\" class=\" reference\" href=\"/forarbeid/inns-o-125-200809\">Innst.O.nr.125 (2008–2009)</a> og <a data-id=\"forarbeid/besl-o-141-200809\" class=\" reference\" href=\"/forarbeid/besl-o-141-200809\">Besl.O.nr.141 (2008–2009)</a>. Odels- og lagtingsvedtak hv. 15. og 18. juni 2009. Fremja av Finansdepartementet.",
         "text": "Ot.prp.nr.95 (2008–2009), Innst.O.nr.125 (2008–2009) og Besl.O.nr.141 (2008–2009). Odels- og lagtingsvedtak hv. 15. og 18. juni 2009. Fremja av Finansdepartementet."
     },
     {
@@ -14,13 +14,13 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven).",
+        "html": "<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).",
         "text": "Lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:",
+        "html": "I <a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:",
         "text": "I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) gjer ein følgjande endringar:"
     },
     {
@@ -61,9 +61,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Eksportutvalget for fisk AS</td>\n</tr>",
-        "text": "6.Eksportutvalget for fisk AS"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Eksportutvalget for fisk AS</td>\n</tr>",
+        "text": "6.\tEksportutvalget for fisk AS"
     },
     {
         "tag": "h2",
@@ -79,9 +79,9 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erstatning for ikke-økonomisk skade ved usaklig oppsigelse eller urettmessig avskjed, jf. arbeidsmiljøloven § 15-12 og § 15-14, så langt erstatningen overstiger 11/2 ganger folketrygdens grunnbeløp.</td>\n</tr>",
-        "text": "e.erstatning for ikke-økonomisk skade ved usaklig oppsigelse eller urettmessig avskjed, jf. arbeidsmiljøloven § 15-12 og § 15-14, så langt erstatningen overstiger 11/2 ganger folketrygdens grunnbeløp."
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erstatning for ikke-økonomisk skade ved usaklig oppsigelse eller urettmessig avskjed, jf. <a data-id=\"lov/2005-06-17-62/§15-12\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A715-12\">arbeidsmiljøloven § 15-12</a> og § <a data-id=\"lov/2005-06-17-62/§15-14\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A715-14\">15-14</a>, så langt erstatningen overstiger 11/2 ganger folketrygdens grunnbeløp.</td>\n</tr>",
+        "text": "e.\terstatning for ikke-økonomisk skade ved usaklig oppsigelse eller urettmessig avskjed, jf. arbeidsmiljøloven § 15-12 og § 15-14, så langt erstatningen overstiger 11/2 ganger folketrygdens grunnbeløp."
     },
     {
         "tag": "p",
@@ -217,20 +217,20 @@
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt med kilde i fremmed stat, eller</td>\n</tr>",
-        "text": "a.inntekt med kilde i fremmed stat, eller"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt med kilde i fremmed stat, eller</td>\n</tr>",
+        "text": "a.\tinntekt med kilde i fremmed stat, eller"
     },
     {
         "tag": "table",
-        "class": "avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formue i fremmed stat,</td>\n</tr>",
-        "text": "b.formue i fremmed stat,"
+        "class": "listeItem avsnitt",
+        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formue i fremmed stat,</td>\n</tr>",
+        "text": "b.\tformue i fremmed stat,"
     },
     {
         "tag": "p",
         "class": "marg",
-        "html": "kan kreve fradrag i norsk skatt for endelig fastsatt inntektsskatt eller formuesskatt eller tilsvarende skatt som godtgjøres å være ilagt skattyteren og betalt i vedkommende fremmede stat hvor inntekten har kilde eller formuen er. I norsk skatt ilagt virksomhet som er skattepliktig etter petroleumsskatteloven §§ 3 og 5, kan det bare kreves fradrag for skatt ilagt og betalt i fremmed stat av inntekt som er skattepliktig i Norge etter de nevnte bestemmelsene. Det gis ikke fradrag for skatt betalt i fremmed stat av inntekt som er skattepliktig etter § 2-38 sjette ledd. Skattyter som etter skatteavtale skal anses som skattemessig bosatt eller hjemmehørende i fremmed stat, kan ikke kreve fradrag i norsk skatt etter bestemmelsene i denne paragraf.",
+        "html": "kan kreve fradrag i norsk skatt for endelig fastsatt inntektsskatt eller formuesskatt eller tilsvarende skatt som godtgjøres å være ilagt skattyteren og betalt i vedkommende fremmede stat hvor inntekten har kilde eller formuen er. I norsk skatt ilagt virksomhet som er skattepliktig etter <a data-id=\"lov/1975-06-13-35/§3\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A73\">petroleumsskatteloven §§ 3</a> og 5, kan det bare kreves fradrag for skatt ilagt og betalt i fremmed stat av inntekt som er skattepliktig i Norge etter de nevnte bestemmelsene. Det gis ikke fradrag for skatt betalt i fremmed stat av inntekt som er skattepliktig etter § 2-38 sjette ledd. Skattyter som etter skatteavtale skal anses som skattemessig bosatt eller hjemmehørende i fremmed stat, kan ikke kreve fradrag i norsk skatt etter bestemmelsene i denne paragraf.",
         "text": "kan kreve fradrag i norsk skatt for endelig fastsatt inntektsskatt eller formuesskatt eller tilsvarende skatt som godtgjøres å være ilagt skattyteren og betalt i vedkommende fremmede stat hvor inntekten har kilde eller formuen er. I norsk skatt ilagt virksomhet som er skattepliktig etter petroleumsskatteloven §§ 3 og 5, kan det bare kreves fradrag for skatt ilagt og betalt i fremmed stat av inntekt som er skattepliktig i Norge etter de nevnte bestemmelsene. Det gis ikke fradrag for skatt betalt i fremmed stat av inntekt som er skattepliktig etter § 2-38 sjette ledd. Skattyter som etter skatteavtale skal anses som skattemessig bosatt eller hjemmehørende i fremmed stat, kan ikke kreve fradrag i norsk skatt etter bestemmelsene i denne paragraf."
     },
     {
