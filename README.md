@@ -16,7 +16,7 @@ Lovdata svarte følgende 11.02.2020:
 > Kunngjøringene i Norsk Lovtidend (https://lovdata.no/register/lovtidend) er offentlige dokumenter som kan benyttes fritt. Dette i motsetning til Lovdatas ajourførte regelverk. Det er en feiloppfatning at Lovdata produserer svært lite av innholdet selv og at innhold på åpne sider kan benyttes fritt. Selv om mye av arbeidet isolert sett ikke har verkshøyde, vil sammenstillingene innebære at materiellet har vern etter åndsverkloven. Kunngjøringene i Norsk Lovtidend kan dermed benyttes fritt, men ikke det ajourførte/konsoliderte regelverket.
 
 
-## Oppdatere informasjon
+## Oppdatere informasjon (laste ned Norsk Lovtidend)
 
 Først må avhengigheter hentes ned:
 
