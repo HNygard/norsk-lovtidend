@@ -50,7 +50,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> For meldinger mv. mellom selskapet og eiere av forvalterregistrerte aksjer gjelder allmennaksjeloven § 1-8.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> For meldinger mv. mellom selskapet og eiere av forvalterregistrerte aksjer gjelder <a data-id=\"lov/1997-06-13-45/§1-8\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A71-8\">allmennaksjeloven § 1-8</a>.</td></tr>",
         "text": "(3) For meldinger mv. mellom selskapet og eiere av forvalterregistrerte aksjer gjelder allmennaksjeloven § 1-8."
     },
     {
@@ -166,7 +166,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "I avsnitt III skal nye § 1-7 og § 1-8 lyde:",
+        "html": "I avsnitt III skal nye <a data-id=\"lov/1997-06-13-45/§1-7\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A71-7\">§ 1-7</a> og <a data-id=\"lov/1997-06-13-45/§1-8\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A71-8\">§ 1-8</a> lyde:",
         "text": "I avsnitt III skal nye § 1-7 og § 1-8 lyde:"
     },
     null,
@@ -224,7 +224,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Forvaltere og andre formidlere som definert i verdipapirsentralloven § 4-5 første ledd, skal uten opphold videreformidle meldinger mv. mellom selskapet og eiere av forvalterregistrerte aksjer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Forvaltere og andre formidlere som definert i <a data-id=\"lov/2019-03-15-6/§4-5\" class=\" reference\" href=\"/lov/2019-03-15-6/%C2%A74-5\">verdipapirsentralloven § 4-5</a> første ledd, skal uten opphold videreformidle meldinger mv. mellom selskapet og eiere av forvalterregistrerte aksjer.</td></tr>",
         "text": "(2) Forvaltere og andre formidlere som definert i verdipapirsentralloven § 4-5 første ledd, skal uten opphold videreformidle meldinger mv. mellom selskapet og eiere av forvalterregistrerte aksjer."
     },
     {
@@ -618,7 +618,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Ny § 4-5 skal lyde:",
+        "html": "Ny <a data-id=\"lov/2019-03-15-6/§4-5\" class=\" reference\" href=\"/lov/2019-03-15-6/%C2%A74-5\">§ 4-5</a> skal lyde:",
         "text": "Ny § 4-5 skal lyde:"
     },
     null,

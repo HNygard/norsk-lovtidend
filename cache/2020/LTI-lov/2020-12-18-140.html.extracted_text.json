@@ -2,7 +2,7 @@
     {
         "tag": "p",
         "class": "marg",
-        "html": "<a data-id=\"forarbeid/prop-15-l-202021\" class=\" reference\" href=\"/forarbeid/prop-15-l-202021\">Prop.15 L (2020–2021)</a>, <a data-id=\"forarbeid/inns-127-l-201920\" class=\" reference\" href=\"/forarbeid/inns-127-l-201920\">Innst.127 L (2019–2020)</a>, <a data-id=\"forarbeid/lovvedtak-40-202021\" class=\" reference\" href=\"/forarbeid/lovvedtak-40-202021\">Lovvedtak 40 (2020–2021)</a>. Stortingets første og andre gangs behandling hhv. 10. og 14. desember 2020. Fremmet av Arbeids- og sosialdepartementet.",
+        "html": "<a data-id=\"forarbeid/prop-15-l-202021\" class=\" reference\" href=\"/forarbeid/prop-15-l-202021\">Prop.15 L (2020–2021)</a>, Innst.127 L (2019–2020), <a data-id=\"forarbeid/lovvedtak-40-202021\" class=\" reference\" href=\"/forarbeid/lovvedtak-40-202021\">Lovvedtak 40 (2020–2021)</a>. Stortingets første og andre gangs behandling hhv. 10. og 14. desember 2020. Fremmet av Arbeids- og sosialdepartementet.",
         "text": "Prop.15 L (2020–2021), Innst.127 L (2019–2020), Lovvedtak 40 (2020–2021). Stortingets første og andre gangs behandling hhv. 10. og 14. desember 2020. Fremmet av Arbeids- og sosialdepartementet."
     },
     {
@@ -168,5 +168,29 @@
         "class": "avsnitt",
         "html": "Loven trer i kraft fra den tiden Kongen bestemmer.",
         "text": "Loven trer i kraft fra den tiden Kongen bestemmer."
+    },
+    {
+        "tag": "h2",
+        "class": "",
+        "html": "Rettelser<hr class=\" \">",
+        "text": "Rettelser"
+    },
+    {
+        "tag": "p",
+        "class": "morTag_amf avsnitt",
+        "html": "Det som er rettet er satt i kursiv.",
+        "text": "Det som er rettet er satt i kursiv."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Referansefeltet første punktum skal lyde:",
+        "text": "Referansefeltet første punktum skal lyde:"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "<a data-id=\"forarbeid/prop-15-l-202021\" class=\" reference\" href=\"/forarbeid/prop-15-l-202021\">Prop.15 L (2020–2021)</a>, <a data-id=\"forarbeid/inns-127-l-202021\" class=\" reference\" href=\"/forarbeid/inns-127-l-202021\">Innst.127 L <em class=\" \">(2020–2021)</em></a>, <a data-id=\"forarbeid/lovvedtak-40-202021\" class=\" reference\" href=\"/forarbeid/lovvedtak-40-202021\">Lovvedtak 40 (2020–2021)</a>.",
+        "text": "Prop.15 L (2020–2021), Innst.127 L (2020–2021), Lovvedtak 40 (2020–2021)."
     }
 ]
