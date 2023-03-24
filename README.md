@@ -26,6 +26,8 @@ Følgende kommando henter ned alle i år med 4 dager cache og resten med 365 dag
 
 > php get.php
 
+Krever PHP 8.
+
 ## TODO
 
 - [x] Basis HTML-side for publisering på Github pages

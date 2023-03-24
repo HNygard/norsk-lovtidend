@@ -8,7 +8,7 @@
  * @author Hallvard Nygård, @hallny / Norske-postlister.no.
  */
 
-set_error_handler(function ($errno, $errstr, $errfile, $errline, array $errcontext) {
+set_error_handler(function ($errno, $errstr, $errfile, $errline) {
     throw new ErrorException($errstr, 0, $errno, $errfile, $errline);
 });
 
@@ -221,7 +221,9 @@ for($year = date('Y'); $year >= 2001; $year--) {
 
                 $mainText2_text = '';
                 foreach ($mainText2 as $item) {
-                    $mainText2_text .= ' ' . $item['text'];
+                    if (!empty($item['text'])) {
+                        $mainText2_text .= ' ' . $item['text'];
+                    }
                 }
 
                 $cleanText1 = str_replace(' ', '', $mainText[0]['text']);
@@ -472,7 +474,7 @@ function readItems($html) {
 
 	$links = array();
 	foreach ($links1 as $link) {
-		if (trim($link['text']) == '' && trim($link['href']) == '') {
+		if (empty($link['text']) && empty($link['href'])) {
 			continue;
 		}
 		if (str_starts_with($link['text'], 'Kunngjort ') && str_starts_with($link['href'], '/register/lovtidend?kunngjortDato=')) {
@@ -556,19 +558,6 @@ function getUrlCachedUsingCurl($cacheTimeSeconds, $cache_file, $baseUri, $accept
 
     file_put_contents($cache_file, $body);
     return $body;
-}
-
-function str_starts_with($haystack, $needle) {
-    return substr($haystack, 0, strlen($needle)) == $needle;
-}
-
-function str_ends_with($haystack, $needle) {
-    $length = strlen($needle);
-    return $length === 0 || substr($haystack, -$length) === $needle;
-}
-
-function str_contains($stack, $needle) {
-    return (strpos($stack, $needle) !== FALSE);
 }
 
 function str_strip_if_ends_with($stack, $needle) {
