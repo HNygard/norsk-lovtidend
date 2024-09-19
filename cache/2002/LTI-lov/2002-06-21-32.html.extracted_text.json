@@ -14,25 +14,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1961-05-24-1\" class=\" reference\" href=\"/lov/1961-05-24-1\">Lov av 24. mai 1961 nr. 1</a> om sparebanker.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1961-05-24-1\" class=\" reference\" href=\"/lov/1961-05-24-1\">Lov av 24. mai 1961 nr. 1</a> om sparebanker.</td></tr>",
         "text": "1\tLov av 24. mai 1961 nr. 1 om sparebanker."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1961-05-24-2\" class=\" reference\" href=\"/lov/1961-05-24-2\">Lov av 24. mai 1961 nr. 2</a> om forretningsbanker.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1961-05-24-2\" class=\" reference\" href=\"/lov/1961-05-24-2\">Lov av 24. mai 1961 nr. 2</a> om forretningsbanker.</td></tr>",
         "text": "2\tLov av 24. mai 1961 nr. 2 om forretningsbanker."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1996-12-06-75\" class=\" reference\" href=\"/lov/1996-12-06-75\">Lov av 6. desember 1996 nr. 75</a> om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1996-12-06-75\" class=\" reference\" href=\"/lov/1996-12-06-75\">Lov av 6. desember 1996 nr. 75</a> om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner.</td></tr>",
         "text": "3\tLov av 6. desember 1996 nr. 75 om sikringsordninger for banker og offentlig administrasjon m.v. av finansinstitusjoner."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov av 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov av 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td></tr>",
         "text": "4\tLov av 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
@@ -68,13 +68,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kredittforeninger,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kredittforeninger,</td></tr>",
         "text": "2.\tkredittforeninger,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sparebanker.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sparebanker.</td></tr>",
         "text": "3.\tsparebanker."
     },
     {
@@ -188,79 +188,79 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stiftelsens firma,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stiftelsens firma,</td></tr>",
         "text": "1.\tstiftelsens firma,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kommunen hvor stiftelsen er hjemmehørende,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kommunen hvor stiftelsen er hjemmehørende,</td></tr>",
         "text": "2.\tkommunen hvor stiftelsen er hjemmehørende,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stiftelsens formål,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stiftelsens formål,</td></tr>",
         "text": "3.\tstiftelsens formål,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan stiftelsens midler skal kunne plasseres,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan stiftelsens midler skal kunne plasseres,</td></tr>",
         "text": "4.\thvordan stiftelsens midler skal kunne plasseres,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">antallet styremedlemmer og hvordan styret skal dannes og suppleres,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">antallet styremedlemmer og hvordan styret skal dannes og suppleres,</td></tr>",
         "text": "5.\tantallet styremedlemmer og hvordan styret skal dannes og suppleres,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke andre organer enn generalforsamling og styre stiftelsen eventuelt skal ha, hvordan organene dannes og suppleres, og hvilken myndighet og hvilke oppgaver disse skal ha,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke andre organer enn generalforsamling og styre stiftelsen eventuelt skal ha, hvordan organene dannes og suppleres, og hvilken myndighet og hvilke oppgaver disse skal ha,</td></tr>",
         "text": "6.\thvilke andre organer enn generalforsamling og styre stiftelsen eventuelt skal ha, hvordan organene dannes og suppleres, og hvilken myndighet og hvilke oppgaver disse skal ha,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">grunnkapitalens størrelse,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">grunnkapitalens størrelse,</td></tr>",
         "text": "7.\tgrunnkapitalens størrelse,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">valg av medlemmer til generalforsamlingen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">valg av medlemmer til generalforsamlingen,</td></tr>",
         "text": "8.\tvalg av medlemmer til generalforsamlingen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når generalforsamlingen skal holdes,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">når generalforsamlingen skal holdes,</td></tr>",
         "text": "9.\tnår generalforsamlingen skal holdes,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan vedtektene endres,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan vedtektene endres,</td></tr>",
         "text": "10.\thvordan vedtektene endres,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">11.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">anvendelse av årsoverskudd og dekning av eventuelt underskudd,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">11.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">anvendelse av årsoverskudd og dekning av eventuelt underskudd,</td></tr>",
         "text": "11.\tanvendelse av årsoverskudd og dekning av eventuelt underskudd,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">12.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avvikling av stiftelsen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">12.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">avvikling av stiftelsen,</td></tr>",
         "text": "12.\tavvikling av stiftelsen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">13.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan formuen skal disponeres ved avvikling.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">13.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan formuen skal disponeres ved avvikling.</td></tr>",
         "text": "13.\thvordan formuen skal disponeres ved avvikling."
     },
     {
@@ -428,7 +428,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">0\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Teksten her er korrigert i samsvar med rettelse i Norsk Lovtidend Avd. I 2002 s. 1245 (hefte 10).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">0\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Teksten her er korrigert i samsvar med rettelse i Norsk Lovtidend Avd. I 2002 s. 1245 (hefte 10).</td></tr>",
         "text": "0\tTeksten her er korrigert i samsvar med rettelse i Norsk Lovtidend Avd. I 2002 s. 1245 (hefte 10)."
     },
     {

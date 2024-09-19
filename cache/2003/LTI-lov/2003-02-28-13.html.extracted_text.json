@@ -26,7 +26,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">1.</span> Alminnelig regel.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">1.</span> Alminnelig regel.</td></tr>",
         "text": "1. Alminnelig regel."
     },
     {
@@ -44,7 +44,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">2.</span> Utvidet overtid etter avtale med arbeidstaker.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">2.</span> Utvidet overtid etter avtale med arbeidstaker.</td></tr>",
         "text": "2. Utvidet overtid etter avtale med arbeidstaker."
     },
     {
@@ -56,7 +56,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">3.</span> Utvidet samlet arbeidstid etter avtale med tillitsvalgte.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">3.</span> Utvidet samlet arbeidstid etter avtale med tillitsvalgte.</td></tr>",
         "text": "3. Utvidet samlet arbeidstid etter avtale med tillitsvalgte."
     },
     {
@@ -68,7 +68,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">4.</span> Gjennomsnittlig samlet arbeidstid.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">4.</span> Gjennomsnittlig samlet arbeidstid.</td></tr>",
         "text": "4. Gjennomsnittlig samlet arbeidstid."
     },
     {

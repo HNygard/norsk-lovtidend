@@ -206,19 +206,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skadeavvergende tiltak i nødsituasjoner,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skadeavvergende tiltak i nødsituasjoner,</td></tr>",
         "text": "a)\tskadeavvergende tiltak i nødsituasjoner,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">planlagte skadeavvergende tiltak i gjentatte nødsituasjoner, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">planlagte skadeavvergende tiltak i gjentatte nødsituasjoner, eller</td></tr>",
         "text": "b)\tplanlagte skadeavvergende tiltak i gjentatte nødsituasjoner, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak for å dekke tjenestemottakerens grunnleggende behov for mat og drikke, påkledning, hvile, søvn, hygiene og personlig trygghet, herunder opplærings- og treningstiltak.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak for å dekke tjenestemottakerens grunnleggende behov for mat og drikke, påkledning, hvile, søvn, hygiene og personlig trygghet, herunder opplærings- og treningstiltak.</td></tr>",
         "text": "c)\ttiltak for å dekke tjenestemottakerens grunnleggende behov for mat og drikke, påkledning, hvile, søvn, hygiene og personlig trygghet, herunder opplærings- og treningstiltak."
     },
     {
@@ -272,55 +272,55 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tjenestemottakerens navn og tid og sted for vedtaket,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tjenestemottakerens navn og tid og sted for vedtaket,</td></tr>",
         "text": "a)\ttjenestemottakerens navn og tid og sted for vedtaket,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">beskrivelse av tjenestemottakerens situasjon og en faglig vurdering av denne,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">beskrivelse av tjenestemottakerens situasjon og en faglig vurdering av denne,</td></tr>",
         "text": "b)\tbeskrivelse av tjenestemottakerens situasjon og en faglig vurdering av denne,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">beskrivelse av de tiltakene som skal settes i verk og den faglige begrunnelsen for disse,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">beskrivelse av de tiltakene som skal settes i verk og den faglige begrunnelsen for disse,</td></tr>",
         "text": "c)\tbeskrivelse av de tiltakene som skal settes i verk og den faglige begrunnelsen for disse,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fastsettelse av tidsramme for tiltakene,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fastsettelse av tidsramme for tiltakene,</td></tr>",
         "text": "d)\tfastsettelse av tidsramme for tiltakene,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bekreftelse på at vilkårene i kapitlet er oppfylt, herunder begrunnelse etter <a data-id=\"lov/1991-12-13-81/§4a-5\" class=\" reference\" href=\"/lov/1991-12-13-81/%C2%A74a-5\">§ 4A-5</a> første ledd annet punktum,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">bekreftelse på at vilkårene i kapitlet er oppfylt, herunder begrunnelse etter <a data-id=\"lov/1991-12-13-81/§4a-5\" class=\" reference\" href=\"/lov/1991-12-13-81/%C2%A74a-5\">§ 4A-5</a> første ledd annet punktum,</td></tr>",
         "text": "e)\tbekreftelse på at vilkårene i kapitlet er oppfylt, herunder begrunnelse etter § 4A-5 første ledd annet punktum,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysning om hvilken holdning tjenestemottakeren og dennes representant har til tiltaket,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysning om hvilken holdning tjenestemottakeren og dennes representant har til tiltaket,</td></tr>",
         "text": "f)\topplysning om hvilken holdning tjenestemottakeren og dennes representant har til tiltaket,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">angivelse av faglig ansvarlig for gjennomføringen av tiltaket,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">angivelse av faglig ansvarlig for gjennomføringen av tiltaket,</td></tr>",
         "text": "g)\tangivelse av faglig ansvarlig for gjennomføringen av tiltaket,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysning om Fylkesmannens overprøvingsmyndighet og adgang til å uttale seg i saker som skal overprøves etter <a data-id=\"lov/1991-12-13-81/§4a-8\" class=\" reference\" href=\"/lov/1991-12-13-81/%C2%A74a-8\">§ 4A-8</a>, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysning om Fylkesmannens overprøvingsmyndighet og adgang til å uttale seg i saker som skal overprøves etter <a data-id=\"lov/1991-12-13-81/§4a-8\" class=\" reference\" href=\"/lov/1991-12-13-81/%C2%A74a-8\">§ 4A-8</a>, og</td></tr>",
         "text": "h)\topplysning om Fylkesmannens overprøvingsmyndighet og adgang til å uttale seg i saker som skal overprøves etter § 4A-8, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysning om tilsynsmyndighet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysning om tilsynsmyndighet.</td></tr>",
         "text": "i)\topplysning om tilsynsmyndighet."
     },
     {

@@ -58,31 +58,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kommuner og fylkeskommuner med kommunal og fylkeskommunal virksomhet der øverste myndighet er kommunestyret, fylkestinget eller annet styre eller råd i henhold til kommuneloven eller kommunal særlovgivning,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kommuner og fylkeskommuner med kommunal og fylkeskommunal virksomhet der øverste myndighet er kommunestyret, fylkestinget eller annet styre eller råd i henhold til kommuneloven eller kommunal særlovgivning,</td></tr>",
         "text": "a)\tkommuner og fylkeskommuner med kommunal og fylkeskommunal virksomhet der øverste myndighet er kommunestyret, fylkestinget eller annet styre eller råd i henhold til kommuneloven eller kommunal særlovgivning,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">interkommununale og interfylkeskommunale sammenslutninger organisert etter kommuneloven eller annen kommunal særlovgivning,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">interkommununale og interfylkeskommunale sammenslutninger organisert etter kommuneloven eller annen kommunal særlovgivning,</td></tr>",
         "text": "b)\tinterkommununale og interfylkeskommunale sammenslutninger organisert etter kommuneloven eller annen kommunal særlovgivning,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">private eller ideelle virksomheter som produserer helsetjenester, undervisningstjenester eller sosiale tjenester som kommunen eller fylkeskommunen er pålagt å utføre ved lov,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">private eller ideelle virksomheter som produserer helsetjenester, undervisningstjenester eller sosiale tjenester som kommunen eller fylkeskommunen er pålagt å utføre ved lov,</td></tr>",
         "text": "c)\tprivate eller ideelle virksomheter som produserer helsetjenester, undervisningstjenester eller sosiale tjenester som kommunen eller fylkeskommunen er pålagt å utføre ved lov,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnehager som nevnt i <a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">lov 5. mai 1995 nr. 19</a> om barnehager <a data-id=\"lov/1995-05-05-19/§13\" class=\" reference\" href=\"/lov/1995-05-05-19/%C2%A713\">§ 13</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnehager som nevnt i <a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">lov 5. mai 1995 nr. 19</a> om barnehager <a data-id=\"lov/1995-05-05-19/§13\" class=\" reference\" href=\"/lov/1995-05-05-19/%C2%A713\">§ 13</a>,</td></tr>",
         "text": "d)\tbarnehager som nevnt i lov 5. mai 1995 nr. 19 om barnehager § 13,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kirkelig fellesråd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kirkelig fellesråd.</td></tr>",
         "text": "e)\tkirkelig fellesråd."
     },
     {
@@ -138,19 +138,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når det foreligger rett til fradrag for inngående merverdiavgift etter bestemmelsene i merverdiavgiftsloven kapittel VI.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når det foreligger rett til fradrag for inngående merverdiavgift etter bestemmelsene i merverdiavgiftsloven kapittel VI.</td></tr>",
         "text": "1.\tNår det foreligger rett til fradrag for inngående merverdiavgift etter bestemmelsene i merverdiavgiftsloven kapittel VI."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For merverdiavgift på anskaffelser som nevnt i merverdiavgiftsloven § 22 første ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">For merverdiavgift på anskaffelser som nevnt i merverdiavgiftsloven § 22 første ledd.</td></tr>",
         "text": "2.\tFor merverdiavgift på anskaffelser som nevnt i merverdiavgiftsloven § 22 første ledd."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For merverdiavgift på anskaffelser til bygg, anlegg eller annen fast eiendom for salg eller utleie.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">For merverdiavgift på anskaffelser til bygg, anlegg eller annen fast eiendom for salg eller utleie.</td></tr>",
         "text": "3.\tFor merverdiavgift på anskaffelser til bygg, anlegg eller annen fast eiendom for salg eller utleie."
     },
     {

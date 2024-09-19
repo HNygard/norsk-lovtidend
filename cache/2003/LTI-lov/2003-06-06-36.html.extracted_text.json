@@ -14,19 +14,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1952-11-21-2\" class=\" reference\" href=\"/lov/1952-11-21-2\">Lov av 21. november 1952 nr. 2</a> om betaling og innkreving av skatt.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1952-11-21-2\" class=\" reference\" href=\"/lov/1952-11-21-2\">Lov av 21. november 1952 nr. 2</a> om betaling og innkreving av skatt.</td></tr>",
         "text": "1.\tLov av 21. november 1952 nr. 2 om betaling og innkreving av skatt."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1980-06-13-24\" class=\" reference\" href=\"/lov/1980-06-13-24\">Lov av 13. juni 1980 nr. 24</a> om ligningsforvaltning (ligningsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1980-06-13-24\" class=\" reference\" href=\"/lov/1980-06-13-24\">Lov av 13. juni 1980 nr. 24</a> om ligningsforvaltning (ligningsloven).</td></tr>",
         "text": "2.\tLov av 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1998-07-17-56\" class=\" reference\" href=\"/lov/1998-07-17-56\">Lov av 17. juli 1998 nr. 56</a> om årsregnskap m.v. (regnskapsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1998-07-17-56\" class=\" reference\" href=\"/lov/1998-07-17-56\">Lov av 17. juli 1998 nr. 56</a> om årsregnskap m.v. (regnskapsloven).</td></tr>",
         "text": "3.\tLov av 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven)."
     },
     {
@@ -188,13 +188,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd til livsopphold mv. under deltakelse i arbeidsmarkedstiltak</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd til livsopphold mv. under deltakelse i arbeidsmarkedstiltak</td></tr>",
         "text": "-\ttilskudd til livsopphold mv. under deltakelse i arbeidsmarkedstiltak"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd i forbindelse med yrkesrettet attføring,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd i forbindelse med yrkesrettet attføring,</td></tr>",
         "text": "-\ttilskudd i forbindelse med yrkesrettet attføring,"
     },
     {
@@ -272,19 +272,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Person som</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Person som</td></tr>",
         "text": "(2) Person som"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i en eller flere perioder oppholder seg mer enn 183 dager i riket i løpet av enhver tolvmånedersperiode, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">i en eller flere perioder oppholder seg mer enn 183 dager i riket i løpet av enhver tolvmånedersperiode, eller</td></tr>",
         "text": "a.\ti en eller flere perioder oppholder seg mer enn 183 dager i riket i løpet av enhver tolvmånedersperiode, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i en eller flere perioder oppholder seg mer enn 270 dager i riket i løpet av enhver trettiseksmånedersperiode,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">i en eller flere perioder oppholder seg mer enn 270 dager i riket i løpet av enhver trettiseksmånedersperiode,</td></tr>",
         "text": "b.\ti en eller flere perioder oppholder seg mer enn 270 dager i riket i løpet av enhver trettiseksmånedersperiode,"
     },
     {
@@ -308,43 +308,43 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For person som tar fast opphold i utlandet, opphører bostedet i riket for det inntektsår det godtgjøres at personen ikke har oppholdt seg i riket i en eller flere perioder som overstiger 61 dager i inntektsåret og at personen eller dennes nærstående ikke har disponert bolig i riket. Bostedet opphører uansett ikke før det tidspunkt personen eller dennes nærstående ikke lenger disponerer bolig i riket.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">For person som tar fast opphold i utlandet, opphører bostedet i riket for det inntektsår det godtgjøres at personen ikke har oppholdt seg i riket i en eller flere perioder som overstiger 61 dager i inntektsåret og at personen eller dennes nærstående ikke har disponert bolig i riket. Bostedet opphører uansett ikke før det tidspunkt personen eller dennes nærstående ikke lenger disponerer bolig i riket.</td></tr>",
         "text": "a.\tFor person som tar fast opphold i utlandet, opphører bostedet i riket for det inntektsår det godtgjøres at personen ikke har oppholdt seg i riket i en eller flere perioder som overstiger 61 dager i inntektsåret og at personen eller dennes nærstående ikke har disponert bolig i riket. Bostedet opphører uansett ikke før det tidspunkt personen eller dennes nærstående ikke lenger disponerer bolig i riket."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For person som har vært bosatt i riket i minst ti år før det inntektsår vedkommende tar fast opphold i utlandet, opphører bosted i riket etter utløpet av det tredje inntektsåret etter det inntektsår vedkommende tar slikt fast opphold i utlandet, men bare hvis det for hvert av de tre inntektsårene godtgjøres at personen ikke har oppholdt seg i riket i en eller flere perioder som overstiger 61 dager i inntektsåret og at personen eller dennes nærstående ikke har disponert bolig i riket.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">For person som har vært bosatt i riket i minst ti år før det inntektsår vedkommende tar fast opphold i utlandet, opphører bosted i riket etter utløpet av det tredje inntektsåret etter det inntektsår vedkommende tar slikt fast opphold i utlandet, men bare hvis det for hvert av de tre inntektsårene godtgjøres at personen ikke har oppholdt seg i riket i en eller flere perioder som overstiger 61 dager i inntektsåret og at personen eller dennes nærstående ikke har disponert bolig i riket.</td></tr>",
         "text": "b.\tFor person som har vært bosatt i riket i minst ti år før det inntektsår vedkommende tar fast opphold i utlandet, opphører bosted i riket etter utløpet av det tredje inntektsåret etter det inntektsår vedkommende tar slikt fast opphold i utlandet, men bare hvis det for hvert av de tre inntektsårene godtgjøres at personen ikke har oppholdt seg i riket i en eller flere perioder som overstiger 61 dager i inntektsåret og at personen eller dennes nærstående ikke har disponert bolig i riket."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Med nærstående menes en persons ektefelle, samboer eller mindreårige barn.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Med nærstående menes en persons ektefelle, samboer eller mindreårige barn.</td></tr>",
         "text": "(4) Med nærstående menes en persons ektefelle, samboer eller mindreårige barn."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Med å disponere bolig menes å direkte eller indirekte eie, leie eller på annet grunnlag ha rett til å bruke bolig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Med å disponere bolig menes å direkte eller indirekte eie, leie eller på annet grunnlag ha rett til å bruke bolig.</td></tr>",
         "text": "(5) Med å disponere bolig menes å direkte eller indirekte eie, leie eller på annet grunnlag ha rett til å bruke bolig."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Med bolig menes:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Med bolig menes:</td></tr>",
         "text": "(6) Med bolig menes:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">boenhet med innlagt helårs vann og avløp, med mindre boenheten i henhold til reguleringsplan, kommuneplanens arealdel eller andre offentligrettslige regler på utflyttingstidspunktet ikke kan benyttes som bolig, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">boenhet med innlagt helårs vann og avløp, med mindre boenheten i henhold til reguleringsplan, kommuneplanens arealdel eller andre offentligrettslige regler på utflyttingstidspunktet ikke kan benyttes som bolig, og</td></tr>",
         "text": "a.\tboenhet med innlagt helårs vann og avløp, med mindre boenheten i henhold til reguleringsplan, kommuneplanens arealdel eller andre offentligrettslige regler på utflyttingstidspunktet ikke kan benyttes som bolig, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver boenhet som faktisk er benyttet som bolig.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver boenhet som faktisk er benyttet som bolig.</td></tr>",
         "text": "b.\tenhver boenhet som faktisk er benyttet som bolig."
     },
     {
@@ -440,61 +440,61 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Gevinst anses ikke realisert ved etablering og innfrielse av verdipapirlån. Slik gevinst anses likevel realisert når vilkårene nedenfor i denne paragraf ikke er oppfylt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Gevinst anses ikke realisert ved etablering og innfrielse av verdipapirlån. Slik gevinst anses likevel realisert når vilkårene nedenfor i denne paragraf ikke er oppfylt.</td></tr>",
         "text": "(1) Gevinst anses ikke realisert ved etablering og innfrielse av verdipapirlån. Slik gevinst anses likevel realisert når vilkårene nedenfor i denne paragraf ikke er oppfylt."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Tap anses ikke realisert ved etablering og innfrielse av verdipapirlån.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Tap anses ikke realisert ved etablering og innfrielse av verdipapirlån.</td></tr>",
         "text": "(2) Tap anses ikke realisert ved etablering og innfrielse av verdipapirlån."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Med verdipapirlån forstås en avtale hvor eieren av et verdipapir (utlåneren), mot annet vederlag enn kjøpesummen for dette, overdrar verdipapiret til den annen avtalepart (innlåneren), og hvor den annen avtalepart er forpliktet til å tilbakeføre et identisk verdipapir til den opprinnelige eieren mot annet vederlag enn kjøpesummen for dette.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Med verdipapirlån forstås en avtale hvor eieren av et verdipapir (utlåneren), mot annet vederlag enn kjøpesummen for dette, overdrar verdipapiret til den annen avtalepart (innlåneren), og hvor den annen avtalepart er forpliktet til å tilbakeføre et identisk verdipapir til den opprinnelige eieren mot annet vederlag enn kjøpesummen for dette.</td></tr>",
         "text": "(3) Med verdipapirlån forstås en avtale hvor eieren av et verdipapir (utlåneren), mot annet vederlag enn kjøpesummen for dette, overdrar verdipapiret til den annen avtalepart (innlåneren), og hvor den annen avtalepart er forpliktet til å tilbakeføre et identisk verdipapir til den opprinnelige eieren mot annet vederlag enn kjøpesummen for dette."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Bestemmelsen i første ledd første punktum gjelder når det er inngått en skriftlig avtale om verdipapirlån, og</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Bestemmelsen i første ledd første punktum gjelder når det er inngått en skriftlig avtale om verdipapirlån, og</td></tr>",
         "text": "(4) Bestemmelsen i første ledd første punktum gjelder når det er inngått en skriftlig avtale om verdipapirlån, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lånet gjelder aksje, grunnfondsbevis eller ihendehaverobligasjon, tatt opp til notering på børs som definert i børsloven § 1-3 annet ledd, eller tilsvarende notering på utenlandsk børs, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">lånet gjelder aksje, grunnfondsbevis eller ihendehaverobligasjon, tatt opp til notering på børs som definert i børsloven § 1-3 annet ledd, eller tilsvarende notering på utenlandsk børs, og</td></tr>",
         "text": "a.\tlånet gjelder aksje, grunnfondsbevis eller ihendehaverobligasjon, tatt opp til notering på børs som definert i børsloven § 1-3 annet ledd, eller tilsvarende notering på utenlandsk børs, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innlåneren påtar seg en forpliktelse til å kompensere utlåneren for all avkastning som i låneperioden utdeles på det utlånte verdipapiret, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">innlåneren påtar seg en forpliktelse til å kompensere utlåneren for all avkastning som i låneperioden utdeles på det utlånte verdipapiret, og</td></tr>",
         "text": "b.\tinnlåneren påtar seg en forpliktelse til å kompensere utlåneren for all avkastning som i låneperioden utdeles på det utlånte verdipapiret, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">transaksjonen registreres som lånetransaksjon i vedkommende verdipapirregister, når lånet omfatter verdipapir som er registrert i et verdipapirregister opprettet i medhold av <a data-id=\"lov/2002-07-05-64/§3-1\" class=\" reference\" href=\"/lov/2002-07-05-64/%C2%A73-1\">verdipapirregisterloven § 3-1</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">transaksjonen registreres som lånetransaksjon i vedkommende verdipapirregister, når lånet omfatter verdipapir som er registrert i et verdipapirregister opprettet i medhold av <a data-id=\"lov/2002-07-05-64/§3-1\" class=\" reference\" href=\"/lov/2002-07-05-64/%C2%A73-1\">verdipapirregisterloven § 3-1</a>.</td></tr>",
         "text": "c.\ttransaksjonen registreres som lånetransaksjon i vedkommende verdipapirregister, når lånet omfatter verdipapir som er registrert i et verdipapirregister opprettet i medhold av verdipapirregisterloven § 3-1."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Ved utlån av aksje i aksjeselskap og allmennaksjeselskap hjemmehørende i Norge og grunnfondsbevis i sparebanker, skal bestemmelsen i første ledd første punktum bare gjelde dersom lånet er innfridd ved tilbakeføring av et identisk verdipapir til utlånerens verdipapirkonto 1. januar i året etter utlånsåret.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Ved utlån av aksje i aksjeselskap og allmennaksjeselskap hjemmehørende i Norge og grunnfondsbevis i sparebanker, skal bestemmelsen i første ledd første punktum bare gjelde dersom lånet er innfridd ved tilbakeføring av et identisk verdipapir til utlånerens verdipapirkonto 1. januar i året etter utlånsåret.</td></tr>",
         "text": "(5) Ved utlån av aksje i aksjeselskap og allmennaksjeselskap hjemmehørende i Norge og grunnfondsbevis i sparebanker, skal bestemmelsen i første ledd første punktum bare gjelde dersom lånet er innfridd ved tilbakeføring av et identisk verdipapir til utlånerens verdipapirkonto 1. januar i året etter utlånsåret."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Verdipapiret anses realisert, og gevinst tas til inntekt og tap kommer til fradrag, når det anses klart at verdipapirlånet ikke vil bli innfridd med tilbakeføring av et identisk verdipapir til utlåneren.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Verdipapiret anses realisert, og gevinst tas til inntekt og tap kommer til fradrag, når det anses klart at verdipapirlånet ikke vil bli innfridd med tilbakeføring av et identisk verdipapir til utlåneren.</td></tr>",
         "text": "(6) Verdipapiret anses realisert, og gevinst tas til inntekt og tap kommer til fradrag, når det anses klart at verdipapirlånet ikke vil bli innfridd med tilbakeføring av et identisk verdipapir til utlåneren."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Departementet kan gi bestemmelsen i første ledd første punktum anvendelse for andre finansielle instrumenter enn nevnt i fjerde ledd a.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Departementet kan gi bestemmelsen i første ledd første punktum anvendelse for andre finansielle instrumenter enn nevnt i fjerde ledd a.</td></tr>",
         "text": "(7) Departementet kan gi bestemmelsen i første ledd første punktum anvendelse for andre finansielle instrumenter enn nevnt i fjerde ledd a."
     },
     {
@@ -512,49 +512,49 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Verdipapir som skattyter har fått tilgang til etter en avtale om verdipapirlån som nevnt i <a data-id=\"lov/1999-03-26-14/§9-11\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A79-11\">§ 9-11</a> tredje ledd, anses realisert når skattyter erverver et identisk verdipapir (dekningskjøp). Verdipapiret anses likevel realisert senest på det tidspunkt skattyter gjør opp sin forpliktelse etter låneavtalen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Verdipapir som skattyter har fått tilgang til etter en avtale om verdipapirlån som nevnt i <a data-id=\"lov/1999-03-26-14/§9-11\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A79-11\">§ 9-11</a> tredje ledd, anses realisert når skattyter erverver et identisk verdipapir (dekningskjøp). Verdipapiret anses likevel realisert senest på det tidspunkt skattyter gjør opp sin forpliktelse etter låneavtalen.</td></tr>",
         "text": "(1) Verdipapir som skattyter har fått tilgang til etter en avtale om verdipapirlån som nevnt i § 9-11 tredje ledd, anses realisert når skattyter erverver et identisk verdipapir (dekningskjøp). Verdipapiret anses likevel realisert senest på det tidspunkt skattyter gjør opp sin forpliktelse etter låneavtalen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Gevinst og tap skal beregnes etter følgende regler:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Gevinst og tap skal beregnes etter følgende regler:</td></tr>",
         "text": "(2) Gevinst og tap skal beregnes etter følgende regler:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utgangsverdien settes til vederlaget ved realisasjonen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utgangsverdien settes til vederlaget ved realisasjonen.</td></tr>",
         "text": "a.\tUtgangsverdien settes til vederlaget ved realisasjonen."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Inngangsverdien settes til summen av:</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Inngangsverdien settes til summen av:</td></tr>",
         "text": "b.\tInngangsverdien settes til summen av:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">anskaffelseskostnaden ved dekningskjøpet, eventuelt beløp som trer i stedet for tilbakelevering av lånt verdipapir,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">anskaffelseskostnaden ved dekningskjøpet, eventuelt beløp som trer i stedet for tilbakelevering av lånt verdipapir,</td></tr>",
         "text": "1.\tanskaffelseskostnaden ved dekningskjøpet, eventuelt beløp som trer i stedet for tilbakelevering av lånt verdipapir,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">premie (vederlag for lånet) betalt til utlåneren, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">premie (vederlag for lånet) betalt til utlåneren, og</td></tr>",
         "text": "2.\tpremie (vederlag for lånet) betalt til utlåneren, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kompensasjon for annen avkastning enn utbytte utdelt på utlånt verdipapir i låneperioden.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kompensasjon for annen avkastning enn utbytte utdelt på utlånt verdipapir i låneperioden.</td></tr>",
         "text": "3.\tkompensasjon for annen avkastning enn utbytte utdelt på utlånt verdipapir i låneperioden."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det gjøres ikke tillegg for positivt RISK-beløp etter <a data-id=\"lov/1999-03-26-14/§10-34\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-34\">§ 10-34</a> på dekningskjøpt aksje eller grunnfondsbevis i sparebanker.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det gjøres ikke tillegg for positivt RISK-beløp etter <a data-id=\"lov/1999-03-26-14/§10-34\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-34\">§ 10-34</a> på dekningskjøpt aksje eller grunnfondsbevis i sparebanker.</td></tr>",
         "text": "c.\tDet gjøres ikke tillegg for positivt RISK-beløp etter § 10-34 på dekningskjøpt aksje eller grunnfondsbevis i sparebanker."
     },
     {

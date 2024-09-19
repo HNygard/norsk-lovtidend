@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1915-08-13-5\" class=\" reference\" href=\"/lov/1915-08-13-5\">Lov av 13. august 1915 nr. 5</a> om domstolene (domstolloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1915-08-13-5\" class=\" reference\" href=\"/lov/1915-08-13-5\">Lov av 13. august 1915 nr. 5</a> om domstolene (domstolloven).</td></tr>",
         "text": "1.\tLov av 13. august 1915 nr. 5 om domstolene (domstolloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2001-06-15-63\" class=\" reference\" href=\"/lov/2001-06-15-63\">Lov av 15. juni 2001 nr. 63</a> om lov om endringer i straffeprosessloven mv. (gjenopptakelse).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2001-06-15-63\" class=\" reference\" href=\"/lov/2001-06-15-63\">Lov av 15. juni 2001 nr. 63</a> om lov om endringer i straffeprosessloven mv. (gjenopptakelse).</td></tr>",
         "text": "2.\tLov av 15. juni 2001 nr. 63 om lov om endringer i straffeprosessloven mv. (gjenopptakelse)."
     },
     {
@@ -200,13 +200,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at det ikke opplyses om navnet på en av politiets kilder eller informanter eller gis andre opplysninger som kan føre til at kildens eller informantens identitet blir kjent, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at det ikke opplyses om navnet på en av politiets kilder eller informanter eller gis andre opplysninger som kan føre til at kildens eller informantens identitet blir kjent, eller</td></tr>",
         "text": "a)\tat det ikke opplyses om navnet på en av politiets kilder eller informanter eller gis andre opplysninger som kan føre til at kildens eller informantens identitet blir kjent, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at det ikke opplyses om navnet på en person som har forklart seg for politiet eller gis andre opplysninger som kan føre til at personens identitet blir kjent.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at det ikke opplyses om navnet på en person som har forklart seg for politiet eller gis andre opplysninger som kan føre til at personens identitet blir kjent.</td></tr>",
         "text": "b)\tat det ikke opplyses om navnet på en person som har forklart seg for politiet eller gis andre opplysninger som kan føre til at personens identitet blir kjent."
     },
     {
@@ -224,25 +224,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en alvorlig forbrytelse mot noens liv, helse eller frihet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">en alvorlig forbrytelse mot noens liv, helse eller frihet,</td></tr>",
         "text": "a)\ten alvorlig forbrytelse mot noens liv, helse eller frihet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at muligheten for en person til å delta skjult i etterforskningen av andre saker som nevnt i annet ledd, blir vesentlig vanskeliggjort,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at muligheten for en person til å delta skjult i etterforskningen av andre saker som nevnt i annet ledd, blir vesentlig vanskeliggjort,</td></tr>",
         "text": "b)\tat muligheten for en person til å delta skjult i etterforskningen av andre saker som nevnt i annet ledd, blir vesentlig vanskeliggjort,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at muligheten for politiet til å forebygge eller etterforske forbrytelser som nevnt i annet ledd, blir vesentlig vanskeliggjort fordi informasjon om andre saker eller om politiets metodebruk blir kjent, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at muligheten for politiet til å forebygge eller etterforske forbrytelser som nevnt i annet ledd, blir vesentlig vanskeliggjort fordi informasjon om andre saker eller om politiets metodebruk blir kjent, eller</td></tr>",
         "text": "c)\tat muligheten for politiet til å forebygge eller etterforske forbrytelser som nevnt i annet ledd, blir vesentlig vanskeliggjort fordi informasjon om andre saker eller om politiets metodebruk blir kjent, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at politiets samarbeid med et annet lands myndigheter blir vesentlig vanskeliggjort.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at politiets samarbeid med et annet lands myndigheter blir vesentlig vanskeliggjort.</td></tr>",
         "text": "d)\tat politiets samarbeid med et annet lands myndigheter blir vesentlig vanskeliggjort."
     },
     {
@@ -260,13 +260,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">som etter loven kan medføre straff av fengsel i 5 år eller mer, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">som etter loven kan medføre straff av fengsel i 5 år eller mer, eller</td></tr>",
         "text": "a)\tsom etter loven kan medføre straff av fengsel i 5 år eller mer, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">som rammes av <a data-id=\"lov/2005-05-20-28/kap8\" class=\" reference\" href=\"/lov/2005-05-20-28/kap8\">straffeloven kapittel 8</a> eller 9 eller <a data-id=\"lov/2005-05-20-28/§162\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7162\">§ 162</a> eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. <a data-id=\"lov/1987-12-18-93/§5\" class=\" reference\" href=\"/lov/1987-12-18-93/%C2%A75\">§ 5</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">som rammes av <a data-id=\"lov/2005-05-20-28/kap8\" class=\" reference\" href=\"/lov/2005-05-20-28/kap8\">straffeloven kapittel 8</a> eller 9 eller <a data-id=\"lov/2005-05-20-28/§162\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7162\">§ 162</a> eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. <a data-id=\"lov/1987-12-18-93/§5\" class=\" reference\" href=\"/lov/1987-12-18-93/%C2%A75\">§ 5</a>.</td></tr>",
         "text": "b)\tsom rammes av straffeloven kapittel 8 eller 9 eller § 162 eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5."
     },
     {
@@ -296,7 +296,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">0\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endret ved rettelse 16. juni 2003. Se Norsk Lovtidend 8/2003.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">0\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endret ved rettelse 16. juni 2003. Se Norsk Lovtidend 8/2003.</td></tr>",
         "text": "0\tEndret ved rettelse 16. juni 2003. Se Norsk Lovtidend 8/2003."
     },
     {
@@ -398,19 +398,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjelder forhold som er uten betydning for dommens innhold,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjelder forhold som er uten betydning for dommens innhold,</td></tr>",
         "text": "a)\tgjelder forhold som er uten betydning for dommens innhold,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjelder forhold som allerede er tilstrekkelig bevist, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjelder forhold som allerede er tilstrekkelig bevist, eller</td></tr>",
         "text": "b)\tgjelder forhold som allerede er tilstrekkelig bevist, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">åpenbart ikke har noen beviskraft.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">åpenbart ikke har noen beviskraft.</td></tr>",
         "text": "c)\tåpenbart ikke har noen beviskraft."
     },
     {
@@ -428,25 +428,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en alvorlig forbrytelse mot noens liv, helse eller frihet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">en alvorlig forbrytelse mot noens liv, helse eller frihet,</td></tr>",
         "text": "a)\ten alvorlig forbrytelse mot noens liv, helse eller frihet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at muligheten for en person til å delta skjult i etterforskningen av andre saker som nevnt i annet ledd, blir vesentlig vanskeliggjort,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at muligheten for en person til å delta skjult i etterforskningen av andre saker som nevnt i annet ledd, blir vesentlig vanskeliggjort,</td></tr>",
         "text": "b)\tat muligheten for en person til å delta skjult i etterforskningen av andre saker som nevnt i annet ledd, blir vesentlig vanskeliggjort,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at muligheten for politiet til å forebygge eller etterforske forbrytelser som nevnt i annet ledd, blir vesentlig vanskeliggjort fordi informasjon om andre saker eller om politiets metodebruk blir kjent, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at muligheten for politiet til å forebygge eller etterforske forbrytelser som nevnt i annet ledd, blir vesentlig vanskeliggjort fordi informasjon om andre saker eller om politiets metodebruk blir kjent, eller</td></tr>",
         "text": "c)\tat muligheten for politiet til å forebygge eller etterforske forbrytelser som nevnt i annet ledd, blir vesentlig vanskeliggjort fordi informasjon om andre saker eller om politiets metodebruk blir kjent, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at politiets samarbeid med et annet lands myndigheter blir vesentlig vanskeliggjort.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at politiets samarbeid med et annet lands myndigheter blir vesentlig vanskeliggjort.</td></tr>",
         "text": "d)\tat politiets samarbeid med et annet lands myndigheter blir vesentlig vanskeliggjort."
     },
     {
@@ -464,13 +464,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">som etter loven kan medføre straff av fengsel i 5 år eller mer, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">som etter loven kan medføre straff av fengsel i 5 år eller mer, eller</td></tr>",
         "text": "a)\tsom etter loven kan medføre straff av fengsel i 5 år eller mer, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">som rammes av <a data-id=\"lov/2005-05-20-28/kap8\" class=\" reference\" href=\"/lov/2005-05-20-28/kap8\">straffeloven kapittel 8</a> eller 9 eller <a data-id=\"lov/2005-05-20-28/§162\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7162\">§ 162</a> eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. <a data-id=\"lov/1987-12-18-93/§5\" class=\" reference\" href=\"/lov/1987-12-18-93/%C2%A75\">§ 5</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">som rammes av <a data-id=\"lov/2005-05-20-28/kap8\" class=\" reference\" href=\"/lov/2005-05-20-28/kap8\">straffeloven kapittel 8</a> eller 9 eller <a data-id=\"lov/2005-05-20-28/§162\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7162\">§ 162</a> eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. <a data-id=\"lov/1987-12-18-93/§5\" class=\" reference\" href=\"/lov/1987-12-18-93/%C2%A75\">§ 5</a>.</td></tr>",
         "text": "b)\tsom rammes av straffeloven kapittel 8 eller 9 eller § 162 eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5."
     },
     {
@@ -494,13 +494,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når de avslår en begjæring om oppnevning av offentlig forsvarer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">når de avslår en begjæring om oppnevning av offentlig forsvarer,</td></tr>",
         "text": "4.\tnår de avslår en begjæring om oppnevning av offentlig forsvarer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når de er truffet etter bestemmelsene i § 242 a, § 264 sjette ledd, § 267 første ledd tredje punktum, jf. § 264 sjette ledd eller § 292 a.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">når de er truffet etter bestemmelsene i § 242 a, § 264 sjette ledd, § 267 første ledd tredje punktum, jf. § 264 sjette ledd eller § 292 a.</td></tr>",
         "text": "5.\tnår de er truffet etter bestemmelsene i § 242 a, § 264 sjette ledd, § 267 første ledd tredje punktum, jf. § 264 sjette ledd eller § 292 a."
     },
     {

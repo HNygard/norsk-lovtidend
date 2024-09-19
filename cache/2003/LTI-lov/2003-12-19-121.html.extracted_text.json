@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov av 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov av 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td></tr>",
         "text": "1\tLov av 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2000-03-24-16\" class=\" reference\" href=\"/lov/2000-03-24-16\">Lov av 24. mars 2000 nr. 16</a> om foretakspensjon.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2000-03-24-16\" class=\" reference\" href=\"/lov/2000-03-24-16\">Lov av 24. mars 2000 nr. 16</a> om foretakspensjon.</td></tr>",
         "text": "2\tLov av 24. mars 2000 nr. 16 om foretakspensjon."
     },
     {
@@ -86,19 +86,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsordninger med ytelsesbasert pensjon opprettet i livsforsikringsselskap eller i pensjonskasse av kommunal arbeidsgiver som er bundet av hovedtariffavtale inngått mellom arbeidsgiver- og arbeidstakerorganisasjonene i kommunal sektor, eller av tariffavtale med tilsvarende krav til pensjonsordning for kommunal arbeidsgiver,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsordninger med ytelsesbasert pensjon opprettet i livsforsikringsselskap eller i pensjonskasse av kommunal arbeidsgiver som er bundet av hovedtariffavtale inngått mellom arbeidsgiver- og arbeidstakerorganisasjonene i kommunal sektor, eller av tariffavtale med tilsvarende krav til pensjonsordning for kommunal arbeidsgiver,</td></tr>",
         "text": "a.\tpensjonsordninger med ytelsesbasert pensjon opprettet i livsforsikringsselskap eller i pensjonskasse av kommunal arbeidsgiver som er bundet av hovedtariffavtale inngått mellom arbeidsgiver- og arbeidstakerorganisasjonene i kommunal sektor, eller av tariffavtale med tilsvarende krav til pensjonsordning for kommunal arbeidsgiver,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilsvarende pensjonsordninger for statlige helseforetak og andre statlige foretak,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilsvarende pensjonsordninger for statlige helseforetak og andre statlige foretak,</td></tr>",
         "text": "b.\ttilsvarende pensjonsordninger for statlige helseforetak og andre statlige foretak,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilsvarende pensjonsordninger for foretak hvor en kommune har den bestemmende innflytelse eller har eller har hatt en kommunal eierandel, eller som har nær tilknytning til en kommune.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilsvarende pensjonsordninger for foretak hvor en kommune har den bestemmende innflytelse eller har eller har hatt en kommunal eierandel, eller som har nær tilknytning til en kommune.</td></tr>",
         "text": "c.\ttilsvarende pensjonsordninger for foretak hvor en kommune har den bestemmende innflytelse eller har eller har hatt en kommunal eierandel, eller som har nær tilknytning til en kommune."
     },
     {
@@ -530,43 +530,43 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsordninger i henhold til <a data-id=\"lov/2000-03-24-16\" class=\" reference\" href=\"/lov/2000-03-24-16\">lov 24. mars 2000 nr. 16</a> om foretakspensjon,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsordninger i henhold til <a data-id=\"lov/2000-03-24-16\" class=\" reference\" href=\"/lov/2000-03-24-16\">lov 24. mars 2000 nr. 16</a> om foretakspensjon,</td></tr>",
         "text": "a.\tpensjonsordninger i henhold til lov 24. mars 2000 nr. 16 om foretakspensjon,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsordninger i henhold til innskuddspensjonsloven,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsordninger i henhold til innskuddspensjonsloven,</td></tr>",
         "text": "b.\tpensjonsordninger i henhold til innskuddspensjonsloven,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsordninger som omfattes av <a data-id=\"lov/1988-06-10-39/kap8b\" class=\" reference\" href=\"/lov/1988-06-10-39/kap8b\">kapittel 8b</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsordninger som omfattes av <a data-id=\"lov/1988-06-10-39/kap8b\" class=\" reference\" href=\"/lov/1988-06-10-39/kap8b\">kapittel 8b</a>,</td></tr>",
         "text": "c.\tpensjonsordninger som omfattes av kapittel 8b,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre kollektive pensjonsordninger,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre kollektive pensjonsordninger,</td></tr>",
         "text": "d.\tandre kollektive pensjonsordninger,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fripoliser, pensjonskapitalbevis og tilsvarende individuelle pensjonsrettigheter utgått fra kollektive pensjonsordninger,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fripoliser, pensjonskapitalbevis og tilsvarende individuelle pensjonsrettigheter utgått fra kollektive pensjonsordninger,</td></tr>",
         "text": "e.\tfripoliser, pensjonskapitalbevis og tilsvarende individuelle pensjonsrettigheter utgått fra kollektive pensjonsordninger,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">individuelle pensjonsavtaler (pensjonsforsikrings- og livrentekontrakter, og andre pensjonsavtaler),</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">individuelle pensjonsavtaler (pensjonsforsikrings- og livrentekontrakter, og andre pensjonsavtaler),</td></tr>",
         "text": "f.\tindividuelle pensjonsavtaler (pensjonsforsikrings- og livrentekontrakter, og andre pensjonsavtaler),"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre livsforsikringskontrakter.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre livsforsikringskontrakter.</td></tr>",
         "text": "g.\tandre livsforsikringskontrakter."
     },
     {
@@ -956,7 +956,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Medregningen skal gjennomføres ved at arbeidstakeren gis et tillegg i den pensjonsgivende tjenestetid.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Medregningen skal gjennomføres ved at arbeidstakeren gis et tillegg i den pensjonsgivende tjenestetid.</td></tr>",
         "text": "(2) Medregningen skal gjennomføres ved at arbeidstakeren gis et tillegg i den pensjonsgivende tjenestetid."
     },
     {
@@ -968,7 +968,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> I regelverket for en pensjonsordning som har regler om medregning, skal det fastsettes som vilkår for medregning at midler knyttet til pensjon opptjent på grunnlag av tidligere tjenestetid i annet foretak blir overført til pensjonsordningen etter reglene i <a data-id=\"lov/1988-06-10-39/kap8c\" class=\" reference\" href=\"/lov/1988-06-10-39/kap8c\">lov om forsikringsvirksomhet kapittel 8c</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> I regelverket for en pensjonsordning som har regler om medregning, skal det fastsettes som vilkår for medregning at midler knyttet til pensjon opptjent på grunnlag av tidligere tjenestetid i annet foretak blir overført til pensjonsordningen etter reglene i <a data-id=\"lov/1988-06-10-39/kap8c\" class=\" reference\" href=\"/lov/1988-06-10-39/kap8c\">lov om forsikringsvirksomhet kapittel 8c</a>.</td></tr>",
         "text": "(3) I regelverket for en pensjonsordning som har regler om medregning, skal det fastsettes som vilkår for medregning at midler knyttet til pensjon opptjent på grunnlag av tidligere tjenestetid i annet foretak blir overført til pensjonsordningen etter reglene i lov om forsikringsvirksomhet kapittel 8c."
     },
     {
@@ -992,7 +992,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Skal tidligere tjenestetid fra annen pensjonsordning medregnes etter reglene i <a data-id=\"lov/2000-03-24-16/§4-11\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-11\">§§ 4-11</a> og <a data-id=\"lov/2000-03-24-16/§4-12\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-12\">4-12</a>, regnes tidspunktet for medlemskap fra et tilsvarende tidligere tidspunkt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Skal tidligere tjenestetid fra annen pensjonsordning medregnes etter reglene i <a data-id=\"lov/2000-03-24-16/§4-11\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-11\">§§ 4-11</a> og <a data-id=\"lov/2000-03-24-16/§4-12\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-12\">4-12</a>, regnes tidspunktet for medlemskap fra et tilsvarende tidligere tidspunkt.</td></tr>",
         "text": "(5) Skal tidligere tjenestetid fra annen pensjonsordning medregnes etter reglene i §§ 4-11 og 4-12, regnes tidspunktet for medlemskap fra et tilsvarende tidligere tidspunkt."
     },
     {
@@ -1004,7 +1004,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Bestemmelsene i <a data-id=\"lov/2000-03-24-16/§4-6\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-6\">§§ 4-6</a> og <a data-id=\"lov/2000-03-24-16/§4-7\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7\">4-7</a> gjelder medlemmer som slutter i foretaket etter at regelverket er endret som nevnt i første ledd, likevel slik at <a data-id=\"lov/2000-03-24-16/§4-7\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7\">§ 4-7</a> første ledd tredje punktum om adgang til overføring av premiereserve til individuell pensjonsforsikringsavtale etter skatteloven, også gjelder for fripolise utstedt i henhold til tidligere gjeldende regler.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Bestemmelsene i <a data-id=\"lov/2000-03-24-16/§4-6\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-6\">§§ 4-6</a> og <a data-id=\"lov/2000-03-24-16/§4-7\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7\">4-7</a> gjelder medlemmer som slutter i foretaket etter at regelverket er endret som nevnt i første ledd, likevel slik at <a data-id=\"lov/2000-03-24-16/§4-7\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7\">§ 4-7</a> første ledd tredje punktum om adgang til overføring av premiereserve til individuell pensjonsforsikringsavtale etter skatteloven, også gjelder for fripolise utstedt i henhold til tidligere gjeldende regler.</td></tr>",
         "text": "(7) Bestemmelsene i §§ 4-6 og 4-7 gjelder medlemmer som slutter i foretaket etter at regelverket er endret som nevnt i første ledd, likevel slik at § 4-7 første ledd tredje punktum om adgang til overføring av premiereserve til individuell pensjonsforsikringsavtale etter skatteloven, også gjelder for fripolise utstedt i henhold til tidligere gjeldende regler."
     },
     {
@@ -1028,7 +1028,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Som inntekt vunnet ved virksomhet regnes også midler overført fra premiefond i medhold av <a data-id=\"lov/2000-03-24-16/§10-4\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A710-4\">lov om foretakspensjon §§ 10-4</a> og <a data-id=\"lov/2000-03-24-16/§15-3\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-3\">15-3</a> tredje ledd siste punktum og midler overført fra innskuddsfond i medhold av <a data-id=\"lov/2000-11-24-81/§9-4\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A79-4\">innskuddspensjonsloven §§ 9-4</a> og <a data-id=\"lov/2000-11-24-81/§13-3\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A713-3\">13-3</a> annet ledd. Tilsvarende gjelder for midler overført fra premiefond i en kommunal pensjonsordning i medhold av forsikringsvirksomhetsloven § 8b-12.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Som inntekt vunnet ved virksomhet regnes også midler overført fra premiefond i medhold av <a data-id=\"lov/2000-03-24-16/§10-4\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A710-4\">lov om foretakspensjon §§ 10-4</a> og <a data-id=\"lov/2000-03-24-16/§15-3\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-3\">15-3</a> tredje ledd siste punktum og midler overført fra innskuddsfond i medhold av <a data-id=\"lov/2000-11-24-81/§9-4\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A79-4\">innskuddspensjonsloven §§ 9-4</a> og <a data-id=\"lov/2000-11-24-81/§13-3\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A713-3\">13-3</a> annet ledd. Tilsvarende gjelder for midler overført fra premiefond i en kommunal pensjonsordning i medhold av forsikringsvirksomhetsloven § 8b-12.</td></tr>",
         "text": "(4) Som inntekt vunnet ved virksomhet regnes også midler overført fra premiefond i medhold av lov om foretakspensjon §§ 10-4 og 15-3 tredje ledd siste punktum og midler overført fra innskuddsfond i medhold av innskuddspensjonsloven §§ 9-4 og 13-3 annet ledd. Tilsvarende gjelder for midler overført fra premiefond i en kommunal pensjonsordning i medhold av forsikringsvirksomhetsloven § 8b-12."
     },
     {
@@ -1040,13 +1040,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.</td></tr>",
         "text": "1.\tLoven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan fastsette overgangsregler.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan fastsette overgangsregler.</td></tr>",
         "text": "2.\tKongen kan fastsette overgangsregler."
     }
 ]

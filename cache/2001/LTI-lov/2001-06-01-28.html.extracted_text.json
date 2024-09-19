@@ -14,25 +14,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1935-06-07-2\" class=\" reference\" href=\"/lov/1935-06-07-2\">Lov 7. juni 1935 nr. 2</a> om tinglysing.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1935-06-07-2\" class=\" reference\" href=\"/lov/1935-06-07-2\">Lov 7. juni 1935 nr. 2</a> om tinglysing.</td></tr>",
         "text": "1\tLov 7. juni 1935 nr. 2 om tinglysing."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1982-12-17-86\" class=\" reference\" href=\"/lov/1982-12-17-86\">Lov 17. desember 1982 nr. 86</a> om rettsgebyr.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1982-12-17-86\" class=\" reference\" href=\"/lov/1982-12-17-86\">Lov 17. desember 1982 nr. 86</a> om rettsgebyr.</td></tr>",
         "text": "2\tLov 17. desember 1982 nr. 86 om rettsgebyr."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">Lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse og midlertidig sikring.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">Lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse og midlertidig sikring.</td></tr>",
         "text": "3\tLov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1996-12-20-106\" class=\" reference\" href=\"/lov/1996-12-20-106\">Lov 20. desember 1996 nr. 106</a> om tomtefeste.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1996-12-20-106\" class=\" reference\" href=\"/lov/1996-12-20-106\">Lov 20. desember 1996 nr. 106</a> om tomtefeste.</td></tr>",
         "text": "4\tLov 20. desember 1996 nr. 106 om tomtefeste."
     },
     {
@@ -86,7 +86,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> For pantsettelse av adkomstdokument til leierett til husrom gjelder <a data-id=\"lov/1980-02-08-2/§4-3\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A74-3\">§ 4-3</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> For pantsettelse av adkomstdokument til leierett til husrom gjelder <a data-id=\"lov/1980-02-08-2/§4-3\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A74-3\">§ 4-3</a>.</td></tr>",
         "text": "(3) For pantsettelse av adkomstdokument til leierett til husrom gjelder § 4-3."
     },
     {
@@ -104,7 +104,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Panterett i driftstilbehør omfatter ikke tilbehør til fast eiendom, jf. <a data-id=\"lov/1980-02-08-2/§2-2\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A72-2\">§ 2-2</a> første ledd bokstav c, og heller ikke ting som kan pantsettes etter <a data-id=\"lov/1980-02-08-2/§3-3\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-3\">§§ 3-3</a>, <a data-id=\"lov/1980-02-08-2/§3-8\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-8\">3-8</a>, <a data-id=\"lov/1980-02-08-2/§3-9\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-9\">3-9</a> eller <a data-id=\"lov/1980-02-08-2/§3-10\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-10\">3-10</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Panterett i driftstilbehør omfatter ikke tilbehør til fast eiendom, jf. <a data-id=\"lov/1980-02-08-2/§2-2\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A72-2\">§ 2-2</a> første ledd bokstav c, og heller ikke ting som kan pantsettes etter <a data-id=\"lov/1980-02-08-2/§3-3\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-3\">§§ 3-3</a>, <a data-id=\"lov/1980-02-08-2/§3-8\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-8\">3-8</a>, <a data-id=\"lov/1980-02-08-2/§3-9\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-9\">3-9</a> eller <a data-id=\"lov/1980-02-08-2/§3-10\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-10\">3-10</a>.</td></tr>",
         "text": "(4) Panterett i driftstilbehør omfatter ikke tilbehør til fast eiendom, jf. § 2-2 første ledd bokstav c, og heller ikke ting som kan pantsettes etter §§ 3-3, 3-8, 3-9 eller 3-10."
     },
     {
@@ -116,7 +116,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Hvis pantsetterens næringsvirksomhet består av flere avdelinger som driftsmessig er adskilt, kan driftstilbehøret for den enkelte avdeling pantsettes særskilt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Hvis pantsetterens næringsvirksomhet består av flere avdelinger som driftsmessig er adskilt, kan driftstilbehøret for den enkelte avdeling pantsettes særskilt.</td></tr>",
         "text": "(5) Hvis pantsetterens næringsvirksomhet består av flere avdelinger som driftsmessig er adskilt, kan driftstilbehøret for den enkelte avdeling pantsettes særskilt."
     },
     {
@@ -140,7 +140,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Panteretten får rettsvern ved tinglysing på eierens blad i Løsøreregisteret. Ved enkeltvis pantsettelse av registrert motorvogn blir panteretten da også beskyttet mot rettserverv etter <a data-id=\"lov/1978-06-02-37\" class=\" reference\" href=\"/lov/1978-06-02-37\">lov 2. juni 1978 nr. 37</a> om godtroerverv av løsøre.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Panteretten får rettsvern ved tinglysing på eierens blad i Løsøreregisteret. Ved enkeltvis pantsettelse av registrert motorvogn blir panteretten da også beskyttet mot rettserverv etter <a data-id=\"lov/1978-06-02-37\" class=\" reference\" href=\"/lov/1978-06-02-37\">lov 2. juni 1978 nr. 37</a> om godtroerverv av løsøre.</td></tr>",
         "text": "(2) Panteretten får rettsvern ved tinglysing på eierens blad i Løsøreregisteret. Ved enkeltvis pantsettelse av registrert motorvogn blir panteretten da også beskyttet mot rettserverv etter lov 2. juni 1978 nr. 37 om godtroerverv av løsøre."
     },
     {
@@ -152,7 +152,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> tredje ledd og <a data-id=\"lov/1980-02-08-2/§3-5\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-5\">§ 3-5</a> gjelder tilsvarende. For næringsdrivende i landbruksnæring gjelder <a data-id=\"lov/1980-02-08-2/§3-9\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-9\">§ 3-9</a> fjerde ledd tilsvarende. Ved samlet pantsettelse av alle pantsetterens motorvogner, anleggsmaskiner eller alt jernbanemateriell gjelder <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> femte ledd og <a data-id=\"lov/1980-02-08-2/§3-7\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-7\">§ 3-7</a> tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> tredje ledd og <a data-id=\"lov/1980-02-08-2/§3-5\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-5\">§ 3-5</a> gjelder tilsvarende. For næringsdrivende i landbruksnæring gjelder <a data-id=\"lov/1980-02-08-2/§3-9\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-9\">§ 3-9</a> fjerde ledd tilsvarende. Ved samlet pantsettelse av alle pantsetterens motorvogner, anleggsmaskiner eller alt jernbanemateriell gjelder <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> femte ledd og <a data-id=\"lov/1980-02-08-2/§3-7\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-7\">§ 3-7</a> tilsvarende.</td></tr>",
         "text": "(5) § 3-4 tredje ledd og § 3-5 gjelder tilsvarende. For næringsdrivende i landbruksnæring gjelder § 3-9 fjerde ledd tilsvarende. Ved samlet pantsettelse av alle pantsetterens motorvogner, anleggsmaskiner eller alt jernbanemateriell gjelder § 3-4 femte ledd og § 3-7 tilsvarende."
     },
     {
@@ -164,7 +164,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">merder og annet liknende utstyr som brukes eller er bestemt til bruk for oppdrett av organismer i saltvann eller ferskvann,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">merder og annet liknende utstyr som brukes eller er bestemt til bruk for oppdrett av organismer i saltvann eller ferskvann,</td></tr>",
         "text": "b)\tmerder og annet liknende utstyr som brukes eller er bestemt til bruk for oppdrett av organismer i saltvann eller ferskvann,"
     },
     {
@@ -176,13 +176,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Kongen kan fastsette i forskrift hva som skal regnes som næringsvirksomhet i landbruket.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Kongen kan fastsette i forskrift hva som skal regnes som næringsvirksomhet i landbruket.</td></tr>",
         "text": "(4) Kongen kan fastsette i forskrift hva som skal regnes som næringsvirksomhet i landbruket."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> tredje og femte ledd, <a data-id=\"lov/1980-02-08-2/§3-7\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-7\">§ 3-7</a> og <a data-id=\"lov/1980-02-08-2/§3-8\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-8\">§ 3-8</a> tredje ledd gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> tredje og femte ledd, <a data-id=\"lov/1980-02-08-2/§3-7\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-7\">§ 3-7</a> og <a data-id=\"lov/1980-02-08-2/§3-8\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-8\">§ 3-8</a> tredje ledd gjelder tilsvarende.</td></tr>",
         "text": "(5) § 3-4 tredje og femte ledd, § 3-7 og § 3-8 tredje ledd gjelder tilsvarende."
     },
     {
@@ -194,7 +194,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> tredje og femte ledd, <a data-id=\"lov/1980-02-08-2/§3-7\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-7\">§ 3-7</a> og <a data-id=\"lov/1980-02-08-2/§3-8\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-8\">§ 3-8</a> tredje ledd gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> tredje og femte ledd, <a data-id=\"lov/1980-02-08-2/§3-7\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-7\">§ 3-7</a> og <a data-id=\"lov/1980-02-08-2/§3-8\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-8\">§ 3-8</a> tredje ledd gjelder tilsvarende.</td></tr>",
         "text": "(3) § 3-4 tredje og femte ledd, § 3-7 og § 3-8 tredje ledd gjelder tilsvarende."
     },
     {
@@ -206,7 +206,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> <a data-id=\"lov/1980-02-08-2/§3-8\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-8\">§ 3-8</a> tredje ledd gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> <a data-id=\"lov/1980-02-08-2/§3-8\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-8\">§ 3-8</a> tredje ledd gjelder tilsvarende.</td></tr>",
         "text": "(2) § 3-8 tredje ledd gjelder tilsvarende."
     },
     {
@@ -224,19 +224,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Adkomstdokument til leierett til husrom kan pantsettes.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Adkomstdokument til leierett til husrom kan pantsettes.</td></tr>",
         "text": "(1) Adkomstdokument til leierett til husrom kan pantsettes."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Som adkomstdokument regnes dokument som representerer en leierett til husrom knyttet til en overførbar fordring på utleieren eller en andelsrett i et selskap.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Som adkomstdokument regnes dokument som representerer en leierett til husrom knyttet til en overførbar fordring på utleieren eller en andelsrett i et selskap.</td></tr>",
         "text": "(2) Som adkomstdokument regnes dokument som representerer en leierett til husrom knyttet til en overførbar fordring på utleieren eller en andelsrett i et selskap."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Panteretten får rettsvern ved at innskuddsbevis som er knyttet til leieretten og eventuelt andelsbevis i borettslag eller aksjebevis i aksjeselskap overleveres etter reglene i <a data-id=\"lov/1980-02-08-2/§3-2\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-2\">§ 3-2</a> annet ledd, eller ved at melding gis til besitteren av disse dokumentene etter reglene i <a data-id=\"lov/1980-02-08-2/§3-2\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-2\">§ 3-2</a> tredje ledd. I tillegg må det gis melding om pantsettelsen til vedkommende utleier eller selskap.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Panteretten får rettsvern ved at innskuddsbevis som er knyttet til leieretten og eventuelt andelsbevis i borettslag eller aksjebevis i aksjeselskap overleveres etter reglene i <a data-id=\"lov/1980-02-08-2/§3-2\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-2\">§ 3-2</a> annet ledd, eller ved at melding gis til besitteren av disse dokumentene etter reglene i <a data-id=\"lov/1980-02-08-2/§3-2\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-2\">§ 3-2</a> tredje ledd. I tillegg må det gis melding om pantsettelsen til vedkommende utleier eller selskap.</td></tr>",
         "text": "(3) Panteretten får rettsvern ved at innskuddsbevis som er knyttet til leieretten og eventuelt andelsbevis i borettslag eller aksjebevis i aksjeselskap overleveres etter reglene i § 3-2 annet ledd, eller ved at melding gis til besitteren av disse dokumentene etter reglene i § 3-2 tredje ledd. I tillegg må det gis melding om pantsettelsen til vedkommende utleier eller selskap."
     },
     {
@@ -260,7 +260,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Utleggspant i næringsdrivendes driftstilbehør som nevnt i <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> får rettsvern ved tinglysing på saksøktes blad i Løsøreregisteret. Bestemmelsene i <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§§ 3-4</a> og <a data-id=\"lov/1980-02-08-2/§3-5\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-5\">3-5</a> gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Utleggspant i næringsdrivendes driftstilbehør som nevnt i <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§ 3-4</a> får rettsvern ved tinglysing på saksøktes blad i Løsøreregisteret. Bestemmelsene i <a data-id=\"lov/1980-02-08-2/§3-4\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-4\">§§ 3-4</a> og <a data-id=\"lov/1980-02-08-2/§3-5\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A73-5\">3-5</a> gjelder tilsvarende.</td></tr>",
         "text": "(1) Utleggspant i næringsdrivendes driftstilbehør som nevnt i § 3-4 får rettsvern ved tinglysing på saksøktes blad i Løsøreregisteret. Bestemmelsene i §§ 3-4 og 3-5 gjelder tilsvarende."
     },
     {
@@ -596,19 +596,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td></tr>",
         "text": "1.\tLoven gjelder fra den tid Kongen bestemmer."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Panterett i driftstilbehør som er tinglyst i grunnboken før lovens ikrafttredelse, må tinglyses i Løsøreregisteret innen ett år etter ikrafttredelsen. Eldre panteretter som tinglyses i Løsøreregisteret innen utløpet av fristen, beholder rettsvern og prioritet etter tidligere lovgivning. For namsutlegg i driftstilbehør som tinglyses i Løsøreregisteret innen ett år etter ikrafttredelsen, får <a data-id=\"lov/1980-02-08-2/§5-13\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A75-13\">panteloven § 5-13</a> anvendelse, men slik at treårsfristen i første ledd første punktum skal regnes fra tidspunktet for re-tinglysing.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Panterett i driftstilbehør som er tinglyst i grunnboken før lovens ikrafttredelse, må tinglyses i Løsøreregisteret innen ett år etter ikrafttredelsen. Eldre panteretter som tinglyses i Løsøreregisteret innen utløpet av fristen, beholder rettsvern og prioritet etter tidligere lovgivning. For namsutlegg i driftstilbehør som tinglyses i Løsøreregisteret innen ett år etter ikrafttredelsen, får <a data-id=\"lov/1980-02-08-2/§5-13\" class=\" reference\" href=\"/lov/1980-02-08-2/%C2%A75-13\">panteloven § 5-13</a> anvendelse, men slik at treårsfristen i første ledd første punktum skal regnes fra tidspunktet for re-tinglysing.</td></tr>",
         "text": "2.\tPanterett i driftstilbehør som er tinglyst i grunnboken før lovens ikrafttredelse, må tinglyses i Løsøreregisteret innen ett år etter ikrafttredelsen. Eldre panteretter som tinglyses i Løsøreregisteret innen utløpet av fristen, beholder rettsvern og prioritet etter tidligere lovgivning. For namsutlegg i driftstilbehør som tinglyses i Løsøreregisteret innen ett år etter ikrafttredelsen, får panteloven § 5-13 anvendelse, men slik at treårsfristen i første ledd første punktum skal regnes fra tidspunktet for re-tinglysing."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringene i tvangsfullbyrdelsesloven gjelder for saker om tvangsfullbyrdelse der begjæringen om tvangsfullbyrdelse inngis etter at loven er trådt i kraft. Begjæring om tvangssalg av driftstilbehør som fremmes innen ett år etter lovens ikrafttredelse, skal være vedlagt attest fra grunnboken om eierforholdet og registrerte heftelser. <a data-id=\"lov/1992-06-26-86/§11-6\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A711-6\">Tvangsfullbyrdelsesloven § 11-6</a> annet ledd annet og tredje punktum gjelder tilsvarende for slike begjæringer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringene i tvangsfullbyrdelsesloven gjelder for saker om tvangsfullbyrdelse der begjæringen om tvangsfullbyrdelse inngis etter at loven er trådt i kraft. Begjæring om tvangssalg av driftstilbehør som fremmes innen ett år etter lovens ikrafttredelse, skal være vedlagt attest fra grunnboken om eierforholdet og registrerte heftelser. <a data-id=\"lov/1992-06-26-86/§11-6\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A711-6\">Tvangsfullbyrdelsesloven § 11-6</a> annet ledd annet og tredje punktum gjelder tilsvarende for slike begjæringer.</td></tr>",
         "text": "3.\tEndringene i tvangsfullbyrdelsesloven gjelder for saker om tvangsfullbyrdelse der begjæringen om tvangsfullbyrdelse inngis etter at loven er trådt i kraft. Begjæring om tvangssalg av driftstilbehør som fremmes innen ett år etter lovens ikrafttredelse, skal være vedlagt attest fra grunnboken om eierforholdet og registrerte heftelser. Tvangsfullbyrdelsesloven § 11-6 annet ledd annet og tredje punktum gjelder tilsvarende for slike begjæringer."
     }
 ]

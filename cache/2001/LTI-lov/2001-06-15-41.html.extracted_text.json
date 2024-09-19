@@ -14,19 +14,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1956-12-07-1\" class=\" reference\" href=\"/lov/1956-12-07-1\">Lov av 7. desember 1956 nr. 1</a> om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. (kredittilsynsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1956-12-07-1\" class=\" reference\" href=\"/lov/1956-12-07-1\">Lov av 7. desember 1956 nr. 1</a> om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. (kredittilsynsloven).</td></tr>",
         "text": "1.\tLov av 7. desember 1956 nr. 1 om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. (kredittilsynsloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1988-06-10-39\" class=\" reference\" href=\"/lov/1988-06-10-39\">Lov av 10. juni 1988 nr. 39</a> om forsikringsvirksomhet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1988-06-10-39\" class=\" reference\" href=\"/lov/1988-06-10-39\">Lov av 10. juni 1988 nr. 39</a> om forsikringsvirksomhet.</td></tr>",
         "text": "2.\tLov av 10. juni 1988 nr. 39 om forsikringsvirksomhet."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov av 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov av 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td></tr>",
         "text": "3.\tLov av 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
@@ -74,43 +74,43 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Et foretak med pensjonsordning etter loven her kan samtidig ha en ytelsesbasert eller en engangsbetalt foretakspensjonsordning.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Et foretak med pensjonsordning etter loven her kan samtidig ha en ytelsesbasert eller en engangsbetalt foretakspensjonsordning.</td></tr>",
         "text": "(1) Et foretak med pensjonsordning etter loven her kan samtidig ha en ytelsesbasert eller en engangsbetalt foretakspensjonsordning."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> For et foretak som har både pensjonsordning etter loven her og enten en ytelsesbasert eller en engangsbetalt foretakspensjonsordning (parallelle pensjonsordninger), gjelder følgende:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> For et foretak som har både pensjonsordning etter loven her og enten en ytelsesbasert eller en engangsbetalt foretakspensjonsordning (parallelle pensjonsordninger), gjelder følgende:</td></tr>",
         "text": "(2) For et foretak som har både pensjonsordning etter loven her og enten en ytelsesbasert eller en engangsbetalt foretakspensjonsordning (parallelle pensjonsordninger), gjelder følgende:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ingen arbeidstaker kan på samme tid være medlem av mer enn en av ordningene,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ingen arbeidstaker kan på samme tid være medlem av mer enn en av ordningene,</td></tr>",
         "text": "a.\tingen arbeidstaker kan på samme tid være medlem av mer enn en av ordningene,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">aldersgrensene skal være de samme i begge ordninger,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">aldersgrensene skal være de samme i begge ordninger,</td></tr>",
         "text": "b.\taldersgrensene skal være de samme i begge ordninger,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regelverket for de to ordningene skal utformes slik at alderspensjonsytelsene står i et rimelig forhold til hverandre og slik at urimelig forskjellsbehandling av grupper av arbeidstakere unngås,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">regelverket for de to ordningene skal utformes slik at alderspensjonsytelsene står i et rimelig forhold til hverandre og slik at urimelig forskjellsbehandling av grupper av arbeidstakere unngås,</td></tr>",
         "text": "c.\tregelverket for de to ordningene skal utformes slik at alderspensjonsytelsene står i et rimelig forhold til hverandre og slik at urimelig forskjellsbehandling av grupper av arbeidstakere unngås,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til ytelser ved uførhet og til etterlatte skal være utformet på samme måte i de to ordningene.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til ytelser ved uførhet og til etterlatte skal være utformet på samme måte i de to ordningene.</td></tr>",
         "text": "d.\trett til ytelser ved uførhet og til etterlatte skal være utformet på samme måte i de to ordningene."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Bestemmelsene i annet ledd gjelder tilsvarende ved endring av regelverket for en av eller begge pensjonsordninger.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Bestemmelsene i annet ledd gjelder tilsvarende ved endring av regelverket for en av eller begge pensjonsordninger.</td></tr>",
         "text": "(3) Bestemmelsene i annet ledd gjelder tilsvarende ved endring av regelverket for en av eller begge pensjonsordninger."
     },
     {
@@ -122,19 +122,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Når et foretak oppretter parallelle ordninger, skal hver enkelt arbeidstaker ha rett til å velge hvilken pensjonsordning vedkommende skal være medlem av. Det kan likevel fastsettes i regelverket at arbeidstakerorganisasjoner som har medlemmer ansatt i foretaket kan velge ordning for sine medlemmer. Det skal fastsettes i regelverket hvilken ordning arbeidstaker som ikke foretar noe valg etter første punktum skal være medlem av.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Når et foretak oppretter parallelle ordninger, skal hver enkelt arbeidstaker ha rett til å velge hvilken pensjonsordning vedkommende skal være medlem av. Det kan likevel fastsettes i regelverket at arbeidstakerorganisasjoner som har medlemmer ansatt i foretaket kan velge ordning for sine medlemmer. Det skal fastsettes i regelverket hvilken ordning arbeidstaker som ikke foretar noe valg etter første punktum skal være medlem av.</td></tr>",
         "text": "(1) Når et foretak oppretter parallelle ordninger, skal hver enkelt arbeidstaker ha rett til å velge hvilken pensjonsordning vedkommende skal være medlem av. Det kan likevel fastsettes i regelverket at arbeidstakerorganisasjoner som har medlemmer ansatt i foretaket kan velge ordning for sine medlemmer. Det skal fastsettes i regelverket hvilken ordning arbeidstaker som ikke foretar noe valg etter første punktum skal være medlem av."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsen i første ledd gjelder tilsvarende for arbeidstaker som blir ansatt i foretaket.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsen i første ledd gjelder tilsvarende for arbeidstaker som blir ansatt i foretaket.</td></tr>",
         "text": "(2) Bestemmelsen i første ledd gjelder tilsvarende for arbeidstaker som blir ansatt i foretaket."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> En arbeidstaker kan ikke velge å bli medlem av en pensjonsordning dersom reglene om medlemskap som gjelder for ordningen er til hinder for at arbeidstakeren opptas som medlem.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> En arbeidstaker kan ikke velge å bli medlem av en pensjonsordning dersom reglene om medlemskap som gjelder for ordningen er til hinder for at arbeidstakeren opptas som medlem.</td></tr>",
         "text": "(3) En arbeidstaker kan ikke velge å bli medlem av en pensjonsordning dersom reglene om medlemskap som gjelder for ordningen er til hinder for at arbeidstakeren opptas som medlem."
     },
     {
@@ -146,19 +146,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Regelverket skal inneholde bestemmelser om i hvilke tilfeller en arbeidstaker kan flytte sitt medlemskap fra den ene til den andre pensjonsordningen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Regelverket skal inneholde bestemmelser om i hvilke tilfeller en arbeidstaker kan flytte sitt medlemskap fra den ene til den andre pensjonsordningen.</td></tr>",
         "text": "(1) Regelverket skal inneholde bestemmelser om i hvilke tilfeller en arbeidstaker kan flytte sitt medlemskap fra den ene til den andre pensjonsordningen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> En arbeidstaker skal i alle tilfelle ha rett til flytting av medlemskap ved vesentlig endring av innskudds- eller ytelsesplan eller av regelverket for øvrig i en av pensjonsordningene, dersom endringen er av betydning for fremtidige rettigheter i ordningen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> En arbeidstaker skal i alle tilfelle ha rett til flytting av medlemskap ved vesentlig endring av innskudds- eller ytelsesplan eller av regelverket for øvrig i en av pensjonsordningene, dersom endringen er av betydning for fremtidige rettigheter i ordningen.</td></tr>",
         "text": "(2) En arbeidstaker skal i alle tilfelle ha rett til flytting av medlemskap ved vesentlig endring av innskudds- eller ytelsesplan eller av regelverket for øvrig i en av pensjonsordningene, dersom endringen er av betydning for fremtidige rettigheter i ordningen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Ved flytting av medlemskap gjelder bestemmelsene om opphør av medlemskap tilsvarende. Grensen på 12 måneder i <a data-id=\"lov/2000-11-24-81/§6-1\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A76-1\">§ 6-1</a> annet ledd gjelder samlet medlemskap i de to ordningene.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Ved flytting av medlemskap gjelder bestemmelsene om opphør av medlemskap tilsvarende. Grensen på 12 måneder i <a data-id=\"lov/2000-11-24-81/§6-1\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A76-1\">§ 6-1</a> annet ledd gjelder samlet medlemskap i de to ordningene.</td></tr>",
         "text": "(3) Ved flytting av medlemskap gjelder bestemmelsene om opphør av medlemskap tilsvarende. Grensen på 12 måneder i § 6-1 annet ledd gjelder samlet medlemskap i de to ordningene."
     },
     {
@@ -188,13 +188,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltes i spareavtale med institusjon som nevnt i <a data-id=\"lov/2000-11-24-81/§2-2\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A72-2\">§ 2-2</a>, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltes i spareavtale med institusjon som nevnt i <a data-id=\"lov/2000-11-24-81/§2-2\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A72-2\">§ 2-2</a>, eller</td></tr>",
         "text": "a.\tforvaltes i spareavtale med institusjon som nevnt i § 2-2, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">konverteres til pensjonsforsikring i livsforsikringsselskap eller pensjonskasse som nevnt i <a data-id=\"lov/2000-11-24-81/§2-2\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A72-2\">§ 2-2</a>. Pensjonskasse som konverterer pensjonskapital etter bestemmelsen her, skal oppfylle kravene i <a data-id=\"lov/2000-03-24-16/§2-2\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A72-2\">lov om foretakspensjon § 2-2</a> annet ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">konverteres til pensjonsforsikring i livsforsikringsselskap eller pensjonskasse som nevnt i <a data-id=\"lov/2000-11-24-81/§2-2\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A72-2\">§ 2-2</a>. Pensjonskasse som konverterer pensjonskapital etter bestemmelsen her, skal oppfylle kravene i <a data-id=\"lov/2000-03-24-16/§2-2\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A72-2\">lov om foretakspensjon § 2-2</a> annet ledd.</td></tr>",
         "text": "b.\tkonverteres til pensjonsforsikring i livsforsikringsselskap eller pensjonskasse som nevnt i § 2-2. Pensjonskasse som konverterer pensjonskapital etter bestemmelsen her, skal oppfylle kravene i lov om foretakspensjon § 2-2 annet ledd."
     },
     {
@@ -224,7 +224,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnad i henhold til <a data-id=\"lov/2000-11-24-81/§14-1\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A714-1\">§ 14-1</a> fjerde ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnad i henhold til <a data-id=\"lov/2000-11-24-81/§14-1\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A714-1\">§ 14-1</a> fjerde ledd.</td></tr>",
         "text": "c.\tkostnad i henhold til § 14-1 fjerde ledd."
     },
     {
@@ -236,7 +236,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Foretaket kan ikke bruke midler i innskuddsfondet til formål som nevnt i første ledd bokstav c og d, med mindre innskuddsfondet fortsatt vil være tilstrekkelig til å sikre at forpliktelser som nevnt i første ledd bokstav a blir dekket for inneværende og neste år.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Foretaket kan ikke bruke midler i innskuddsfondet til formål som nevnt i første ledd bokstav c og d, med mindre innskuddsfondet fortsatt vil være tilstrekkelig til å sikre at forpliktelser som nevnt i første ledd bokstav a blir dekket for inneværende og neste år.</td></tr>",
         "text": "(2) Foretaket kan ikke bruke midler i innskuddsfondet til formål som nevnt i første ledd bokstav c og d, med mindre innskuddsfondet fortsatt vil være tilstrekkelig til å sikre at forpliktelser som nevnt i første ledd bokstav a blir dekket for inneværende og neste år."
     },
     {
@@ -248,7 +248,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Er innskuddsfondet ved årets utgang større enn seks ganger gjennomsnittet av årets innskudd etter innskuddsplanen og tilsvarende innskudd for de to foregående år, skal foretaket sørge for at det overskytende beløp overføres til foretaket.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Er innskuddsfondet ved årets utgang større enn seks ganger gjennomsnittet av årets innskudd etter innskuddsplanen og tilsvarende innskudd for de to foregående år, skal foretaket sørge for at det overskytende beløp overføres til foretaket.</td></tr>",
         "text": "(1) Er innskuddsfondet ved årets utgang større enn seks ganger gjennomsnittet av årets innskudd etter innskuddsplanen og tilsvarende innskudd for de to foregående år, skal foretaket sørge for at det overskytende beløp overføres til foretaket."
     },
     {
@@ -260,7 +260,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i kapitlet her er ikke til hinder for at det sammenslåtte foretaket kan ha parallelle pensjonsordninger.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i kapitlet her er ikke til hinder for at det sammenslåtte foretaket kan ha parallelle pensjonsordninger.</td></tr>",
         "text": "(2) Bestemmelsene i kapitlet her er ikke til hinder for at det sammenslåtte foretaket kan ha parallelle pensjonsordninger."
     },
     {
@@ -296,7 +296,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av pensjonskapitalbevis ved omdanning etter paragrafen her, skal de resterende kostnadene først dekkes av midler i innskuddsfondet og deretter ved innbetaling fra foretaket dersom midlene i innskuddsfondet ikke er tilstrekkelige.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av pensjonskapitalbevis ved omdanning etter paragrafen her, skal de resterende kostnadene først dekkes av midler i innskuddsfondet og deretter ved innbetaling fra foretaket dersom midlene i innskuddsfondet ikke er tilstrekkelige.</td></tr>",
         "text": "(4) Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av pensjonskapitalbevis ved omdanning etter paragrafen her, skal de resterende kostnadene først dekkes av midler i innskuddsfondet og deretter ved innbetaling fra foretaket dersom midlene i innskuddsfondet ikke er tilstrekkelige."
     },
     {
@@ -344,43 +344,43 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Et foretak med pensjonsordning etter loven her kan samtidig ha en pensjonsordning etter innskuddspensjonsloven. Et foretak kan ha to pensjonsordninger etter loven her dersom den ene har ytelsesbasert og den andre engangsbetalt alderspensjon.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Et foretak med pensjonsordning etter loven her kan samtidig ha en pensjonsordning etter innskuddspensjonsloven. Et foretak kan ha to pensjonsordninger etter loven her dersom den ene har ytelsesbasert og den andre engangsbetalt alderspensjon.</td></tr>",
         "text": "(1) Et foretak med pensjonsordning etter loven her kan samtidig ha en pensjonsordning etter innskuddspensjonsloven. Et foretak kan ha to pensjonsordninger etter loven her dersom den ene har ytelsesbasert og den andre engangsbetalt alderspensjon."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> For et foretak som både har pensjonsordning etter loven her og etter innskuddspensjonsloven eller har både en ytelsesbasert og en engangsbetalt alderspensjonsordning etter loven her (parallelle pensjonsordninger), gjelder følgende:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> For et foretak som både har pensjonsordning etter loven her og etter innskuddspensjonsloven eller har både en ytelsesbasert og en engangsbetalt alderspensjonsordning etter loven her (parallelle pensjonsordninger), gjelder følgende:</td></tr>",
         "text": "(2) For et foretak som både har pensjonsordning etter loven her og etter innskuddspensjonsloven eller har både en ytelsesbasert og en engangsbetalt alderspensjonsordning etter loven her (parallelle pensjonsordninger), gjelder følgende:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ingen arbeidstaker kan på samme tid være medlem av mer enn en av ordningene,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ingen arbeidstaker kan på samme tid være medlem av mer enn en av ordningene,</td></tr>",
         "text": "a.\tingen arbeidstaker kan på samme tid være medlem av mer enn en av ordningene,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">aldersgrensene skal være de samme i begge ordninger,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">aldersgrensene skal være de samme i begge ordninger,</td></tr>",
         "text": "b.\taldersgrensene skal være de samme i begge ordninger,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">regelverket i de to ordningene skal utformes slik at alderspensjonsytelsene står i et rimelig forhold til hverandre og slik at urimelig forskjellsbehandling av grupper av arbeidstakere unngås,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">regelverket i de to ordningene skal utformes slik at alderspensjonsytelsene står i et rimelig forhold til hverandre og slik at urimelig forskjellsbehandling av grupper av arbeidstakere unngås,</td></tr>",
         "text": "c.\tregelverket i de to ordningene skal utformes slik at alderspensjonsytelsene står i et rimelig forhold til hverandre og slik at urimelig forskjellsbehandling av grupper av arbeidstakere unngås,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til ytelser ved uførhet og til etterlatte skal være utformet på samme måte i de to ordningene.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett til ytelser ved uførhet og til etterlatte skal være utformet på samme måte i de to ordningene.</td></tr>",
         "text": "d.\trett til ytelser ved uførhet og til etterlatte skal være utformet på samme måte i de to ordningene."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Bestemmelsene i annet ledd gjelder tilsvarende ved endring av regelverket for en av eller begge pensjonsordninger.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Bestemmelsene i annet ledd gjelder tilsvarende ved endring av regelverket for en av eller begge pensjonsordninger.</td></tr>",
         "text": "(3) Bestemmelsene i annet ledd gjelder tilsvarende ved endring av regelverket for en av eller begge pensjonsordninger."
     },
     {
@@ -392,19 +392,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Når et foretak oppretter parallelle ordninger, skal hver enkelt arbeidstaker ha rett til å velge hvilken pensjonsordning vedkommende skal være medlem av. Det kan likevel fastsettes i regelverket at arbeidstakerorganisasjoner som har medlemmer ansatt i foretaket kan velge ordning for sine medlemmer. Det skal fastsettes i regelverket hvilken ordning arbeidstaker som ikke foretar noe valg etter første punktum skal være medlem av.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Når et foretak oppretter parallelle ordninger, skal hver enkelt arbeidstaker ha rett til å velge hvilken pensjonsordning vedkommende skal være medlem av. Det kan likevel fastsettes i regelverket at arbeidstakerorganisasjoner som har medlemmer ansatt i foretaket kan velge ordning for sine medlemmer. Det skal fastsettes i regelverket hvilken ordning arbeidstaker som ikke foretar noe valg etter første punktum skal være medlem av.</td></tr>",
         "text": "(1) Når et foretak oppretter parallelle ordninger, skal hver enkelt arbeidstaker ha rett til å velge hvilken pensjonsordning vedkommende skal være medlem av. Det kan likevel fastsettes i regelverket at arbeidstakerorganisasjoner som har medlemmer ansatt i foretaket kan velge ordning for sine medlemmer. Det skal fastsettes i regelverket hvilken ordning arbeidstaker som ikke foretar noe valg etter første punktum skal være medlem av."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsen i første ledd gjelder tilsvarende for arbeidstaker som blir ansatt i foretaket.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsen i første ledd gjelder tilsvarende for arbeidstaker som blir ansatt i foretaket.</td></tr>",
         "text": "(2) Bestemmelsen i første ledd gjelder tilsvarende for arbeidstaker som blir ansatt i foretaket."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> En arbeidstaker kan ikke velge å bli medlem av en pensjonsordning dersom reglene om medlemskap som gjelder for ordningen er til hinder for at arbeidstakeren opptas som medlem.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> En arbeidstaker kan ikke velge å bli medlem av en pensjonsordning dersom reglene om medlemskap som gjelder for ordningen er til hinder for at arbeidstakeren opptas som medlem.</td></tr>",
         "text": "(3) En arbeidstaker kan ikke velge å bli medlem av en pensjonsordning dersom reglene om medlemskap som gjelder for ordningen er til hinder for at arbeidstakeren opptas som medlem."
     },
     {
@@ -416,19 +416,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Regelverket skal inneholde bestemmelser om i hvilke tilfeller en arbeidstaker kan flytte sitt medlemskap fra den ene til den andre pensjonsordningen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Regelverket skal inneholde bestemmelser om i hvilke tilfeller en arbeidstaker kan flytte sitt medlemskap fra den ene til den andre pensjonsordningen.</td></tr>",
         "text": "(1) Regelverket skal inneholde bestemmelser om i hvilke tilfeller en arbeidstaker kan flytte sitt medlemskap fra den ene til den andre pensjonsordningen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> En arbeidstaker skal i alle tilfelle ha rett til flytting av medlemskap ved vesentlig endring av innskudds- eller ytelsesplan eller av regelverket for øvrig i en av pensjonsordningene, dersom endringen er av betydning for fremtidige rettigheter i ordningen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> En arbeidstaker skal i alle tilfelle ha rett til flytting av medlemskap ved vesentlig endring av innskudds- eller ytelsesplan eller av regelverket for øvrig i en av pensjonsordningene, dersom endringen er av betydning for fremtidige rettigheter i ordningen.</td></tr>",
         "text": "(2) En arbeidstaker skal i alle tilfelle ha rett til flytting av medlemskap ved vesentlig endring av innskudds- eller ytelsesplan eller av regelverket for øvrig i en av pensjonsordningene, dersom endringen er av betydning for fremtidige rettigheter i ordningen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Ved flytting av medlemskap gjelder bestemmelsene om opphør av medlemskap tilsvarende. Grensen på 12 måneder i <a data-id=\"lov/2000-03-24-16/§4-6\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-6\">§ 4-6</a> annet ledd gjelder samlet medlemskap i de to ordningene.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Ved flytting av medlemskap gjelder bestemmelsene om opphør av medlemskap tilsvarende. Grensen på 12 måneder i <a data-id=\"lov/2000-03-24-16/§4-6\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-6\">§ 4-6</a> annet ledd gjelder samlet medlemskap i de to ordningene.</td></tr>",
         "text": "(3) Ved flytting av medlemskap gjelder bestemmelsene om opphør av medlemskap tilsvarende. Grensen på 12 måneder i § 4-6 annet ledd gjelder samlet medlemskap i de to ordningene."
     },
     {
@@ -440,7 +440,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnad i henhold til <a data-id=\"lov/2000-03-24-16/§15-5\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-5\">§§ 15-5</a> syvende ledd og 15-6 fjerde ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnad i henhold til <a data-id=\"lov/2000-03-24-16/§15-5\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-5\">§§ 15-5</a> syvende ledd og 15-6 fjerde ledd.</td></tr>",
         "text": "f.\tkostnad i henhold til §§ 15-5 syvende ledd og 15-6 fjerde ledd."
     },
     {
@@ -452,7 +452,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Foretaket kan ikke bruke midler i premiefondet til formål som nevnt i første ledd bokstav b til d og f, med mindre premiefondet fortsatt vil være tilstrekkelig til å sikre at årets premie og premien for neste år blir betalt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Foretaket kan ikke bruke midler i premiefondet til formål som nevnt i første ledd bokstav b til d og f, med mindre premiefondet fortsatt vil være tilstrekkelig til å sikre at årets premie og premien for neste år blir betalt.</td></tr>",
         "text": "(2) Foretaket kan ikke bruke midler i premiefondet til formål som nevnt i første ledd bokstav b til d og f, med mindre premiefondet fortsatt vil være tilstrekkelig til å sikre at årets premie og premien for neste år blir betalt."
     },
     {
@@ -464,7 +464,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i kapitlet her er ikke til hinder for at det sammenslåtte foretaket kan ha parallelle pensjonsordninger.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i kapitlet her er ikke til hinder for at det sammenslåtte foretaket kan ha parallelle pensjonsordninger.</td></tr>",
         "text": "(2) Bestemmelsene i kapitlet her er ikke til hinder for at det sammenslåtte foretaket kan ha parallelle pensjonsordninger."
     },
     {
@@ -488,19 +488,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Ved opprettelse av ordning med engangsbetalt alderspensjon kan foretaket velge å videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av denne ordningen på tidspunktet for opprettelsen. Arbeidstakerne skal kunne velge å gå over til ny ordning med engangsbetalt alderspensjon. Den videreførte ordningen kan ikke endres slik at utformingen av rett til alderspensjon, uførepensjon og etterlattepensjon i de to ordningene gir ytelser som står i et mindre rimelig forhold til hverandre enn på tidspunktet for opprettelsen av ny ordning.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Ved opprettelse av ordning med engangsbetalt alderspensjon kan foretaket velge å videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av denne ordningen på tidspunktet for opprettelsen. Arbeidstakerne skal kunne velge å gå over til ny ordning med engangsbetalt alderspensjon. Den videreførte ordningen kan ikke endres slik at utformingen av rett til alderspensjon, uførepensjon og etterlattepensjon i de to ordningene gir ytelser som står i et mindre rimelig forhold til hverandre enn på tidspunktet for opprettelsen av ny ordning.</td></tr>",
         "text": "(5) Ved opprettelse av ordning med engangsbetalt alderspensjon kan foretaket velge å videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av denne ordningen på tidspunktet for opprettelsen. Arbeidstakerne skal kunne velge å gå over til ny ordning med engangsbetalt alderspensjon. Den videreførte ordningen kan ikke endres slik at utformingen av rett til alderspensjon, uførepensjon og etterlattepensjon i de to ordningene gir ytelser som står i et mindre rimelig forhold til hverandre enn på tidspunktet for opprettelsen av ny ordning."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Foretaket kan velge å kun videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av ordningen på tidspunktet for opprettelse av ny foretakspensjonsordning med engangsbetalt alderspensjon, og som da har 15 år eller mindre igjen til oppnådd pensjonsalder. Ved slik videreføring av foretakspensjonsordning, omfattes ikke disse arbeidstakere av femte ledd annet punktum. Femte ledd tredje punktum gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Foretaket kan velge å kun videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av ordningen på tidspunktet for opprettelse av ny foretakspensjonsordning med engangsbetalt alderspensjon, og som da har 15 år eller mindre igjen til oppnådd pensjonsalder. Ved slik videreføring av foretakspensjonsordning, omfattes ikke disse arbeidstakere av femte ledd annet punktum. Femte ledd tredje punktum gjelder tilsvarende.</td></tr>",
         "text": "(6) Foretaket kan velge å kun videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av ordningen på tidspunktet for opprettelse av ny foretakspensjonsordning med engangsbetalt alderspensjon, og som da har 15 år eller mindre igjen til oppnådd pensjonsalder. Ved slik videreføring av foretakspensjonsordning, omfattes ikke disse arbeidstakere av femte ledd annet punktum. Femte ledd tredje punktum gjelder tilsvarende."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av fripoliser ved omdanning og lukking etter paragrafen her, skal de resterende kostnadene først dekkes av midler i premiefondet og deretter ved innbetaling fra foretaket dersom midlene i premiefondet ikke er tilstrekkelige.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av fripoliser ved omdanning og lukking etter paragrafen her, skal de resterende kostnadene først dekkes av midler i premiefondet og deretter ved innbetaling fra foretaket dersom midlene i premiefondet ikke er tilstrekkelige.</td></tr>",
         "text": "(7) Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av fripoliser ved omdanning og lukking etter paragrafen her, skal de resterende kostnadene først dekkes av midler i premiefondet og deretter ved innbetaling fra foretaket dersom midlene i premiefondet ikke er tilstrekkelige."
     },
     {
@@ -518,25 +518,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Et foretak som har pensjonsordning etter loven her og som i stedet vil opprette pensjonsordning etter innskuddspensjonsloven, skal avvikle pensjonsordningen etter reglene i kapitlet her. Premiefond knyttet til pensjonsordningen kan likevel overføres som innskuddsfond for den nye pensjonsordningen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Et foretak som har pensjonsordning etter loven her og som i stedet vil opprette pensjonsordning etter innskuddspensjonsloven, skal avvikle pensjonsordningen etter reglene i kapitlet her. Premiefond knyttet til pensjonsordningen kan likevel overføres som innskuddsfond for den nye pensjonsordningen.</td></tr>",
         "text": "(1) Et foretak som har pensjonsordning etter loven her og som i stedet vil opprette pensjonsordning etter innskuddspensjonsloven, skal avvikle pensjonsordningen etter reglene i kapitlet her. Premiefond knyttet til pensjonsordningen kan likevel overføres som innskuddsfond for den nye pensjonsordningen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Foretaket kan velge å videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av denne ordningen på tidspunktet for opprettelsen av ny innskuddspensjonsordning. Arbeidstakerne skal kunne velge å gå over til ny innskuddspensjonsordning. <a data-id=\"lov/2000-03-24-16/§15-5\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-5\">§ 15-5</a> femte ledd tredje punktum gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Foretaket kan velge å videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av denne ordningen på tidspunktet for opprettelsen av ny innskuddspensjonsordning. Arbeidstakerne skal kunne velge å gå over til ny innskuddspensjonsordning. <a data-id=\"lov/2000-03-24-16/§15-5\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-5\">§ 15-5</a> femte ledd tredje punktum gjelder tilsvarende.</td></tr>",
         "text": "(2) Foretaket kan velge å videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av denne ordningen på tidspunktet for opprettelsen av ny innskuddspensjonsordning. Arbeidstakerne skal kunne velge å gå over til ny innskuddspensjonsordning. § 15-5 femte ledd tredje punktum gjelder tilsvarende."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Foretaket kan velge å kun videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av ordningen på tidspunktet for opprettelse av ny innskuddspensjonsordning, og som da har 15 år eller mindre igjen til oppnådd pensjonsalder. Ved slik videreføring av foretakspensjonsordning, omfattes ikke disse arbeidstakere av annet ledd annet punktum. <a data-id=\"lov/2000-03-24-16/§15-5\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-5\">§ 15-5</a> femte ledd tredje punktum gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Foretaket kan velge å kun videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av ordningen på tidspunktet for opprettelse av ny innskuddspensjonsordning, og som da har 15 år eller mindre igjen til oppnådd pensjonsalder. Ved slik videreføring av foretakspensjonsordning, omfattes ikke disse arbeidstakere av annet ledd annet punktum. <a data-id=\"lov/2000-03-24-16/§15-5\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-5\">§ 15-5</a> femte ledd tredje punktum gjelder tilsvarende.</td></tr>",
         "text": "(3) Foretaket kan velge å kun videreføre ytelsesbasert foretakspensjonsordning for arbeidstakere som er medlem av ordningen på tidspunktet for opprettelse av ny innskuddspensjonsordning, og som da har 15 år eller mindre igjen til oppnådd pensjonsalder. Ved slik videreføring av foretakspensjonsordning, omfattes ikke disse arbeidstakere av annet ledd annet punktum. § 15-5 femte ledd tredje punktum gjelder tilsvarende."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av fripoliser ved omdanning og lukking etter paragrafen her, skal de resterende kostnadene først dekkes av midler i premiefondet og deretter ved innbetaling fra foretaket dersom midlene i premiefondet ikke er tilstrekkelig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av fripoliser ved omdanning og lukking etter paragrafen her, skal de resterende kostnadene først dekkes av midler i premiefondet og deretter ved innbetaling fra foretaket dersom midlene i premiefondet ikke er tilstrekkelig.</td></tr>",
         "text": "(4) Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av fripoliser ved omdanning og lukking etter paragrafen her, skal de resterende kostnadene først dekkes av midler i premiefondet og deretter ved innbetaling fra foretaket dersom midlene i premiefondet ikke er tilstrekkelig."
     },
     {
@@ -560,7 +560,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnad i henhold til <a data-id=\"lov/2000-03-24-16/§15-5\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-5\">lov om foretakspensjon § 15-5</a> syvende ledd og <a data-id=\"lov/2000-03-24-16/§15-6\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-6\">§ 15-6</a> fjerde ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnad i henhold til <a data-id=\"lov/2000-03-24-16/§15-5\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-5\">lov om foretakspensjon § 15-5</a> syvende ledd og <a data-id=\"lov/2000-03-24-16/§15-6\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A715-6\">§ 15-6</a> fjerde ledd.</td></tr>",
         "text": "f.\tkostnad i henhold til lov om foretakspensjon § 15-5 syvende ledd og § 15-6 fjerde ledd."
     },
     {
@@ -572,7 +572,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd til innskuddsfond med inntil 50 prosent av gjennomsnittet av det beløp som er nevnt under a og den skattepliktiges andel av årets innskudd i de to foregående årene, likevel bare så langt fondet ikke overstiger seks ganger gjennomsnittet av det beløp som er nevnt under a og den skattepliktiges andel av innskuddet i de to foregående år.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd til innskuddsfond med inntil 50 prosent av gjennomsnittet av det beløp som er nevnt under a og den skattepliktiges andel av årets innskudd i de to foregående årene, likevel bare så langt fondet ikke overstiger seks ganger gjennomsnittet av det beløp som er nevnt under a og den skattepliktiges andel av innskuddet i de to foregående år.</td></tr>",
         "text": "b.\ttilskudd til innskuddsfond med inntil 50 prosent av gjennomsnittet av det beløp som er nevnt under a og den skattepliktiges andel av årets innskudd i de to foregående årene, likevel bare så langt fondet ikke overstiger seks ganger gjennomsnittet av det beløp som er nevnt under a og den skattepliktiges andel av innskuddet i de to foregående år."
     },
     {
@@ -584,7 +584,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd og kostnad i henhold til <a data-id=\"lov/2000-11-24-81/§3-4\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A73-4\">innskuddspensjonsloven § 3-4</a> femte ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd og kostnad i henhold til <a data-id=\"lov/2000-11-24-81/§3-4\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A73-4\">innskuddspensjonsloven § 3-4</a> femte ledd.</td></tr>",
         "text": "c.\ttilskudd og kostnad i henhold til innskuddspensjonsloven § 3-4 femte ledd."
     },
     {
@@ -596,7 +596,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnad i henhold til <a data-id=\"lov/2000-11-24-81/§14-1\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A714-1\">innskuddspensjonsloven § 14-1</a> fjerde ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kostnad i henhold til <a data-id=\"lov/2000-11-24-81/§14-1\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A714-1\">innskuddspensjonsloven § 14-1</a> fjerde ledd.</td></tr>",
         "text": "d.\tkostnad i henhold til innskuddspensjonsloven § 14-1 fjerde ledd."
     },
     {
@@ -608,7 +608,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">premie til fortsettelsesforsikring etter <a data-id=\"lov/2000-03-24-16/§4-9\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-9\">lov om foretakspensjon § 4-9</a> knyttet til fripolise utstedt til den skattepliktige som følge av at medlemskap i foretakspensjonsordningen er opphørt av annen grunn enn den skattepliktiges alder. Det samme gjelder innskudd til alderspensjon etter <a data-id=\"lov/2000-11-24-81/§6-5\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A76-5\">innskuddspensjonsloven § 6-5</a> første ledd som følge av at medlemskap i innskuddspensjonsordningen er opphørt av annen grunn enn den skattepliktiges alder. Fradrag etter bokstavene c og d kan samlet ikke overstige 40.000 kroner.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">premie til fortsettelsesforsikring etter <a data-id=\"lov/2000-03-24-16/§4-9\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-9\">lov om foretakspensjon § 4-9</a> knyttet til fripolise utstedt til den skattepliktige som følge av at medlemskap i foretakspensjonsordningen er opphørt av annen grunn enn den skattepliktiges alder. Det samme gjelder innskudd til alderspensjon etter <a data-id=\"lov/2000-11-24-81/§6-5\" class=\" reference\" href=\"/lov/2000-11-24-81/%C2%A76-5\">innskuddspensjonsloven § 6-5</a> første ledd som følge av at medlemskap i innskuddspensjonsordningen er opphørt av annen grunn enn den skattepliktiges alder. Fradrag etter bokstavene c og d kan samlet ikke overstige 40.000 kroner.</td></tr>",
         "text": "d.\tpremie til fortsettelsesforsikring etter lov om foretakspensjon § 4-9 knyttet til fripolise utstedt til den skattepliktige som følge av at medlemskap i foretakspensjonsordningen er opphørt av annen grunn enn den skattepliktiges alder. Det samme gjelder innskudd til alderspensjon etter innskuddspensjonsloven § 6-5 første ledd som følge av at medlemskap i innskuddspensjonsordningen er opphørt av annen grunn enn den skattepliktiges alder. Fradrag etter bokstavene c og d kan samlet ikke overstige 40.000 kroner."
     },
     {
@@ -632,7 +632,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Et forsikringsselskap kan ikke eie eller ved stemmegivning representere mer enn 15 prosent av aksjene eller andelene i et selskap som driver virksomhet som etter <a data-id=\"lov/1988-06-10-39/§7-1\" class=\" reference\" href=\"/lov/1988-06-10-39/%C2%A77-1\">§ 7-1</a> ikke kan drives av forsikringsselskap. Forbudet gjelder likevel ikke for så vidt den samlede verdi av slike eiendeler er mindre enn forsikringsselskapets midler etter fradrag for avsetninger til dekning av forsikringsforpliktelsene, så fremt den økonomiske risiko ved investeringen er begrenset til verdien av den aktuelle investeringen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Et forsikringsselskap kan ikke eie eller ved stemmegivning representere mer enn 15 prosent av aksjene eller andelene i et selskap som driver virksomhet som etter <a data-id=\"lov/1988-06-10-39/§7-1\" class=\" reference\" href=\"/lov/1988-06-10-39/%C2%A77-1\">§ 7-1</a> ikke kan drives av forsikringsselskap. Forbudet gjelder likevel ikke for så vidt den samlede verdi av slike eiendeler er mindre enn forsikringsselskapets midler etter fradrag for avsetninger til dekning av forsikringsforpliktelsene, så fremt den økonomiske risiko ved investeringen er begrenset til verdien av den aktuelle investeringen.</td></tr>",
         "text": "(1) Et forsikringsselskap kan ikke eie eller ved stemmegivning representere mer enn 15 prosent av aksjene eller andelene i et selskap som driver virksomhet som etter § 7-1 ikke kan drives av forsikringsselskap. Forbudet gjelder likevel ikke for så vidt den samlede verdi av slike eiendeler er mindre enn forsikringsselskapets midler etter fradrag for avsetninger til dekning av forsikringsforpliktelsene, så fremt den økonomiske risiko ved investeringen er begrenset til verdien av den aktuelle investeringen."
     },
     {
@@ -662,7 +662,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">14.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Private, kommunale og fylkeskommunale pensjonskasser og pensjonsfond samt Norges Banks pensjonskasse.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">14.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Private, kommunale og fylkeskommunale pensjonskasser og pensjonsfond samt Norges Banks pensjonskasse.</td></tr>",
         "text": "14.\tPrivate, kommunale og fylkeskommunale pensjonskasser og pensjonsfond samt Norges Banks pensjonskasse."
     },
     {

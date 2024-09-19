@@ -14,19 +14,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1969-06-19-66\" class=\" reference\" href=\"/lov/1969-06-19-66\">Lov 19. juni 1969 nr. 66</a> om merverdiavgift.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1969-06-19-66\" class=\" reference\" href=\"/lov/1969-06-19-66\">Lov 19. juni 1969 nr. 66</a> om merverdiavgift.</td></tr>",
         "text": "1.\tLov 19. juni 1969 nr. 66 om merverdiavgift."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td></tr>",
         "text": "2.\tLov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td></tr>",
         "text": "3.\tLov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
@@ -206,7 +206,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Med godtgjørelse menes mottatt utbytte multiplisert med aksjonærens skattesats for alminnelig inntekt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Med godtgjørelse menes mottatt utbytte multiplisert med aksjonærens skattesats for alminnelig inntekt.</td></tr>",
         "text": "(1) Med godtgjørelse menes mottatt utbytte multiplisert med aksjonærens skattesats for alminnelig inntekt."
     },
     {
@@ -230,7 +230,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Inngangsverdien settes til anskaffelsesverdien, eventuelt med opp- eller nedregulering med et beløp fastsatt etter <a data-id=\"lov/1999-03-26-14/§10-34\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-34\">§ 10-34</a> eller <a data-id=\"lov/1999-03-26-14/§10-35\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-35\">§ 10-35</a>. Anskaffelsesverdien settes til det beløp skattyter har betalt for aksjen dersom ikke annet er bestemt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Inngangsverdien settes til anskaffelsesverdien, eventuelt med opp- eller nedregulering med et beløp fastsatt etter <a data-id=\"lov/1999-03-26-14/§10-34\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-34\">§ 10-34</a> eller <a data-id=\"lov/1999-03-26-14/§10-35\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-35\">§ 10-35</a>. Anskaffelsesverdien settes til det beløp skattyter har betalt for aksjen dersom ikke annet er bestemt.</td></tr>",
         "text": "(2) Inngangsverdien settes til anskaffelsesverdien, eventuelt med opp- eller nedregulering med et beløp fastsatt etter § 10-34 eller § 10-35. Anskaffelsesverdien settes til det beløp skattyter har betalt for aksjen dersom ikke annet er bestemt."
     },
     {
@@ -254,73 +254,73 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Skattyter som driver virksomhet gis fradrag i skatt og trygdeavgifter for 20 prosent av kostnader til forsknings- og utviklingsprosjekt etter bestemmelsene i denne paragraf, dersom virksomheten i inntektsåret oppfyller to av følgende tre vilkår;</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Skattyter som driver virksomhet gis fradrag i skatt og trygdeavgifter for 20 prosent av kostnader til forsknings- og utviklingsprosjekt etter bestemmelsene i denne paragraf, dersom virksomheten i inntektsåret oppfyller to av følgende tre vilkår;</td></tr>",
         "text": "(1) Skattyter som driver virksomhet gis fradrag i skatt og trygdeavgifter for 20 prosent av kostnader til forsknings- og utviklingsprosjekt etter bestemmelsene i denne paragraf, dersom virksomheten i inntektsåret oppfyller to av følgende tre vilkår;"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten har mindre enn 80 millioner kroner i salgsinntekt,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten har mindre enn 80 millioner kroner i salgsinntekt,</td></tr>",
         "text": "a.\tvirksomheten har mindre enn 80 millioner kroner i salgsinntekt,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten har mindre enn 40 millioner kroner i balansesum,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten har mindre enn 40 millioner kroner i balansesum,</td></tr>",
         "text": "b.\tvirksomheten har mindre enn 40 millioner kroner i balansesum,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten har færre enn 100 ansatte.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten har færre enn 100 ansatte.</td></tr>",
         "text": "c.\tvirksomheten har færre enn 100 ansatte."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Følgende kostnader gir grunnlag for fradrag, dersom de også er fradragsberettiget etter <a data-id=\"lov/1999-03-26-14/kap6\" class=\" reference\" href=\"/lov/1999-03-26-14/kap6\">kapittel 6</a>:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Følgende kostnader gir grunnlag for fradrag, dersom de også er fradragsberettiget etter <a data-id=\"lov/1999-03-26-14/kap6\" class=\" reference\" href=\"/lov/1999-03-26-14/kap6\">kapittel 6</a>:</td></tr>",
         "text": "(2) Følgende kostnader gir grunnlag for fradrag, dersom de også er fradragsberettiget etter kapittel 6:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Skattyters kostnader til egenutført forsknings- og  utviklingsprosjekt godkjent av Norges forskningsråd, begrenset til 4 millioner kroner i inntektsåret.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Skattyters kostnader til egenutført forsknings- og  utviklingsprosjekt godkjent av Norges forskningsråd, begrenset til 4 millioner kroner i inntektsåret.</td></tr>",
         "text": "a.\tSkattyters kostnader til egenutført forsknings- og  utviklingsprosjekt godkjent av Norges forskningsråd, begrenset til 4 millioner kroner i inntektsåret."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Skattyters kostnader til forsknings- og utviklingsprosjekt utført av forskningsinstitusjoner godkjent av Norges forskningsråd, begrenset til 8 millioner kroner i inntektsåret. Samlet fradragsgrunnlag etter bokstav a og b skal ikke overstige dette beløpet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Skattyters kostnader til forsknings- og utviklingsprosjekt utført av forskningsinstitusjoner godkjent av Norges forskningsråd, begrenset til 8 millioner kroner i inntektsåret. Samlet fradragsgrunnlag etter bokstav a og b skal ikke overstige dette beløpet.</td></tr>",
         "text": "b.\tSkattyters kostnader til forsknings- og utviklingsprosjekt utført av forskningsinstitusjoner godkjent av Norges forskningsråd, begrenset til 8 millioner kroner i inntektsåret. Samlet fradragsgrunnlag etter bokstav a og b skal ikke overstige dette beløpet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Det kan også gis fradrag etter annet ledd ved samarbeidsprosjekter mellom flere skattytere når prosjektet er godkjent av Norges forskningsråd. Ved slike prosjekter gjelder kostnadsrammen pr. prosjekt, fordelt på deltakerne etter deltakerandel.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Det kan også gis fradrag etter annet ledd ved samarbeidsprosjekter mellom flere skattytere når prosjektet er godkjent av Norges forskningsråd. Ved slike prosjekter gjelder kostnadsrammen pr. prosjekt, fordelt på deltakerne etter deltakerandel.</td></tr>",
         "text": "(3) Det kan også gis fradrag etter annet ledd ved samarbeidsprosjekter mellom flere skattytere når prosjektet er godkjent av Norges forskningsråd. Ved slike prosjekter gjelder kostnadsrammen pr. prosjekt, fordelt på deltakerne etter deltakerandel."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> For selskap som nevnt i <a data-id=\"lov/1999-03-26-14/§2-2\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-2\">§ 2-2</a> annet ledd gjelder kostnadsrammen også for selskapet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> For selskap som nevnt i <a data-id=\"lov/1999-03-26-14/§2-2\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-2\">§ 2-2</a> annet ledd gjelder kostnadsrammen også for selskapet.</td></tr>",
         "text": "(4) For selskap som nevnt i § 2-2 annet ledd gjelder kostnadsrammen også for selskapet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> I konsern etter <a data-id=\"lov/1997-06-13-44/§1-3\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A71-3\">aksjeloven § 1-3</a> og <a data-id=\"lov/1997-06-13-45/§1-3\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A71-3\">allmennaksjeloven § 1-3</a> skal prosjekter med innbyrdes sammenheng behandles som ett prosjekt. Fradragsgrunnlaget behandles da som i tredje ledd annet punktum.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> I konsern etter <a data-id=\"lov/1997-06-13-44/§1-3\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A71-3\">aksjeloven § 1-3</a> og <a data-id=\"lov/1997-06-13-45/§1-3\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A71-3\">allmennaksjeloven § 1-3</a> skal prosjekter med innbyrdes sammenheng behandles som ett prosjekt. Fradragsgrunnlaget behandles da som i tredje ledd annet punktum.</td></tr>",
         "text": "(5) I konsern etter aksjeloven § 1-3 og allmennaksjeloven § 1-3 skal prosjekter med innbyrdes sammenheng behandles som ett prosjekt. Fradragsgrunnlaget behandles da som i tredje ledd annet punktum."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Overstiger fastsatt fradrag den utliknede skatt, skal det overskytende beløp utbetales ved avregningsoppgjøret etter skattebetalingsloven.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Overstiger fastsatt fradrag den utliknede skatt, skal det overskytende beløp utbetales ved avregningsoppgjøret etter skattebetalingsloven.</td></tr>",
         "text": "(6) Overstiger fastsatt fradrag den utliknede skatt, skal det overskytende beløp utbetales ved avregningsoppgjøret etter skattebetalingsloven."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Departementet kan gi forskrift til gjennomføring og utfylling av denne paragraf, herunder gi regler om godkjennelse av prosjekter og institusjoner, om hva som regnes som forsknings- og utviklingskostnader og om saksbehandlings- og klageregler for godkjenningsordningen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Departementet kan gi forskrift til gjennomføring og utfylling av denne paragraf, herunder gi regler om godkjennelse av prosjekter og institusjoner, om hva som regnes som forsknings- og utviklingskostnader og om saksbehandlings- og klageregler for godkjenningsordningen.</td></tr>",
         "text": "(7) Departementet kan gi forskrift til gjennomføring og utfylling av denne paragraf, herunder gi regler om godkjennelse av prosjekter og institusjoner, om hva som regnes som forsknings- og utviklingskostnader og om saksbehandlings- og klageregler for godkjenningsordningen."
     },
     {

@@ -32,19 +32,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utgiftene dekkes etter særskilte satser.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utgiftene dekkes etter særskilte satser.</td></tr>",
         "text": "a)\tUtgiftene dekkes etter særskilte satser."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utgiftene til ambulansetransport dekkes fullt ut.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utgiftene til ambulansetransport dekkes fullt ut.</td></tr>",
         "text": "b)\tUtgiftene til ambulansetransport dekkes fullt ut."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utgiftene til sykehusopphold dekkes med opptil et beløp som fastsettes av Stortinget.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utgiftene til sykehusopphold dekkes med opptil et beløp som fastsettes av Stortinget.</td></tr>",
         "text": "c)\tUtgiftene til sykehusopphold dekkes med opptil et beløp som fastsettes av Stortinget."
     },
     {
@@ -86,7 +86,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på grunn av fordyret kosthold ved diett. Nødvendigheten av spesialdiett for den aktuelle diagnosen må være vitenskapelig dokumentert og alminnelig anerkjent i medisinsk praksis.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">på grunn av fordyret kosthold ved diett. Nødvendigheten av spesialdiett for den aktuelle diagnosen må være vitenskapelig dokumentert og alminnelig anerkjent i medisinsk praksis.</td></tr>",
         "text": "f)\tpå grunn av fordyret kosthold ved diett. Nødvendigheten av spesialdiett for den aktuelle diagnosen må være vitenskapelig dokumentert og alminnelig anerkjent i medisinsk praksis."
     },
     {
@@ -110,13 +110,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når den avdøde ikke var gift, reduseres stønaden med formue og forsikringsbeløp utbetalt som følge av dødsfallet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når den avdøde ikke var gift, reduseres stønaden med formue og forsikringsbeløp utbetalt som følge av dødsfallet.</td></tr>",
         "text": "a)\tNår den avdøde ikke var gift, reduseres stønaden med formue og forsikringsbeløp utbetalt som følge av dødsfallet."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når den avdøde var gift, reduseres stønaden med summen av ektefellenes finansformue og forsikringsbeløp utbetalt som følge av dødsfallet, etter at et fribeløp tilsvarende full gravferdsstønad er trukket fra.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når den avdøde var gift, reduseres stønaden med summen av ektefellenes finansformue og forsikringsbeløp utbetalt som følge av dødsfallet, etter at et fribeløp tilsvarende full gravferdsstønad er trukket fra.</td></tr>",
         "text": "b)\tNår den avdøde var gift, reduseres stønaden med summen av ektefellenes finansformue og forsikringsbeløp utbetalt som følge av dødsfallet, etter at et fribeløp tilsvarende full gravferdsstønad er trukket fra."
     },
     {
@@ -176,7 +176,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lese- og sekretærhjelp for blinde og svaksynte,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">lese- og sekretærhjelp for blinde og svaksynte,</td></tr>",
         "text": "e)\tlese- og sekretærhjelp for blinde og svaksynte,"
     },
     {
@@ -242,7 +242,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringene i <a data-id=\"lov/1997-02-28-19/§6-3\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A76-3\">folketrygdloven § 6-3</a> første ledd bokstav f trer i kraft straks. De øvrige endringene i folketrygdloven trer i kraft 1. januar 2003.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringene i <a data-id=\"lov/1997-02-28-19/§6-3\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A76-3\">folketrygdloven § 6-3</a> første ledd bokstav f trer i kraft straks. De øvrige endringene i folketrygdloven trer i kraft 1. januar 2003.</td></tr>",
         "text": "1.\tEndringene i folketrygdloven § 6-3 første ledd bokstav f trer i kraft straks. De øvrige endringene i folketrygdloven trer i kraft 1. januar 2003."
     },
     {
@@ -272,7 +272,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringen i <a data-id=\"lov/1966-12-16-9/§3\" class=\" reference\" href=\"/lov/1966-12-16-9/%C2%A73\">trygderettsloven § 3</a> tredje ledd trer i kraft straks.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringen i <a data-id=\"lov/1966-12-16-9/§3\" class=\" reference\" href=\"/lov/1966-12-16-9/%C2%A73\">trygderettsloven § 3</a> tredje ledd trer i kraft straks.</td></tr>",
         "text": "2.\tEndringen i trygderettsloven § 3 tredje ledd trer i kraft straks."
     }
 ]
