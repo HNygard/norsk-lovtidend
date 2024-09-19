@@ -14,19 +14,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1925-07-17-11\" class=\" reference\" href=\"/lov/1925-07-17-11\">Lov 17. juli 1925 nr. 11</a> om Svalbard.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1925-07-17-11\" class=\" reference\" href=\"/lov/1925-07-17-11\">Lov 17. juli 1925 nr. 11</a> om Svalbard.</td></tr>",
         "text": "1\tLov 17. juli 1925 nr. 11 om Svalbard."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-62\" class=\" reference\" href=\"/lov/2017-06-16-62\">Lov 16. juni 2017 nr. 62</a> om endringar i kommunelova m.m. (råd for eldre, personar med funksjonsnedsetjing og ungdom).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-62\" class=\" reference\" href=\"/lov/2017-06-16-62\">Lov 16. juni 2017 nr. 62</a> om endringar i kommunelova m.m. (råd for eldre, personar med funksjonsnedsetjing og ungdom).</td></tr>",
         "text": "2\tLov 16. juni 2017 nr. 62 om endringar i kommunelova m.m. (råd for eldre, personar med funksjonsnedsetjing og ungdom)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2018-06-22-83\" class=\" reference\" href=\"/lov/2018-06-22-83\">Lov 22. juni 2018 nr. 83</a> om kommuner og fylkeskommuner (kommuneloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2018-06-22-83\" class=\" reference\" href=\"/lov/2018-06-22-83\">Lov 22. juni 2018 nr. 83</a> om kommuner og fylkeskommuner (kommuneloven).</td></tr>",
         "text": "3\tLov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven)."
     },
     {
@@ -152,37 +152,37 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lokalstyret</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">lokalstyret</td></tr>",
         "text": "a)\tlokalstyret"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrasjonsutvalget</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrasjonsutvalget</td></tr>",
         "text": "b)\tadministrasjonsutvalget"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utvalg, inkludert kontrollutvalget</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utvalg, inkludert kontrollutvalget</td></tr>",
         "text": "c)\tutvalg, inkludert kontrollutvalget"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeidsutvalg</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeidsutvalg</td></tr>",
         "text": "d)\tarbeidsutvalg"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lokalstyrekomiteer</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">lokalstyrekomiteer</td></tr>",
         "text": "e)\tlokalstyrekomiteer"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">folkevalgte organer hjemlet i særlov.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">folkevalgte organer hjemlet i særlov.</td></tr>",
         "text": "f)\tfolkevalgte organer hjemlet i særlov."
     },
     {
@@ -218,25 +218,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">partssammensatte utvalg</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">partssammensatte utvalg</td></tr>",
         "text": "a)\tpartssammensatte utvalg"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">styret for en institusjon</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">styret for en institusjon</td></tr>",
         "text": "b)\tstyret for en institusjon"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">styret for et lokalstyreforetak</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">styret for et lokalstyreforetak</td></tr>",
         "text": "c)\tstyret for et lokalstyreforetak"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ungdomsråd eller annet medvirkningsorgan for ungdom.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ungdomsråd eller annet medvirkningsorgan for ungdom.</td></tr>",
         "text": "d)\tungdomsråd eller annet medvirkningsorgan for ungdom."
     },
     {
@@ -326,25 +326,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utvalg, inkludert kontrollutvalg og partssammensatte utvalg</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utvalg, inkludert kontrollutvalg og partssammensatte utvalg</td></tr>",
         "text": "a)\tutvalg, inkludert kontrollutvalg og partssammensatte utvalg"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">styret for en institusjon</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">styret for en institusjon</td></tr>",
         "text": "b)\tstyret for en institusjon"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">styret for et lokalstyreforetak</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">styret for et lokalstyreforetak</td></tr>",
         "text": "c)\tstyret for et lokalstyreforetak"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">folkevalgte organer hjemlet i en særlov.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">folkevalgte organer hjemlet i en særlov.</td></tr>",
         "text": "d)\tfolkevalgte organer hjemlet i en særlov."
     },
     {
@@ -356,19 +356,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Han eller hun har stemmerett ved lokalstyrevalg.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Han eller hun har stemmerett ved lokalstyrevalg.</td></tr>",
         "text": "a)\tHan eller hun har stemmerett ved lokalstyrevalg."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Han eller hun er innført i befolkningsregisteret som bosatt i Longyearbyen på valgtidspunktet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Han eller hun er innført i befolkningsregisteret som bosatt i Longyearbyen på valgtidspunktet.</td></tr>",
         "text": "b)\tHan eller hun er innført i befolkningsregisteret som bosatt i Longyearbyen på valgtidspunktet."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Han eller hun har skriftlig samtykket til å stille til valg.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Han eller hun har skriftlig samtykket til å stille til valg.</td></tr>",
         "text": "c)\tHan eller hun har skriftlig samtykket til å stille til valg."
     },
     {
@@ -392,43 +392,43 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sysselmannen og assisterende sysselmann</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sysselmannen og assisterende sysselmann</td></tr>",
         "text": "a)\tsysselmannen og assisterende sysselmann"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrasjonssjefen i Longyearbyen lokalstyre og dennes stedfortreder</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrasjonssjefen i Longyearbyen lokalstyre og dennes stedfortreder</td></tr>",
         "text": "b)\tadministrasjonssjefen i Longyearbyen lokalstyre og dennes stedfortreder"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sektorsjefer og ledere på tilsvarende nivå</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sektorsjefer og ledere på tilsvarende nivå</td></tr>",
         "text": "c)\tsektorsjefer og ledere på tilsvarende nivå"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sekretærer for lokalstyret</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sekretærer for lokalstyret</td></tr>",
         "text": "d)\tsekretærer for lokalstyret"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som har ansvaret for regnskapsfunksjonen i Longyearbyen lokalstyre</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som har ansvaret for regnskapsfunksjonen i Longyearbyen lokalstyre</td></tr>",
         "text": "e)\tden som har ansvaret for regnskapsfunksjonen i Longyearbyen lokalstyre"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som foretar revisjonen i Longyearbyen lokalstyre</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som foretar revisjonen i Longyearbyen lokalstyre</td></tr>",
         "text": "f)\tden som foretar revisjonen i Longyearbyen lokalstyre"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansatte i sekretariatet i kontrollutvalget.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansatte i sekretariatet i kontrollutvalget.</td></tr>",
         "text": "g)\tansatte i sekretariatet i kontrollutvalget."
     },
     {
@@ -440,25 +440,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">leder eller nestleder for lokalstyret</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">leder eller nestleder for lokalstyret</td></tr>",
         "text": "a)\tleder eller nestleder for lokalstyret"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medlem eller varamedlem av administrasjonsutvalget</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">medlem eller varamedlem av administrasjonsutvalget</td></tr>",
         "text": "b)\tmedlem eller varamedlem av administrasjonsutvalget"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medlem eller varamedlem av et folkevalgt organ med beslutningsmyndighet</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">medlem eller varamedlem av et folkevalgt organ med beslutningsmyndighet</td></tr>",
         "text": "c)\tmedlem eller varamedlem av et folkevalgt organ med beslutningsmyndighet"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medlem eller varamedlem av en lokalstyrekomité.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">medlem eller varamedlem av en lokalstyrekomité.</td></tr>",
         "text": "d)\tmedlem eller varamedlem av en lokalstyrekomité."
     },
     {
@@ -554,73 +554,73 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 9 om kommunale foretak</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 9 om kommunale foretak</td></tr>",
         "text": "a)\tkapittel 9 om kommunale foretak"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 15 om selvkost</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 15 om selvkost</td></tr>",
         "text": "b)\tkapittel 15 om selvkost"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 21 om representasjon av begge kjønn i styret av aksjeselskaper</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 21 om representasjon av begge kjønn i styret av aksjeselskaper</td></tr>",
         "text": "c)\tkapittel 21 om representasjon av begge kjønn i styret av aksjeselskaper"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 22 om kommunestyrets kontrollansvar</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 22 om kommunestyrets kontrollansvar</td></tr>",
         "text": "d)\tkapittel 22 om kommunestyrets kontrollansvar"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 23 om kontrollutvalg</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 23 om kontrollutvalg</td></tr>",
         "text": "e)\tkapittel 23 om kontrollutvalg"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 24 om revisjon</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 24 om revisjon</td></tr>",
         "text": "f)\tkapittel 24 om revisjon"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 25 om internkontroll</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 25 om internkontroll</td></tr>",
         "text": "g)\tkapittel 25 om internkontroll"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 26 om eierstyring</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 26 om eierstyring</td></tr>",
         "text": "h)\tkapittel 26 om eierstyring"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 27 om lovlighetskontroll</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 27 om lovlighetskontroll</td></tr>",
         "text": "i)\tkapittel 27 om lovlighetskontroll"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 28 om statlig kontroll med kommuner og fylkeskommuner med økonomisk ubalanse (ROBEK)</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 28 om statlig kontroll med kommuner og fylkeskommuner med økonomisk ubalanse (ROBEK)</td></tr>",
         "text": "j)\tkapittel 28 om statlig kontroll med kommuner og fylkeskommuner med økonomisk ubalanse (ROBEK)"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 29 om utlegg og konkurs</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 29 om utlegg og konkurs</td></tr>",
         "text": "k)\tkapittel 29 om utlegg og konkurs"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 30 om statlig tilsyn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kapittel 30 om statlig tilsyn.</td></tr>",
         "text": "l)\tkapittel 30 om statlig tilsyn."
     },
     {
@@ -662,31 +662,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven del I gjelder fra den tiden Kongen bestemmer. Del II og III trer i kraft straks.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven del I gjelder fra den tiden Kongen bestemmer. Del II og III trer i kraft straks.</td></tr>",
         "text": "1.\tLoven del I gjelder fra den tiden Kongen bestemmer. Del II og III trer i kraft straks."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Fram til <a data-id=\"lov/2018-06-22-83/kap25\" class=\" reference\" href=\"/lov/2018-06-22-83/kap25\">kommuneloven kapittel 25</a> trer i kraft, gjelder følgende bestemmelser for internkontroll:</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Fram til <a data-id=\"lov/2018-06-22-83/kap25\" class=\" reference\" href=\"/lov/2018-06-22-83/kap25\">kommuneloven kapittel 25</a> trer i kraft, gjelder følgende bestemmelser for internkontroll:</td></tr>",
         "text": "2.\tFram til kommuneloven kapittel 25 trer i kraft, gjelder følgende bestemmelser for internkontroll:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Administrasjonssjefen skal sørge for at administrasjonen er gjenstand for betryggende kontroll.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Administrasjonssjefen skal sørge for at administrasjonen er gjenstand for betryggende kontroll.</td></tr>",
         "text": "a.\tAdministrasjonssjefen skal sørge for at administrasjonen er gjenstand for betryggende kontroll."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I årsberetningen skal det redegjøres for tiltak som er iverksatt og tiltak som planlegges iverksatt for å sikre betryggende kontroll med virksomheten.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">I årsberetningen skal det redegjøres for tiltak som er iverksatt og tiltak som planlegges iverksatt for å sikre betryggende kontroll med virksomheten.</td></tr>",
         "text": "b.\tI årsberetningen skal det redegjøres for tiltak som er iverksatt og tiltak som planlegges iverksatt for å sikre betryggende kontroll med virksomheten."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Administrasjonssjefen skal rapportere til lokalstyret om resultater fra statlig tilsyn minst én gang i året.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Administrasjonssjefen skal rapportere til lokalstyret om resultater fra statlig tilsyn minst én gang i året.</td></tr>",
         "text": "c.\tAdministrasjonssjefen skal rapportere til lokalstyret om resultater fra statlig tilsyn minst én gang i året."
     }
 ]

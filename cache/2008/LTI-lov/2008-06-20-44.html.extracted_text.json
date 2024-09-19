@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2001-05-18-24\" class=\" reference\" href=\"/lov/2001-05-18-24\">Lov 18. mai 2001 nr. 24</a> om helseregistre og behandling av helseopplysninger (helseregisterloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2001-05-18-24\" class=\" reference\" href=\"/lov/2001-05-18-24\">Lov 18. mai 2001 nr. 24</a> om helseregistre og behandling av helseopplysninger (helseregisterloven).</td></tr>",
         "text": "1\tLov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2003-02-21-12\" class=\" reference\" href=\"/lov/2003-02-21-12\">Lov 21. februar 2003 nr. 12</a> om biobanker (biobankloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2003-02-21-12\" class=\" reference\" href=\"/lov/2003-02-21-12\">Lov 21. februar 2003 nr. 12</a> om biobanker (biobankloven).</td></tr>",
         "text": "2\tLov 21. februar 2003 nr. 12 om biobanker (biobankloven)."
     },
     {
@@ -142,37 +142,37 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,</td></tr>",
         "text": "a)\tmedisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">humant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">humant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,</td></tr>",
         "text": "b)\thumant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,</td></tr>",
         "text": "c)\tforskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">helseopplysninger: taushetsbelagte opplysninger i henhold til <a data-id=\"lov/1999-07-02-64/§21\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A721\">helsepersonelloven § 21</a> og andre opplysninger og vurderinger om helseforhold eller som er av betydning for helseforhold, som kan knyttes til en enkeltperson,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">helseopplysninger: taushetsbelagte opplysninger i henhold til <a data-id=\"lov/1999-07-02-64/§21\" class=\" reference\" href=\"/lov/1999-07-02-64/%C2%A721\">helsepersonelloven § 21</a> og andre opplysninger og vurderinger om helseforhold eller som er av betydning for helseforhold, som kan knyttes til en enkeltperson,</td></tr>",
         "text": "d)\thelseopplysninger: taushetsbelagte opplysninger i henhold til helsepersonelloven § 21 og andre opplysninger og vurderinger om helseforhold eller som er av betydning for helseforhold, som kan knyttes til en enkeltperson,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,</td></tr>",
         "text": "e)\tforskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven.</td></tr>",
         "text": "f)\tprosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven."
     },
     {
@@ -582,13 +582,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">myndige personer</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">myndige personer</td></tr>",
         "text": "a)\tmyndige personer"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mindreårige etter fylte 16 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mindreårige etter fylte 16 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art.</td></tr>",
         "text": "b)\tmindreårige etter fylte 16 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art."
     },
     {
@@ -650,19 +650,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuell risiko eller ulempe for personen er ubetydelig,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuell risiko eller ulempe for personen er ubetydelig,</td></tr>",
         "text": "a)\teventuell risiko eller ulempe for personen er ubetydelig,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen selv ikke motsetter seg det, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen selv ikke motsetter seg det, og</td></tr>",
         "text": "b)\tpersonen selv ikke motsetter seg det, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand.</td></tr>",
         "text": "c)\tdet er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand."
     },
     {
@@ -700,25 +700,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuell risiko eller ulempe for personen er ubetydelig,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuell risiko eller ulempe for personen er ubetydelig,</td></tr>",
         "text": "a)\teventuell risiko eller ulempe for personen er ubetydelig,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,</td></tr>",
         "text": "b)\tpersonen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det bare er mulig å utføre forskningen i kliniske nødssituasjoner, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det bare er mulig å utføre forskningen i kliniske nødssituasjoner, og</td></tr>",
         "text": "c)\tdet bare er mulig å utføre forskningen i kliniske nødssituasjoner, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi.</td></tr>",
         "text": "d)\tforskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi."
     },
     {
@@ -1288,19 +1288,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den utenlandske databehandlingsansvarlige skriftlig forsikrer overfor den forskningsansvarlige at behandlingen har skjedd eller vil skje i samsvar med direktiv <a data-id=\"eu/31995l0046\" class=\" reference\" href=\"/eu/31995l0046\">95/46/EF</a>, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den utenlandske databehandlingsansvarlige skriftlig forsikrer overfor den forskningsansvarlige at behandlingen har skjedd eller vil skje i samsvar med direktiv <a data-id=\"eu/31995l0046\" class=\" reference\" href=\"/eu/31995l0046\">95/46/EF</a>, og</td></tr>",
         "text": "a)\tden utenlandske databehandlingsansvarlige skriftlig forsikrer overfor den forskningsansvarlige at behandlingen har skjedd eller vil skje i samsvar med direktiv 95/46/EF, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er gitt samtykke til dette fra den opplysningen gjelder, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er gitt samtykke til dette fra den opplysningen gjelder, eller</td></tr>",
         "text": "b)\tdet er gitt samtykke til dette fra den opplysningen gjelder, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den registrerte ikke har reservert seg, og det har blitt gitt informasjon om at opplysningene vil bli overført til et land utenfor EØS.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den registrerte ikke har reservert seg, og det har blitt gitt informasjon om at opplysningene vil bli overført til et land utenfor EØS.</td></tr>",
         "text": "c)\tden registrerte ikke har reservert seg, og det har blitt gitt informasjon om at opplysningene vil bli overført til et land utenfor EØS."
     },
     {
@@ -1442,37 +1442,37 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,</td></tr>",
         "text": "a)\tom de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølging av straffbare handlinger,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølging av straffbare handlinger,</td></tr>",
         "text": "b)\tdet er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølging av straffbare handlinger,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det må anses utilrådelig at den forskningsdeltakeren får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det må anses utilrådelig at den forskningsdeltakeren får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,</td></tr>",
         "text": "c)\tdet må anses utilrådelig at den forskningsdeltakeren får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er underlagt taushetsplikt,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er underlagt taushetsplikt,</td></tr>",
         "text": "d)\ter underlagt taushetsplikt,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre, eller</td></tr>",
         "text": "e)\tutelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til forskningsdeltakeren selv.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til forskningsdeltakeren selv.</td></tr>",
         "text": "f)\tdet vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til forskningsdeltakeren selv."
     },
     {
@@ -1968,49 +1968,49 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formålet med opprettelsen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">formålet med opprettelsen,</td></tr>",
         "text": "1.\tformålet med opprettelsen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hva slags materiale den skal inneholde og hvordan materialet innhentes,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hva slags materiale den skal inneholde og hvordan materialet innhentes,</td></tr>",
         "text": "2.\thva slags materiale den skal inneholde og hvordan materialet innhentes,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,</td></tr>",
         "text": "3.\thvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,</td></tr>",
         "text": "4.\thvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,</td></tr>",
         "text": "5.\tbiobankens varighet og hva som skal skje med materialet ved opphør av biobanken,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,</td></tr>",
         "text": "6.\thvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som er ansvarshavende etter <a data-id=\"lov/2003-02-21-12/§7\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A77\">§ 7</a> og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som er ansvarshavende etter <a data-id=\"lov/2003-02-21-12/§7\" class=\" reference\" href=\"/lov/2003-02-21-12/%C2%A77\">§ 7</a> og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og</td></tr>",
         "text": "7.\thvem som er ansvarshavende etter § 7 og databehandlingsansvarlig eller behandlingsansvarlig etter helseregisterloven og personopplysningsloven og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning.</td></tr>",
         "text": "8.\tfinansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning."
     },
     {

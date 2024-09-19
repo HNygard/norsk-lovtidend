@@ -50,25 +50,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">norsk nasjonalitet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">norsk nasjonalitet,</td></tr>",
         "text": "1.\tnorsk nasjonalitet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fremmed nasjonalitet som i henhold til denne loven eller forskrift gitt med hjemmel i denne loven skal likestilles med norsk nasjonalitet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fremmed nasjonalitet som i henhold til denne loven eller forskrift gitt med hjemmel i denne loven skal likestilles med norsk nasjonalitet,</td></tr>",
         "text": "2.\tfremmed nasjonalitet som i henhold til denne loven eller forskrift gitt med hjemmel i denne loven skal likestilles med norsk nasjonalitet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">nasjonalitet i fremmed stat som har sluttet overenskomst med Norge om rett til slik fart eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">nasjonalitet i fremmed stat som har sluttet overenskomst med Norge om rett til slik fart eller</td></tr>",
         "text": "3.\tnasjonalitet i fremmed stat som har sluttet overenskomst med Norge om rett til slik fart eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">særskilt tillatelse av luftfartsmyndigheten.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">særskilt tillatelse av luftfartsmyndigheten.</td></tr>",
         "text": "4.\tsærskilt tillatelse av luftfartsmyndigheten."
     },
     {
@@ -176,13 +176,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet, eller</td></tr>",
         "text": "1.\ten alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft.</td></tr>",
         "text": "2.\ten større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft."
     },
     {
@@ -254,19 +254,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er grunn til å tro at vedkommende har overtrådt bestemmelsene i <a data-id=\"lov/1993-06-11-101/§6-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-1\">§§ 6-1</a> eller <a data-id=\"lov/1993-06-11-101/§6-12\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-12\">6-12</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er grunn til å tro at vedkommende har overtrådt bestemmelsene i <a data-id=\"lov/1993-06-11-101/§6-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-1\">§§ 6-1</a> eller <a data-id=\"lov/1993-06-11-101/§6-12\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-12\">6-12</a>,</td></tr>",
         "text": "1.\tdet er grunn til å tro at vedkommende har overtrådt bestemmelsene i §§ 6-1 eller 6-12,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen med eller uten egen skyld er innblandet i en luftfartsulykke eller luftfartshendelse, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">personen med eller uten egen skyld er innblandet i en luftfartsulykke eller luftfartshendelse, eller</td></tr>",
         "text": "2.\tpersonen med eller uten egen skyld er innblandet i en luftfartsulykke eller luftfartshendelse, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">når det blir krevd som ledd i kontroll av luftfartsvirksomheten.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">når det blir krevd som ledd i kontroll av luftfartsvirksomheten.</td></tr>",
         "text": "3.\tnår det blir krevd som ledd i kontroll av luftfartsvirksomheten."
     },
     {
@@ -512,31 +512,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å få adgang til alle relevante dokumenter, i enhver form, vedrørende overtredelsen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">å få adgang til alle relevante dokumenter, i enhver form, vedrørende overtredelsen,</td></tr>",
         "text": "1.\tå få adgang til alle relevante dokumenter, i enhver form, vedrørende overtredelsen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å ta kopi av, eller lage utdrag fra, dokumenter som nevnt i nr. 1,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">å ta kopi av, eller lage utdrag fra, dokumenter som nevnt i nr. 1,</td></tr>",
         "text": "2.\tå ta kopi av, eller lage utdrag fra, dokumenter som nevnt i nr. 1,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å gjennomføre nødvendige kontroller på stedet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">å gjennomføre nødvendige kontroller på stedet,</td></tr>",
         "text": "3.\tå gjennomføre nødvendige kontroller på stedet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at vedkommende oppfyller sine forpliktelser etter reglene som nevnt i første ledd og stanser overtredelsen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at vedkommende oppfyller sine forpliktelser etter reglene som nevnt i første ledd og stanser overtredelsen,</td></tr>",
         "text": "4.\tat vedkommende oppfyller sine forpliktelser etter reglene som nevnt i første ledd og stanser overtredelsen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at vedkommende bekrefter sin forpliktelse til å stanse overtredelsen, og eventuelt offentliggjør denne forpliktelsen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at vedkommende bekrefter sin forpliktelse til å stanse overtredelsen, og eventuelt offentliggjør denne forpliktelsen.</td></tr>",
         "text": "5.\tat vedkommende bekrefter sin forpliktelse til å stanse overtredelsen, og eventuelt offentliggjør denne forpliktelsen."
     },
     {
@@ -572,13 +572,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">som ved en bemannet flygning finner sted i tidsrommet fra en person går om bord i fartøyet med flygning som formål til alle har forlatt fartøyet, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">som ved en bemannet flygning finner sted i tidsrommet fra en person går om bord i fartøyet med flygning som formål til alle har forlatt fartøyet, eller</td></tr>",
         "text": "1.\tsom ved en bemannet flygning finner sted i tidsrommet fra en person går om bord i fartøyet med flygning som formål til alle har forlatt fartøyet, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">som ved en ubemannet flygning finner sted i tidsrommet fra luftfartøyet er klart til å bli satt i bevegelse med det formål å ta av, og til det stanser opp etter landing og det viktigste fremdriftssystemet er slått av.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">som ved en ubemannet flygning finner sted i tidsrommet fra luftfartøyet er klart til å bli satt i bevegelse med det formål å ta av, og til det stanser opp etter landing og det viktigste fremdriftssystemet er slått av.</td></tr>",
         "text": "2.\tsom ved en ubemannet flygning finner sted i tidsrommet fra luftfartøyet er klart til å bli satt i bevegelse med det formål å ta av, og til det stanser opp etter landing og det viktigste fremdriftssystemet er slått av."
     },
     {
@@ -602,13 +602,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å be om og bidra til en fullstendig obduksjon av de omkomne og til å få umiddelbar adgang til resultatene av slike undersøkelser eller til tester av prøver som er tatt, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">å be om og bidra til en fullstendig obduksjon av de omkomne og til å få umiddelbar adgang til resultatene av slike undersøkelser eller til tester av prøver som er tatt, og</td></tr>",
         "text": "1.\tå be om og bidra til en fullstendig obduksjon av de omkomne og til å få umiddelbar adgang til resultatene av slike undersøkelser eller til tester av prøver som er tatt, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">å be om legeundersøkelse av alle personer involvert i flyets operasjon eller å be om at det utføres tester på prøver som er tatt av slike personer, og ha umiddelbar tilgang til resultatet av slike undersøkelser eller tester.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">å be om legeundersøkelse av alle personer involvert i flyets operasjon eller å be om at det utføres tester på prøver som er tatt av slike personer, og ha umiddelbar tilgang til resultatet av slike undersøkelser eller tester.</td></tr>",
         "text": "2.\tå be om legeundersøkelse av alle personer involvert i flyets operasjon eller å be om at det utføres tester på prøver som er tatt av slike personer, og ha umiddelbar tilgang til resultatet av slike undersøkelser eller tester."
     },
     {
@@ -692,49 +692,49 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eier eller bruker av luftfartøy,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eier eller bruker av luftfartøy,</td></tr>",
         "text": "1.\teier eller bruker av luftfartøy,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaver av, eller personer som utfører tjeneste eller arbeid for</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehaver av, eller personer som utfører tjeneste eller arbeid for</td></tr>",
         "text": "2.\tinnehaver av, eller personer som utfører tjeneste eller arbeid for"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver ervervsmessig luftfartsvirksomhet som nevnt i <a data-id=\"lov/1993-06-11-101/kapviii\" class=\" reference\" href=\"/lov/1993-06-11-101/kapviii\">kapittel VIII</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver ervervsmessig luftfartsvirksomhet som nevnt i <a data-id=\"lov/1993-06-11-101/kapviii\" class=\" reference\" href=\"/lov/1993-06-11-101/kapviii\">kapittel VIII</a>,</td></tr>",
         "text": "a)\tforetak som driver ervervsmessig luftfartsvirksomhet som nevnt i kapittel VIII,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som eier eller driver godkjent landingsplass eller annet luftfartsanlegg,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som eier eller driver godkjent landingsplass eller annet luftfartsanlegg,</td></tr>",
         "text": "b)\tforetak som eier eller driver godkjent landingsplass eller annet luftfartsanlegg,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som leverer andre tjenester på lufthavner enn de som er nevnt i bokstav b, eller andre foretak som bruker lufthavner,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som leverer andre tjenester på lufthavner enn de som er nevnt i bokstav b, eller andre foretak som bruker lufthavner,</td></tr>",
         "text": "c)\tforetak som leverer andre tjenester på lufthavner enn de som er nevnt i bokstav b, eller andre foretak som bruker lufthavner,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som er godkjent etter <a data-id=\"lov/1993-06-11-101/§4-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-10\">§ 4-10</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som er godkjent etter <a data-id=\"lov/1993-06-11-101/§4-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-10\">§ 4-10</a>,</td></tr>",
         "text": "d)\tforetak som er godkjent etter § 4-10,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre foretak som driver med godkjenning etter denne lov eller forskrift gitt med hjemmel i den, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre foretak som driver med godkjenning etter denne lov eller forskrift gitt med hjemmel i den, og</td></tr>",
         "text": "e)\tandre foretak som driver med godkjenning etter denne lov eller forskrift gitt med hjemmel i den, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">personer som har relevante opplysninger om overtredelse av regler gitt i medhold av <a data-id=\"lov/1993-06-11-101/§10-42\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-42\">§ 10-42</a> første ledd i et EØS-land.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">personer som har relevante opplysninger om overtredelse av regler gitt i medhold av <a data-id=\"lov/1993-06-11-101/§10-42\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-42\">§ 10-42</a> første ledd i et EØS-land.</td></tr>",
         "text": "3.\tpersoner som har relevante opplysninger om overtredelse av regler gitt i medhold av § 10-42 første ledd i et EØS-land."
     },
     {
@@ -812,61 +812,61 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme, <a data-id=\"lov/1993-06-11-101/§2-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A72-2\">§ 2-2</a>, <a data-id=\"lov/1993-06-11-101/§4-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-1\">§ 4-1</a> annet og tredje ledd, <a data-id=\"lov/1993-06-11-101/§4-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-4\">§ 4-4</a> første og andre ledd, <a data-id=\"lov/1993-06-11-101/§4-6\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-6\">§§ 4-6</a> eller <a data-id=\"lov/1993-06-11-101/§4-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-7\">4-7</a>, § <a data-id=\"lov/1993-06-11-101/§5-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-1\">5-1</a> første og tredje ledd, <a data-id=\"lov/1993-06-11-101/§5-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-3\">§ 5-3</a>, § <a data-id=\"lov/1993-06-11-101/§5-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-5\">5-5</a>, § <a data-id=\"lov/1993-06-11-101/§5-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-7\">5-7</a>, § <a data-id=\"lov/1993-06-11-101/§5-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-8\">5-8</a>, § <a data-id=\"lov/1993-06-11-101/§6-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-1\">6-1</a> første ledd, <a data-id=\"lov/1993-06-11-101/§6-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-2\">§ 6-2</a>, § <a data-id=\"lov/1993-06-11-101/§6-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-3\">6-3</a> tredje ledd, <a data-id=\"lov/1993-06-11-101/§6-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-7\">§ 6-7</a>, § <a data-id=\"lov/1993-06-11-101/§6-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-10\">6-10</a>, § <a data-id=\"lov/1993-06-11-101/§7-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-1\">7-1</a> første ledd, <a data-id=\"lov/1993-06-11-101/§7-15\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-15\">§ 7-15</a> første ledd, <a data-id=\"lov/1993-06-11-101/§7-19\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-19\">§ 7-19</a>, § <a data-id=\"lov/1993-06-11-101/§7-25\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-25\">7-25</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§7-28\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-28\">§ 7-28</a>, § <a data-id=\"lov/1993-06-11-101/§7-29\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-29\">7-29</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§8-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-1\">§ 8-1</a> første og annet ledd, <a data-id=\"lov/1993-06-11-101/§8-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-8\">§§ 8-8</a>, <a data-id=\"lov/1993-06-11-101/§9-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-2\">9-2</a>, <a data-id=\"lov/1993-06-11-101/§9-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-5\">9-5</a>, <a data-id=\"lov/1993-06-11-101/§9-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-7\">9-7</a>, <a data-id=\"lov/1993-06-11-101/§10-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-3\">10-3</a>, <a data-id=\"lov/1993-06-11-101/§10-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-4\">10-4</a>, <a data-id=\"lov/1993-06-11-101/§10-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-5\">10-5</a>, <a data-id=\"lov/1993-06-11-101/§10-6\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-6\">10-6</a> eller <a data-id=\"lov/1993-06-11-101/§10-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-8\">10-8</a>, § <a data-id=\"lov/1993-06-11-101/§10-38a\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-38a\">10-38 a</a> første og annet ledd, <a data-id=\"lov/1993-06-11-101/§10-45\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-45\">§ 10-45</a>, § <a data-id=\"lov/1993-06-11-101/§11-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A711-2\">11-2</a> første ledd eller § <a data-id=\"lov/1993-06-11-101/§12-31\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-31\">12-31</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme, <a data-id=\"lov/1993-06-11-101/§2-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A72-2\">§ 2-2</a>, <a data-id=\"lov/1993-06-11-101/§4-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-1\">§ 4-1</a> annet og tredje ledd, <a data-id=\"lov/1993-06-11-101/§4-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-4\">§ 4-4</a> første og andre ledd, <a data-id=\"lov/1993-06-11-101/§4-6\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-6\">§§ 4-6</a> eller <a data-id=\"lov/1993-06-11-101/§4-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-7\">4-7</a>, § <a data-id=\"lov/1993-06-11-101/§5-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-1\">5-1</a> første og tredje ledd, <a data-id=\"lov/1993-06-11-101/§5-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-3\">§ 5-3</a>, § <a data-id=\"lov/1993-06-11-101/§5-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-5\">5-5</a>, § <a data-id=\"lov/1993-06-11-101/§5-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-7\">5-7</a>, § <a data-id=\"lov/1993-06-11-101/§5-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-8\">5-8</a>, § <a data-id=\"lov/1993-06-11-101/§6-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-1\">6-1</a> første ledd, <a data-id=\"lov/1993-06-11-101/§6-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-2\">§ 6-2</a>, § <a data-id=\"lov/1993-06-11-101/§6-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-3\">6-3</a> tredje ledd, <a data-id=\"lov/1993-06-11-101/§6-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-7\">§ 6-7</a>, § <a data-id=\"lov/1993-06-11-101/§6-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-10\">6-10</a>, § <a data-id=\"lov/1993-06-11-101/§7-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-1\">7-1</a> første ledd, <a data-id=\"lov/1993-06-11-101/§7-15\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-15\">§ 7-15</a> første ledd, <a data-id=\"lov/1993-06-11-101/§7-19\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-19\">§ 7-19</a>, § <a data-id=\"lov/1993-06-11-101/§7-25\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-25\">7-25</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§7-28\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-28\">§ 7-28</a>, § <a data-id=\"lov/1993-06-11-101/§7-29\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-29\">7-29</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§8-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-1\">§ 8-1</a> første og annet ledd, <a data-id=\"lov/1993-06-11-101/§8-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-8\">§§ 8-8</a>, <a data-id=\"lov/1993-06-11-101/§9-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-2\">9-2</a>, <a data-id=\"lov/1993-06-11-101/§9-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-5\">9-5</a>, <a data-id=\"lov/1993-06-11-101/§9-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-7\">9-7</a>, <a data-id=\"lov/1993-06-11-101/§10-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-3\">10-3</a>, <a data-id=\"lov/1993-06-11-101/§10-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-4\">10-4</a>, <a data-id=\"lov/1993-06-11-101/§10-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-5\">10-5</a>, <a data-id=\"lov/1993-06-11-101/§10-6\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-6\">10-6</a> eller <a data-id=\"lov/1993-06-11-101/§10-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-8\">10-8</a>, § <a data-id=\"lov/1993-06-11-101/§10-38a\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-38a\">10-38 a</a> første og annet ledd, <a data-id=\"lov/1993-06-11-101/§10-45\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-45\">§ 10-45</a>, § <a data-id=\"lov/1993-06-11-101/§11-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A711-2\">11-2</a> første ledd eller § <a data-id=\"lov/1993-06-11-101/§12-31\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-31\">12-31</a>.</td></tr>",
         "text": "1.\thar overtrådt, eller latt være å etterkomme, § 2-2, § 4-1 annet og tredje ledd, § 4-4 første og andre ledd, §§ 4-6 eller 4-7, § 5-1 første og tredje ledd, § 5-3, § 5-5, § 5-7, § 5-8, § 6-1 første ledd, § 6-2, § 6-3 tredje ledd, § 6-7, § 6-10, § 7-1 første ledd, § 7-15 første ledd, § 7-19, § 7-25 annet ledd, § 7-28, § 7-29 annet ledd, § 8-1 første og annet ledd, §§ 8-8, 9-2, 9-5, 9-7, 10-3, 10-4, 10-5, 10-6 eller 10-8, § 10-38 a første og annet ledd, § 10-45, § 11-2 første ledd eller § 12-31."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har benyttet luftfartøy til tross for at luftdyktighetsbevis eller miljødyktighetsbevis er ugyldig eller er blitt erklært ugyldig etter <a data-id=\"lov/1993-06-11-101/§4-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-5\">§ 4-5</a> første eller annet ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har benyttet luftfartøy til tross for at luftdyktighetsbevis eller miljødyktighetsbevis er ugyldig eller er blitt erklært ugyldig etter <a data-id=\"lov/1993-06-11-101/§4-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-5\">§ 4-5</a> første eller annet ledd.</td></tr>",
         "text": "2.\thar benyttet luftfartøy til tross for at luftdyktighetsbevis eller miljødyktighetsbevis er ugyldig eller er blitt erklært ugyldig etter § 4-5 første eller annet ledd."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">anlegger, driver eller innehar landingsplass uten konsesjon som nevnt i <a data-id=\"lov/1993-06-11-101/§7-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-5\">§ 7-5</a> første ledd eller i strid med konsesjon som nevnt i <a data-id=\"lov/1993-06-11-101/§7-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-7\">§ 7-7</a> dersom denne inneholder bestemmelser som har som formål å redusere støy eller regulere trafikkomfanget.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">anlegger, driver eller innehar landingsplass uten konsesjon som nevnt i <a data-id=\"lov/1993-06-11-101/§7-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-5\">§ 7-5</a> første ledd eller i strid med konsesjon som nevnt i <a data-id=\"lov/1993-06-11-101/§7-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-7\">§ 7-7</a> dersom denne inneholder bestemmelser som har som formål å redusere støy eller regulere trafikkomfanget.</td></tr>",
         "text": "3.\tanlegger, driver eller innehar landingsplass uten konsesjon som nevnt i § 7-5 første ledd eller i strid med konsesjon som nevnt i § 7-7 dersom denne inneholder bestemmelser som har som formål å redusere støy eller regulere trafikkomfanget."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">driver landingsplass uten eller i strid med kravene til teknisk og operativ godkjenning som nevnt i <a data-id=\"lov/1993-06-11-101/§7-11\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-11\">§ 7-11</a> første, tredje og femte ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">driver landingsplass uten eller i strid med kravene til teknisk og operativ godkjenning som nevnt i <a data-id=\"lov/1993-06-11-101/§7-11\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-11\">§ 7-11</a> første, tredje og femte ledd.</td></tr>",
         "text": "4.\tdriver landingsplass uten eller i strid med kravene til teknisk og operativ godkjenning som nevnt i § 7-11 første, tredje og femte ledd."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bruker opplysninger i strid med <a data-id=\"lov/1993-06-11-101/§12-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-10\">§§ 12-10</a> eller <a data-id=\"lov/1993-06-11-101/§12-11\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-11\">12-11</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">bruker opplysninger i strid med <a data-id=\"lov/1993-06-11-101/§12-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-10\">§§ 12-10</a> eller <a data-id=\"lov/1993-06-11-101/§12-11\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-11\">12-11</a>.</td></tr>",
         "text": "5.\tbruker opplysninger i strid med §§ 12-10 eller 12-11."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme vedtak truffet med hjemmel i, forskrift gitt i medhold av <a data-id=\"lov/1993-06-11-101/§4-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-1\">§ 4-1</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§4-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-10\">§ 4-10</a>, <a data-id=\"lov/1993-06-11-101/§5-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-1\">§ 5-1</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§5-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-3\">§ 5-3</a>, <a data-id=\"lov/1993-06-11-101/§5-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-4\">§ 5-4</a> første ledd, <a data-id=\"lov/1993-06-11-101/§6-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-2\">§§ 6-2</a>, <a data-id=\"lov/1993-06-11-101/§6-12\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-12\">6-12</a>, <a data-id=\"lov/1993-06-11-101/§7-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-1\">7-1</a> eller <a data-id=\"lov/1993-06-11-101/§7-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-3\">7-3</a>, § <a data-id=\"lov/1993-06-11-101/§7-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-4\">7-4</a> – herunder for brudd på nasjonal ytelsesplan etter reglene om et felles europeisk luftrom, <a data-id=\"lov/1993-06-11-101/§7-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-5\">§ 7-5</a> fjerde ledd, <a data-id=\"lov/1993-06-11-101/§7-11\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-11\">§§ 7-11</a> eller <a data-id=\"lov/1993-06-11-101/§7-22\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-22\">7-22</a>, § <a data-id=\"lov/1993-06-11-101/§7-24\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-24\">7-24</a> første ledd, <a data-id=\"lov/1993-06-11-101/§7-25\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-25\">§§ 7-25</a>, <a data-id=\"lov/1993-06-11-101/§7-29\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-29\">7-29</a>, <a data-id=\"lov/1993-06-11-101/§8-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-8\">8-8</a>, <a data-id=\"lov/1993-06-11-101/§8-9\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-9\">8-9</a>, <a data-id=\"lov/1993-06-11-101/§8-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-10\">8-10</a>, <a data-id=\"lov/1993-06-11-101/§9-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-1\">9-1</a> eller <a data-id=\"lov/1993-06-11-101/§9-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-2\">9-2</a>, § <a data-id=\"lov/1993-06-11-101/§9-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-3\">9-3</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§9-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-4\">§§ 9-4</a>, <a data-id=\"lov/1993-06-11-101/§9-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-5\">9-5</a>, <a data-id=\"lov/1993-06-11-101/§9-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-7\">9-7</a>, <a data-id=\"lov/1993-06-11-101/§10-41a\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-41a\">10-41 a</a>, <a data-id=\"lov/1993-06-11-101/§10-42\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-42\">10-42</a>, <a data-id=\"lov/1993-06-11-101/§10-45\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-45\">10-45</a>, <a data-id=\"lov/1993-06-11-101/§12-9\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-9\">12-9</a>, <a data-id=\"lov/1993-06-11-101/§13-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713-3\">13-3</a>, <a data-id=\"lov/1993-06-11-101/§13-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713-4\">13-4</a> eller <a data-id=\"lov/1993-06-11-101/§15-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A715-2\">15-2</a> dersom det er bestemt i vedkommende forskrift at overtredelsen skal kunne sanksjoneres etter paragrafen her.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme vedtak truffet med hjemmel i, forskrift gitt i medhold av <a data-id=\"lov/1993-06-11-101/§4-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-1\">§ 4-1</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§4-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-10\">§ 4-10</a>, <a data-id=\"lov/1993-06-11-101/§5-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-1\">§ 5-1</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§5-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-3\">§ 5-3</a>, <a data-id=\"lov/1993-06-11-101/§5-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-4\">§ 5-4</a> første ledd, <a data-id=\"lov/1993-06-11-101/§6-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-2\">§§ 6-2</a>, <a data-id=\"lov/1993-06-11-101/§6-12\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A76-12\">6-12</a>, <a data-id=\"lov/1993-06-11-101/§7-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-1\">7-1</a> eller <a data-id=\"lov/1993-06-11-101/§7-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-3\">7-3</a>, § <a data-id=\"lov/1993-06-11-101/§7-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-4\">7-4</a> – herunder for brudd på nasjonal ytelsesplan etter reglene om et felles europeisk luftrom, <a data-id=\"lov/1993-06-11-101/§7-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-5\">§ 7-5</a> fjerde ledd, <a data-id=\"lov/1993-06-11-101/§7-11\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-11\">§§ 7-11</a> eller <a data-id=\"lov/1993-06-11-101/§7-22\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-22\">7-22</a>, § <a data-id=\"lov/1993-06-11-101/§7-24\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-24\">7-24</a> første ledd, <a data-id=\"lov/1993-06-11-101/§7-25\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-25\">§§ 7-25</a>, <a data-id=\"lov/1993-06-11-101/§7-29\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-29\">7-29</a>, <a data-id=\"lov/1993-06-11-101/§8-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-8\">8-8</a>, <a data-id=\"lov/1993-06-11-101/§8-9\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-9\">8-9</a>, <a data-id=\"lov/1993-06-11-101/§8-10\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A78-10\">8-10</a>, <a data-id=\"lov/1993-06-11-101/§9-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-1\">9-1</a> eller <a data-id=\"lov/1993-06-11-101/§9-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-2\">9-2</a>, § <a data-id=\"lov/1993-06-11-101/§9-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-3\">9-3</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§9-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-4\">§§ 9-4</a>, <a data-id=\"lov/1993-06-11-101/§9-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-5\">9-5</a>, <a data-id=\"lov/1993-06-11-101/§9-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-7\">9-7</a>, <a data-id=\"lov/1993-06-11-101/§10-41a\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-41a\">10-41 a</a>, <a data-id=\"lov/1993-06-11-101/§10-42\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-42\">10-42</a>, <a data-id=\"lov/1993-06-11-101/§10-45\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A710-45\">10-45</a>, <a data-id=\"lov/1993-06-11-101/§12-9\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-9\">12-9</a>, <a data-id=\"lov/1993-06-11-101/§13-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713-3\">13-3</a>, <a data-id=\"lov/1993-06-11-101/§13-4\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713-4\">13-4</a> eller <a data-id=\"lov/1993-06-11-101/§15-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A715-2\">15-2</a> dersom det er bestemt i vedkommende forskrift at overtredelsen skal kunne sanksjoneres etter paragrafen her.</td></tr>",
         "text": "6.\thar overtrådt, eller latt være å etterkomme vedtak truffet med hjemmel i, forskrift gitt i medhold av § 4-1 annet ledd, § 4-10, § 5-1 annet ledd, § 5-3, § 5-4 første ledd, §§ 6-2, 6-12, 7-1 eller 7-3, § 7-4 – herunder for brudd på nasjonal ytelsesplan etter reglene om et felles europeisk luftrom, § 7-5 fjerde ledd, §§ 7-11 eller 7-22, § 7-24 første ledd, §§ 7-25, 7-29, 8-8, 8-9, 8-10, 9-1 eller 9-2, § 9-3 annet ledd, §§ 9-4, 9-5, 9-7, 10-41 a, 10-42, 10-45, 12-9, 13-3, 13-4 eller 15-2 dersom det er bestemt i vedkommende forskrift at overtredelsen skal kunne sanksjoneres etter paragrafen her."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme vedtak truffet med hjemmel i, forskrift gitt i medhold av <a data-id=\"lov/1993-06-11-101/§16-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A716-1\">§ 16-1</a> dersom disse omhandler tidsluker (slots), markedsadgang for lufthavntjenester, driftstillatelser (lisenser), leieavtaler for luftfartøy, retten til å etablere og drive flyruter, krav til informasjon og likebehandling ved salg av flybilletter, reglene om krav til å opplyse passasjerene om identiteten til det flyselskapet som utfører en transport eller reglene om et felles europeisk luftrom dersom det er nødvendig for å gjennomføre EØS-avtalen og det er bestemt i vedkommende forskrift at overtredelsen skal kunne sanksjoneres etter paragrafen her.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme vedtak truffet med hjemmel i, forskrift gitt i medhold av <a data-id=\"lov/1993-06-11-101/§16-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A716-1\">§ 16-1</a> dersom disse omhandler tidsluker (slots), markedsadgang for lufthavntjenester, driftstillatelser (lisenser), leieavtaler for luftfartøy, retten til å etablere og drive flyruter, krav til informasjon og likebehandling ved salg av flybilletter, reglene om krav til å opplyse passasjerene om identiteten til det flyselskapet som utfører en transport eller reglene om et felles europeisk luftrom dersom det er nødvendig for å gjennomføre EØS-avtalen og det er bestemt i vedkommende forskrift at overtredelsen skal kunne sanksjoneres etter paragrafen her.</td></tr>",
         "text": "7.\thar overtrådt, eller latt være å etterkomme vedtak truffet med hjemmel i, forskrift gitt i medhold av § 16-1 dersom disse omhandler tidsluker (slots), markedsadgang for lufthavntjenester, driftstillatelser (lisenser), leieavtaler for luftfartøy, retten til å etablere og drive flyruter, krav til informasjon og likebehandling ved salg av flybilletter, reglene om krav til å opplyse passasjerene om identiteten til det flyselskapet som utfører en transport eller reglene om et felles europeisk luftrom dersom det er nødvendig for å gjennomføre EØS-avtalen og det er bestemt i vedkommende forskrift at overtredelsen skal kunne sanksjoneres etter paragrafen her."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme, vedtak fattet i medhold av <a data-id=\"lov/1993-06-11-101/§4-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-3\">§ 4-3</a>, <a data-id=\"lov/1993-06-11-101/§7-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-5\">§ 7-5</a> første ledd, <a data-id=\"lov/1993-06-11-101/§7-6\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-6\">§§ 7-6</a> eller <a data-id=\"lov/1993-06-11-101/§7-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-7\">7-7</a>, § <a data-id=\"lov/1993-06-11-101/§7-11\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-11\">7-11</a> tredje ledd, <a data-id=\"lov/1993-06-11-101/§7-15\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-15\">§ 7-15</a> første ledd, <a data-id=\"lov/1993-06-11-101/§9-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-3\">§ 9-3</a> første ledd eller § <a data-id=\"lov/1993-06-11-101/§13-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713-1\">13-1</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme, vedtak fattet i medhold av <a data-id=\"lov/1993-06-11-101/§4-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-3\">§ 4-3</a>, <a data-id=\"lov/1993-06-11-101/§7-5\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-5\">§ 7-5</a> første ledd, <a data-id=\"lov/1993-06-11-101/§7-6\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-6\">§§ 7-6</a> eller <a data-id=\"lov/1993-06-11-101/§7-7\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-7\">7-7</a>, § <a data-id=\"lov/1993-06-11-101/§7-11\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-11\">7-11</a> tredje ledd, <a data-id=\"lov/1993-06-11-101/§7-15\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-15\">§ 7-15</a> første ledd, <a data-id=\"lov/1993-06-11-101/§9-3\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-3\">§ 9-3</a> første ledd eller § <a data-id=\"lov/1993-06-11-101/§13-1\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713-1\">13-1</a>.</td></tr>",
         "text": "8.\thar overtrådt, eller latt være å etterkomme, vedtak fattet i medhold av § 4-3, § 7-5 første ledd, §§ 7-6 eller 7-7, § 7-11 tredje ledd, § 7-15 første ledd, § 9-3 første ledd eller § 13-1."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme, krav eller pålegg under tilsyn, besiktigelse eller undersøkelse som nevnt i <a data-id=\"lov/1993-06-11-101/§4-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-2\">§ 4-2</a>, 4-8 eller 5-2, <a data-id=\"lov/1993-06-11-101/§5-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-8\">§ 5-8</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§7-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-2\">§ 7-2</a>, <a data-id=\"lov/1993-06-11-101/§7-26\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-26\">§ 7-26</a> tredje ledd, <a data-id=\"lov/1993-06-11-101/§7-27\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-27\">§ 7-27</a> annet og tredje ledd, <a data-id=\"lov/1993-06-11-101/§9-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-8\">§ 9-8</a>, 10-42 annet ledd og <a data-id=\"lov/1993-06-11-101/§13\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713\">§ 13</a> a-3.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har overtrådt, eller latt være å etterkomme, krav eller pålegg under tilsyn, besiktigelse eller undersøkelse som nevnt i <a data-id=\"lov/1993-06-11-101/§4-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A74-2\">§ 4-2</a>, 4-8 eller 5-2, <a data-id=\"lov/1993-06-11-101/§5-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A75-8\">§ 5-8</a> annet ledd, <a data-id=\"lov/1993-06-11-101/§7-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-2\">§ 7-2</a>, <a data-id=\"lov/1993-06-11-101/§7-26\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-26\">§ 7-26</a> tredje ledd, <a data-id=\"lov/1993-06-11-101/§7-27\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-27\">§ 7-27</a> annet og tredje ledd, <a data-id=\"lov/1993-06-11-101/§9-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-8\">§ 9-8</a>, 10-42 annet ledd og <a data-id=\"lov/1993-06-11-101/§13\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713\">§ 13</a> a-3.</td></tr>",
         "text": "9.\thar overtrådt, eller latt være å etterkomme, krav eller pålegg under tilsyn, besiktigelse eller undersøkelse som nevnt i § 4-2, 4-8 eller 5-2, § 5-8 annet ledd, § 7-2, § 7-26 tredje ledd, § 7-27 annet og tredje ledd, § 9-8, 10-42 annet ledd og § 13 a-3."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har latt være å etterkomme pålegg om å gi opplysninger i medhold av <a data-id=\"lov/1993-06-11-101/§7-26\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-26\">§ 7-26</a>, <a data-id=\"lov/1993-06-11-101/§7-27\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-27\">§ 7-27</a> annet og tredje ledd, <a data-id=\"lov/1993-06-11-101/§9-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-8\">§§ 9-8</a> eller <a data-id=\"lov/1993-06-11-101/§12-16\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-16\">12-16</a>, <a data-id=\"lov/1993-06-11-101/§13\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713\">§ 13</a> a-1, eller som gir uriktige opplysninger som svar på slikt pålegg.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har latt være å etterkomme pålegg om å gi opplysninger i medhold av <a data-id=\"lov/1993-06-11-101/§7-26\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-26\">§ 7-26</a>, <a data-id=\"lov/1993-06-11-101/§7-27\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A77-27\">§ 7-27</a> annet og tredje ledd, <a data-id=\"lov/1993-06-11-101/§9-8\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A79-8\">§§ 9-8</a> eller <a data-id=\"lov/1993-06-11-101/§12-16\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A712-16\">12-16</a>, <a data-id=\"lov/1993-06-11-101/§13\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A713\">§ 13</a> a-1, eller som gir uriktige opplysninger som svar på slikt pålegg.</td></tr>",
         "text": "10.\thar latt være å etterkomme pålegg om å gi opplysninger i medhold av § 7-26, § 7-27 annet og tredje ledd, §§ 9-8 eller 12-16, § 13 a-1, eller som gir uriktige opplysninger som svar på slikt pålegg."
     },
     {
@@ -884,55 +884,55 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvor alvorlig overtredelsen har krenket de interesser loven verner,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvor alvorlig overtredelsen har krenket de interesser loven verner,</td></tr>",
         "text": "a)\thvor alvorlig overtredelsen har krenket de interesser loven verner,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">graden av skyld,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">graden av skyld,</td></tr>",
         "text": "b)\tgraden av skyld,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,</td></tr>",
         "text": "c)\tom overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme overtrederens interesser,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme overtrederens interesser,</td></tr>",
         "text": "d)\tom overtredelsen er begått for å fremme overtrederens interesser,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,</td></tr>",
         "text": "e)\tom overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentakelse,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentakelse,</td></tr>",
         "text": "f)\tom det foreligger gjentakelse,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson er blitt ilagt straff,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson er blitt ilagt straff,</td></tr>",
         "text": "g)\tom andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson er blitt ilagt straff,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrederens økonomiske evne, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrederens økonomiske evne, og</td></tr>",
         "text": "h)\tovertrederens økonomiske evne, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om ileggelse av overtredelsesgebyr vil kunne skape frykt for negative konsekvenser av å gi opplysninger som skal brukes til ulykkesforebyggende arbeid til offentlige myndighet eller til selskapsinterne rapporteringsordninger.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om ileggelse av overtredelsesgebyr vil kunne skape frykt for negative konsekvenser av å gi opplysninger som skal brukes til ulykkesforebyggende arbeid til offentlige myndighet eller til selskapsinterne rapporteringsordninger.</td></tr>",
         "text": "i)\tom ileggelse av overtredelsesgebyr vil kunne skape frykt for negative konsekvenser av å gi opplysninger som skal brukes til ulykkesforebyggende arbeid til offentlige myndighet eller til selskapsinterne rapporteringsordninger."
     },
     {
@@ -1022,19 +1022,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ikke er norsk,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ikke er norsk,</td></tr>",
         "text": "1.\tikke er norsk,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ikke har fremmed nasjonalitet som nevnt i <a data-id=\"lov/1993-06-11-101/§2-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A72-2\">§ 2-2</a> første ledd nr. 2 og 3, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ikke har fremmed nasjonalitet som nevnt i <a data-id=\"lov/1993-06-11-101/§2-2\" class=\" reference\" href=\"/lov/1993-06-11-101/%C2%A72-2\">§ 2-2</a> første ledd nr. 2 og 3, eller</td></tr>",
         "text": "2.\tikke har fremmed nasjonalitet som nevnt i § 2-2 første ledd nr. 2 og 3, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ikke har særskilt tillatelse av luftfartsmyndigheten,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ikke har særskilt tillatelse av luftfartsmyndigheten,</td></tr>",
         "text": "3.\tikke har særskilt tillatelse av luftfartsmyndigheten,"
     },
     {

@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-03-26-14\" class=\" reference\" href=\"/lov/1999-03-26-14\">Lov 26. mars 1999 nr. 14</a> om skatt av formue og inntekt (skatteloven).</td></tr>",
         "text": "1\tLov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-17-67\" class=\" reference\" href=\"/lov/2005-06-17-67\">Lov 17. juni 2005 nr. 67</a> om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2005-06-17-67\" class=\" reference\" href=\"/lov/2005-06-17-67\">Lov 17. juni 2005 nr. 67</a> om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven).</td></tr>",
         "text": "2\tLov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)."
     },
     {
@@ -44,25 +44,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Person som ikke har skatteplikt etter <a data-id=\"lov/1999-03-26-14/§2-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-1\">§ 2-1</a>, plikter å svare skatt av pensjon, føderåd, livrente og lignende utbetalinger som er skattepliktig inntekt etter <a data-id=\"lov/1999-03-26-14/§5-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A75-1\">§ 5-1</a> første ledd eller <a data-id=\"lov/1999-03-26-14/§5-40\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A75-40\">§ 5-40</a>, når</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Person som ikke har skatteplikt etter <a data-id=\"lov/1999-03-26-14/§2-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-1\">§ 2-1</a>, plikter å svare skatt av pensjon, føderåd, livrente og lignende utbetalinger som er skattepliktig inntekt etter <a data-id=\"lov/1999-03-26-14/§5-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A75-1\">§ 5-1</a> første ledd eller <a data-id=\"lov/1999-03-26-14/§5-40\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A75-40\">§ 5-40</a>, når</td></tr>",
         "text": "(4) Person som ikke har skatteplikt etter § 2-1, plikter å svare skatt av pensjon, føderåd, livrente og lignende utbetalinger som er skattepliktig inntekt etter § 5-1 første ledd eller § 5-40, når"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer fra folketrygden eller fra offentlig tjenestepensjonsordning</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer fra folketrygden eller fra offentlig tjenestepensjonsordning</td></tr>",
         "text": "a.\tutbetalingen skjer fra folketrygden eller fra offentlig tjenestepensjonsordning"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottakeren har opptjent pensjonspoeng i folketrygden og utbetalingen skjer på grunnlag av forpliktelse som påhviler person, selskap eller innretning hjemmehørende i riket eller person, selskap eller innretning hjemmehørende i utlandet som er skattepliktig til Norge etter første ledd bokstav b, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottakeren har opptjent pensjonspoeng i folketrygden og utbetalingen skjer på grunnlag av forpliktelse som påhviler person, selskap eller innretning hjemmehørende i riket eller person, selskap eller innretning hjemmehørende i utlandet som er skattepliktig til Norge etter første ledd bokstav b, eller</td></tr>",
         "text": "b.\tmottakeren har opptjent pensjonspoeng i folketrygden og utbetalingen skjer på grunnlag av forpliktelse som påhviler person, selskap eller innretning hjemmehørende i riket eller person, selskap eller innretning hjemmehørende i utlandet som er skattepliktig til Norge etter første ledd bokstav b, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter <a data-id=\"lov/1999-03-26-14/§6-46\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A76-46\">§§ 6-46</a> og <a data-id=\"lov/1999-03-26-14/§6-47\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A76-47\">6-47</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter <a data-id=\"lov/1999-03-26-14/§6-46\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A76-46\">§§ 6-46</a> og <a data-id=\"lov/1999-03-26-14/§6-47\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A76-47\">6-47</a>.</td></tr>",
         "text": "c.\tutbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter §§ 6-46 og 6-47."
     },
     {
@@ -74,25 +74,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Skattyter med begrenset skatteplikt etter <a data-id=\"lov/1999-03-26-14/§2-3\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-3\">§ 2-3</a> fjerde ledd kan kreve skattebegrensning etter denne paragraf dersom</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Skattyter med begrenset skatteplikt etter <a data-id=\"lov/1999-03-26-14/§2-3\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-3\">§ 2-3</a> fjerde ledd kan kreve skattebegrensning etter denne paragraf dersom</td></tr>",
         "text": "(5) Skattyter med begrenset skatteplikt etter § 2-3 fjerde ledd kan kreve skattebegrensning etter denne paragraf dersom"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skattyteren er bosatt i annen EØS-stat</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skattyteren er bosatt i annen EØS-stat</td></tr>",
         "text": "a.\tskattyteren er bosatt i annen EØS-stat"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Norge i medhold av folkerettslig overenskomst kan kreve utlevert opplysninger fra denne staten om skattyterens inntekts- og formuesforhold og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Norge i medhold av folkerettslig overenskomst kan kreve utlevert opplysninger fra denne staten om skattyterens inntekts- og formuesforhold og</td></tr>",
         "text": "b.\tNorge i medhold av folkerettslig overenskomst kan kreve utlevert opplysninger fra denne staten om skattyterens inntekts- og formuesforhold og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hele eller tilnærmet hele skattyterens alminnelige inntekt i inntektsåret skattlegges i Norge.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hele eller tilnærmet hele skattyterens alminnelige inntekt i inntektsåret skattlegges i Norge.</td></tr>",
         "text": "c.\thele eller tilnærmet hele skattyterens alminnelige inntekt i inntektsåret skattlegges i Norge."
     },
     {
@@ -116,7 +116,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Forskuddstrekk etter <a data-id=\"lov/2005-06-17-67/§5-6\" class=\" reference\" href=\"/lov/2005-06-17-67/%C2%A75-6\">§ 5-6</a> første ledd bokstav g beregnes av utbetaleren til det beløp skatten vil utgjøre etter Stortingets vedtak om skatt for det angjeldende år.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Forskuddstrekk etter <a data-id=\"lov/2005-06-17-67/§5-6\" class=\" reference\" href=\"/lov/2005-06-17-67/%C2%A75-6\">§ 5-6</a> første ledd bokstav g beregnes av utbetaleren til det beløp skatten vil utgjøre etter Stortingets vedtak om skatt for det angjeldende år.</td></tr>",
         "text": "(5) Forskuddstrekk etter § 5-6 første ledd bokstav g beregnes av utbetaleren til det beløp skatten vil utgjøre etter Stortingets vedtak om skatt for det angjeldende år."
     },
     {
@@ -134,7 +134,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjon og livrente som omfattes av <a data-id=\"lov/1999-03-26-14/§5-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A75-1\">skatteloven § 5-1</a> første ledd eller <a data-id=\"lov/1999-03-26-14/§5-40\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A75-40\">§ 5-40</a>, jf. <a data-id=\"lov/1999-03-26-14/§2-3\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-3\">skatteloven § 2-3</a> fjerde ledd, til personer som ikke er bosatt i riket.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjon og livrente som omfattes av <a data-id=\"lov/1999-03-26-14/§5-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A75-1\">skatteloven § 5-1</a> første ledd eller <a data-id=\"lov/1999-03-26-14/§5-40\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A75-40\">§ 5-40</a>, jf. <a data-id=\"lov/1999-03-26-14/§2-3\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-3\">skatteloven § 2-3</a> fjerde ledd, til personer som ikke er bosatt i riket.</td></tr>",
         "text": "g)\tpensjon og livrente som omfattes av skatteloven § 5-1 første ledd eller § 5-40, jf. skatteloven § 2-3 fjerde ledd, til personer som ikke er bosatt i riket."
     },
     {

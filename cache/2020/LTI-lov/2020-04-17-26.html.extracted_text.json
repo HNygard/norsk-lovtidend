@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvistesummen er minst kr 200 000, og begge parter har vært bistått av advokat,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvistesummen er minst kr 200 000, og begge parter har vært bistått av advokat,</td></tr>",
         "text": "a)\ttvistesummen er minst kr 200 000, og begge parter har vært bistått av advokat,"
     },
     {
@@ -50,7 +50,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Gjelder saken formuesverdier med tvistesum under kr 200 000, kan forliksrådet avsi dom når en av partene ber om det.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Gjelder saken formuesverdier med tvistesum under kr 200 000, kan forliksrådet avsi dom når en av partene ber om det.</td></tr>",
         "text": "(2) Gjelder saken formuesverdier med tvistesum under kr 200 000, kan forliksrådet avsi dom når en av partene ber om det."
     },
     {
@@ -62,19 +62,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Ved småkravprosess behandles</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Ved småkravprosess behandles</td></tr>",
         "text": "(2) Ved småkravprosess behandles"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle saker hvor tvistesummen er under kr 250 000,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle saker hvor tvistesummen er under kr 250 000,</td></tr>",
         "text": "a)\talle saker hvor tvistesummen er under kr 250 000,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">saker med tvistesum på kr 250 000 eller mer dersom partene samtykker i behandling etter småkravprosess, og retten beslutter dette, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">saker med tvistesum på kr 250 000 eller mer dersom partene samtykker i behandling etter småkravprosess, og retten beslutter dette, og</td></tr>",
         "text": "b)\tsaker med tvistesum på kr 250 000 eller mer dersom partene samtykker i behandling etter småkravprosess, og retten beslutter dette, og"
     },
     {
@@ -86,7 +86,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Når det ses bort fra merverdiavgift, kan kostnader etter første ledd bokstav d bare erstattes med inntil 20 prosent av sakens tvistesum, likevel alltid inntil kr 2 500 og aldri mer enn kr 50 000. Merverdiavgift av kostnad som er erstattet etter første punktum, kan erstattes når ikke sakens rettsforhold hovedsakelig skriver seg fra virksomhet hos parten som er merverdiavgiftspliktig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Når det ses bort fra merverdiavgift, kan kostnader etter første ledd bokstav d bare erstattes med inntil 20 prosent av sakens tvistesum, likevel alltid inntil kr 2 500 og aldri mer enn kr 50 000. Merverdiavgift av kostnad som er erstattet etter første punktum, kan erstattes når ikke sakens rettsforhold hovedsakelig skriver seg fra virksomhet hos parten som er merverdiavgiftspliktig.</td></tr>",
         "text": "(2) Når det ses bort fra merverdiavgift, kan kostnader etter første ledd bokstav d bare erstattes med inntil 20 prosent av sakens tvistesum, likevel alltid inntil kr 2 500 og aldri mer enn kr 50 000. Merverdiavgift av kostnad som er erstattet etter første punktum, kan erstattes når ikke sakens rettsforhold hovedsakelig skriver seg fra virksomhet hos parten som er merverdiavgiftspliktig."
     },
     {
@@ -98,7 +98,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Anke over dom i en sak om formuesverdier kan ikke fremmes uten lagmannsrettens samtykke hvis ankegjenstandens verdi er mindre enn kr 250 000. Ved vurderingen av om samtykke skal gis, skal det blant annet tas hensyn til sakens karakter, de behov partene har for overprøving, og om det synes å være svakheter ved den avgjørelse som er anket, eller ved behandlingen av saken.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Anke over dom i en sak om formuesverdier kan ikke fremmes uten lagmannsrettens samtykke hvis ankegjenstandens verdi er mindre enn kr 250 000. Ved vurderingen av om samtykke skal gis, skal det blant annet tas hensyn til sakens karakter, de behov partene har for overprøving, og om det synes å være svakheter ved den avgjørelse som er anket, eller ved behandlingen av saken.</td></tr>",
         "text": "(1) Anke over dom i en sak om formuesverdier kan ikke fremmes uten lagmannsrettens samtykke hvis ankegjenstandens verdi er mindre enn kr 250 000. Ved vurderingen av om samtykke skal gis, skal det blant annet tas hensyn til sakens karakter, de behov partene har for overprøving, og om det synes å være svakheter ved den avgjørelse som er anket, eller ved behandlingen av saken."
     },
     {
@@ -110,7 +110,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Er avgjørelse etter første ledd ikke truffet før ankeforhandlingen, kan samtykke likevel nektes hvis det da viser seg at verdien av ankegjenstanden er mindre enn kr 250 000.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Er avgjørelse etter første ledd ikke truffet før ankeforhandlingen, kan samtykke likevel nektes hvis det da viser seg at verdien av ankegjenstanden er mindre enn kr 250 000.</td></tr>",
         "text": "(3) Er avgjørelse etter første ledd ikke truffet før ankeforhandlingen, kan samtykke likevel nektes hvis det da viser seg at verdien av ankegjenstanden er mindre enn kr 250 000."
     },
     {
@@ -122,13 +122,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td></tr>",
         "text": "1.\tLoven gjelder fra den tid Kongen bestemmer."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi nærmere overgangsregler.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi nærmere overgangsregler.</td></tr>",
         "text": "2.\tKongen kan gi nærmere overgangsregler."
     }
 ]

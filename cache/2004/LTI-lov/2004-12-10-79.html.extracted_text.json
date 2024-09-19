@@ -26,7 +26,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(1)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">(Arbeidsgiverperiode)</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(1)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">(Arbeidsgiverperiode)</td></tr>",
         "text": "(1)\t(Arbeidsgiverperiode)"
     },
     {
@@ -38,13 +38,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">5 arbeidsdager ved hel permittering og ved minst 40 pst. reduksjon av arbeidstiden</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">5 arbeidsdager ved hel permittering og ved minst 40 pst. reduksjon av arbeidstiden</td></tr>",
         "text": "a)\t5 arbeidsdager ved hel permittering og ved minst 40 pst. reduksjon av arbeidstiden"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">15 arbeidsdager ved mindre enn 40 pst. reduksjon av arbeidstiden,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">15 arbeidsdager ved mindre enn 40 pst. reduksjon av arbeidstiden,</td></tr>",
         "text": "b)\t15 arbeidsdager ved mindre enn 40 pst. reduksjon av arbeidstiden,"
     },
     {

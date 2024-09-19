@@ -14,31 +14,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1980-02-08-2\" class=\" reference\" href=\"/lov/1980-02-08-2\">Lov 8. februar 1980 nr. 2</a> om pant.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1980-02-08-2\" class=\" reference\" href=\"/lov/1980-02-08-2\">Lov 8. februar 1980 nr. 2</a> om pant.</td></tr>",
         "text": "1\tLov 8. februar 1980 nr. 2 om pant."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1988-06-10-40\" class=\" reference\" href=\"/lov/1988-06-10-40\">Lov 10. juni 1988 nr. 40</a> om finansieringsvirksomhet og finansinstitusjoner (finansieringsvirksomhetsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1988-06-10-40\" class=\" reference\" href=\"/lov/1988-06-10-40\">Lov 10. juni 1988 nr. 40</a> om finansieringsvirksomhet og finansinstitusjoner (finansieringsvirksomhetsloven).</td></tr>",
         "text": "2\tLov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner (finansieringsvirksomhetsloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">Lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1992-06-26-86\" class=\" reference\" href=\"/lov/1992-06-26-86\">Lov 26. juni 1992 nr. 86</a> om tvangsfullbyrdelse.</td></tr>",
         "text": "3\tLov 26. juni 1992 nr. 86 om tvangsfullbyrdelse."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-06-13-44\" class=\" reference\" href=\"/lov/1997-06-13-44\">Lov 13. juni 1997 nr. 44</a> om aksjeselskaper (aksjeloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1997-06-13-44\" class=\" reference\" href=\"/lov/1997-06-13-44\">Lov 13. juni 1997 nr. 44</a> om aksjeselskaper (aksjeloven).</td></tr>",
         "text": "4\tLov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-06-13-45\" class=\" reference\" href=\"/lov/1997-06-13-45\">Lov 13. juni 1997 nr. 45</a> om allmennaksjeselskaper (allmennaksjeloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1997-06-13-45\" class=\" reference\" href=\"/lov/1997-06-13-45\">Lov 13. juni 1997 nr. 45</a> om allmennaksjeselskaper (allmennaksjeloven).</td></tr>",
         "text": "5\tLov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven)."
     },
     {
@@ -74,7 +74,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Styret i hvert av selskapene som skal fusjonere, skal gi opplysninger til generalforsamlingen i selskapet og til styret i de andre selskapene som deltar i fusjonen, om vesentlige endringer i eiendeler, rettigheter og forpliktelser som har funnet sted i tiden mellom undertegningen av fusjonsplanen og behandlingen av fusjonsplanen i generalforsamlingene som skal treffe beslutning om fusjon.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Styret i hvert av selskapene som skal fusjonere, skal gi opplysninger til generalforsamlingen i selskapet og til styret i de andre selskapene som deltar i fusjonen, om vesentlige endringer i eiendeler, rettigheter og forpliktelser som har funnet sted i tiden mellom undertegningen av fusjonsplanen og behandlingen av fusjonsplanen i generalforsamlingene som skal treffe beslutning om fusjon.</td></tr>",
         "text": "(4) Styret i hvert av selskapene som skal fusjonere, skal gi opplysninger til generalforsamlingen i selskapet og til styret i de andre selskapene som deltar i fusjonen, om vesentlige endringer i eiendeler, rettigheter og forpliktelser som har funnet sted i tiden mellom undertegningen av fusjonsplanen og behandlingen av fusjonsplanen i generalforsamlingene som skal treffe beslutning om fusjon."
     },
     {
@@ -86,7 +86,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Eier et allmennaksjeselskap ni tideler eller mer av aksjene i et annet allmennaksjeselskap eller aksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen, kan beslutningen i morselskapet om fusjon med datterselskapet treffes av styret. Det samme gjelder dersom et aksjeselskap eier ni tideler eller mer av aksjene i et allmennaksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Eier et allmennaksjeselskap ni tideler eller mer av aksjene i et annet allmennaksjeselskap eller aksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen, kan beslutningen i morselskapet om fusjon med datterselskapet treffes av styret. Det samme gjelder dersom et aksjeselskap eier ni tideler eller mer av aksjene i et allmennaksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen.</td></tr>",
         "text": "(2) Eier et allmennaksjeselskap ni tideler eller mer av aksjene i et annet allmennaksjeselskap eller aksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen, kan beslutningen i morselskapet om fusjon med datterselskapet treffes av styret. Det samme gjelder dersom et aksjeselskap eier ni tideler eller mer av aksjene i et allmennaksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen."
     },
     {
@@ -104,7 +104,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Beslutningen kan ikke treffes av styret dersom aksjeeiere som representerer minst fem prosent av aksjekapitalen, krever det innen to uker etter at underretning til aksjeeierne er utsendt etter <a data-id=\"lov/1997-06-13-45/§13-12\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A713-12\">§ 13-12</a> annet ledd. Styret skal i så fall sørge for at møte i generalforsamlingen holdes innen en måned etter at kravet er fremsatt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Beslutningen kan ikke treffes av styret dersom aksjeeiere som representerer minst fem prosent av aksjekapitalen, krever det innen to uker etter at underretning til aksjeeierne er utsendt etter <a data-id=\"lov/1997-06-13-45/§13-12\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A713-12\">§ 13-12</a> annet ledd. Styret skal i så fall sørge for at møte i generalforsamlingen holdes innen en måned etter at kravet er fremsatt.</td></tr>",
         "text": "(3) Beslutningen kan ikke treffes av styret dersom aksjeeiere som representerer minst fem prosent av aksjekapitalen, krever det innen to uker etter at underretning til aksjeeierne er utsendt etter § 13-12 annet ledd. Styret skal i så fall sørge for at møte i generalforsamlingen holdes innen en måned etter at kravet er fremsatt."
     },
     {
@@ -128,19 +128,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedtektene for de selskapene som deltar i fusjonen;</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedtektene for de selskapene som deltar i fusjonen;</td></tr>",
         "text": "1.\tvedtektene for de selskapene som deltar i fusjonen;"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">de deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de siste tre regnskapsår og eventuell halvårsrapport etter <a data-id=\"lov/2007-06-29-75/§5-6\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A75-6\">verdipapirhandelloven § 5-6</a> som har balansedag senere enn balansedagen i siste årsregnskap;</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">de deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de siste tre regnskapsår og eventuell halvårsrapport etter <a data-id=\"lov/2007-06-29-75/§5-6\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A75-6\">verdipapirhandelloven § 5-6</a> som har balansedag senere enn balansedagen i siste årsregnskap;</td></tr>",
         "text": "2.\tde deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de siste tre regnskapsår og eventuell halvårsrapport etter verdipapirhandelloven § 5-6 som har balansedag senere enn balansedagen i siste årsregnskap;"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mellombalanser for de deltakende selskaper, dersom planen undertegnes mer enn seks måneder etter balansedagen for det senest fastsatte årsregnskapet, og det ikke følger en halvårsrapport som nevnt i nr 2 som vedlegg til fusjonsplanen. Mellombalansene skal være utarbeidet og revidert etter reglene for årsregnskap, og balansedagene må ikke ligge lenger tilbake i tid enn tre måneder før dagen for undertegningen av planen. Kongen kan ved forskrift fastsette unntak fra og gi nærmere regler om kravet til mellombalanser, og kan fastsette andre krav til revisjon av mellombalanser enn det som følger av annet punktum.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mellombalanser for de deltakende selskaper, dersom planen undertegnes mer enn seks måneder etter balansedagen for det senest fastsatte årsregnskapet, og det ikke følger en halvårsrapport som nevnt i nr 2 som vedlegg til fusjonsplanen. Mellombalansene skal være utarbeidet og revidert etter reglene for årsregnskap, og balansedagene må ikke ligge lenger tilbake i tid enn tre måneder før dagen for undertegningen av planen. Kongen kan ved forskrift fastsette unntak fra og gi nærmere regler om kravet til mellombalanser, og kan fastsette andre krav til revisjon av mellombalanser enn det som følger av annet punktum.</td></tr>",
         "text": "3.\tmellombalanser for de deltakende selskaper, dersom planen undertegnes mer enn seks måneder etter balansedagen for det senest fastsatte årsregnskapet, og det ikke følger en halvårsrapport som nevnt i nr 2 som vedlegg til fusjonsplanen. Mellombalansene skal være utarbeidet og revidert etter reglene for årsregnskap, og balansedagene må ikke ligge lenger tilbake i tid enn tre måneder før dagen for undertegningen av planen. Kongen kan ved forskrift fastsette unntak fra og gi nærmere regler om kravet til mellombalanser, og kan fastsette andre krav til revisjon av mellombalanser enn det som følger av annet punktum."
     },
     {
@@ -158,13 +158,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Senest en måned før generalforsamlingen skal behandle fusjonsplanen og frem til og med dagen for generalforsamlingen skal fusjonsplanen og øvrige saksdokumenter (jf. <a data-id=\"lov/1997-06-13-45/§13-6\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A713-6\">§§ 13-6</a> til <a data-id=\"lov/1997-06-13-45/§13-11\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A713-11\">13-11</a>) gjøres tilgjengelige for aksjeeierne på selskapets forretningskontor eller på selskapets internettsider. En aksjeeier kan kreve å få tilsendt dokumentene, med mindre dokumentene kan lastes ned og skrives ut fra selskapets internettsider i hele den perioden som er nevnt i første punktum. Selskapet kan ikke kreve noen form for godtgjøring for å sende dokumentene til aksjeeierne. Innkallingen til generalforsamling skal opplyse om hvor dokumentene er tilgjengelige, eventuell annen informasjon aksjeeierne må ha for å få tilgang til selskapets internettsider, og informasjon om aksjeeiernes rettigheter etter annet og tredje punktum.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Senest en måned før generalforsamlingen skal behandle fusjonsplanen og frem til og med dagen for generalforsamlingen skal fusjonsplanen og øvrige saksdokumenter (jf. <a data-id=\"lov/1997-06-13-45/§13-6\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A713-6\">§§ 13-6</a> til <a data-id=\"lov/1997-06-13-45/§13-11\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A713-11\">13-11</a>) gjøres tilgjengelige for aksjeeierne på selskapets forretningskontor eller på selskapets internettsider. En aksjeeier kan kreve å få tilsendt dokumentene, med mindre dokumentene kan lastes ned og skrives ut fra selskapets internettsider i hele den perioden som er nevnt i første punktum. Selskapet kan ikke kreve noen form for godtgjøring for å sende dokumentene til aksjeeierne. Innkallingen til generalforsamling skal opplyse om hvor dokumentene er tilgjengelige, eventuell annen informasjon aksjeeierne må ha for å få tilgang til selskapets internettsider, og informasjon om aksjeeiernes rettigheter etter annet og tredje punktum.</td></tr>",
         "text": "(1) Senest en måned før generalforsamlingen skal behandle fusjonsplanen og frem til og med dagen for generalforsamlingen skal fusjonsplanen og øvrige saksdokumenter (jf. §§ 13-6 til 13-11) gjøres tilgjengelige for aksjeeierne på selskapets forretningskontor eller på selskapets internettsider. En aksjeeier kan kreve å få tilsendt dokumentene, med mindre dokumentene kan lastes ned og skrives ut fra selskapets internettsider i hele den perioden som er nevnt i første punktum. Selskapet kan ikke kreve noen form for godtgjøring for å sende dokumentene til aksjeeierne. Innkallingen til generalforsamling skal opplyse om hvor dokumentene er tilgjengelige, eventuell annen informasjon aksjeeierne må ha for å få tilgang til selskapets internettsider, og informasjon om aksjeeiernes rettigheter etter annet og tredje punktum."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Skal beslutningen i det overtakende selskapet treffes av styret, skal dokumentene gjøres tilgjengelige for aksjeeierne etter reglene i første ledd senest en måned før generalforsamlingen i hvert av de overdragende selskapene. Aksjeeierne i det overtakende selskapet skal innen fristen etter første punktum underrettes om at dokumentene er tilgjengelige ved skriftlig henvendelse til hver enkelt aksjeeier. Første ledd annet til fjerde punktum gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Skal beslutningen i det overtakende selskapet treffes av styret, skal dokumentene gjøres tilgjengelige for aksjeeierne etter reglene i første ledd senest en måned før generalforsamlingen i hvert av de overdragende selskapene. Aksjeeierne i det overtakende selskapet skal innen fristen etter første punktum underrettes om at dokumentene er tilgjengelige ved skriftlig henvendelse til hver enkelt aksjeeier. Første ledd annet til fjerde punktum gjelder tilsvarende.</td></tr>",
         "text": "(2) Skal beslutningen i det overtakende selskapet treffes av styret, skal dokumentene gjøres tilgjengelige for aksjeeierne etter reglene i første ledd senest en måned før generalforsamlingen i hvert av de overdragende selskapene. Aksjeeierne i det overtakende selskapet skal innen fristen etter første punktum underrettes om at dokumentene er tilgjengelige ved skriftlig henvendelse til hver enkelt aksjeeier. Første ledd annet til fjerde punktum gjelder tilsvarende."
     },
     {
@@ -182,19 +182,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Et allmennaksjeselskap som omfattes av fusjonsplanen, skal melde planen til Foretaksregisteret.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Et allmennaksjeselskap som omfattes av fusjonsplanen, skal melde planen til Foretaksregisteret.</td></tr>",
         "text": "(1) Et allmennaksjeselskap som omfattes av fusjonsplanen, skal melde planen til Foretaksregisteret."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Foretaksregisteret skal kunngjøre planen gjennom Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Foretaksregisteret skal kunngjøre planen gjennom Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.</td></tr>",
         "text": "(2) Foretaksregisteret skal kunngjøre planen gjennom Brønnøysundregistrenes elektroniske kunngjøringspublikasjon."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Generalforsamlingen som skal behandle fusjonsplanen, kan tidligst avholdes en måned etter at planen er kunngjort. Skal beslutningen treffes av styret i det overtakende selskapet, må kunngjøringen for dette selskapet skje senest en måned før generalforsamlingen i det eller de overdragende selskapene.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Generalforsamlingen som skal behandle fusjonsplanen, kan tidligst avholdes en måned etter at planen er kunngjort. Skal beslutningen treffes av styret i det overtakende selskapet, må kunngjøringen for dette selskapet skje senest en måned før generalforsamlingen i det eller de overdragende selskapene.</td></tr>",
         "text": "(3) Generalforsamlingen som skal behandle fusjonsplanen, kan tidligst avholdes en måned etter at planen er kunngjort. Skal beslutningen treffes av styret i det overtakende selskapet, må kunngjøringen for dette selskapet skje senest en måned før generalforsamlingen i det eller de overdragende selskapene."
     },
     {
@@ -224,19 +224,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fusjonsplanen, jf. nr. 1;</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fusjonsplanen, jf. nr. 1;</td></tr>",
         "text": "a)\tfusjonsplanen, jf. nr. 1;"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">de deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de tre siste regnskapsår og eventuell halvårsrapport etter <a data-id=\"lov/2007-06-29-75/§5-6\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A75-6\">verdipapirhandelloven § 5-6</a> som har balansedag senere enn balansedagen i siste årsregnskap;</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">de deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de tre siste regnskapsår og eventuell halvårsrapport etter <a data-id=\"lov/2007-06-29-75/§5-6\" class=\" reference\" href=\"/lov/2007-06-29-75/%C2%A75-6\">verdipapirhandelloven § 5-6</a> som har balansedag senere enn balansedagen i siste årsregnskap;</td></tr>",
         "text": "b)\tde deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de tre siste regnskapsår og eventuell halvårsrapport etter verdipapirhandelloven § 5-6 som har balansedag senere enn balansedagen i siste årsregnskap;"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mellombalanser for de deltakende selskapene. <a data-id=\"lov/1997-06-13-45/§13-8\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A713-8\">§ 13-8</a> nr. 3 gjelder tilsvarende.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mellombalanser for de deltakende selskapene. <a data-id=\"lov/1997-06-13-45/§13-8\" class=\" reference\" href=\"/lov/1997-06-13-45/%C2%A713-8\">§ 13-8</a> nr. 3 gjelder tilsvarende.</td></tr>",
         "text": "c)\tmellombalanser for de deltakende selskapene. § 13-8 nr. 3 gjelder tilsvarende."
     },
     {
@@ -344,7 +344,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Styret i hvert av selskapene som skal fusjonere, skal gi opplysninger til generalforsamlingen i selskapet og til styret i de andre selskapene som deltar i fusjonen, om vesentlige endringer i eiendeler, rettigheter og forpliktelser som har funnet sted i tiden mellom undertegningen av fusjonsplanen og behandlingen av fusjonsplanen i generalforsamlingene som skal treffe beslutning om fusjon.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Styret i hvert av selskapene som skal fusjonere, skal gi opplysninger til generalforsamlingen i selskapet og til styret i de andre selskapene som deltar i fusjonen, om vesentlige endringer i eiendeler, rettigheter og forpliktelser som har funnet sted i tiden mellom undertegningen av fusjonsplanen og behandlingen av fusjonsplanen i generalforsamlingene som skal treffe beslutning om fusjon.</td></tr>",
         "text": "(4) Styret i hvert av selskapene som skal fusjonere, skal gi opplysninger til generalforsamlingen i selskapet og til styret i de andre selskapene som deltar i fusjonen, om vesentlige endringer i eiendeler, rettigheter og forpliktelser som har funnet sted i tiden mellom undertegningen av fusjonsplanen og behandlingen av fusjonsplanen i generalforsamlingene som skal treffe beslutning om fusjon."
     },
     {
@@ -356,13 +356,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Kan kapitalforhøyelsen i det overtakende selskapet gjennomføres i henhold til styrefullmakt etter reglene i <a data-id=\"lov/1997-06-13-44/§10-14\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A710-14\">§§ 10-14</a> til <a data-id=\"lov/1997-06-13-44/§10-19\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A710-19\">10-19</a> som angir at den omfatter fusjon, kan beslutningen om fusjon treffes av styret. Har selskapet bedriftsforsamling, kan beslutningen likevel ikke treffes av styret uten at fusjonsplanen er godtatt av bedriftsforsamlingen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Kan kapitalforhøyelsen i det overtakende selskapet gjennomføres i henhold til styrefullmakt etter reglene i <a data-id=\"lov/1997-06-13-44/§10-14\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A710-14\">§§ 10-14</a> til <a data-id=\"lov/1997-06-13-44/§10-19\" class=\" reference\" href=\"/lov/1997-06-13-44/%C2%A710-19\">10-19</a> som angir at den omfatter fusjon, kan beslutningen om fusjon treffes av styret. Har selskapet bedriftsforsamling, kan beslutningen likevel ikke treffes av styret uten at fusjonsplanen er godtatt av bedriftsforsamlingen.</td></tr>",
         "text": "(1) Kan kapitalforhøyelsen i det overtakende selskapet gjennomføres i henhold til styrefullmakt etter reglene i §§ 10-14 til 10-19 som angir at den omfatter fusjon, kan beslutningen om fusjon treffes av styret. Har selskapet bedriftsforsamling, kan beslutningen likevel ikke treffes av styret uten at fusjonsplanen er godtatt av bedriftsforsamlingen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Eier et aksjeselskap ni tideler eller mer av aksjene i et annet aksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen, kan beslutningen i morselskapet om fusjon med datterselskapet, treffes av styret.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Eier et aksjeselskap ni tideler eller mer av aksjene i et annet aksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen, kan beslutningen i morselskapet om fusjon med datterselskapet, treffes av styret.</td></tr>",
         "text": "(2) Eier et aksjeselskap ni tideler eller mer av aksjene i et annet aksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen, kan beslutningen i morselskapet om fusjon med datterselskapet, treffes av styret."
     },
     {
@@ -380,13 +380,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Når fusjonsplanen er ferdig, skal styret i hvert selskap utarbeide en skriftlig rapport om fusjonen og hva den vil bety for selskapet. Rapporten skal redegjøre for begrunnelsen for forslaget om fusjon og den betydning fusjonen kan få for de ansatte i selskapet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Når fusjonsplanen er ferdig, skal styret i hvert selskap utarbeide en skriftlig rapport om fusjonen og hva den vil bety for selskapet. Rapporten skal redegjøre for begrunnelsen for forslaget om fusjon og den betydning fusjonen kan få for de ansatte i selskapet.</td></tr>",
         "text": "(1) Når fusjonsplanen er ferdig, skal styret i hvert selskap utarbeide en skriftlig rapport om fusjonen og hva den vil bety for selskapet. Rapporten skal redegjøre for begrunnelsen for forslaget om fusjon og den betydning fusjonen kan få for de ansatte i selskapet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Kravene i første ledd gjelder ikke dersom samtlige aksjeeiere i selskapet samtykker til dette. Styret skal likevel utarbeide en skriftlig rapport om den betydning fusjonen kan få for de ansatte i selskapet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Kravene i første ledd gjelder ikke dersom samtlige aksjeeiere i selskapet samtykker til dette. Styret skal likevel utarbeide en skriftlig rapport om den betydning fusjonen kan få for de ansatte i selskapet.</td></tr>",
         "text": "(2) Kravene i første ledd gjelder ikke dersom samtlige aksjeeiere i selskapet samtykker til dette. Styret skal likevel utarbeide en skriftlig rapport om den betydning fusjonen kan få for de ansatte i selskapet."
     },
     {
@@ -560,13 +560,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven del I og II gjelder fra den tid Kongen bestemmer. Loven del III, IV og V trer i kraft straks.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven del I og II gjelder fra den tid Kongen bestemmer. Loven del III, IV og V trer i kraft straks.</td></tr>",
         "text": "1.\tLoven del I og II gjelder fra den tid Kongen bestemmer. Loven del III, IV og V trer i kraft straks."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi overgangsregler.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi overgangsregler.</td></tr>",
         "text": "2.\tKongen kan gi overgangsregler."
     }
 ]

@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1965-06-18-4\" class=\" reference\" href=\"/lov/1965-06-18-4\">Lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven)</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1965-06-18-4\" class=\" reference\" href=\"/lov/1965-06-18-4\">Lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven)</a>.</td></tr>",
         "text": "1\tLov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2002-06-21-45\" class=\" reference\" href=\"/lov/2002-06-21-45\">Lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova)</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2002-06-21-45\" class=\" reference\" href=\"/lov/2002-06-21-45\">Lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova)</a>.</td></tr>",
         "text": "2\tLov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova)."
     },
     {
@@ -44,7 +44,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når bruken av en motorvogn, eller tilhenger til motorvogn, blir forbudt etter nr. 1, 2 eller 5, kan politiet, Statens vegvesen og Tolletaten inndra kjennemerker og vognkort dersom kjøretøyet er registrert.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når bruken av en motorvogn, eller tilhenger til motorvogn, blir forbudt etter nr. 1, 2 eller 5, kan politiet, Statens vegvesen og Tolletaten inndra kjennemerker og vognkort dersom kjøretøyet er registrert.</td></tr>",
         "text": "3.\tNår bruken av en motorvogn, eller tilhenger til motorvogn, blir forbudt etter nr. 1, 2 eller 5, kan politiet, Statens vegvesen og Tolletaten inndra kjennemerker og vognkort dersom kjøretøyet er registrert."
     },
     {
@@ -56,7 +56,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I tilfelle som nevnt i nr. 3 og 4 kan politiet ta kjøretøyet i forvaring når det finner det nødvendig. Blir det ikke hentet innen tre måneder etter utløpet av forbudstiden, kan det selges etter reglene i <a data-id=\"lov/1965-06-18-4/§37\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A737\">§ 37</a> femte til åttende ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">I tilfelle som nevnt i nr. 3 og 4 kan politiet ta kjøretøyet i forvaring når det finner det nødvendig. Blir det ikke hentet innen tre måneder etter utløpet av forbudstiden, kan det selges etter reglene i <a data-id=\"lov/1965-06-18-4/§37\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A737\">§ 37</a> femte til åttende ledd.</td></tr>",
         "text": "6.\tI tilfelle som nevnt i nr. 3 og 4 kan politiet ta kjøretøyet i forvaring når det finner det nødvendig. Blir det ikke hentet innen tre måneder etter utløpet av forbudstiden, kan det selges etter reglene i § 37 femte til åttende ledd."
     },
     {
@@ -168,13 +168,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(3)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Eit forbod etter første ledd kan sikrast ved å inndra kjennemerke og vognkort eller ved bruk av mekanisk eller elektronisk innretning.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(3)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Eit forbod etter første ledd kan sikrast ved å inndra kjennemerke og vognkort eller ved bruk av mekanisk eller elektronisk innretning.</td></tr>",
         "text": "(3)\tEit forbod etter første ledd kan sikrast ved å inndra kjennemerke og vognkort eller ved bruk av mekanisk eller elektronisk innretning."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(4)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Eit køyretøy som det er forbode å bruke, kan kontrollmakta, når ho meiner det trengst, ta i forvaring. Vert køyretøyet ikkje henta innan tre månader etter at forbodstida har gått ut, kan køyretøyet verte selt etter reglane i <a data-id=\"lov/1965-06-18-4/§37\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A737\">vegtrafikkloven § 37</a> femte til åttande ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(4)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Eit køyretøy som det er forbode å bruke, kan kontrollmakta, når ho meiner det trengst, ta i forvaring. Vert køyretøyet ikkje henta innan tre månader etter at forbodstida har gått ut, kan køyretøyet verte selt etter reglane i <a data-id=\"lov/1965-06-18-4/§37\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A737\">vegtrafikkloven § 37</a> femte til åttande ledd.</td></tr>",
         "text": "(4)\tEit køyretøy som det er forbode å bruke, kan kontrollmakta, når ho meiner det trengst, ta i forvaring. Vert køyretøyet ikkje henta innan tre månader etter at forbodstida har gått ut, kan køyretøyet verte selt etter reglane i vegtrafikkloven § 37 femte til åttande ledd."
     },
     {
@@ -200,37 +200,37 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Den som har fullmakt til å føre kontroll etter denne lova, kan halde tilbake motorvogn og køyretøy som vert trekt av motorvogn, dersom eigaren har fått eller truleg vil få bot eller lovbrotsgebyr for brot på føresegner gjevne i eller i medhald av denne lova. Likestilt med eigaren er den som har disposisjonsrett over motorvogna eller køyretøyet som vert trekt av motorvogna.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Den som har fullmakt til å føre kontroll etter denne lova, kan halde tilbake motorvogn og køyretøy som vert trekt av motorvogn, dersom eigaren har fått eller truleg vil få bot eller lovbrotsgebyr for brot på føresegner gjevne i eller i medhald av denne lova. Likestilt med eigaren er den som har disposisjonsrett over motorvogna eller køyretøyet som vert trekt av motorvogna.</td></tr>",
         "text": "(1) Den som har fullmakt til å føre kontroll etter denne lova, kan halde tilbake motorvogn og køyretøy som vert trekt av motorvogn, dersom eigaren har fått eller truleg vil få bot eller lovbrotsgebyr for brot på føresegner gjevne i eller i medhald av denne lova. Likestilt med eigaren er den som har disposisjonsrett over motorvogna eller køyretøyet som vert trekt av motorvogna."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Det kan berre tas avgjerd om tilbakehald når det er naudsynt for å sikre betaling av bot, lovbrotsgebyr og eventuelle kostnadar knytte til gjennomføringa av tilbakehaldet og når slikt tilbakehald er forholdsmessig. Ved vurderinga skal det takast omsyn til storleiken på bota eller lovbrotsgebyret, typen brot og tilhøva elles.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Det kan berre tas avgjerd om tilbakehald når det er naudsynt for å sikre betaling av bot, lovbrotsgebyr og eventuelle kostnadar knytte til gjennomføringa av tilbakehaldet og når slikt tilbakehald er forholdsmessig. Ved vurderinga skal det takast omsyn til storleiken på bota eller lovbrotsgebyret, typen brot og tilhøva elles.</td></tr>",
         "text": "(2) Det kan berre tas avgjerd om tilbakehald når det er naudsynt for å sikre betaling av bot, lovbrotsgebyr og eventuelle kostnadar knytte til gjennomføringa av tilbakehaldet og når slikt tilbakehald er forholdsmessig. Ved vurderinga skal det takast omsyn til storleiken på bota eller lovbrotsgebyret, typen brot og tilhøva elles."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Tilbakehaldet skal ta slutt når betalinga er gjennomført eller kravet er sikra etter reglane i <a data-id=\"lov/1992-06-26-86/§3-4\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A73-4\">tvangsfullbyrdelsesloven § 3-4</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Tilbakehaldet skal ta slutt når betalinga er gjennomført eller kravet er sikra etter reglane i <a data-id=\"lov/1992-06-26-86/§3-4\" class=\" reference\" href=\"/lov/1992-06-26-86/%C2%A73-4\">tvangsfullbyrdelsesloven § 3-4</a>.</td></tr>",
         "text": "(3) Tilbakehaldet skal ta slutt når betalinga er gjennomført eller kravet er sikra etter reglane i tvangsfullbyrdelsesloven § 3-4."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Dersom tilbakehaldet skal sikre betaling av ei bot, kan køyretøyet haldast tilbake til påtalemakta har tatt avgjerd om det skal gis bot. Påtalemakta avgjer om det er grunn til å halde fram tilbakehaldet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Dersom tilbakehaldet skal sikre betaling av ei bot, kan køyretøyet haldast tilbake til påtalemakta har tatt avgjerd om det skal gis bot. Påtalemakta avgjer om det er grunn til å halde fram tilbakehaldet.</td></tr>",
         "text": "(4) Dersom tilbakehaldet skal sikre betaling av ei bot, kan køyretøyet haldast tilbake til påtalemakta har tatt avgjerd om det skal gis bot. Påtalemakta avgjer om det er grunn til å halde fram tilbakehaldet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Tilbakehaldet kan, om det er naudsynt, sikrast ved bruk av mekanisk eller elektronisk innretning.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Tilbakehaldet kan, om det er naudsynt, sikrast ved bruk av mekanisk eller elektronisk innretning.</td></tr>",
         "text": "(5) Tilbakehaldet kan, om det er naudsynt, sikrast ved bruk av mekanisk eller elektronisk innretning."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Køyretøy som er haldne tilbake, kan seljast etter reglane i <a data-id=\"lov/1965-06-18-4/§37\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A737\">vegtrafikkloven § 37</a> femte til åttande ledd dersom beløpet ikkje er betalt innan tre månader etter rettskraftig avgjerd eller endeleg fastsett gebyr. Føresegnene i <a data-id=\"lov/1965-06-18-4/§38\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A738\">vegtrafikkloven § 38</a> gjeld tilsvarande for kostnadane knytte til gebyr.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Køyretøy som er haldne tilbake, kan seljast etter reglane i <a data-id=\"lov/1965-06-18-4/§37\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A737\">vegtrafikkloven § 37</a> femte til åttande ledd dersom beløpet ikkje er betalt innan tre månader etter rettskraftig avgjerd eller endeleg fastsett gebyr. Føresegnene i <a data-id=\"lov/1965-06-18-4/§38\" class=\" reference\" href=\"/lov/1965-06-18-4/%C2%A738\">vegtrafikkloven § 38</a> gjeld tilsvarande for kostnadane knytte til gebyr.</td></tr>",
         "text": "(6) Køyretøy som er haldne tilbake, kan seljast etter reglane i vegtrafikkloven § 37 femte til åttande ledd dersom beløpet ikkje er betalt innan tre månader etter rettskraftig avgjerd eller endeleg fastsett gebyr. Føresegnene i vegtrafikkloven § 38 gjeld tilsvarande for kostnadane knytte til gebyr."
     },
     {

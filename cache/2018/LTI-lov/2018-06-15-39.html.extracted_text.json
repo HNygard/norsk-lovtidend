@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Ved stortingsvalg skal listeforslaget være utfylt i rekkefølge med navnet på så mange kandidater som det skal velges representanter til Stortinget fra distriktet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Ved stortingsvalg skal listeforslaget være utfylt i rekkefølge med navnet på så mange kandidater som det skal velges representanter til Stortinget fra distriktet.</td></tr>",
         "text": "(1) Ved stortingsvalg skal listeforslaget være utfylt i rekkefølge med navnet på så mange kandidater som det skal velges representanter til Stortinget fra distriktet."
     },
     {
@@ -50,7 +50,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> For partier registrert i Partiregisteret som ved forrige stortingsvalg fikk en oppslutning på minst 500 stemmer i ett valgdistrikt eller minst 5 000 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to styremedlemmer i lokalavdelingen med ansvar for valgdistriktet listen gjelder. Det samme gjelder for partier som er blitt registrert i Partiregisteret etter forrige stortingsvalg. Underskriverne må ha stemmerett i valgdistriktet. Hvis et registrert politisk parti stiller listeforslag sammen med en uregistrert gruppe, gjelder likevel bestemmelsene i annet ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> For partier registrert i Partiregisteret som ved forrige stortingsvalg fikk en oppslutning på minst 500 stemmer i ett valgdistrikt eller minst 5 000 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to styremedlemmer i lokalavdelingen med ansvar for valgdistriktet listen gjelder. Det samme gjelder for partier som er blitt registrert i Partiregisteret etter forrige stortingsvalg. Underskriverne må ha stemmerett i valgdistriktet. Hvis et registrert politisk parti stiller listeforslag sammen med en uregistrert gruppe, gjelder likevel bestemmelsene i annet ledd.</td></tr>",
         "text": "(1) For partier registrert i Partiregisteret som ved forrige stortingsvalg fikk en oppslutning på minst 500 stemmer i ett valgdistrikt eller minst 5 000 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to styremedlemmer i lokalavdelingen med ansvar for valgdistriktet listen gjelder. Det samme gjelder for partier som er blitt registrert i Partiregisteret etter forrige stortingsvalg. Underskriverne må ha stemmerett i valgdistriktet. Hvis et registrert politisk parti stiller listeforslag sammen med en uregistrert gruppe, gjelder likevel bestemmelsene i annet ledd."
     },
     {
@@ -62,7 +62,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved stortingsvalg og fylkestingsvalg skal listeforslaget være underskrevet av minst 500 personer med stemmerett i valgdistriktet ved det aktuelle valget.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved stortingsvalg og fylkestingsvalg skal listeforslaget være underskrevet av minst 500 personer med stemmerett i valgdistriktet ved det aktuelle valget.</td></tr>",
         "text": "a)\tVed stortingsvalg og fylkestingsvalg skal listeforslaget være underskrevet av minst 500 personer med stemmerett i valgdistriktet ved det aktuelle valget."
     },
     {
@@ -74,7 +74,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Dersom det er uklart hvem som har rett til å representere et registrert politisk parti på lokalt nivå og dermed rett til å stille liste for dette partiet, skal valgmyndighetene innhente og legge til grunn uttalelse fra partiets utøvende organ, jf. <a data-id=\"lov/2005-06-17-102/§3\" class=\" reference\" href=\"/lov/2005-06-17-102/%C2%A73\">partiloven § 3</a> annet ledd bokstav b.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Dersom det er uklart hvem som har rett til å representere et registrert politisk parti på lokalt nivå og dermed rett til å stille liste for dette partiet, skal valgmyndighetene innhente og legge til grunn uttalelse fra partiets utøvende organ, jf. <a data-id=\"lov/2005-06-17-102/§3\" class=\" reference\" href=\"/lov/2005-06-17-102/%C2%A73\">partiloven § 3</a> annet ledd bokstav b.</td></tr>",
         "text": "(4) Dersom det er uklart hvem som har rett til å representere et registrert politisk parti på lokalt nivå og dermed rett til å stille liste for dette partiet, skal valgmyndighetene innhente og legge til grunn uttalelse fra partiets utøvende organ, jf. partiloven § 3 annet ledd bokstav b."
     },
     {
@@ -134,127 +134,127 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Landet deles inn i 19 valgdistrikter. Ved valg til Stortinget velges medlemmer med varamedlemmer fra følgende valgdistrikter:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Landet deles inn i 19 valgdistrikter. Ved valg til Stortinget velges medlemmer med varamedlemmer fra følgende valgdistrikter:</td></tr>",
         "text": "(1) Landet deles inn i 19 valgdistrikter. Ved valg til Stortinget velges medlemmer med varamedlemmer fra følgende valgdistrikter:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Østfold valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Østfold valgdistrikt</td></tr>",
         "text": "a)\tØstfold valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Akershus valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Akershus valgdistrikt</td></tr>",
         "text": "b)\tAkershus valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Oslo valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Oslo valgdistrikt</td></tr>",
         "text": "c)\tOslo valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Hedmark valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Hedmark valgdistrikt</td></tr>",
         "text": "d)\tHedmark valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Oppland valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Oppland valgdistrikt</td></tr>",
         "text": "e)\tOppland valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Buskerud valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Buskerud valgdistrikt</td></tr>",
         "text": "f)\tBuskerud valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vestfold valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vestfold valgdistrikt</td></tr>",
         "text": "g)\tVestfold valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Telemark valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Telemark valgdistrikt</td></tr>",
         "text": "h)\tTelemark valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Aust-Agder valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Aust-Agder valgdistrikt</td></tr>",
         "text": "i)\tAust-Agder valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vest-Agder valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vest-Agder valgdistrikt</td></tr>",
         "text": "j)\tVest-Agder valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Rogaland valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Rogaland valgdistrikt</td></tr>",
         "text": "k)\tRogaland valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Hordaland valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Hordaland valgdistrikt</td></tr>",
         "text": "l)\tHordaland valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sogn og Fjordane valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sogn og Fjordane valgdistrikt</td></tr>",
         "text": "m)\tSogn og Fjordane valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">n)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Møre og Romsdal valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">n)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Møre og Romsdal valgdistrikt</td></tr>",
         "text": "n)\tMøre og Romsdal valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">o)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sør-Trøndelag valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">o)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sør-Trøndelag valgdistrikt</td></tr>",
         "text": "o)\tSør-Trøndelag valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">p)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Nord-Trøndelag valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">p)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Nord-Trøndelag valgdistrikt</td></tr>",
         "text": "p)\tNord-Trøndelag valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">q)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Nordland valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">q)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Nordland valgdistrikt</td></tr>",
         "text": "q)\tNordland valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">r)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Troms valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">r)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Troms valgdistrikt</td></tr>",
         "text": "r)\tTroms valgdistrikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">s)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Finnmark valgdistrikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">s)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Finnmark valgdistrikt</td></tr>",
         "text": "s)\tFinnmark valgdistrikt"
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Departementet gir forskrift om hvilke kommuner som inngår i de ulike valgdistriktene.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Departementet gir forskrift om hvilke kommuner som inngår i de ulike valgdistriktene.</td></tr>",
         "text": "(2) Departementet gir forskrift om hvilke kommuner som inngår i de ulike valgdistriktene."
     },
     {
@@ -266,7 +266,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Fylkesvalgstyret skal foreta ett valgoppgjør for hvert av valgdistriktene i fylket og fordele valgdistriktets distriktsmandater mellom listene.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Fylkesvalgstyret skal foreta ett valgoppgjør for hvert av valgdistriktene i fylket og fordele valgdistriktets distriktsmandater mellom listene.</td></tr>",
         "text": "(2) Fylkesvalgstyret skal foreta ett valgoppgjør for hvert av valgdistriktene i fylket og fordele valgdistriktets distriktsmandater mellom listene."
     },
     {
@@ -278,31 +278,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Riksvalgstyret fordeler partienes utjevningsmandater med ett på hvert valgdistrikt, på følgende måte:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Riksvalgstyret fordeler partienes utjevningsmandater med ett på hvert valgdistrikt, på følgende måte:</td></tr>",
         "text": "(3) Riksvalgstyret fordeler partienes utjevningsmandater med ett på hvert valgdistrikt, på følgende måte:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For hvert valgdistrikt og for hvert parti som har vunnet minst ett utjevningsmandat, tas utgangspunkt i partiets stemmetall i valgdistriktet. Har partiet ikke fått noe distriktsmandat, skal partiets stemmetall i valgdistriktet legges til grunn. Har partiet fått distriktsmandat, skal partiets stemmetall divideres med et tall som er én mer enn det dobbelte av antall distriktsmandater partiet har fått i valgdistriktet. Partiets stemmetall eller de fremkomne kvotienter divideres med det gjennomsnittlige antall stemmer per distriktsmandat i vedkommende valgdistrikt.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">For hvert valgdistrikt og for hvert parti som har vunnet minst ett utjevningsmandat, tas utgangspunkt i partiets stemmetall i valgdistriktet. Har partiet ikke fått noe distriktsmandat, skal partiets stemmetall i valgdistriktet legges til grunn. Har partiet fått distriktsmandat, skal partiets stemmetall divideres med et tall som er én mer enn det dobbelte av antall distriktsmandater partiet har fått i valgdistriktet. Partiets stemmetall eller de fremkomne kvotienter divideres med det gjennomsnittlige antall stemmer per distriktsmandat i vedkommende valgdistrikt.</td></tr>",
         "text": "a)\tFor hvert valgdistrikt og for hvert parti som har vunnet minst ett utjevningsmandat, tas utgangspunkt i partiets stemmetall i valgdistriktet. Har partiet ikke fått noe distriktsmandat, skal partiets stemmetall i valgdistriktet legges til grunn. Har partiet fått distriktsmandat, skal partiets stemmetall divideres med et tall som er én mer enn det dobbelte av antall distriktsmandater partiet har fått i valgdistriktet. Partiets stemmetall eller de fremkomne kvotienter divideres med det gjennomsnittlige antall stemmer per distriktsmandat i vedkommende valgdistrikt."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">De fremkomne kvotientene for samtlige valgdistrikter og for samtlige partier som har vunnet minst ett utjevningsmandat, ordnes etter størrelse. Er flere kvotienter like store, er antall stemmer i vedkommende valgdistrikter avgjørende. I tilfelle stemmelikhet avgjøres rekkefølgen ved loddtrekning.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">De fremkomne kvotientene for samtlige valgdistrikter og for samtlige partier som har vunnet minst ett utjevningsmandat, ordnes etter størrelse. Er flere kvotienter like store, er antall stemmer i vedkommende valgdistrikter avgjørende. I tilfelle stemmelikhet avgjøres rekkefølgen ved loddtrekning.</td></tr>",
         "text": "b)\tDe fremkomne kvotientene for samtlige valgdistrikter og for samtlige partier som har vunnet minst ett utjevningsmandat, ordnes etter størrelse. Er flere kvotienter like store, er antall stemmer i vedkommende valgdistrikter avgjørende. I tilfelle stemmelikhet avgjøres rekkefølgen ved loddtrekning."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utjevningsmandat nr. 1 tildeles det partiet og det valgdistriktet som etter beregningen foran har den største kvotienten. Utjevningsmandat nr. 2 tildeles det partiet og det valgdistriktet som har den nest største kvotienten, osv.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Utjevningsmandat nr. 1 tildeles det partiet og det valgdistriktet som etter beregningen foran har den største kvotienten. Utjevningsmandat nr. 2 tildeles det partiet og det valgdistriktet som har den nest største kvotienten, osv.</td></tr>",
         "text": "c)\tUtjevningsmandat nr. 1 tildeles det partiet og det valgdistriktet som etter beregningen foran har den største kvotienten. Utjevningsmandat nr. 2 tildeles det partiet og det valgdistriktet som har den nest største kvotienten, osv."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når et valgdistrikt er blitt tildelt et utjevningsmandat, kommer det ikke i betraktning ved de videre beregningene. Når et parti har fått det antall utjevningsmandater det skal ha i henhold til fordelingen etter annet ledd, kommer partiet ikke i betraktning ved de videre beregningene. Fordelingen fortsetter for de øvrige valgdistriktene og de øvrige partiene inntil samtlige utjevningsmandater er fordelt.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Når et valgdistrikt er blitt tildelt et utjevningsmandat, kommer det ikke i betraktning ved de videre beregningene. Når et parti har fått det antall utjevningsmandater det skal ha i henhold til fordelingen etter annet ledd, kommer partiet ikke i betraktning ved de videre beregningene. Fordelingen fortsetter for de øvrige valgdistriktene og de øvrige partiene inntil samtlige utjevningsmandater er fordelt.</td></tr>",
         "text": "d)\tNår et valgdistrikt er blitt tildelt et utjevningsmandat, kommer det ikke i betraktning ved de videre beregningene. Når et parti har fått det antall utjevningsmandater det skal ha i henhold til fordelingen etter annet ledd, kommer partiet ikke i betraktning ved de videre beregningene. Fordelingen fortsetter for de øvrige valgdistriktene og de øvrige partiene inntil samtlige utjevningsmandater er fordelt."
     },
     {
@@ -314,7 +314,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Er en kandidat blitt valgt til representant eller vararepresentant fra flere valgdistrikter, avgjør vedkommende selv hvilket valg som mottas. Skriftlig erklæring om hvilket valg som mottas skal sendes vedkommende fylkesvalgstyrer innen tre dager etter at underretning om valget er mottatt fra fylkesvalgstyrene. Gir ikke vedkommende underretning som nevnt, anses valget mottatt i det valgdistriktet hvor vedkommende er stemmeberettiget, eller – hvis vedkommende ikke er stemmeberettiget i noen av valgdistriktene – det valgdistriktet som kommer først i alfabetisk orden. Blir det valget vedkommende har mottatt kjent ugyldig, kan vedkommende avgi ny erklæring.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Er en kandidat blitt valgt til representant eller vararepresentant fra flere valgdistrikter, avgjør vedkommende selv hvilket valg som mottas. Skriftlig erklæring om hvilket valg som mottas skal sendes vedkommende fylkesvalgstyrer innen tre dager etter at underretning om valget er mottatt fra fylkesvalgstyrene. Gir ikke vedkommende underretning som nevnt, anses valget mottatt i det valgdistriktet hvor vedkommende er stemmeberettiget, eller – hvis vedkommende ikke er stemmeberettiget i noen av valgdistriktene – det valgdistriktet som kommer først i alfabetisk orden. Blir det valget vedkommende har mottatt kjent ugyldig, kan vedkommende avgi ny erklæring.</td></tr>",
         "text": "(2) Er en kandidat blitt valgt til representant eller vararepresentant fra flere valgdistrikter, avgjør vedkommende selv hvilket valg som mottas. Skriftlig erklæring om hvilket valg som mottas skal sendes vedkommende fylkesvalgstyrer innen tre dager etter at underretning om valget er mottatt fra fylkesvalgstyrene. Gir ikke vedkommende underretning som nevnt, anses valget mottatt i det valgdistriktet hvor vedkommende er stemmeberettiget, eller – hvis vedkommende ikke er stemmeberettiget i noen av valgdistriktene – det valgdistriktet som kommer først i alfabetisk orden. Blir det valget vedkommende har mottatt kjent ugyldig, kan vedkommende avgi ny erklæring."
     },
     {
@@ -326,7 +326,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Alle som har stemmerett, kan klage over forhold i forbindelse med forberedelsen og gjennomføringen av stortingsvalget i det valgdistriktet vedkommende er manntallsført.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Alle som har stemmerett, kan klage over forhold i forbindelse med forberedelsen og gjennomføringen av stortingsvalget i det valgdistriktet vedkommende er manntallsført.</td></tr>",
         "text": "(1) Alle som har stemmerett, kan klage over forhold i forbindelse med forberedelsen og gjennomføringen av stortingsvalget i det valgdistriktet vedkommende er manntallsført."
     },
     {
@@ -338,13 +338,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Stortinget skal kjenne stortingsvalget i en kommune eller i et valgdistrikt ugyldig hvis det er begått feil som antas å ha hatt innflytelse på utfallet av valget, og som det ikke er mulig å rette.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Stortinget skal kjenne stortingsvalget i en kommune eller i et valgdistrikt ugyldig hvis det er begått feil som antas å ha hatt innflytelse på utfallet av valget, og som det ikke er mulig å rette.</td></tr>",
         "text": "(3) Stortinget skal kjenne stortingsvalget i en kommune eller i et valgdistrikt ugyldig hvis det er begått feil som antas å ha hatt innflytelse på utfallet av valget, og som det ikke er mulig å rette."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Når valget i en kommune eller i et valgdistrikt er kjent ugyldig, påbyr Stortinget omvalg. Stortinget kan i særlige tilfeller påby omvalg i hele valgdistriktet, selv om feilen ikke gjelder alle kommunene i valgdistriktet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Når valget i en kommune eller i et valgdistrikt er kjent ugyldig, påbyr Stortinget omvalg. Stortinget kan i særlige tilfeller påby omvalg i hele valgdistriktet, selv om feilen ikke gjelder alle kommunene i valgdistriktet.</td></tr>",
         "text": "(4) Når valget i en kommune eller i et valgdistrikt er kjent ugyldig, påbyr Stortinget omvalg. Stortinget kan i særlige tilfeller påby omvalg i hele valgdistriktet, selv om feilen ikke gjelder alle kommunene i valgdistriktet."
     },
     {

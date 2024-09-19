@@ -65,13 +65,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Enkeltpersonforetak og selskap</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Enkeltpersonforetak og selskap</td></tr>",
         "text": "a.\tEnkeltpersonforetak og selskap"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Institusjon eller organisasjon som omfattes av <a data-id=\"lov/1999-03-26-14/§2-32\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-32\">skatteloven § 2-32</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Institusjon eller organisasjon som omfattes av <a data-id=\"lov/1999-03-26-14/§2-32\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-32\">skatteloven § 2-32</a>.</td></tr>",
         "text": "b.\tInstitusjon eller organisasjon som omfattes av skatteloven § 2-32."
     },
     null,
@@ -109,49 +109,49 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Den ansatte må ha vært helt eller delvis permittert per 28. mai 2020.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Den ansatte må ha vært helt eller delvis permittert per 28. mai 2020.</td></tr>",
         "text": "(1) Den ansatte må ha vært helt eller delvis permittert per 28. mai 2020."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Den ansatte må tilbake i arbeid i minst samme stillingsprosent som før permitteringen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Den ansatte må tilbake i arbeid i minst samme stillingsprosent som før permitteringen.</td></tr>",
         "text": "(2) Den ansatte må tilbake i arbeid i minst samme stillingsprosent som før permitteringen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Den ansatte må ha vært i arbeid hos arbeidsgiveren i hele perioden det søkes tilskudd for, og kan ikke permitteres på nytt før 1. oktober 2020.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Den ansatte må ha vært i arbeid hos arbeidsgiveren i hele perioden det søkes tilskudd for, og kan ikke permitteres på nytt før 1. oktober 2020.</td></tr>",
         "text": "(3) Den ansatte må ha vært i arbeid hos arbeidsgiveren i hele perioden det søkes tilskudd for, og kan ikke permitteres på nytt før 1. oktober 2020."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Den ansatte kan ikke være under oppsigelse eller sies opp før 1. oktober 2020.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Den ansatte kan ikke være under oppsigelse eller sies opp før 1. oktober 2020.</td></tr>",
         "text": "(4) Den ansatte kan ikke være under oppsigelse eller sies opp før 1. oktober 2020."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Enkeltpersonforetak og selskap må ha hatt et omsetningsfall på mer enn 10 prosent.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Enkeltpersonforetak og selskap må ha hatt et omsetningsfall på mer enn 10 prosent.</td></tr>",
         "text": "(5) Enkeltpersonforetak og selskap må ha hatt et omsetningsfall på mer enn 10 prosent."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Søkeren må utøve lovlig aktivitet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Søkeren må utøve lovlig aktivitet.</td></tr>",
         "text": "(6) Søkeren må utøve lovlig aktivitet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Søkeren må ikke være under konkursbehandling.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Søkeren må ikke være under konkursbehandling.</td></tr>",
         "text": "(7) Søkeren må ikke være under konkursbehandling."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(8)</span> Departementet kan gi forskrift til utfylling av denne paragrafen og fastsette nærmere vilkår for tilskudd. Departementet kan herunder gi regler som begrenser arbeidsgivers adgang til å gjennomføre nye permitteringer, oppsigelser eller arbeidstidsreduksjoner i perioden 28. mai til 1. september 2020.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(8)</span> Departementet kan gi forskrift til utfylling av denne paragrafen og fastsette nærmere vilkår for tilskudd. Departementet kan herunder gi regler som begrenser arbeidsgivers adgang til å gjennomføre nye permitteringer, oppsigelser eller arbeidstidsreduksjoner i perioden 28. mai til 1. september 2020.</td></tr>",
         "text": "(8) Departementet kan gi forskrift til utfylling av denne paragrafen og fastsette nærmere vilkår for tilskudd. Departementet kan herunder gi regler som begrenser arbeidsgivers adgang til å gjennomføre nye permitteringer, oppsigelser eller arbeidstidsreduksjoner i perioden 28. mai til 1. september 2020."
     },
     null,
@@ -170,43 +170,43 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Enkeltpersonforetak og selskap som har hatt et omsetningsfall på minst 30 prosent, gis tilskudd med 15 000 kroner per måned per fulltidsansatt som tas tilbake fra permittering.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Enkeltpersonforetak og selskap som har hatt et omsetningsfall på minst 30 prosent, gis tilskudd med 15 000 kroner per måned per fulltidsansatt som tas tilbake fra permittering.</td></tr>",
         "text": "(1) Enkeltpersonforetak og selskap som har hatt et omsetningsfall på minst 30 prosent, gis tilskudd med 15 000 kroner per måned per fulltidsansatt som tas tilbake fra permittering."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> For enkeltpersonforetak og selskap som har hatt et omsetningsfall på mindre enn 30 prosent, beregnes tilskudd per måned per fulltidsansatt til 75 000 kroner multiplisert med prosentvis omsetningsfall fratrukket 10 prosentenheter.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> For enkeltpersonforetak og selskap som har hatt et omsetningsfall på mindre enn 30 prosent, beregnes tilskudd per måned per fulltidsansatt til 75 000 kroner multiplisert med prosentvis omsetningsfall fratrukket 10 prosentenheter.</td></tr>",
         "text": "(2) For enkeltpersonforetak og selskap som har hatt et omsetningsfall på mindre enn 30 prosent, beregnes tilskudd per måned per fulltidsansatt til 75 000 kroner multiplisert med prosentvis omsetningsfall fratrukket 10 prosentenheter."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Institusjon eller organisasjon som omfattes av <a data-id=\"lov/1999-03-26-14/§2-32\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-32\">skatteloven § 2-32</a> og som ikke driver skattepliktig virksomhet, gis tilskudd med 10 000 kroner per måned per fulltidsansatt som tas tilbake fra permittering. Omsetningsfall kreves ikke.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Institusjon eller organisasjon som omfattes av <a data-id=\"lov/1999-03-26-14/§2-32\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-32\">skatteloven § 2-32</a> og som ikke driver skattepliktig virksomhet, gis tilskudd med 10 000 kroner per måned per fulltidsansatt som tas tilbake fra permittering. Omsetningsfall kreves ikke.</td></tr>",
         "text": "(3) Institusjon eller organisasjon som omfattes av skatteloven § 2-32 og som ikke driver skattepliktig virksomhet, gis tilskudd med 10 000 kroner per måned per fulltidsansatt som tas tilbake fra permittering. Omsetningsfall kreves ikke."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Institusjon eller organisasjon som omfattes av <a data-id=\"lov/1999-03-26-14/§2-32\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-32\">skatteloven § 2-32</a> og som driver skattepliktig virksomhet, kan velge om tilskudd skal beregnes etter første og annet ledd eller etter tredje ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Institusjon eller organisasjon som omfattes av <a data-id=\"lov/1999-03-26-14/§2-32\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-32\">skatteloven § 2-32</a> og som driver skattepliktig virksomhet, kan velge om tilskudd skal beregnes etter første og annet ledd eller etter tredje ledd.</td></tr>",
         "text": "(4) Institusjon eller organisasjon som omfattes av skatteloven § 2-32 og som driver skattepliktig virksomhet, kan velge om tilskudd skal beregnes etter første og annet ledd eller etter tredje ledd."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Tilskuddets størrelse graderes etter stillingsprosent ved permitteringstidspunktet og permitteringsgrad per 28. mai 2020.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Tilskuddets størrelse graderes etter stillingsprosent ved permitteringstidspunktet og permitteringsgrad per 28. mai 2020.</td></tr>",
         "text": "(5) Tilskuddets størrelse graderes etter stillingsprosent ved permitteringstidspunktet og permitteringsgrad per 28. mai 2020."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> For lærlinger beregnes tilskudd etter første til femte ledd, men begrenset oppad til 10 000 kroner.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> For lærlinger beregnes tilskudd etter første til femte ledd, men begrenset oppad til 10 000 kroner.</td></tr>",
         "text": "(6) For lærlinger beregnes tilskudd etter første til femte ledd, men begrenset oppad til 10 000 kroner."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Departementet kan gi forskrift til utfylling av denne paragrafen, herunder om beregning av omsetning, omsetningsfall, tilskudd ved deltidsansettelse og tilskudd ved delvis permittering.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Departementet kan gi forskrift til utfylling av denne paragrafen, herunder om beregning av omsetning, omsetningsfall, tilskudd ved deltidsansettelse og tilskudd ved delvis permittering.</td></tr>",
         "text": "(7) Departementet kan gi forskrift til utfylling av denne paragrafen, herunder om beregning av omsetning, omsetningsfall, tilskudd ved deltidsansettelse og tilskudd ved delvis permittering."
     },
     null,
@@ -225,13 +225,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Med de særreglene som er gitt i §§ 8 til 18, gjelder skatteforvaltningsloven så langt den passer for behandling av saker etter denne loven. Forvaltningsloven gjelder ikke for behandling av saker etter denne loven, med unntak av <a data-id=\"lov/1967-02-10/kapvii\" class=\" reference\" href=\"/lov/1967-02-10/kapvii\">forvaltningsloven kapittel VII</a> om forskrifter.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Med de særreglene som er gitt i §§ 8 til 18, gjelder skatteforvaltningsloven så langt den passer for behandling av saker etter denne loven. Forvaltningsloven gjelder ikke for behandling av saker etter denne loven, med unntak av <a data-id=\"lov/1967-02-10/kapvii\" class=\" reference\" href=\"/lov/1967-02-10/kapvii\">forvaltningsloven kapittel VII</a> om forskrifter.</td></tr>",
         "text": "(1) Med de særreglene som er gitt i §§ 8 til 18, gjelder skatteforvaltningsloven så langt den passer for behandling av saker etter denne loven. Forvaltningsloven gjelder ikke for behandling av saker etter denne loven, med unntak av forvaltningsloven kapittel VII om forskrifter."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om forvaltningsregler som skal gjelde for behandling av saker etter denne loven, herunder utfylle og fravike reglene i skatteforvaltningsloven.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om forvaltningsregler som skal gjelde for behandling av saker etter denne loven, herunder utfylle og fravike reglene i skatteforvaltningsloven.</td></tr>",
         "text": "(2) Departementet kan gi forskrift om forvaltningsregler som skal gjelde for behandling av saker etter denne loven, herunder utfylle og fravike reglene i skatteforvaltningsloven."
     },
     null,
@@ -269,13 +269,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Tilskuddsmyndigheten kan uten hinder av taushetsplikt innhente opplysninger ved å pålegge offentlige myndigheter og private rettssubjekter å gi opplysninger som kan ha betydning for tilskudd etter denne loven og kontrollen av dette. Første punktum gjelder også personopplysninger.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Tilskuddsmyndigheten kan uten hinder av taushetsplikt innhente opplysninger ved å pålegge offentlige myndigheter og private rettssubjekter å gi opplysninger som kan ha betydning for tilskudd etter denne loven og kontrollen av dette. Første punktum gjelder også personopplysninger.</td></tr>",
         "text": "(1) Tilskuddsmyndigheten kan uten hinder av taushetsplikt innhente opplysninger ved å pålegge offentlige myndigheter og private rettssubjekter å gi opplysninger som kan ha betydning for tilskudd etter denne loven og kontrollen av dette. Første punktum gjelder også personopplysninger."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om innhenting av opplysninger etter første ledd, herunder om hvem tilskuddsmyndigheten kan innhente opplysninger fra og hvilke opplysninger som kan innhentes.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om innhenting av opplysninger etter første ledd, herunder om hvem tilskuddsmyndigheten kan innhente opplysninger fra og hvilke opplysninger som kan innhentes.</td></tr>",
         "text": "(2) Departementet kan gi forskrift om innhenting av opplysninger etter første ledd, herunder om hvem tilskuddsmyndigheten kan innhente opplysninger fra og hvilke opplysninger som kan innhentes."
     },
     null,
@@ -294,19 +294,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Tilskuddsmyndigheten kan gjøre opplysninger om tilskudd, herunder beregningsgrunnlag og tilskuddets størrelse, tilgjengelig på Internett til alminnelig ettersyn. Opplysningene skal gis i søkbar form slik tilskuddsmyndigheten bestemmer. Offentleglova får ikke anvendelse ved krav om innsyn i slike opplysninger.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Tilskuddsmyndigheten kan gjøre opplysninger om tilskudd, herunder beregningsgrunnlag og tilskuddets størrelse, tilgjengelig på Internett til alminnelig ettersyn. Opplysningene skal gis i søkbar form slik tilskuddsmyndigheten bestemmer. Offentleglova får ikke anvendelse ved krav om innsyn i slike opplysninger.</td></tr>",
         "text": "(1) Tilskuddsmyndigheten kan gjøre opplysninger om tilskudd, herunder beregningsgrunnlag og tilskuddets størrelse, tilgjengelig på Internett til alminnelig ettersyn. Opplysningene skal gis i søkbar form slik tilskuddsmyndigheten bestemmer. Offentleglova får ikke anvendelse ved krav om innsyn i slike opplysninger."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Taushetsplikten etter <a data-id=\"lov/2016-05-27-14/kap3\" class=\" reference\" href=\"/lov/2016-05-27-14/kap3\">skatteforvaltningsloven kapittel 3</a> omfatter ikke opplysninger som offentliggjøres etter første ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Taushetsplikten etter <a data-id=\"lov/2016-05-27-14/kap3\" class=\" reference\" href=\"/lov/2016-05-27-14/kap3\">skatteforvaltningsloven kapittel 3</a> omfatter ikke opplysninger som offentliggjøres etter første ledd.</td></tr>",
         "text": "(2) Taushetsplikten etter skatteforvaltningsloven kapittel 3 omfatter ikke opplysninger som offentliggjøres etter første ledd."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Departementet kan i forskrift gi nærmere regler om offentliggjøring av opplysninger, herunder hvilke opplysninger som skal gjøres offentlig tilgjengelig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Departementet kan i forskrift gi nærmere regler om offentliggjøring av opplysninger, herunder hvilke opplysninger som skal gjøres offentlig tilgjengelig.</td></tr>",
         "text": "(3) Departementet kan i forskrift gi nærmere regler om offentliggjøring av opplysninger, herunder hvilke opplysninger som skal gjøres offentlig tilgjengelig."
     },
     null,
@@ -325,13 +325,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Tilskudd etter denne loven gis etter søknad. Søknaden skal inneholde opplysninger som kan ha betydning for fastsetting av tilskuddet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Tilskudd etter denne loven gis etter søknad. Søknaden skal inneholde opplysninger som kan ha betydning for fastsetting av tilskuddet.</td></tr>",
         "text": "(1) Tilskudd etter denne loven gis etter søknad. Søknaden skal inneholde opplysninger som kan ha betydning for fastsetting av tilskuddet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om krav til søknaden, herunder om hvordan opplysninger skal gis, nærmere vilkår for leveringsmåte og format, hvilke opplysninger søknaden skal inneholde, frister og om bekreftelse av opplysninger fra revisor eller regnskapsfører.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om krav til søknaden, herunder om hvordan opplysninger skal gis, nærmere vilkår for leveringsmåte og format, hvilke opplysninger søknaden skal inneholde, frister og om bekreftelse av opplysninger fra revisor eller regnskapsfører.</td></tr>",
         "text": "(2) Departementet kan gi forskrift om krav til søknaden, herunder om hvordan opplysninger skal gis, nærmere vilkår for leveringsmåte og format, hvilke opplysninger søknaden skal inneholde, frister og om bekreftelse av opplysninger fra revisor eller regnskapsfører."
     },
     null,
@@ -350,13 +350,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Den som søker om tilskudd etter denne loven, skal gi riktige og fullstendige opplysninger. Søkeren skal opptre aktsomt og lojalt, og skal varsle tilskuddsmyndigheten om eventuelle feil. Det skal også varsles om endringer som kan ha betydning for tilskuddet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Den som søker om tilskudd etter denne loven, skal gi riktige og fullstendige opplysninger. Søkeren skal opptre aktsomt og lojalt, og skal varsle tilskuddsmyndigheten om eventuelle feil. Det skal også varsles om endringer som kan ha betydning for tilskuddet.</td></tr>",
         "text": "(1) Den som søker om tilskudd etter denne loven, skal gi riktige og fullstendige opplysninger. Søkeren skal opptre aktsomt og lojalt, og skal varsle tilskuddsmyndigheten om eventuelle feil. Det skal også varsles om endringer som kan ha betydning for tilskuddet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om bekreftelse og dokumentasjon av opplysninger fra søkeren og om opplysningsplikt for den som har mottatt tilskudd. Bestemmelsen i § 9 annet ledd gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om bekreftelse og dokumentasjon av opplysninger fra søkeren og om opplysningsplikt for den som har mottatt tilskudd. Bestemmelsen i § 9 annet ledd gjelder tilsvarende.</td></tr>",
         "text": "(2) Departementet kan gi forskrift om bekreftelse og dokumentasjon av opplysninger fra søkeren og om opplysningsplikt for den som har mottatt tilskudd. Bestemmelsen i § 9 annet ledd gjelder tilsvarende."
     },
     null,
@@ -394,31 +394,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Administrativ sanksjon ilegges tilskuddsmottaker som forsettlig eller grovt uaktsomt gir tilskuddsmyndigheten uriktig eller ufullstendig opplysning, eller unnlater å gi pliktig opplysning, når vedkommende forstår eller bør forstå at det kan føre til uberettigede økonomiske fordeler.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Administrativ sanksjon ilegges tilskuddsmottaker som forsettlig eller grovt uaktsomt gir tilskuddsmyndigheten uriktig eller ufullstendig opplysning, eller unnlater å gi pliktig opplysning, når vedkommende forstår eller bør forstå at det kan føre til uberettigede økonomiske fordeler.</td></tr>",
         "text": "(1) Administrativ sanksjon ilegges tilskuddsmottaker som forsettlig eller grovt uaktsomt gir tilskuddsmyndigheten uriktig eller ufullstendig opplysning, eller unnlater å gi pliktig opplysning, når vedkommende forstår eller bør forstå at det kan føre til uberettigede økonomiske fordeler."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Fristen for å ilegge administrativ sanksjon er fem år etter utløpet av den perioden vedtaket om tilskudd gjelder.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Fristen for å ilegge administrativ sanksjon er fem år etter utløpet av den perioden vedtaket om tilskudd gjelder.</td></tr>",
         "text": "(2) Fristen for å ilegge administrativ sanksjon er fem år etter utløpet av den perioden vedtaket om tilskudd gjelder."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Administrativ sanksjon beregnes med 30 eller 60 prosent av tilskuddet som tilskuddsmottakeren uberettiget har mottatt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Administrativ sanksjon beregnes med 30 eller 60 prosent av tilskuddet som tilskuddsmottakeren uberettiget har mottatt.</td></tr>",
         "text": "(3) Administrativ sanksjon beregnes med 30 eller 60 prosent av tilskuddet som tilskuddsmottakeren uberettiget har mottatt."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> <a data-id=\"lov/2016-05-27-14/§14-8\" class=\" reference\" href=\"/lov/2016-05-27-14/%C2%A714-8\">Skatteforvaltningsloven §§ 14-8</a> til <a data-id=\"lov/2016-05-27-14/§14-11\" class=\" reference\" href=\"/lov/2016-05-27-14/%C2%A714-11\">14-11</a> gjelder tilsvarende så langt det passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> <a data-id=\"lov/2016-05-27-14/§14-8\" class=\" reference\" href=\"/lov/2016-05-27-14/%C2%A714-8\">Skatteforvaltningsloven §§ 14-8</a> til <a data-id=\"lov/2016-05-27-14/§14-11\" class=\" reference\" href=\"/lov/2016-05-27-14/%C2%A714-11\">14-11</a> gjelder tilsvarende så langt det passer.</td></tr>",
         "text": "(4) Skatteforvaltningsloven §§ 14-8 til 14-11 gjelder tilsvarende så langt det passer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Departementet kan gi forskrift om administrative sanksjoner.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Departementet kan gi forskrift om administrative sanksjoner.</td></tr>",
         "text": "(5) Departementet kan gi forskrift om administrative sanksjoner."
     },
     null,
@@ -456,13 +456,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Krav på tilbakebetaling av uriktig utbetalt tilskudd og administrative sanksjoner betales til og innkreves av Skatteetaten etter reglene i <a data-id=\"lov/2005-06-17-67\" class=\" reference\" href=\"/lov/2005-06-17-67\">lov 17. juni 2005 nr. 67</a> om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven) så langt de passer, likevel slik at <a data-id=\"lov/2005-06-17-67/kap10\" class=\" reference\" href=\"/lov/2005-06-17-67/kap10\">kapittel 10</a>, <a data-id=\"lov/2005-06-17-67/kap11\" class=\" reference\" href=\"/lov/2005-06-17-67/kap11\">11</a> og <a data-id=\"lov/2005-06-17-67/kap18\" class=\" reference\" href=\"/lov/2005-06-17-67/kap18\">18</a> ikke gjelder.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Krav på tilbakebetaling av uriktig utbetalt tilskudd og administrative sanksjoner betales til og innkreves av Skatteetaten etter reglene i <a data-id=\"lov/2005-06-17-67\" class=\" reference\" href=\"/lov/2005-06-17-67\">lov 17. juni 2005 nr. 67</a> om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven) så langt de passer, likevel slik at <a data-id=\"lov/2005-06-17-67/kap10\" class=\" reference\" href=\"/lov/2005-06-17-67/kap10\">kapittel 10</a>, <a data-id=\"lov/2005-06-17-67/kap11\" class=\" reference\" href=\"/lov/2005-06-17-67/kap11\">11</a> og <a data-id=\"lov/2005-06-17-67/kap18\" class=\" reference\" href=\"/lov/2005-06-17-67/kap18\">18</a> ikke gjelder.</td></tr>",
         "text": "(1) Krav på tilbakebetaling av uriktig utbetalt tilskudd og administrative sanksjoner betales til og innkreves av Skatteetaten etter reglene i lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven) så langt de passer, likevel slik at kapittel 10, 11 og 18 ikke gjelder."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Departementet kan i forskrift utfylle og fravike regler om betaling av tilskudd etter denne loven, herunder om krav på tilbakebetaling og innkreving av utbetalt tilskudd og administrative sanksjoner og om renter. Departementet kan også gi forskrift om hvem som er kravsmyndighet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Departementet kan i forskrift utfylle og fravike regler om betaling av tilskudd etter denne loven, herunder om krav på tilbakebetaling og innkreving av utbetalt tilskudd og administrative sanksjoner og om renter. Departementet kan også gi forskrift om hvem som er kravsmyndighet.</td></tr>",
         "text": "(2) Departementet kan i forskrift utfylle og fravike regler om betaling av tilskudd etter denne loven, herunder om krav på tilbakebetaling og innkreving av utbetalt tilskudd og administrative sanksjoner og om renter. Departementet kan også gi forskrift om hvem som er kravsmyndighet."
     },
     null,
@@ -519,13 +519,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Krav på tilbakebetaling etter § 18 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Krav på tilbakebetaling etter § 18 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner.</td></tr>",
         "text": "(1) Krav på tilbakebetaling etter § 18 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Administrative sanksjoner ilagt etter § 14 forfaller til betaling tre uker etter at fristen for å klage over vedtaket om fastsetting av kravet er utløpt, eller ved klage, tre uker etter at klagen er avgjort. Dersom det innvilges utsatt iverksetting av krav etter <a data-id=\"lov/2016-05-27-14/§14-10\" class=\" reference\" href=\"/lov/2016-05-27-14/%C2%A714-10\">skatteforvaltningsloven § 14-10</a> annet ledd, forfaller kravet til betaling tre uker etter utløpet av søksmålsfristen, eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Administrative sanksjoner ilagt etter § 14 forfaller til betaling tre uker etter at fristen for å klage over vedtaket om fastsetting av kravet er utløpt, eller ved klage, tre uker etter at klagen er avgjort. Dersom det innvilges utsatt iverksetting av krav etter <a data-id=\"lov/2016-05-27-14/§14-10\" class=\" reference\" href=\"/lov/2016-05-27-14/%C2%A714-10\">skatteforvaltningsloven § 14-10</a> annet ledd, forfaller kravet til betaling tre uker etter utløpet av søksmålsfristen, eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.</td></tr>",
         "text": "(2) Administrative sanksjoner ilagt etter § 14 forfaller til betaling tre uker etter at fristen for å klage over vedtaket om fastsetting av kravet er utløpt, eller ved klage, tre uker etter at klagen er avgjort. Dersom det innvilges utsatt iverksetting av krav etter skatteforvaltningsloven § 14-10 annet ledd, forfaller kravet til betaling tre uker etter utløpet av søksmålsfristen, eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger."
     },
     null,
@@ -544,13 +544,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> For tilbakebetalingskrav og administrative sanksjoner som ikke er betalt innen forfall etter § 19, betales forsinkelsesrente.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> For tilbakebetalingskrav og administrative sanksjoner som ikke er betalt innen forfall etter § 19, betales forsinkelsesrente.</td></tr>",
         "text": "(1) For tilbakebetalingskrav og administrative sanksjoner som ikke er betalt innen forfall etter § 19, betales forsinkelsesrente."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Rentesatsen tilsvarer den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i <a data-id=\"lov/1976-12-17-100\" class=\" reference\" href=\"/lov/1976-12-17-100\">lov 17. desember 1976 nr. 100</a> om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) <a data-id=\"lov/1976-12-17-100/§3\" class=\" reference\" href=\"/lov/1976-12-17-100/%C2%A73\">§ 3</a> første ledd første punktum. Rentene beregnes fra forfall etter § 19 og inntil betaling skjer. <a data-id=\"lov/1976-12-17-100/§2\" class=\" reference\" href=\"/lov/1976-12-17-100/%C2%A72\">Forsinkelsesrenteloven § 2</a> annet ledd gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Rentesatsen tilsvarer den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i <a data-id=\"lov/1976-12-17-100\" class=\" reference\" href=\"/lov/1976-12-17-100\">lov 17. desember 1976 nr. 100</a> om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) <a data-id=\"lov/1976-12-17-100/§3\" class=\" reference\" href=\"/lov/1976-12-17-100/%C2%A73\">§ 3</a> første ledd første punktum. Rentene beregnes fra forfall etter § 19 og inntil betaling skjer. <a data-id=\"lov/1976-12-17-100/§2\" class=\" reference\" href=\"/lov/1976-12-17-100/%C2%A72\">Forsinkelsesrenteloven § 2</a> annet ledd gjelder tilsvarende.</td></tr>",
         "text": "(2) Rentesatsen tilsvarer den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) § 3 første ledd første punktum. Rentene beregnes fra forfall etter § 19 og inntil betaling skjer. Forsinkelsesrenteloven § 2 annet ledd gjelder tilsvarende."
     },
     null,
@@ -588,13 +588,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Loven trer i kraft straks.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Loven trer i kraft straks.</td></tr>",
         "text": "(1) Loven trer i kraft straks."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om overgangsbestemmelser.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om overgangsbestemmelser.</td></tr>",
         "text": "(2) Departementet kan gi forskrift om overgangsbestemmelser."
     }
 ]

@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">Lov 6. juni 1975 nr. 29</a> om eigedomsskatt til kommunane (eigedomsskattelova).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1975-06-06-29\" class=\" reference\" href=\"/lov/1975-06-06-29\">Lov 6. juni 1975 nr. 29</a> om eigedomsskatt til kommunane (eigedomsskattelova).</td></tr>",
         "text": "1\tLov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane (eigedomsskattelova)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2016-05-27-14\" class=\" reference\" href=\"/lov/2016-05-27-14\">Lov 27. mai 2016 nr. 14</a> om skatteforvaltning (skatteforvaltningsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2016-05-27-14\" class=\" reference\" href=\"/lov/2016-05-27-14\">Lov 27. mai 2016 nr. 14</a> om skatteforvaltning (skatteforvaltningsloven).</td></tr>",
         "text": "2\tLov 27. mai 2016 nr. 14 om skatteforvaltning (skatteforvaltningsloven)."
     },
     {
@@ -62,7 +62,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver som i løpet av de ti siste årene er straffet for overtredelse av denne loven, ligningsloven, merverdiavgiftsloven, skattebetalingsloven, <a data-id=\"lov/2005-05-20-28/§378\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7378\">straffeloven §§ 378</a> til <a data-id=\"lov/2005-05-20-28/§380\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7380\">380</a> og <a data-id=\"lov/2005-05-20-28/§406\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7406\">406</a>, regnskapsloven eller bokføringsloven</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">enhver som i løpet av de ti siste årene er straffet for overtredelse av denne loven, ligningsloven, merverdiavgiftsloven, skattebetalingsloven, <a data-id=\"lov/2005-05-20-28/§378\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7378\">straffeloven §§ 378</a> til <a data-id=\"lov/2005-05-20-28/§380\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7380\">380</a> og <a data-id=\"lov/2005-05-20-28/§406\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7406\">406</a>, regnskapsloven eller bokføringsloven</td></tr>",
         "text": "c)\tenhver som i løpet av de ti siste årene er straffet for overtredelse av denne loven, ligningsloven, merverdiavgiftsloven, skattebetalingsloven, straffeloven §§ 378 til 380 og 406, regnskapsloven eller bokføringsloven"
     },
     {
@@ -74,7 +74,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">individuelle pensjonsavtaler og avtaler om individuell sparing til pensjon</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">individuelle pensjonsavtaler og avtaler om individuell sparing til pensjon</td></tr>",
         "text": "f)\tindividuelle pensjonsavtaler og avtaler om individuell sparing til pensjon"
     },
     {
@@ -98,7 +98,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Departementet kan gi forskrift om det nærmere innholdet i opplysningsplikten etter dette kapitlet, leveringsmåte for opplysningene, signatur, leveringsfrist og leveringssted, bekreftelse av opplysninger fra revisor samt om fritak fra å levere melding etter dette kapitlet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Departementet kan gi forskrift om det nærmere innholdet i opplysningsplikten etter dette kapitlet, leveringsmåte for opplysningene, signatur, leveringsfrist og leveringssted, bekreftelse av opplysninger fra revisor samt om fritak fra å levere melding etter dette kapitlet.</td></tr>",
         "text": "(1) Departementet kan gi forskrift om det nærmere innholdet i opplysningsplikten etter dette kapitlet, leveringsmåte for opplysningene, signatur, leveringsfrist og leveringssted, bekreftelse av opplysninger fra revisor samt om fritak fra å levere melding etter dette kapitlet."
     },
     {
@@ -110,7 +110,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er skattepliktig etter <a data-id=\"lov/1996-11-29-68/§2-1\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A72-1\">Svalbardskatteloven §§ 2-1</a> eller <a data-id=\"lov/1996-11-29-68/§2-3\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A72-3\">2-3</a>, og som ikke har begrenset skatteplikt etter <a data-id=\"lov/1996-11-29-68/§2-1\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A72-1\">Svalbardskatteloven § 2-1</a> annet ledd. Skattemelding skal også leveres av personer og selskaper som er skattepliktige til Svalbard for formue og inntekt som nevnt i <a data-id=\"lov/1996-11-29-68/§3-2\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A73-2\">svalbardskatteloven § 3-2</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er skattepliktig etter <a data-id=\"lov/1996-11-29-68/§2-1\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A72-1\">Svalbardskatteloven §§ 2-1</a> eller <a data-id=\"lov/1996-11-29-68/§2-3\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A72-3\">2-3</a>, og som ikke har begrenset skatteplikt etter <a data-id=\"lov/1996-11-29-68/§2-1\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A72-1\">Svalbardskatteloven § 2-1</a> annet ledd. Skattemelding skal også leveres av personer og selskaper som er skattepliktige til Svalbard for formue og inntekt som nevnt i <a data-id=\"lov/1996-11-29-68/§3-2\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A73-2\">svalbardskatteloven § 3-2</a>.</td></tr>",
         "text": "b)\ter skattepliktig etter Svalbardskatteloven §§ 2-1 eller 2-3, og som ikke har begrenset skatteplikt etter Svalbardskatteloven § 2-1 annet ledd. Skattemelding skal også leveres av personer og selskaper som er skattepliktige til Svalbard for formue og inntekt som nevnt i svalbardskatteloven § 3-2."
     },
     {
@@ -122,7 +122,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har hatt formue eller inntekt som er skattepliktig etter petroleumsskatteloven.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har hatt formue eller inntekt som er skattepliktig etter petroleumsskatteloven.</td></tr>",
         "text": "c)\thar hatt formue eller inntekt som er skattepliktig etter petroleumsskatteloven."
     },
     {
@@ -170,7 +170,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Skattepliktige kan endre opplysninger i tidligere leverte skattemeldinger for formues- og inntektsskatt, svalbardskatt, petroleumsskatt, merverdiavgift, arbeidsgiveravgift, finansskatt på lønn og særavgifter ved levering av endringsmelding. Trekkpliktige etter <a data-id=\"lov/1996-11-29-68/§3-1\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A73-1\">Svalbardskatteloven § 3-1</a>, Jan Mayen-skatteloven og artistskatteloven kan på samme måte endre opplysninger i levert melding om trekk. Dette gjelder likevel ikke grunnlag som er fastsatt av skattemyndighetene, eller på områder hvor myndighetene har varslet om at fastsettingen er under kontroll. Skattepliktige etter <a data-id=\"lov/1975-06-13-35/§5\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A75\">petroleumsskatteloven § 5</a> kan ikke endre opplysninger i tidligere leverte skattemeldinger etter første punktum.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Skattepliktige kan endre opplysninger i tidligere leverte skattemeldinger for formues- og inntektsskatt, svalbardskatt, petroleumsskatt, merverdiavgift, arbeidsgiveravgift, finansskatt på lønn og særavgifter ved levering av endringsmelding. Trekkpliktige etter <a data-id=\"lov/1996-11-29-68/§3-1\" class=\" reference\" href=\"/lov/1996-11-29-68/%C2%A73-1\">Svalbardskatteloven § 3-1</a>, Jan Mayen-skatteloven og artistskatteloven kan på samme måte endre opplysninger i levert melding om trekk. Dette gjelder likevel ikke grunnlag som er fastsatt av skattemyndighetene, eller på områder hvor myndighetene har varslet om at fastsettingen er under kontroll. Skattepliktige etter <a data-id=\"lov/1975-06-13-35/§5\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A75\">petroleumsskatteloven § 5</a> kan ikke endre opplysninger i tidligere leverte skattemeldinger etter første punktum.</td></tr>",
         "text": "(1) Skattepliktige kan endre opplysninger i tidligere leverte skattemeldinger for formues- og inntektsskatt, svalbardskatt, petroleumsskatt, merverdiavgift, arbeidsgiveravgift, finansskatt på lønn og særavgifter ved levering av endringsmelding. Trekkpliktige etter Svalbardskatteloven § 3-1, Jan Mayen-skatteloven og artistskatteloven kan på samme måte endre opplysninger i levert melding om trekk. Dette gjelder likevel ikke grunnlag som er fastsatt av skattemyndighetene, eller på områder hvor myndighetene har varslet om at fastsettingen er under kontroll. Skattepliktige etter petroleumsskatteloven § 5 kan ikke endre opplysninger i tidligere leverte skattemeldinger etter første punktum."
     },
     {
@@ -206,7 +206,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Tilleggsskatt ilegges skattepliktig og trekkpliktig som nevnt i § 8-8 første og annet ledd, som gir uriktig eller ufullstendig opplysning til skattemyndighetene eller unnlater å gi pliktig opplysning, når opplysningssvikten kan føre til skattemessige fordeler.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Tilleggsskatt ilegges skattepliktig og trekkpliktig som nevnt i § 8-8 første og annet ledd, som gir uriktig eller ufullstendig opplysning til skattemyndighetene eller unnlater å gi pliktig opplysning, når opplysningssvikten kan føre til skattemessige fordeler.</td></tr>",
         "text": "(1) Tilleggsskatt ilegges skattepliktig og trekkpliktig som nevnt i § 8-8 første og annet ledd, som gir uriktig eller ufullstendig opplysning til skattemyndighetene eller unnlater å gi pliktig opplysning, når opplysningssvikten kan føre til skattemessige fordeler."
     },
     {
@@ -218,7 +218,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> §§ 14-3 til 14-7 får virkning for saker der opplysningssvikten er begått etter tidspunktet for lovens ikrafttredelse. Det samme gjelder for saker der vedtak treffes etter lovens ikrafttredelse, men opplysningssvikten er begått før tidspunktet for lovens ikrafttredelse, for så vidt samlet tilleggsskatt eller overtredelsesgebyr hadde blitt høyere etter de tidligere reglene.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> §§ 14-3 til 14-7 får virkning for saker der opplysningssvikten er begått etter tidspunktet for lovens ikrafttredelse. Det samme gjelder for saker der vedtak treffes etter lovens ikrafttredelse, men opplysningssvikten er begått før tidspunktet for lovens ikrafttredelse, for så vidt samlet tilleggsskatt eller overtredelsesgebyr hadde blitt høyere etter de tidligere reglene.</td></tr>",
         "text": "(2) §§ 14-3 til 14-7 får virkning for saker der opplysningssvikten er begått etter tidspunktet for lovens ikrafttredelse. Det samme gjelder for saker der vedtak treffes etter lovens ikrafttredelse, men opplysningssvikten er begått før tidspunktet for lovens ikrafttredelse, for så vidt samlet tilleggsskatt eller overtredelsesgebyr hadde blitt høyere etter de tidligere reglene."
     },
     {
@@ -248,7 +248,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Er verdet (taksten) for bustader sett ned ved fastsetjinga etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,67 for primærbustad og 0,95 for sekundærbustad.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Er verdet (taksten) for bustader sett ned ved fastsetjinga etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,67 for primærbustad og 0,95 for sekundærbustad.</td></tr>",
         "text": "(3) Er verdet (taksten) for bustader sett ned ved fastsetjinga etter skatteloven § 4-10 første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,67 for primærbustad og 0,95 for sekundærbustad."
     },
     {

@@ -122,19 +122,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,</td></tr>",
         "text": "1)\tektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">slektninger i rett oppstigende eller nedstigende linje samt søsken,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">slektninger i rett oppstigende eller nedstigende linje samt søsken,</td></tr>",
         "text": "2)\tslektninger i rett oppstigende eller nedstigende linje samt søsken,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefelle til person som nevnt i nr. 2 eller person som bor i ekteskapslignende forhold sammen med person som nevnt i nr. 2.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefelle til person som nevnt i nr. 2 eller person som bor i ekteskapslignende forhold sammen med person som nevnt i nr. 2.</td></tr>",
         "text": "3)\tektefelle til person som nevnt i nr. 2 eller person som bor i ekteskapslignende forhold sammen med person som nevnt i nr. 2."
     },
     {
@@ -158,31 +158,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn og adresse på den for hvis regning serveringsstedet skal drives. Dersom serveringsstedet drives av en juridisk person, skal det også gis opplysninger om organisasjonsnummer og eiersammensetning,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn og adresse på den for hvis regning serveringsstedet skal drives. Dersom serveringsstedet drives av en juridisk person, skal det også gis opplysninger om organisasjonsnummer og eiersammensetning,</td></tr>",
         "text": "a)\tnavn og adresse på den for hvis regning serveringsstedet skal drives. Dersom serveringsstedet drives av en juridisk person, skal det også gis opplysninger om organisasjonsnummer og eiersammensetning,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">angivelse av det sted hvor serveringsstedet skal drives,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">angivelse av det sted hvor serveringsstedet skal drives,</td></tr>",
         "text": "b)\tangivelse av det sted hvor serveringsstedet skal drives,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn og adresse på daglig leder og personer som etter § 6 har vesentlig innflytelse på virksomheten,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn og adresse på daglig leder og personer som etter § 6 har vesentlig innflytelse på virksomheten,</td></tr>",
         "text": "c)\tnavn og adresse på daglig leder og personer som etter § 6 har vesentlig innflytelse på virksomheten,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dokumentasjon av faglige kvalifikasjoner i henhold til § 5,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">dokumentasjon av faglige kvalifikasjoner i henhold til § 5,</td></tr>",
         "text": "d)\tdokumentasjon av faglige kvalifikasjoner i henhold til § 5,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skatteattest for den for hvis regning serveringsstedet skal drives.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skatteattest for den for hvis regning serveringsstedet skal drives.</td></tr>",
         "text": "e)\tskatteattest for den for hvis regning serveringsstedet skal drives."
     },
     {
@@ -194,25 +194,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">leiekontrakt,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">leiekontrakt,</td></tr>",
         "text": "a)\tleiekontrakt,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansieringsplan,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansieringsplan,</td></tr>",
         "text": "b)\tfinansieringsplan,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">driftbudsjett og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">driftbudsjett og</td></tr>",
         "text": "c)\tdriftbudsjett og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">likviditetsbudsjett.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">likviditetsbudsjett.</td></tr>",
         "text": "d)\tlikviditetsbudsjett."
     },
     {
@@ -284,7 +284,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skifte av daglig leder,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skifte av daglig leder,</td></tr>",
         "text": "a)\tskifte av daglig leder,"
     },
     {
@@ -356,19 +356,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å stanse forstyrrelser av den offentlige ro og orden eller når omstendighetene gir grunn til frykt for slike forstyrrelser,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å stanse forstyrrelser av den offentlige ro og orden eller når omstendighetene gir grunn til frykt for slike forstyrrelser,</td></tr>",
         "text": "a)\tfor å stanse forstyrrelser av den offentlige ro og orden eller når omstendighetene gir grunn til frykt for slike forstyrrelser,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å ivareta enkeltpersoners eller allmennhetens sikkerhet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å ivareta enkeltpersoners eller allmennhetens sikkerhet,</td></tr>",
         "text": "b)\tfor å ivareta enkeltpersoners eller allmennhetens sikkerhet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å avverge eller stanse lovbrudd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å avverge eller stanse lovbrudd.</td></tr>",
         "text": "c)\tfor å avverge eller stanse lovbrudd."
     },
     {
@@ -416,7 +416,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å melde endringer til kommunen etter § 14.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å melde endringer til kommunen etter § 14.</td></tr>",
         "text": "e)\tunnlater å melde endringer til kommunen etter § 14."
     },
     {
@@ -428,25 +428,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td></tr>",
         "text": "1.\tLoven gjelder fra den tid Kongen bestemmer."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Gjeldende åpningstidsbestemmelser ved ikrafttredelsen av denne endringslov gis virkning inntil det er fastsatt kommunale forskrifter, dog ikke lenger enn ett år.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Gjeldende åpningstidsbestemmelser ved ikrafttredelsen av denne endringslov gis virkning inntil det er fastsatt kommunale forskrifter, dog ikke lenger enn ett år.</td></tr>",
         "text": "2.\tGjeldende åpningstidsbestemmelser ved ikrafttredelsen av denne endringslov gis virkning inntil det er fastsatt kommunale forskrifter, dog ikke lenger enn ett år."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringen i § 3 gjelder ikke for serveringssteder som før ikrafttredelsen av denne loven ikke var omfattet av lovens virkeområde, jf. § 2.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringen i § 3 gjelder ikke for serveringssteder som før ikrafttredelsen av denne loven ikke var omfattet av lovens virkeområde, jf. § 2.</td></tr>",
         "text": "3.\tEndringen i § 3 gjelder ikke for serveringssteder som før ikrafttredelsen av denne loven ikke var omfattet av lovens virkeområde, jf. § 2."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kravet etter § 5 om etablererpøve gjelder ikke for daglig leder i virksomhet som er i drift ved ikrafttredelsen av denne endringslov.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kravet etter § 5 om etablererpøve gjelder ikke for daglig leder i virksomhet som er i drift ved ikrafttredelsen av denne endringslov.</td></tr>",
         "text": "4.\tKravet etter § 5 om etablererpøve gjelder ikke for daglig leder i virksomhet som er i drift ved ikrafttredelsen av denne endringslov."
     }
 ]

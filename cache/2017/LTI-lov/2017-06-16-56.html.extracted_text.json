@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-07-02-61\" class=\" reference\" href=\"/lov/1999-07-02-61\">Lov 2. juli 1999 nr. 61</a> om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-07-02-61\" class=\" reference\" href=\"/lov/1999-07-02-61\">Lov 2. juli 1999 nr. 61</a> om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven).</td></tr>",
         "text": "1\tLov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-07-02-64\" class=\" reference\" href=\"/lov/1999-07-02-64\">Lov 2. juli 1999 nr. 64</a> om om helsepersonell m.v.  (helsepersonelloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-07-02-64\" class=\" reference\" href=\"/lov/1999-07-02-64\">Lov 2. juli 1999 nr. 64</a> om om helsepersonell m.v.  (helsepersonelloven).</td></tr>",
         "text": "2\tLov 2. juli 1999 nr. 64 om om helsepersonell m.v.  (helsepersonelloven)."
     },
     null,
@@ -95,13 +95,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alvorlig hendelse: dødsfall eller betydelig skade på pasient eller bruker hvor utfallet er uventet ut fra påregnelig risiko.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">alvorlig hendelse: dødsfall eller betydelig skade på pasient eller bruker hvor utfallet er uventet ut fra påregnelig risiko.</td></tr>",
         "text": "a)\talvorlig hendelse: dødsfall eller betydelig skade på pasient eller bruker hvor utfallet er uventet ut fra påregnelig risiko."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alvorlige forhold: omstendigheter eller sammenhenger som antas å kunne føre til alvorlige hendelser.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">alvorlige forhold: omstendigheter eller sammenhenger som antas å kunne føre til alvorlige hendelser.</td></tr>",
         "text": "b)\talvorlige forhold: omstendigheter eller sammenhenger som antas å kunne føre til alvorlige hendelser."
     },
     null,
@@ -524,25 +524,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner</td></tr>",
         "text": "a)\ttiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling</td></tr>",
         "text": "b)\tdersom de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom de mottatte opplysningene viser at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den alvorlige hendelsen eller det alvorlige forholdet</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom de mottatte opplysningene viser at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den alvorlige hendelsen eller det alvorlige forholdet</td></tr>",
         "text": "c)\tdersom de mottatte opplysningene viser at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den alvorlige hendelsen eller det alvorlige forholdet"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom omstendigheter knyttet til arbeidstakeren eller dennes handlinger eller unnlatelser er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter <a data-id=\"lov/2017-06-16-56/§10\" class=\" reference\" href=\"/lov/2017-06-16-56/%C2%A710\">§ 10</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">dersom omstendigheter knyttet til arbeidstakeren eller dennes handlinger eller unnlatelser er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter <a data-id=\"lov/2017-06-16-56/§10\" class=\" reference\" href=\"/lov/2017-06-16-56/%C2%A710\">§ 10</a>.</td></tr>",
         "text": "d)\tdersom omstendigheter knyttet til arbeidstakeren eller dennes handlinger eller unnlatelser er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter § 10."
     },
     null,

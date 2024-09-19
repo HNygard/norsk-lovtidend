@@ -14,19 +14,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1956-12-07-1\" class=\" reference\" href=\"/lov/1956-12-07-1\">Lov 7. desember 1956 nr. 1</a> om tilsynet med finansinstitusjoner mv. (finanstilsynsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1956-12-07-1\" class=\" reference\" href=\"/lov/1956-12-07-1\">Lov 7. desember 1956 nr. 1</a> om tilsynet med finansinstitusjoner mv. (finanstilsynsloven).</td></tr>",
         "text": "1\tLov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. (finanstilsynsloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1996-12-06-75\" class=\" reference\" href=\"/lov/1996-12-06-75\">Lov 6. desember 1996 nr. 75</a> om sikringsordninger for banker, forsikringsselskapenes garantiordninger og offentlig administrasjon m.v. av finansinstitusjoner</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1996-12-06-75\" class=\" reference\" href=\"/lov/1996-12-06-75\">Lov 6. desember 1996 nr. 75</a> om sikringsordninger for banker, forsikringsselskapenes garantiordninger og offentlig administrasjon m.v. av finansinstitusjoner</td></tr>",
         "text": "2\tLov 6. desember 1996 nr. 75 om sikringsordninger for banker, forsikringsselskapenes garantiordninger og offentlig administrasjon m.v. av finansinstitusjoner"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2000-03-24-16\" class=\" reference\" href=\"/lov/2000-03-24-16\">Lov 24. mars 2000 nr. 16</a> om foretakspensjon (foretakspensjonsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2000-03-24-16\" class=\" reference\" href=\"/lov/2000-03-24-16\">Lov 24. mars 2000 nr. 16</a> om foretakspensjon (foretakspensjonsloven).</td></tr>",
         "text": "3\tLov 24. mars 2000 nr. 16 om foretakspensjon (foretakspensjonsloven)."
     },
     {
@@ -74,7 +74,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Medlemmene skal hvert år betale en avgift til sikringsfondet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Medlemmene skal hvert år betale en avgift til sikringsfondet.</td></tr>",
         "text": "(1) Medlemmene skal hvert år betale en avgift til sikringsfondet."
     },
     {
@@ -86,19 +86,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Fondet skal dekke tap på innskudd etter <a data-id=\"lov/1996-12-06-75/§2-10\" class=\" reference\" href=\"/lov/1996-12-06-75/%C2%A72-10\">§ 2-10</a> så snart som mulig og senest én uke etter at:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Fondet skal dekke tap på innskudd etter <a data-id=\"lov/1996-12-06-75/§2-10\" class=\" reference\" href=\"/lov/1996-12-06-75/%C2%A72-10\">§ 2-10</a> så snart som mulig og senest én uke etter at:</td></tr>",
         "text": "(1) Fondet skal dekke tap på innskudd etter § 2-10 så snart som mulig og senest én uke etter at:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Finanstilsynet har kommet til at et medlem etter tilsynets oppfatning verken er eller vil bli i stand til å tilbakebetale innskudd og dette har sammenheng med medlemmets økonomiske stilling. Finanstilsynet skal ta standpunkt til spørsmålet senest 21 dager etter at Finanstilsynet har fått kjennskap til at medlemmet ikke har tilbakebetalt innskudd som er forfalt til betaling og at dette har sammenheng med medlemmets økonomiske stilling, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Finanstilsynet har kommet til at et medlem etter tilsynets oppfatning verken er eller vil bli i stand til å tilbakebetale innskudd og dette har sammenheng med medlemmets økonomiske stilling. Finanstilsynet skal ta standpunkt til spørsmålet senest 21 dager etter at Finanstilsynet har fått kjennskap til at medlemmet ikke har tilbakebetalt innskudd som er forfalt til betaling og at dette har sammenheng med medlemmets økonomiske stilling, eller</td></tr>",
         "text": "a)\tFinanstilsynet har kommet til at et medlem etter tilsynets oppfatning verken er eller vil bli i stand til å tilbakebetale innskudd og dette har sammenheng med medlemmets økonomiske stilling. Finanstilsynet skal ta standpunkt til spørsmålet senest 21 dager etter at Finanstilsynet har fått kjennskap til at medlemmet ikke har tilbakebetalt innskudd som er forfalt til betaling og at dette har sammenheng med medlemmets økonomiske stilling, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er truffet vedtak om å sette et medlem under offentlig administrasjon etter <a data-id=\"lov/1996-12-06-75/kap4\" class=\" reference\" href=\"/lov/1996-12-06-75/kap4\">kapittel 4</a> eller lignende insolvensbehandling.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er truffet vedtak om å sette et medlem under offentlig administrasjon etter <a data-id=\"lov/1996-12-06-75/kap4\" class=\" reference\" href=\"/lov/1996-12-06-75/kap4\">kapittel 4</a> eller lignende insolvensbehandling.</td></tr>",
         "text": "b)\tdet er truffet vedtak om å sette et medlem under offentlig administrasjon etter kapittel 4 eller lignende insolvensbehandling."
     },
     {
@@ -116,7 +116,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsen i første ledd er ikke til hinder for at fondet foretar tidligere utbetaling til dekning av deler av tapet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsen i første ledd er ikke til hinder for at fondet foretar tidligere utbetaling til dekning av deler av tapet.</td></tr>",
         "text": "(2) Bestemmelsen i første ledd er ikke til hinder for at fondet foretar tidligere utbetaling til dekning av deler av tapet."
     },
     {
@@ -140,7 +140,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> For fripolise tilknyttet egen investeringsportefølje gjelder reglene i <a data-id=\"lov/2000-03-24-16/§4-7a\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7a\">§§ 4-7 a</a> og <a data-id=\"lov/2000-03-24-16/§4-7b\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7b\">4-7 b</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> For fripolise tilknyttet egen investeringsportefølje gjelder reglene i <a data-id=\"lov/2000-03-24-16/§4-7a\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7a\">§§ 4-7 a</a> og <a data-id=\"lov/2000-03-24-16/§4-7b\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7b\">4-7 b</a>.</td></tr>",
         "text": "(2) For fripolise tilknyttet egen investeringsportefølje gjelder reglene i §§ 4-7 a og 4-7 b."
     },
     {
@@ -158,55 +158,55 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Ved utstedelse av fripolise kan fripoliseinnehaveren og pensjonsinnretningen avtale at midler som angitt i tredje punktum skal forvaltes som en egen investeringsportefølje tilordnet fripolisen. Avtalen skal angi hvordan porteføljen skal settes sammen og hvilken adgang fripoliseinnehaveren har til å endre sammensetningen. En slik avtale kan bare omfatte midler tilsvarende premiereserven knyttet til alderspensjon med tilhørende tilleggsavsetninger og administrasjonsreserve knyttet til fripolisen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Ved utstedelse av fripolise kan fripoliseinnehaveren og pensjonsinnretningen avtale at midler som angitt i tredje punktum skal forvaltes som en egen investeringsportefølje tilordnet fripolisen. Avtalen skal angi hvordan porteføljen skal settes sammen og hvilken adgang fripoliseinnehaveren har til å endre sammensetningen. En slik avtale kan bare omfatte midler tilsvarende premiereserven knyttet til alderspensjon med tilhørende tilleggsavsetninger og administrasjonsreserve knyttet til fripolisen.</td></tr>",
         "text": "(1) Ved utstedelse av fripolise kan fripoliseinnehaveren og pensjonsinnretningen avtale at midler som angitt i tredje punktum skal forvaltes som en egen investeringsportefølje tilordnet fripolisen. Avtalen skal angi hvordan porteføljen skal settes sammen og hvilken adgang fripoliseinnehaveren har til å endre sammensetningen. En slik avtale kan bare omfatte midler tilsvarende premiereserven knyttet til alderspensjon med tilhørende tilleggsavsetninger og administrasjonsreserve knyttet til fripolisen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Fripolisekontoen skal tilordnes avkastningen av investeringsporteføljen. Fripoliseinnehaveren bærer risikoen for at verdien av investeringsporteføljen blir redusert, hvis ikke noe annet er fastsatt i avtale med pensjonsinnretningen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Fripolisekontoen skal tilordnes avkastningen av investeringsporteføljen. Fripoliseinnehaveren bærer risikoen for at verdien av investeringsporteføljen blir redusert, hvis ikke noe annet er fastsatt i avtale med pensjonsinnretningen.</td></tr>",
         "text": "(2) Fripolisekontoen skal tilordnes avkastningen av investeringsporteføljen. Fripoliseinnehaveren bærer risikoen for at verdien av investeringsporteføljen blir redusert, hvis ikke noe annet er fastsatt i avtale med pensjonsinnretningen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Pensjonsinnretningen kan kreve vederlag for administrasjon og forvaltning av fripolisen, for fripoliseinnehaverens bruk av rett til å endre investeringsporteføljen, samt for eventuell avkastningsgaranti knyttet til fripolisen. Kongen kan gi nærmere regler i forskrift om vederlag knyttet til fripolisen og om dekning av vederlag ved belastning av fripolisekontoen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Pensjonsinnretningen kan kreve vederlag for administrasjon og forvaltning av fripolisen, for fripoliseinnehaverens bruk av rett til å endre investeringsporteføljen, samt for eventuell avkastningsgaranti knyttet til fripolisen. Kongen kan gi nærmere regler i forskrift om vederlag knyttet til fripolisen og om dekning av vederlag ved belastning av fripolisekontoen.</td></tr>",
         "text": "(3) Pensjonsinnretningen kan kreve vederlag for administrasjon og forvaltning av fripolisen, for fripoliseinnehaverens bruk av rett til å endre investeringsporteføljen, samt for eventuell avkastningsgaranti knyttet til fripolisen. Kongen kan gi nærmere regler i forskrift om vederlag knyttet til fripolisen og om dekning av vederlag ved belastning av fripolisekontoen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Ved uttak av alderspensjon gjelder reglene i <a data-id=\"lov/2000-03-24-16/§5-7a\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A75-7a\">§§ 5-7 a</a> til <a data-id=\"lov/2000-03-24-16/§5-7d\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A75-7d\">5-7 d</a>. Årlig alderspensjon beregnes med utgangspunkt i investeringsporteføljens verdi på uttakstidspunktet. Midlene knyttet til fripolisen skal på uttakstidspunktet overføres til alminnelig forvaltning i kollektivporteføljen, med mindre fripoliseinnehaveren krever at midlene knyttet til fripolisen fortsatt skal forvaltes som egen investeringsportefølje. Hvis fripolisen fortsatt skal forvaltes som egen investeringsportefølje, skal årlig alderspensjon beregnes ut fra investeringsporteføljens verdi ved hver utbetaling. Kongen kan gi nærmere regler om beregning og utbetaling av årlig alderspensjon fra fripolisen i forskrift.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Ved uttak av alderspensjon gjelder reglene i <a data-id=\"lov/2000-03-24-16/§5-7a\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A75-7a\">§§ 5-7 a</a> til <a data-id=\"lov/2000-03-24-16/§5-7d\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A75-7d\">5-7 d</a>. Årlig alderspensjon beregnes med utgangspunkt i investeringsporteføljens verdi på uttakstidspunktet. Midlene knyttet til fripolisen skal på uttakstidspunktet overføres til alminnelig forvaltning i kollektivporteføljen, med mindre fripoliseinnehaveren krever at midlene knyttet til fripolisen fortsatt skal forvaltes som egen investeringsportefølje. Hvis fripolisen fortsatt skal forvaltes som egen investeringsportefølje, skal årlig alderspensjon beregnes ut fra investeringsporteføljens verdi ved hver utbetaling. Kongen kan gi nærmere regler om beregning og utbetaling av årlig alderspensjon fra fripolisen i forskrift.</td></tr>",
         "text": "(4) Ved uttak av alderspensjon gjelder reglene i §§ 5-7 a til 5-7 d. Årlig alderspensjon beregnes med utgangspunkt i investeringsporteføljens verdi på uttakstidspunktet. Midlene knyttet til fripolisen skal på uttakstidspunktet overføres til alminnelig forvaltning i kollektivporteføljen, med mindre fripoliseinnehaveren krever at midlene knyttet til fripolisen fortsatt skal forvaltes som egen investeringsportefølje. Hvis fripolisen fortsatt skal forvaltes som egen investeringsportefølje, skal årlig alderspensjon beregnes ut fra investeringsporteføljens verdi ved hver utbetaling. Kongen kan gi nærmere regler om beregning og utbetaling av årlig alderspensjon fra fripolisen i forskrift."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Før det inngås avtale om utstedelse av fripolise tilordnet egen investeringsportefølje, skal pensjonsinnretningen skriftlig opplyse fripoliseinnehaveren om at:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Før det inngås avtale om utstedelse av fripolise tilordnet egen investeringsportefølje, skal pensjonsinnretningen skriftlig opplyse fripoliseinnehaveren om at:</td></tr>",
         "text": "(5) Før det inngås avtale om utstedelse av fripolise tilordnet egen investeringsportefølje, skal pensjonsinnretningen skriftlig opplyse fripoliseinnehaveren om at:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">investeringsporteføljen tilordnet fripolisen vil bli forvaltet for fripoliseinnehaverens regning og risiko,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">investeringsporteføljen tilordnet fripolisen vil bli forvaltet for fripoliseinnehaverens regning og risiko,</td></tr>",
         "text": "a)\tinvesteringsporteføljen tilordnet fripolisen vil bli forvaltet for fripoliseinnehaverens regning og risiko,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsytelsene bestemmes ut fra verdien av porteføljen på tidspunktet for uttak av pensjon,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsytelsene bestemmes ut fra verdien av porteføljen på tidspunktet for uttak av pensjon,</td></tr>",
         "text": "b)\tpensjonsytelsene bestemmes ut fra verdien av porteføljen på tidspunktet for uttak av pensjon,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsinnretningens ansvar for avkastningsresultatet og verdiutviklingen over tid bortfaller med mindre annet er avtalt, og at</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsinnretningens ansvar for avkastningsresultatet og verdiutviklingen over tid bortfaller med mindre annet er avtalt, og at</td></tr>",
         "text": "c)\tpensjonsinnretningens ansvar for avkastningsresultatet og verdiutviklingen over tid bortfaller med mindre annet er avtalt, og at"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsinnretningen har rett til vederlag som nevnt i tredje ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">pensjonsinnretningen har rett til vederlag som nevnt i tredje ledd.</td></tr>",
         "text": "d)\tpensjonsinnretningen har rett til vederlag som nevnt i tredje ledd."
     },
     {
@@ -218,7 +218,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Pensjonsinnretningen har plikt til å kartlegge fripoliseinnehaverens behov og ønske om risiko og til å opplyse om eventuelle forhold som tilsier at en avtale om forvaltning av fripolisen i en egen investeringsportefølje ikke vil være i fripoliseinnehaverens interesse. Før det inngås avtale om utstedelse av fripolise tilordnet en egen investeringsportefølje, skal pensjonsinnretningen i alle tilfelle gi fripoliseinnehaveren råd om sammensetningen av investeringsporteføljen tilpasset blant annet gjenstående tid til uttak av alderspensjon og størrelsen av midlene knyttet til fripolisen. Når fripoliseinnehaveren har nådd en alder med få år igjen til uttak av pensjon, skal pensjonsinnretningen gi råd om risikoreduserende tiltak. En skriftlig sammenfatning av de opplysninger og råd som pensjonsinnretningen gir etter leddet her, skal sendes fripoliseinnehaveren. Kongen kan gi nærmere regler om pliktig informasjon og rådgivning i forskrift.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Pensjonsinnretningen har plikt til å kartlegge fripoliseinnehaverens behov og ønske om risiko og til å opplyse om eventuelle forhold som tilsier at en avtale om forvaltning av fripolisen i en egen investeringsportefølje ikke vil være i fripoliseinnehaverens interesse. Før det inngås avtale om utstedelse av fripolise tilordnet en egen investeringsportefølje, skal pensjonsinnretningen i alle tilfelle gi fripoliseinnehaveren råd om sammensetningen av investeringsporteføljen tilpasset blant annet gjenstående tid til uttak av alderspensjon og størrelsen av midlene knyttet til fripolisen. Når fripoliseinnehaveren har nådd en alder med få år igjen til uttak av pensjon, skal pensjonsinnretningen gi råd om risikoreduserende tiltak. En skriftlig sammenfatning av de opplysninger og råd som pensjonsinnretningen gir etter leddet her, skal sendes fripoliseinnehaveren. Kongen kan gi nærmere regler om pliktig informasjon og rådgivning i forskrift.</td></tr>",
         "text": "(6) Pensjonsinnretningen har plikt til å kartlegge fripoliseinnehaverens behov og ønske om risiko og til å opplyse om eventuelle forhold som tilsier at en avtale om forvaltning av fripolisen i en egen investeringsportefølje ikke vil være i fripoliseinnehaverens interesse. Før det inngås avtale om utstedelse av fripolise tilordnet en egen investeringsportefølje, skal pensjonsinnretningen i alle tilfelle gi fripoliseinnehaveren råd om sammensetningen av investeringsporteføljen tilpasset blant annet gjenstående tid til uttak av alderspensjon og størrelsen av midlene knyttet til fripolisen. Når fripoliseinnehaveren har nådd en alder med få år igjen til uttak av pensjon, skal pensjonsinnretningen gi råd om risikoreduserende tiltak. En skriftlig sammenfatning av de opplysninger og råd som pensjonsinnretningen gir etter leddet her, skal sendes fripoliseinnehaveren. Kongen kan gi nærmere regler om pliktig informasjon og rådgivning i forskrift."
     },
     {
@@ -236,13 +236,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Er det utstedt fripolise med kontraktsfastsatte ytelser, kan fripoliseinnehaveren og pensjonsinnretningen avtale at midler som angitt i tredje punktum skal forvaltes som en egen investeringsportefølje tilordnet fripolisen. Avtalen skal angi hvordan porteføljen skal settes sammen og hvilken adgang fripoliseinnehaveren har til å endre sammensetningen. En slik avtale kan bare omfatte midler tilsvarende premiereserven knyttet til alderspensjon med tilhørende tilleggsavsetninger og administrasjonsreserve knyttet til fripolisen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Er det utstedt fripolise med kontraktsfastsatte ytelser, kan fripoliseinnehaveren og pensjonsinnretningen avtale at midler som angitt i tredje punktum skal forvaltes som en egen investeringsportefølje tilordnet fripolisen. Avtalen skal angi hvordan porteføljen skal settes sammen og hvilken adgang fripoliseinnehaveren har til å endre sammensetningen. En slik avtale kan bare omfatte midler tilsvarende premiereserven knyttet til alderspensjon med tilhørende tilleggsavsetninger og administrasjonsreserve knyttet til fripolisen.</td></tr>",
         "text": "(1) Er det utstedt fripolise med kontraktsfastsatte ytelser, kan fripoliseinnehaveren og pensjonsinnretningen avtale at midler som angitt i tredje punktum skal forvaltes som en egen investeringsportefølje tilordnet fripolisen. Avtalen skal angi hvordan porteføljen skal settes sammen og hvilken adgang fripoliseinnehaveren har til å endre sammensetningen. En slik avtale kan bare omfatte midler tilsvarende premiereserven knyttet til alderspensjon med tilhørende tilleggsavsetninger og administrasjonsreserve knyttet til fripolisen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i <a data-id=\"lov/2000-03-24-16/§4-7a\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7a\">§ 4-7 a</a> annet til sjette ledd gjelder tilsvarende for en fripolise utstedt etter paragrafen her.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i <a data-id=\"lov/2000-03-24-16/§4-7a\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7a\">§ 4-7 a</a> annet til sjette ledd gjelder tilsvarende for en fripolise utstedt etter paragrafen her.</td></tr>",
         "text": "(2) Bestemmelsene i § 4-7 a annet til sjette ledd gjelder tilsvarende for en fripolise utstedt etter paragrafen her."
     },
     {
@@ -254,7 +254,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Det kan fastsettes i regelverket at alderspensjon skal opphøre eller settes ned ved fylte 77 år eller senere, men ikke i noe tilfelle før alderspensjon har vært utbetalt minst i 10 år. Utbetalingstiden for opphørende ytelser kan settes ned til det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. Medlemmet og pensjonsinnretningen kan avtale at livsvarige ytelser endres til opphørende ytelser i det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. Ved omregning etter annet og tredje punktum gjelder <a data-id=\"lov/2000-03-24-16/§5-6\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A75-6\">§ 5-6</a> annet ledd annet punktum tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Det kan fastsettes i regelverket at alderspensjon skal opphøre eller settes ned ved fylte 77 år eller senere, men ikke i noe tilfelle før alderspensjon har vært utbetalt minst i 10 år. Utbetalingstiden for opphørende ytelser kan settes ned til det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. Medlemmet og pensjonsinnretningen kan avtale at livsvarige ytelser endres til opphørende ytelser i det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. Ved omregning etter annet og tredje punktum gjelder <a data-id=\"lov/2000-03-24-16/§5-6\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A75-6\">§ 5-6</a> annet ledd annet punktum tilsvarende.</td></tr>",
         "text": "(2) Det kan fastsettes i regelverket at alderspensjon skal opphøre eller settes ned ved fylte 77 år eller senere, men ikke i noe tilfelle før alderspensjon har vært utbetalt minst i 10 år. Utbetalingstiden for opphørende ytelser kan settes ned til det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. Medlemmet og pensjonsinnretningen kan avtale at livsvarige ytelser endres til opphørende ytelser i det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. Ved omregning etter annet og tredje punktum gjelder § 5-6 annet ledd annet punktum tilsvarende."
     },
     {
@@ -266,7 +266,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> For livsvarige ytelser kan regelverket fastsette at pensjonens løpetid skal settes ned til det antall hele år som er nødvendig for at årlig pensjon kommer opp på et nivå tilsvarende om lag 30 prosent av folketrygdens grunnbeløp.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> For livsvarige ytelser kan regelverket fastsette at pensjonens løpetid skal settes ned til det antall hele år som er nødvendig for at årlig pensjon kommer opp på et nivå tilsvarende om lag 30 prosent av folketrygdens grunnbeløp.</td></tr>",
         "text": "(2) For livsvarige ytelser kan regelverket fastsette at pensjonens løpetid skal settes ned til det antall hele år som er nødvendig for at årlig pensjon kommer opp på et nivå tilsvarende om lag 30 prosent av folketrygdens grunnbeløp."
     },
     {
@@ -290,7 +290,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Når medlemmet slutter i foretaket med rett til straks begynnende alderspensjon, skal rett til opptjent pensjon med tilhørende premiereserve og en forholdsmessig andel av tilleggsavsetninger sikres ved fripolise etter reglene i <a data-id=\"lov/2000-03-24-16/§4-7\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7\">§§ 4-7</a> til <a data-id=\"lov/2000-03-24-16/§4-10\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-10\">4-10</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Når medlemmet slutter i foretaket med rett til straks begynnende alderspensjon, skal rett til opptjent pensjon med tilhørende premiereserve og en forholdsmessig andel av tilleggsavsetninger sikres ved fripolise etter reglene i <a data-id=\"lov/2000-03-24-16/§4-7\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-7\">§§ 4-7</a> til <a data-id=\"lov/2000-03-24-16/§4-10\" class=\" reference\" href=\"/lov/2000-03-24-16/%C2%A74-10\">4-10</a>.</td></tr>",
         "text": "(5) Når medlemmet slutter i foretaket med rett til straks begynnende alderspensjon, skal rett til opptjent pensjon med tilhørende premiereserve og en forholdsmessig andel av tilleggsavsetninger sikres ved fripolise etter reglene i §§ 4-7 til 4-10."
     },
     {

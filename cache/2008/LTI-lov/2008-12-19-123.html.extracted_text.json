@@ -14,25 +14,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1948-12-03-7\" class=\" reference\" href=\"/lov/1948-12-03-7\">Lov 3. desember 1948 nr. 7</a> om pensjonstrygd for sjømenn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1948-12-03-7\" class=\" reference\" href=\"/lov/1948-12-03-7\">Lov 3. desember 1948 nr. 7</a> om pensjonstrygd for sjømenn.</td></tr>",
         "text": "1\tLov 3. desember 1948 nr. 7 om pensjonstrygd for sjømenn."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sjømannslov <a data-id=\"lov/1975-05-30-18\" class=\" reference\" href=\"/lov/1975-05-30-18\">30. mai 1975 nr. 18</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sjømannslov <a data-id=\"lov/1975-05-30-18\" class=\" reference\" href=\"/lov/1975-05-30-18\">30. mai 1975 nr. 18</a>.</td></tr>",
         "text": "2\tSjømannslov 30. mai 1975 nr. 18."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td></tr>",
         "text": "3\tLov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2007-02-16-9\" class=\" reference\" href=\"/lov/2007-02-16-9\">Lov 16. februar 2007 nr. 9</a> om skipssikkerhet (skipssikkerhetsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2007-02-16-9\" class=\" reference\" href=\"/lov/2007-02-16-9\">Lov 16. februar 2007 nr. 9</a> om skipssikkerhet (skipssikkerhetsloven).</td></tr>",
         "text": "4\tLov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven)."
     },
     {
@@ -92,19 +92,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i Norges territorialfarvann, herunder ved Svalbard og Jan Mayen</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">i Norges territorialfarvann, herunder ved Svalbard og Jan Mayen</td></tr>",
         "text": "a)\ti Norges territorialfarvann, herunder ved Svalbard og Jan Mayen"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i Norges økonomiske sone</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">i Norges økonomiske sone</td></tr>",
         "text": "b)\ti Norges økonomiske sone"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på norsk kontinentalsokkel.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">på norsk kontinentalsokkel.</td></tr>",
         "text": "c)\tpå norsk kontinentalsokkel."
     },
     {
@@ -284,31 +284,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke skip som skal være utstyrt med sertifikat</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke skip som skal være utstyrt med sertifikat</td></tr>",
         "text": "a)\thvilke skip som skal være utstyrt med sertifikat"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utstedelse, gyldighet og vilkår</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utstedelse, gyldighet og vilkår</td></tr>",
         "text": "b)\tutstedelse, gyldighet og vilkår"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erklæring om samsvar med ILO konvensjon 186</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">erklæring om samsvar med ILO konvensjon 186</td></tr>",
         "text": "c)\terklæring om samsvar med ILO konvensjon 186"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">adgang til å fravike kravene i første og annet ledd</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">adgang til å fravike kravene i første og annet ledd</td></tr>",
         "text": "d)\tadgang til å fravike kravene i første og annet ledd"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">anerkjennelse av utenlandske sertifikater.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">anerkjennelse av utenlandske sertifikater.</td></tr>",
         "text": "e)\tanerkjennelse av utenlandske sertifikater."
     },
     {
@@ -386,19 +386,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hyppighet, innhold og omfang av tilsynet, herunder besiktelse,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hyppighet, innhold og omfang av tilsynet, herunder besiktelse,</td></tr>",
         "text": "a)\thyppighet, innhold og omfang av tilsynet, herunder besiktelse,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den praktiske gjennomføringen av tilsynet, herunder besiktelse,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den praktiske gjennomføringen av tilsynet, herunder besiktelse,</td></tr>",
         "text": "b)\tden praktiske gjennomføringen av tilsynet, herunder besiktelse,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett for den som har sitt arbeid om bord til å kreve tilsyn, herunder besiktelse.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">rett for den som har sitt arbeid om bord til å kreve tilsyn, herunder besiktelse.</td></tr>",
         "text": "c)\trett for den som har sitt arbeid om bord til å kreve tilsyn, herunder besiktelse."
     },
     {
@@ -470,13 +470,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hyppigheten, innholdet og omfanget av tilsynet</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hyppigheten, innholdet og omfanget av tilsynet</td></tr>",
         "text": "a)\thyppigheten, innholdet og omfanget av tilsynet"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den praktiske gjennomføringen av tilsynet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den praktiske gjennomføringen av tilsynet.</td></tr>",
         "text": "b)\tden praktiske gjennomføringen av tilsynet."
     },
     {
@@ -590,19 +590,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger brudd på bestemmelser i loven eller forskrifter gitt i medhold av den, som tilsynsmyndigheten ser som alvorlig brudd, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger brudd på bestemmelser i loven eller forskrifter gitt i medhold av den, som tilsynsmyndigheten ser som alvorlig brudd, eller</td></tr>",
         "text": "a)\tdet foreligger brudd på bestemmelser i loven eller forskrifter gitt i medhold av den, som tilsynsmyndigheten ser som alvorlig brudd, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rederiet eller noen i dets tjeneste hindrer tilsynsmyndigheten i å gå om bord i skipet for å foreta tilsyn eller ikke etterkommer påbud etter § 58, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">rederiet eller noen i dets tjeneste hindrer tilsynsmyndigheten i å gå om bord i skipet for å foreta tilsyn eller ikke etterkommer påbud etter § 58, eller</td></tr>",
         "text": "b)\trederiet eller noen i dets tjeneste hindrer tilsynsmyndigheten i å gå om bord i skipet for å foreta tilsyn eller ikke etterkommer påbud etter § 58, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skipet ikke har nødvendige sertifikater om bord.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skipet ikke har nødvendige sertifikater om bord.</td></tr>",
         "text": "c)\tskipet ikke har nødvendige sertifikater om bord."
     },
     {
@@ -698,13 +698,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gi full trygdedekning etter loven, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">gi full trygdedekning etter loven, eller</td></tr>",
         "text": "a)\tgi full trygdedekning etter loven, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omfatte stønad ved helsetjenester etter <a data-id=\"lov/1997-02-28-19/kap5\" class=\" reference\" href=\"/lov/1997-02-28-19/kap5\">kapittel 5</a>, sykepenger etter <a data-id=\"lov/1997-02-28-19/kap8\" class=\" reference\" href=\"/lov/1997-02-28-19/kap8\">kapittel 8</a>, stønad ved barns og andre nære pårørendes sykdom etter <a data-id=\"lov/1997-02-28-19/kap9\" class=\" reference\" href=\"/lov/1997-02-28-19/kap9\">kapittel 9</a> og ytelser ved svangerskap, fødsel og adopsjon etter <a data-id=\"lov/1997-02-28-19/kap14\" class=\" reference\" href=\"/lov/1997-02-28-19/kap14\">kapittel 14</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">omfatte stønad ved helsetjenester etter <a data-id=\"lov/1997-02-28-19/kap5\" class=\" reference\" href=\"/lov/1997-02-28-19/kap5\">kapittel 5</a>, sykepenger etter <a data-id=\"lov/1997-02-28-19/kap8\" class=\" reference\" href=\"/lov/1997-02-28-19/kap8\">kapittel 8</a>, stønad ved barns og andre nære pårørendes sykdom etter <a data-id=\"lov/1997-02-28-19/kap9\" class=\" reference\" href=\"/lov/1997-02-28-19/kap9\">kapittel 9</a> og ytelser ved svangerskap, fødsel og adopsjon etter <a data-id=\"lov/1997-02-28-19/kap14\" class=\" reference\" href=\"/lov/1997-02-28-19/kap14\">kapittel 14</a>.</td></tr>",
         "text": "b)\tomfatte stønad ved helsetjenester etter kapittel 5, sykepenger etter kapittel 8, stønad ved barns og andre nære pårørendes sykdom etter kapittel 9 og ytelser ved svangerskap, fødsel og adopsjon etter kapittel 14."
     },
     {

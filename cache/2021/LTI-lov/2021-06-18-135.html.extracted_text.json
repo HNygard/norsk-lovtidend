@@ -58,13 +58,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eide et anlegg for hold av pelsdyr som tilfredsstilte gjeldende forskriftskrav pr. 15. januar 2018, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eide et anlegg for hold av pelsdyr som tilfredsstilte gjeldende forskriftskrav pr. 15. januar 2018, og</td></tr>",
         "text": "a)\teide et anlegg for hold av pelsdyr som tilfredsstilte gjeldende forskriftskrav pr. 15. januar 2018, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">holdt pelsdyr etter 1. januar 2015.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">holdt pelsdyr etter 1. januar 2015.</td></tr>",
         "text": "b)\tholdt pelsdyr etter 1. januar 2015."
     },
     {
@@ -176,25 +176,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">frister for å søke om kompensasjon eller tilskudd</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">frister for å søke om kompensasjon eller tilskudd</td></tr>",
         "text": "a)\tfrister for å søke om kompensasjon eller tilskudd"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltningen av kompensasjons- og tilskuddsordninger</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltningen av kompensasjons- og tilskuddsordninger</td></tr>",
         "text": "b)\tforvaltningen av kompensasjons- og tilskuddsordninger"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysnings- og bistandsplikt for oppdrettere i forbindelse med søknader om kompensasjon eller tilskudd</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysnings- og bistandsplikt for oppdrettere i forbindelse med søknader om kompensasjon eller tilskudd</td></tr>",
         "text": "c)\topplysnings- og bistandsplikt for oppdrettere i forbindelse med søknader om kompensasjon eller tilskudd"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilbakebetalingsplikt dersom det er gitt feil eller mangelfulle opplysninger, og om foreldelsesfrist for tilbakebetalingskrav</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilbakebetalingsplikt dersom det er gitt feil eller mangelfulle opplysninger, og om foreldelsesfrist for tilbakebetalingskrav</td></tr>",
         "text": "d)\ttilbakebetalingsplikt dersom det er gitt feil eller mangelfulle opplysninger, og om foreldelsesfrist for tilbakebetalingskrav"
     },
     {
@@ -212,7 +212,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "§ 6 skal lyde:",
+        "html": "<a data-id=\"lov/2019-06-21-63/§6\" class=\" reference\" href=\"/lov/2019-06-21-63/%C2%A76\">§ 6</a> skal lyde:",
         "text": "§ 6 skal lyde:"
     },
     null,
@@ -238,7 +238,7 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "Nåværende <a data-id=\"lov/2019-06-21-63/§5\" class=\" reference\" href=\"/lov/2019-06-21-63/%C2%A75\">§ 5</a> blir ny § 7.",
+        "html": "Nåværende <a data-id=\"lov/2019-06-21-63/§5\" class=\" reference\" href=\"/lov/2019-06-21-63/%C2%A75\">§ 5</a> blir ny <a data-id=\"lov/2019-06-21-63/§7\" class=\" reference\" href=\"/lov/2019-06-21-63/%C2%A77\">§ 7</a>.",
         "text": "Nåværende § 5 blir ny § 7."
     },
     {

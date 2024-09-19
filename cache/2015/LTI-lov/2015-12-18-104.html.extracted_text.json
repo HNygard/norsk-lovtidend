@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1918-05-31-4\" class=\" reference\" href=\"/lov/1918-05-31-4\">Lov 31. mai 1918 nr. 4</a> om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1918-05-31-4\" class=\" reference\" href=\"/lov/1918-05-31-4\">Lov 31. mai 1918 nr. 4</a> om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer.</td></tr>",
         "text": "1\tLov 31. mai 1918 nr. 4 om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).</td></tr>",
         "text": "2\tLov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)."
     },
     {
@@ -74,37 +74,37 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Med konkurranseklausul menes i dette kapittel avtale mellom arbeidsgiver og arbeidstaker som begrenser arbeidstakers adgang til å tiltre stilling hos en annen arbeidsgiver eller starte, drive eller delta i annen virksomhet etter arbeidsforholdets opphør.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Med konkurranseklausul menes i dette kapittel avtale mellom arbeidsgiver og arbeidstaker som begrenser arbeidstakers adgang til å tiltre stilling hos en annen arbeidsgiver eller starte, drive eller delta i annen virksomhet etter arbeidsforholdets opphør.</td></tr>",
         "text": "(1) Med konkurranseklausul menes i dette kapittel avtale mellom arbeidsgiver og arbeidstaker som begrenser arbeidstakers adgang til å tiltre stilling hos en annen arbeidsgiver eller starte, drive eller delta i annen virksomhet etter arbeidsforholdets opphør."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> En konkurranseklausul kan bare gjøres gjeldende så langt det er nødvendig for å ivareta arbeidsgivers særlige behov for vern mot konkurranse. Klausulen kan ikke i noe tilfelle gjøres gjeldende lenger enn ett år fra opphør av arbeidsforholdet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> En konkurranseklausul kan bare gjøres gjeldende så langt det er nødvendig for å ivareta arbeidsgivers særlige behov for vern mot konkurranse. Klausulen kan ikke i noe tilfelle gjøres gjeldende lenger enn ett år fra opphør av arbeidsforholdet.</td></tr>",
         "text": "(2) En konkurranseklausul kan bare gjøres gjeldende så langt det er nødvendig for å ivareta arbeidsgivers særlige behov for vern mot konkurranse. Klausulen kan ikke i noe tilfelle gjøres gjeldende lenger enn ett år fra opphør av arbeidsforholdet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Konkurranseklausul må inngås skriftlig for å være gyldig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Konkurranseklausul må inngås skriftlig for å være gyldig.</td></tr>",
         "text": "(3) Konkurranseklausul må inngås skriftlig for å være gyldig."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> En konkurranseklausul kan ikke gjøres gjeldende ved oppsigelse fra arbeidsgiver, med mindre oppsigelsen er saklig begrunnet i arbeidstakers forhold. Det samme gjelder dersom arbeidsgiver på grunn av mislighold av forpliktelser i arbeidsforholdet har gitt arbeidstaker rimelig grunn til å avslutte arbeidsforholdet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> En konkurranseklausul kan ikke gjøres gjeldende ved oppsigelse fra arbeidsgiver, med mindre oppsigelsen er saklig begrunnet i arbeidstakers forhold. Det samme gjelder dersom arbeidsgiver på grunn av mislighold av forpliktelser i arbeidsforholdet har gitt arbeidstaker rimelig grunn til å avslutte arbeidsforholdet.</td></tr>",
         "text": "(4) En konkurranseklausul kan ikke gjøres gjeldende ved oppsigelse fra arbeidsgiver, med mindre oppsigelsen er saklig begrunnet i arbeidstakers forhold. Det samme gjelder dersom arbeidsgiver på grunn av mislighold av forpliktelser i arbeidsforholdet har gitt arbeidstaker rimelig grunn til å avslutte arbeidsforholdet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Arbeidsgiver kan på ethvert tidspunkt mens arbeidsforholdet består, skriftlig si opp en konkurranseklausul. Oppsigelse kan likevel ikke skje i den perioden arbeidsgiver er bundet av redegjørelse etter <a data-id=\"lov/2005-06-17-62/§14\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A714\">§ 14</a> A-2 femte ledd. Etter arbeidsforholdets opphør kan arbeidsgiver og arbeidstaker inngå skriftlig avtale om at en konkurranseklausul ikke lenger skal gjelde.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Arbeidsgiver kan på ethvert tidspunkt mens arbeidsforholdet består, skriftlig si opp en konkurranseklausul. Oppsigelse kan likevel ikke skje i den perioden arbeidsgiver er bundet av redegjørelse etter <a data-id=\"lov/2005-06-17-62/§14\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A714\">§ 14</a> A-2 femte ledd. Etter arbeidsforholdets opphør kan arbeidsgiver og arbeidstaker inngå skriftlig avtale om at en konkurranseklausul ikke lenger skal gjelde.</td></tr>",
         "text": "(5) Arbeidsgiver kan på ethvert tidspunkt mens arbeidsforholdet består, skriftlig si opp en konkurranseklausul. Oppsigelse kan likevel ikke skje i den perioden arbeidsgiver er bundet av redegjørelse etter § 14 A-2 femte ledd. Etter arbeidsforholdets opphør kan arbeidsgiver og arbeidstaker inngå skriftlig avtale om at en konkurranseklausul ikke lenger skal gjelde."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> En konkurranseklausul faller bort dersom kravet til redegjørelse etter <a data-id=\"lov/2005-06-17-62/§14\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A714\">§ 14</a> A-2 ikke blir oppfylt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> En konkurranseklausul faller bort dersom kravet til redegjørelse etter <a data-id=\"lov/2005-06-17-62/§14\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A714\">§ 14</a> A-2 ikke blir oppfylt.</td></tr>",
         "text": "(6) En konkurranseklausul faller bort dersom kravet til redegjørelse etter § 14 A-2 ikke blir oppfylt."
     },
     {
@@ -116,31 +116,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Ved skriftlig forespørsel fra arbeidstaker skal arbeidsgiver innen fire uker gi en skriftlig redegjørelse for om og i hvilken grad en konkurranseklausul vil bli gjort gjeldende. Arbeidsgivers særlige behov for vern mot konkurranse skal i tilfelle fremgå av redegjørelsen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Ved skriftlig forespørsel fra arbeidstaker skal arbeidsgiver innen fire uker gi en skriftlig redegjørelse for om og i hvilken grad en konkurranseklausul vil bli gjort gjeldende. Arbeidsgivers særlige behov for vern mot konkurranse skal i tilfelle fremgå av redegjørelsen.</td></tr>",
         "text": "(1) Ved skriftlig forespørsel fra arbeidstaker skal arbeidsgiver innen fire uker gi en skriftlig redegjørelse for om og i hvilken grad en konkurranseklausul vil bli gjort gjeldende. Arbeidsgivers særlige behov for vern mot konkurranse skal i tilfelle fremgå av redegjørelsen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Dersom arbeidstakeren sier opp, og det ikke allerede foreligger en bindende redegjørelse, skal oppsigelsen ha samme virkning som en skriftlig forespørsel etter første ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Dersom arbeidstakeren sier opp, og det ikke allerede foreligger en bindende redegjørelse, skal oppsigelsen ha samme virkning som en skriftlig forespørsel etter første ledd.</td></tr>",
         "text": "(2) Dersom arbeidstakeren sier opp, og det ikke allerede foreligger en bindende redegjørelse, skal oppsigelsen ha samme virkning som en skriftlig forespørsel etter første ledd."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Dersom arbeidsgiveren sier opp arbeidstakeren, og det ikke allerede foreligger en bindende redegjørelse, skal det gis redegjørelse samtidig med oppsigelsen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Dersom arbeidsgiveren sier opp arbeidstakeren, og det ikke allerede foreligger en bindende redegjørelse, skal det gis redegjørelse samtidig med oppsigelsen.</td></tr>",
         "text": "(3) Dersom arbeidsgiveren sier opp arbeidstakeren, og det ikke allerede foreligger en bindende redegjørelse, skal det gis redegjørelse samtidig med oppsigelsen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Dersom arbeidsgiveren avskjediger arbeidstakeren, og det ikke allerede foreligger en bindende redegjørelse, skal det gis redegjørelse innen en uke etter avskjeden.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Dersom arbeidsgiveren avskjediger arbeidstakeren, og det ikke allerede foreligger en bindende redegjørelse, skal det gis redegjørelse innen en uke etter avskjeden.</td></tr>",
         "text": "(4) Dersom arbeidsgiveren avskjediger arbeidstakeren, og det ikke allerede foreligger en bindende redegjørelse, skal det gis redegjørelse innen en uke etter avskjeden."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Redegjørelse etter denne paragrafen er bindende for arbeidsgiver i tre måneder. Ved oppsigelse er redegjørelsen uansett bindende ut oppsigelsestiden.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Redegjørelse etter denne paragrafen er bindende for arbeidsgiver i tre måneder. Ved oppsigelse er redegjørelsen uansett bindende ut oppsigelsestiden.</td></tr>",
         "text": "(5) Redegjørelse etter denne paragrafen er bindende for arbeidsgiver i tre måneder. Ved oppsigelse er redegjørelsen uansett bindende ut oppsigelsestiden."
     },
     {
@@ -152,19 +152,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Dersom en konkurranseklausul gjøres gjeldende, skal arbeidsgiver betale arbeidstakeren kompensasjon tilsvarende 100 prosent av arbeidstakerens arbeidsvederlag opp til 8 G, og deretter minst 70 prosent av arbeidstakerens arbeidsvederlag over 8 G. Kompensasjonen beregnes på grunnlag av opptjent arbeidsvederlag de siste 12 månedene før oppsigelses- eller avskjedstidspunktet. Kompensasjonen kan begrenses til 12 ganger folketrygdens grunnbeløp.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Dersom en konkurranseklausul gjøres gjeldende, skal arbeidsgiver betale arbeidstakeren kompensasjon tilsvarende 100 prosent av arbeidstakerens arbeidsvederlag opp til 8 G, og deretter minst 70 prosent av arbeidstakerens arbeidsvederlag over 8 G. Kompensasjonen beregnes på grunnlag av opptjent arbeidsvederlag de siste 12 månedene før oppsigelses- eller avskjedstidspunktet. Kompensasjonen kan begrenses til 12 ganger folketrygdens grunnbeløp.</td></tr>",
         "text": "(1) Dersom en konkurranseklausul gjøres gjeldende, skal arbeidsgiver betale arbeidstakeren kompensasjon tilsvarende 100 prosent av arbeidstakerens arbeidsvederlag opp til 8 G, og deretter minst 70 prosent av arbeidstakerens arbeidsvederlag over 8 G. Kompensasjonen beregnes på grunnlag av opptjent arbeidsvederlag de siste 12 månedene før oppsigelses- eller avskjedstidspunktet. Kompensasjonen kan begrenses til 12 ganger folketrygdens grunnbeløp."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Det kan gjøres fradrag med inntil halvparten av kompensasjonen for arbeidsvederlag eller arbeidsinntekt som arbeidstaker mottar eller opptjener i perioden konkurranseklausulen har virkning.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Det kan gjøres fradrag med inntil halvparten av kompensasjonen for arbeidsvederlag eller arbeidsinntekt som arbeidstaker mottar eller opptjener i perioden konkurranseklausulen har virkning.</td></tr>",
         "text": "(2) Det kan gjøres fradrag med inntil halvparten av kompensasjonen for arbeidsvederlag eller arbeidsinntekt som arbeidstaker mottar eller opptjener i perioden konkurranseklausulen har virkning."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Arbeidsgiver kan kreve at arbeidstaker opplyser om arbeidsvederlag eller arbeidsinntekter i perioden. Dersom arbeidstaker ikke etterkommer kravet, kan arbeidsgiver holde tilbake kompensasjon inntil opplysningene legges fram.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Arbeidsgiver kan kreve at arbeidstaker opplyser om arbeidsvederlag eller arbeidsinntekter i perioden. Dersom arbeidstaker ikke etterkommer kravet, kan arbeidsgiver holde tilbake kompensasjon inntil opplysningene legges fram.</td></tr>",
         "text": "(3) Arbeidsgiver kan kreve at arbeidstaker opplyser om arbeidsvederlag eller arbeidsinntekter i perioden. Dersom arbeidstaker ikke etterkommer kravet, kan arbeidsgiver holde tilbake kompensasjon inntil opplysningene legges fram."
     },
     {
@@ -176,19 +176,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Med kundeklausul menes i dette kapittel avtale mellom arbeidsgiver og arbeidstaker som begrenser arbeidstakers adgang til å kontakte arbeidsgivers kunder etter arbeidsforholdets opphør.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Med kundeklausul menes i dette kapittel avtale mellom arbeidsgiver og arbeidstaker som begrenser arbeidstakers adgang til å kontakte arbeidsgivers kunder etter arbeidsforholdets opphør.</td></tr>",
         "text": "(1) Med kundeklausul menes i dette kapittel avtale mellom arbeidsgiver og arbeidstaker som begrenser arbeidstakers adgang til å kontakte arbeidsgivers kunder etter arbeidsforholdets opphør."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> En kundeklausul kan bare omfatte kunder som arbeidstaker har hatt kontakt med eller ansvar for det siste året før redegjørelse som nevnt i tredje ledd. Klausulen kan ikke i noe tilfelle gjøres gjeldende lenger enn ett år fra opphør av arbeidsforholdet. <a data-id=\"lov/2005-06-17-62/§14\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A714\">§ 14</a> A-1 tredje til sjette ledd gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> En kundeklausul kan bare omfatte kunder som arbeidstaker har hatt kontakt med eller ansvar for det siste året før redegjørelse som nevnt i tredje ledd. Klausulen kan ikke i noe tilfelle gjøres gjeldende lenger enn ett år fra opphør av arbeidsforholdet. <a data-id=\"lov/2005-06-17-62/§14\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A714\">§ 14</a> A-1 tredje til sjette ledd gjelder tilsvarende.</td></tr>",
         "text": "(2) En kundeklausul kan bare omfatte kunder som arbeidstaker har hatt kontakt med eller ansvar for det siste året før redegjørelse som nevnt i tredje ledd. Klausulen kan ikke i noe tilfelle gjøres gjeldende lenger enn ett år fra opphør av arbeidsforholdet. § 14 A-1 tredje til sjette ledd gjelder tilsvarende."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Ved skriftlig forespørsel fra arbeidstaker skal arbeidsgiver innen fire uker gi en skriftlig redegjørelse for om og i hvilken grad en kundeklausul vil bli gjort gjeldende. Redegjørelsen skal i tilfelle angi hvilke kunder som skal omfattes av kundeklausulen. <a data-id=\"lov/2005-06-17-62/§14\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A714\">§ 14</a> A-2 andre til femte ledd gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Ved skriftlig forespørsel fra arbeidstaker skal arbeidsgiver innen fire uker gi en skriftlig redegjørelse for om og i hvilken grad en kundeklausul vil bli gjort gjeldende. Redegjørelsen skal i tilfelle angi hvilke kunder som skal omfattes av kundeklausulen. <a data-id=\"lov/2005-06-17-62/§14\" class=\" reference\" href=\"/lov/2005-06-17-62/%C2%A714\">§ 14</a> A-2 andre til femte ledd gjelder tilsvarende.</td></tr>",
         "text": "(3) Ved skriftlig forespørsel fra arbeidstaker skal arbeidsgiver innen fire uker gi en skriftlig redegjørelse for om og i hvilken grad en kundeklausul vil bli gjort gjeldende. Redegjørelsen skal i tilfelle angi hvilke kunder som skal omfattes av kundeklausulen. § 14 A-2 andre til femte ledd gjelder tilsvarende."
     },
     {
@@ -212,13 +212,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Med rekrutteringsklausul menes i dette kapittel avtale mellom arbeidsgiver og andre virksomheter som hindrer eller begrenser arbeidstakers muligheter til å ta ansettelse i annen virksomhet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Med rekrutteringsklausul menes i dette kapittel avtale mellom arbeidsgiver og andre virksomheter som hindrer eller begrenser arbeidstakers muligheter til å ta ansettelse i annen virksomhet.</td></tr>",
         "text": "(1) Med rekrutteringsklausul menes i dette kapittel avtale mellom arbeidsgiver og andre virksomheter som hindrer eller begrenser arbeidstakers muligheter til å ta ansettelse i annen virksomhet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Arbeidsgiver kan ikke inngå rekrutteringsklausul. En rekrutteringsklausul kan likevel inngås ved forhandlinger om virksomhetsoverdragelse, og gjøres gjeldende under forhandlingene og i inntil seks måneder etter at forhandlingene er avsluttet, dersom disse ikke fører frem. En rekrutteringsklausul kan også inngås fra tidspunktet for virksomhetsoverdragelsen og gjøres gjeldende i inntil seks måneder, dersom arbeidsgiver skriftlig har informert alle berørte arbeidstakere.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Arbeidsgiver kan ikke inngå rekrutteringsklausul. En rekrutteringsklausul kan likevel inngås ved forhandlinger om virksomhetsoverdragelse, og gjøres gjeldende under forhandlingene og i inntil seks måneder etter at forhandlingene er avsluttet, dersom disse ikke fører frem. En rekrutteringsklausul kan også inngås fra tidspunktet for virksomhetsoverdragelsen og gjøres gjeldende i inntil seks måneder, dersom arbeidsgiver skriftlig har informert alle berørte arbeidstakere.</td></tr>",
         "text": "(2) Arbeidsgiver kan ikke inngå rekrutteringsklausul. En rekrutteringsklausul kan likevel inngås ved forhandlinger om virksomhetsoverdragelse, og gjøres gjeldende under forhandlingene og i inntil seks måneder etter at forhandlingene er avsluttet, dersom disse ikke fører frem. En rekrutteringsklausul kan også inngås fra tidspunktet for virksomhetsoverdragelsen og gjøres gjeldende i inntil seks måneder, dersom arbeidsgiver skriftlig har informert alle berørte arbeidstakere."
     },
     {

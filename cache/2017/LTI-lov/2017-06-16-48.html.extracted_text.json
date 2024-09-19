@@ -26,25 +26,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1991-07-04-47\" class=\" reference\" href=\"/lov/1991-07-04-47\">Lov 4. juli 1991 nr. 47</a> om ekteskap.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1991-07-04-47\" class=\" reference\" href=\"/lov/1991-07-04-47\">Lov 4. juli 1991 nr. 47</a> om ekteskap.</td></tr>",
         "text": "1\tLov 4. juli 1991 nr. 47 om ekteskap."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1992-07-17-100\" class=\" reference\" href=\"/lov/1992-07-17-100\">Lov 17. juli 1992 nr. 100</a> om barneverntjenester (barnevernloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1992-07-17-100\" class=\" reference\" href=\"/lov/1992-07-17-100\">Lov 17. juli 1992 nr. 100</a> om barneverntjenester (barnevernloven).</td></tr>",
         "text": "2\tLov 17. juli 1992 nr. 100 om barneverntjenester (barnevernloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2002-06-07-19\" class=\" reference\" href=\"/lov/2002-06-07-19\">Lov 7. juni 2002 nr. 19</a> om personnavn (navneloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2002-06-07-19\" class=\" reference\" href=\"/lov/2002-06-07-19\">Lov 7. juni 2002 nr. 19</a> om personnavn (navneloven).</td></tr>",
         "text": "3\tLov 7. juni 2002 nr. 19 om personnavn (navneloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-10-51\" class=\" reference\" href=\"/lov/2005-06-10-51\">Lov 10. juni 2005 nr. 51</a> om norsk statsborgerskap (statsborgerloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2005-06-10-51\" class=\" reference\" href=\"/lov/2005-06-10-51\">Lov 10. juni 2005 nr. 51</a> om norsk statsborgerskap (statsborgerloven).</td></tr>",
         "text": "4\tLov 10. juni 2005 nr. 51 om norsk statsborgerskap (statsborgerloven)."
     },
     {
@@ -212,19 +212,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">barn av søkerens tidligere eller nåværende ektefelle eller samboer</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">barn av søkerens tidligere eller nåværende ektefelle eller samboer</td></tr>",
         "text": "a)\tbarn av søkerens tidligere eller nåværende ektefelle eller samboer"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">søkerens eget barn</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">søkerens eget barn</td></tr>",
         "text": "b)\tsøkerens eget barn"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">søkerens tidligere adoptivbarn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">søkerens tidligere adoptivbarn.</td></tr>",
         "text": "c)\tsøkerens tidligere adoptivbarn."
     },
     null,
@@ -654,25 +654,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt</td></tr>",
         "text": "a)\tvilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted</td></tr>",
         "text": "b)\tminst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ingen norsk adopsjonsorganisasjon har formidlingstillatelse i det landet der barnet har sitt vanlige bosted</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ingen norsk adopsjonsorganisasjon har formidlingstillatelse i det landet der barnet har sitt vanlige bosted</td></tr>",
         "text": "c)\tingen norsk adopsjonsorganisasjon har formidlingstillatelse i det landet der barnet har sitt vanlige bosted"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">adopsjonen kan gjennomføres på en forsvarlig måte.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">adopsjonen kan gjennomføres på en forsvarlig måte.</td></tr>",
         "text": "d)\tadopsjonen kan gjennomføres på en forsvarlig måte."
     },
     null,
@@ -698,31 +698,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt</td></tr>",
         "text": "a)\tvilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted</td></tr>",
         "text": "b)\tminst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">minst én av søkerne har en nær personlig tilknytning til barnet eller barnets nære familie, og kontakten er etablert uten adopsjonshensikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">minst én av søkerne har en nær personlig tilknytning til barnet eller barnets nære familie, og kontakten er etablert uten adopsjonshensikt</td></tr>",
         "text": "c)\tminst én av søkerne har en nær personlig tilknytning til barnet eller barnets nære familie, og kontakten er etablert uten adopsjonshensikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnet mangler trygghet og faste omsorgspersoner i det landet der barnet har sitt vanlige bosted</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnet mangler trygghet og faste omsorgspersoner i det landet der barnet har sitt vanlige bosted</td></tr>",
         "text": "d)\tbarnet mangler trygghet og faste omsorgspersoner i det landet der barnet har sitt vanlige bosted"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">adopsjonen kan gjennomføres på en forsvarlig måte.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">adopsjonen kan gjennomføres på en forsvarlig måte.</td></tr>",
         "text": "e)\tadopsjonen kan gjennomføres på en forsvarlig måte."
     },
     null,
@@ -988,25 +988,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har adopsjonsformidling som hovedformål</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har adopsjonsformidling som hovedformål</td></tr>",
         "text": "a)\thar adopsjonsformidling som hovedformål"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeider for barnets beste</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeider for barnets beste</td></tr>",
         "text": "b)\tarbeider for barnets beste"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er ledet av og bemannet med personer som er kvalifisert til å arbeide med internasjonale adopsjoner</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er ledet av og bemannet med personer som er kvalifisert til å arbeide med internasjonale adopsjoner</td></tr>",
         "text": "c)\ter ledet av og bemannet med personer som er kvalifisert til å arbeide med internasjonale adopsjoner"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ikke har økonomisk vinning som formål.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ikke har økonomisk vinning som formål.</td></tr>",
         "text": "d)\tikke har økonomisk vinning som formål."
     },
     {

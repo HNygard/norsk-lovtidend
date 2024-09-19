@@ -14,19 +14,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1997-02-28-19\" class=\" reference\" href=\"/lov/1997-02-28-19\">Lov 28. februar 1997 nr. 19</a> om folketrygd (folketrygdloven).</td></tr>",
         "text": "1\tLov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2007-10-26-97\" class=\" reference\" href=\"/lov/2007-10-26-97\">Lov 26. oktober 2007 nr. 97</a> om endringer i sosialtjenesteloven og i enkelte andre lover.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2007-10-26-97\" class=\" reference\" href=\"/lov/2007-10-26-97\">Lov 26. oktober 2007 nr. 97</a> om endringer i sosialtjenesteloven og i enkelte andre lover.</td></tr>",
         "text": "2\tLov 26. oktober 2007 nr. 97 om endringer i sosialtjenesteloven og i enkelte andre lover."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2008-12-19-106\" class=\" reference\" href=\"/lov/2008-12-19-106\">Lov 19. desember 2008 nr. 106</a> om endringer i folketrygdloven og i enkelte andre lover (arbeidsavklaringspenger, arbeidsevnevurderinger og aktivitetsplaner).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2008-12-19-106\" class=\" reference\" href=\"/lov/2008-12-19-106\">Lov 19. desember 2008 nr. 106</a> om endringer i folketrygdloven og i enkelte andre lover (arbeidsavklaringspenger, arbeidsevnevurderinger og aktivitetsplaner).</td></tr>",
         "text": "3\tLov 19. desember 2008 nr. 106 om endringer i folketrygdloven og i enkelte andre lover (arbeidsavklaringspenger, arbeidsevnevurderinger og aktivitetsplaner)."
     },
     {
@@ -188,7 +188,7 @@
     {
         "tag": "table",
         "class": "textList fotnote avsnitt liste",
-        "html": "<tr>\n<td data-id=\"fotnote_1\" class=\"morTag_fn professional fotnoteNummer\">\n<span class=\"namedAnchor\" data-id=\"fotnoteNummer_1\"></span>1</td>\n<td class=\"fotnote\" data-id=\"fotnoteContent_1\">\n<span class=\"namedAnchor\" data-id=\"fotnoteContent_1\"></span>Skal vel være punkt VI.</td>\n</tr>",
+        "html": "<tr><td data-id=\"fotnote_1\" class=\"morTag_fn professional fotnoteNummer\"><span class=\"namedAnchor\" data-id=\"fotnoteNummer_1\"></span>1</td><td class=\"fotnote\" data-id=\"fotnoteContent_1\"><span class=\"namedAnchor\" data-id=\"fotnoteContent_1\"></span>Skal vel være punkt VI.</td></tr>",
         "text": "1Skal vel være punkt VI."
     },
     {

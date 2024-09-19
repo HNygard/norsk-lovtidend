@@ -32,43 +32,43 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sykehustjenester,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sykehustjenester,</td></tr>",
         "text": "1.\tsykehustjenester,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinske laboratorietjenester og radiologiske tjenester,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinske laboratorietjenester og radiologiske tjenester,</td></tr>",
         "text": "2.\tmedisinske laboratorietjenester og radiologiske tjenester,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">akuttmedisinsk beredskap,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">akuttmedisinsk beredskap,</td></tr>",
         "text": "3.\takuttmedisinsk beredskap,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinsk nødmeldetjeneste, luftambulansetjeneste og ambulansetjeneste med bil og eventuelt med båt,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">medisinsk nødmeldetjeneste, luftambulansetjeneste og ambulansetjeneste med bil og eventuelt med båt,</td></tr>",
         "text": "4.\tmedisinsk nødmeldetjeneste, luftambulansetjeneste og ambulansetjeneste med bil og eventuelt med båt,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tverrfaglig spesialisert behandling for rusmiddelmisbruk, herunder institusjonsplasser som kan ta imot rusmiddelmisbrukere med hjemmel i <a data-id=\"lov/2009-12-18-131/§6\" class=\" reference\" href=\"/lov/2009-12-18-131/%C2%A76\">sosialtjenesteloven §§ 6-2</a> til 6-3,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tverrfaglig spesialisert behandling for rusmiddelmisbruk, herunder institusjonsplasser som kan ta imot rusmiddelmisbrukere med hjemmel i <a data-id=\"lov/2009-12-18-131/§6\" class=\" reference\" href=\"/lov/2009-12-18-131/%C2%A76\">sosialtjenesteloven §§ 6-2</a> til 6-3,</td></tr>",
         "text": "5.\ttverrfaglig spesialisert behandling for rusmiddelmisbruk, herunder institusjonsplasser som kan ta imot rusmiddelmisbrukere med hjemmel i sosialtjenesteloven §§ 6-2 til 6-3,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">transport til undersøkelse eller behandling i kommune- og spesialisthelsetjenesten og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">transport til undersøkelse eller behandling i kommune- og spesialisthelsetjenesten og</td></tr>",
         "text": "6.\ttransport til undersøkelse eller behandling i kommune- og spesialisthelsetjenesten og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">transport av behandlingspersonell.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">transport av behandlingspersonell.</td></tr>",
         "text": "7.\ttransport av behandlingspersonell."
     },
     {

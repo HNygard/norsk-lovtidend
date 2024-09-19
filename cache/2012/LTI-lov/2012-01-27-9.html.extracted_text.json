@@ -26,13 +26,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1958-07-18-2\" class=\" reference\" href=\"/lov/1958-07-18-2\">Lov 18. juli 1958 nr. 2</a> om offentlige tjenestetvister.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1958-07-18-2\" class=\" reference\" href=\"/lov/1958-07-18-2\">Lov 18. juli 1958 nr. 2</a> om offentlige tjenestetvister.</td></tr>",
         "text": "1\tLov 18. juli 1958 nr. 2 om offentlige tjenestetvister."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).</td></tr>",
         "text": "2\tLov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)."
     },
     {
@@ -64,61 +64,61 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">arbeidstaker</em>: enhver som utfører arbeid i en annens tjeneste og som ikke går inn under lov om offentlige tjenestetvister.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">arbeidstaker</em>: enhver som utfører arbeid i en annens tjeneste og som ikke går inn under lov om offentlige tjenestetvister.</td></tr>",
         "text": "a)\tarbeidstaker: enhver som utfører arbeid i en annens tjeneste og som ikke går inn under lov om offentlige tjenestetvister."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">arbeidsgiver</em>: enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">arbeidsgiver</em>: enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste.</td></tr>",
         "text": "b)\tarbeidsgiver: enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">fagforening</em>: enhver sammenslutning av arbeidstakere eller av arbeidstakeres foreninger som har til formål å vareta arbeidstakernes interesser overfor deres arbeidsgivere.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">fagforening</em>: enhver sammenslutning av arbeidstakere eller av arbeidstakeres foreninger som har til formål å vareta arbeidstakernes interesser overfor deres arbeidsgivere.</td></tr>",
         "text": "c)\tfagforening: enhver sammenslutning av arbeidstakere eller av arbeidstakeres foreninger som har til formål å vareta arbeidstakernes interesser overfor deres arbeidsgivere."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">arbeidsgiverforening</em>: enhver sammenslutning av arbeidsgivere eller arbeidsgiveres foreninger som har til formål å vareta arbeidsgivernes interesser overfor deres arbeidstakere.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">arbeidsgiverforening</em>: enhver sammenslutning av arbeidsgivere eller arbeidsgiveres foreninger som har til formål å vareta arbeidsgivernes interesser overfor deres arbeidstakere.</td></tr>",
         "text": "d)\tarbeidsgiverforening: enhver sammenslutning av arbeidsgivere eller arbeidsgiveres foreninger som har til formål å vareta arbeidsgivernes interesser overfor deres arbeidstakere."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">tariffavtale</em>: en avtale mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om arbeids- og lønnsvilkår eller andre arbeidsforhold.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">tariffavtale</em>: en avtale mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om arbeids- og lønnsvilkår eller andre arbeidsforhold.</td></tr>",
         "text": "e)\ttariffavtale: en avtale mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om arbeids- og lønnsvilkår eller andre arbeidsforhold."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">streik</em>: hel eller delvis arbeidsstans som arbeidstakere i fellesskap eller i forståelse med hverandre iverksetter for å tvinge frem en løsning av en tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening. Som ledd i en streik regnes også når vedkommende bedrift søkes sperret for arbeidskraft.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">streik</em>: hel eller delvis arbeidsstans som arbeidstakere i fellesskap eller i forståelse med hverandre iverksetter for å tvinge frem en løsning av en tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening. Som ledd i en streik regnes også når vedkommende bedrift søkes sperret for arbeidskraft.</td></tr>",
         "text": "f)\tstreik: hel eller delvis arbeidsstans som arbeidstakere i fellesskap eller i forståelse med hverandre iverksetter for å tvinge frem en løsning av en tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening. Som ledd i en streik regnes også når vedkommende bedrift søkes sperret for arbeidskraft."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">lockout</em>: hel eller delvis arbeidsstans som en arbeidsgiver iverksetter for å tvinge frem en løsning av en tvist mellom en arbeidsgiver eller arbeidsgiverforening og en fagforening, uten hensyn til om andre arbeidstakere tas inn istedenfor de utestengte. Som ledd i en lockout regnes også når de utestengte arbeidstakerne søkes hindret i å få annet arbeid.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">lockout</em>: hel eller delvis arbeidsstans som en arbeidsgiver iverksetter for å tvinge frem en løsning av en tvist mellom en arbeidsgiver eller arbeidsgiverforening og en fagforening, uten hensyn til om andre arbeidstakere tas inn istedenfor de utestengte. Som ledd i en lockout regnes også når de utestengte arbeidstakerne søkes hindret i å få annet arbeid.</td></tr>",
         "text": "g)\tlockout: hel eller delvis arbeidsstans som en arbeidsgiver iverksetter for å tvinge frem en løsning av en tvist mellom en arbeidsgiver eller arbeidsgiverforening og en fagforening, uten hensyn til om andre arbeidstakere tas inn istedenfor de utestengte. Som ledd i en lockout regnes også når de utestengte arbeidstakerne søkes hindret i å få annet arbeid."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">plassoppsigelse</em>: oppsigelse av arbeidsavtaler med det formål å iverksette streik eller lockout.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">plassoppsigelse</em>: oppsigelse av arbeidsavtaler med det formål å iverksette streik eller lockout.</td></tr>",
         "text": "h)\tplassoppsigelse: oppsigelse av arbeidsavtaler med det formål å iverksette streik eller lockout."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">rettstvist</em>: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om en tariffavtales gyldighet, forståelse eller eksistens eller om krav som bygger på en tariffavtale.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">rettstvist</em>: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om en tariffavtales gyldighet, forståelse eller eksistens eller om krav som bygger på en tariffavtale.</td></tr>",
         "text": "i)\trettstvist: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om en tariffavtales gyldighet, forståelse eller eksistens eller om krav som bygger på en tariffavtale."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">interessetvist</em>: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om ordningen av fremtidige arbeids- og lønnsvilkår eller andre arbeidsforhold som ikke omfattes av en tariffavtale eller som skal avløse en tidligere tariffavtale.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">interessetvist</em>: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om ordningen av fremtidige arbeids- og lønnsvilkår eller andre arbeidsforhold som ikke omfattes av en tariffavtale eller som skal avløse en tidligere tariffavtale.</td></tr>",
         "text": "j)\tinteressetvist: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om ordningen av fremtidige arbeids- og lønnsvilkår eller andre arbeidsforhold som ikke omfattes av en tariffavtale eller som skal avløse en tidligere tariffavtale."
     },
     null,
@@ -204,19 +204,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Med mindre annet er fastsatt, gjelder tariffavtalen i tre år regnet fra den dag den ble underskrevet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Med mindre annet er fastsatt, gjelder tariffavtalen i tre år regnet fra den dag den ble underskrevet.</td></tr>",
         "text": "(1) Med mindre annet er fastsatt, gjelder tariffavtalen i tre år regnet fra den dag den ble underskrevet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Oppsigelse av tariffavtale skal gjøres skriftlig og senest tre måneder før avtalen utløper, med mindre annen oppsigelsesfrist er fastsatt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Oppsigelse av tariffavtale skal gjøres skriftlig og senest tre måneder før avtalen utløper, med mindre annen oppsigelsesfrist er fastsatt.</td></tr>",
         "text": "(2) Oppsigelse av tariffavtale skal gjøres skriftlig og senest tre måneder før avtalen utløper, med mindre annen oppsigelsesfrist er fastsatt."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Blir en tariffavtale ikke sagt opp innen fristen, forlenges den med ett år.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Blir en tariffavtale ikke sagt opp innen fristen, forlenges den med ett år.</td></tr>",
         "text": "(3) Blir en tariffavtale ikke sagt opp innen fristen, forlenges den med ett år."
     },
     null,
@@ -276,19 +276,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Rettstvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Rettstvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp.</td></tr>",
         "text": "(1) Rettstvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Interessetvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp før vilkårene i <a data-id=\"lov/2012-01-27-9/§18\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A718\">§§ 18</a> og <a data-id=\"lov/2012-01-27-9/§25\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A725\">25</a> er oppfylt. Gjelder interessetvisten revisjon av tariffavtale, må dessuten gyldighetstiden for denne være utløpt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Interessetvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp før vilkårene i <a data-id=\"lov/2012-01-27-9/§18\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A718\">§§ 18</a> og <a data-id=\"lov/2012-01-27-9/§25\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A725\">25</a> er oppfylt. Gjelder interessetvisten revisjon av tariffavtale, må dessuten gyldighetstiden for denne være utløpt.</td></tr>",
         "text": "(2) Interessetvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp før vilkårene i §§ 18 og 25 er oppfylt. Gjelder interessetvisten revisjon av tariffavtale, må dessuten gyldighetstiden for denne være utløpt."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Med mindre annet er avtalt, skal den tariffavtale og de lønns- og arbeidsvilkår som gjaldt ved tvistens utbrudd, gjelde så lenge streik, lockout eller annen arbeidskamp ikke må iverksettes etter andre ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Med mindre annet er avtalt, skal den tariffavtale og de lønns- og arbeidsvilkår som gjaldt ved tvistens utbrudd, gjelde så lenge streik, lockout eller annen arbeidskamp ikke må iverksettes etter andre ledd.</td></tr>",
         "text": "(3) Med mindre annet er avtalt, skal den tariffavtale og de lønns- og arbeidsvilkår som gjaldt ved tvistens utbrudd, gjelde så lenge streik, lockout eller annen arbeidskamp ikke må iverksettes etter andre ledd."
     },
     null,
@@ -308,13 +308,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Har medlemmer av en fagforening eller arbeidsgiverforening brutt en tariffavtale, er foreningen og vedkommende medlemmer erstatningsansvarlige. Foreningens ansvar inntrer bare når den selv er skyld i bruddet eller i fortsettelsen av det tariffstridige forholdet. En arbeidsgiver, arbeidsgiverforening, fagforening eller deres medlemmer er også erstatningsansvarlige for ulovlig streik, lockout eller annen arbeidskamp, jf. <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> andre ledd. Andre punktum i bestemmelsen her gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Har medlemmer av en fagforening eller arbeidsgiverforening brutt en tariffavtale, er foreningen og vedkommende medlemmer erstatningsansvarlige. Foreningens ansvar inntrer bare når den selv er skyld i bruddet eller i fortsettelsen av det tariffstridige forholdet. En arbeidsgiver, arbeidsgiverforening, fagforening eller deres medlemmer er også erstatningsansvarlige for ulovlig streik, lockout eller annen arbeidskamp, jf. <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> andre ledd. Andre punktum i bestemmelsen her gjelder tilsvarende.</td></tr>",
         "text": "(1) Har medlemmer av en fagforening eller arbeidsgiverforening brutt en tariffavtale, er foreningen og vedkommende medlemmer erstatningsansvarlige. Foreningens ansvar inntrer bare når den selv er skyld i bruddet eller i fortsettelsen av det tariffstridige forholdet. En arbeidsgiver, arbeidsgiverforening, fagforening eller deres medlemmer er også erstatningsansvarlige for ulovlig streik, lockout eller annen arbeidskamp, jf. § 8 andre ledd. Andre punktum i bestemmelsen her gjelder tilsvarende."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Erstatningsansvaret etter første ledd første og tredje punktum gjelder tilsvarende for andre arbeidstakere som deltar i den tariffstridige eller ulovlige streiken.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Erstatningsansvaret etter første ledd første og tredje punktum gjelder tilsvarende for andre arbeidstakere som deltar i den tariffstridige eller ulovlige streiken.</td></tr>",
         "text": "(2) Erstatningsansvaret etter første ledd første og tredje punktum gjelder tilsvarende for andre arbeidstakere som deltar i den tariffstridige eller ulovlige streiken."
     },
     null,
@@ -360,19 +360,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Kongen oppnevner for tre år av gangen en fast mekler for hele riket (riksmekleren) og en eller flere faste meklere for de enkelte meklingskretser (kretsmeklere). Meklingskretsene fastsettes av Kongen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Kongen oppnevner for tre år av gangen en fast mekler for hele riket (riksmekleren) og en eller flere faste meklere for de enkelte meklingskretser (kretsmeklere). Meklingskretsene fastsettes av Kongen.</td></tr>",
         "text": "(1) Kongen oppnevner for tre år av gangen en fast mekler for hele riket (riksmekleren) og en eller flere faste meklere for de enkelte meklingskretser (kretsmeklere). Meklingskretsene fastsettes av Kongen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Kongen kan etter innstilling fra riksmekleren oppnevne særskilte meklere for begrensede tidsrom eller for enkelte tilfeller, samt fast stedfortreder for riksmekleren.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Kongen kan etter innstilling fra riksmekleren oppnevne særskilte meklere for begrensede tidsrom eller for enkelte tilfeller, samt fast stedfortreder for riksmekleren.</td></tr>",
         "text": "(2) Kongen kan etter innstilling fra riksmekleren oppnevne særskilte meklere for begrensede tidsrom eller for enkelte tilfeller, samt fast stedfortreder for riksmekleren."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Meklerne må oppfylle vilkårene i <a data-id=\"lov/2012-01-27-9/§36\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A736\">§ 36</a> første ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Meklerne må oppfylle vilkårene i <a data-id=\"lov/2012-01-27-9/§36\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A736\">§ 36</a> første ledd.</td></tr>",
         "text": "(3) Meklerne må oppfylle vilkårene i § 36 første ledd."
     },
     null,
@@ -392,19 +392,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Meklerne skal mekle i interessetvister mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening i samsvar med bestemmelsene i dette kapitlet. Meklerne skal forsøke å oppnå enighet mellom partene om et rimelig forlik.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Meklerne skal mekle i interessetvister mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening i samsvar med bestemmelsene i dette kapitlet. Meklerne skal forsøke å oppnå enighet mellom partene om et rimelig forlik.</td></tr>",
         "text": "(1) Meklerne skal mekle i interessetvister mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening i samsvar med bestemmelsene i dette kapitlet. Meklerne skal forsøke å oppnå enighet mellom partene om et rimelig forlik."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Riksmekleren leder meklingsinstitusjonen og er de øvrige meklernes overordnede.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Riksmekleren leder meklingsinstitusjonen og er de øvrige meklernes overordnede.</td></tr>",
         "text": "(2) Riksmekleren leder meklingsinstitusjonen og er de øvrige meklernes overordnede."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Riksmekleren kan overlate meklingen i en sak til en kretsmekler eller en særskilt mekler. Riksmekleren kan selv overta meklingen i saker som hører under kretsmeklerne.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Riksmekleren kan overlate meklingen i en sak til en kretsmekler eller en særskilt mekler. Riksmekleren kan selv overta meklingen i saker som hører under kretsmeklerne.</td></tr>",
         "text": "(3) Riksmekleren kan overlate meklingen i en sak til en kretsmekler eller en særskilt mekler. Riksmekleren kan selv overta meklingen i saker som hører under kretsmeklerne."
     },
     null,
@@ -444,19 +444,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Reglene om inhabilitet i <a data-id=\"lov/1915-08-13-5/§106\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7106\">domstolloven §§ 106</a> flg. gjelder tilsvarende for meklerne så langt de passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Reglene om inhabilitet i <a data-id=\"lov/1915-08-13-5/§106\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7106\">domstolloven §§ 106</a> flg. gjelder tilsvarende for meklerne så langt de passer.</td></tr>",
         "text": "(1) Reglene om inhabilitet i domstolloven §§ 106 flg. gjelder tilsvarende for meklerne så langt de passer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Anser riksmekleren seg for inhabil i en tvist, meldes dette snarest mulig til departementet. Er departementet enig i at riksmekleren ikke bør behandle tvisten, overlates behandlingen av saken til en annen oppnevnt mekler.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Anser riksmekleren seg for inhabil i en tvist, meldes dette snarest mulig til departementet. Er departementet enig i at riksmekleren ikke bør behandle tvisten, overlates behandlingen av saken til en annen oppnevnt mekler.</td></tr>",
         "text": "(2) Anser riksmekleren seg for inhabil i en tvist, meldes dette snarest mulig til departementet. Er departementet enig i at riksmekleren ikke bør behandle tvisten, overlates behandlingen av saken til en annen oppnevnt mekler."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Anser en annen mekler seg for inhabil i en tvist, meldes dette snarest mulig til riksmekleren. Riksmekleren kan enten selv overta behandlingen av tvisten eller overlate den til en annen oppnevnt mekler.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Anser en annen mekler seg for inhabil i en tvist, meldes dette snarest mulig til riksmekleren. Riksmekleren kan enten selv overta behandlingen av tvisten eller overlate den til en annen oppnevnt mekler.</td></tr>",
         "text": "(3) Anser en annen mekler seg for inhabil i en tvist, meldes dette snarest mulig til riksmekleren. Riksmekleren kan enten selv overta behandlingen av tvisten eller overlate den til en annen oppnevnt mekler."
     },
     null,
@@ -476,19 +476,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Plassoppsigelse som ledd i interessetvist skal gis skriftlig. Oppsigelsesfristen er 14 dager hvis ikke annet er fastsatt ved tariffavtale eller annen skriftlig avtale.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Plassoppsigelse som ledd i interessetvist skal gis skriftlig. Oppsigelsesfristen er 14 dager hvis ikke annet er fastsatt ved tariffavtale eller annen skriftlig avtale.</td></tr>",
         "text": "(1) Plassoppsigelse som ledd i interessetvist skal gis skriftlig. Oppsigelsesfristen er 14 dager hvis ikke annet er fastsatt ved tariffavtale eller annen skriftlig avtale."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Plassoppsigelse for den enkelte arbeidstaker gis av arbeidstakeren selv eller dennes fagforening overfor arbeidsgiver, eller av den enkelte arbeidsgiver overfor den enkelte arbeidstaker.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Plassoppsigelse for den enkelte arbeidstaker gis av arbeidstakeren selv eller dennes fagforening overfor arbeidsgiver, eller av den enkelte arbeidsgiver overfor den enkelte arbeidstaker.</td></tr>",
         "text": "(2) Plassoppsigelse for den enkelte arbeidstaker gis av arbeidstakeren selv eller dennes fagforening overfor arbeidsgiver, eller av den enkelte arbeidsgiver overfor den enkelte arbeidstaker."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Der dette følger av tariffavtale, kan hver av partene gi plassoppsigelse for sine medlemmer til den annen part (kollektiv plassoppsigelse).</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Der dette følger av tariffavtale, kan hver av partene gi plassoppsigelse for sine medlemmer til den annen part (kollektiv plassoppsigelse).</td></tr>",
         "text": "(3) Der dette følger av tariffavtale, kan hver av partene gi plassoppsigelse for sine medlemmer til den annen part (kollektiv plassoppsigelse)."
     },
     null,
@@ -508,61 +508,61 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Når det gis plassoppsigelse i interessetvist, skal det samtidig gis skriftlig melding om dette til riksmekleren.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Når det gis plassoppsigelse i interessetvist, skal det samtidig gis skriftlig melding om dette til riksmekleren.</td></tr>",
         "text": "(1) Når det gis plassoppsigelse i interessetvist, skal det samtidig gis skriftlig melding om dette til riksmekleren."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Meldingen skal inneholde:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Meldingen skal inneholde:</td></tr>",
         "text": "(2) Meldingen skal inneholde:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kopi av plassoppsigelsen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kopi av plassoppsigelsen,</td></tr>",
         "text": "a)\tkopi av plassoppsigelsen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">redegjørelse for hva tvisten gjelder,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">redegjørelse for hva tvisten gjelder,</td></tr>",
         "text": "b)\tredegjørelse for hva tvisten gjelder,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om ved hvilke bedrifter plassoppsigelse foretas og hvor mange arbeidstakere ved hver bedrift plassoppsigelsen omfatter,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om ved hvilke bedrifter plassoppsigelse foretas og hvor mange arbeidstakere ved hver bedrift plassoppsigelsen omfatter,</td></tr>",
         "text": "c)\topplysninger om ved hvilke bedrifter plassoppsigelse foretas og hvor mange arbeidstakere ved hver bedrift plassoppsigelsen omfatter,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om når plassoppsigelsesfristen løper ut,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om når plassoppsigelsesfristen løper ut,</td></tr>",
         "text": "d)\topplysninger om når plassoppsigelsesfristen løper ut,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om hvorvidt forhandlinger mellom partene er åpnet og i tilfelle om de fremdeles pågår eller er avbrutt.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om hvorvidt forhandlinger mellom partene er åpnet og i tilfelle om de fremdeles pågår eller er avbrutt.</td></tr>",
         "text": "e)\topplysninger om hvorvidt forhandlinger mellom partene er åpnet og i tilfelle om de fremdeles pågår eller er avbrutt."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Pågår forhandlinger når melding om plassoppsigelse sendes, skal melding om senere avbrytelse av forhandlingene på samme måte sendes til riksmekleren.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Pågår forhandlinger når melding om plassoppsigelse sendes, skal melding om senere avbrytelse av forhandlingene på samme måte sendes til riksmekleren.</td></tr>",
         "text": "(3) Pågår forhandlinger når melding om plassoppsigelse sendes, skal melding om senere avbrytelse av forhandlingene på samme måte sendes til riksmekleren."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Meldingen sendes av den fagforening, arbeidsgiver eller arbeidsgiverforening som har foretatt plassoppsigelsen. Er den aktuelle fagforening, arbeidsgiver eller arbeidsgiverforening medlem i en organisasjon med innstillingsrett etter <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>, sendes meldingen om plassoppsigelse til riksmekleren gjennom denne organisasjonen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Meldingen sendes av den fagforening, arbeidsgiver eller arbeidsgiverforening som har foretatt plassoppsigelsen. Er den aktuelle fagforening, arbeidsgiver eller arbeidsgiverforening medlem i en organisasjon med innstillingsrett etter <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>, sendes meldingen om plassoppsigelse til riksmekleren gjennom denne organisasjonen.</td></tr>",
         "text": "(4) Meldingen sendes av den fagforening, arbeidsgiver eller arbeidsgiverforening som har foretatt plassoppsigelsen. Er den aktuelle fagforening, arbeidsgiver eller arbeidsgiverforening medlem i en organisasjon med innstillingsrett etter § 39, sendes meldingen om plassoppsigelse til riksmekleren gjennom denne organisasjonen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Meldinger til riksmekleren etter denne paragraf sendes samtidig i kopi til motparten.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Meldinger til riksmekleren etter denne paragraf sendes samtidig i kopi til motparten.</td></tr>",
         "text": "(5) Meldinger til riksmekleren etter denne paragraf sendes samtidig i kopi til motparten."
     },
     null,
@@ -622,37 +622,37 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Når riksmekleren har fått melding om eller på annen måte er blitt kjent med at forhandlinger ikke er innledet eller er brutt, jf. <a data-id=\"lov/2012-01-27-9/§16\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A716\">§ 16</a>, skal riksmekleren midlertidig forby partene å iverksette streik eller lockout som kan medføre skade for allmenne interesser, inntil mekling etter dette kapitlet er avsluttet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Når riksmekleren har fått melding om eller på annen måte er blitt kjent med at forhandlinger ikke er innledet eller er brutt, jf. <a data-id=\"lov/2012-01-27-9/§16\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A716\">§ 16</a>, skal riksmekleren midlertidig forby partene å iverksette streik eller lockout som kan medføre skade for allmenne interesser, inntil mekling etter dette kapitlet er avsluttet.</td></tr>",
         "text": "(1) Når riksmekleren har fått melding om eller på annen måte er blitt kjent med at forhandlinger ikke er innledet eller er brutt, jf. § 16, skal riksmekleren midlertidig forby partene å iverksette streik eller lockout som kan medføre skade for allmenne interesser, inntil mekling etter dette kapitlet er avsluttet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Blir plassoppsigelsen utvidet, skal riksmekleren på tilsvarende vilkår forby streik eller lockout som følger av utvidelsen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Blir plassoppsigelsen utvidet, skal riksmekleren på tilsvarende vilkår forby streik eller lockout som følger av utvidelsen.</td></tr>",
         "text": "(2) Blir plassoppsigelsen utvidet, skal riksmekleren på tilsvarende vilkår forby streik eller lockout som følger av utvidelsen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Forbudet sendes til den forening som har sendt eller skulle ha sendt meldingen om plassoppsigelsen. Kopi av melding om forbud skal sendes til motparten.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Forbudet sendes til den forening som har sendt eller skulle ha sendt meldingen om plassoppsigelsen. Kopi av melding om forbud skal sendes til motparten.</td></tr>",
         "text": "(3) Forbudet sendes til den forening som har sendt eller skulle ha sendt meldingen om plassoppsigelsen. Kopi av melding om forbud skal sendes til motparten."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> For å være bindende må forbudet være sendt fra riksmekleren innen utløpet av to virkedager etter at riksmekleren mottok melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> For å være bindende må forbudet være sendt fra riksmekleren innen utløpet av to virkedager etter at riksmekleren mottok melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet.</td></tr>",
         "text": "(4) For å være bindende må forbudet være sendt fra riksmekleren innen utløpet av to virkedager etter at riksmekleren mottok melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Hvis det nedlegges forbud mot streik eller lockout i tvist hvor kommune, fylkeskommune eller sammenslutning av slike er part, kan riksmekleren samtidig bestemme at de frister som følger av <a data-id=\"lov/1958-07-18-2/§14\" class=\" reference\" href=\"/lov/1958-07-18-2/%C2%A714\">tjenestetvistloven § 14</a> tredje ledd og <a data-id=\"lov/1958-07-18-2/§17\" class=\" reference\" href=\"/lov/1958-07-18-2/%C2%A717\">§ 17</a> første og andre ledd skal gjelde for meklingen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Hvis det nedlegges forbud mot streik eller lockout i tvist hvor kommune, fylkeskommune eller sammenslutning av slike er part, kan riksmekleren samtidig bestemme at de frister som følger av <a data-id=\"lov/1958-07-18-2/§14\" class=\" reference\" href=\"/lov/1958-07-18-2/%C2%A714\">tjenestetvistloven § 14</a> tredje ledd og <a data-id=\"lov/1958-07-18-2/§17\" class=\" reference\" href=\"/lov/1958-07-18-2/%C2%A717\">§ 17</a> første og andre ledd skal gjelde for meklingen.</td></tr>",
         "text": "(5) Hvis det nedlegges forbud mot streik eller lockout i tvist hvor kommune, fylkeskommune eller sammenslutning av slike er part, kan riksmekleren samtidig bestemme at de frister som følger av tjenestetvistloven § 14 tredje ledd og § 17 første og andre ledd skal gjelde for meklingen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Riksmekleren kan overlate til en annen oppnevnt mekler å forby streik eller lockout.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Riksmekleren kan overlate til en annen oppnevnt mekler å forby streik eller lockout.</td></tr>",
         "text": "(6) Riksmekleren kan overlate til en annen oppnevnt mekler å forby streik eller lockout."
     },
     null,
@@ -672,25 +672,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Hvis det er nedlagt forbud mot streik eller lockout etter <a data-id=\"lov/2012-01-27-9/§19\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A719\">§ 19</a>, skal riksmekleren eller mekleren som saken er overdratt til, straks iverksette mekling.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Hvis det er nedlagt forbud mot streik eller lockout etter <a data-id=\"lov/2012-01-27-9/§19\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A719\">§ 19</a>, skal riksmekleren eller mekleren som saken er overdratt til, straks iverksette mekling.</td></tr>",
         "text": "(1) Hvis det er nedlagt forbud mot streik eller lockout etter § 19, skal riksmekleren eller mekleren som saken er overdratt til, straks iverksette mekling."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Hvis forbud mot streik eller lockout ikke er nedlagt, kan riksmekleren eller en kretsmekler av eget tiltak eller etter begjæring av en part likevel iverksette mekling i en tvist.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Hvis forbud mot streik eller lockout ikke er nedlagt, kan riksmekleren eller en kretsmekler av eget tiltak eller etter begjæring av en part likevel iverksette mekling i en tvist.</td></tr>",
         "text": "(2) Hvis forbud mot streik eller lockout ikke er nedlagt, kan riksmekleren eller en kretsmekler av eget tiltak eller etter begjæring av en part likevel iverksette mekling i en tvist."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Hvis riksmekleren eller en kretsmekler mener det er hensiktsmessig, kan det innkalles til mekling etter reglene i dette kapittel selv om det ikke er gitt plassoppsigelse etter <a data-id=\"lov/2012-01-27-9/§15\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A715\">§ 15</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Hvis riksmekleren eller en kretsmekler mener det er hensiktsmessig, kan det innkalles til mekling etter reglene i dette kapittel selv om det ikke er gitt plassoppsigelse etter <a data-id=\"lov/2012-01-27-9/§15\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A715\">§ 15</a>.</td></tr>",
         "text": "(3) Hvis riksmekleren eller en kretsmekler mener det er hensiktsmessig, kan det innkalles til mekling etter reglene i dette kapittel selv om det ikke er gitt plassoppsigelse etter § 15."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Mekleren fastsetter tid og sted for meklingen. Meklingsmøte kan også holdes utenfor meklingskretsen. Partene innkalles på den måte mekleren finner hensiktsmessig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Mekleren fastsetter tid og sted for meklingen. Meklingsmøte kan også holdes utenfor meklingskretsen. Partene innkalles på den måte mekleren finner hensiktsmessig.</td></tr>",
         "text": "(4) Mekleren fastsetter tid og sted for meklingen. Meklingsmøte kan også holdes utenfor meklingskretsen. Partene innkalles på den måte mekleren finner hensiktsmessig."
     },
     null,
@@ -730,13 +730,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Mekleren skal innhente alle opplysninger som er nødvendige for å behandle tvisten.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Mekleren skal innhente alle opplysninger som er nødvendige for å behandle tvisten.</td></tr>",
         "text": "(1) Mekleren skal innhente alle opplysninger som er nødvendige for å behandle tvisten."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Ved innhenting av opplysninger har mekleren myndighet som nevnt i <a data-id=\"lov/2012-01-27-9/§48\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A748\">§ 48</a> så langt det passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Ved innhenting av opplysninger har mekleren myndighet som nevnt i <a data-id=\"lov/2012-01-27-9/§48\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A748\">§ 48</a> så langt det passer.</td></tr>",
         "text": "(2) Ved innhenting av opplysninger har mekleren myndighet som nevnt i § 48 så langt det passer."
     },
     null,
@@ -756,25 +756,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Meklingsmøtene skal holdes for lukkede dører.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Meklingsmøtene skal holdes for lukkede dører.</td></tr>",
         "text": "(1) Meklingsmøtene skal holdes for lukkede dører."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Enhver som deltar i meklingen, plikter å bevare taushet om det som er fremkommet hvis ikke mekleren tillater offentliggjøring.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Enhver som deltar i meklingen, plikter å bevare taushet om det som er fremkommet hvis ikke mekleren tillater offentliggjøring.</td></tr>",
         "text": "(2) Enhver som deltar i meklingen, plikter å bevare taushet om det som er fremkommet hvis ikke mekleren tillater offentliggjøring."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Taushetsplikten gjelder ikke ved forklaringer for Arbeidsretten.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Taushetsplikten gjelder ikke ved forklaringer for Arbeidsretten.</td></tr>",
         "text": "(3) Taushetsplikten gjelder ikke ved forklaringer for Arbeidsretten."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Mekleren har ikke vitneplikt for Arbeidsretten om forhold fremkommet under meklingen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Mekleren har ikke vitneplikt for Arbeidsretten om forhold fremkommet under meklingen.</td></tr>",
         "text": "(4) Mekleren har ikke vitneplikt for Arbeidsretten om forhold fremkommet under meklingen."
     },
     null,
@@ -794,13 +794,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> I møteboken føres inn tid og sted for meklingsmøtet og meklerens, partenes og partsrepresentantenes navn. Møteboken skal angi de bevis som er gjennomgått og meklingens gang i korthet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> I møteboken føres inn tid og sted for meklingsmøtet og meklerens, partenes og partsrepresentantenes navn. Møteboken skal angi de bevis som er gjennomgått og meklingens gang i korthet.</td></tr>",
         "text": "(1) I møteboken føres inn tid og sted for meklingsmøtet og meklerens, partenes og partsrepresentantenes navn. Møteboken skal angi de bevis som er gjennomgått og meklingens gang i korthet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Resultatet av meklingen oppsummeres. Har mekleren lagt frem et endelig forslag til løsning av tvisten, skal forslaget føres inn i møteboken uavhengig av utfallet av meklingen. Eventuell frist etter <a data-id=\"lov/2012-01-27-9/§26\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A726\">§ 26</a> første ledd for når et avstemningsresultat skal foreligge, skal gjengis.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Resultatet av meklingen oppsummeres. Har mekleren lagt frem et endelig forslag til løsning av tvisten, skal forslaget føres inn i møteboken uavhengig av utfallet av meklingen. Eventuell frist etter <a data-id=\"lov/2012-01-27-9/§26\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A726\">§ 26</a> første ledd for når et avstemningsresultat skal foreligge, skal gjengis.</td></tr>",
         "text": "(2) Resultatet av meklingen oppsummeres. Har mekleren lagt frem et endelig forslag til løsning av tvisten, skal forslaget føres inn i møteboken uavhengig av utfallet av meklingen. Eventuell frist etter § 26 første ledd for når et avstemningsresultat skal foreligge, skal gjengis."
     },
     null,
@@ -820,19 +820,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Hver av partene kan kreve meklingen avsluttet når det har gått ti dager etter at forbudet mot streik eller lockout ble nedlagt etter <a data-id=\"lov/2012-01-27-9/§19\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A719\">§ 19</a> første ledd. Dette gjelder ikke hvis vedkommende part ved fravær eller på annen måte ikke har medvirket til meklingen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Hver av partene kan kreve meklingen avsluttet når det har gått ti dager etter at forbudet mot streik eller lockout ble nedlagt etter <a data-id=\"lov/2012-01-27-9/§19\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A719\">§ 19</a> første ledd. Dette gjelder ikke hvis vedkommende part ved fravær eller på annen måte ikke har medvirket til meklingen.</td></tr>",
         "text": "(1) Hver av partene kan kreve meklingen avsluttet når det har gått ti dager etter at forbudet mot streik eller lockout ble nedlagt etter § 19 første ledd. Dette gjelder ikke hvis vedkommende part ved fravær eller på annen måte ikke har medvirket til meklingen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Meklingen skal avsluttes senest fire dager etter at krav om avslutning er fremsatt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Meklingen skal avsluttes senest fire dager etter at krav om avslutning er fremsatt.</td></tr>",
         "text": "(2) Meklingen skal avsluttes senest fire dager etter at krav om avslutning er fremsatt."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Kommer forlik i stand, skal tariffavtale i overensstemmelse med dette opprettes i samarbeid med mekleren. Tariffavtalen undertegnes av partene eller deres representanter.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Kommer forlik i stand, skal tariffavtale i overensstemmelse med dette opprettes i samarbeid med mekleren. Tariffavtalen undertegnes av partene eller deres representanter.</td></tr>",
         "text": "(3) Kommer forlik i stand, skal tariffavtale i overensstemmelse med dette opprettes i samarbeid med mekleren. Tariffavtalen undertegnes av partene eller deres representanter."
     },
     null,
@@ -852,13 +852,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Dersom det skal stemmes over et meklingsforslag, skal mekleren i samråd med partene sette frist for når avstemningsresultatet skal foreligge.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Dersom det skal stemmes over et meklingsforslag, skal mekleren i samråd med partene sette frist for når avstemningsresultatet skal foreligge.</td></tr>",
         "text": "(1) Dersom det skal stemmes over et meklingsforslag, skal mekleren i samråd med partene sette frist for når avstemningsresultatet skal foreligge."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Avstemningen skal bare gjelde meklingsforslaget som det foreligger fra mekleren. Avstemningen skal være hemmelig og skriftlig med rene ja- eller nei-stemmer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Avstemningen skal bare gjelde meklingsforslaget som det foreligger fra mekleren. Avstemningen skal være hemmelig og skriftlig med rene ja- eller nei-stemmer.</td></tr>",
         "text": "(2) Avstemningen skal bare gjelde meklingsforslaget som det foreligger fra mekleren. Avstemningen skal være hemmelig og skriftlig med rene ja- eller nei-stemmer."
     },
     null,
@@ -878,19 +878,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Partene skal gi riksmekleren skriftlig melding om hvorvidt meklingsforslaget er vedtatt eller forkastet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Partene skal gi riksmekleren skriftlig melding om hvorvidt meklingsforslaget er vedtatt eller forkastet.</td></tr>",
         "text": "(1) Partene skal gi riksmekleren skriftlig melding om hvorvidt meklingsforslaget er vedtatt eller forkastet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Forkastes forslaget, skal meldingen gi opplysninger om antallet stemmer for og imot forslaget og om antallet stemmeberettigede. Dersom avstemningsresultatet ikke foreligger innen fristen, anses meklingsforslaget som vedtatt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Forkastes forslaget, skal meldingen gi opplysninger om antallet stemmer for og imot forslaget og om antallet stemmeberettigede. Dersom avstemningsresultatet ikke foreligger innen fristen, anses meklingsforslaget som vedtatt.</td></tr>",
         "text": "(2) Forkastes forslaget, skal meldingen gi opplysninger om antallet stemmer for og imot forslaget og om antallet stemmeberettigede. Dersom avstemningsresultatet ikke foreligger innen fristen, anses meklingsforslaget som vedtatt."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Ingen deler av avstemningsresultatet må offentliggjøres før riksmekleren har kunngjort hovedresultatet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Ingen deler av avstemningsresultatet må offentliggjøres før riksmekleren har kunngjort hovedresultatet.</td></tr>",
         "text": "(3) Ingen deler av avstemningsresultatet må offentliggjøres før riksmekleren har kunngjort hovedresultatet."
     },
     null,
@@ -950,25 +950,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Partene kan i fellesskap kreve en avsluttet mekling gjenopptatt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Partene kan i fellesskap kreve en avsluttet mekling gjenopptatt.</td></tr>",
         "text": "(1) Partene kan i fellesskap kreve en avsluttet mekling gjenopptatt."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Riksmekleren og mekleren som har behandlet saken kan når som helst gjenoppta meklingen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Riksmekleren og mekleren som har behandlet saken kan når som helst gjenoppta meklingen.</td></tr>",
         "text": "(2) Riksmekleren og mekleren som har behandlet saken kan når som helst gjenoppta meklingen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Er det gått en måned etter at meklingen ble avsluttet uten at tvisten i mellomtiden er løst, skal mekleren som har behandlet saken, gjenoppta kontakt med partene med henblikk på å få avsluttet konflikten. Er et meklingsforslag til behandling hos partene, skal mekleren vente til behandlingen er avsluttet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Er det gått en måned etter at meklingen ble avsluttet uten at tvisten i mellomtiden er løst, skal mekleren som har behandlet saken, gjenoppta kontakt med partene med henblikk på å få avsluttet konflikten. Er et meklingsforslag til behandling hos partene, skal mekleren vente til behandlingen er avsluttet.</td></tr>",
         "text": "(3) Er det gått en måned etter at meklingen ble avsluttet uten at tvisten i mellomtiden er løst, skal mekleren som har behandlet saken, gjenoppta kontakt med partene med henblikk på å få avsluttet konflikten. Er et meklingsforslag til behandling hos partene, skal mekleren vente til behandlingen er avsluttet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Om partenes plikt til å møte til mekling gjelder reglene i <a data-id=\"lov/2012-01-27-9/§51\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A751\">§ 51</a> tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Om partenes plikt til å møte til mekling gjelder reglene i <a data-id=\"lov/2012-01-27-9/§51\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A751\">§ 51</a> tilsvarende.</td></tr>",
         "text": "(4) Om partenes plikt til å møte til mekling gjelder reglene i § 51 tilsvarende."
     },
     null,
@@ -1034,25 +1034,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Arbeidsretten har sete i Oslo.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Arbeidsretten har sete i Oslo.</td></tr>",
         "text": "(1) Arbeidsretten har sete i Oslo."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Arbeidsretten skal behandle rettstvister som er omhandlet i <a data-id=\"lov/2012-01-27-9/§1\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A71\">§ 1</a> bokstav i og tvister om det foreligger brudd på <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> første ledd. Retten behandler videre tvister om det foreligger brudd på bestemmelsene om interessetvister i <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> andre ledd og tvister som omhandlet i <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> om erstatningsansvar for brudd på tariffavtale mv.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Arbeidsretten skal behandle rettstvister som er omhandlet i <a data-id=\"lov/2012-01-27-9/§1\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A71\">§ 1</a> bokstav i og tvister om det foreligger brudd på <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> første ledd. Retten behandler videre tvister om det foreligger brudd på bestemmelsene om interessetvister i <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> andre ledd og tvister som omhandlet i <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> om erstatningsansvar for brudd på tariffavtale mv.</td></tr>",
         "text": "(2) Arbeidsretten skal behandle rettstvister som er omhandlet i § 1 bokstav i og tvister om det foreligger brudd på § 8 første ledd. Retten behandler videre tvister om det foreligger brudd på bestemmelsene om interessetvister i § 8 andre ledd og tvister som omhandlet i § 9 om erstatningsansvar for brudd på tariffavtale mv."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Arbeidsretten skal likevel ikke behandle tvister som er omhandlet i <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> når saken utelukkende er anlagt mot arbeidstakere som nevnt i <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> andre ledd. Tvister som knytter seg til tariffavtaler om europeisk samarbeidsutvalg eller tilsvarende samarbeidsordninger, behandles etter bestemmelsene som er gitt i eller i medhold av lov om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg. Arbeidsretten skal heller ikke behandle tvister som knytter seg til tariffavtaler inngått etter bestemmelser gitt i eller i medhold av <a data-id=\"lov/2005-04-01-14/§3\" class=\" reference\" href=\"/lov/2005-04-01-14/%C2%A73\">SE-loven § 3</a> om arbeidstakernes innflytelse i et europeisk selskap eller <a data-id=\"lov/2006-06-30-50/§3\" class=\" reference\" href=\"/lov/2006-06-30-50/%C2%A73\">SCE-loven § 3</a> om arbeidstakernes innflytelse i et europeisk samvirkeforetak.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Arbeidsretten skal likevel ikke behandle tvister som er omhandlet i <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> når saken utelukkende er anlagt mot arbeidstakere som nevnt i <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> andre ledd. Tvister som knytter seg til tariffavtaler om europeisk samarbeidsutvalg eller tilsvarende samarbeidsordninger, behandles etter bestemmelsene som er gitt i eller i medhold av lov om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg. Arbeidsretten skal heller ikke behandle tvister som knytter seg til tariffavtaler inngått etter bestemmelser gitt i eller i medhold av <a data-id=\"lov/2005-04-01-14/§3\" class=\" reference\" href=\"/lov/2005-04-01-14/%C2%A73\">SE-loven § 3</a> om arbeidstakernes innflytelse i et europeisk selskap eller <a data-id=\"lov/2006-06-30-50/§3\" class=\" reference\" href=\"/lov/2006-06-30-50/%C2%A73\">SCE-loven § 3</a> om arbeidstakernes innflytelse i et europeisk samvirkeforetak.</td></tr>",
         "text": "(3) Arbeidsretten skal likevel ikke behandle tvister som er omhandlet i § 9 når saken utelukkende er anlagt mot arbeidstakere som nevnt i § 9 andre ledd. Tvister som knytter seg til tariffavtaler om europeisk samarbeidsutvalg eller tilsvarende samarbeidsordninger, behandles etter bestemmelsene som er gitt i eller i medhold av lov om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg. Arbeidsretten skal heller ikke behandle tvister som knytter seg til tariffavtaler inngått etter bestemmelser gitt i eller i medhold av SE-loven § 3 om arbeidstakernes innflytelse i et europeisk selskap eller SCE-loven § 3 om arbeidstakernes innflytelse i et europeisk samvirkeforetak."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Partene kan vedta privat voldgift om de tvister som er nevnt i <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> første ledd og <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Partene kan vedta privat voldgift om de tvister som er nevnt i <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> første ledd og <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a>.</td></tr>",
         "text": "(4) Partene kan vedta privat voldgift om de tvister som er nevnt i § 8 første ledd og § 9."
     },
     null,
@@ -1072,13 +1072,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> I en sak om en tariffavtale kan også inndras krav som utspringer av en arbeidsavtale, hvis kravet etter arbeidsavtalen vil få sin umiddelbare avgjørelse ved dommen i hovedsaken.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> I en sak om en tariffavtale kan også inndras krav som utspringer av en arbeidsavtale, hvis kravet etter arbeidsavtalen vil få sin umiddelbare avgjørelse ved dommen i hovedsaken.</td></tr>",
         "text": "(1) I en sak om en tariffavtale kan også inndras krav som utspringer av en arbeidsavtale, hvis kravet etter arbeidsavtalen vil få sin umiddelbare avgjørelse ved dommen i hovedsaken."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Har Arbeidsretten i sin domsslutning fastslått en bestemt forståelse av en tariffavtale, gjelder denne forståelsen også for enhver arbeidsavtale som bygger på tariffavtalen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Har Arbeidsretten i sin domsslutning fastslått en bestemt forståelse av en tariffavtale, gjelder denne forståelsen også for enhver arbeidsavtale som bygger på tariffavtalen.</td></tr>",
         "text": "(2) Har Arbeidsretten i sin domsslutning fastslått en bestemt forståelse av en tariffavtale, gjelder denne forståelsen også for enhver arbeidsavtale som bygger på tariffavtalen."
     },
     null,
@@ -1098,25 +1098,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Er en tariffavtale sluttet mellom en fagforening, dens underavdelinger og medlemmer på den ene side og en arbeidsgiver eller en arbeidsgiverforening, dens underavdelinger og medlemmer på den annen side, er det bare den overordnede fagforening eller arbeidsgiverforening eller den enkeltstående arbeidsgiver som har søksmålsrett.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Er en tariffavtale sluttet mellom en fagforening, dens underavdelinger og medlemmer på den ene side og en arbeidsgiver eller en arbeidsgiverforening, dens underavdelinger og medlemmer på den annen side, er det bare den overordnede fagforening eller arbeidsgiverforening eller den enkeltstående arbeidsgiver som har søksmålsrett.</td></tr>",
         "text": "(1) Er en tariffavtale sluttet mellom en fagforening, dens underavdelinger og medlemmer på den ene side og en arbeidsgiver eller en arbeidsgiverforening, dens underavdelinger og medlemmer på den annen side, er det bare den overordnede fagforening eller arbeidsgiverforening eller den enkeltstående arbeidsgiver som har søksmålsrett."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Den overordnede fagforening eller arbeidsgiverforening kan likevel overdra sin søksmålsrett til en underavdeling som har undertegnet tariffavtalen. Det skal gis skriftlig melding om overdragelsen til Arbeidsretten og tariffmotparten. Overdragelsen kan begrenses til en enkelt tvist eller gis virkning for hele tariffperioden. I sistnevnte tilfelle kan vedkommende underavdeling saksøkes direkte og alene av den annen søksmålsberettigede part i tariffavtalen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Den overordnede fagforening eller arbeidsgiverforening kan likevel overdra sin søksmålsrett til en underavdeling som har undertegnet tariffavtalen. Det skal gis skriftlig melding om overdragelsen til Arbeidsretten og tariffmotparten. Overdragelsen kan begrenses til en enkelt tvist eller gis virkning for hele tariffperioden. I sistnevnte tilfelle kan vedkommende underavdeling saksøkes direkte og alene av den annen søksmålsberettigede part i tariffavtalen.</td></tr>",
         "text": "(2) Den overordnede fagforening eller arbeidsgiverforening kan likevel overdra sin søksmålsrett til en underavdeling som har undertegnet tariffavtalen. Det skal gis skriftlig melding om overdragelsen til Arbeidsretten og tariffmotparten. Overdragelsen kan begrenses til en enkelt tvist eller gis virkning for hele tariffperioden. I sistnevnte tilfelle kan vedkommende underavdeling saksøkes direkte og alene av den annen søksmålsberettigede part i tariffavtalen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Medlem eller underavdeling som ikke har søksmålsrett etter første ledd, kan ikke opptre som partshjelper med mindre den som har søksmålsrett gir sitt samtykke.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Medlem eller underavdeling som ikke har søksmålsrett etter første ledd, kan ikke opptre som partshjelper med mindre den som har søksmålsrett gir sitt samtykke.</td></tr>",
         "text": "(3) Medlem eller underavdeling som ikke har søksmålsrett etter første ledd, kan ikke opptre som partshjelper med mindre den som har søksmålsrett gir sitt samtykke."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Vil en part nedlegge påstand mot navngitte medlemmer av en forening, skal disse stevnes ved siden av foreningen. Tilsvarende gjelder om det skal nedlegges påstand mot andre navngitte personer, jf. <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> andre ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Vil en part nedlegge påstand mot navngitte medlemmer av en forening, skal disse stevnes ved siden av foreningen. Tilsvarende gjelder om det skal nedlegges påstand mot andre navngitte personer, jf. <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> andre ledd.</td></tr>",
         "text": "(4) Vil en part nedlegge påstand mot navngitte medlemmer av en forening, skal disse stevnes ved siden av foreningen. Tilsvarende gjelder om det skal nedlegges påstand mot andre navngitte personer, jf. § 9 andre ledd."
     },
     null,
@@ -1136,19 +1136,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Dommere i Arbeidsretten må være norske statsborgere som er vederheftige og som ikke er fradømt stemmerett i offentlige anliggender. De må ikke være medlem av styret i en fagforening eller arbeidsgiverforening eller være fast ansatt i en slik forening.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Dommere i Arbeidsretten må være norske statsborgere som er vederheftige og som ikke er fradømt stemmerett i offentlige anliggender. De må ikke være medlem av styret i en fagforening eller arbeidsgiverforening eller være fast ansatt i en slik forening.</td></tr>",
         "text": "(1) Dommere i Arbeidsretten må være norske statsborgere som er vederheftige og som ikke er fradømt stemmerett i offentlige anliggender. De må ikke være medlem av styret i en fagforening eller arbeidsgiverforening eller være fast ansatt i en slik forening."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Rettens fagdommere skal i tillegg oppfylle de krav som gjelder for høyesterettsdommere.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Rettens fagdommere skal i tillegg oppfylle de krav som gjelder for høyesterettsdommere.</td></tr>",
         "text": "(2) Rettens fagdommere skal i tillegg oppfylle de krav som gjelder for høyesterettsdommere."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> En fagdommer i Arbeidsretten må søke departementet om godkjenning for sidegjøremål i slike tilfeller som fremgår av <a data-id=\"lov/1915-08-13-5/§121c\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7121c\">domstolloven § 121c</a>. Departementet fører register over fagdommernes sidegjøremål i samsvar med <a data-id=\"lov/1915-08-13-5/§121e\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7121e\">domstolloven § 121e</a>. En fagdommer skal melde fra om sidegjøremål snarest mulig, og senest innen en måned etter at dommeren påtok seg sidegjøremålet. Enhver har rett til å gjøre seg kjent med opplysningene i registeret. Departementet bestemmer hvordan opplysninger skal gjøres tilgjengelige for den som ber om det.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> En fagdommer i Arbeidsretten må søke departementet om godkjenning for sidegjøremål i slike tilfeller som fremgår av <a data-id=\"lov/1915-08-13-5/§121c\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7121c\">domstolloven § 121c</a>. Departementet fører register over fagdommernes sidegjøremål i samsvar med <a data-id=\"lov/1915-08-13-5/§121e\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7121e\">domstolloven § 121e</a>. En fagdommer skal melde fra om sidegjøremål snarest mulig, og senest innen en måned etter at dommeren påtok seg sidegjøremålet. Enhver har rett til å gjøre seg kjent med opplysningene i registeret. Departementet bestemmer hvordan opplysninger skal gjøres tilgjengelige for den som ber om det.</td></tr>",
         "text": "(3) En fagdommer i Arbeidsretten må søke departementet om godkjenning for sidegjøremål i slike tilfeller som fremgår av domstolloven § 121c. Departementet fører register over fagdommernes sidegjøremål i samsvar med domstolloven § 121e. En fagdommer skal melde fra om sidegjøremål snarest mulig, og senest innen en måned etter at dommeren påtok seg sidegjøremålet. Enhver har rett til å gjøre seg kjent med opplysningene i registeret. Departementet bestemmer hvordan opplysninger skal gjøres tilgjengelige for den som ber om det."
     },
     null,
@@ -1168,19 +1168,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> De faste dommere i Arbeidsretten er tre fagdommere, hvorav en leder og en nestleder, og fire andre dommere.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> De faste dommere i Arbeidsretten er tre fagdommere, hvorav en leder og en nestleder, og fire andre dommere.</td></tr>",
         "text": "(1) De faste dommere i Arbeidsretten er tre fagdommere, hvorav en leder og en nestleder, og fire andre dommere."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> De tre fagdommerne er embetsmenn. De øvrige fire dommerne og minst to varadommere for hver av rettens sju dommere oppnevnes av Kongen for tre år. De fire dommerne med varadommere oppnevnes etter innstilling, jf. <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> De tre fagdommerne er embetsmenn. De øvrige fire dommerne og minst to varadommere for hver av rettens sju dommere oppnevnes av Kongen for tre år. De fire dommerne med varadommere oppnevnes etter innstilling, jf. <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>.</td></tr>",
         "text": "(2) De tre fagdommerne er embetsmenn. De øvrige fire dommerne og minst to varadommere for hver av rettens sju dommere oppnevnes av Kongen for tre år. De fire dommerne med varadommere oppnevnes etter innstilling, jf. § 39."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Departementet kan gi permisjoner, frita og oppnevne dommere og varadommere i Arbeidsretten i oppnevningsperioden. Gjelder permisjonen eller fritaket en dommer eller en varadommer som er oppnevnt etter innstilling, jf. <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>, skal vedkommende organisasjon gis adgang til å innstille på nytt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Departementet kan gi permisjoner, frita og oppnevne dommere og varadommere i Arbeidsretten i oppnevningsperioden. Gjelder permisjonen eller fritaket en dommer eller en varadommer som er oppnevnt etter innstilling, jf. <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>, skal vedkommende organisasjon gis adgang til å innstille på nytt.</td></tr>",
         "text": "(3) Departementet kan gi permisjoner, frita og oppnevne dommere og varadommere i Arbeidsretten i oppnevningsperioden. Gjelder permisjonen eller fritaket en dommer eller en varadommer som er oppnevnt etter innstilling, jf. § 39, skal vedkommende organisasjon gis adgang til å innstille på nytt."
     },
     null,
@@ -1200,19 +1200,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> I den enkelte sak settes Arbeidsretten med sju dommere. Som hovedregel tilkalles to faste fagdommere og en varadommer for fagdommerne. Videre tilkalles fire dommere oppnevnt etter innstilling etter <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>. Varadommer som er oppnevnt etter innstilling fra en forening hvis innstilling ikke er fulgt ved oppnevningen av de faste dommerne, skal i saker som gjelder denne foreningen eller dens medlemmer likevel tilkalles i stedet for den dommer vedkommende er varadommere for.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> I den enkelte sak settes Arbeidsretten med sju dommere. Som hovedregel tilkalles to faste fagdommere og en varadommer for fagdommerne. Videre tilkalles fire dommere oppnevnt etter innstilling etter <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>. Varadommer som er oppnevnt etter innstilling fra en forening hvis innstilling ikke er fulgt ved oppnevningen av de faste dommerne, skal i saker som gjelder denne foreningen eller dens medlemmer likevel tilkalles i stedet for den dommer vedkommende er varadommere for.</td></tr>",
         "text": "(1) I den enkelte sak settes Arbeidsretten med sju dommere. Som hovedregel tilkalles to faste fagdommere og en varadommer for fagdommerne. Videre tilkalles fire dommere oppnevnt etter innstilling etter § 39. Varadommer som er oppnevnt etter innstilling fra en forening hvis innstilling ikke er fulgt ved oppnevningen av de faste dommerne, skal i saker som gjelder denne foreningen eller dens medlemmer likevel tilkalles i stedet for den dommer vedkommende er varadommere for."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Hvis en dommer under forhandlingene får forfall som må antas å ville vare lenger enn en uke, oppnevnes stedfortreder etter <a data-id=\"lov/2012-01-27-9/§41\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A741\">§ 41</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Hvis en dommer under forhandlingene får forfall som må antas å ville vare lenger enn en uke, oppnevnes stedfortreder etter <a data-id=\"lov/2012-01-27-9/§41\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A741\">§ 41</a>.</td></tr>",
         "text": "(2) Hvis en dommer under forhandlingene får forfall som må antas å ville vare lenger enn en uke, oppnevnes stedfortreder etter § 41."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> De dommere som har begynt hovedforhandlingen av en sak, skal føre saken til ende selv om deres tjenestetid løper ut under behandlingen av saken.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> De dommere som har begynt hovedforhandlingen av en sak, skal føre saken til ende selv om deres tjenestetid løper ut under behandlingen av saken.</td></tr>",
         "text": "(3) De dommere som har begynt hovedforhandlingen av en sak, skal føre saken til ende selv om deres tjenestetid løper ut under behandlingen av saken."
     },
     null,
@@ -1232,19 +1232,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Arbeidsgiverforening som omfatter minst 100 arbeidsgivere som til sammen sysselsetter minst 10 000 arbeidstakere, samt fagforening som har minst 10 000 arbeidstakere som medlemmer, kan hver for seg fremsette forslag til to dommere med varadommere. De som foreslås, må ha sagt seg villige til å motta vervet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Arbeidsgiverforening som omfatter minst 100 arbeidsgivere som til sammen sysselsetter minst 10 000 arbeidstakere, samt fagforening som har minst 10 000 arbeidstakere som medlemmer, kan hver for seg fremsette forslag til to dommere med varadommere. De som foreslås, må ha sagt seg villige til å motta vervet.</td></tr>",
         "text": "(1) Arbeidsgiverforening som omfatter minst 100 arbeidsgivere som til sammen sysselsetter minst 10 000 arbeidstakere, samt fagforening som har minst 10 000 arbeidstakere som medlemmer, kan hver for seg fremsette forslag til to dommere med varadommere. De som foreslås, må ha sagt seg villige til å motta vervet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Blant dem som er foreslått, oppnevnes to dommere med varadommere fra hver side. Er det innkommet konkurrerende forslag fra forskjellige fagforeninger eller arbeidsgiverforeninger, skal de faste dommerne fra hver side oppnevnes blant dem som er foreslått av den fagforening og den arbeidsgiverforening som har flest medlemmer innenfor lovens område.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Blant dem som er foreslått, oppnevnes to dommere med varadommere fra hver side. Er det innkommet konkurrerende forslag fra forskjellige fagforeninger eller arbeidsgiverforeninger, skal de faste dommerne fra hver side oppnevnes blant dem som er foreslått av den fagforening og den arbeidsgiverforening som har flest medlemmer innenfor lovens område.</td></tr>",
         "text": "(2) Blant dem som er foreslått, oppnevnes to dommere med varadommere fra hver side. Er det innkommet konkurrerende forslag fra forskjellige fagforeninger eller arbeidsgiverforeninger, skal de faste dommerne fra hver side oppnevnes blant dem som er foreslått av den fagforening og den arbeidsgiverforening som har flest medlemmer innenfor lovens område."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Er ikke innstilling kommet inn til departementet innen en fastsatt frist, skjer oppnevningen uten innstilling.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Er ikke innstilling kommet inn til departementet innen en fastsatt frist, skjer oppnevningen uten innstilling.</td></tr>",
         "text": "(3) Er ikke innstilling kommet inn til departementet innen en fastsatt frist, skjer oppnevningen uten innstilling."
     },
     null,
@@ -1264,19 +1264,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Reglene om inhabilitet i <a data-id=\"lov/1915-08-13-5/§106\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7106\">domstolloven §§ 106</a> og <a data-id=\"lov/1915-08-13-5/§107\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7107\">107</a> gjelder tilsvarende for dommere i Arbeidsretten. Når andre særlige omstendigheter foreligger, som er egnet til å svekke tilliten til en dommers habilitet, skal dommeren vike sete. Spørsmål om inhabilitet kan reises av dommerne og partene. <a data-id=\"lov/1915-08-13-5/§113\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7113\">Domstolloven § 113</a> gjelder tilsvarende så langt den passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Reglene om inhabilitet i <a data-id=\"lov/1915-08-13-5/§106\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7106\">domstolloven §§ 106</a> og <a data-id=\"lov/1915-08-13-5/§107\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7107\">107</a> gjelder tilsvarende for dommere i Arbeidsretten. Når andre særlige omstendigheter foreligger, som er egnet til å svekke tilliten til en dommers habilitet, skal dommeren vike sete. Spørsmål om inhabilitet kan reises av dommerne og partene. <a data-id=\"lov/1915-08-13-5/§113\" class=\" reference\" href=\"/lov/1915-08-13-5/%C2%A7113\">Domstolloven § 113</a> gjelder tilsvarende så langt den passer.</td></tr>",
         "text": "(1) Reglene om inhabilitet i domstolloven §§ 106 og 107 gjelder tilsvarende for dommere i Arbeidsretten. Når andre særlige omstendigheter foreligger, som er egnet til å svekke tilliten til en dommers habilitet, skal dommeren vike sete. Spørsmål om inhabilitet kan reises av dommerne og partene. Domstolloven § 113 gjelder tilsvarende så langt den passer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Retten avgjør ved kjennelse om noen skal utelukkes som inhabil. Reises spørsmål om å utelukke en innstilt dommer forut for hovedforhandlingen hvor saken skal behandles, treffer rettens tre fagdommere avgjørelsen ved kjennelse.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Retten avgjør ved kjennelse om noen skal utelukkes som inhabil. Reises spørsmål om å utelukke en innstilt dommer forut for hovedforhandlingen hvor saken skal behandles, treffer rettens tre fagdommere avgjørelsen ved kjennelse.</td></tr>",
         "text": "(2) Retten avgjør ved kjennelse om noen skal utelukkes som inhabil. Reises spørsmål om å utelukke en innstilt dommer forut for hovedforhandlingen hvor saken skal behandles, treffer rettens tre fagdommere avgjørelsen ved kjennelse."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Reises spørsmål om å utelukke en av Arbeidsrettens fagdommere, skal Arbeidsrettens leder innkalle en varadommer for å delta i avgjørelsen av spørsmålet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Reises spørsmål om å utelukke en av Arbeidsrettens fagdommere, skal Arbeidsrettens leder innkalle en varadommer for å delta i avgjørelsen av spørsmålet.</td></tr>",
         "text": "(3) Reises spørsmål om å utelukke en av Arbeidsrettens fagdommere, skal Arbeidsrettens leder innkalle en varadommer for å delta i avgjørelsen av spørsmålet."
     },
     null,
@@ -1296,19 +1296,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Hvis alle rettens fagdommere er inhabile eller har forfall, oppnevner departementet stedfortreder for rettens leder.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Hvis alle rettens fagdommere er inhabile eller har forfall, oppnevner departementet stedfortreder for rettens leder.</td></tr>",
         "text": "(1) Hvis alle rettens fagdommere er inhabile eller har forfall, oppnevner departementet stedfortreder for rettens leder."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Hvis det kan ventes fremsatt en inhabilitetsinnsigelse mot en dommer som er oppnevnt etter innstilling, og rettens leder eller saksforberedende dommer antar innsigelsen kan bli godkjent av retten, skal varadommer tilkalles.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Hvis det kan ventes fremsatt en inhabilitetsinnsigelse mot en dommer som er oppnevnt etter innstilling, og rettens leder eller saksforberedende dommer antar innsigelsen kan bli godkjent av retten, skal varadommer tilkalles.</td></tr>",
         "text": "(2) Hvis det kan ventes fremsatt en inhabilitetsinnsigelse mot en dommer som er oppnevnt etter innstilling, og rettens leder eller saksforberedende dommer antar innsigelsen kan bli godkjent av retten, skal varadommer tilkalles."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Hvis en dommer er inhabil eller har forfall, skal det tilkalles en varadommer i den rekkefølge oppnevningen viser. For en dommer som er oppnevnt etter innstilling, skal varadommer fra samme forening likevel tilkalles før andre varadommere.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Hvis en dommer er inhabil eller har forfall, skal det tilkalles en varadommer i den rekkefølge oppnevningen viser. For en dommer som er oppnevnt etter innstilling, skal varadommer fra samme forening likevel tilkalles før andre varadommere.</td></tr>",
         "text": "(3) Hvis en dommer er inhabil eller har forfall, skal det tilkalles en varadommer i den rekkefølge oppnevningen viser. For en dommer som er oppnevnt etter innstilling, skal varadommer fra samme forening likevel tilkalles før andre varadommere."
     },
     null,
@@ -1368,31 +1368,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> En part kan møte selv eller ved prosessfullmektig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> En part kan møte selv eller ved prosessfullmektig.</td></tr>",
         "text": "(1) En part kan møte selv eller ved prosessfullmektig."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> En part kan møte med inntil tre personer i tillegg til en eller flere prosessfullmektiger.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> En part kan møte med inntil tre personer i tillegg til en eller flere prosessfullmektiger.</td></tr>",
         "text": "(2) En part kan møte med inntil tre personer i tillegg til en eller flere prosessfullmektiger."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Utenlandsk advokat kan være prosessfullmektig når retten etter sakens art og forholdene ellers finner det ubetenkelig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Utenlandsk advokat kan være prosessfullmektig når retten etter sakens art og forholdene ellers finner det ubetenkelig.</td></tr>",
         "text": "(3) Utenlandsk advokat kan være prosessfullmektig når retten etter sakens art og forholdene ellers finner det ubetenkelig."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> En prosessfullmakt må være uinnskrenket.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> En prosessfullmakt må være uinnskrenket.</td></tr>",
         "text": "(4) En prosessfullmakt må være uinnskrenket."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> For øvrig gjelder bestemmelsene i <a data-id=\"lov/2005-06-17-90/kap2\" class=\" reference\" href=\"/lov/2005-06-17-90/kap2\">tvisteloven kapittel 2</a> om parter, prosessdyktighet og stedfortredere og <a data-id=\"lov/2005-06-17-90/kap3\" class=\" reference\" href=\"/lov/2005-06-17-90/kap3\">kapittel 3</a> om prosessfullmektiger og rettslige medhjelpere tilsvarende så langt de passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> For øvrig gjelder bestemmelsene i <a data-id=\"lov/2005-06-17-90/kap2\" class=\" reference\" href=\"/lov/2005-06-17-90/kap2\">tvisteloven kapittel 2</a> om parter, prosessdyktighet og stedfortredere og <a data-id=\"lov/2005-06-17-90/kap3\" class=\" reference\" href=\"/lov/2005-06-17-90/kap3\">kapittel 3</a> om prosessfullmektiger og rettslige medhjelpere tilsvarende så langt de passer.</td></tr>",
         "text": "(5) For øvrig gjelder bestemmelsene i tvisteloven kapittel 2 om parter, prosessdyktighet og stedfortredere og kapittel 3 om prosessfullmektiger og rettslige medhjelpere tilsvarende så langt de passer."
     },
     null,
@@ -1412,91 +1412,91 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Saken bringes inn for Arbeidsretten ved skriftlig stevning. Blir stevningen sendt som papirdokument, skal det sendes så mange eksemplarer at dommerne i saken og saksøkte kan få hvert sitt eksemplar.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Saken bringes inn for Arbeidsretten ved skriftlig stevning. Blir stevningen sendt som papirdokument, skal det sendes så mange eksemplarer at dommerne i saken og saksøkte kan få hvert sitt eksemplar.</td></tr>",
         "text": "(1) Saken bringes inn for Arbeidsretten ved skriftlig stevning. Blir stevningen sendt som papirdokument, skal det sendes så mange eksemplarer at dommerne i saken og saksøkte kan få hvert sitt eksemplar."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Stevningen skal inneholde:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Stevningen skal inneholde:</td></tr>",
         "text": "(2) Stevningen skal inneholde:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn og adresse på parter og prosessfullmektiger,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn og adresse på parter og prosessfullmektiger,</td></tr>",
         "text": "a)\tnavn og adresse på parter og prosessfullmektiger,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en fremstilling av saken og de krav som gjøres gjeldende,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">en fremstilling av saken og de krav som gjøres gjeldende,</td></tr>",
         "text": "b)\ten fremstilling av saken og de krav som gjøres gjeldende,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">en påstand som angir det domsresultat saksøker krever,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">en påstand som angir det domsresultat saksøker krever,</td></tr>",
         "text": "c)\ten påstand som angir det domsresultat saksøker krever,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den faktiske og rettslige begrunnelse for saksøkerens krav,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den faktiske og rettslige begrunnelse for saksøkerens krav,</td></tr>",
         "text": "d)\tden faktiske og rettslige begrunnelse for saksøkerens krav,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">oppgave over de bevis som vil bli ført, hvordan de tenkes skaffet til veie, og hva saksøkeren akter å godtgjøre ved dem,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">oppgave over de bevis som vil bli ført, hvordan de tenkes skaffet til veie, og hva saksøkeren akter å godtgjøre ved dem,</td></tr>",
         "text": "e)\toppgave over de bevis som vil bli ført, hvordan de tenkes skaffet til veie, og hva saksøkeren akter å godtgjøre ved dem,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">oppgave over de bevis saksøkeren ønsker fremskaffet av motparten eller ved rettens hjelp,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">oppgave over de bevis saksøkeren ønsker fremskaffet av motparten eller ved rettens hjelp,</td></tr>",
         "text": "f)\toppgave over de bevis saksøkeren ønsker fremskaffet av motparten eller ved rettens hjelp,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">grunnlaget for at retten kan behandle saken dersom det kan være tvil om dette,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">grunnlaget for at retten kan behandle saken dersom det kan være tvil om dette,</td></tr>",
         "text": "g)\tgrunnlaget for at retten kan behandle saken dersom det kan være tvil om dette,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksøkerens syn på den videre behandling av saken.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksøkerens syn på den videre behandling av saken.</td></tr>",
         "text": "h)\tsaksøkerens syn på den videre behandling av saken."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Er det mangler ved stevningen, skal saksøkeren snarest mulig gjøres oppmerksom på dem og forklares hvordan de bør rettes.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Er det mangler ved stevningen, skal saksøkeren snarest mulig gjøres oppmerksom på dem og forklares hvordan de bør rettes.</td></tr>",
         "text": "(3) Er det mangler ved stevningen, skal saksøkeren snarest mulig gjøres oppmerksom på dem og forklares hvordan de bør rettes."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Med stevningen skal sendes protokoll fra de forhandlinger som er ført mellom partene om tvisten, eller bevis for at saksøkeren har forsøkt å gjennomføre slike forhandlinger. Dersom dette vilkåret ikke er oppfylt, skal saksøkeren gjøres oppmerksom på at retten ikke kan ta saken under behandling.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Med stevningen skal sendes protokoll fra de forhandlinger som er ført mellom partene om tvisten, eller bevis for at saksøkeren har forsøkt å gjennomføre slike forhandlinger. Dersom dette vilkåret ikke er oppfylt, skal saksøkeren gjøres oppmerksom på at retten ikke kan ta saken under behandling.</td></tr>",
         "text": "(4) Med stevningen skal sendes protokoll fra de forhandlinger som er ført mellom partene om tvisten, eller bevis for at saksøkeren har forsøkt å gjennomføre slike forhandlinger. Dersom dette vilkåret ikke er oppfylt, skal saksøkeren gjøres oppmerksom på at retten ikke kan ta saken under behandling."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Når stevningen er i orden, sendes den uten opphold til saksøkte. Retten skal fastsette en frist, som normalt bør være tre uker, til å inngi skriftlig tilsvar. I tilsvaret skal saksøkte fremsette sine bemerkninger til stevningen, eventuelle innsigelser mot at retten behandler saken, nevne de krav som saksøkte vil reise, gi bevisoppgaver svarende til dem som er nevnt under andre ledd bokstav e og f, samt angi saksøktes syn på den videre behandling av saken. Første ledd gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Når stevningen er i orden, sendes den uten opphold til saksøkte. Retten skal fastsette en frist, som normalt bør være tre uker, til å inngi skriftlig tilsvar. I tilsvaret skal saksøkte fremsette sine bemerkninger til stevningen, eventuelle innsigelser mot at retten behandler saken, nevne de krav som saksøkte vil reise, gi bevisoppgaver svarende til dem som er nevnt under andre ledd bokstav e og f, samt angi saksøktes syn på den videre behandling av saken. Første ledd gjelder tilsvarende.</td></tr>",
         "text": "(5) Når stevningen er i orden, sendes den uten opphold til saksøkte. Retten skal fastsette en frist, som normalt bør være tre uker, til å inngi skriftlig tilsvar. I tilsvaret skal saksøkte fremsette sine bemerkninger til stevningen, eventuelle innsigelser mot at retten behandler saken, nevne de krav som saksøkte vil reise, gi bevisoppgaver svarende til dem som er nevnt under andre ledd bokstav e og f, samt angi saksøktes syn på den videre behandling av saken. Første ledd gjelder tilsvarende."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Saksforberedende dommer fastsetter tid og sted for hovedforhandlingen, som skal holdes snarest mulig, men tidligst 48 timer etter at innkallingen er bekreftet mottatt av partene. Hovedforhandlingen skal påbegynnes senest seks måneder etter at vilkårene i femte ledd første punktum er oppfylt, med mindre særlige grunner taler for at det brukes lengre tid til saksforberedelsen. Fristen starter å løpe når stevningen er forkynt for motparten. Hovedforhandlingen kan holdes utenfor rettens faste sete.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Saksforberedende dommer fastsetter tid og sted for hovedforhandlingen, som skal holdes snarest mulig, men tidligst 48 timer etter at innkallingen er bekreftet mottatt av partene. Hovedforhandlingen skal påbegynnes senest seks måneder etter at vilkårene i femte ledd første punktum er oppfylt, med mindre særlige grunner taler for at det brukes lengre tid til saksforberedelsen. Fristen starter å løpe når stevningen er forkynt for motparten. Hovedforhandlingen kan holdes utenfor rettens faste sete.</td></tr>",
         "text": "(6) Saksforberedende dommer fastsetter tid og sted for hovedforhandlingen, som skal holdes snarest mulig, men tidligst 48 timer etter at innkallingen er bekreftet mottatt av partene. Hovedforhandlingen skal påbegynnes senest seks måneder etter at vilkårene i femte ledd første punktum er oppfylt, med mindre særlige grunner taler for at det brukes lengre tid til saksforberedelsen. Fristen starter å løpe når stevningen er forkynt for motparten. Hovedforhandlingen kan holdes utenfor rettens faste sete."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Er arrest gjort for å sikre et erstatningskrav hvis avgjørelse hører under Arbeidsretten, må sak om erstatningskravet reises innen seks dager.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Er arrest gjort for å sikre et erstatningskrav hvis avgjørelse hører under Arbeidsretten, må sak om erstatningskravet reises innen seks dager.</td></tr>",
         "text": "(7) Er arrest gjort for å sikre et erstatningskrav hvis avgjørelse hører under Arbeidsretten, må sak om erstatningskravet reises innen seks dager."
     },
     null,
@@ -1516,31 +1516,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Partshjelp kan tillates for</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Partshjelp kan tillates for</td></tr>",
         "text": "(1) Partshjelp kan tillates for"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som har reelt behov begrunnet i egen rettsstilling for at den ene parten vinner, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den som har reelt behov begrunnet i egen rettsstilling for at den ene parten vinner, og</td></tr>",
         "text": "a)\tden som har reelt behov begrunnet i egen rettsstilling for at den ene parten vinner, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeidsgiver- og arbeidstakerorganisasjoner som har et slikt behov begrunnet i sine medlemmers rettsstilling.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">arbeidsgiver- og arbeidstakerorganisasjoner som har et slikt behov begrunnet i sine medlemmers rettsstilling.</td></tr>",
         "text": "b)\tarbeidsgiver- og arbeidstakerorganisasjoner som har et slikt behov begrunnet i sine medlemmers rettsstilling."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Partshjelp må erklæres i prosesskriv senest fire uker før hovedforhandlingen. Erklæringen skal angi det som er grunnlaget for partshjelpen, og meddeles partene med frist for å bestride partshjelpen. Bestrides den, avgjøres spørsmålet om retten til partshjelp ved kjennelse. Inntil det er avsagt kjennelse som nekter partshjelp, kan den som har erklært partshjelp, utøve prosessuelle rettigheter etter tredje ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Partshjelp må erklæres i prosesskriv senest fire uker før hovedforhandlingen. Erklæringen skal angi det som er grunnlaget for partshjelpen, og meddeles partene med frist for å bestride partshjelpen. Bestrides den, avgjøres spørsmålet om retten til partshjelp ved kjennelse. Inntil det er avsagt kjennelse som nekter partshjelp, kan den som har erklært partshjelp, utøve prosessuelle rettigheter etter tredje ledd.</td></tr>",
         "text": "(2) Partshjelp må erklæres i prosesskriv senest fire uker før hovedforhandlingen. Erklæringen skal angi det som er grunnlaget for partshjelpen, og meddeles partene med frist for å bestride partshjelpen. Bestrides den, avgjøres spørsmålet om retten til partshjelp ved kjennelse. Inntil det er avsagt kjennelse som nekter partshjelp, kan den som har erklært partshjelp, utøve prosessuelle rettigheter etter tredje ledd."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Partshjelperen trer inn i saken slik den står. Partshjelperen kan foreta prosesshandlinger på vegne av parten. Prosesshandlingene må ikke stride mot partens prosesshandlinger.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Partshjelperen trer inn i saken slik den står. Partshjelperen kan foreta prosesshandlinger på vegne av parten. Prosesshandlingene må ikke stride mot partens prosesshandlinger.</td></tr>",
         "text": "(3) Partshjelperen trer inn i saken slik den står. Partshjelperen kan foreta prosesshandlinger på vegne av parten. Prosesshandlingene må ikke stride mot partens prosesshandlinger."
     },
     null,
@@ -1580,61 +1580,61 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Retten skal sørge for at saken blir fullt opplyst.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Retten skal sørge for at saken blir fullt opplyst.</td></tr>",
         "text": "(1) Retten skal sørge for at saken blir fullt opplyst."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Retten skal på ethvert trinn av saken vurdere muligheten for å få tvisten løst i minnelighet ved å oppfordre partene til å finne en utenrettslig løsning. Plikten etter første punktum gjelder ikke dersom sakens karakter eller forholdene for øvrig taler mot en slik løsning.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Retten skal på ethvert trinn av saken vurdere muligheten for å få tvisten løst i minnelighet ved å oppfordre partene til å finne en utenrettslig løsning. Plikten etter første punktum gjelder ikke dersom sakens karakter eller forholdene for øvrig taler mot en slik løsning.</td></tr>",
         "text": "(2) Retten skal på ethvert trinn av saken vurdere muligheten for å få tvisten løst i minnelighet ved å oppfordre partene til å finne en utenrettslig løsning. Plikten etter første punktum gjelder ikke dersom sakens karakter eller forholdene for øvrig taler mot en slik løsning."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Saksforberedelsen og hovedforhandlingen styres av en av rettens fagdommere.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Saksforberedelsen og hovedforhandlingen styres av en av rettens fagdommere.</td></tr>",
         "text": "(3) Saksforberedelsen og hovedforhandlingen styres av en av rettens fagdommere."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Saken behandles og bevisene føres på den måte som retten finner passende. Hovedforhandlingen skal være muntlig, med mindre begge parter samtykker i skriftlig behandling og retten finner det ubetenkelig. <a data-id=\"lov/2005-06-17-90/§9-13\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A79-13\">Tvisteloven § 9-13</a> om styringen av hovedforhandlingen og <a data-id=\"lov/2005-06-17-90/§9-14\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A79-14\">§ 9-14</a> andre ledd om muntlig hovedforhandling gjelder tilsvarende så langt de passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Saken behandles og bevisene føres på den måte som retten finner passende. Hovedforhandlingen skal være muntlig, med mindre begge parter samtykker i skriftlig behandling og retten finner det ubetenkelig. <a data-id=\"lov/2005-06-17-90/§9-13\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A79-13\">Tvisteloven § 9-13</a> om styringen av hovedforhandlingen og <a data-id=\"lov/2005-06-17-90/§9-14\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A79-14\">§ 9-14</a> andre ledd om muntlig hovedforhandling gjelder tilsvarende så langt de passer.</td></tr>",
         "text": "(4) Saken behandles og bevisene føres på den måte som retten finner passende. Hovedforhandlingen skal være muntlig, med mindre begge parter samtykker i skriftlig behandling og retten finner det ubetenkelig. Tvisteloven § 9-13 om styringen av hovedforhandlingen og § 9-14 andre ledd om muntlig hovedforhandling gjelder tilsvarende så langt de passer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Retten kan innhente forklaringer av parter, sakkyndige og enhver annen hvis forklaring kan være av betydning for saken. <a data-id=\"lov/2005-06-17-90/§22-9\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A722-9\">Tvisteloven § 22-9</a> om bevisfritak for belastende personopplysninger gjelder tilsvarende så langt den passer. Det kan ikke føres bevis med opplysninger fra meklere om det som har fremkommet under meklingen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Retten kan innhente forklaringer av parter, sakkyndige og enhver annen hvis forklaring kan være av betydning for saken. <a data-id=\"lov/2005-06-17-90/§22-9\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A722-9\">Tvisteloven § 22-9</a> om bevisfritak for belastende personopplysninger gjelder tilsvarende så langt den passer. Det kan ikke føres bevis med opplysninger fra meklere om det som har fremkommet under meklingen.</td></tr>",
         "text": "(5) Retten kan innhente forklaringer av parter, sakkyndige og enhver annen hvis forklaring kan være av betydning for saken. Tvisteloven § 22-9 om bevisfritak for belastende personopplysninger gjelder tilsvarende så langt den passer. Det kan ikke føres bevis med opplysninger fra meklere om det som har fremkommet under meklingen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Retten kan pålegge enhver å fremlegge dokumenter, forretningsbøker og andre bevis som vedkommende har rådighet over. Retten kan pålegge en part eller et vitne å undersøke registrerte regnskapsopplysninger, regnskapsmateriale eller andre bevis, samt å legge frem en oversikt over dette.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Retten kan pålegge enhver å fremlegge dokumenter, forretningsbøker og andre bevis som vedkommende har rådighet over. Retten kan pålegge en part eller et vitne å undersøke registrerte regnskapsopplysninger, regnskapsmateriale eller andre bevis, samt å legge frem en oversikt over dette.</td></tr>",
         "text": "(6) Retten kan pålegge enhver å fremlegge dokumenter, forretningsbøker og andre bevis som vedkommende har rådighet over. Retten kan pålegge en part eller et vitne å undersøke registrerte regnskapsopplysninger, regnskapsmateriale eller andre bevis, samt å legge frem en oversikt over dette."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Retten kan foreta befaring og bevisundersøkelse enten selv eller ved ett eller flere av sine medlemmer eller ved oppnevnte sakkyndige.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Retten kan foreta befaring og bevisundersøkelse enten selv eller ved ett eller flere av sine medlemmer eller ved oppnevnte sakkyndige.</td></tr>",
         "text": "(7) Retten kan foreta befaring og bevisundersøkelse enten selv eller ved ett eller flere av sine medlemmer eller ved oppnevnte sakkyndige."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(8)</span> Arbeidsretten kan kreve bevisopptak ved tingretten. <a data-id=\"lov/2005-06-17-90/§21-11\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A721-11\">Tvisteloven § 21-11</a> om bevisopptak, <a data-id=\"lov/2005-06-17-90/§21-13\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A721-13\">§ 21-13</a> om bevisføringen i saker som behandles skriftlig og bestemmelsene i <a data-id=\"lov/2005-06-17-90/kap27\" class=\" reference\" href=\"/lov/2005-06-17-90/kap27\">kapittel 27</a> om bevisopptak i rettssak gjelder tilsvarende så langt de passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(8)</span> Arbeidsretten kan kreve bevisopptak ved tingretten. <a data-id=\"lov/2005-06-17-90/§21-11\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A721-11\">Tvisteloven § 21-11</a> om bevisopptak, <a data-id=\"lov/2005-06-17-90/§21-13\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A721-13\">§ 21-13</a> om bevisføringen i saker som behandles skriftlig og bestemmelsene i <a data-id=\"lov/2005-06-17-90/kap27\" class=\" reference\" href=\"/lov/2005-06-17-90/kap27\">kapittel 27</a> om bevisopptak i rettssak gjelder tilsvarende så langt de passer.</td></tr>",
         "text": "(8) Arbeidsretten kan kreve bevisopptak ved tingretten. Tvisteloven § 21-11 om bevisopptak, § 21-13 om bevisføringen i saker som behandles skriftlig og bestemmelsene i kapittel 27 om bevisopptak i rettssak gjelder tilsvarende så langt de passer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(9)</span> <a data-id=\"lov/2005-06-17-90/§16-4\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-4\">Tvisteloven § 16-4</a> om utsettelse av hovedforhandlingen gjelder tilsvarende så langt den passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(9)</span> <a data-id=\"lov/2005-06-17-90/§16-4\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-4\">Tvisteloven § 16-4</a> om utsettelse av hovedforhandlingen gjelder tilsvarende så langt den passer.</td></tr>",
         "text": "(9) Tvisteloven § 16-4 om utsettelse av hovedforhandlingen gjelder tilsvarende så langt den passer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(10)</span> En part som vil ha gyldig fravær ved et rettsmøte, kan kreve at møtet omberammes. Det samme gjelder når en partsrepresentant eller prosessfullmektig vil ha gyldig fravær og det vil innebære vesentlig ulempe at en annen møter i stedet. Rettens leder eller saksforberedende dommer kan ellers omberamme rettsmøter når det er nødvendig for å sikre forsvarlig behandling eller hvis tungtveiende grunner ellers taler for det. Ved avgjørelsen skal det legges vekt på behovet for rask, forsvarlig og kostnadseffektiv behandling. Ved omberammelse skal det så vidt mulig fastsettes ny tid for rettsmøtet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(10)</span> En part som vil ha gyldig fravær ved et rettsmøte, kan kreve at møtet omberammes. Det samme gjelder når en partsrepresentant eller prosessfullmektig vil ha gyldig fravær og det vil innebære vesentlig ulempe at en annen møter i stedet. Rettens leder eller saksforberedende dommer kan ellers omberamme rettsmøter når det er nødvendig for å sikre forsvarlig behandling eller hvis tungtveiende grunner ellers taler for det. Ved avgjørelsen skal det legges vekt på behovet for rask, forsvarlig og kostnadseffektiv behandling. Ved omberammelse skal det så vidt mulig fastsettes ny tid for rettsmøtet.</td></tr>",
         "text": "(10) En part som vil ha gyldig fravær ved et rettsmøte, kan kreve at møtet omberammes. Det samme gjelder når en partsrepresentant eller prosessfullmektig vil ha gyldig fravær og det vil innebære vesentlig ulempe at en annen møter i stedet. Rettens leder eller saksforberedende dommer kan ellers omberamme rettsmøter når det er nødvendig for å sikre forsvarlig behandling eller hvis tungtveiende grunner ellers taler for det. Ved avgjørelsen skal det legges vekt på behovet for rask, forsvarlig og kostnadseffektiv behandling. Ved omberammelse skal det så vidt mulig fastsettes ny tid for rettsmøtet."
     },
     null,
@@ -1654,25 +1654,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Saksforberedende dommer kan stanse en sak på begjæring fra en part dersom utfallet helt eller delvis avhenger av et rettsforhold som vil bli bindende avgjort i en annen sak. Saken kan også stanses dersom tungtveiende grunner ellers taler for det. Det skal legges vekt på behovet for hurtig, forsvarlig og kostnadseffektiv behandling.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Saksforberedende dommer kan stanse en sak på begjæring fra en part dersom utfallet helt eller delvis avhenger av et rettsforhold som vil bli bindende avgjort i en annen sak. Saken kan også stanses dersom tungtveiende grunner ellers taler for det. Det skal legges vekt på behovet for hurtig, forsvarlig og kostnadseffektiv behandling.</td></tr>",
         "text": "(1) Saksforberedende dommer kan stanse en sak på begjæring fra en part dersom utfallet helt eller delvis avhenger av et rettsforhold som vil bli bindende avgjort i en annen sak. Saken kan også stanses dersom tungtveiende grunner ellers taler for det. Det skal legges vekt på behovet for hurtig, forsvarlig og kostnadseffektiv behandling."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Avgjørelse om stansing treffes ved kjennelse av saksforberedende dommer. Virkningen av stansing inntrer når kjennelsen er avsagt. Saken bringes i gang igjen når behandlingen kan fortsette.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Avgjørelse om stansing treffes ved kjennelse av saksforberedende dommer. Virkningen av stansing inntrer når kjennelsen er avsagt. Saken bringes i gang igjen når behandlingen kan fortsette.</td></tr>",
         "text": "(2) Avgjørelse om stansing treffes ved kjennelse av saksforberedende dommer. Virkningen av stansing inntrer når kjennelsen er avsagt. Saken bringes i gang igjen når behandlingen kan fortsette."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Partene kan avtale stansing av en sak i minst tre måneder. Avtalen får virkning når retten har mottatt den. Saksforberedende dommer bringer saken i gang igjen på begjæring fra en part. Samme sak kan stanses ved avtale mellom partene flere ganger. En sak som er stanset etter avtale mellom partene, heves når den har vært stanset i til sammen to år.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Partene kan avtale stansing av en sak i minst tre måneder. Avtalen får virkning når retten har mottatt den. Saksforberedende dommer bringer saken i gang igjen på begjæring fra en part. Samme sak kan stanses ved avtale mellom partene flere ganger. En sak som er stanset etter avtale mellom partene, heves når den har vært stanset i til sammen to år.</td></tr>",
         "text": "(3) Partene kan avtale stansing av en sak i minst tre måneder. Avtalen får virkning når retten har mottatt den. Saksforberedende dommer bringer saken i gang igjen på begjæring fra en part. Samme sak kan stanses ved avtale mellom partene flere ganger. En sak som er stanset etter avtale mellom partene, heves når den har vært stanset i til sammen to år."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> <a data-id=\"lov/2005-06-17-90/§16-15\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-15\">Tvisteloven § 16-15</a> om virkning av stansing og <a data-id=\"lov/2005-06-17-90/§16-16\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-16\">§ 16-16</a> om stansing etter loven gjelder tilsvarende så langt de passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> <a data-id=\"lov/2005-06-17-90/§16-15\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-15\">Tvisteloven § 16-15</a> om virkning av stansing og <a data-id=\"lov/2005-06-17-90/§16-16\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A716-16\">§ 16-16</a> om stansing etter loven gjelder tilsvarende så langt de passer.</td></tr>",
         "text": "(4) Tvisteloven § 16-15 om virkning av stansing og § 16-16 om stansing etter loven gjelder tilsvarende så langt de passer."
     },
     null,
@@ -1692,25 +1692,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Hvis en part, partsrepresentant eller prosessfullmektig ikke møter, og det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken utsettes. <a data-id=\"lov/2005-06-17-90/§13-4\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A713-4\">Tvisteloven § 13-4</a> om gyldig fravær gjelder tilsvarende så langt den passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Hvis en part, partsrepresentant eller prosessfullmektig ikke møter, og det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken utsettes. <a data-id=\"lov/2005-06-17-90/§13-4\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A713-4\">Tvisteloven § 13-4</a> om gyldig fravær gjelder tilsvarende så langt den passer.</td></tr>",
         "text": "(1) Hvis en part, partsrepresentant eller prosessfullmektig ikke møter, og det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken utsettes. Tvisteloven § 13-4 om gyldig fravær gjelder tilsvarende så langt den passer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Dersom saksøker ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken avvises.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Dersom saksøker ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken avvises.</td></tr>",
         "text": "(2) Dersom saksøker ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken avvises."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Dersom saksøkte ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, og saksøkeren møter, kan denne kreve saken fremmet. Saken skal i så fall så langt det er mulig behandles som om den fraværende part hadde vært til stede.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Dersom saksøkte ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, og saksøkeren møter, kan denne kreve saken fremmet. Saken skal i så fall så langt det er mulig behandles som om den fraværende part hadde vært til stede.</td></tr>",
         "text": "(3) Dersom saksøkte ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, og saksøkeren møter, kan denne kreve saken fremmet. Saken skal i så fall så langt det er mulig behandles som om den fraværende part hadde vært til stede."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Hvis ingen part møter, og det ikke er opplyst eller sannsynlig at noen av dem har gyldig fravær, skal saken heves.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Hvis ingen part møter, og det ikke er opplyst eller sannsynlig at noen av dem har gyldig fravær, skal saken heves.</td></tr>",
         "text": "(4) Hvis ingen part møter, og det ikke er opplyst eller sannsynlig at noen av dem har gyldig fravær, skal saken heves."
     },
     null,
@@ -1730,19 +1730,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Enhver som bor eller oppholder seg i Norge, plikter etter innkalling fra retten å møte som vitne for Arbeidsretten. Ved innkallingen skal det bestemmes om forklaringen skal gis direkte for Arbeidsretten eller ved fjernavhør. <a data-id=\"lov/2005-06-17-90/§21-10\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A721-10\">Tvisteloven § 21-10</a> om fjernavhør gjelder tilsvarende så langt den passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Enhver som bor eller oppholder seg i Norge, plikter etter innkalling fra retten å møte som vitne for Arbeidsretten. Ved innkallingen skal det bestemmes om forklaringen skal gis direkte for Arbeidsretten eller ved fjernavhør. <a data-id=\"lov/2005-06-17-90/§21-10\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A721-10\">Tvisteloven § 21-10</a> om fjernavhør gjelder tilsvarende så langt den passer.</td></tr>",
         "text": "(1) Enhver som bor eller oppholder seg i Norge, plikter etter innkalling fra retten å møte som vitne for Arbeidsretten. Ved innkallingen skal det bestemmes om forklaringen skal gis direkte for Arbeidsretten eller ved fjernavhør. Tvisteloven § 21-10 om fjernavhør gjelder tilsvarende så langt den passer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Om partenes plikt til å møte personlig etter særlig pålegg gjelder de samme regler som for vitner etter første ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Om partenes plikt til å møte personlig etter særlig pålegg gjelder de samme regler som for vitner etter første ledd.</td></tr>",
         "text": "(2) Om partenes plikt til å møte personlig etter særlig pålegg gjelder de samme regler som for vitner etter første ledd."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Enhver som plikter å vitne i saken, er etter oppnevning av retten pliktig til å gjøre tjeneste som sakkyndig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Enhver som plikter å vitne i saken, er etter oppnevning av retten pliktig til å gjøre tjeneste som sakkyndig.</td></tr>",
         "text": "(3) Enhver som plikter å vitne i saken, er etter oppnevning av retten pliktig til å gjøre tjeneste som sakkyndig."
     },
     null,
@@ -1762,13 +1762,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Vitner, sakkyndige og andre skal om mulig innkalles med én ukes varsel. Fristen kan innskrenkes til én dag dersom hensynet til rask behandling av saken gjør det påkrevd eller det legges til rette for at vitnet kan avhøres uten å forsømme viktige gjøremål. Vitner og sakkyndige som befinner seg i nærheten av rettsstedet eller et sted hvor fjernavhør kan foretas, plikter å møte straks om dette kan skje uten vesentlig ulempe.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Vitner, sakkyndige og andre skal om mulig innkalles med én ukes varsel. Fristen kan innskrenkes til én dag dersom hensynet til rask behandling av saken gjør det påkrevd eller det legges til rette for at vitnet kan avhøres uten å forsømme viktige gjøremål. Vitner og sakkyndige som befinner seg i nærheten av rettsstedet eller et sted hvor fjernavhør kan foretas, plikter å møte straks om dette kan skje uten vesentlig ulempe.</td></tr>",
         "text": "(1) Vitner, sakkyndige og andre skal om mulig innkalles med én ukes varsel. Fristen kan innskrenkes til én dag dersom hensynet til rask behandling av saken gjør det påkrevd eller det legges til rette for at vitnet kan avhøres uten å forsømme viktige gjøremål. Vitner og sakkyndige som befinner seg i nærheten av rettsstedet eller et sted hvor fjernavhør kan foretas, plikter å møte straks om dette kan skje uten vesentlig ulempe."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Parter skal innkalles med minst 48 timers varsel.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Parter skal innkalles med minst 48 timers varsel.</td></tr>",
         "text": "(2) Parter skal innkalles med minst 48 timers varsel."
     },
     null,
@@ -1788,13 +1788,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Vitner som retten har innkalt og oppnevnte sakkyndige har krav på godtgjøring etter reglene i <a data-id=\"lov/1916-07-21-2\" class=\" reference\" href=\"/lov/1916-07-21-2\">lov 21. juli 1916 nr. 2</a> om vidners og sakkyndiges godtgjørelse mv.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Vitner som retten har innkalt og oppnevnte sakkyndige har krav på godtgjøring etter reglene i <a data-id=\"lov/1916-07-21-2\" class=\" reference\" href=\"/lov/1916-07-21-2\">lov 21. juli 1916 nr. 2</a> om vidners og sakkyndiges godtgjørelse mv.</td></tr>",
         "text": "(1) Vitner som retten har innkalt og oppnevnte sakkyndige har krav på godtgjøring etter reglene i lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse mv."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Retten kan bestemme at også vitner som fremstilles av partene og sakkyndige som ikke er oppnevnt, skal ha slik godtgjøring.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Retten kan bestemme at også vitner som fremstilles av partene og sakkyndige som ikke er oppnevnt, skal ha slik godtgjøring.</td></tr>",
         "text": "(2) Retten kan bestemme at også vitner som fremstilles av partene og sakkyndige som ikke er oppnevnt, skal ha slik godtgjøring."
     },
     null,
@@ -1814,19 +1814,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Rettsmøtene er offentlige hvis ikke retten bestemmer noe annet. Dørene skal lukkes når forhandlingene omfatter forretnings- eller foreningshemmeligheter eller annet som ikke uvedkommende bør få kunnskap om.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Rettsmøtene er offentlige hvis ikke retten bestemmer noe annet. Dørene skal lukkes når forhandlingene omfatter forretnings- eller foreningshemmeligheter eller annet som ikke uvedkommende bør få kunnskap om.</td></tr>",
         "text": "(1) Rettsmøtene er offentlige hvis ikke retten bestemmer noe annet. Dørene skal lukkes når forhandlingene omfatter forretnings- eller foreningshemmeligheter eller annet som ikke uvedkommende bør få kunnskap om."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Enhver som har vært til stede under forhandlinger for lukkede dører, plikter å bevare taushet om det som er fremkommet under forhandlingene, hvis ikke retten tillater offentliggjøring.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Enhver som har vært til stede under forhandlinger for lukkede dører, plikter å bevare taushet om det som er fremkommet under forhandlingene, hvis ikke retten tillater offentliggjøring.</td></tr>",
         "text": "(2) Enhver som har vært til stede under forhandlinger for lukkede dører, plikter å bevare taushet om det som er fremkommet under forhandlingene, hvis ikke retten tillater offentliggjøring."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Bestemmelsene i <a data-id=\"lov/2005-06-17-90/kap14\" class=\" reference\" href=\"/lov/2005-06-17-90/kap14\">tvisteloven kapittel 14</a> om offentlighet og innsynsrett gjelder tilsvarende så langt de passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Bestemmelsene i <a data-id=\"lov/2005-06-17-90/kap14\" class=\" reference\" href=\"/lov/2005-06-17-90/kap14\">tvisteloven kapittel 14</a> om offentlighet og innsynsrett gjelder tilsvarende så langt de passer.</td></tr>",
         "text": "(3) Bestemmelsene i tvisteloven kapittel 14 om offentlighet og innsynsrett gjelder tilsvarende så langt de passer."
     },
     null,
@@ -1846,13 +1846,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> I rettsboken føres inn tid og sted for rettsmøtet, navnene på dommere, protokollfører, parter, partsrepresentanter, prosessfullmektiger, vitner og sakkyndige.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> I rettsboken føres inn tid og sted for rettsmøtet, navnene på dommere, protokollfører, parter, partsrepresentanter, prosessfullmektiger, vitner og sakkyndige.</td></tr>",
         "text": "(1) I rettsboken føres inn tid og sted for rettsmøtet, navnene på dommere, protokollfører, parter, partsrepresentanter, prosessfullmektiger, vitner og sakkyndige."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Rettsboken skal angi de bevis som er gjennomgått og forhandlingenes gang skal gjengis i korthet. Påstander og innsigelser skal føres inn fullstendig eller vedlegges. På samme måte skal alle rettens avgjørelser og forlik som sluttes mellom partene, føres inn.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Rettsboken skal angi de bevis som er gjennomgått og forhandlingenes gang skal gjengis i korthet. Påstander og innsigelser skal føres inn fullstendig eller vedlegges. På samme måte skal alle rettens avgjørelser og forlik som sluttes mellom partene, føres inn.</td></tr>",
         "text": "(2) Rettsboken skal angi de bevis som er gjennomgått og forhandlingenes gang skal gjengis i korthet. Påstander og innsigelser skal føres inn fullstendig eller vedlegges. På samme måte skal alle rettens avgjørelser og forlik som sluttes mellom partene, føres inn."
     },
     null,
@@ -1872,31 +1872,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Rettens avgjørelser treffes med stemmeflertall.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Rettens avgjørelser treffes med stemmeflertall.</td></tr>",
         "text": "(1) Rettens avgjørelser treffes med stemmeflertall."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Dom skal avsies snarest mulig etter at saksbehandlingen er avsluttet, og senest fire uker etter avslutning av hovedforhandling. Når saken er så arbeidskrevende at det ikke er mulig å overholde fristen, kan domsavsigelsen skje senere. Hvis fristen overskrides, skal årsaken oppgis i dommen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Dom skal avsies snarest mulig etter at saksbehandlingen er avsluttet, og senest fire uker etter avslutning av hovedforhandling. Når saken er så arbeidskrevende at det ikke er mulig å overholde fristen, kan domsavsigelsen skje senere. Hvis fristen overskrides, skal årsaken oppgis i dommen.</td></tr>",
         "text": "(2) Dom skal avsies snarest mulig etter at saksbehandlingen er avsluttet, og senest fire uker etter avslutning av hovedforhandling. Når saken er så arbeidskrevende at det ikke er mulig å overholde fristen, kan domsavsigelsen skje senere. Hvis fristen overskrides, skal årsaken oppgis i dommen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> <a data-id=\"lov/2005-06-17-90/§19-4\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-4\">Tvisteloven § 19-4</a> første til tredje ledd om avsigelse og <a data-id=\"lov/2005-06-17-90/§19-5\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-5\">§ 19-5</a> om underretning om avgjørelsen gjelder så langt de passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> <a data-id=\"lov/2005-06-17-90/§19-4\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-4\">Tvisteloven § 19-4</a> første til tredje ledd om avsigelse og <a data-id=\"lov/2005-06-17-90/§19-5\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-5\">§ 19-5</a> om underretning om avgjørelsen gjelder så langt de passer.</td></tr>",
         "text": "(3) Tvisteloven § 19-4 første til tredje ledd om avsigelse og § 19-5 om underretning om avgjørelsen gjelder så langt de passer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Retten kan beslutte å rette en avgjørelse som på grunn av skrive- eller regnefeil, misforståelser, forglemmelser eller lignende klare feil har fått en utforming som ikke stemte med rettens mening. Slik retting kan retten foreta av eget tiltak eller på begjæring av en part. Den dommer som ledet forhandlingene, kan foreta rettelsene dersom det ikke er tvil om hvordan de skal utføres. Beslutning om retting skal tilføyes avgjørelsen slik at det fremgår hva som er rettet. Partene skal underrettes straks.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Retten kan beslutte å rette en avgjørelse som på grunn av skrive- eller regnefeil, misforståelser, forglemmelser eller lignende klare feil har fått en utforming som ikke stemte med rettens mening. Slik retting kan retten foreta av eget tiltak eller på begjæring av en part. Den dommer som ledet forhandlingene, kan foreta rettelsene dersom det ikke er tvil om hvordan de skal utføres. Beslutning om retting skal tilføyes avgjørelsen slik at det fremgår hva som er rettet. Partene skal underrettes straks.</td></tr>",
         "text": "(4) Retten kan beslutte å rette en avgjørelse som på grunn av skrive- eller regnefeil, misforståelser, forglemmelser eller lignende klare feil har fått en utforming som ikke stemte med rettens mening. Slik retting kan retten foreta av eget tiltak eller på begjæring av en part. Den dommer som ledet forhandlingene, kan foreta rettelsene dersom det ikke er tvil om hvordan de skal utføres. Beslutning om retting skal tilføyes avgjørelsen slik at det fremgår hva som er rettet. Partene skal underrettes straks."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Saksstyrende kjennelser og andre beslutninger kan retten omgjøre når omgjøringen ikke er uforholdsmessig tyngende for en part som har innrettet seg etter avgjørelsen. <a data-id=\"lov/2005-06-17-90/§19-10\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-10\">Tvisteloven § 19-10</a> fjerde ledd om omgjøring gjelder tilsvarende så langt den passer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Saksstyrende kjennelser og andre beslutninger kan retten omgjøre når omgjøringen ikke er uforholdsmessig tyngende for en part som har innrettet seg etter avgjørelsen. <a data-id=\"lov/2005-06-17-90/§19-10\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-10\">Tvisteloven § 19-10</a> fjerde ledd om omgjøring gjelder tilsvarende så langt den passer.</td></tr>",
         "text": "(5) Saksstyrende kjennelser og andre beslutninger kan retten omgjøre når omgjøringen ikke er uforholdsmessig tyngende for en part som har innrettet seg etter avgjørelsen. Tvisteloven § 19-10 fjerde ledd om omgjøring gjelder tilsvarende så langt den passer."
     },
     null,
@@ -1916,19 +1916,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Det kan inngås rettsforlik under hovedforhandlingen. Rettsforlik føres inn i rettsboken og undertegnes av partene og rettens medlemmer. Har forliket ikke bestemmelser om sakskostnader, skal retten på begjæring fra partene avgjøre spørsmålet etter skjønn. <a data-id=\"lov/2005-06-17-90/§19-11\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-11\">Tvisteloven § 19-11</a> tredje ledd om rettens kontroll med forliket gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Det kan inngås rettsforlik under hovedforhandlingen. Rettsforlik føres inn i rettsboken og undertegnes av partene og rettens medlemmer. Har forliket ikke bestemmelser om sakskostnader, skal retten på begjæring fra partene avgjøre spørsmålet etter skjønn. <a data-id=\"lov/2005-06-17-90/§19-11\" class=\" reference\" href=\"/lov/2005-06-17-90/%C2%A719-11\">Tvisteloven § 19-11</a> tredje ledd om rettens kontroll med forliket gjelder tilsvarende.</td></tr>",
         "text": "(1) Det kan inngås rettsforlik under hovedforhandlingen. Rettsforlik føres inn i rettsboken og undertegnes av partene og rettens medlemmer. Har forliket ikke bestemmelser om sakskostnader, skal retten på begjæring fra partene avgjøre spørsmålet etter skjønn. Tvisteloven § 19-11 tredje ledd om rettens kontroll med forliket gjelder tilsvarende."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Et rettsforlik har samme virkning som en rettskraftig dom av Arbeidsretten.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Et rettsforlik har samme virkning som en rettskraftig dom av Arbeidsretten.</td></tr>",
         "text": "(2) Et rettsforlik har samme virkning som en rettskraftig dom av Arbeidsretten."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Spørsmål om et rettsforliks gyldighet kan ankes til Høyesteretts ankeutvalg. Ankefristen er en måned.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Spørsmål om et rettsforliks gyldighet kan ankes til Høyesteretts ankeutvalg. Ankefristen er en måned.</td></tr>",
         "text": "(3) Spørsmål om et rettsforliks gyldighet kan ankes til Høyesteretts ankeutvalg. Ankefristen er en måned."
     },
     null,
@@ -1948,31 +1948,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Kjennelse som avviser en sak fra Arbeidsretten, kan ankes til Høyesteretts ankeutvalg. Ankefristen er en måned.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Kjennelse som avviser en sak fra Arbeidsretten, kan ankes til Høyesteretts ankeutvalg. Ankefristen er en måned.</td></tr>",
         "text": "(1) Kjennelse som avviser en sak fra Arbeidsretten, kan ankes til Høyesteretts ankeutvalg. Ankefristen er en måned."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Den som ikke er part, kan anke en kjennelse eller beslutning som pålegger vedkommende plikter eller ilegger straff- eller omkostningsansvar. Partene kan anke kjennelser som ilegger dem selv straff- og omkostningsansvar etter <a data-id=\"lov/2012-01-27-9/§60\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A760\">§§ 60</a> og <a data-id=\"lov/2012-01-27-9/§62\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A762\">62</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Den som ikke er part, kan anke en kjennelse eller beslutning som pålegger vedkommende plikter eller ilegger straff- eller omkostningsansvar. Partene kan anke kjennelser som ilegger dem selv straff- og omkostningsansvar etter <a data-id=\"lov/2012-01-27-9/§60\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A760\">§§ 60</a> og <a data-id=\"lov/2012-01-27-9/§62\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A762\">62</a>.</td></tr>",
         "text": "(2) Den som ikke er part, kan anke en kjennelse eller beslutning som pålegger vedkommende plikter eller ilegger straff- eller omkostningsansvar. Partene kan anke kjennelser som ilegger dem selv straff- og omkostningsansvar etter §§ 60 og 62."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Anken må erklæres straks hvis vedkommende er til stede i retten, og ellers senest tre dager etter at vedkommende har fått meddelelse om avgjørelsen. Så fremt noen har opptrådt som motpart eller kan betraktes som motpart, bør vedkommende underrettes om anken. Anken har oppsettende virkning for den som anker.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Anken må erklæres straks hvis vedkommende er til stede i retten, og ellers senest tre dager etter at vedkommende har fått meddelelse om avgjørelsen. Så fremt noen har opptrådt som motpart eller kan betraktes som motpart, bør vedkommende underrettes om anken. Anken har oppsettende virkning for den som anker.</td></tr>",
         "text": "(3) Anken må erklæres straks hvis vedkommende er til stede i retten, og ellers senest tre dager etter at vedkommende har fått meddelelse om avgjørelsen. Så fremt noen har opptrådt som motpart eller kan betraktes som motpart, bør vedkommende underrettes om anken. Anken har oppsettende virkning for den som anker."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Retten sender uten opphold ankeerklæringen med de nødvendige dokumenter og utskrifter til Høyesteretts ankeutvalg. Retten, den ankende og andre som anken har betydning for, kan gi skriftlig uttalelse om saken. Påberopes kjensgjerninger som ikke tidligere er nevnt, skal uttalelsen alltid sendes gjennom retten.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Retten sender uten opphold ankeerklæringen med de nødvendige dokumenter og utskrifter til Høyesteretts ankeutvalg. Retten, den ankende og andre som anken har betydning for, kan gi skriftlig uttalelse om saken. Påberopes kjensgjerninger som ikke tidligere er nevnt, skal uttalelsen alltid sendes gjennom retten.</td></tr>",
         "text": "(4) Retten sender uten opphold ankeerklæringen med de nødvendige dokumenter og utskrifter til Høyesteretts ankeutvalg. Retten, den ankende og andre som anken har betydning for, kan gi skriftlig uttalelse om saken. Påberopes kjensgjerninger som ikke tidligere er nevnt, skal uttalelsen alltid sendes gjennom retten."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Arbeidsrettens dommer og kjennelser som ikke omfattes av første og andre ledd er endelige og kan fullbyrdes etter reglene for høyesterettsdommer. En dom kan likevel ankes til Høyesteretts ankeutvalg til oppheving på det grunnlag at saken ikke hører under Arbeidsrettens domsmyndighet. Fristen for slik anke er en måned.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Arbeidsrettens dommer og kjennelser som ikke omfattes av første og andre ledd er endelige og kan fullbyrdes etter reglene for høyesterettsdommer. En dom kan likevel ankes til Høyesteretts ankeutvalg til oppheving på det grunnlag at saken ikke hører under Arbeidsrettens domsmyndighet. Fristen for slik anke er en måned.</td></tr>",
         "text": "(5) Arbeidsrettens dommer og kjennelser som ikke omfattes av første og andre ledd er endelige og kan fullbyrdes etter reglene for høyesterettsdommer. En dom kan likevel ankes til Høyesteretts ankeutvalg til oppheving på det grunnlag at saken ikke hører under Arbeidsrettens domsmyndighet. Fristen for slik anke er en måned."
     },
     null,
@@ -1992,25 +1992,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Som hovedregel tilkjennes ikke sakskostnader for Arbeidsretten.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Som hovedregel tilkjennes ikke sakskostnader for Arbeidsretten.</td></tr>",
         "text": "(1) Som hovedregel tilkjennes ikke sakskostnader for Arbeidsretten."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Arbeidsretten kan i særlige tilfeller pålegge en av partene eller begge å dekke statens utgifter til en rettssak etter denne lov.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Arbeidsretten kan i særlige tilfeller pålegge en av partene eller begge å dekke statens utgifter til en rettssak etter denne lov.</td></tr>",
         "text": "(2) Arbeidsretten kan i særlige tilfeller pålegge en av partene eller begge å dekke statens utgifter til en rettssak etter denne lov."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Når særlige grunner taler for det, kan retten tilkjenne en part som har vunnet en sak for Arbeidsretten, erstatning for sine sakskostnader fra motparten. Saken anses også vunnet dersom motpartens sak blir avvist eller hevet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Når særlige grunner taler for det, kan retten tilkjenne en part som har vunnet en sak for Arbeidsretten, erstatning for sine sakskostnader fra motparten. Saken anses også vunnet dersom motpartens sak blir avvist eller hevet.</td></tr>",
         "text": "(3) Når særlige grunner taler for det, kan retten tilkjenne en part som har vunnet en sak for Arbeidsretten, erstatning for sine sakskostnader fra motparten. Saken anses også vunnet dersom motpartens sak blir avvist eller hevet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Heves saken som forlikt uten at forliket omfatter sakskostnadene, avgjøres spørsmålet om sakskostnader etter rettens skjønn, dersom en av partene krever det.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Heves saken som forlikt uten at forliket omfatter sakskostnadene, avgjøres spørsmålet om sakskostnader etter rettens skjønn, dersom en av partene krever det.</td></tr>",
         "text": "(4) Heves saken som forlikt uten at forliket omfatter sakskostnadene, avgjøres spørsmålet om sakskostnader etter rettens skjønn, dersom en av partene krever det."
     },
     {
@@ -2036,13 +2036,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Den som i et møte for Arbeidsretten fornærmer retten eller noen som møter for den, forstyrrer møtet, krenker rettens verdighet eller ikke lyder påbud fra retten eller fagdommeren som styrer saken, kan utvises og ilegges bøter. Den som skriver noe usømmelig eller fornærmelig i et prosesskriv, kan ilegges bot. Avgjørelsen treffes ved kjennelse.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Den som i et møte for Arbeidsretten fornærmer retten eller noen som møter for den, forstyrrer møtet, krenker rettens verdighet eller ikke lyder påbud fra retten eller fagdommeren som styrer saken, kan utvises og ilegges bøter. Den som skriver noe usømmelig eller fornærmelig i et prosesskriv, kan ilegges bot. Avgjørelsen treffes ved kjennelse.</td></tr>",
         "text": "(1) Den som i et møte for Arbeidsretten fornærmer retten eller noen som møter for den, forstyrrer møtet, krenker rettens verdighet eller ikke lyder påbud fra retten eller fagdommeren som styrer saken, kan utvises og ilegges bøter. Den som skriver noe usømmelig eller fornærmelig i et prosesskriv, kan ilegges bot. Avgjørelsen treffes ved kjennelse."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i første ledd gjelder også ved saksbehandling for meklingsinstitusjonen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Bestemmelsene i første ledd gjelder også ved saksbehandling for meklingsinstitusjonen.</td></tr>",
         "text": "(2) Bestemmelsene i første ledd gjelder også ved saksbehandling for meklingsinstitusjonen."
     },
     null,
@@ -2082,31 +2082,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Hvis et vitne eller noen som ellers har fått særlig pålegg om å møte personlig, uteblir uten gyldig fravær, ikke i tide melder forfall eller uten tillatelse forlater møtet før det er slutt, kan vedkommende ilegges bot og pålegges helt eller delvis å erstatte de omkostninger som er pådratt. Avgjørelsen treffes ved kjennelse.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Hvis et vitne eller noen som ellers har fått særlig pålegg om å møte personlig, uteblir uten gyldig fravær, ikke i tide melder forfall eller uten tillatelse forlater møtet før det er slutt, kan vedkommende ilegges bot og pålegges helt eller delvis å erstatte de omkostninger som er pådratt. Avgjørelsen treffes ved kjennelse.</td></tr>",
         "text": "(1) Hvis et vitne eller noen som ellers har fått særlig pålegg om å møte personlig, uteblir uten gyldig fravær, ikke i tide melder forfall eller uten tillatelse forlater møtet før det er slutt, kan vedkommende ilegges bot og pålegges helt eller delvis å erstatte de omkostninger som er pådratt. Avgjørelsen treffes ved kjennelse."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Uteblir vedkommende etter ny innkalling eller oppfordring til å møte, kan det enda en gang ilegges bot og omkostningsansvar.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Uteblir vedkommende etter ny innkalling eller oppfordring til å møte, kan det enda en gang ilegges bot og omkostningsansvar.</td></tr>",
         "text": "(2) Uteblir vedkommende etter ny innkalling eller oppfordring til å møte, kan det enda en gang ilegges bot og omkostningsansvar."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Som ugyldig fravær regnes også at noen uten gyldig grunn nekter å påta seg oppgaven som sakkyndig, at en sakkyndig forsømmer sin plikt, og at noen må avvises fordi vedkommende møter beruset.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Som ugyldig fravær regnes også at noen uten gyldig grunn nekter å påta seg oppgaven som sakkyndig, at en sakkyndig forsømmer sin plikt, og at noen må avvises fordi vedkommende møter beruset.</td></tr>",
         "text": "(3) Som ugyldig fravær regnes også at noen uten gyldig grunn nekter å påta seg oppgaven som sakkyndig, at en sakkyndig forsømmer sin plikt, og at noen må avvises fordi vedkommende møter beruset."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Nekter noen uten gyldig grunn å forklare seg eller avlegge forsikring, kan vedkommende ved kjennelse under saken ilegges bøter og pålegges helt eller delvis å erstatte de omkostninger som nektelsen har forårsaket. Vedkommende kan ikke ilegges slik straff og slikt omkostningsansvar mer enn to ganger i samme sak.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Nekter noen uten gyldig grunn å forklare seg eller avlegge forsikring, kan vedkommende ved kjennelse under saken ilegges bøter og pålegges helt eller delvis å erstatte de omkostninger som nektelsen har forårsaket. Vedkommende kan ikke ilegges slik straff og slikt omkostningsansvar mer enn to ganger i samme sak.</td></tr>",
         "text": "(4) Nekter noen uten gyldig grunn å forklare seg eller avlegge forsikring, kan vedkommende ved kjennelse under saken ilegges bøter og pålegges helt eller delvis å erstatte de omkostninger som nektelsen har forårsaket. Vedkommende kan ikke ilegges slik straff og slikt omkostningsansvar mer enn to ganger i samme sak."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Hvis noen ikke etterkommer pålegg om å fremlegge et dokument eller fremvise, forelegge eller gi adgang til en ting eller å etterse og gjøre utdrag av et dokument eller lignende, regnes det som å nekte å forklare seg.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Hvis noen ikke etterkommer pålegg om å fremlegge et dokument eller fremvise, forelegge eller gi adgang til en ting eller å etterse og gjøre utdrag av et dokument eller lignende, regnes det som å nekte å forklare seg.</td></tr>",
         "text": "(5) Hvis noen ikke etterkommer pålegg om å fremlegge et dokument eller fremvise, forelegge eller gi adgang til en ting eller å etterse og gjøre utdrag av et dokument eller lignende, regnes det som å nekte å forklare seg."
     },
     null,
@@ -2286,13 +2286,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Arbeidsrettens tre fagdommere</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Arbeidsrettens tre fagdommere</td></tr>",
         "text": "1.\tArbeidsrettens tre fagdommere"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Fire dommere som oppnevnes av Kongen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Fire dommere som oppnevnes av Kongen.</td></tr>",
         "text": "2.\tFire dommere som oppnevnes av Kongen."
     },
     {

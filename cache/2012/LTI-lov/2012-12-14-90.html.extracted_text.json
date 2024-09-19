@@ -50,7 +50,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Uønskede hendelser: hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle verdier og kritisk infrastruktur.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Uønskede hendelser: hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle verdier og kritisk infrastruktur.</td></tr>",
         "text": "a)\tUønskede hendelser: hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle verdier og kritisk infrastruktur."
     },
     {
@@ -62,13 +62,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kritisk infrastruktur: anlegg, systemer eller deler av disse som er nødvendige for å opprettholde sentrale samfunnsfunksjoner, menneskers helse, sikkerhet, trygghet og økonomiske eller sosiale velferd og hvor driftsforstyrrelse eller ødeleggelse av disse vil kunne få betydelige konsekvenser.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kritisk infrastruktur: anlegg, systemer eller deler av disse som er nødvendige for å opprettholde sentrale samfunnsfunksjoner, menneskers helse, sikkerhet, trygghet og økonomiske eller sosiale velferd og hvor driftsforstyrrelse eller ødeleggelse av disse vil kunne få betydelige konsekvenser.</td></tr>",
         "text": "d)\tKritisk infrastruktur: anlegg, systemer eller deler av disse som er nødvendige for å opprettholde sentrale samfunnsfunksjoner, menneskers helse, sikkerhet, trygghet og økonomiske eller sosiale velferd og hvor driftsforstyrrelse eller ødeleggelse av disse vil kunne få betydelige konsekvenser."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Europeisk kritisk infrastruktur: kritisk infrastruktur hvis driftsforstyrrelse eller ødeleggelse vil kunne få betydelige konsekvenser for to eller flere EØS-stater. Betydningen av konsekvensene skal vurderes ut fra de sektorovergripende kriteriene i <a data-id=\"lov/2010-06-25-45/§24a\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A724a\">§ 24a</a> fjerde ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Europeisk kritisk infrastruktur: kritisk infrastruktur hvis driftsforstyrrelse eller ødeleggelse vil kunne få betydelige konsekvenser for to eller flere EØS-stater. Betydningen av konsekvensene skal vurderes ut fra de sektorovergripende kriteriene i <a data-id=\"lov/2010-06-25-45/§24a\" class=\" reference\" href=\"/lov/2010-06-25-45/%C2%A724a\">§ 24a</a> fjerde ledd.</td></tr>",
         "text": "e)\tEuropeisk kritisk infrastruktur: kritisk infrastruktur hvis driftsforstyrrelse eller ødeleggelse vil kunne få betydelige konsekvenser for to eller flere EØS-stater. Betydningen av konsekvensene skal vurderes ut fra de sektorovergripende kriteriene i § 24a fjerde ledd."
     },
     {
@@ -128,19 +128,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det potensielle antall omkomne eller sårede,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det potensielle antall omkomne eller sårede,</td></tr>",
         "text": "a)\tdet potensielle antall omkomne eller sårede,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">størrelsen på det økonomiske tapet og forringelse av varer og tjenester, herunder potensielle miljømessige konsekvenser, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">størrelsen på det økonomiske tapet og forringelse av varer og tjenester, herunder potensielle miljømessige konsekvenser, og</td></tr>",
         "text": "b)\tstørrelsen på det økonomiske tapet og forringelse av varer og tjenester, herunder potensielle miljømessige konsekvenser, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">konsekvensene med hensyn til befolkningens tillit, fysiske lidelser og forstyrrelser i hverdagen, herunder bortfall av vesentlige tjenester.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">konsekvensene med hensyn til befolkningens tillit, fysiske lidelser og forstyrrelser i hverdagen, herunder bortfall av vesentlige tjenester.</td></tr>",
         "text": "c)\tkonsekvensene med hensyn til befolkningens tillit, fysiske lidelser og forstyrrelser i hverdagen, herunder bortfall av vesentlige tjenester."
     },
     {
@@ -182,19 +182,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">identifisering av viktige aktiva,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">identifisering av viktige aktiva,</td></tr>",
         "text": "a)\tidentifisering av viktige aktiva,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomføring av en risikoanalyse med grunnlag i alvorlige trussel scenarioer, hver aktivas sårbarhet og potensielle konsekvenser,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomføring av en risikoanalyse med grunnlag i alvorlige trussel scenarioer, hver aktivas sårbarhet og potensielle konsekvenser,</td></tr>",
         "text": "b)\tgjennomføring av en risikoanalyse med grunnlag i alvorlige trussel scenarioer, hver aktivas sårbarhet og potensielle konsekvenser,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">identifisering, utvelgelse og prioritering av mottiltak og prosedyrer med en vurdering mellom permanente og graderte sikkerhetstiltak.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">identifisering, utvelgelse og prioritering av mottiltak og prosedyrer med en vurdering mellom permanente og graderte sikkerhetstiltak.</td></tr>",
         "text": "c)\tidentifisering, utvelgelse og prioritering av mottiltak og prosedyrer med en vurdering mellom permanente og graderte sikkerhetstiltak."
     },
     {

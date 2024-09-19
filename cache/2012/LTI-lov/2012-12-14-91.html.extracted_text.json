@@ -14,19 +14,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1961-05-12-2\" class=\" reference\" href=\"/lov/1961-05-12-2\">Lov 12. mai 1961 nr. 2</a> om opphavsrett til åndsverk m.v. (åndsverkloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1961-05-12-2\" class=\" reference\" href=\"/lov/1961-05-12-2\">Lov 12. mai 1961 nr. 2</a> om opphavsrett til åndsverk m.v. (åndsverkloven).</td></tr>",
         "text": "1\tLov 12. mai 1961 nr. 2 om opphavsrett til åndsverk m.v. (åndsverkloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1987-05-15-21\" class=\" reference\" href=\"/lov/1987-05-15-21\">Lov 15. mai 1987 nr. 21</a> om film og videogram.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1987-05-15-21\" class=\" reference\" href=\"/lov/1987-05-15-21\">Lov 15. mai 1987 nr. 21</a> om film og videogram.</td></tr>",
         "text": "2\tLov 15. mai 1987 nr. 21 om film og videogram."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1992-12-04-127\" class=\" reference\" href=\"/lov/1992-12-04-127\">Lov 4. desember 1992 nr. 127</a> om kringkasting.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1992-12-04-127\" class=\" reference\" href=\"/lov/1992-12-04-127\">Lov 4. desember 1992 nr. 127</a> om kringkasting.</td></tr>",
         "text": "3\tLov 4. desember 1992 nr. 127 om kringkasting."
     },
     {
@@ -74,43 +74,43 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Kringkasting:</em> utsending av tale, musikk og liknende via elektroniske kommunikasjonsnett, ment eller egnet til å ses eller høres direkte og samtidig av allmennheten.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">Kringkasting:</em> utsending av tale, musikk og liknende via elektroniske kommunikasjonsnett, ment eller egnet til å ses eller høres direkte og samtidig av allmennheten.</td></tr>",
         "text": "a)\tKringkasting: utsending av tale, musikk og liknende via elektroniske kommunikasjonsnett, ment eller egnet til å ses eller høres direkte og samtidig av allmennheten."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Lokalkringkasting:</em> kringkasting innenfor geografisk avgrensede områder.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">Lokalkringkasting:</em> kringkasting innenfor geografisk avgrensede områder.</td></tr>",
         "text": "b)\tLokalkringkasting: kringkasting innenfor geografisk avgrensede områder."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Fjernsyn:</em> tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som er ment eller egnet til å ses direkte og samtidig på grunnlag av en programoversikt og som distribueres til allmennheten via elektroniske kommunikasjonsnett.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">Fjernsyn:</em> tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som er ment eller egnet til å ses direkte og samtidig på grunnlag av en programoversikt og som distribueres til allmennheten via elektroniske kommunikasjonsnett.</td></tr>",
         "text": "c)\tFjernsyn: tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som er ment eller egnet til å ses direkte og samtidig på grunnlag av en programoversikt og som distribueres til allmennheten via elektroniske kommunikasjonsnett."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Audiovisuelle bestillingstjenester:</em> tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som kan ses på et tidspunkt seeren selv velger og på dennes bestilling fra en programkatalog og som distribueres til allmennheten via elektroniske kommunikasjonsnett.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">Audiovisuelle bestillingstjenester:</em> tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som kan ses på et tidspunkt seeren selv velger og på dennes bestilling fra en programkatalog og som distribueres til allmennheten via elektroniske kommunikasjonsnett.</td></tr>",
         "text": "d)\tAudiovisuelle bestillingstjenester: tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som kan ses på et tidspunkt seeren selv velger og på dennes bestilling fra en programkatalog og som distribueres til allmennheten via elektroniske kommunikasjonsnett."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Bildeprogrammer:</em> et sett av levende bilder med eller uten lyd som utgjør ett enkelt innslag.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">Bildeprogrammer:</em> et sett av levende bilder med eller uten lyd som utgjør ett enkelt innslag.</td></tr>",
         "text": "e)\tBildeprogrammer: et sett av levende bilder med eller uten lyd som utgjør ett enkelt innslag."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Tjenestetilbyder/kringkaster:</em> fysisk eller juridisk person som i ervervsvirksomhet utøver effektiv redaksjonell kontroll med utvelgelsen og organiseringen av lyd- eller bildeprogrammene.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">Tjenestetilbyder/kringkaster:</em> fysisk eller juridisk person som i ervervsvirksomhet utøver effektiv redaksjonell kontroll med utvelgelsen og organiseringen av lyd- eller bildeprogrammene.</td></tr>",
         "text": "f)\tTjenestetilbyder/kringkaster: fysisk eller juridisk person som i ervervsvirksomhet utøver effektiv redaksjonell kontroll med utvelgelsen og organiseringen av lyd- eller bildeprogrammene."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">Reklame:</em> enhver form for markedsføring av en vare, tjeneste, sak eller idé mot betaling eller annen form for godtgjøring. Med reklame menes også innslag i fjernsyn eller audiovisuelle bestillingstjenester som har til formål å fremme tjenestetilbyderens egen virksomhet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">Reklame:</em> enhver form for markedsføring av en vare, tjeneste, sak eller idé mot betaling eller annen form for godtgjøring. Med reklame menes også innslag i fjernsyn eller audiovisuelle bestillingstjenester som har til formål å fremme tjenestetilbyderens egen virksomhet.</td></tr>",
         "text": "g)\tReklame: enhver form for markedsføring av en vare, tjeneste, sak eller idé mot betaling eller annen form for godtgjøring. Med reklame menes også innslag i fjernsyn eller audiovisuelle bestillingstjenester som har til formål å fremme tjenestetilbyderens egen virksomhet."
     },
     {
@@ -182,13 +182,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn, gateadresse, postadresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyteren</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">navn, gateadresse, postadresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyteren</td></tr>",
         "text": "a)\tnavn, gateadresse, postadresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyteren"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">relevante reguleringsmyndigheter eller tilsynsorganer på det audiovisuelle området.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">relevante reguleringsmyndigheter eller tilsynsorganer på det audiovisuelle området.</td></tr>",
         "text": "b)\trelevante reguleringsmyndigheter eller tilsynsorganer på det audiovisuelle området."
     },
     {
@@ -218,25 +218,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er innkommet en begrunnet anmodning om dette fra relevante myndigheter i et annet EØS-land,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er innkommet en begrunnet anmodning om dette fra relevante myndigheter i et annet EØS-land,</td></tr>",
         "text": "a)\tdet er innkommet en begrunnet anmodning om dette fra relevante myndigheter i et annet EØS-land,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">reglene er fastsatt i samsvar med allmennhetens interesse,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">reglene er fastsatt i samsvar med allmennhetens interesse,</td></tr>",
         "text": "b)\treglene er fastsatt i samsvar med allmennhetens interesse,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sendingen er helt eller hovedsakelig rettet mot vedkommende EØS-land, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sendingen er helt eller hovedsakelig rettet mot vedkommende EØS-land, og</td></tr>",
         "text": "c)\tsendingen er helt eller hovedsakelig rettet mot vedkommende EØS-land, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre norske regler fastsatt i lov eller forskrift ikke er til hinder for å følge regelverket i vedkommende EØS-land.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre norske regler fastsatt i lov eller forskrift ikke er til hinder for å følge regelverket i vedkommende EØS-land.</td></tr>",
         "text": "d)\tandre norske regler fastsatt i lov eller forskrift ikke er til hinder for å følge regelverket i vedkommende EØS-land."
     },
     {
@@ -308,13 +308,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle ferdigproduserte fjernsynsprogrammer, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle ferdigproduserte fjernsynsprogrammer, og</td></tr>",
         "text": "a)\talle ferdigproduserte fjernsynsprogrammer, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">direktesendte fjernsynsprogrammer mellom klokken 18.00 og klokken 23.00 dersom det er teknisk og praktisk mulig.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">direktesendte fjernsynsprogrammer mellom klokken 18.00 og klokken 23.00 dersom det er teknisk og praktisk mulig.</td></tr>",
         "text": "b)\tdirektesendte fjernsynsprogrammer mellom klokken 18.00 og klokken 23.00 dersom det er teknisk og praktisk mulig."
     },
     {
@@ -326,13 +326,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle ferdigproduserte fjernsynsprogrammer mellom klokken 18.00 og klokken 23.00, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">alle ferdigproduserte fjernsynsprogrammer mellom klokken 18.00 og klokken 23.00, og</td></tr>",
         "text": "a)\talle ferdigproduserte fjernsynsprogrammer mellom klokken 18.00 og klokken 23.00, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">direktesendte fjernsynsprogrammer mellom klokken 18.00 og klokken 23.00 dersom det er teknisk og praktisk mulig.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">direktesendte fjernsynsprogrammer mellom klokken 18.00 og klokken 23.00 dersom det er teknisk og praktisk mulig.</td></tr>",
         "text": "b)\tdirektesendte fjernsynsprogrammer mellom klokken 18.00 og klokken 23.00 dersom det er teknisk og praktisk mulig."
     },
     {
@@ -518,37 +518,37 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Programmets innhold og fastsetting av sendetid skal ikke under noen omstendigheter påvirkes på en slik måte at det innvirker på ansvaret og den redaksjonelle uavhengigheten til tilbyderen av medietjenesten.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Programmets innhold og fastsetting av sendetid skal ikke under noen omstendigheter påvirkes på en slik måte at det innvirker på ansvaret og den redaksjonelle uavhengigheten til tilbyderen av medietjenesten.</td></tr>",
         "text": "a)\tProgrammets innhold og fastsetting av sendetid skal ikke under noen omstendigheter påvirkes på en slik måte at det innvirker på ansvaret og den redaksjonelle uavhengigheten til tilbyderen av medietjenesten."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Produktplasseringen skal ikke direkte oppfordre til kjøp eller leie av varer eller tjenester, herunder ved å inneholde spesielle salgsfremmende henvisninger til slike varer eller tjenester.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Produktplasseringen skal ikke direkte oppfordre til kjøp eller leie av varer eller tjenester, herunder ved å inneholde spesielle salgsfremmende henvisninger til slike varer eller tjenester.</td></tr>",
         "text": "b)\tProduktplasseringen skal ikke direkte oppfordre til kjøp eller leie av varer eller tjenester, herunder ved å inneholde spesielle salgsfremmende henvisninger til slike varer eller tjenester."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Produktplassering skal ikke gi vedkommende vare eller tjeneste en unødig fremtredende rolle.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Produktplassering skal ikke gi vedkommende vare eller tjeneste en unødig fremtredende rolle.</td></tr>",
         "text": "c)\tProduktplassering skal ikke gi vedkommende vare eller tjeneste en unødig fremtredende rolle."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For å unngå at seerne villedes skal programmer som inneholder produktplassering identifiseres på en tydelig og nøytral måte ved begynnelsen og slutten av programmet, samt når programmet fortsetter etter et reklameavbrudd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">For å unngå at seerne villedes skal programmer som inneholder produktplassering identifiseres på en tydelig og nøytral måte ved begynnelsen og slutten av programmet, samt når programmet fortsetter etter et reklameavbrudd.</td></tr>",
         "text": "d)\tFor å unngå at seerne villedes skal programmer som inneholder produktplassering identifiseres på en tydelig og nøytral måte ved begynnelsen og slutten av programmet, samt når programmet fortsetter etter et reklameavbrudd."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Programmer som er produsert eller bestilt av tjenestetilbydere underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering av produkter eller tjenester som er av særlig interesse for barn eller av våpen, modeller av våpen eller leketøysutgaver av våpen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Programmer som er produsert eller bestilt av tjenestetilbydere underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering av produkter eller tjenester som er av særlig interesse for barn eller av våpen, modeller av våpen eller leketøysutgaver av våpen.</td></tr>",
         "text": "e)\tProgrammer som er produsert eller bestilt av tjenestetilbydere underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering av produkter eller tjenester som er av særlig interesse for barn eller av våpen, modeller av våpen eller leketøysutgaver av våpen."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Programmer som er produsert eller bestilt av fjernsynsforetak underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering finansiert av politiske partiorganisasjoner.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Programmer som er produsert eller bestilt av fjernsynsforetak underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering finansiert av politiske partiorganisasjoner.</td></tr>",
         "text": "f)\tProgrammer som er produsert eller bestilt av fjernsynsforetak underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering finansiert av politiske partiorganisasjoner."
     },
     {
@@ -614,31 +614,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender reklame i strid med norsk lov</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender reklame i strid med norsk lov</td></tr>",
         "text": "a)\tsender reklame i strid med norsk lov"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender program med pornografi eller vold i strid med norsk lov eller andre program som i alvorlig grad kan skade mindreåriges fysiske, psykiske eller moralske utvikling</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender program med pornografi eller vold i strid med norsk lov eller andre program som i alvorlig grad kan skade mindreåriges fysiske, psykiske eller moralske utvikling</td></tr>",
         "text": "b)\tsender program med pornografi eller vold i strid med norsk lov eller andre program som i alvorlig grad kan skade mindreåriges fysiske, psykiske eller moralske utvikling"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender program som kan være skadelige for barn eller ungdom når videresendingen skjer på tidspunkt barn eller ungdom er en dominerende seergruppe</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender program som kan være skadelige for barn eller ungdom når videresendingen skjer på tidspunkt barn eller ungdom er en dominerende seergruppe</td></tr>",
         "text": "c)\tsender program som kan være skadelige for barn eller ungdom når videresendingen skjer på tidspunkt barn eller ungdom er en dominerende seergruppe"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender program som norsk rett har funnet stridende mot <a data-id=\"lov/2005-05-20-28/§135\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7135\">straffeloven § 135</a> a, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender program som norsk rett har funnet stridende mot <a data-id=\"lov/2005-05-20-28/§135\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7135\">straffeloven § 135</a> a, eller</td></tr>",
         "text": "d)\tsender program som norsk rett har funnet stridende mot straffeloven § 135 a, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er etablert i et annet EØS-land for å omgå bestemmelser som ellers ville fått anvendelse dersom fjernsynsselskapet hadde vært etablert i Norge.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er etablert i et annet EØS-land for å omgå bestemmelser som ellers ville fått anvendelse dersom fjernsynsselskapet hadde vært etablert i Norge.</td></tr>",
         "text": "e)\ter etablert i et annet EØS-land for å omgå bestemmelser som ellers ville fått anvendelse dersom fjernsynsselskapet hadde vært etablert i Norge."
     },
     {

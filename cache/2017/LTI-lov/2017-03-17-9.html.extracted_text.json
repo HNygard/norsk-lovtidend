@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1963-06-21-23\" class=\" reference\" href=\"/lov/1963-06-21-23\">Lov 21. juni 1963 nr. 23</a> om vegar (veglova).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1963-06-21-23\" class=\" reference\" href=\"/lov/1963-06-21-23\">Lov 21. juni 1963 nr. 23</a> om vegar (veglova).</td></tr>",
         "text": "1\tLov 21. juni 1963 nr. 23 om vegar (veglova)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2003-07-04-83\" class=\" reference\" href=\"/lov/2003-07-04-83\">Lov 4. juli 2003 nr. 83</a> om elektronisk kommunikasjon (ekomloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2003-07-04-83\" class=\" reference\" href=\"/lov/2003-07-04-83\">Lov 4. juli 2003 nr. 83</a> om elektronisk kommunikasjon (ekomloven).</td></tr>",
         "text": "2\tLov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven)."
     },
     {
@@ -44,7 +44,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">radioutstyr</em>: et elektrisk eller elektronisk produkt, som enten alene eller sammen med ekstrautstyr, for eksempel en antenne, tilsiktet utstråler eller mottar radiobølger for radiokommunikasjon eller radiobestemmelse.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">radioutstyr</em>: et elektrisk eller elektronisk produkt, som enten alene eller sammen med ekstrautstyr, for eksempel en antenne, tilsiktet utstråler eller mottar radiobølger for radiokommunikasjon eller radiobestemmelse.</td></tr>",
         "text": "9.\tradioutstyr: et elektrisk eller elektronisk produkt, som enten alene eller sammen med ekstrautstyr, for eksempel en antenne, tilsiktet utstråler eller mottar radiobølger for radiokommunikasjon eller radiobestemmelse."
     },
     {
@@ -56,7 +56,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">17.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">samlokalisering</em>: felles bruk av infrastruktur eller felles bruk av tilhørende fasiliteter som brukes eller kan bli brukt til plassering av utstyr for elektronisk kommunikasjon.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">17.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">samlokalisering</em>: felles bruk av infrastruktur eller felles bruk av tilhørende fasiliteter som brukes eller kan bli brukt til plassering av utstyr for elektronisk kommunikasjon.</td></tr>",
         "text": "17.\tsamlokalisering: felles bruk av infrastruktur eller felles bruk av tilhørende fasiliteter som brukes eller kan bli brukt til plassering av utstyr for elektronisk kommunikasjon."
     },
     {
@@ -122,19 +122,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">særlig risiko for brudd på sikkerheten,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">særlig risiko for brudd på sikkerheten,</td></tr>",
         "text": "1.\tsærlig risiko for brudd på sikkerheten,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sikkerhetsbrudd som har skadet eller ødelagt lagrede data, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sikkerhetsbrudd som har skadet eller ødelagt lagrede data, eller</td></tr>",
         "text": "2.\tsikkerhetsbrudd som har skadet eller ødelagt lagrede data, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sikkerhetsbrudd som har krenket personvernet til abonnent eller bruker.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sikkerhetsbrudd som har krenket personvernet til abonnent eller bruker.</td></tr>",
         "text": "3.\tsikkerhetsbrudd som har krenket personvernet til abonnent eller bruker."
     },
     {
@@ -158,19 +158,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">til kommunikasjons- eller faktureringsformål</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">til kommunikasjons- eller faktureringsformål</td></tr>",
         "text": "1.\ttil kommunikasjons- eller faktureringsformål"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å oppfylle plikten etter <a data-id=\"lov/2003-07-04-83/§2-7a\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-7a\">§ 2-7 a</a> til å lagre data eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å oppfylle plikten etter <a data-id=\"lov/2003-07-04-83/§2-7a\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-7a\">§ 2-7 a</a> til å lagre data eller</td></tr>",
         "text": "2.\tfor å oppfylle plikten etter § 2-7 a til å lagre data eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å oppfylle andre krav fastsatt i medhold av lov.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å oppfylle andre krav fastsatt i medhold av lov.</td></tr>",
         "text": "3.\tfor å oppfylle andre krav fastsatt i medhold av lov."
     },
     {
@@ -368,7 +368,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer forskrift gitt med hjemmel i <a data-id=\"lov/2003-07-04-83/§2-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-1\">§§ 2-1</a> til <a data-id=\"lov/2003-07-04-83/§2-9\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-9\">2-9</a>, § <a data-id=\"lov/2003-07-04-83/§2-10\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-10\">2-10</a> femte ledd, <a data-id=\"lov/2003-07-04-83/§2-12\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-12\">§ 2-12</a>, § <a data-id=\"lov/2003-07-04-83/§2-14\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-14\">2-14</a>, § <a data-id=\"lov/2003-07-04-83/§2-15\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-15\">2-15</a>, <a data-id=\"lov/2003-07-04-83/§4-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A74-1\">§§ 4-1</a> til <a data-id=\"lov/2003-07-04-83/§4-8\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A74-8\">4-8</a>, § <a data-id=\"lov/2003-07-04-83/§4-14\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A74-14\">4-14</a>, § <a data-id=\"lov/2003-07-04-83/§5-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A75-1\">5-1</a>, § <a data-id=\"lov/2003-07-04-83/§6-2\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A76-2\">6-2</a>, § <a data-id=\"lov/2003-07-04-83/§6-5\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A76-5\">6-5</a>, <a data-id=\"lov/2003-07-04-83/§7-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A77-1\">§§ 7-1</a> til <a data-id=\"lov/2003-07-04-83/§7-4\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A77-4\">7-4</a>, § <a data-id=\"lov/2003-07-04-83/§8-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A78-1\">8-1</a>, § <a data-id=\"lov/2003-07-04-83/§10-3\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A710-3\">10-3</a> eller § <a data-id=\"lov/2003-07-04-83/§10-5\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A710-5\">10-5</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer forskrift gitt med hjemmel i <a data-id=\"lov/2003-07-04-83/§2-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-1\">§§ 2-1</a> til <a data-id=\"lov/2003-07-04-83/§2-9\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-9\">2-9</a>, § <a data-id=\"lov/2003-07-04-83/§2-10\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-10\">2-10</a> femte ledd, <a data-id=\"lov/2003-07-04-83/§2-12\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-12\">§ 2-12</a>, § <a data-id=\"lov/2003-07-04-83/§2-14\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-14\">2-14</a>, § <a data-id=\"lov/2003-07-04-83/§2-15\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-15\">2-15</a>, <a data-id=\"lov/2003-07-04-83/§4-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A74-1\">§§ 4-1</a> til <a data-id=\"lov/2003-07-04-83/§4-8\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A74-8\">4-8</a>, § <a data-id=\"lov/2003-07-04-83/§4-14\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A74-14\">4-14</a>, § <a data-id=\"lov/2003-07-04-83/§5-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A75-1\">5-1</a>, § <a data-id=\"lov/2003-07-04-83/§6-2\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A76-2\">6-2</a>, § <a data-id=\"lov/2003-07-04-83/§6-5\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A76-5\">6-5</a>, <a data-id=\"lov/2003-07-04-83/§7-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A77-1\">§§ 7-1</a> til <a data-id=\"lov/2003-07-04-83/§7-4\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A77-4\">7-4</a>, § <a data-id=\"lov/2003-07-04-83/§8-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A78-1\">8-1</a>, § <a data-id=\"lov/2003-07-04-83/§10-3\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A710-3\">10-3</a> eller § <a data-id=\"lov/2003-07-04-83/§10-5\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A710-5\">10-5</a></td></tr>",
         "text": "2.\tovertrer forskrift gitt med hjemmel i §§ 2-1 til 2-9, § 2-10 femte ledd, § 2-12, § 2-14, § 2-15, §§ 4-1 til 4-8, § 4-14, § 5-1, § 6-2, § 6-5, §§ 7-1 til 7-4, § 8-1, § 10-3 eller § 10-5"
     },
     {
@@ -434,7 +434,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer forskrift gitt med hjemmel i <a data-id=\"lov/2003-07-04-83/§2-3\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-3\">§ 2-3</a>, <a data-id=\"lov/2003-07-04-83/§2-7\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-7\">§§ 2-7</a> til <a data-id=\"lov/2003-07-04-83/§2-9\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-9\">2-9</a>, § <a data-id=\"lov/2003-07-04-83/§2-10\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-10\">2-10</a> annet og femte ledd, eller § <a data-id=\"lov/2003-07-04-83/§2-13\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-13\">2-13</a>, § <a data-id=\"lov/2003-07-04-83/§6-2\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A76-2\">6-2</a>, § <a data-id=\"lov/2003-07-04-83/§7-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A77-1\">7-1</a> eller § <a data-id=\"lov/2003-07-04-83/§8-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A78-1\">8-1</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer forskrift gitt med hjemmel i <a data-id=\"lov/2003-07-04-83/§2-3\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-3\">§ 2-3</a>, <a data-id=\"lov/2003-07-04-83/§2-7\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-7\">§§ 2-7</a> til <a data-id=\"lov/2003-07-04-83/§2-9\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-9\">2-9</a>, § <a data-id=\"lov/2003-07-04-83/§2-10\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-10\">2-10</a> annet og femte ledd, eller § <a data-id=\"lov/2003-07-04-83/§2-13\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A72-13\">2-13</a>, § <a data-id=\"lov/2003-07-04-83/§6-2\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A76-2\">6-2</a>, § <a data-id=\"lov/2003-07-04-83/§7-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A77-1\">7-1</a> eller § <a data-id=\"lov/2003-07-04-83/§8-1\" class=\" reference\" href=\"/lov/2003-07-04-83/%C2%A78-1\">8-1</a></td></tr>",
         "text": "2.\tovertrer forskrift gitt med hjemmel i § 2-3, §§ 2-7 til 2-9, § 2-10 annet og femte ledd, eller § 2-13, § 6-2, § 7-1 eller § 8-1"
     },
     {

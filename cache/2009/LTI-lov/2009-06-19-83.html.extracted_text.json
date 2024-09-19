@@ -14,19 +14,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1953-07-17-9\" class=\" reference\" href=\"/lov/1953-07-17-9\">Lov 17. juli 1953 nr. 9</a> om sivilforsvaret.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1953-07-17-9\" class=\" reference\" href=\"/lov/1953-07-17-9\">Lov 17. juli 1953 nr. 9</a> om sivilforsvaret.</td></tr>",
         "text": "1\tLov 17. juli 1953 nr. 9 om sivilforsvaret."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2004-03-05-12\" class=\" reference\" href=\"/lov/2004-03-05-12\">Lov 5. mars 2004 nr. 12</a> om konkurranse mellom foretak og kontroll med foretakssammenslutninger (konkurranseloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2004-03-05-12\" class=\" reference\" href=\"/lov/2004-03-05-12\">Lov 5. mars 2004 nr. 12</a> om konkurranse mellom foretak og kontroll med foretakssammenslutninger (konkurranseloven).</td></tr>",
         "text": "2\tLov 5. mars 2004 nr. 12 om konkurranse mellom foretak og kontroll med foretakssammenslutninger (konkurranseloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62</a> om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).</td></tr>",
         "text": "3\tLov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)."
     },
     {
@@ -62,7 +62,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">14.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ivareta kommunale beredskapsplikter etter <a data-id=\"lov/1953-07-17-9/§15a\" class=\" reference\" href=\"/lov/1953-07-17-9/%C2%A715a\">§§ 15 a</a> og <a data-id=\"lov/1953-07-17-9/§15b\" class=\" reference\" href=\"/lov/1953-07-17-9/%C2%A715b\">15 b</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">14.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ivareta kommunale beredskapsplikter etter <a data-id=\"lov/1953-07-17-9/§15a\" class=\" reference\" href=\"/lov/1953-07-17-9/%C2%A715a\">§§ 15 a</a> og <a data-id=\"lov/1953-07-17-9/§15b\" class=\" reference\" href=\"/lov/1953-07-17-9/%C2%A715b\">15 b</a>.</td></tr>",
         "text": "14.\tIvareta kommunale beredskapsplikter etter §§ 15 a og 15 b."
     },
     {
@@ -218,7 +218,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sivile tjenestepliktige og tjenestepliktige i sivilforsvaret,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sivile tjenestepliktige og tjenestepliktige i sivilforsvaret,</td></tr>",
         "text": "c)\tsivile tjenestepliktige og tjenestepliktige i sivilforsvaret,"
     },
     {
@@ -230,13 +230,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.</td></tr>",
         "text": "1.\tLoven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi nærmere overgangsbestemmelser.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi nærmere overgangsbestemmelser.</td></tr>",
         "text": "2.\tKongen kan gi nærmere overgangsbestemmelser."
     }
 ]

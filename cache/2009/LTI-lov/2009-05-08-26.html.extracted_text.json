@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2002-06-28-57\" class=\" reference\" href=\"/lov/2002-06-28-57\">Lov 28. juni 2002 nr. 57</a> om valg til Stortinget, fylkesting og kommunestyrer (valgloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2002-06-28-57\" class=\" reference\" href=\"/lov/2002-06-28-57\">Lov 28. juni 2002 nr. 57</a> om valg til Stortinget, fylkesting og kommunestyrer (valgloven).</td></tr>",
         "text": "1\tLov 28. juni 2002 nr. 57 om valg til Stortinget, fylkesting og kommunestyrer (valgloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1992-09-25-107\" class=\" reference\" href=\"/lov/1992-09-25-107\">Lov 25. september 1992 nr. 107</a> om kommuner og fylkeskommuner (kommuneloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1992-09-25-107\" class=\" reference\" href=\"/lov/1992-09-25-107\">Lov 25. september 1992 nr. 107</a> om kommuner og fylkeskommuner (kommuneloven).</td></tr>",
         "text": "2\tLov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven)."
     },
     {
@@ -50,13 +50,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Ved stortingsvalg og fylkestingsvalg sørger fylkesvalgstyret for at det blir trykt stemmesedler for alle godkjente valglister i fylket før forhåndsstemmegivningen starter 10. august innenriks.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Ved stortingsvalg og fylkestingsvalg sørger fylkesvalgstyret for at det blir trykt stemmesedler for alle godkjente valglister i fylket før forhåndsstemmegivningen starter 10. august innenriks.</td></tr>",
         "text": "(1) Ved stortingsvalg og fylkestingsvalg sørger fylkesvalgstyret for at det blir trykt stemmesedler for alle godkjente valglister i fylket før forhåndsstemmegivningen starter 10. august innenriks."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Ved kommunestyrevalg sørger valgstyret for at det blir trykt stemmesedler for alle godkjente valglister i kommunen før forhåndsstemmegivningen starter 10. august innenriks.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Ved kommunestyrevalg sørger valgstyret for at det blir trykt stemmesedler for alle godkjente valglister i kommunen før forhåndsstemmegivningen starter 10. august innenriks.</td></tr>",
         "text": "(2) Ved kommunestyrevalg sørger valgstyret for at det blir trykt stemmesedler for alle godkjente valglister i kommunen før forhåndsstemmegivningen starter 10. august innenriks."
     },
     {
@@ -68,7 +68,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Velgeren er selv ansvarlig for å avgi forhåndsstemme på et tidspunkt som gjør at forhåndsstemmegivningen kommer inn til valgstyret innen valgdagen kl. 21.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Velgeren er selv ansvarlig for å avgi forhåndsstemme på et tidspunkt som gjør at forhåndsstemmegivningen kommer inn til valgstyret innen valgdagen kl. 21.</td></tr>",
         "text": "(3) Velgeren er selv ansvarlig for å avgi forhåndsstemme på et tidspunkt som gjør at forhåndsstemmegivningen kommer inn til valgstyret innen valgdagen kl. 21."
     },
     {
@@ -80,7 +80,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Velgere som oppholder seg innenriks, unntatt på Svalbard og Jan Mayen, og som ikke kan avgi stemme i perioden for forhåndsstemmegivning eller på valgtinget, kan henvende seg til kommunen og avgi stemme fra 1. juli og frem til forhåndsstemmegivningen starter 10. august i valgåret.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Velgere som oppholder seg innenriks, unntatt på Svalbard og Jan Mayen, og som ikke kan avgi stemme i perioden for forhåndsstemmegivning eller på valgtinget, kan henvende seg til kommunen og avgi stemme fra 1. juli og frem til forhåndsstemmegivningen starter 10. august i valgåret.</td></tr>",
         "text": "(4) Velgere som oppholder seg innenriks, unntatt på Svalbard og Jan Mayen, og som ikke kan avgi stemme i perioden for forhåndsstemmegivning eller på valgtinget, kan henvende seg til kommunen og avgi stemme fra 1. juli og frem til forhåndsstemmegivningen starter 10. august i valgåret."
     },
     {
@@ -92,7 +92,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Kommunestyret kan selv, med tilslutning fra minst 1/3 av medlemmene, vedta at det på ett eller flere steder i kommunen skal holdes valg også søndagen før den offisielle valgdagen. Vedtaket må treffes senest samtidig med budsjettet for det året valget skal holdes.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Kommunestyret kan selv, med tilslutning fra minst 1/3 av medlemmene, vedta at det på ett eller flere steder i kommunen skal holdes valg også søndagen før den offisielle valgdagen. Vedtaket må treffes senest samtidig med budsjettet for det året valget skal holdes.</td></tr>",
         "text": "(2) Kommunestyret kan selv, med tilslutning fra minst 1/3 av medlemmene, vedta at det på ett eller flere steder i kommunen skal holdes valg også søndagen før den offisielle valgdagen. Vedtaket må treffes senest samtidig med budsjettet for det året valget skal holdes."
     },
     {
@@ -104,7 +104,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Valgstyret bestemmer hvor stemmegivningen skal foregå og fastsetter tiden for stemmegivning. Kommunestyret kan selv, med tilslutning fra minst 1/3 av medlemmene, vedta å holde valglokalene åpne lenger enn det valgstyret har vedtatt. Slikt vedtak må treffes senest samtidig med budsjettet for det året valget skal holdes. Stemmegivningen mandag må ikke foregå senere enn kl. 21.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Valgstyret bestemmer hvor stemmegivningen skal foregå og fastsetter tiden for stemmegivning. Kommunestyret kan selv, med tilslutning fra minst 1/3 av medlemmene, vedta å holde valglokalene åpne lenger enn det valgstyret har vedtatt. Slikt vedtak må treffes senest samtidig med budsjettet for det året valget skal holdes. Stemmegivningen mandag må ikke foregå senere enn kl. 21.</td></tr>",
         "text": "(2) Valgstyret bestemmer hvor stemmegivningen skal foregå og fastsetter tiden for stemmegivning. Kommunestyret kan selv, med tilslutning fra minst 1/3 av medlemmene, vedta å holde valglokalene åpne lenger enn det valgstyret har vedtatt. Slikt vedtak må treffes senest samtidig med budsjettet for det året valget skal holdes. Stemmegivningen mandag må ikke foregå senere enn kl. 21."
     },
     {
@@ -134,7 +134,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen er kommet inn til valgstyret innen kl. 21 på valgdagen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stemmegivningen er kommet inn til valgstyret innen kl. 21 på valgdagen.</td></tr>",
         "text": "g)\tstemmegivningen er kommet inn til valgstyret innen kl. 21 på valgdagen."
     },
     {
@@ -152,13 +152,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Departementet kan akkreditere nasjonale og internasjonale valgobservatører fra institusjoner eller organisasjoner til å observere gjennomføringen av valg til Stortinget eller valg til kommunestyrer og fylkesting.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Departementet kan akkreditere nasjonale og internasjonale valgobservatører fra institusjoner eller organisasjoner til å observere gjennomføringen av valg til Stortinget eller valg til kommunestyrer og fylkesting.</td></tr>",
         "text": "(1) Departementet kan akkreditere nasjonale og internasjonale valgobservatører fra institusjoner eller organisasjoner til å observere gjennomføringen av valg til Stortinget eller valg til kommunestyrer og fylkesting."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Kommunene har plikt til å ta imot akkrediterte valgobservatører og tilrettelegge for valgobservasjon.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Kommunene har plikt til å ta imot akkrediterte valgobservatører og tilrettelegge for valgobservasjon.</td></tr>",
         "text": "(2) Kommunene har plikt til å ta imot akkrediterte valgobservatører og tilrettelegge for valgobservasjon."
     },
     {
@@ -176,79 +176,79 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Ved forsettlig eller uaktsom overtredelse av <a data-id=\"lov/2002-06-28-57/§9-9\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A79-9\">valgloven § 9-9</a> kan Medietilsynet ilegge foretak et overtredelsesgebyr på inntil 28 ganger grunnbeløpet i folketrygden. Med foretak menes her selskap, samvirkeforetak, forening eller annen sammenslutning, enkeltpersonforetak, stiftelse, bo eller offentlig virksomhet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Ved forsettlig eller uaktsom overtredelse av <a data-id=\"lov/2002-06-28-57/§9-9\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A79-9\">valgloven § 9-9</a> kan Medietilsynet ilegge foretak et overtredelsesgebyr på inntil 28 ganger grunnbeløpet i folketrygden. Med foretak menes her selskap, samvirkeforetak, forening eller annen sammenslutning, enkeltpersonforetak, stiftelse, bo eller offentlig virksomhet.</td></tr>",
         "text": "(1) Ved forsettlig eller uaktsom overtredelse av valgloven § 9-9 kan Medietilsynet ilegge foretak et overtredelsesgebyr på inntil 28 ganger grunnbeløpet i folketrygden. Med foretak menes her selskap, samvirkeforetak, forening eller annen sammenslutning, enkeltpersonforetak, stiftelse, bo eller offentlig virksomhet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Ved utmålingen av gebyret skal det særlig legges vekt på</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Ved utmålingen av gebyret skal det særlig legges vekt på</td></tr>",
         "text": "(2) Ved utmålingen av gebyret skal det særlig legges vekt på"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet,</td></tr>",
         "text": "a)\tovertredelsens grovhet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,</td></tr>",
         "text": "b)\tom foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme foretakets interesser,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er begått for å fremme foretakets interesser,</td></tr>",
         "text": "c)\tom overtredelsen er begått for å fremme foretakets interesser,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,</td></tr>",
         "text": "d)\tom foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentakelse, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om det foreligger gjentakelse, og</td></tr>",
         "text": "e)\tom det foreligger gjentakelse, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretakets økonomiske evne.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretakets økonomiske evne.</td></tr>",
         "text": "f)\tforetakets økonomiske evne."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Overtredelsesgebyret tilfaller statskassen og er tvangsgrunnlag for utlegg.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Overtredelsesgebyret tilfaller statskassen og er tvangsgrunnlag for utlegg.</td></tr>",
         "text": "(3) Overtredelsesgebyret tilfaller statskassen og er tvangsgrunnlag for utlegg."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Kongen kan ikke gi Medietilsynet eller klagenemnda generelle instrukser om håndhevingen av bestemmelsen, og kan heller ikke gi pålegg om myndighetsutøvelsen i enkelttilfeller eller omgjøre vedtak.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Kongen kan ikke gi Medietilsynet eller klagenemnda generelle instrukser om håndhevingen av bestemmelsen, og kan heller ikke gi pålegg om myndighetsutøvelsen i enkelttilfeller eller omgjøre vedtak.</td></tr>",
         "text": "(4) Kongen kan ikke gi Medietilsynet eller klagenemnda generelle instrukser om håndhevingen av bestemmelsen, og kan heller ikke gi pålegg om myndighetsutøvelsen i enkelttilfeller eller omgjøre vedtak."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Vedtak om ilagt overtredelsesgebyr kan påklages til en uavhengig klagenemnd som oppnevnes av Kongen. Nemnda skal ha tre medlemmer. Kongen fastsetter hvem som skal være nemndas leder.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Vedtak om ilagt overtredelsesgebyr kan påklages til en uavhengig klagenemnd som oppnevnes av Kongen. Nemnda skal ha tre medlemmer. Kongen fastsetter hvem som skal være nemndas leder.</td></tr>",
         "text": "(5) Vedtak om ilagt overtredelsesgebyr kan påklages til en uavhengig klagenemnd som oppnevnes av Kongen. Nemnda skal ha tre medlemmer. Kongen fastsetter hvem som skal være nemndas leder."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Klagenemnda kan ikke omgjøre tilsynsorganets vedtak etter eget tiltak.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Klagenemnda kan ikke omgjøre tilsynsorganets vedtak etter eget tiltak.</td></tr>",
         "text": "(6) Klagenemnda kan ikke omgjøre tilsynsorganets vedtak etter eget tiltak."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Departementet kan i forskrift gi nærmere regler om gjennomføringen av bestemmelser i denne paragraf, herunder om oppnevning og sammensetning av klagenemnda, om inndrivelse av og betalingsfrist for gebyr.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Departementet kan i forskrift gi nærmere regler om gjennomføringen av bestemmelser i denne paragraf, herunder om oppnevning og sammensetning av klagenemnda, om inndrivelse av og betalingsfrist for gebyr.</td></tr>",
         "text": "(7) Departementet kan i forskrift gi nærmere regler om gjennomføringen av bestemmelser i denne paragraf, herunder om oppnevning og sammensetning av klagenemnda, om inndrivelse av og betalingsfrist for gebyr."
     },
     {
@@ -272,7 +272,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak treffes med alminnelig flertall av de stemmer som avgis, hvis ikke annet følger av denne lov eller av <a data-id=\"lov/2002-06-28-57/§9-2\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A79-2\">valgloven § 9-2</a> annet ledd eller <a data-id=\"lov/2002-06-28-57/§9-3\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A79-3\">§ 9-3</a> annet ledd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak treffes med alminnelig flertall av de stemmer som avgis, hvis ikke annet følger av denne lov eller av <a data-id=\"lov/2002-06-28-57/§9-2\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A79-2\">valgloven § 9-2</a> annet ledd eller <a data-id=\"lov/2002-06-28-57/§9-3\" class=\" reference\" href=\"/lov/2002-06-28-57/%C2%A79-3\">§ 9-3</a> annet ledd.</td></tr>",
         "text": "1.\tVedtak treffes med alminnelig flertall av de stemmer som avgis, hvis ikke annet følger av denne lov eller av valgloven § 9-2 annet ledd eller § 9-3 annet ledd."
     },
     {
@@ -302,13 +302,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret eller fylkestinget kan selv bestemme at det skal avholdes rådgivende lokale folkeavstemninger.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunestyret eller fylkestinget kan selv bestemme at det skal avholdes rådgivende lokale folkeavstemninger.</td></tr>",
         "text": "1.\tKommunestyret eller fylkestinget kan selv bestemme at det skal avholdes rådgivende lokale folkeavstemninger."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunene og fylkeskommunene plikter å rapportere de opplysninger som departementet finner er nødvendig for å offentliggjøre informasjon om lokale folkeavstemninger.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kommunene og fylkeskommunene plikter å rapportere de opplysninger som departementet finner er nødvendig for å offentliggjøre informasjon om lokale folkeavstemninger.</td></tr>",
         "text": "2.\tKommunene og fylkeskommunene plikter å rapportere de opplysninger som departementet finner er nødvendig for å offentliggjøre informasjon om lokale folkeavstemninger."
     },
     {

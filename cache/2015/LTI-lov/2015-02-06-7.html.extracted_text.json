@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1987-05-15-21\" class=\" reference\" href=\"/lov/1987-05-15-21\">Lov 15. mai 1987 nr. 21</a> om film og videogram.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1987-05-15-21\" class=\" reference\" href=\"/lov/1987-05-15-21\">Lov 15. mai 1987 nr. 21</a> om film og videogram.</td></tr>",
         "text": "1\tLov 15. mai 1987 nr. 21 om film og videogram."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1992-12-04-127\" class=\" reference\" href=\"/lov/1992-12-04-127\">Lov 4. desember 1992 nr. 127</a> om kringkasting og audiovisuelle bestillingstjenester (kringkastingsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1992-12-04-127\" class=\" reference\" href=\"/lov/1992-12-04-127\">Lov 4. desember 1992 nr. 127</a> om kringkasting og audiovisuelle bestillingstjenester (kringkastingsloven).</td></tr>",
         "text": "2\tLov 4. desember 1992 nr. 127 om kringkasting og audiovisuelle bestillingstjenester (kringkastingsloven)."
     },
     {
@@ -72,55 +72,55 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">mindreårige</em>: personer som ikke har fylt 18 år</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">mindreårige</em>: personer som ikke har fylt 18 år</td></tr>",
         "text": "a)\tmindreårige: personer som ikke har fylt 18 år"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">bildeprogram</em>: et sett av levende bilder, med eller uten lyd, som utgjør en avgrenset enhet</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">bildeprogram</em>: et sett av levende bilder, med eller uten lyd, som utgjør en avgrenset enhet</td></tr>",
         "text": "b)\tbildeprogram: et sett av levende bilder, med eller uten lyd, som utgjør en avgrenset enhet"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">tilknyttet materiale</em>: innhold som tilgjengeliggjøres før, under eller etter et bildeprogram, inkludert reklame, egenreklame, trailere og lignende</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">tilknyttet materiale</em>: innhold som tilgjengeliggjøres før, under eller etter et bildeprogram, inkludert reklame, egenreklame, trailere og lignende</td></tr>",
         "text": "c)\ttilknyttet materiale: innhold som tilgjengeliggjøres før, under eller etter et bildeprogram, inkludert reklame, egenreklame, trailere og lignende"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">videogram</em>: disk, plate, magnetbånd eller annen enhet med lagret informasjon som er egnet til å gjengi bildeprogram</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">videogram</em>: disk, plate, magnetbånd eller annen enhet med lagret informasjon som er egnet til å gjengi bildeprogram</td></tr>",
         "text": "d)\tvideogram: disk, plate, magnetbånd eller annen enhet med lagret informasjon som er egnet til å gjengi bildeprogram"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">bildeprogramdistributør</em>: den som har, eller har ervervet, rettighetene til tilgjengeliggjøring av bildeprogrammet på det norske markedet</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">bildeprogramdistributør</em>: den som har, eller har ervervet, rettighetene til tilgjengeliggjøring av bildeprogrammet på det norske markedet</td></tr>",
         "text": "e)\tbildeprogramdistributør: den som har, eller har ervervet, rettighetene til tilgjengeliggjøring av bildeprogrammet på det norske markedet"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">visningssted</em>: kino og annen arena for offentlig fremvisning av bildeprogram</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">visningssted</em>: kino og annen arena for offentlig fremvisning av bildeprogram</td></tr>",
         "text": "f)\tvisningssted: kino og annen arena for offentlig fremvisning av bildeprogram"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">omsetningssted</em>: forretning, nettside e.l. som selger billetter til fremvisning av bildeprogram, eller gir allmennheten tilgang til videogrammer gjennom kjøp, leie eller lignende</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">omsetningssted</em>: forretning, nettside e.l. som selger billetter til fremvisning av bildeprogram, eller gir allmennheten tilgang til videogrammer gjennom kjøp, leie eller lignende</td></tr>",
         "text": "g)\tomsetningssted: forretning, nettside e.l. som selger billetter til fremvisning av bildeprogram, eller gir allmennheten tilgang til videogrammer gjennom kjøp, leie eller lignende"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">skadelig innhold</em>: skildringer i bildeprogram som kan virke følelsesmessig opprivende eller kognitivt forstyrrende for mindreåriges velbefinnende</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">skadelig innhold</em>: skildringer i bildeprogram som kan virke følelsesmessig opprivende eller kognitivt forstyrrende for mindreåriges velbefinnende</td></tr>",
         "text": "h)\tskadelig innhold: skildringer i bildeprogram som kan virke følelsesmessig opprivende eller kognitivt forstyrrende for mindreåriges velbefinnende"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">alvorlig skadelig innhold</em>: skildringer i bildeprogram som kan virke sterkt følelsesmessig opprivende eller sterkt kognitivt forstyrrende for mindreåriges velbefinnende, særlig nærgående skildringer av kjønnslig aktivitet, grov vold og annen svært forstyrrende eller skremmende tematikk.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">alvorlig skadelig innhold</em>: skildringer i bildeprogram som kan virke sterkt følelsesmessig opprivende eller sterkt kognitivt forstyrrende for mindreåriges velbefinnende, særlig nærgående skildringer av kjønnslig aktivitet, grov vold og annen svært forstyrrende eller skremmende tematikk.</td></tr>",
         "text": "i)\talvorlig skadelig innhold: skildringer i bildeprogram som kan virke sterkt følelsesmessig opprivende eller sterkt kognitivt forstyrrende for mindreåriges velbefinnende, særlig nærgående skildringer av kjønnslig aktivitet, grov vold og annen svært forstyrrende eller skremmende tematikk."
     },
     {
@@ -152,19 +152,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fjernsyn og audiovisuelle bestillingstjenester omfattet av kringkastingsloven</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fjernsyn og audiovisuelle bestillingstjenester omfattet av kringkastingsloven</td></tr>",
         "text": "a)\tfjernsyn og audiovisuelle bestillingstjenester omfattet av kringkastingsloven"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fremvisning ved allmenn sammenkomst i Norge, inkludert kino eller annet visningssted</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fremvisning ved allmenn sammenkomst i Norge, inkludert kino eller annet visningssted</td></tr>",
         "text": "b)\tfremvisning ved allmenn sammenkomst i Norge, inkludert kino eller annet visningssted"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilgjengeliggjøring av videogram i Norge når bildeprogrammet tilgjengeliggjøres av et foretak som er registrert i Norge eller har forretningssted i Norge, av en person som er norsk statsborger eller har bosted i Norge, eller beslutningen om tilgjengeliggjøring er tatt i Norge.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilgjengeliggjøring av videogram i Norge når bildeprogrammet tilgjengeliggjøres av et foretak som er registrert i Norge eller har forretningssted i Norge, av en person som er norsk statsborger eller har bosted i Norge, eller beslutningen om tilgjengeliggjøring er tatt i Norge.</td></tr>",
         "text": "c)\ttilgjengeliggjøring av videogram i Norge når bildeprogrammet tilgjengeliggjøres av et foretak som er registrert i Norge eller har forretningssted i Norge, av en person som er norsk statsborger eller har bosted i Norge, eller beslutningen om tilgjengeliggjøring er tatt i Norge."
     },
     {
@@ -202,37 +202,37 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tillatt for alle</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tillatt for alle</td></tr>",
         "text": "a)\ttillatt for alle"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">6 år</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">6 år</td></tr>",
         "text": "b)\t6 år"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">9 år</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">9 år</td></tr>",
         "text": "c)\t9 år"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">12 år</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">12 år</td></tr>",
         "text": "d)\t12 år"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">15 år</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">15 år</td></tr>",
         "text": "e)\t15 år"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">18 år</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">18 år</td></tr>",
         "text": "f)\t18 år"
     },
     {
@@ -250,43 +250,43 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">nyhets- og aktualitetsstoff,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">nyhets- og aktualitetsstoff,</td></tr>",
         "text": "a)\tnyhets- og aktualitetsstoff,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">undervisnings- og forskningsstoff,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">undervisnings- og forskningsstoff,</td></tr>",
         "text": "b)\tundervisnings- og forskningsstoff,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjonsstoff om ideell, politisk eller religiøs virksomhet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjonsstoff om ideell, politisk eller religiøs virksomhet,</td></tr>",
         "text": "c)\tinformasjonsstoff om ideell, politisk eller religiøs virksomhet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">musikkstoff,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">musikkstoff,</td></tr>",
         "text": "d)\tmusikkstoff,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">idrettsstoff,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">idrettsstoff,</td></tr>",
         "text": "e)\tidrettsstoff,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hobby-, instruksjons- og fritidsstoff og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hobby-, instruksjons- og fritidsstoff og</td></tr>",
         "text": "f)\thobby-, instruksjons- og fritidsstoff og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">direktesendinger.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">direktesendinger.</td></tr>",
         "text": "g)\tdirektesendinger."
     },
     {
@@ -324,19 +324,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skal fremvises med 18-årsgrense,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skal fremvises med 18-årsgrense,</td></tr>",
         "text": "a)\tskal fremvises med 18-årsgrense,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skal vises under filmfestivaler og lignende kulturarrangementer eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skal vises under filmfestivaler og lignende kulturarrangementer eller</td></tr>",
         "text": "b)\tskal vises under filmfestivaler og lignende kulturarrangementer eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inneholder lokalt produsert stoff.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">inneholder lokalt produsert stoff.</td></tr>",
         "text": "c)\tinneholder lokalt produsert stoff."
     },
     {
@@ -424,25 +424,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">På fjernsyn skal tjenestetilbyder informere muntlig om aldersgrensen før programmet starter eller tydelig merke bildeprogrammet med aldersgrense under hele sendetiden. Tjenestetilbyder skal også gjøre aldersgrensen tilgjengelig i sine programoversikter og elektroniske programguider.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">På fjernsyn skal tjenestetilbyder informere muntlig om aldersgrensen før programmet starter eller tydelig merke bildeprogrammet med aldersgrense under hele sendetiden. Tjenestetilbyder skal også gjøre aldersgrensen tilgjengelig i sine programoversikter og elektroniske programguider.</td></tr>",
         "text": "a)\tPå fjernsyn skal tjenestetilbyder informere muntlig om aldersgrensen før programmet starter eller tydelig merke bildeprogrammet med aldersgrense under hele sendetiden. Tjenestetilbyder skal også gjøre aldersgrensen tilgjengelig i sine programoversikter og elektroniske programguider."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I audiovisuelle bestillingstjenester skal tjenestetilbyder informere om aldersgrensen før endelig bestilling gjennomføres, samt i presentasjon og omtale av bildeprogrammet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">I audiovisuelle bestillingstjenester skal tjenestetilbyder informere om aldersgrensen før endelig bestilling gjennomføres, samt i presentasjon og omtale av bildeprogrammet.</td></tr>",
         "text": "b)\tI audiovisuelle bestillingstjenester skal tjenestetilbyder informere om aldersgrensen før endelig bestilling gjennomføres, samt i presentasjon og omtale av bildeprogrammet."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved fremvisning ved allmenn sammenkomst skal visnings- og omsetningssted informere om aldersgrensen ved annonsering og billettkjøp.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved fremvisning ved allmenn sammenkomst skal visnings- og omsetningssted informere om aldersgrensen ved annonsering og billettkjøp.</td></tr>",
         "text": "c)\tVed fremvisning ved allmenn sammenkomst skal visnings- og omsetningssted informere om aldersgrensen ved annonsering og billettkjøp."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved tilgjengeliggjøring av videogram skal bildeprogramdistributør informere om aldersgrensen ved tydelig merking på forsiden av videogrammets omslag.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ved tilgjengeliggjøring av videogram skal bildeprogramdistributør informere om aldersgrensen ved tydelig merking på forsiden av videogrammets omslag.</td></tr>",
         "text": "d)\tVed tilgjengeliggjøring av videogram skal bildeprogramdistributør informere om aldersgrensen ved tydelig merking på forsiden av videogrammets omslag."
     },
     {
@@ -958,7 +958,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender program som kan være skadelige for mindreårige, med mindre det ved valg av sendetid eller ved tekniske tiltak sørges for at mindreårige normalt ikke kan se eller høre slike sendinger</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sender program som kan være skadelige for mindreårige, med mindre det ved valg av sendetid eller ved tekniske tiltak sørges for at mindreårige normalt ikke kan se eller høre slike sendinger</td></tr>",
         "text": "c)\tsender program som kan være skadelige for mindreårige, med mindre det ved valg av sendetid eller ved tekniske tiltak sørges for at mindreårige normalt ikke kan se eller høre slike sendinger"
     },
     {

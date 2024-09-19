@@ -50,13 +50,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">1.</span> Oppgaver som nevnt i dette kapittel skal for personlige skattytere inneholde fødselsnummer (elleve siffer). For selskaper, samvirkeforetak, foreninger, sammenslutninger mv. skal oppgaven inneholde organisasjonsnummer, eller når slikt ikke finnes, annen identifikasjon etter regler gitt av Skattedirektoratet. Skattedirektoratet kan bestemme at oppgaven skal inneholde utenlandsk identifikasjonsnummer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">1.</span> Oppgaver som nevnt i dette kapittel skal for personlige skattytere inneholde fødselsnummer (elleve siffer). For selskaper, samvirkeforetak, foreninger, sammenslutninger mv. skal oppgaven inneholde organisasjonsnummer, eller når slikt ikke finnes, annen identifikasjon etter regler gitt av Skattedirektoratet. Skattedirektoratet kan bestemme at oppgaven skal inneholde utenlandsk identifikasjonsnummer.</td></tr>",
         "text": "1. Oppgaver som nevnt i dette kapittel skal for personlige skattytere inneholde fødselsnummer (elleve siffer). For selskaper, samvirkeforetak, foreninger, sammenslutninger mv. skal oppgaven inneholde organisasjonsnummer, eller når slikt ikke finnes, annen identifikasjon etter regler gitt av Skattedirektoratet. Skattedirektoratet kan bestemme at oppgaven skal inneholde utenlandsk identifikasjonsnummer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">2.</span> Den opplysningspliktige kan kreve at skattyter oppgir sitt fødsels- eller organisasjonsnummer. Den opplysningspliktige kan også kreve at skattyter som har utenlandsk identifikasjonsnummer, oppgir dette. Den opplysningspliktige kan registrere slik identifikasjon også på grunnlag av opplysninger fra andre enn skattyter.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">2.</span> Den opplysningspliktige kan kreve at skattyter oppgir sitt fødsels- eller organisasjonsnummer. Den opplysningspliktige kan også kreve at skattyter som har utenlandsk identifikasjonsnummer, oppgir dette. Den opplysningspliktige kan registrere slik identifikasjon også på grunnlag av opplysninger fra andre enn skattyter.</td></tr>",
         "text": "2. Den opplysningspliktige kan kreve at skattyter oppgir sitt fødsels- eller organisasjonsnummer. Den opplysningspliktige kan også kreve at skattyter som har utenlandsk identifikasjonsnummer, oppgir dette. Den opplysningspliktige kan registrere slik identifikasjon også på grunnlag av opplysninger fra andre enn skattyter."
     },
     {
@@ -68,7 +68,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">4.</span> Departementet kan i forskrift gi bestemmelser for å gjennomføre forpliktelser om automatisk utveksling av opplysninger som følger av overenskomst med fremmed stat, jf. <a data-id=\"lov/1949-07-28-15\" class=\" reference\" href=\"/lov/1949-07-28-15\">lov 28. juli 1949 nr. 15</a>. Adgangen til å gi forskrift etter første punktum omfatter også andre forpliktelser som følger av samme overenskomst.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">4.</span> Departementet kan i forskrift gi bestemmelser for å gjennomføre forpliktelser om automatisk utveksling av opplysninger som følger av overenskomst med fremmed stat, jf. <a data-id=\"lov/1949-07-28-15\" class=\" reference\" href=\"/lov/1949-07-28-15\">lov 28. juli 1949 nr. 15</a>. Adgangen til å gi forskrift etter første punktum omfatter også andre forpliktelser som følger av samme overenskomst.</td></tr>",
         "text": "4. Departementet kan i forskrift gi bestemmelser for å gjennomføre forpliktelser om automatisk utveksling av opplysninger som følger av overenskomst med fremmed stat, jf. lov 28. juli 1949 nr. 15. Adgangen til å gi forskrift etter første punktum omfatter også andre forpliktelser som følger av samme overenskomst."
     },
     {
@@ -128,31 +128,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">1.</span> Plikt til å gi opplysninger om finansielle instrumenter og andre finansielle produkter har:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">1.</span> Plikt til å gi opplysninger om finansielle instrumenter og andre finansielle produkter har:</td></tr>",
         "text": "1. Plikt til å gi opplysninger om finansielle instrumenter og andre finansielle produkter har:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirregistre,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirregistre,</td></tr>",
         "text": "a.\tverdipapirregistre,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirforetak,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirforetak,</td></tr>",
         "text": "b.\tverdipapirforetak,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre som tar del i forvaltningen eller omsetningen av finansielle instrumenter eller andre finansielle produkter for andres regning som ledd i sin forretningsvirksomhet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre som tar del i forvaltningen eller omsetningen av finansielle instrumenter eller andre finansielle produkter for andres regning som ledd i sin forretningsvirksomhet.</td></tr>",
         "text": "c.\tandre som tar del i forvaltningen eller omsetningen av finansielle instrumenter eller andre finansielle produkter for andres regning som ledd i sin forretningsvirksomhet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">2.</span> Opplysningene skal vise investors samlede beholdning av finansielle instrumenter og andre finansielle produkter. Det skal blant annet gis opplysninger om forhold som kan få betydning for skattleggingen, slik som erverv, realisasjon og annet eierskifte, samt avkastning i løpet av inntektsåret. Departementet kan i forskrift bestemme at det skal gis opplysninger om forhold som nevnt for tidligere år og opplysninger som viser registrerte transaksjoner på en eller flere av investors konti i en bestemt periode.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">2.</span> Opplysningene skal vise investors samlede beholdning av finansielle instrumenter og andre finansielle produkter. Det skal blant annet gis opplysninger om forhold som kan få betydning for skattleggingen, slik som erverv, realisasjon og annet eierskifte, samt avkastning i løpet av inntektsåret. Departementet kan i forskrift bestemme at det skal gis opplysninger om forhold som nevnt for tidligere år og opplysninger som viser registrerte transaksjoner på en eller flere av investors konti i en bestemt periode.</td></tr>",
         "text": "2. Opplysningene skal vise investors samlede beholdning av finansielle instrumenter og andre finansielle produkter. Det skal blant annet gis opplysninger om forhold som kan få betydning for skattleggingen, slik som erverv, realisasjon og annet eierskifte, samt avkastning i løpet av inntektsåret. Departementet kan i forskrift bestemme at det skal gis opplysninger om forhold som nevnt for tidligere år og opplysninger som viser registrerte transaksjoner på en eller flere av investors konti i en bestemt periode."
     },
     {
@@ -164,7 +164,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltningsselskaper, verdipapirfond og andre investeringsenheter om innskudd som er gjort i investeringsenheten, herunder opplysninger om avkastning og realisasjon,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltningsselskaper, verdipapirfond og andre investeringsenheter om innskudd som er gjort i investeringsenheten, herunder opplysninger om avkastning og realisasjon,</td></tr>",
         "text": "c.\tforvaltningsselskaper, verdipapirfond og andre investeringsenheter om innskudd som er gjort i investeringsenheten, herunder opplysninger om avkastning og realisasjon,"
     },
     {

@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2005-06-17-62\" class=\" reference\" href=\"/lov/2005-06-17-62\">Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)</a>.</td></tr>",
         "text": "1\tLov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-50\" class=\" reference\" href=\"/lov/2017-06-16-50\">Lov 16. juni 2017 nr. 50 om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven)</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-50\" class=\" reference\" href=\"/lov/2017-06-16-50\">Lov 16. juni 2017 nr. 50 om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven)</a>.</td></tr>",
         "text": "2\tLov 16. juni 2017 nr. 50 om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven)."
     },
     {
@@ -44,7 +44,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om at lovens regler helt eller delvis skal gjelde for arbeidstaker som utfører arbeid i arbeidsgivers hjem eller husholdning.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Departementet kan gi forskrift om at lovens regler helt eller delvis skal gjelde for arbeidstaker som utfører arbeid i arbeidsgivers hjem eller husholdning.</td></tr>",
         "text": "(2) Departementet kan gi forskrift om at lovens regler helt eller delvis skal gjelde for arbeidstaker som utfører arbeid i arbeidsgivers hjem eller husholdning."
     },
     {
@@ -82,7 +82,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Fortrinnsretten gjelder fra oppsigelsestidspunktet og i ett år fra oppsigelsesfristens utløp, men fra oppsigelsestidspunktet og i to år fra oppsigelsesfristens utløp dersom arbeidsforholdet avvikles i perioden fra 1. juli 2021 til og med 31. desember 2021 på grunn av virkninger av covid-19-pandemien.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Fortrinnsretten gjelder fra oppsigelsestidspunktet og i ett år fra oppsigelsesfristens utløp, men fra oppsigelsestidspunktet og i to år fra oppsigelsesfristens utløp dersom arbeidsforholdet avvikles i perioden fra 1. juli 2021 til og med 31. desember 2021 på grunn av virkninger av covid-19-pandemien.</td></tr>",
         "text": "(4) Fortrinnsretten gjelder fra oppsigelsestidspunktet og i ett år fra oppsigelsesfristens utløp, men fra oppsigelsestidspunktet og i to år fra oppsigelsesfristens utløp dersom arbeidsforholdet avvikles i perioden fra 1. juli 2021 til og med 31. desember 2021 på grunn av virkninger av covid-19-pandemien."
     },
     {
@@ -94,7 +94,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Søksmålsfristen etter første ledd avbrytes hvis tvisten bringes inn for Diskrimineringsnemnda.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Søksmålsfristen etter første ledd avbrytes hvis tvisten bringes inn for Diskrimineringsnemnda.</td></tr>",
         "text": "(6) Søksmålsfristen etter første ledd avbrytes hvis tvisten bringes inn for Diskrimineringsnemnda."
     },
     {
@@ -168,43 +168,43 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§11\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A711\">§ 11</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§11\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A711\">§ 11</a></td></tr>",
         "text": "a)\tVedtak om brudd på bestemmelser nevnt i § 1 annet og fjerde ledd, jf. § 11"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om at enkeltvedtak truffet av forvaltningsorganer i deres utøvelse av arbeidsgiverfunksjoner er diskriminerende, jf. <a data-id=\"lov/2017-06-16-50/§14\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A714\">§ 14</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om at enkeltvedtak truffet av forvaltningsorganer i deres utøvelse av arbeidsgiverfunksjoner er diskriminerende, jf. <a data-id=\"lov/2017-06-16-50/§14\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A714\">§ 14</a></td></tr>",
         "text": "b)\tVedtak om at enkeltvedtak truffet av forvaltningsorganer i deres utøvelse av arbeidsgiverfunksjoner er diskriminerende, jf. § 14"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om avvisning, jf. <a data-id=\"lov/2017-06-16-50/§10\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A710\">§ 10</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om avvisning, jf. <a data-id=\"lov/2017-06-16-50/§10\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A710\">§ 10</a></td></tr>",
         "text": "c)\tVedtak om avvisning, jf. § 10"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om pålegg, jf. <a data-id=\"lov/2017-06-16-50/§11\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A711\">§ 11</a> annet ledd</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om pålegg, jf. <a data-id=\"lov/2017-06-16-50/§11\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A711\">§ 11</a> annet ledd</td></tr>",
         "text": "d)\tVedtak om pålegg, jf. § 11 annet ledd"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om oppreisning i arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, jf. <a data-id=\"lov/2017-06-16-50/§12\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A712\">§ 12</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om oppreisning i arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, jf. <a data-id=\"lov/2017-06-16-50/§12\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A712\">§ 12</a></td></tr>",
         "text": "e)\tVedtak om oppreisning i arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, jf. § 12"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om erstatning ved brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§12\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A712\">§ 12</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om erstatning ved brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§12\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A712\">§ 12</a></td></tr>",
         "text": "f)\tVedtak om erstatning ved brudd på bestemmelser nevnt i § 1 annet og fjerde ledd, jf. § 12"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om tvangsmulkt, jf. <a data-id=\"lov/2017-06-16-50/§13\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A713\">§ 13</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om tvangsmulkt, jf. <a data-id=\"lov/2017-06-16-50/§13\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A713\">§ 13</a></td></tr>",
         "text": "g)\tVedtak om tvangsmulkt, jf. § 13"
     },
     {
@@ -216,13 +216,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Beslutning om henleggelse, jf. <a data-id=\"lov/2017-06-16-50/§10\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A710\">§ 10</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Beslutning om henleggelse, jf. <a data-id=\"lov/2017-06-16-50/§10\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A710\">§ 10</a></td></tr>",
         "text": "a)\tBeslutning om henleggelse, jf. § 10"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Beslutning om ileggelse av tvangsmulkt, jf. <a data-id=\"lov/2017-06-16-50/§13\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A713\">§ 13</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Beslutning om ileggelse av tvangsmulkt, jf. <a data-id=\"lov/2017-06-16-50/§13\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A713\">§ 13</a></td></tr>",
         "text": "b)\tBeslutning om ileggelse av tvangsmulkt, jf. § 13"
     },
     {
@@ -234,19 +234,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Uttalelse om at forholdet som er påklaget ikke utgjør brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§11\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A711\">§ 11</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Uttalelse om at forholdet som er påklaget ikke utgjør brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§11\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A711\">§ 11</a></td></tr>",
         "text": "a)\tUttalelse om at forholdet som er påklaget ikke utgjør brudd på bestemmelser nevnt i § 1 annet og fjerde ledd, jf. § 11"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Uttalelse om at andre forvaltningsorganers vedtak innebærer brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§14\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A714\">§ 14</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Uttalelse om at andre forvaltningsorganers vedtak innebærer brudd på bestemmelser nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§14\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A714\">§ 14</a></td></tr>",
         "text": "b)\tUttalelse om at andre forvaltningsorganers vedtak innebærer brudd på bestemmelser nevnt i § 1 annet og fjerde ledd, jf. § 14"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Uttalelse om hvorvidt en tariffavtale eller en bestemmelse i tariffavtale som er brakt inn for nemnda, er i strid med bestemmelsene nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§15\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A715\">§ 15</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Uttalelse om hvorvidt en tariffavtale eller en bestemmelse i tariffavtale som er brakt inn for nemnda, er i strid med bestemmelsene nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">§ 1</a> annet og fjerde ledd, jf. <a data-id=\"lov/2017-06-16-50/§15\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A715\">§ 15</a>.</td></tr>",
         "text": "c)\tUttalelse om hvorvidt en tariffavtale eller en bestemmelse i tariffavtale som er brakt inn for nemnda, er i strid med bestemmelsene nevnt i § 1 annet og fjerde ledd, jf. § 15."
     },
     {
@@ -276,49 +276,49 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-51/§18\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A718\">§ 18</a> om universell utforming av IKT</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-51/§18\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A718\">§ 18</a> om universell utforming av IKT</td></tr>",
         "text": "a)\t§ 18 om universell utforming av IKT"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-51/§24\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A724\">§ 24</a> om offentlige myndigheters aktivitets- og redegjørelsesplikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-51/§24\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A724\">§ 24</a> om offentlige myndigheters aktivitets- og redegjørelsesplikt</td></tr>",
         "text": "b)\t§ 24 om offentlige myndigheters aktivitets- og redegjørelsesplikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-51/§25\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A725\">§ 25</a> om arbeidslivets organisasjoners plikt til å arbeide for likestilling</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-51/§25\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A725\">§ 25</a> om arbeidslivets organisasjoners plikt til å arbeide for likestilling</td></tr>",
         "text": "c)\t§ 25 om arbeidslivets organisasjoners plikt til å arbeide for likestilling"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-51/§26\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A726\">§ 26</a> om arbeidsgivers aktivitetsplikt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-51/§26\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A726\">§ 26</a> om arbeidsgivers aktivitetsplikt</td></tr>",
         "text": "d)\t§ 26 om arbeidsgivers aktivitetsplikt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-51/§26b\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A726b\">§ 26 b</a> om arbeidsgivers opplysningsplikt om likestillingsarbeid</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-51/§26b\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A726b\">§ 26 b</a> om arbeidsgivers opplysningsplikt om likestillingsarbeid</td></tr>",
         "text": "e)\t§ 26 b om arbeidsgivers opplysningsplikt om likestillingsarbeid"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-51/§28\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A728\">§ 28</a> om kjønnsbalanse i offentlige utvalg mv.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-51/§28\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A728\">§ 28</a> om kjønnsbalanse i offentlige utvalg mv.</td></tr>",
         "text": "f)\t§ 28 om kjønnsbalanse i offentlige utvalg mv."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-51/§32\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A732\">§ 32</a> annet ledd om behandling av lønnsopplysninger</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-51/§32\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A732\">§ 32</a> annet ledd om behandling av lønnsopplysninger</td></tr>",
         "text": "g)\t§ 32 annet ledd om behandling av lønnsopplysninger"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2017-06-16-51/§39\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A739\">§ 39</a> om straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2017-06-16-51/§39\" class=\" reference\" href=\"/lov/2017-06-16-51/%C2%A739\">§ 39</a> om straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap.</td></tr>",
         "text": "h)\t§ 39 om straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap."
     },
     {
@@ -466,19 +466,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger brudd på habilitetskrav i <a data-id=\"lov/1967-02-10/§6\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A76\">forvaltningsloven § 6</a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger brudd på habilitetskrav i <a data-id=\"lov/1967-02-10/§6\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A76\">forvaltningsloven § 6</a></td></tr>",
         "text": "a)\tdet foreligger brudd på habilitetskrav i forvaltningsloven § 6"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger andre saksbehandlingsfeil og det ikke kan utelukkes at feilen var bestemmende for avgjørelsens innhold</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det foreligger andre saksbehandlingsfeil og det ikke kan utelukkes at feilen var bestemmende for avgjørelsens innhold</td></tr>",
         "text": "b)\tdet foreligger andre saksbehandlingsfeil og det ikke kan utelukkes at feilen var bestemmende for avgjørelsens innhold"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at avgjørelsen høyst sannsynlig ville blitt en annen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at avgjørelsen høyst sannsynlig ville blitt en annen.</td></tr>",
         "text": "c)\topplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at avgjørelsen høyst sannsynlig ville blitt en annen."
     },
     {
@@ -502,13 +502,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tiden Kongen bestemmer. Kongen kan bestemme at de ulike bestemmelsene skal tre i kraft til ulik tid.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tiden Kongen bestemmer. Kongen kan bestemme at de ulike bestemmelsene skal tre i kraft til ulik tid.</td></tr>",
         "text": "1.\tLoven gjelder fra den tiden Kongen bestemmer. Kongen kan bestemme at de ulike bestemmelsene skal tre i kraft til ulik tid."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Diskrimineringsnemnda kan bare behandle saker som nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">diskrimineringsombudsloven § 1</a> fjerde ledd som gjelder gjengjeldelse som skal ha skjedd etter at denne loven har trådt i kraft.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Diskrimineringsnemnda kan bare behandle saker som nevnt i <a data-id=\"lov/2017-06-16-50/§1\" class=\" reference\" href=\"/lov/2017-06-16-50/%C2%A71\">diskrimineringsombudsloven § 1</a> fjerde ledd som gjelder gjengjeldelse som skal ha skjedd etter at denne loven har trådt i kraft.</td></tr>",
         "text": "2.\tDiskrimineringsnemnda kan bare behandle saker som nevnt i diskrimineringsombudsloven § 1 fjerde ledd som gjelder gjengjeldelse som skal ha skjedd etter at denne loven har trådt i kraft."
     }
 ]

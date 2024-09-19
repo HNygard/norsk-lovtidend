@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">virkedag</em>: alle dager som ikke er søndager eller lovbestemte hellig- eller høytidsdager.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">virkedag</em>: alle dager som ikke er søndager eller lovbestemte hellig- eller høytidsdager.</td></tr>",
         "text": "k)\tvirkedag: alle dager som ikke er søndager eller lovbestemte hellig- eller høytidsdager."
     },
     {
@@ -56,13 +56,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Streik eller lockout må ikke iverksettes før det er gitt plassoppsigelse og oppsigelsesfristen som følger av denne er utløpt, og ikke i noe tilfelle før fire virkedager har gått fra riksmekleren har mottatt melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet, jf. <a data-id=\"lov/2012-01-27-9/§16\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A716\">§§ 16</a> og <a data-id=\"lov/2012-01-27-9/§17\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A717\">17</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Streik eller lockout må ikke iverksettes før det er gitt plassoppsigelse og oppsigelsesfristen som følger av denne er utløpt, og ikke i noe tilfelle før fire virkedager har gått fra riksmekleren har mottatt melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet, jf. <a data-id=\"lov/2012-01-27-9/§16\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A716\">§§ 16</a> og <a data-id=\"lov/2012-01-27-9/§17\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A717\">17</a>.</td></tr>",
         "text": "(1) Streik eller lockout må ikke iverksettes før det er gitt plassoppsigelse og oppsigelsesfristen som følger av denne er utløpt, og ikke i noe tilfelle før fire virkedager har gått fra riksmekleren har mottatt melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet, jf. §§ 16 og 17."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Fristen i første ledd starter å løpe første virkedag etter at riksmekleren har mottatt meldingen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Fristen i første ledd starter å løpe første virkedag etter at riksmekleren har mottatt meldingen.</td></tr>",
         "text": "(2) Fristen i første ledd starter å løpe første virkedag etter at riksmekleren har mottatt meldingen."
     },
     {
@@ -74,7 +74,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> For å være bindende må forbudet være sendt fra riksmekleren innen utløpet av to virkedager etter at riksmekleren mottok melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet. Fristen i første punktum starter å løpe første virkedag etter at riksmekleren har mottatt meldingen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> For å være bindende må forbudet være sendt fra riksmekleren innen utløpet av to virkedager etter at riksmekleren mottok melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet. Fristen i første punktum starter å løpe første virkedag etter at riksmekleren har mottatt meldingen.</td></tr>",
         "text": "(4) For å være bindende må forbudet være sendt fra riksmekleren innen utløpet av to virkedager etter at riksmekleren mottok melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet. Fristen i første punktum starter å løpe første virkedag etter at riksmekleren har mottatt meldingen."
     },
     {
@@ -86,7 +86,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Enhver som deltar i meklingen, plikter å bevare taushet om det som er fremkommet under meklingen, hvis ikke mekleren tillater offentliggjøring. Taushetsplikten omfatter også en parts egne krav og tilbud.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Enhver som deltar i meklingen, plikter å bevare taushet om det som er fremkommet under meklingen, hvis ikke mekleren tillater offentliggjøring. Taushetsplikten omfatter også en parts egne krav og tilbud.</td></tr>",
         "text": "(2) Enhver som deltar i meklingen, plikter å bevare taushet om det som er fremkommet under meklingen, hvis ikke mekleren tillater offentliggjøring. Taushetsplikten omfatter også en parts egne krav og tilbud."
     },
     {
@@ -122,37 +122,37 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Arbeidsretten skal behandle rettstvister som nevnt i <a data-id=\"lov/2012-01-27-9/§1\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A71\">§ 1</a> bokstav i, tvister om det foreligger brudd på <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> om fredsplikt og tvister om erstatningsansvar etter <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Arbeidsretten skal behandle rettstvister som nevnt i <a data-id=\"lov/2012-01-27-9/§1\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A71\">§ 1</a> bokstav i, tvister om det foreligger brudd på <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> om fredsplikt og tvister om erstatningsansvar etter <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a>.</td></tr>",
         "text": "(1) Arbeidsretten skal behandle rettstvister som nevnt i § 1 bokstav i, tvister om det foreligger brudd på § 8 om fredsplikt og tvister om erstatningsansvar etter § 9."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Arbeidsretten skal likevel ikke behandle tvister om erstatningsansvar etter <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> når saken kun er anlagt mot arbeidstakere som nevnt i <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> andre ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Arbeidsretten skal likevel ikke behandle tvister om erstatningsansvar etter <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> når saken kun er anlagt mot arbeidstakere som nevnt i <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a> andre ledd.</td></tr>",
         "text": "(2) Arbeidsretten skal likevel ikke behandle tvister om erstatningsansvar etter § 9 når saken kun er anlagt mot arbeidstakere som nevnt i § 9 andre ledd."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Tvister som knytter seg til tariffavtaler om europeiske samarbeidsutvalg eller tilsvarende samarbeidsordninger, behandles etter <a data-id=\"lov/1996-08-23-63\" class=\" reference\" href=\"/lov/1996-08-23-63\">lov 23. august 1996 nr. 63</a> om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v. Arbeidsretten skal heller ikke behandle tvister som knytter seg til tariffavtaler inngått etter bestemmelser gitt i medhold av <a data-id=\"lov/2005-04-01-14/§3\" class=\" reference\" href=\"/lov/2005-04-01-14/%C2%A73\">SE-loven § 3</a> eller <a data-id=\"lov/2006-06-30-50/§3\" class=\" reference\" href=\"/lov/2006-06-30-50/%C2%A73\">SCE-loven § 3</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Tvister som knytter seg til tariffavtaler om europeiske samarbeidsutvalg eller tilsvarende samarbeidsordninger, behandles etter <a data-id=\"lov/1996-08-23-63\" class=\" reference\" href=\"/lov/1996-08-23-63\">lov 23. august 1996 nr. 63</a> om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v. Arbeidsretten skal heller ikke behandle tvister som knytter seg til tariffavtaler inngått etter bestemmelser gitt i medhold av <a data-id=\"lov/2005-04-01-14/§3\" class=\" reference\" href=\"/lov/2005-04-01-14/%C2%A73\">SE-loven § 3</a> eller <a data-id=\"lov/2006-06-30-50/§3\" class=\" reference\" href=\"/lov/2006-06-30-50/%C2%A73\">SCE-loven § 3</a>.</td></tr>",
         "text": "(3) Tvister som knytter seg til tariffavtaler om europeiske samarbeidsutvalg eller tilsvarende samarbeidsordninger, behandles etter lov 23. august 1996 nr. 63 om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v. Arbeidsretten skal heller ikke behandle tvister som knytter seg til tariffavtaler inngått etter bestemmelser gitt i medhold av SE-loven § 3 eller SCE-loven § 3."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Partene kan vedta privat voldgift om de tvistene som er nevnt i <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> første ledd og <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Partene kan vedta privat voldgift om de tvistene som er nevnt i <a data-id=\"lov/2012-01-27-9/§8\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A78\">§ 8</a> første ledd og <a data-id=\"lov/2012-01-27-9/§9\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A79\">§ 9</a>.</td></tr>",
         "text": "(4) Partene kan vedta privat voldgift om de tvistene som er nevnt i § 8 første ledd og § 9."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> I en sak om en tariffavtale kan det også inndras krav som utspringer av en arbeidsavtale, hvis kravet etter arbeidsavtalen vil få sin umiddelbare avgjørelse ved dommen i hovedsaken.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> I en sak om en tariffavtale kan det også inndras krav som utspringer av en arbeidsavtale, hvis kravet etter arbeidsavtalen vil få sin umiddelbare avgjørelse ved dommen i hovedsaken.</td></tr>",
         "text": "(5) I en sak om en tariffavtale kan det også inndras krav som utspringer av en arbeidsavtale, hvis kravet etter arbeidsavtalen vil få sin umiddelbare avgjørelse ved dommen i hovedsaken."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Domstolloven og tvisteloven får tilsvarende anvendelse for Arbeidsretten så langt de passer og ikke strider mot bestemmelsene i denne loven.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Domstolloven og tvisteloven får tilsvarende anvendelse for Arbeidsretten så langt de passer og ikke strider mot bestemmelsene i denne loven.</td></tr>",
         "text": "(6) Domstolloven og tvisteloven får tilsvarende anvendelse for Arbeidsretten så langt de passer og ikke strider mot bestemmelsene i denne loven."
     },
     {
@@ -176,7 +176,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Før en sak kan bringes inn for Arbeidsretten, skal partene ha gjennomført eller forsøkt gjennomført forhandlinger om tvisten.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Før en sak kan bringes inn for Arbeidsretten, skal partene ha gjennomført eller forsøkt gjennomført forhandlinger om tvisten.</td></tr>",
         "text": "(3) Før en sak kan bringes inn for Arbeidsretten, skal partene ha gjennomført eller forsøkt gjennomført forhandlinger om tvisten."
     },
     {
@@ -200,7 +200,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Hvis en dommer under forhandlingene får forfall som må antas å ville vare lenger enn en uke, oppnevnes stedfortreder etter <a data-id=\"lov/2012-01-27-9/§41\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A741\">§ 41</a>. Dersom stedfortreder oppnevnes, skal hovedforhandlingen starte på nytt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Hvis en dommer under forhandlingene får forfall som må antas å ville vare lenger enn en uke, oppnevnes stedfortreder etter <a data-id=\"lov/2012-01-27-9/§41\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A741\">§ 41</a>. Dersom stedfortreder oppnevnes, skal hovedforhandlingen starte på nytt.</td></tr>",
         "text": "(2) Hvis en dommer under forhandlingene får forfall som må antas å ville vare lenger enn en uke, oppnevnes stedfortreder etter § 41. Dersom stedfortreder oppnevnes, skal hovedforhandlingen starte på nytt."
     },
     {
@@ -212,13 +212,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Arbeidsrettens leder kan ved særlig langvarige saker eller ved andre særlige omstendigheter beslutte at det i tillegg til dommere tilkalt etter første ledd skal tilkalles en varadommer for fagdommerne og en varadommer fra hver side for dommere oppnevnt etter innstilling etter <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>. Første ledd fjerde punktum gjelder tilsvarende. Varadommerne skal følge forhandlingene og tre inn ved forfall.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Arbeidsrettens leder kan ved særlig langvarige saker eller ved andre særlige omstendigheter beslutte at det i tillegg til dommere tilkalt etter første ledd skal tilkalles en varadommer for fagdommerne og en varadommer fra hver side for dommere oppnevnt etter innstilling etter <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>. Første ledd fjerde punktum gjelder tilsvarende. Varadommerne skal følge forhandlingene og tre inn ved forfall.</td></tr>",
         "text": "(4) Arbeidsrettens leder kan ved særlig langvarige saker eller ved andre særlige omstendigheter beslutte at det i tillegg til dommere tilkalt etter første ledd skal tilkalles en varadommer for fagdommerne og en varadommer fra hver side for dommere oppnevnt etter innstilling etter § 39. Første ledd fjerde punktum gjelder tilsvarende. Varadommerne skal følge forhandlingene og tre inn ved forfall."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Dersom begge parter samtykker, og retten finner det ubetenkelig, kan retten settes med tre fagdommere eller en fagdommer og en dommer fra hver side oppnevnt etter innstilling etter <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>. Første ledd fjerde punktum gjelder tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Dersom begge parter samtykker, og retten finner det ubetenkelig, kan retten settes med tre fagdommere eller en fagdommer og en dommer fra hver side oppnevnt etter innstilling etter <a data-id=\"lov/2012-01-27-9/§39\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A739\">§ 39</a>. Første ledd fjerde punktum gjelder tilsvarende.</td></tr>",
         "text": "(5) Dersom begge parter samtykker, og retten finner det ubetenkelig, kan retten settes med tre fagdommere eller en fagdommer og en dommer fra hver side oppnevnt etter innstilling etter § 39. Første ledd fjerde punktum gjelder tilsvarende."
     },
     {
@@ -230,13 +230,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Er det mangler ved stevningen, skal saksøkeren snarest mulig gjøres oppmerksom på dem og forklares hvordan de bør rettes. Retten skal sette en frist for å rette manglene i stevningen. Fristen skal normalt være to uker.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Er det mangler ved stevningen, skal saksøkeren snarest mulig gjøres oppmerksom på dem og forklares hvordan de bør rettes. Retten skal sette en frist for å rette manglene i stevningen. Fristen skal normalt være to uker.</td></tr>",
         "text": "(3) Er det mangler ved stevningen, skal saksøkeren snarest mulig gjøres oppmerksom på dem og forklares hvordan de bør rettes. Retten skal sette en frist for å rette manglene i stevningen. Fristen skal normalt være to uker."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Med stevningen skal sendes protokoll fra forhandlinger etter <a data-id=\"lov/2012-01-27-9/§35\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A735\">§ 35</a> tredje ledd eller bevis for at saksøkeren har forsøkt å gjennomføre slike forhandlinger. Dersom det ikke er gjennomført eller forsøkt gjennomført forhandlinger, skal saksøkeren gjøres oppmerksom på at retten ikke kan ta saken under behandling, og det skal settes en frist for å gjennomføre slike forhandlinger. Blir det ikke gjennomført eller forsøkt gjennomført forhandlinger innen fristen, kan saksforberedende dommer ved kjennelse bestemme at saken avvises.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Med stevningen skal sendes protokoll fra forhandlinger etter <a data-id=\"lov/2012-01-27-9/§35\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A735\">§ 35</a> tredje ledd eller bevis for at saksøkeren har forsøkt å gjennomføre slike forhandlinger. Dersom det ikke er gjennomført eller forsøkt gjennomført forhandlinger, skal saksøkeren gjøres oppmerksom på at retten ikke kan ta saken under behandling, og det skal settes en frist for å gjennomføre slike forhandlinger. Blir det ikke gjennomført eller forsøkt gjennomført forhandlinger innen fristen, kan saksforberedende dommer ved kjennelse bestemme at saken avvises.</td></tr>",
         "text": "(4) Med stevningen skal sendes protokoll fra forhandlinger etter § 35 tredje ledd eller bevis for at saksøkeren har forsøkt å gjennomføre slike forhandlinger. Dersom det ikke er gjennomført eller forsøkt gjennomført forhandlinger, skal saksøkeren gjøres oppmerksom på at retten ikke kan ta saken under behandling, og det skal settes en frist for å gjennomføre slike forhandlinger. Blir det ikke gjennomført eller forsøkt gjennomført forhandlinger innen fristen, kan saksforberedende dommer ved kjennelse bestemme at saken avvises."
     },
     {
@@ -248,13 +248,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Medlem eller underavdeling som ikke har søksmålsrett etter <a data-id=\"lov/2012-01-27-9/§35\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A735\">§ 35</a> første ledd, kan ikke opptre som partshjelper med mindre den som har søksmålsrett gir sitt samtykke.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Medlem eller underavdeling som ikke har søksmålsrett etter <a data-id=\"lov/2012-01-27-9/§35\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A735\">§ 35</a> første ledd, kan ikke opptre som partshjelper med mindre den som har søksmålsrett gir sitt samtykke.</td></tr>",
         "text": "(2) Medlem eller underavdeling som ikke har søksmålsrett etter § 35 første ledd, kan ikke opptre som partshjelper med mindre den som har søksmålsrett gir sitt samtykke."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Partshjelp må erklæres i prosesskriv senest fire uker før hovedforhandlingen. Retten kan i særlige tilfeller tillate partshjelp som erklæres på et senere tidspunkt. Erklæringen skal angi det som er grunnlaget for partshjelpen, og meddeles partene med en frist for å bestride partshjelpen. Bestrides den, avgjøres spørsmålet om retten til partshjelp ved kjennelse. Inntil det er avsagt kjennelse som nekter partshjelp, kan den som har erklært partshjelp, utøve prosessuelle rettigheter etter fjerde ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Partshjelp må erklæres i prosesskriv senest fire uker før hovedforhandlingen. Retten kan i særlige tilfeller tillate partshjelp som erklæres på et senere tidspunkt. Erklæringen skal angi det som er grunnlaget for partshjelpen, og meddeles partene med en frist for å bestride partshjelpen. Bestrides den, avgjøres spørsmålet om retten til partshjelp ved kjennelse. Inntil det er avsagt kjennelse som nekter partshjelp, kan den som har erklært partshjelp, utøve prosessuelle rettigheter etter fjerde ledd.</td></tr>",
         "text": "(3) Partshjelp må erklæres i prosesskriv senest fire uker før hovedforhandlingen. Retten kan i særlige tilfeller tillate partshjelp som erklæres på et senere tidspunkt. Erklæringen skal angi det som er grunnlaget for partshjelpen, og meddeles partene med en frist for å bestride partshjelpen. Bestrides den, avgjøres spørsmålet om retten til partshjelp ved kjennelse. Inntil det er avsagt kjennelse som nekter partshjelp, kan den som har erklært partshjelp, utøve prosessuelle rettigheter etter fjerde ledd."
     },
     {
@@ -272,7 +272,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Dom skal avsies snarest mulig etter at saksbehandlingen er avsluttet, og senest fire uker etter avslutning av hovedforhandling. Domsavsigelsen kan skje senere dersom særlige omstendigheter gjør at det ikke er mulig å overholde fristen. Hvis fristen ikke overholdes, skal årsaken oppgis i dommen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Dom skal avsies snarest mulig etter at saksbehandlingen er avsluttet, og senest fire uker etter avslutning av hovedforhandling. Domsavsigelsen kan skje senere dersom særlige omstendigheter gjør at det ikke er mulig å overholde fristen. Hvis fristen ikke overholdes, skal årsaken oppgis i dommen.</td></tr>",
         "text": "(2) Dom skal avsies snarest mulig etter at saksbehandlingen er avsluttet, og senest fire uker etter avslutning av hovedforhandling. Domsavsigelsen kan skje senere dersom særlige omstendigheter gjør at det ikke er mulig å overholde fristen. Hvis fristen ikke overholdes, skal årsaken oppgis i dommen."
     },
     {
@@ -290,19 +290,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Som hovedregel tilkjennes ikke sakskostnader for Arbeidsretten. Når særlige grunner taler for det, kan retten tilkjenne en part som har vunnet en sak, erstatning for sine sakskostnader fra motparten. Saken anses også vunnet dersom motpartens sak blir avvist eller hevet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Som hovedregel tilkjennes ikke sakskostnader for Arbeidsretten. Når særlige grunner taler for det, kan retten tilkjenne en part som har vunnet en sak, erstatning for sine sakskostnader fra motparten. Saken anses også vunnet dersom motpartens sak blir avvist eller hevet.</td></tr>",
         "text": "(1) Som hovedregel tilkjennes ikke sakskostnader for Arbeidsretten. Når særlige grunner taler for det, kan retten tilkjenne en part som har vunnet en sak, erstatning for sine sakskostnader fra motparten. Saken anses også vunnet dersom motpartens sak blir avvist eller hevet."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Heves en sak som forlikt uten at forliket omfatter sakskostnadene, avgjøres spørsmålet om sakskostnader etter rettens skjønn dersom en av partene krever det.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Heves en sak som forlikt uten at forliket omfatter sakskostnadene, avgjøres spørsmålet om sakskostnader etter rettens skjønn dersom en av partene krever det.</td></tr>",
         "text": "(2) Heves en sak som forlikt uten at forliket omfatter sakskostnadene, avgjøres spørsmålet om sakskostnader etter rettens skjønn dersom en av partene krever det."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Arbeidsretten kan i særlige tilfeller pålegge en av partene eller begge å dekke statens utgifter til en rettssak etter denne loven.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Arbeidsretten kan i særlige tilfeller pålegge en av partene eller begge å dekke statens utgifter til en rettssak etter denne loven.</td></tr>",
         "text": "(3) Arbeidsretten kan i særlige tilfeller pålegge en av partene eller begge å dekke statens utgifter til en rettssak etter denne loven."
     },
     {
@@ -320,31 +320,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Arbeidsrettens dommer og kjennelser som ikke kan ankes etter tredje eller fjerde ledd, er endelige og kan fullbyrdes etter reglene for høyesterettsdommer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Arbeidsrettens dommer og kjennelser som ikke kan ankes etter tredje eller fjerde ledd, er endelige og kan fullbyrdes etter reglene for høyesterettsdommer.</td></tr>",
         "text": "(1) Arbeidsrettens dommer og kjennelser som ikke kan ankes etter tredje eller fjerde ledd, er endelige og kan fullbyrdes etter reglene for høyesterettsdommer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Har Arbeidsretten i sin domsslutning fastslått en bestemt forståelse av en tariffavtale, gjelder denne forståelsen også for enhver arbeidsavtale som bygger på tariffavtalen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Har Arbeidsretten i sin domsslutning fastslått en bestemt forståelse av en tariffavtale, gjelder denne forståelsen også for enhver arbeidsavtale som bygger på tariffavtalen.</td></tr>",
         "text": "(2) Har Arbeidsretten i sin domsslutning fastslått en bestemt forståelse av en tariffavtale, gjelder denne forståelsen også for enhver arbeidsavtale som bygger på tariffavtalen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> En dom kan ankes til Høyesterett til oppheving på det grunnlaget at saken ikke hører under Arbeidsrettens domsmyndighet. En kjennelse som avviser en sak fra Arbeidsretten, kan ankes til Høyesterett. Ankefristen er en måned.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> En dom kan ankes til Høyesterett til oppheving på det grunnlaget at saken ikke hører under Arbeidsrettens domsmyndighet. En kjennelse som avviser en sak fra Arbeidsretten, kan ankes til Høyesterett. Ankefristen er en måned.</td></tr>",
         "text": "(3) En dom kan ankes til Høyesterett til oppheving på det grunnlaget at saken ikke hører under Arbeidsrettens domsmyndighet. En kjennelse som avviser en sak fra Arbeidsretten, kan ankes til Høyesterett. Ankefristen er en måned."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Den som ikke er part, kan anke en kjennelse eller beslutning som pålegger vedkommende plikter eller ilegger straff- eller omkostningsansvar. Partene kan anke kjennelser som ilegger dem selv straff- og omkostningsansvar etter <a data-id=\"lov/2012-01-27-9/§60\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A760\">§§ 60</a> og <a data-id=\"lov/2012-01-27-9/§62\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A762\">62</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Den som ikke er part, kan anke en kjennelse eller beslutning som pålegger vedkommende plikter eller ilegger straff- eller omkostningsansvar. Partene kan anke kjennelser som ilegger dem selv straff- og omkostningsansvar etter <a data-id=\"lov/2012-01-27-9/§60\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A760\">§§ 60</a> og <a data-id=\"lov/2012-01-27-9/§62\" class=\" reference\" href=\"/lov/2012-01-27-9/%C2%A762\">62</a>.</td></tr>",
         "text": "(4) Den som ikke er part, kan anke en kjennelse eller beslutning som pålegger vedkommende plikter eller ilegger straff- eller omkostningsansvar. Partene kan anke kjennelser som ilegger dem selv straff- og omkostningsansvar etter §§ 60 og 62."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Anke etter fjerde ledd må erklæres straks hvis vedkommende er til stede i retten, og ellers senest tre dager etter at vedkommende har fått meddelelse om avgjørelsen. Så fremt noen har opptrådt som motpart eller kan betraktes som motpart, bør vedkommende underrettes om anken. Anken har oppsettende virkning for den som anker.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Anke etter fjerde ledd må erklæres straks hvis vedkommende er til stede i retten, og ellers senest tre dager etter at vedkommende har fått meddelelse om avgjørelsen. Så fremt noen har opptrådt som motpart eller kan betraktes som motpart, bør vedkommende underrettes om anken. Anken har oppsettende virkning for den som anker.</td></tr>",
         "text": "(5) Anke etter fjerde ledd må erklæres straks hvis vedkommende er til stede i retten, og ellers senest tre dager etter at vedkommende har fått meddelelse om avgjørelsen. Så fremt noen har opptrådt som motpart eller kan betraktes som motpart, bør vedkommende underrettes om anken. Anken har oppsettende virkning for den som anker."
     },
     {

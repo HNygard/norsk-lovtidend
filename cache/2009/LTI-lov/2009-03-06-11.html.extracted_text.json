@@ -78,91 +78,91 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rapporteringspliktige: personer som nevnt i <a data-id=\"lov/2009-03-06-11/§4\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A74\">§ 4</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">rapporteringspliktige: personer som nevnt i <a data-id=\"lov/2009-03-06-11/§4\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A74\">§ 4</a>,</td></tr>",
         "text": "1.\trapporteringspliktige: personer som nevnt i § 4,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">transaksjon: enhver overføring, formidling, ombytting eller plassering av formuesgoder,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">transaksjon: enhver overføring, formidling, ombytting eller plassering av formuesgoder,</td></tr>",
         "text": "2.\ttransaksjon: enhver overføring, formidling, ombytting eller plassering av formuesgoder,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">reelle rettighetshavere: fysiske personer som i siste instans eier eller kontrollerer en kunde eller som en transaksjon gjennomføres på vegne av. En fysisk person skal i alle tilfelle regnes som reell rettighetshaver dersom vedkommende:</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">reelle rettighetshavere: fysiske personer som i siste instans eier eller kontrollerer en kunde eller som en transaksjon gjennomføres på vegne av. En fysisk person skal i alle tilfelle regnes som reell rettighetshaver dersom vedkommende:</td></tr>",
         "text": "3.\treelle rettighetshavere: fysiske personer som i siste instans eier eller kontrollerer en kunde eller som en transaksjon gjennomføres på vegne av. En fysisk person skal i alle tilfelle regnes som reell rettighetshaver dersom vedkommende:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">direkte eller indirekte eier eller kontrollerer mer enn 25 prosent av eierandelene eller stemmene i et selskap, unntatt selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">direkte eller indirekte eier eller kontrollerer mer enn 25 prosent av eierandelene eller stemmene i et selskap, unntatt selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat,</td></tr>",
         "text": "a)\tdirekte eller indirekte eier eller kontrollerer mer enn 25 prosent av eierandelene eller stemmene i et selskap, unntatt selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utøver kontroll over ledelsen av en juridisk person på annen måte enn nevnt i bokstav a,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utøver kontroll over ledelsen av en juridisk person på annen måte enn nevnt i bokstav a,</td></tr>",
         "text": "b)\tutøver kontroll over ledelsen av en juridisk person på annen måte enn nevnt i bokstav a,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ifølge vedtekter eller på annet grunnlag skal motta 25 prosent eller mer av formuesgodene i en stiftelse, et fond eller en tilsvarende juridisk person eller formuesmasse,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ifølge vedtekter eller på annet grunnlag skal motta 25 prosent eller mer av formuesgodene i en stiftelse, et fond eller en tilsvarende juridisk person eller formuesmasse,</td></tr>",
         "text": "c)\tifølge vedtekter eller på annet grunnlag skal motta 25 prosent eller mer av formuesgodene i en stiftelse, et fond eller en tilsvarende juridisk person eller formuesmasse,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har hovedinteressen av opprettelsen eller forvaltningen av en stiftelse, et fond eller en tilsvarende juridisk person eller formuesmasse, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har hovedinteressen av opprettelsen eller forvaltningen av en stiftelse, et fond eller en tilsvarende juridisk person eller formuesmasse, eller</td></tr>",
         "text": "d)\thar hovedinteressen av opprettelsen eller forvaltningen av en stiftelse, et fond eller en tilsvarende juridisk person eller formuesmasse, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utøver kontroll over mer enn 25 prosent av formuesgodene i en stiftelse, et fond eller en lignende juridisk person eller formuesmasse.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utøver kontroll over mer enn 25 prosent av formuesgodene i en stiftelse, et fond eller en lignende juridisk person eller formuesmasse.</td></tr>",
         "text": "e)\tutøver kontroll over mer enn 25 prosent av formuesgodene i en stiftelse, et fond eller en lignende juridisk person eller formuesmasse."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilbydere av virksomhetstjenester: fysiske og juridiske personer som tilbyr en eller flere av følgende tjenester:</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilbydere av virksomhetstjenester: fysiske og juridiske personer som tilbyr en eller flere av følgende tjenester:</td></tr>",
         "text": "4.\ttilbydere av virksomhetstjenester: fysiske og juridiske personer som tilbyr en eller flere av følgende tjenester:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">oppretter selskaper og andre juridiske personer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">oppretter selskaper og andre juridiske personer,</td></tr>",
         "text": "a)\toppretter selskaper og andre juridiske personer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptrer som tillitsvalgte eller ledende ansatte i selskap, deltaker i ansvarlig selskap eller kommandittselskap, eller lignende posisjoner i andre typer juridiske personer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptrer som tillitsvalgte eller ledende ansatte i selskap, deltaker i ansvarlig selskap eller kommandittselskap, eller lignende posisjoner i andre typer juridiske personer,</td></tr>",
         "text": "b)\topptrer som tillitsvalgte eller ledende ansatte i selskap, deltaker i ansvarlig selskap eller kommandittselskap, eller lignende posisjoner i andre typer juridiske personer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">besørger forretningsadresser, administrative adresser eller postadresser og dertil knyttede tjenester for juridiske personer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">besørger forretningsadresser, administrative adresser eller postadresser og dertil knyttede tjenester for juridiske personer,</td></tr>",
         "text": "c)\tbesørger forretningsadresser, administrative adresser eller postadresser og dertil knyttede tjenester for juridiske personer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrerer eller forvalter fond eller tilsvarende formuesmasser,</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">administrerer eller forvalter fond eller tilsvarende formuesmasser,</td></tr>",
         "text": "d)\tadministrerer eller forvalter fond eller tilsvarende formuesmasser,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptrer som aksjeeiere for tredjeperson, med mindre denne er et selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptrer som aksjeeiere for tredjeperson, med mindre denne er et selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat, eller</td></tr>",
         "text": "e)\topptrer som aksjeeiere for tredjeperson, med mindre denne er et selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sørger for at andre personer opptrer i posisjoner som nevnt i bokstav b, d og e.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sørger for at andre personer opptrer i posisjoner som nevnt i bokstav b, d og e.</td></tr>",
         "text": "f)\tsørger for at andre personer opptrer i posisjoner som nevnt i bokstav b, d og e."
     },
     null,
@@ -214,67 +214,67 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansinstitusjoner,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansinstitusjoner,</td></tr>",
         "text": "1.\tfinansinstitusjoner,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Norges Bank,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Norges Bank,</td></tr>",
         "text": "2.\tNorges Bank,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">e-pengeforetak,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">e-pengeforetak,</td></tr>",
         "text": "3.\te-pengeforetak,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver virksomhet som består i overføring av penger eller pengefordringer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver virksomhet som består i overføring av penger eller pengefordringer,</td></tr>",
         "text": "4.\tforetak som driver virksomhet som består i overføring av penger eller pengefordringer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirforetak,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirforetak,</td></tr>",
         "text": "5.\tverdipapirforetak,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltningsselskaper for verdipapirfond,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltningsselskaper for verdipapirfond,</td></tr>",
         "text": "6.\tforvaltningsselskaper for verdipapirfond,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsikringsselskaper,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsikringsselskaper,</td></tr>",
         "text": "7.\tforsikringsselskaper,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling,</td></tr>",
         "text": "8.\tforetak som driver forsikringsformidling som ikke er gjenforsikringsmegling,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">postoperatører ved formidling av verdisendinger,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">postoperatører ved formidling av verdisendinger,</td></tr>",
         "text": "9.\tpostoperatører ved formidling av verdisendinger,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirregistre, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirregistre, og</td></tr>",
         "text": "10.\tverdipapirregistre, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">11.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver depotvirksomhet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">11.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver depotvirksomhet.</td></tr>",
         "text": "11.\tforetak som driver depotvirksomhet."
     },
     {
@@ -286,43 +286,43 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">statsautoriserte og registrerte revisorer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">statsautoriserte og registrerte revisorer,</td></tr>",
         "text": "1.\tstatsautoriserte og registrerte revisorer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">autoriserte regnskapsførere,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">autoriserte regnskapsførere,</td></tr>",
         "text": "2.\tautoriserte regnskapsførere,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">advokater og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand, når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner eller transaksjoner som gjelder fast eiendom eller gjenstander med verdi over 40 000 kroner,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">advokater og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand, når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner eller transaksjoner som gjelder fast eiendom eller gjenstander med verdi over 40 000 kroner,</td></tr>",
         "text": "3.\tadvokater og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand, når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner eller transaksjoner som gjelder fast eiendom eller gjenstander med verdi over 40 000 kroner,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eiendomsmeglere og boligbyggelag når det drives eiendomsmegling,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eiendomsmeglere og boligbyggelag når det drives eiendomsmegling,</td></tr>",
         "text": "4.\teiendomsmeglere og boligbyggelag når det drives eiendomsmegling,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som mot vederlag tilbyr tilsvarende tjenester som nevnt i nr. 1 til 4,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som mot vederlag tilbyr tilsvarende tjenester som nevnt i nr. 1 til 4,</td></tr>",
         "text": "5.\tforetak som mot vederlag tilbyr tilsvarende tjenester som nevnt i nr. 1 til 4,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilbydere av virksomhetstjenester, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilbydere av virksomhetstjenester, og</td></tr>",
         "text": "6.\ttilbydere av virksomhetstjenester, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forhandlere av gjenstander, herunder auksjonsforretninger, kommisjonærer og lignende, ved transaksjoner i kontanter på 40 000 norske kroner eller mer eller et tilsvarende beløp i utenlandsk valuta.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forhandlere av gjenstander, herunder auksjonsforretninger, kommisjonærer og lignende, ved transaksjoner i kontanter på 40 000 norske kroner eller mer eller et tilsvarende beløp i utenlandsk valuta.</td></tr>",
         "text": "7.\tforhandlere av gjenstander, herunder auksjonsforretninger, kommisjonærer og lignende, ved transaksjoner i kontanter på 40 000 norske kroner eller mer eller et tilsvarende beløp i utenlandsk valuta."
     },
     {
@@ -404,25 +404,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">etablering av kundeforhold,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">etablering av kundeforhold,</td></tr>",
         "text": "1.\tetablering av kundeforhold,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">transaksjon som gjelder 100 000 norske kroner eller mer, for kunde som den rapporteringspliktige ikke har et etablert kundeforhold til,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">transaksjon som gjelder 100 000 norske kroner eller mer, for kunde som den rapporteringspliktige ikke har et etablert kundeforhold til,</td></tr>",
         "text": "2.\ttransaksjon som gjelder 100 000 norske kroner eller mer, for kunde som den rapporteringspliktige ikke har et etablert kundeforhold til,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mistanke om at en transaksjon har tilknytning til utbytte av straffbar handling eller forhold som rammes av straffeloven §§ 147 a, 147 b eller 147 c, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mistanke om at en transaksjon har tilknytning til utbytte av straffbar handling eller forhold som rammes av straffeloven §§ 147 a, 147 b eller 147 c, eller</td></tr>",
         "text": "3.\tmistanke om at en transaksjon har tilknytning til utbytte av straffbar handling eller forhold som rammes av straffeloven §§ 147 a, 147 b eller 147 c, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvil om hvorvidt tidligere innhentede opplysninger om kunden er korrekte eller tilstrekkelige.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvil om hvorvidt tidligere innhentede opplysninger om kunden er korrekte eller tilstrekkelige.</td></tr>",
         "text": "4.\ttvil om hvorvidt tidligere innhentede opplysninger om kunden er korrekte eller tilstrekkelige."
     },
     {
@@ -460,25 +460,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">registrering av opplysninger som nevnt i <a data-id=\"lov/2009-03-06-11/§8\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A78\">§ 8</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">registrering av opplysninger som nevnt i <a data-id=\"lov/2009-03-06-11/§8\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A78\">§ 8</a>,</td></tr>",
         "text": "1.\tregistrering av opplysninger som nevnt i § 8,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bekreftelse av kundens identitet på grunnlag av gyldig legitimasjon,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">bekreftelse av kundens identitet på grunnlag av gyldig legitimasjon,</td></tr>",
         "text": "2.\tbekreftelse av kundens identitet på grunnlag av gyldig legitimasjon,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bekreftelse av identiteten til reelle rettighetshavere på grunnlag av egnede tiltak, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">bekreftelse av identiteten til reelle rettighetshavere på grunnlag av egnede tiltak, og</td></tr>",
         "text": "3.\tbekreftelse av identiteten til reelle rettighetshavere på grunnlag av egnede tiltak, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innhenting av opplysninger om kundeforholdets formål og tilsiktede <a data-id=\"lov/2009-03-06-11/a\" class=\" reference\" href=\"/lov/2009-03-06-11/a\">art.  </a>\n</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">innhenting av opplysninger om kundeforholdets formål og tilsiktede <a data-id=\"lov/2009-03-06-11/a\" class=\" reference\" href=\"/lov/2009-03-06-11/a\">art.  </a></td></tr>",
         "text": "4.\tinnhenting av opplysninger om kundeforholdets formål og tilsiktede art.  "
     },
     {
@@ -534,25 +534,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fullt navn eller foretaksnavn,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fullt navn eller foretaksnavn,</td></tr>",
         "text": "1.\tfullt navn eller foretaksnavn,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fødselsnummer, organisasjonsnummer, D-nummer eller, dersom kunden ikke har slikt nummer, annen entydig identitetskode,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fødselsnummer, organisasjonsnummer, D-nummer eller, dersom kunden ikke har slikt nummer, annen entydig identitetskode,</td></tr>",
         "text": "2.\tfødselsnummer, organisasjonsnummer, D-nummer eller, dersom kunden ikke har slikt nummer, annen entydig identitetskode,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fast adresse, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fast adresse, og</td></tr>",
         "text": "3.\tfast adresse, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">referanse til legitimasjon som er brukt for å bekrefte kundens identitet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">referanse til legitimasjon som er brukt for å bekrefte kundens identitet.</td></tr>",
         "text": "4.\treferanse til legitimasjon som er brukt for å bekrefte kundens identitet."
     },
     {
@@ -608,19 +608,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bekreftelse av identiteten til kunder og reelle rettighetshavere skal kunne foretas under etablering av kundeforhold, dersom etableringen av kundeforholdet er nødvendig for ikke å hindre den alminnelige forretningsdrift og det er liten risiko for transaksjoner med tilknytning til en straffbar handling eller forhold som rammes av straffeloven §§ 147 a, 147 b eller 147 c.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bekreftelse av identiteten til kunder og reelle rettighetshavere skal kunne foretas under etablering av kundeforhold, dersom etableringen av kundeforholdet er nødvendig for ikke å hindre den alminnelige forretningsdrift og det er liten risiko for transaksjoner med tilknytning til en straffbar handling eller forhold som rammes av straffeloven §§ 147 a, 147 b eller 147 c.</td></tr>",
         "text": "1.\tBekreftelse av identiteten til kunder og reelle rettighetshavere skal kunne foretas under etablering av kundeforhold, dersom etableringen av kundeforholdet er nødvendig for ikke å hindre den alminnelige forretningsdrift og det er liten risiko for transaksjoner med tilknytning til en straffbar handling eller forhold som rammes av straffeloven §§ 147 a, 147 b eller 147 c."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bekreftelse av identiteten til den begunstigede etter en livsforsikringspolise kan foretas etter tegning av polisen, forutsatt at bekreftelse av identiteten foretas før utbetalingstidspunktet eller det tidspunkt den begunstigede utøver sine rettigheter etter polisen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bekreftelse av identiteten til den begunstigede etter en livsforsikringspolise kan foretas etter tegning av polisen, forutsatt at bekreftelse av identiteten foretas før utbetalingstidspunktet eller det tidspunkt den begunstigede utøver sine rettigheter etter polisen.</td></tr>",
         "text": "2.\tBekreftelse av identiteten til den begunstigede etter en livsforsikringspolise kan foretas etter tegning av polisen, forutsatt at bekreftelse av identiteten foretas før utbetalingstidspunktet eller det tidspunkt den begunstigede utøver sine rettigheter etter polisen."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bekreftelse av identiteten til kunden og reelle rettighetshavere kan foretas etter åpning av bankkonto, forutsatt at det finnes foranstaltninger som sikrer at transaksjoner knyttet til kontoen ikke kan utføres av kunden eller på dennes vegne før bekreftelse av identiteten er foretatt.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Bekreftelse av identiteten til kunden og reelle rettighetshavere kan foretas etter åpning av bankkonto, forutsatt at det finnes foranstaltninger som sikrer at transaksjoner knyttet til kontoen ikke kan utføres av kunden eller på dennes vegne før bekreftelse av identiteten er foretatt.</td></tr>",
         "text": "3.\tBekreftelse av identiteten til kunden og reelle rettighetshavere kan foretas etter åpning av bankkonto, forutsatt at det finnes foranstaltninger som sikrer at transaksjoner knyttet til kontoen ikke kan utføres av kunden eller på dennes vegne før bekreftelse av identiteten er foretatt."
     },
     null,
@@ -672,67 +672,67 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansinstitusjoner,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansinstitusjoner,</td></tr>",
         "text": "1.\tfinansinstitusjoner,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirforetak,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirforetak,</td></tr>",
         "text": "2.\tverdipapirforetak,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltningsselskaper for verdipapirfond,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forvaltningsselskaper for verdipapirfond,</td></tr>",
         "text": "3.\tforvaltningsselskaper for verdipapirfond,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsikringsselskaper,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forsikringsselskaper,</td></tr>",
         "text": "4.\tforsikringsselskaper,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling,</td></tr>",
         "text": "5.\tforetak som driver forsikringsformidling som ikke er gjenforsikringsmegling,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirregistre,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">verdipapirregistre,</td></tr>",
         "text": "6.\tverdipapirregistre,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">statsautoriserte og registrerte revisorer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">7.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">statsautoriserte og registrerte revisorer,</td></tr>",
         "text": "7.\tstatsautoriserte og registrerte revisorer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">autoriserte regnskapsførere,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">8.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">autoriserte regnskapsførere,</td></tr>",
         "text": "8.\tautoriserte regnskapsførere,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">advokater og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand, når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner, transaksjoner som gjelder fast eiendom eller transaksjoner som gjelder gjenstander med verdi over 40 000 kroner,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">9.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">advokater og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand, når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner, transaksjoner som gjelder fast eiendom eller transaksjoner som gjelder gjenstander med verdi over 40 000 kroner,</td></tr>",
         "text": "9.\tadvokater og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand, når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner, transaksjoner som gjelder fast eiendom eller transaksjoner som gjelder gjenstander med verdi over 40 000 kroner,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eiendomsmeglere og boligbyggelag når det drives eiendomsmegling, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">10.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eiendomsmeglere og boligbyggelag når det drives eiendomsmegling, eller</td></tr>",
         "text": "10.\teiendomsmeglere og boligbyggelag når det drives eiendomsmegling, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">11.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilsvarende juridiske og fysiske personer som nevnt i nr. 1 til 4 og 6 til 10 fra annen stat, såfremt disse er underlagt lovmessig registreringsplikt og regler om kundekontroll, oppbevaring og tilsyn som svarer til reglene i denne lov.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">11.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilsvarende juridiske og fysiske personer som nevnt i nr. 1 til 4 og 6 til 10 fra annen stat, såfremt disse er underlagt lovmessig registreringsplikt og regler om kundekontroll, oppbevaring og tilsyn som svarer til reglene i denne lov.</td></tr>",
         "text": "11.\ttilsvarende juridiske og fysiske personer som nevnt i nr. 1 til 4 og 6 til 10 fra annen stat, såfremt disse er underlagt lovmessig registreringsplikt og regler om kundekontroll, oppbevaring og tilsyn som svarer til reglene i denne lov."
     },
     {
@@ -744,13 +744,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">plikt til å registrere opplysninger som nevnt i <a data-id=\"lov/2009-03-06-11/§8\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A78\">§ 8</a> og oppbevare opplysninger og dokumenter som nevnt i <a data-id=\"lov/2009-03-06-11/§22\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A722\">§ 22</a>, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">plikt til å registrere opplysninger som nevnt i <a data-id=\"lov/2009-03-06-11/§8\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A78\">§ 8</a> og oppbevare opplysninger og dokumenter som nevnt i <a data-id=\"lov/2009-03-06-11/§22\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A722\">§ 22</a>, eller</td></tr>",
         "text": "1.\tplikt til å registrere opplysninger som nevnt i § 8 og oppbevare opplysninger og dokumenter som nevnt i § 22, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvar for at kundekontroll gjennomføres i samsvar med denne lov og forskrifter gitt med hjemmel i denne lov.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvar for at kundekontroll gjennomføres i samsvar med denne lov og forskrifter gitt med hjemmel i denne lov.</td></tr>",
         "text": "2.\tansvar for at kundekontroll gjennomføres i samsvar med denne lov og forskrifter gitt med hjemmel i denne lov."
     },
     {
@@ -800,13 +800,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rapporteringspliktige, med unntak av tilbydere av virksomhetstjenester som nevnt i <a data-id=\"lov/2009-03-06-11/§4\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A74\">§ 4</a> annet ledd nr. 6 og forhandlere av gjenstander som nevnt i <a data-id=\"lov/2009-03-06-11/§4\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A74\">§ 4</a> annet ledd nr. 7, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">rapporteringspliktige, med unntak av tilbydere av virksomhetstjenester som nevnt i <a data-id=\"lov/2009-03-06-11/§4\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A74\">§ 4</a> annet ledd nr. 6 og forhandlere av gjenstander som nevnt i <a data-id=\"lov/2009-03-06-11/§4\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A74\">§ 4</a> annet ledd nr. 7, og</td></tr>",
         "text": "1.\trapporteringspliktige, med unntak av tilbydere av virksomhetstjenester som nevnt i § 4 annet ledd nr. 6 og forhandlere av gjenstander som nevnt i § 4 annet ledd nr. 7, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">postoperatører med konsesjon.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">postoperatører med konsesjon.</td></tr>",
         "text": "2.\tpostoperatører med konsesjon."
     },
     {
@@ -902,19 +902,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">påse at beslutningstaker innhenter samtykke fra overordnet før etablering av kundeforhold,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">påse at beslutningstaker innhenter samtykke fra overordnet før etablering av kundeforhold,</td></tr>",
         "text": "1.\tpåse at beslutningstaker innhenter samtykke fra overordnet før etablering av kundeforhold,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">treffe egnede tiltak for å fastslå opprinnelsen til kundens formue og den kapital som inngår i kundeforholdet eller transaksjonen, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">treffe egnede tiltak for å fastslå opprinnelsen til kundens formue og den kapital som inngår i kundeforholdet eller transaksjonen, og</td></tr>",
         "text": "2.\ttreffe egnede tiltak for å fastslå opprinnelsen til kundens formue og den kapital som inngår i kundeforholdet eller transaksjonen, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">føre forsterket løpende oppfølging med kundeforholdet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">føre forsterket løpende oppfølging med kundeforholdet.</td></tr>",
         "text": "3.\tføre forsterket løpende oppfølging med kundeforholdet."
     },
     {
@@ -926,19 +926,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehar eller i løpet av det siste året har innehatt høytstående offentlig verv eller stilling i en annen stat enn Norge,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">innehar eller i løpet av det siste året har innehatt høytstående offentlig verv eller stilling i en annen stat enn Norge,</td></tr>",
         "text": "1.\tinnehar eller i løpet av det siste året har innehatt høytstående offentlig verv eller stilling i en annen stat enn Norge,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er nært familiemedlem til person som nevnt i nr. 1, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er nært familiemedlem til person som nevnt i nr. 1, eller</td></tr>",
         "text": "2.\ter nært familiemedlem til person som nevnt i nr. 1, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er kjent medarbeider til person som nevnt i nr. 1.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er kjent medarbeider til person som nevnt i nr. 1.</td></tr>",
         "text": "3.\ter kjent medarbeider til person som nevnt i nr. 1."
     },
     {
@@ -976,43 +976,43 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innhente tilstrekkelige opplysninger om korrespondentinstitusjonen til fullt ut å forstå arten av dens virksomhet og på grunnlag av offentlig tilgjengelige opplysninger fastslå institusjonens omdømme og tilsynets kvalitet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">innhente tilstrekkelige opplysninger om korrespondentinstitusjonen til fullt ut å forstå arten av dens virksomhet og på grunnlag av offentlig tilgjengelige opplysninger fastslå institusjonens omdømme og tilsynets kvalitet,</td></tr>",
         "text": "1.\tinnhente tilstrekkelige opplysninger om korrespondentinstitusjonen til fullt ut å forstå arten av dens virksomhet og på grunnlag av offentlig tilgjengelige opplysninger fastslå institusjonens omdømme og tilsynets kvalitet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vurdere korrespondentinstitusjonens kontrolltiltak for forebyggelse og bekjempelse av handlinger som beskrevet i <a data-id=\"lov/2005-05-20-28/§317\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7317\">straffeloven §§ 317</a> og 147 b,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vurdere korrespondentinstitusjonens kontrolltiltak for forebyggelse og bekjempelse av handlinger som beskrevet i <a data-id=\"lov/2005-05-20-28/§317\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7317\">straffeloven §§ 317</a> og 147 b,</td></tr>",
         "text": "2.\tvurdere korrespondentinstitusjonens kontrolltiltak for forebyggelse og bekjempelse av handlinger som beskrevet i straffeloven §§ 317 og 147 b,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">påse at beslutningstaker innhenter samtykke fra overordnet før etablering av nye korrespondentbankforbindelser,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">påse at beslutningstaker innhenter samtykke fra overordnet før etablering av nye korrespondentbankforbindelser,</td></tr>",
         "text": "3.\tpåse at beslutningstaker innhenter samtykke fra overordnet før etablering av nye korrespondentbankforbindelser,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">dokumentere den enkelte institusjons ansvar, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">dokumentere den enkelte institusjons ansvar, og</td></tr>",
         "text": "4.\tdokumentere den enkelte institusjons ansvar, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i forbindelse med oppgjørskonti, forsikre seg om at korrespondentinstitusjonen</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">i forbindelse med oppgjørskonti, forsikre seg om at korrespondentinstitusjonen</td></tr>",
         "text": "5.\ti forbindelse med oppgjørskonti, forsikre seg om at korrespondentinstitusjonen"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har verifisert identiteten til, og fører løpende oppfølging av, kunder som har direkte adgang til konti hos kredittinstitusjonen, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har verifisert identiteten til, og fører løpende oppfølging av, kunder som har direkte adgang til konti hos kredittinstitusjonen, og</td></tr>",
         "text": "a)\thar verifisert identiteten til, og fører løpende oppfølging av, kunder som har direkte adgang til konti hos kredittinstitusjonen, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på anmodning kan fremlegge relevante opplysninger fra kundekontrollen til kredittinstitusjonen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">på anmodning kan fremlegge relevante opplysninger fra kundekontrollen til kredittinstitusjonen.</td></tr>",
         "text": "b)\tpå anmodning kan fremlegge relevante opplysninger fra kundekontrollen til kredittinstitusjonen."
     },
     {
@@ -1272,19 +1272,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er kjent med de plikter som påligger den rapporteringspliktige etter denne lov,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er kjent med de plikter som påligger den rapporteringspliktige etter denne lov,</td></tr>",
         "text": "1.\ter kjent med de plikter som påligger den rapporteringspliktige etter denne lov,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">lærer å kjenne igjen transaksjoner som nevnt i <a data-id=\"lov/2009-03-06-11/§17\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A717\">§ 17</a>, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">lærer å kjenne igjen transaksjoner som nevnt i <a data-id=\"lov/2009-03-06-11/§17\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A717\">§ 17</a>, og</td></tr>",
         "text": "2.\tlærer å kjenne igjen transaksjoner som nevnt i § 17, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er kjent med den rapporteringspliktiges interne rutiner for håndtering av slike transaksjoner.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er kjent med den rapporteringspliktiges interne rutiner for håndtering av slike transaksjoner.</td></tr>",
         "text": "3.\ter kjent med den rapporteringspliktiges interne rutiner for håndtering av slike transaksjoner."
     },
     null,
@@ -1356,13 +1356,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er kjent med kontroll- og kommunikasjonsrutiner som beskrevet i <a data-id=\"lov/2009-03-06-11/§23\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A723\">§ 23</a>, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er kjent med kontroll- og kommunikasjonsrutiner som beskrevet i <a data-id=\"lov/2009-03-06-11/§23\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A723\">§ 23</a>, og</td></tr>",
         "text": "1.\ter kjent med kontroll- og kommunikasjonsrutiner som beskrevet i § 23, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">anvender tilsvarende tiltak for kundekontroll, løpende oppfølging og oppbevaring som beskrevet i <a data-id=\"lov/2009-03-06-11/kap2\" class=\" reference\" href=\"/lov/2009-03-06-11/kap2\">kapittel 2</a> og 4.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">anvender tilsvarende tiltak for kundekontroll, løpende oppfølging og oppbevaring som beskrevet i <a data-id=\"lov/2009-03-06-11/kap2\" class=\" reference\" href=\"/lov/2009-03-06-11/kap2\">kapittel 2</a> og 4.</td></tr>",
         "text": "2.\tanvender tilsvarende tiltak for kundekontroll, løpende oppfølging og oppbevaring som beskrevet i kapittel 2 og 4."
     },
     {
@@ -1374,13 +1374,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">informere tilsynsmyndigheten om dette, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">informere tilsynsmyndigheten om dette, og</td></tr>",
         "text": "1.\tinformere tilsynsmyndigheten om dette, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">iverksette andre tiltak som er egnet til å motvirke risikoen for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som beskrevet i straffeloven §§ 147 a, 147 b eller 147 c.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">iverksette andre tiltak som er egnet til å motvirke risikoen for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som beskrevet i straffeloven §§ 147 a, 147 b eller 147 c.</td></tr>",
         "text": "2.\tiverksette andre tiltak som er egnet til å motvirke risikoen for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som beskrevet i straffeloven §§ 147 a, 147 b eller 147 c."
     },
     {
@@ -1522,19 +1522,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Økokrims behandling av opplysninger mottatt etter <a data-id=\"lov/2009-03-06-11/§18\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A718\">§ 18</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Økokrims behandling av opplysninger mottatt etter <a data-id=\"lov/2009-03-06-11/§18\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A718\">§ 18</a>,</td></tr>",
         "text": "1.\tØkokrims behandling av opplysninger mottatt etter § 18,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Økokrims pålegg og godkjenninger etter <a data-id=\"lov/2009-03-06-11/§19\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A719\">§ 19</a> første ledd, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Økokrims pålegg og godkjenninger etter <a data-id=\"lov/2009-03-06-11/§19\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A719\">§ 19</a> første ledd, og</td></tr>",
         "text": "2.\tØkokrims pålegg og godkjenninger etter § 19 første ledd, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Økokrims håndtering av opplysninger etter <a data-id=\"lov/2009-03-06-11/§29\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A729\">§ 29</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Økokrims håndtering av opplysninger etter <a data-id=\"lov/2009-03-06-11/§29\" class=\" reference\" href=\"/lov/2009-03-06-11/%C2%A729\">§ 29</a>.</td></tr>",
         "text": "3.\tØkokrims håndtering av opplysninger etter § 29."
     },
     {
@@ -1598,13 +1598,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">særskilte regler om rapportering av transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i <a data-id=\"lov/2005-05-20-28/§317\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7317\">straffeloven §§ 317</a> og 147 b, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">særskilte regler om rapportering av transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i <a data-id=\"lov/2005-05-20-28/§317\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7317\">straffeloven §§ 317</a> og 147 b, og</td></tr>",
         "text": "1.\tsærskilte regler om rapportering av transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i straffeloven §§ 317 og 147 b, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbud mot eller restriksjoner i rapporteringspliktiges adgang til å etablere kundeforhold med eller foreta transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i <a data-id=\"lov/2005-05-20-28/§317\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7317\">straffeloven §§ 317</a> og 147 b.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbud mot eller restriksjoner i rapporteringspliktiges adgang til å etablere kundeforhold med eller foreta transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i <a data-id=\"lov/2005-05-20-28/§317\" class=\" reference\" href=\"/lov/2005-05-20-28/%C2%A7317\">straffeloven §§ 317</a> og 147 b.</td></tr>",
         "text": "2.\tforbud mot eller restriksjoner i rapporteringspliktiges adgang til å etablere kundeforhold med eller foreta transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i straffeloven §§ 317 og 147 b."
     },
     {

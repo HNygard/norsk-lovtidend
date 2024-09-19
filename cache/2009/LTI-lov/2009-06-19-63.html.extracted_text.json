@@ -50,7 +50,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ordinær tjeneste: Førstegangstjeneste og repetisjonstjeneste, eventuelt med befals- og annen særopplæring.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ordinær tjeneste: Førstegangstjeneste og repetisjonstjeneste, eventuelt med befals- og annen særopplæring.</td></tr>",
         "text": "1.\tOrdinær tjeneste: Førstegangstjeneste og repetisjonstjeneste, eventuelt med befals- og annen særopplæring."
     },
     {
@@ -80,13 +80,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Innrullering av de utskrivningspliktige i Vernepliktsverkets hovedrulle.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Innrullering av de utskrivningspliktige i Vernepliktsverkets hovedrulle.</td></tr>",
         "text": "1.\tInnrullering av de utskrivningspliktige i Vernepliktsverkets hovedrulle."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Klassifisering av de utskrivningspliktige for å fastslå deres tjenestedyktighet og øvrige forutsetninger for tjeneste.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Klassifisering av de utskrivningspliktige for å fastslå deres tjenestedyktighet og øvrige forutsetninger for tjeneste.</td></tr>",
         "text": "2.\tKlassifisering av de utskrivningspliktige for å fastslå deres tjenestedyktighet og øvrige forutsetninger for tjeneste."
     },
     {
@@ -350,25 +350,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å oppfylle meldeplikt etter <a data-id=\"lov/1953-07-17-29/§39\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A739\">§§ 39</a> eller <a data-id=\"lov/1953-07-17-29/§43\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A743\">43</a>, unnlater å innhente tillatelse som nevnt i <a data-id=\"lov/1953-07-17-29/§39\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A739\">§ 39</a> annet punktum eller overtrer reiseforbud gitt i medhold av <a data-id=\"lov/1953-07-17-29/§39\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A739\">§ 39</a> tredje punktum;</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater å oppfylle meldeplikt etter <a data-id=\"lov/1953-07-17-29/§39\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A739\">§§ 39</a> eller <a data-id=\"lov/1953-07-17-29/§43\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A743\">43</a>, unnlater å innhente tillatelse som nevnt i <a data-id=\"lov/1953-07-17-29/§39\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A739\">§ 39</a> annet punktum eller overtrer reiseforbud gitt i medhold av <a data-id=\"lov/1953-07-17-29/§39\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A739\">§ 39</a> tredje punktum;</td></tr>",
         "text": "1.\tunnlater å oppfylle meldeplikt etter §§ 39 eller 43, unnlater å innhente tillatelse som nevnt i § 39 annet punktum eller overtrer reiseforbud gitt i medhold av § 39 tredje punktum;"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uten gyldig forfall uteblir fra eller kommer for sent til møte som han eller hun er innkalt til i medhold av denne lov, møter i ikke edru tilstand, forlater møtet uten tillatelse eller ved sin opptreden hindrer eller forstyrrer møtets gang;</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">uten gyldig forfall uteblir fra eller kommer for sent til møte som han eller hun er innkalt til i medhold av denne lov, møter i ikke edru tilstand, forlater møtet uten tillatelse eller ved sin opptreden hindrer eller forstyrrer møtets gang;</td></tr>",
         "text": "2.\tuten gyldig forfall uteblir fra eller kommer for sent til møte som han eller hun er innkalt til i medhold av denne lov, møter i ikke edru tilstand, forlater møtet uten tillatelse eller ved sin opptreden hindrer eller forstyrrer møtets gang;"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater eller nekter å oppfylle noen av de plikter som han eller hun er pålagt etter <a data-id=\"lov/1953-07-17-29/§40\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A740\">§§ 40</a>, <a data-id=\"lov/1953-07-17-29/§41\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A741\">41</a> eller <a data-id=\"lov/1953-07-17-29/§42\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A742\">42</a>, gir uriktige opplysninger om forhold som nevnt i <a data-id=\"lov/1953-07-17-29/§40\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A740\">§ 40</a> eller ved sin atferd eller på annen måte søker å villede vernepliktsmyndighetene ved bedømmelsen av hans eller hennes utskrivnings- eller vernepliktsforhold; eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">unnlater eller nekter å oppfylle noen av de plikter som han eller hun er pålagt etter <a data-id=\"lov/1953-07-17-29/§40\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A740\">§§ 40</a>, <a data-id=\"lov/1953-07-17-29/§41\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A741\">41</a> eller <a data-id=\"lov/1953-07-17-29/§42\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A742\">42</a>, gir uriktige opplysninger om forhold som nevnt i <a data-id=\"lov/1953-07-17-29/§40\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A740\">§ 40</a> eller ved sin atferd eller på annen måte søker å villede vernepliktsmyndighetene ved bedømmelsen av hans eller hennes utskrivnings- eller vernepliktsforhold; eller</td></tr>",
         "text": "3.\tunnlater eller nekter å oppfylle noen av de plikter som han eller hun er pålagt etter §§ 40, 41 eller 42, gir uriktige opplysninger om forhold som nevnt i § 40 eller ved sin atferd eller på annen måte søker å villede vernepliktsmyndighetene ved bedømmelsen av hans eller hennes utskrivnings- eller vernepliktsforhold; eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller forsømmer sine plikter han eller hun er pålagt å ta vare på i henhold til <a data-id=\"lov/1953-07-17-29/§44\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A744\">§ 44</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrer eller forsømmer sine plikter han eller hun er pålagt å ta vare på i henhold til <a data-id=\"lov/1953-07-17-29/§44\" class=\" reference\" href=\"/lov/1953-07-17-29/%C2%A744\">§ 44</a>.</td></tr>",
         "text": "4.\tovertrer eller forsømmer sine plikter han eller hun er pålagt å ta vare på i henhold til § 44."
     },
     {

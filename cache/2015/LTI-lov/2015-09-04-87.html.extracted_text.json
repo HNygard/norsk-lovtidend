@@ -74,7 +74,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitne som er under 15 år, eller som på grunn av forstandssvakhet eller av andre årsaker ikke kan ha noen klar forståelse av forsikringens betydning,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitne som er under 15 år, eller som på grunn av forstandssvakhet eller av andre årsaker ikke kan ha noen klar forståelse av forsikringens betydning,</td></tr>",
         "text": "1.\tvitne som er under 15 år, eller som på grunn av forstandssvakhet eller av andre årsaker ikke kan ha noen klar forståelse av forsikringens betydning,"
     },
     {
@@ -266,13 +266,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitnets bistandsadvokat og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitnets bistandsadvokat og</td></tr>",
         "text": "a.\tvitnets bistandsadvokat og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">siktedes forsvarer, dersom siktede er varslet om avhøret, så fremt det kan skje uten at det er til skade eller fare for vitnet eller etterforskingen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">siktedes forsvarer, dersom siktede er varslet om avhøret, så fremt det kan skje uten at det er til skade eller fare for vitnet eller etterforskingen.</td></tr>",
         "text": "b.\tsiktedes forsvarer, dersom siktede er varslet om avhøret, så fremt det kan skje uten at det er til skade eller fare for vitnet eller etterforskingen."
     },
     {
@@ -284,31 +284,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">representant fra barnehuset,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">representant fra barnehuset,</td></tr>",
         "text": "a.\trepresentant fra barnehuset,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">representant fra barnevernstjenesten i saker der det straffbare forholdet gir grunn til bekymring for barnets omsorgssituasjon,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">representant fra barnevernstjenesten i saker der det straffbare forholdet gir grunn til bekymring for barnets omsorgssituasjon,</td></tr>",
         "text": "b.\trepresentant fra barnevernstjenesten i saker der det straffbare forholdet gir grunn til bekymring for barnets omsorgssituasjon,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitnets verge,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitnets verge,</td></tr>",
         "text": "c.\tvitnets verge,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ytterligere representanter for påtalemyndigheten eller politiet og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ytterligere representanter for påtalemyndigheten eller politiet og</td></tr>",
         "text": "d.\tytterligere representanter for påtalemyndigheten eller politiet og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre avhørsleder mener det er hensiktsmessig at følger avhøret.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre avhørsleder mener det er hensiktsmessig at følger avhøret.</td></tr>",
         "text": "e.\tandre avhørsleder mener det er hensiktsmessig at følger avhøret."
     },
     {
@@ -344,19 +344,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fornærmede skal avhøres om en handling som skjedde for mindre enn to uker siden,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fornærmede skal avhøres om en handling som skjedde for mindre enn to uker siden,</td></tr>",
         "text": "a.\tfornærmede skal avhøres om en handling som skjedde for mindre enn to uker siden,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fornærmede som skal avhøres har gitt en umiddelbar og fullstendig beretning om forholdet eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fornærmede som skal avhøres har gitt en umiddelbar og fullstendig beretning om forholdet eller</td></tr>",
         "text": "b.\tfornærmede som skal avhøres har gitt en umiddelbar og fullstendig beretning om forholdet eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er grunn til å tro at forklaringen er nødvendig for å beskytte fornærmede eller vitnet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det er grunn til å tro at forklaringen er nødvendig for å beskytte fornærmede eller vitnet.</td></tr>",
         "text": "c.\tdet er grunn til å tro at forklaringen er nødvendig for å beskytte fornærmede eller vitnet."
     },
     {
@@ -368,13 +368,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitnet er under seks år eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitnet er under seks år eller</td></tr>",
         "text": "a.\tvitnet er under seks år eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitnet er fornærmet i saken.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vitnet er fornærmet i saken.</td></tr>",
         "text": "b.\tvitnet er fornærmet i saken."
     },
     {
@@ -470,13 +470,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven trer i kraft fra den tid Kongen bestemmer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven trer i kraft fra den tid Kongen bestemmer.</td></tr>",
         "text": "1.\tLoven trer i kraft fra den tid Kongen bestemmer."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder alle avhør som tas etter ikrafttredelsen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder alle avhør som tas etter ikrafttredelsen.</td></tr>",
         "text": "2.\tLoven gjelder alle avhør som tas etter ikrafttredelsen."
     }
 ]

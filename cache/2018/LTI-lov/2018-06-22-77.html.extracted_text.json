@@ -158,19 +158,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,</td></tr>",
         "text": "a)\tektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">slektninger i rett oppstigende eller nedstigende linje, samt søsken</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">slektninger i rett oppstigende eller nedstigende linje, samt søsken</td></tr>",
         "text": "b)\tslektninger i rett oppstigende eller nedstigende linje, samt søsken"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefelle til eller person som bor sammen med person som nevnt i bokstav b i ekteskapslignende forhold.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ektefelle til eller person som bor sammen med person som nevnt i bokstav b i ekteskapslignende forhold.</td></tr>",
         "text": "c)\tektefelle til eller person som bor sammen med person som nevnt i bokstav b i ekteskapslignende forhold."
     },
     {
@@ -248,13 +248,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">endring i selskapets stedlige plassering eller ved vesentlige endringer som er relevante for den aktiviteten det er gitt bevilling for</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">endring i selskapets stedlige plassering eller ved vesentlige endringer som er relevante for den aktiviteten det er gitt bevilling for</td></tr>",
         "text": "a)\tendring i selskapets stedlige plassering eller ved vesentlige endringer som er relevante for den aktiviteten det er gitt bevilling for"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ethvert oppkjøp eller enhver avhending av produksjonsutstyr</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ethvert oppkjøp eller enhver avhending av produksjonsutstyr</td></tr>",
         "text": "b)\tethvert oppkjøp eller enhver avhending av produksjonsutstyr"
     },
     {
@@ -338,19 +338,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomføre kundekontroll av andre næringsdrivende før og underveis i kundeforholdet, herunder forvisse seg om at bevillingspliktige har bevilling og at registreringspliktige er registrert,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomføre kundekontroll av andre næringsdrivende før og underveis i kundeforholdet, herunder forvisse seg om at bevillingspliktige har bevilling og at registreringspliktige er registrert,</td></tr>",
         "text": "a)\tgjennomføre kundekontroll av andre næringsdrivende før og underveis i kundeforholdet, herunder forvisse seg om at bevillingspliktige har bevilling og at registreringspliktige er registrert,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overvåke salget til egne næringsdrivende kunder for å sikre at mengden produkter som legges ut i markedet, er i samsvar med etterspørselen etter dette produktet, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">overvåke salget til egne næringsdrivende kunder for å sikre at mengden produkter som legges ut i markedet, er i samsvar med etterspørselen etter dette produktet, og</td></tr>",
         "text": "b)\tovervåke salget til egne næringsdrivende kunder for å sikre at mengden produkter som legges ut i markedet, er i samsvar med etterspørselen etter dette produktet, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rapportere til Helsedirektoratet ved mistanke om at en næringsdrivende kunde har overtrådt bestemmelsene i denne lov.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">rapportere til Helsedirektoratet ved mistanke om at en næringsdrivende kunde har overtrådt bestemmelsene i denne lov.</td></tr>",
         "text": "c)\trapportere til Helsedirektoratet ved mistanke om at en næringsdrivende kunde har overtrådt bestemmelsene i denne lov."
     },
     {
@@ -860,13 +860,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid.</td></tr>",
         "text": "1.\tLoven gjelder fra den tid Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi overgangsbestemmelser.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi overgangsbestemmelser.</td></tr>",
         "text": "2.\tKongen kan gi overgangsbestemmelser."
     }
 ]

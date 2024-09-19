@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">til Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av hvitvaskingsloven.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">til Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av hvitvaskingsloven.</td></tr>",
         "text": "g.\ttil Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av hvitvaskingsloven."
     },
     {
@@ -56,7 +56,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">til lensmann, namsfogd, politistasjon med sivile rettspleieoppgaver og tingrett til bruk i skiftesak, når en innsynsbegjæring gjelder avdødes ligningsopplysninger, og det ikke foreligger formell beslutning om skifteform. Det samme gjelder for avdødes ektefelle og arving (som definert i <a data-id=\"lov/1930-02-21/§123\" class=\" reference\" href=\"/lov/1930-02-21/%C2%A7123\">skifteloven § 123</a> første og annet ledd) når vedkommende kan vise til saklig behov for innsyn. Når skifteform er valgt er det den eller de som representerer boet som har rett til innsyn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">til lensmann, namsfogd, politistasjon med sivile rettspleieoppgaver og tingrett til bruk i skiftesak, når en innsynsbegjæring gjelder avdødes ligningsopplysninger, og det ikke foreligger formell beslutning om skifteform. Det samme gjelder for avdødes ektefelle og arving (som definert i <a data-id=\"lov/1930-02-21/§123\" class=\" reference\" href=\"/lov/1930-02-21/%C2%A7123\">skifteloven § 123</a> første og annet ledd) når vedkommende kan vise til saklig behov for innsyn. Når skifteform er valgt er det den eller de som representerer boet som har rett til innsyn.</td></tr>",
         "text": "k.\ttil lensmann, namsfogd, politistasjon med sivile rettspleieoppgaver og tingrett til bruk i skiftesak, når en innsynsbegjæring gjelder avdødes ligningsopplysninger, og det ikke foreligger formell beslutning om skifteform. Det samme gjelder for avdødes ektefelle og arving (som definert i skifteloven § 123 første og annet ledd) når vedkommende kan vise til saklig behov for innsyn. Når skifteform er valgt er det den eller de som representerer boet som har rett til innsyn."
     },
     {
@@ -68,13 +68,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Den som har – eller kan pålegges – oppgaveplikt etter dette kapittel, skal innrette sin bokføring slik at oppgavene kan gis og kontrolleres.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Den som har – eller kan pålegges – oppgaveplikt etter dette kapittel, skal innrette sin bokføring slik at oppgavene kan gis og kontrolleres.</td></tr>",
         "text": "1.\tDen som har – eller kan pålegges – oppgaveplikt etter dette kapittel, skal innrette sin bokføring slik at oppgavene kan gis og kontrolleres."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi forskrifter om hvordan bokføringen etter nr. 1 skal innrettes.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi forskrifter om hvordan bokføringen etter nr. 1 skal innrettes.</td></tr>",
         "text": "2.\tDepartementet kan gi forskrifter om hvordan bokføringen etter nr. 1 skal innrettes."
     },
     {
@@ -104,25 +104,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">1.</span> Næringsdrivende og offentlige organ som gir noen et oppdrag i riket eller på kontinentalsokkelen, skal ukrevet gi skattekontoret opplysninger om oppdraget og eventuelle underoppdrag, dersom disse utføres av person bosatt i utlandet eller selskap hjemmehørende i utlandet. Rapporteringsplikten omfatter opplysninger om hovedoppdragsgiveren i kontraktskjeden, oppdragstakeren og arbeidstakerne som oppdragstakeren benytter til å utføre oppdraget. Oppdragstaker har plikt til å gi opplysninger om egne arbeidstakere som benyttes til å utføre oppdrag etter første punktum.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">1.</span> Næringsdrivende og offentlige organ som gir noen et oppdrag i riket eller på kontinentalsokkelen, skal ukrevet gi skattekontoret opplysninger om oppdraget og eventuelle underoppdrag, dersom disse utføres av person bosatt i utlandet eller selskap hjemmehørende i utlandet. Rapporteringsplikten omfatter opplysninger om hovedoppdragsgiveren i kontraktskjeden, oppdragstakeren og arbeidstakerne som oppdragstakeren benytter til å utføre oppdraget. Oppdragstaker har plikt til å gi opplysninger om egne arbeidstakere som benyttes til å utføre oppdrag etter første punktum.</td></tr>",
         "text": "1. Næringsdrivende og offentlige organ som gir noen et oppdrag i riket eller på kontinentalsokkelen, skal ukrevet gi skattekontoret opplysninger om oppdraget og eventuelle underoppdrag, dersom disse utføres av person bosatt i utlandet eller selskap hjemmehørende i utlandet. Rapporteringsplikten omfatter opplysninger om hovedoppdragsgiveren i kontraktskjeden, oppdragstakeren og arbeidstakerne som oppdragstakeren benytter til å utføre oppdraget. Oppdragstaker har plikt til å gi opplysninger om egne arbeidstakere som benyttes til å utføre oppdrag etter første punktum."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">2.</span> For oppdrag i riket som ikke utføres på sted for bygge- og monteringsvirksomhet, skal det bare gis opplysninger etter nr. 1 dersom oppdraget utføres på sted som står under oppdragsgiverens kontroll.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">2.</span> For oppdrag i riket som ikke utføres på sted for bygge- og monteringsvirksomhet, skal det bare gis opplysninger etter nr. 1 dersom oppdraget utføres på sted som står under oppdragsgiverens kontroll.</td></tr>",
         "text": "2. For oppdrag i riket som ikke utføres på sted for bygge- og monteringsvirksomhet, skal det bare gis opplysninger etter nr. 1 dersom oppdraget utføres på sted som står under oppdragsgiverens kontroll."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">3.</span> Opplysninger skal gis snarest etter at kontrakt er inngått, og senest 14 dager etter at arbeidet er påbegynt. Opplysninger om arbeidets avslutning skal gis senest 14 dager etter avslutningen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">3.</span> Opplysninger skal gis snarest etter at kontrakt er inngått, og senest 14 dager etter at arbeidet er påbegynt. Opplysninger om arbeidets avslutning skal gis senest 14 dager etter avslutningen.</td></tr>",
         "text": "3. Opplysninger skal gis snarest etter at kontrakt er inngått, og senest 14 dager etter at arbeidet er påbegynt. Opplysninger om arbeidets avslutning skal gis senest 14 dager etter avslutningen."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">4.</span> Departementet kan bestemme at begrensningene i rapporteringsplikten etter nr. 1 ikke skal komme til anvendelse for oppdrag til enkelte grupper av oppdragstakere og arbeidstakere som deltar på oppdrag.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">4.</span> Departementet kan bestemme at begrensningene i rapporteringsplikten etter nr. 1 ikke skal komme til anvendelse for oppdrag til enkelte grupper av oppdragstakere og arbeidstakere som deltar på oppdrag.</td></tr>",
         "text": "4. Departementet kan bestemme at begrensningene i rapporteringsplikten etter nr. 1 ikke skal komme til anvendelse for oppdrag til enkelte grupper av oppdragstakere og arbeidstakere som deltar på oppdrag."
     },
     {
@@ -158,13 +158,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">1.</span> Rederi eller arbeidsgiver som driver næringsvirksomhet om bord på fartøy, skal ukrevet gi skattekontoret opplysninger på skjema fastsatt av skattekontoret om arbeidstaker bosatt i utlandet i tjeneste på norsk registrert fartøy, herunder fartøy registrert i Norsk Internasjonalt Skipsregister (NIS). For arbeidstakere bosatt i Danmark, Finland, Island eller Sverige skal slike opplysninger også gis ved tjenestegjøring om bord på utenlandsk registrert fartøy i tjeneste hos norsk rederi eller hos arbeidsgiver som driver næringsvirksomhet på slikt fartøy.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">1.</span> Rederi eller arbeidsgiver som driver næringsvirksomhet om bord på fartøy, skal ukrevet gi skattekontoret opplysninger på skjema fastsatt av skattekontoret om arbeidstaker bosatt i utlandet i tjeneste på norsk registrert fartøy, herunder fartøy registrert i Norsk Internasjonalt Skipsregister (NIS). For arbeidstakere bosatt i Danmark, Finland, Island eller Sverige skal slike opplysninger også gis ved tjenestegjøring om bord på utenlandsk registrert fartøy i tjeneste hos norsk rederi eller hos arbeidsgiver som driver næringsvirksomhet på slikt fartøy.</td></tr>",
         "text": "1. Rederi eller arbeidsgiver som driver næringsvirksomhet om bord på fartøy, skal ukrevet gi skattekontoret opplysninger på skjema fastsatt av skattekontoret om arbeidstaker bosatt i utlandet i tjeneste på norsk registrert fartøy, herunder fartøy registrert i Norsk Internasjonalt Skipsregister (NIS). For arbeidstakere bosatt i Danmark, Finland, Island eller Sverige skal slike opplysninger også gis ved tjenestegjøring om bord på utenlandsk registrert fartøy i tjeneste hos norsk rederi eller hos arbeidsgiver som driver næringsvirksomhet på slikt fartøy."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">2.</span> Opplysninger etter forrige ledd skal gis snarest etter at tjenesteavtaler er inngått og senest 14 dager etter at tjenesten er påbegynt.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">2.</span> Opplysninger etter forrige ledd skal gis snarest etter at tjenesteavtaler er inngått og senest 14 dager etter at tjenesten er påbegynt.</td></tr>",
         "text": "2. Opplysninger etter forrige ledd skal gis snarest etter at tjenesteavtaler er inngått og senest 14 dager etter at tjenesten er påbegynt."
     },
     {
@@ -176,7 +176,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">1.</span> Dersom oppdragsgiver forsettlig eller grovt uaktsomt unnlater å oppfylle opplysningsplikten etter <a data-id=\"lov/1980-06-13-24/§6-10\" class=\" reference\" href=\"/lov/1980-06-13-24/%C2%A76-10\">§ 6-10</a>, kan skattekontoret pålegge oppdragsgiver ansvar for oppdragstakerens forfalte, men ikke innbetalte skatt, arbeidsgiveravgift eller forskuddstrekk.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">1.</span> Dersom oppdragsgiver forsettlig eller grovt uaktsomt unnlater å oppfylle opplysningsplikten etter <a data-id=\"lov/1980-06-13-24/§6-10\" class=\" reference\" href=\"/lov/1980-06-13-24/%C2%A76-10\">§ 6-10</a>, kan skattekontoret pålegge oppdragsgiver ansvar for oppdragstakerens forfalte, men ikke innbetalte skatt, arbeidsgiveravgift eller forskuddstrekk.</td></tr>",
         "text": "1. Dersom oppdragsgiver forsettlig eller grovt uaktsomt unnlater å oppfylle opplysningsplikten etter § 6-10, kan skattekontoret pålegge oppdragsgiver ansvar for oppdragstakerens forfalte, men ikke innbetalte skatt, arbeidsgiveravgift eller forskuddstrekk."
     },
     {

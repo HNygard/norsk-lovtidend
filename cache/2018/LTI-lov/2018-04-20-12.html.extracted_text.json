@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-06-17-101\" class=\" reference\" href=\"/lov/2005-06-17-101\">Lov 17. juni 2005 nr. 101</a> om eigedomsregistrering (matrikkellova).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2005-06-17-101\" class=\" reference\" href=\"/lov/2005-06-17-101\">Lov 17. juni 2005 nr. 101</a> om eigedomsregistrering (matrikkellova).</td></tr>",
         "text": "1\tLov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2008-06-27-71\" class=\" reference\" href=\"/lov/2008-06-27-71\">Lov 27. juni 2008 nr. 71</a> om planlegging og byggesaksbehandling (plan- og bygningsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2008-06-27-71\" class=\" reference\" href=\"/lov/2008-06-27-71\">Lov 27. juni 2008 nr. 71</a> om planlegging og byggesaksbehandling (plan- og bygningsloven).</td></tr>",
         "text": "2\tLov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)."
     },
     {
@@ -50,7 +50,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">matrikulering:</em> føre ei ny matrikkeleining inn i matrikkelen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">matrikulering:</em> føre ei ny matrikkeleining inn i matrikkelen,</td></tr>",
         "text": "f)\tmatrikulering: føre ei ny matrikkeleining inn i matrikkelen,"
     },
     {
@@ -104,7 +104,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysningar om arealoverføring, endring av grenser for festegrunn, grensejustering og klarlegging av eksisterande grense, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysningar om arealoverføring, endring av grenser for festegrunn, grensejustering og klarlegging av eksisterande grense, eller</td></tr>",
         "text": "d)\topplysningar om arealoverføring, endring av grenser for festegrunn, grensejustering og klarlegging av eksisterande grense, eller"
     },
     {
@@ -296,13 +296,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">nokon som har grunnboksheimel som eigar eller festar til den aktuelle matrikkeleininga, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">nokon som har grunnboksheimel som eigar eller festar til den aktuelle matrikkeleininga, eller</td></tr>",
         "text": "a)\tnokon som har grunnboksheimel som eigar eller festar til den aktuelle matrikkeleininga, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">staten, statsføretak, fylkeskommune eller kommune.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">staten, statsføretak, fylkeskommune eller kommune.</td></tr>",
         "text": "b)\tstaten, statsføretak, fylkeskommune eller kommune."
     },
     {
@@ -500,7 +500,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å ta hand om andre interesser som gjeld rådvelde over matrikkeleiningar eller bruken av dei.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å ta hand om andre interesser som gjeld rådvelde over matrikkeleiningar eller bruken av dei.</td></tr>",
         "text": "d)\tfor å ta hand om andre interesser som gjeld rådvelde over matrikkeleiningar eller bruken av dei."
     },
     {
@@ -692,25 +692,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">er myndige og eigna til å drive eigedomsoppmåling</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">er myndige og eigna til å drive eigedomsoppmåling</td></tr>",
         "text": "a)\ter myndige og eigna til å drive eigedomsoppmåling"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har godkjend utdanning</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har godkjend utdanning</td></tr>",
         "text": "b)\thar godkjend utdanning"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har minst to års relevant erfaring etter ferdig utdanning, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har minst to års relevant erfaring etter ferdig utdanning, og</td></tr>",
         "text": "c)\thar minst to års relevant erfaring etter ferdig utdanning, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har bestått ei godkjent autorisasjonsprøve.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har bestått ei godkjent autorisasjonsprøve.</td></tr>",
         "text": "d)\thar bestått ei godkjent autorisasjonsprøve."
     },
     {
@@ -818,85 +818,85 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">matrikkelføring av saker som krev oppmålingsforretning etter § 6, under dette feil ved varslinga eller utføringa av forretninga</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">matrikkelføring av saker som krev oppmålingsforretning etter § 6, under dette feil ved varslinga eller utføringa av forretninga</td></tr>",
         "text": "a)\tmatrikkelføring av saker som krev oppmålingsforretning etter § 6, under dette feil ved varslinga eller utføringa av forretninga"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avgjerd om kva som er klarlagd grense etter § 7 tredje ledd</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">avgjerd om kva som er klarlagd grense etter § 7 tredje ledd</td></tr>",
         "text": "b)\tavgjerd om kva som er klarlagd grense etter § 7 tredje ledd"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">samanslåing, jf. § 18</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">samanslåing, jf. § 18</td></tr>",
         "text": "c)\tsamanslåing, jf. § 18"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">føring av referanse til avtale om grenser mv., jf. § 19</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">føring av referanse til avtale om grenser mv., jf. § 19</td></tr>",
         "text": "d)\tføring av referanse til avtale om grenser mv., jf. § 19"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fastsetjing av samla fast eigedom, jf. § 20</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fastsetjing av samla fast eigedom, jf. § 20</td></tr>",
         "text": "e)\tfastsetjing av samla fast eigedom, jf. § 20"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tildeling av offisiell adresse med heimel i § 21</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tildeling av offisiell adresse med heimel i § 21</td></tr>",
         "text": "f)\ttildeling av offisiell adresse med heimel i § 21"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">sletting av matrikkeleining med heimel i § 26 første ledd</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">sletting av matrikkeleining med heimel i § 26 første ledd</td></tr>",
         "text": "g)\tsletting av matrikkeleining med heimel i § 26 første ledd"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avslag på krav om retting av opplysning i matrikkelen, jf. § 26 tredje og fjerde ledd</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">avslag på krav om retting av opplysning i matrikkelen, jf. § 26 tredje og fjerde ledd</td></tr>",
         "text": "h)\tavslag på krav om retting av opplysning i matrikkelen, jf. § 26 tredje og fjerde ledd"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avslag på førespurnad om innsyn i matrikkelen etter § 29</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">avslag på førespurnad om innsyn i matrikkelen etter § 29</td></tr>",
         "text": "i)\tavslag på førespurnad om innsyn i matrikkelen etter § 29"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utlevering av opplysningar frå matrikkelen, jf. § 30</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utlevering av opplysningar frå matrikkelen, jf. § 30</td></tr>",
         "text": "j)\tutlevering av opplysningar frå matrikkelen, jf. § 30"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">fastsetjing av gebyr og betaling med heimel i § 32 som ikkje er fastsett i forskrift eller regulativ godkjent av departementet</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fastsetjing av gebyr og betaling med heimel i § 32 som ikkje er fastsett i forskrift eller regulativ godkjent av departementet</td></tr>",
         "text": "k)\tfastsetjing av gebyr og betaling med heimel i § 32 som ikkje er fastsett i forskrift eller regulativ godkjent av departementet"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avslag på rekvisisjon av oppmålingsforretning, jf. § 35 første ledd</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">avslag på rekvisisjon av oppmålingsforretning, jf. § 35 første ledd</td></tr>",
         "text": "l)\tavslag på rekvisisjon av oppmålingsforretning, jf. § 35 første ledd"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tildeling og tilbaketrekking av landmålarbrev etter § 38</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tildeling og tilbaketrekking av landmålarbrev etter § 38</td></tr>",
         "text": "m)\ttildeling og tilbaketrekking av landmålarbrev etter § 38"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">n)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedtak om tvangsmulkt, jf. § 48.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">n)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vedtak om tvangsmulkt, jf. § 48.</td></tr>",
         "text": "n)\tvedtak om tvangsmulkt, jf. § 48."
     },
     {
@@ -944,7 +944,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opprettelse av ny grunneiendom, ny anleggseiendom eller nytt jordsameie, eller opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, eller endring av grenser for slike matrikkelenheter som ikke kan behandles som grensejustering, jf. matrikkellova.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opprettelse av ny grunneiendom, ny anleggseiendom eller nytt jordsameie, eller opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, eller endring av grenser for slike matrikkelenheter som ikke kan behandles som grensejustering, jf. matrikkellova.</td></tr>",
         "text": "m)\topprettelse av ny grunneiendom, ny anleggseiendom eller nytt jordsameie, eller opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, eller endring av grenser for slike matrikkelenheter som ikke kan behandles som grensejustering, jf. matrikkellova."
     },
     {

@@ -38,13 +38,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">det fremsettes krav om skattlegging etter alminnelige regler, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det fremsettes krav om skattlegging etter alminnelige regler, eller</td></tr>",
         "text": "a)\tdet fremsettes krav om skattlegging etter alminnelige regler, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkårene etter §§ 8-11 til 8-13 brytes.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">vilkårene etter §§ 8-11 til 8-13 brytes.</td></tr>",
         "text": "b)\tvilkårene etter §§ 8-11 til 8-13 brytes."
     },
     {
@@ -92,31 +92,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Verdien av fast eiendom kan settes lavere enn omsetningsverdien. Verdien av primærbolig og fritidsbolig skal settes ned etter krav fra skattyter dersom den overstiger 30 prosent av eiendommens dokumenterte omsetningsverdi. Verdien av annen bolig (sekundærbolig) og næringseiendom skal settes ned etter krav fra skattyter dersom den overstiger 60 prosent av eiendommens dokumenterte omsetningsverdi.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Verdien av fast eiendom kan settes lavere enn omsetningsverdien. Verdien av primærbolig og fritidsbolig skal settes ned etter krav fra skattyter dersom den overstiger 30 prosent av eiendommens dokumenterte omsetningsverdi. Verdien av annen bolig (sekundærbolig) og næringseiendom skal settes ned etter krav fra skattyter dersom den overstiger 60 prosent av eiendommens dokumenterte omsetningsverdi.</td></tr>",
         "text": "(1) Verdien av fast eiendom kan settes lavere enn omsetningsverdien. Verdien av primærbolig og fritidsbolig skal settes ned etter krav fra skattyter dersom den overstiger 30 prosent av eiendommens dokumenterte omsetningsverdi. Verdien av annen bolig (sekundærbolig) og næringseiendom skal settes ned etter krav fra skattyter dersom den overstiger 60 prosent av eiendommens dokumenterte omsetningsverdi."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Verdien av boligeiendom settes til produktet av boligens areal og en kvadratmetersats. Kvadratmetersatsen settes til en prosentandel av beregnet omsetningsverdi per kvadratmeter, hvor det tas hensyn til boligtype, byggeår, areal og geografisk beliggenhet. Prosentandelen er 25 for primærbolig og 40 for sekundærbolig. Kvadratmetersatsene fastsettes årlig av Skattedirektoratet på grunnlag av beregninger fra Statistisk sentralbyrå.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Verdien av boligeiendom settes til produktet av boligens areal og en kvadratmetersats. Kvadratmetersatsen settes til en prosentandel av beregnet omsetningsverdi per kvadratmeter, hvor det tas hensyn til boligtype, byggeår, areal og geografisk beliggenhet. Prosentandelen er 25 for primærbolig og 40 for sekundærbolig. Kvadratmetersatsene fastsettes årlig av Skattedirektoratet på grunnlag av beregninger fra Statistisk sentralbyrå.</td></tr>",
         "text": "(2) Verdien av boligeiendom settes til produktet av boligens areal og en kvadratmetersats. Kvadratmetersatsen settes til en prosentandel av beregnet omsetningsverdi per kvadratmeter, hvor det tas hensyn til boligtype, byggeår, areal og geografisk beliggenhet. Prosentandelen er 25 for primærbolig og 40 for sekundærbolig. Kvadratmetersatsene fastsettes årlig av Skattedirektoratet på grunnlag av beregninger fra Statistisk sentralbyrå."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Verdsetting av boenhet i boligselskap som omfattes av <a data-id=\"lov/1999-03-26-14/§7-3\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A77-3\">§ 7-3</a>, følger reglene i første og annet ledd. Øvrig verdi av andel i slikt selskap settes til andelshavers andel av boligselskapets netto formue utenom boenhetene. Innskudd fra andelshaverne kommer ikke til fradrag ved beregningen av boligselskapets formue.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Verdsetting av boenhet i boligselskap som omfattes av <a data-id=\"lov/1999-03-26-14/§7-3\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A77-3\">§ 7-3</a>, følger reglene i første og annet ledd. Øvrig verdi av andel i slikt selskap settes til andelshavers andel av boligselskapets netto formue utenom boenhetene. Innskudd fra andelshaverne kommer ikke til fradrag ved beregningen av boligselskapets formue.</td></tr>",
         "text": "(3) Verdsetting av boenhet i boligselskap som omfattes av § 7-3, følger reglene i første og annet ledd. Øvrig verdi av andel i slikt selskap settes til andelshavers andel av boligselskapets netto formue utenom boenhetene. Innskudd fra andelshaverne kommer ikke til fradrag ved beregningen av boligselskapets formue."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Verdien av næringseiendom kan fastsettes på grunnlag av en beregnet utleieverdi. Verdsetting etter første punktum kan foretas ved bruk av differensierte kvadratmetersatser.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Verdien av næringseiendom kan fastsettes på grunnlag av en beregnet utleieverdi. Verdsetting etter første punktum kan foretas ved bruk av differensierte kvadratmetersatser.</td></tr>",
         "text": "(4) Verdien av næringseiendom kan fastsettes på grunnlag av en beregnet utleieverdi. Verdsetting etter første punktum kan foretas ved bruk av differensierte kvadratmetersatser."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.</td></tr>",
         "text": "(5) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf."
     },
     {
@@ -152,7 +152,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning.</td></tr>",
         "text": "d)\tengangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning."
     },
     {
@@ -164,7 +164,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Ved anvendelsen av første og annet ledd skal alminnelig inntekt tillegges en og en halv prosent av skattyters og ektefelles eller samboers nettoformue ved statsskatteligningen, utover 200 000 kroner. Bolig brukt som egen primærbolig holdes utenfor ved beregningen av nettoformue.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Ved anvendelsen av første og annet ledd skal alminnelig inntekt tillegges en og en halv prosent av skattyters og ektefelles eller samboers nettoformue ved statsskatteligningen, utover 200 000 kroner. Bolig brukt som egen primærbolig holdes utenfor ved beregningen av nettoformue.</td></tr>",
         "text": "(3) Ved anvendelsen av første og annet ledd skal alminnelig inntekt tillegges en og en halv prosent av skattyters og ektefelles eller samboers nettoformue ved statsskatteligningen, utover 200 000 kroner. Bolig brukt som egen primærbolig holdes utenfor ved beregningen av nettoformue."
     },
     {
@@ -182,7 +182,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-03-26-14/§10-70\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-70\">§ 10-70</a> gis tilsvarende anvendelse for personer som tar opphold på Svalbard og anses bosatt der. Svalbard likestilles med stat innenfor EØS ved anvendelsen av <a data-id=\"lov/1999-03-26-14/§10-70\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-70\">§ 10-70</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-03-26-14/§10-70\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-70\">§ 10-70</a> gis tilsvarende anvendelse for personer som tar opphold på Svalbard og anses bosatt der. Svalbard likestilles med stat innenfor EØS ved anvendelsen av <a data-id=\"lov/1999-03-26-14/§10-70\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-70\">§ 10-70</a>.</td></tr>",
         "text": "b)\t§ 10-70 gis tilsvarende anvendelse for personer som tar opphold på Svalbard og anses bosatt der. Svalbard likestilles med stat innenfor EØS ved anvendelsen av § 10-70."
     },
     {
@@ -206,25 +206,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Fradrag gis bare for kostnader etter dette kapittel når betaling skjer via bank eller foretak med rett til å drive betalingsformidling, med mindre betalingen samlet utgjør mindre enn 10 000 kroner. Flere betalinger som gjelder samme leveranse, tjeneste, kontrakt eller lignende skal vurderes som én betaling ved anvendelse av beløpsgrensen i forrige punktum. Ved løpende eller periodiske ytelser skal flere betalinger ses samlet for kostnader som kommer til fradrag samme år. Når det ikke foreligger rett til fradrag på grunn av betalingsmåten skal beløpet det ikke gis fradrag for, ikke inngå i en eiendels skattemessige avskrivningsgrunnlag, eller i dens skattemessige inngangsverdi ved senere realisasjon.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Fradrag gis bare for kostnader etter dette kapittel når betaling skjer via bank eller foretak med rett til å drive betalingsformidling, med mindre betalingen samlet utgjør mindre enn 10 000 kroner. Flere betalinger som gjelder samme leveranse, tjeneste, kontrakt eller lignende skal vurderes som én betaling ved anvendelse av beløpsgrensen i forrige punktum. Ved løpende eller periodiske ytelser skal flere betalinger ses samlet for kostnader som kommer til fradrag samme år. Når det ikke foreligger rett til fradrag på grunn av betalingsmåten skal beløpet det ikke gis fradrag for, ikke inngå i en eiendels skattemessige avskrivningsgrunnlag, eller i dens skattemessige inngangsverdi ved senere realisasjon.</td></tr>",
         "text": "(1) Fradrag gis bare for kostnader etter dette kapittel når betaling skjer via bank eller foretak med rett til å drive betalingsformidling, med mindre betalingen samlet utgjør mindre enn 10 000 kroner. Flere betalinger som gjelder samme leveranse, tjeneste, kontrakt eller lignende skal vurderes som én betaling ved anvendelse av beløpsgrensen i forrige punktum. Ved løpende eller periodiske ytelser skal flere betalinger ses samlet for kostnader som kommer til fradrag samme år. Når det ikke foreligger rett til fradrag på grunn av betalingsmåten skal beløpet det ikke gis fradrag for, ikke inngå i en eiendels skattemessige avskrivningsgrunnlag, eller i dens skattemessige inngangsverdi ved senere realisasjon."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Er det ved ligningen gitt fradrag for en kostnad, men fradragsrett for kostnaden likevel ikke foreligger som følge av denne bestemmelsen, skal tidligere fradragsført beløp tas til inntekt det år betalingen skjer.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Er det ved ligningen gitt fradrag for en kostnad, men fradragsrett for kostnaden likevel ikke foreligger som følge av denne bestemmelsen, skal tidligere fradragsført beløp tas til inntekt det år betalingen skjer.</td></tr>",
         "text": "(2) Er det ved ligningen gitt fradrag for en kostnad, men fradragsrett for kostnaden likevel ikke foreligger som følge av denne bestemmelsen, skal tidligere fradragsført beløp tas til inntekt det år betalingen skjer."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Når sterke samfunnsmessige hensyn gjør det nødvendig, kan departementet bestemme at første ledd ikke kommer til anvendelse.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Når sterke samfunnsmessige hensyn gjør det nødvendig, kan departementet bestemme at første ledd ikke kommer til anvendelse.</td></tr>",
         "text": "(3) Når sterke samfunnsmessige hensyn gjør det nødvendig, kan departementet bestemme at første ledd ikke kommer til anvendelse."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf, herunder nærmere bestemmelser om at andre betalingsmåter skal likestilles med betaling via bank, gjøre unntak fra kravet om betaling via bank i særlige tilfeller, anvendelse av beløpsgrensen og om krav til dokumentasjon.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf, herunder nærmere bestemmelser om at andre betalingsmåter skal likestilles med betaling via bank, gjøre unntak fra kravet om betaling via bank i særlige tilfeller, anvendelse av beløpsgrensen og om krav til dokumentasjon.</td></tr>",
         "text": "(4) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf, herunder nærmere bestemmelser om at andre betalingsmåter skal likestilles med betaling via bank, gjøre unntak fra kravet om betaling via bank i særlige tilfeller, anvendelse av beløpsgrensen og om krav til dokumentasjon."
     },
     {
@@ -374,7 +374,7 @@
     {
         "tag": "table",
         "class": "",
-        "html": "<tr>\n<th class=\" metafieldLabel\">Publisert</th>\n<td> : </td>\n<td>I 2010 hefte 10 (Rettelse)</td>\n</tr>",
+        "html": "<tr><th class=\" metafieldLabel\">Publisert</th><td> : </td><td>I 2010 hefte 10 (Rettelse)</td></tr>",
         "text": "Publisert : I 2010 hefte 10 (Rettelse)"
     },
     {

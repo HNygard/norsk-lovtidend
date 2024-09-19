@@ -26,7 +26,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd til livsopphold mv. under deltakelse i arbeidsmarkedstiltak etter forskrift gitt med hjemmel i <a data-id=\"lov/2004-12-10-76/§13\" class=\" reference\" href=\"/lov/2004-12-10-76/%C2%A713\">lov om arbeidsmarkedstjenester § 13</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tilskudd til livsopphold mv. under deltakelse i arbeidsmarkedstiltak etter forskrift gitt med hjemmel i <a data-id=\"lov/2004-12-10-76/§13\" class=\" reference\" href=\"/lov/2004-12-10-76/%C2%A713\">lov om arbeidsmarkedstjenester § 13</a>,</td></tr>",
         "text": "b.\ttilskudd til livsopphold mv. under deltakelse i arbeidsmarkedstiltak etter forskrift gitt med hjemmel i lov om arbeidsmarkedstjenester § 13,"
     },
     {
@@ -86,13 +86,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt om bord på skip i form av</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt om bord på skip i form av</td></tr>",
         "text": "1.\tinntekt om bord på skip i form av"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tariffmessig hyretillegg for egen kost opptil 1 6 500 kroner per år. For arbeidstakere som bare har vært ansatt i deler av inntektsåret, reduseres det skattefrie beløpet forholdsmessig basert på antall dager vedkommende ikke har vært ansatt om bord.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">-\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tariffmessig hyretillegg for egen kost opptil 1 6 500 kroner per år. For arbeidstakere som bare har vært ansatt i deler av inntektsåret, reduseres det skattefrie beløpet forholdsmessig basert på antall dager vedkommende ikke har vært ansatt om bord.</td></tr>",
         "text": "-\ttariffmessig hyretillegg for egen kost opptil 1 6 500 kroner per år. For arbeidstakere som bare har vært ansatt i deler av inntektsåret, reduseres det skattefrie beløpet forholdsmessig basert på antall dager vedkommende ikke har vært ansatt om bord."
     },
     {
@@ -116,19 +116,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Skattyter som nevnt i <a data-id=\"lov/1999-03-26-14/§2-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-1\">§§ 2-1</a> og <a data-id=\"lov/1999-03-26-14/§2-2\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-2\">2-2</a> som her i riket må svare skatt av</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Skattyter som nevnt i <a data-id=\"lov/1999-03-26-14/§2-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-1\">§§ 2-1</a> og <a data-id=\"lov/1999-03-26-14/§2-2\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-2\">2-2</a> som her i riket må svare skatt av</td></tr>",
         "text": "(1) Skattyter som nevnt i §§ 2-1 og 2-2 som her i riket må svare skatt av"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt med kilde i fremmed stat, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt med kilde i fremmed stat, eller</td></tr>",
         "text": "a.\tinntekt med kilde i fremmed stat, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formue i fremmed stat,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">formue i fremmed stat,</td></tr>",
         "text": "b.\tformue i fremmed stat,"
     },
     {
@@ -140,13 +140,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Skattyter som nevnt i første ledd som må svare skatt av inntekt eller formue for deltakelse i selskap som nevnt i <a data-id=\"lov/1999-03-26-14/§10-40\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-40\">§§ 10-40</a> til <a data-id=\"lov/1999-03-26-14/§10-47\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-47\">10-47</a> og <a data-id=\"lov/1999-03-26-14/§10-60\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-60\">10-60</a> til <a data-id=\"lov/1999-03-26-14/§10-68\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-68\">10-68</a>, kan kreve fradrag i norsk skatt for en forholdsmessig del av den skatten som selskapet har betalt. For så vidt gjelder skatt som selskapet har betalt til andre stater enn den staten selskapet er hjemmehørende i, gis det ikke fradrag for et større beløp enn det Norge ville vært forpliktet til å gi fradrag for ved direkte anvendelse av skatteavtale mellom Norge og vedkommende tredjestat.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Skattyter som nevnt i første ledd som må svare skatt av inntekt eller formue for deltakelse i selskap som nevnt i <a data-id=\"lov/1999-03-26-14/§10-40\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-40\">§§ 10-40</a> til <a data-id=\"lov/1999-03-26-14/§10-47\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-47\">10-47</a> og <a data-id=\"lov/1999-03-26-14/§10-60\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-60\">10-60</a> til <a data-id=\"lov/1999-03-26-14/§10-68\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-68\">10-68</a>, kan kreve fradrag i norsk skatt for en forholdsmessig del av den skatten som selskapet har betalt. For så vidt gjelder skatt som selskapet har betalt til andre stater enn den staten selskapet er hjemmehørende i, gis det ikke fradrag for et større beløp enn det Norge ville vært forpliktet til å gi fradrag for ved direkte anvendelse av skatteavtale mellom Norge og vedkommende tredjestat.</td></tr>",
         "text": "(2) Skattyter som nevnt i første ledd som må svare skatt av inntekt eller formue for deltakelse i selskap som nevnt i §§ 10-40 til 10-47 og 10-60 til 10-68, kan kreve fradrag i norsk skatt for en forholdsmessig del av den skatten som selskapet har betalt. For så vidt gjelder skatt som selskapet har betalt til andre stater enn den staten selskapet er hjemmehørende i, gis det ikke fradrag for et større beløp enn det Norge ville vært forpliktet til å gi fradrag for ved direkte anvendelse av skatteavtale mellom Norge og vedkommende tredjestat."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Skattyter som nevnt i annet ledd kan kreve fradrag i norsk inntektsskatt for kildeskatt av utbytte fra selskapet som godtgjøres å være ilagt skattyteren og betalt i vedkommende fremmede stat hvor selskapet er hjemmehørende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Skattyter som nevnt i annet ledd kan kreve fradrag i norsk inntektsskatt for kildeskatt av utbytte fra selskapet som godtgjøres å være ilagt skattyteren og betalt i vedkommende fremmede stat hvor selskapet er hjemmehørende.</td></tr>",
         "text": "(3) Skattyter som nevnt i annet ledd kan kreve fradrag i norsk inntektsskatt for kildeskatt av utbytte fra selskapet som godtgjøres å være ilagt skattyteren og betalt i vedkommende fremmede stat hvor selskapet er hjemmehørende."
     },
     {
@@ -158,25 +158,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Fradrag i norsk inntektsskatt etter <a data-id=\"lov/1999-03-26-14/§16-20\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-20\">§ 16-20</a> kan ikke overstige den delen av norsk skatt på samlet skattepliktig inntekt, beregnet før fradraget, som forholdsmessig faller på hver av de følgende kategorier av utenlandsinntekt:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Fradrag i norsk inntektsskatt etter <a data-id=\"lov/1999-03-26-14/§16-20\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-20\">§ 16-20</a> kan ikke overstige den delen av norsk skatt på samlet skattepliktig inntekt, beregnet før fradraget, som forholdsmessig faller på hver av de følgende kategorier av utenlandsinntekt:</td></tr>",
         "text": "(1) Fradrag i norsk inntektsskatt etter § 16-20 kan ikke overstige den delen av norsk skatt på samlet skattepliktig inntekt, beregnet før fradraget, som forholdsmessig faller på hver av de følgende kategorier av utenlandsinntekt:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt ved virksomhet i lavskattland, jf. <a data-id=\"lov/1999-03-26-14/§10-63\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-63\">§ 10-63</a>, og inntekt skattlagt etter reglene i <a data-id=\"lov/1999-03-26-14/§10-60\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-60\">§§ 10-60</a> til <a data-id=\"lov/1999-03-26-14/§10-68\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-68\">10-68</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt ved virksomhet i lavskattland, jf. <a data-id=\"lov/1999-03-26-14/§10-63\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-63\">§ 10-63</a>, og inntekt skattlagt etter reglene i <a data-id=\"lov/1999-03-26-14/§10-60\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-60\">§§ 10-60</a> til <a data-id=\"lov/1999-03-26-14/§10-68\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-68\">10-68</a>,</td></tr>",
         "text": "a.\tinntekt ved virksomhet i lavskattland, jf. § 10-63, og inntekt skattlagt etter reglene i §§ 10-60 til 10-68,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt ved utvinning av petroleum i utlandet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt ved utvinning av petroleum i utlandet,</td></tr>",
         "text": "b.\tinntekt ved utvinning av petroleum i utlandet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">annen utenlandsinntekt.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">annen utenlandsinntekt.</td></tr>",
         "text": "c.\tannen utenlandsinntekt."
     },
     {
@@ -200,7 +200,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan fremføres til fradrag i skatt i de inntil fem påfølgende årene innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c. Skatt betalt i utlandet i et tidligere år fradras i sin helhet før det gis fradrag for skatt betalt i utlandet i et senere år. Samlet fradrag for det enkelte år, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c, kan ikke overstige det maksimale kreditfradraget for dette året.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan fremføres til fradrag i skatt i de inntil fem påfølgende årene innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c. Skatt betalt i utlandet i et tidligere år fradras i sin helhet før det gis fradrag for skatt betalt i utlandet i et senere år. Samlet fradrag for det enkelte år, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c, kan ikke overstige det maksimale kreditfradraget for dette året.</td></tr>",
         "text": "(1) Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan fremføres til fradrag i skatt i de inntil fem påfølgende årene innenfor hver av inntektskategoriene i § 16-21 første ledd a-c. Skatt betalt i utlandet i et tidligere år fradras i sin helhet før det gis fradrag for skatt betalt i utlandet i et senere år. Samlet fradrag for det enkelte år, innenfor hver av inntektskategoriene i § 16-21 første ledd a-c, kan ikke overstige det maksimale kreditfradraget for dette året."
     },
     {
@@ -218,13 +218,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Inntekt av arbeid om bord på norske skip i utenriks fart anses ikke å ha kilde i fremmed stat.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Inntekt av arbeid om bord på norske skip i utenriks fart anses ikke å ha kilde i fremmed stat.</td></tr>",
         "text": "(1) Inntekt av arbeid om bord på norske skip i utenriks fart anses ikke å ha kilde i fremmed stat."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Inntekt vunnet ved og formue som knytter seg til virksomhet som nevnt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a> første ledd i område som nevnt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a> første ledd a, b og d, anses ikke som inntekt med kilde i eller formue i fremmed stat. Inntekt vunnet ved og formue som knytter seg til virksomhet som nevnt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a> første ledd i område som nevnt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a> første ledd c, anses som inntekt med kilde i eller formue i fremmed stat.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Inntekt vunnet ved og formue som knytter seg til virksomhet som nevnt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a> første ledd i område som nevnt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a> første ledd a, b og d, anses ikke som inntekt med kilde i eller formue i fremmed stat. Inntekt vunnet ved og formue som knytter seg til virksomhet som nevnt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a> første ledd i område som nevnt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a> første ledd c, anses som inntekt med kilde i eller formue i fremmed stat.</td></tr>",
         "text": "(2) Inntekt vunnet ved og formue som knytter seg til virksomhet som nevnt i petroleumsskatteloven § 1 første ledd i område som nevnt i petroleumsskatteloven § 1 første ledd a, b og d, anses ikke som inntekt med kilde i eller formue i fremmed stat. Inntekt vunnet ved og formue som knytter seg til virksomhet som nevnt i petroleumsskatteloven § 1 første ledd i område som nevnt i petroleumsskatteloven § 1 første ledd c, anses som inntekt med kilde i eller formue i fremmed stat."
     },
     {
@@ -320,7 +320,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan tilbakeføres til fradrag i skatt i foregående år innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c. Samlet fradrag for foregående år, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c, kan ikke overstige det maksimale kreditfradraget for dette året. Tilbakeføring etter dette ledd er, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c, betinget av at skattyter kan sannsynliggjøre at vedkommende i løpet av de fem påfølgende årene ikke vil bli skattepliktig her i riket for slik inntekt med kilde i utlandet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan tilbakeføres til fradrag i skatt i foregående år innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c. Samlet fradrag for foregående år, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c, kan ikke overstige det maksimale kreditfradraget for dette året. Tilbakeføring etter dette ledd er, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a-c, betinget av at skattyter kan sannsynliggjøre at vedkommende i løpet av de fem påfølgende årene ikke vil bli skattepliktig her i riket for slik inntekt med kilde i utlandet.</td></tr>",
         "text": "(2) Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan tilbakeføres til fradrag i skatt i foregående år innenfor hver av inntektskategoriene i § 16-21 første ledd a-c. Samlet fradrag for foregående år, innenfor hver av inntektskategoriene i § 16-21 første ledd a-c, kan ikke overstige det maksimale kreditfradraget for dette året. Tilbakeføring etter dette ledd er, innenfor hver av inntektskategoriene i § 16-21 første ledd a-c, betinget av at skattyter kan sannsynliggjøre at vedkommende i løpet av de fem påfølgende årene ikke vil bli skattepliktig her i riket for slik inntekt med kilde i utlandet."
     },
     {

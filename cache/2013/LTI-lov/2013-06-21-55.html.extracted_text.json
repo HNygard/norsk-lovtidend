@@ -80,13 +80,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eier så mange aksjer eller andeler i et annet selskap at det representerer flertallet av stemmene i det andre selskapet, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eier så mange aksjer eller andeler i et annet selskap at det representerer flertallet av stemmene i det andre selskapet, eller</td></tr>",
         "text": "1.\teier så mange aksjer eller andeler i et annet selskap at det representerer flertallet av stemmene i det andre selskapet, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har rett til å velge eller avsette et flertall av medlemmene i det andre selskapets styre.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har rett til å velge eller avsette et flertall av medlemmene i det andre selskapets styre.</td></tr>",
         "text": "2.\thar rett til å velge eller avsette et flertall av medlemmene i det andre selskapets styre."
     },
     {
@@ -524,19 +524,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Godkjennelse av fondets årsregnskap og årsberetning, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Godkjennelse av fondets årsregnskap og årsberetning, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd.</td></tr>",
         "text": "1.\tGodkjennelse av fondets årsregnskap og årsberetning, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Godkjennelse av konsernregnskap.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Godkjennelse av konsernregnskap.</td></tr>",
         "text": "2.\tGodkjennelse av konsernregnskap."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Andre saker som etter loven eller vedtektene hører under generalforsamlingen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Andre saker som etter loven eller vedtektene hører under generalforsamlingen.</td></tr>",
         "text": "3.\tAndre saker som etter loven eller vedtektene hører under generalforsamlingen."
     },
     {

@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1918-05-31-4\" class=\" reference\" href=\"/lov/1918-05-31-4\">Lov 31. mai 1918 nr. 4</a> om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1918-05-31-4\" class=\" reference\" href=\"/lov/1918-05-31-4\">Lov 31. mai 1918 nr. 4</a> om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer.</td></tr>",
         "text": "1\tLov 31. mai 1918 nr. 4 om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1988-05-13-27\" class=\" reference\" href=\"/lov/1988-05-13-27\">Lov 13. mai 1988 nr. 27</a> om kjøp.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1988-05-13-27\" class=\" reference\" href=\"/lov/1988-05-13-27\">Lov 13. mai 1988 nr. 27</a> om kjøp.</td></tr>",
         "text": "2\tLov 13. mai 1988 nr. 27 om kjøp."
     },
     {
@@ -80,7 +80,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> For tredjemannskrav som bygger på immaterialrett gjelder reglene i første ledd tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> For tredjemannskrav som bygger på immaterialrett gjelder reglene i første ledd tilsvarende.</td></tr>",
         "text": "(4) For tredjemannskrav som bygger på immaterialrett gjelder reglene i første ledd tilsvarende."
     },
     {
@@ -188,13 +188,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lova gjeld frå den tid Kongen fastset.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lova gjeld frå den tid Kongen fastset.</td></tr>",
         "text": "1.\tLova gjeld frå den tid Kongen fastset."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lova gjeld ikkje for avtalar som er inngått før lova trer i kraft.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lova gjeld ikkje for avtalar som er inngått før lova trer i kraft.</td></tr>",
         "text": "2.\tLova gjeld ikkje for avtalar som er inngått før lova trer i kraft."
     }
 ]

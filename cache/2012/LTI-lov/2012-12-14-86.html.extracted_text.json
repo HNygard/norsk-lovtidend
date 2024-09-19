@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1999-07-02-63\" class=\" reference\" href=\"/lov/1999-07-02-63\">Lov 2. juli 1999 nr. 63</a> om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1999-07-02-63\" class=\" reference\" href=\"/lov/1999-07-02-63\">Lov 2. juli 1999 nr. 63</a> om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven).</td></tr>",
         "text": "1\tLov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2001-06-15-93\" class=\" reference\" href=\"/lov/2001-06-15-93\">Lov 15. juni 2001 nr. 93</a> om helseforetak m.m. (helseforetaksloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2001-06-15-93\" class=\" reference\" href=\"/lov/2001-06-15-93\">Lov 15. juni 2001 nr. 93</a> om helseforetak m.m. (helseforetaksloven).</td></tr>",
         "text": "2\tLov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven)."
     },
     {
@@ -344,31 +344,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Av hensyn til personvernet. Personalsaker skal alltid behandles for lukkede dører.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Av hensyn til personvernet. Personalsaker skal alltid behandles for lukkede dører.</td></tr>",
         "text": "1.\tAv hensyn til personvernet. Personalsaker skal alltid behandles for lukkede dører."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Orientering om sak som er på et forberedende stadium i saksbehandlingen i foretaket.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Orientering om sak som er på et forberedende stadium i saksbehandlingen i foretaket.</td></tr>",
         "text": "2.\tOrientering om sak som er på et forberedende stadium i saksbehandlingen i foretaket."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Informasjon om lovbrudd, saksanlegg eller av hensyn til foretakets partsstilling i sak for norsk domstol.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Informasjon om lovbrudd, saksanlegg eller av hensyn til foretakets partsstilling i sak for norsk domstol.</td></tr>",
         "text": "3.\tInformasjon om lovbrudd, saksanlegg eller av hensyn til foretakets partsstilling i sak for norsk domstol."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Av hensyn til forsvarlig gjennomføring av økonomi-, lønns-, eller personalforvaltningen til foretaket.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Av hensyn til forsvarlig gjennomføring av økonomi-, lønns-, eller personalforvaltningen til foretaket.</td></tr>",
         "text": "4.\tAv hensyn til forsvarlig gjennomføring av økonomi-, lønns-, eller personalforvaltningen til foretaket."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Saker som gjelder tilbud og protokoll etter regelverket om offentlige anskaffelser til valget av leverandør er gjort.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Saker som gjelder tilbud og protokoll etter regelverket om offentlige anskaffelser til valget av leverandør er gjort.</td></tr>",
         "text": "5.\tSaker som gjelder tilbud og protokoll etter regelverket om offentlige anskaffelser til valget av leverandør er gjort."
     },
     {
@@ -398,37 +398,37 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak som kan endre virksomhetens karakter</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak som kan endre virksomhetens karakter</td></tr>",
         "text": "1.\tVedtak som kan endre virksomhetens karakter"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om nedleggelse av sykehus.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om nedleggelse av sykehus.</td></tr>",
         "text": "2.\tVedtak om nedleggelse av sykehus."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Omfattende endringer i sykehusstrukturen i helseregionen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Omfattende endringer i sykehusstrukturen i helseregionen.</td></tr>",
         "text": "3.\tOmfattende endringer i sykehusstrukturen i helseregionen."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Omfattende endringer i tjenestetilbudet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Omfattende endringer i tjenestetilbudet.</td></tr>",
         "text": "4.\tOmfattende endringer i tjenestetilbudet."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om endringer i antallet helseforetak i helseregionen.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">5.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om endringer i antallet helseforetak i helseregionen.</td></tr>",
         "text": "5.\tVedtak om endringer i antallet helseforetak i helseregionen."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om vesentlige endringer i opptaksområdet for helseforetak.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">6.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Vedtak om vesentlige endringer i opptaksområdet for helseforetak.</td></tr>",
         "text": "6.\tVedtak om vesentlige endringer i opptaksområdet for helseforetak."
     },
     {

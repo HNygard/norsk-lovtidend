@@ -68,13 +68,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ethvert erverv som skjer med sikte på offentlig visning i gallerier, museer eller tilsvarende. Salg direkte fra kunstner eller privatpersoner til museer som er åpne for publikum og ikke driver ervervsmessig, skal likevel ikke anses som offentlig omsetning, med mindre det i handelen deltar en formidler.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ethvert erverv som skjer med sikte på offentlig visning i gallerier, museer eller tilsvarende. Salg direkte fra kunstner eller privatpersoner til museer som er åpne for publikum og ikke driver ervervsmessig, skal likevel ikke anses som offentlig omsetning, med mindre det i handelen deltar en formidler.</td></tr>",
         "text": "1.\tEthvert erverv som skjer med sikte på offentlig visning i gallerier, museer eller tilsvarende. Salg direkte fra kunstner eller privatpersoner til museer som er åpne for publikum og ikke driver ervervsmessig, skal likevel ikke anses som offentlig omsetning, med mindre det i handelen deltar en formidler."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ethvert erverv direkte fra den kunstner som har skapt verket, når arbeidet er et utsmykkingsoppdrag, et bestillingsverk eller et konkurranseutkast, samt erverv ellers som sidestilles med offentlig omsetning.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ethvert erverv direkte fra den kunstner som har skapt verket, når arbeidet er et utsmykkingsoppdrag, et bestillingsverk eller et konkurranseutkast, samt erverv ellers som sidestilles med offentlig omsetning.</td></tr>",
         "text": "2.\tEthvert erverv direkte fra den kunstner som har skapt verket, når arbeidet er et utsmykkingsoppdrag, et bestillingsverk eller et konkurranseutkast, samt erverv ellers som sidestilles med offentlig omsetning."
     },
     {
@@ -182,25 +182,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. De enkelte bestemmelser i loven kan settes i kraft til ulik tid.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. De enkelte bestemmelser i loven kan settes i kraft til ulik tid.</td></tr>",
         "text": "1.\tLoven gjelder fra den tid Kongen bestemmer. De enkelte bestemmelser i loven kan settes i kraft til ulik tid."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For endringene gjelder følgende overgangsregler:</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">For endringene gjelder følgende overgangsregler:</td></tr>",
         "text": "2.\tFor endringene gjelder følgende overgangsregler:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringene gjelder ikke avtaler om salg som er inngått før loven her trer i kraft.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Endringene gjelder ikke avtaler om salg som er inngått før loven her trer i kraft.</td></tr>",
         "text": "a)\tEndringene gjelder ikke avtaler om salg som er inngått før loven her trer i kraft."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan fastsette nærmere overgangsregler.</td>\n</tr>",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan fastsette nærmere overgangsregler.</td></tr>",
         "text": "b)\tKongen kan fastsette nærmere overgangsregler."
     }
 ]

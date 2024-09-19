@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigedomen vert nytta av Forsvaret til forsvarsanlegg, avgrensa leirområde eller militært øvingsområde</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">-\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eigedomen vert nytta av Forsvaret til forsvarsanlegg, avgrensa leirområde eller militært øvingsområde</td></tr>",
         "text": "-\teigedomen vert nytta av Forsvaret til forsvarsanlegg, avgrensa leirområde eller militært øvingsområde"
     },
     {
@@ -50,13 +50,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Område som er vedteke verna som nasjonalpark eller naturreservat i medhald av <a data-id=\"lov/2009-06-19-100\" class=\" reference\" href=\"/lov/2009-06-19-100\">lov 19. juni 2009 nr. 100</a> om forvaltning av naturens mangfold (naturmangfoldloven). Fritaket gjeld også for område verna som nasjonalpark eller naturreservat etter den tidlegare <a data-id=\"lov/1970-06-19-63\" class=\" reference\" href=\"/lov/1970-06-19-63\">lov 19. juni 1970 nr. 63</a> om naturvern. Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Område som er vedteke verna som nasjonalpark eller naturreservat i medhald av <a data-id=\"lov/2009-06-19-100\" class=\" reference\" href=\"/lov/2009-06-19-100\">lov 19. juni 2009 nr. 100</a> om forvaltning av naturens mangfold (naturmangfoldloven). Fritaket gjeld også for område verna som nasjonalpark eller naturreservat etter den tidlegare <a data-id=\"lov/1970-06-19-63\" class=\" reference\" href=\"/lov/1970-06-19-63\">lov 19. juni 1970 nr. 63</a> om naturvern. Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno.</td></tr>",
         "text": "j)\tOmråde som er vedteke verna som nasjonalpark eller naturreservat i medhald av lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven). Fritaket gjeld også for område verna som nasjonalpark eller naturreservat etter den tidlegare lov 19. juni 1970 nr. 63 om naturvern. Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lavproduktiv grunneigedom som staten eig direkte eller indirekte, så langt den tener ålmennyttige føremål. Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Lavproduktiv grunneigedom som staten eig direkte eller indirekte, så langt den tener ålmennyttige føremål. Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno.</td></tr>",
         "text": "k)\tLavproduktiv grunneigedom som staten eig direkte eller indirekte, så langt den tener ålmennyttige føremål. Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno."
     },
     {
@@ -116,7 +116,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Første ledd gjeld ikkje bustader som vert verdsette etter reglane i <a data-id=\"lov/1975-06-06-29/§8c\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A78c\">§ 8 C</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Første ledd gjeld ikkje bustader som vert verdsette etter reglane i <a data-id=\"lov/1975-06-06-29/§8c\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A78c\">§ 8 C</a>.</td></tr>",
         "text": "(3) Første ledd gjeld ikkje bustader som vert verdsette etter reglane i § 8 C."
     },
     {
@@ -146,31 +146,31 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Kommunestyret avgjer om eigedomsskatten for bustader skal byggje på verdet (taksten) som vert sett på eigedomen ved likninga året før skatteåret. Skattegrunnlaget for slike bustader skal reknast ut etter reglane i denne paragraf.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Kommunestyret avgjer om eigedomsskatten for bustader skal byggje på verdet (taksten) som vert sett på eigedomen ved likninga året før skatteåret. Skattegrunnlaget for slike bustader skal reknast ut etter reglane i denne paragraf.</td></tr>",
         "text": "(1) Kommunestyret avgjer om eigedomsskatten for bustader skal byggje på verdet (taksten) som vert sett på eigedomen ved likninga året før skatteåret. Skattegrunnlaget for slike bustader skal reknast ut etter reglane i denne paragraf."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Skattegrunnlaget for bustader vert sett til verdet (taksten) etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> andre ledd multiplisert med 0,67. Prosentdelen som nemnd i <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> andre ledd tredje punktum skal likevel vere 100 for primærbustad og sekundærbustad.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Skattegrunnlaget for bustader vert sett til verdet (taksten) etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> andre ledd multiplisert med 0,67. Prosentdelen som nemnd i <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> andre ledd tredje punktum skal likevel vere 100 for primærbustad og sekundærbustad.</td></tr>",
         "text": "(2) Skattegrunnlaget for bustader vert sett til verdet (taksten) etter skatteloven § 4-10 andre ledd multiplisert med 0,67. Prosentdelen som nemnd i skatteloven § 4-10 andre ledd tredje punktum skal likevel vere 100 for primærbustad og sekundærbustad."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Er verdet (taksten) for bustader sett ned ved likninga etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,23 for primærbustad og 1,11 for sekundærbustad.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Er verdet (taksten) for bustader sett ned ved likninga etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,23 for primærbustad og 1,11 for sekundærbustad.</td></tr>",
         "text": "(3) Er verdet (taksten) for bustader sett ned ved likninga etter skatteloven § 4-10 første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,23 for primærbustad og 1,11 for sekundærbustad."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Skattegrunnlaget som nemnd i andre og tredje ledd skal setjast ned med reduksjonsfaktoren som er nytta ved taksering etter <a data-id=\"lov/1975-06-06-29/§8\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A78\">§ 8</a> A-3, jf. <a data-id=\"lov/1975-06-06-29/§8\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A78\">§ 8</a> A-2.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Skattegrunnlaget som nemnd i andre og tredje ledd skal setjast ned med reduksjonsfaktoren som er nytta ved taksering etter <a data-id=\"lov/1975-06-06-29/§8\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A78\">§ 8</a> A-3, jf. <a data-id=\"lov/1975-06-06-29/§8\" class=\" reference\" href=\"/lov/1975-06-06-29/%C2%A78\">§ 8</a> A-2.</td></tr>",
         "text": "(4) Skattegrunnlaget som nemnd i andre og tredje ledd skal setjast ned med reduksjonsfaktoren som er nytta ved taksering etter § 8 A-3, jf. § 8 A-2."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Nærare reglar om utfylling og gjennomføring av denne paragrafen vert fastsett av departementet i forskrift.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Nærare reglar om utfylling og gjennomføring av denne paragrafen vert fastsett av departementet i forskrift.</td></tr>",
         "text": "(5) Nærare reglar om utfylling og gjennomføring av denne paragrafen vert fastsett av departementet i forskrift."
     },
     {
@@ -206,13 +206,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Skattegrunnlaget for bustader vert sett til verdet (taksten) etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> andre ledd multiplisert med 0,8. Prosentdelen som nemnd i <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> andre ledd tredje punktum, skal likevel vere 100 for primærbustad og sekundærbustad.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Skattegrunnlaget for bustader vert sett til verdet (taksten) etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> andre ledd multiplisert med 0,8. Prosentdelen som nemnd i <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> andre ledd tredje punktum, skal likevel vere 100 for primærbustad og sekundærbustad.</td></tr>",
         "text": "(2) Skattegrunnlaget for bustader vert sett til verdet (taksten) etter skatteloven § 4-10 andre ledd multiplisert med 0,8. Prosentdelen som nemnd i skatteloven § 4-10 andre ledd tredje punktum, skal likevel vere 100 for primærbustad og sekundærbustad."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Er verdet (taksten) for bustader sett ned ved likninga etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,67 for primærbustad og 1,33 for sekundærbustad.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Er verdet (taksten) for bustader sett ned ved likninga etter <a data-id=\"lov/1999-03-26-14/§4-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A74-10\">skatteloven § 4-10</a> første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,67 for primærbustad og 1,33 for sekundærbustad.</td></tr>",
         "text": "(3) Er verdet (taksten) for bustader sett ned ved likninga etter skatteloven § 4-10 første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,67 for primærbustad og 1,33 for sekundærbustad."
     },
     {

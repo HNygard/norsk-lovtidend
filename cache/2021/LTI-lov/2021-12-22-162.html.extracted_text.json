@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> <a data-id=\"avtale/avt-1992-05-02-1-v9\" class=\" reference\" href=\"/avtale/avt-1992-05-02-1-v9\">EØS-avtalen vedlegg IX</a> forordning <a data-id=\"eu/32017r1129\" class=\" reference\" href=\"/eu/32017r1129\">(EU) 2017/1129</a> (om prospekter ved offentlige tilbud og notering på regulert marked (prospektforordningen)), som endret ved forordning <a data-id=\"eu/32021r0337\" class=\" reference\" href=\"/eu/32021r0337\">(EU) 2021/337</a> om EU-gjenopprettingsprospekt, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> <a data-id=\"avtale/avt-1992-05-02-1-v9\" class=\" reference\" href=\"/avtale/avt-1992-05-02-1-v9\">EØS-avtalen vedlegg IX</a> forordning <a data-id=\"eu/32017r1129\" class=\" reference\" href=\"/eu/32017r1129\">(EU) 2017/1129</a> (om prospekter ved offentlige tilbud og notering på regulert marked (prospektforordningen)), som endret ved forordning <a data-id=\"eu/32021r0337\" class=\" reference\" href=\"/eu/32021r0337\">(EU) 2021/337</a> om EU-gjenopprettingsprospekt, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.</td></tr>",
         "text": "(1) EØS-avtalen vedlegg IX forordning (EU) 2017/1129 (om prospekter ved offentlige tilbud og notering på regulert marked (prospektforordningen)), som endret ved forordning (EU) 2021/337 om EU-gjenopprettingsprospekt, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig."
     },
     {
@@ -50,13 +50,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer.</td></tr>",
         "text": "1.\tLoven gjelder fra den tid Kongen bestemmer."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi overgangsregler.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi overgangsregler.</td></tr>",
         "text": "2.\tDepartementet kan gi overgangsregler."
     }
 ]

@@ -26,13 +26,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1969-06-13-26\" class=\" reference\" href=\"/lov/1969-06-13-26\">Lov 13. juni 1969 nr. 26</a> om skadeserstatning (skadeserstatningsloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1969-06-13-26\" class=\" reference\" href=\"/lov/1969-06-13-26\">Lov 13. juni 1969 nr. 26</a> om skadeserstatning (skadeserstatningsloven).</td></tr>",
         "text": "1\tLov 13. juni 1969 nr. 26 om skadeserstatning (skadeserstatningsloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-05-20-28\" class=\" reference\" href=\"/lov/2005-05-20-28\">Lov 20. mai 2005 nr. 28</a> om straff (straffeloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2005-05-20-28\" class=\" reference\" href=\"/lov/2005-05-20-28\">Lov 20. mai 2005 nr. 28</a> om straff (straffeloven).</td></tr>",
         "text": "2\tLov 20. mai 2005 nr. 28 om straff (straffeloven)."
     },
     {
@@ -110,25 +110,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">redaktør: fysisk person som treffer avgjørelse om innholdet i mediet eller om del av dette.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">redaktør: fysisk person som treffer avgjørelse om innholdet i mediet eller om del av dette.</td></tr>",
         "text": "a)\tredaktør: fysisk person som treffer avgjørelse om innholdet i mediet eller om del av dette."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utgiver: fysisk eller juridisk person som i egenskap av eier har det økonomiske og administrative ansvaret for å utgi mediet.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utgiver: fysisk eller juridisk person som i egenskap av eier har det økonomiske og administrative ansvaret for å utgi mediet.</td></tr>",
         "text": "b)\tutgiver: fysisk eller juridisk person som i egenskap av eier har det økonomiske og administrative ansvaret for å utgi mediet."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">redaksjonelt innhold: ytring som er publisert under redaktørens ledelse og kontroll. Markedsføring regnes ikke som redaksjonelt innhold.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">redaksjonelt innhold: ytring som er publisert under redaktørens ledelse og kontroll. Markedsføring regnes ikke som redaksjonelt innhold.</td></tr>",
         "text": "c)\tredaksjonelt innhold: ytring som er publisert under redaktørens ledelse og kontroll. Markedsføring regnes ikke som redaksjonelt innhold."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">brukergenerert innhold: ytring som en mediebruker har publisert utenfor redaktørens ledelse og kontroll.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">brukergenerert innhold: ytring som en mediebruker har publisert utenfor redaktørens ledelse og kontroll.</td></tr>",
         "text": "d)\tbrukergenerert innhold: ytring som en mediebruker har publisert utenfor redaktørens ledelse og kontroll."
     },
     {

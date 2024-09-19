@@ -74,19 +74,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">transport,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">transport,</td></tr>",
         "text": "1)\ttransport,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">innkvartering som ikke utelukkende er å anse som ledd i en transporttjeneste, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">innkvartering som ikke utelukkende er å anse som ledd i en transporttjeneste, eller</td></tr>",
         "text": "2)\tinnkvartering som ikke utelukkende er å anse som ledd i en transporttjeneste, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre turisttjenester som utgjør en vesentlig del av arrangementet, men som ikke er direkte knyttet til transport eller innkvartering.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">andre turisttjenester som utgjør en vesentlig del av arrangementet, men som ikke er direkte knyttet til transport eller innkvartering.</td></tr>",
         "text": "3)\tandre turisttjenester som utgjør en vesentlig del av arrangementet, men som ikke er direkte knyttet til transport eller innkvartering."
     },
     {

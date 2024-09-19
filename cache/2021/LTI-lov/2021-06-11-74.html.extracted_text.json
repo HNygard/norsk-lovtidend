@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1969-06-13-26\" class=\" reference\" href=\"/lov/1969-06-13-26\">Lov 13. juni 1969 nr. 26 om skadeserstatning (skadeserstatningsloven)</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1969-06-13-26\" class=\" reference\" href=\"/lov/1969-06-13-26\">Lov 13. juni 1969 nr. 26 om skadeserstatning (skadeserstatningsloven)</a>.</td></tr>",
         "text": "1\tLov 13. juni 1969 nr. 26 om skadeserstatning (skadeserstatningsloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2005-05-20-28\" class=\" reference\" href=\"/lov/2005-05-20-28\">Lov 20. mai 2005 nr. 28 om straff (straffeloven)</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2005-05-20-28\" class=\" reference\" href=\"/lov/2005-05-20-28\">Lov 20. mai 2005 nr. 28 om straff (straffeloven)</a>.</td></tr>",
         "text": "2\tLov 20. mai 2005 nr. 28 om straff (straffeloven)."
     },
     {
@@ -134,13 +134,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tiden Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til forskjellig tid.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tiden Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til forskjellig tid.</td></tr>",
         "text": "1.\tLoven gjelder fra den tiden Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til forskjellig tid."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi nærmere overgangsregler.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Kongen kan gi nærmere overgangsregler.</td></tr>",
         "text": "2.\tKongen kan gi nærmere overgangsregler."
     }
 ]

@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Saksøkte kan kreve at en saksøker som ikke har bopel i Norge, stiller sikkerhet for mulig ansvar for sakskostnader i instansen. Sikkerhet kan ikke kreves hvis saksøker har bopel i en EØS-stat, hvis det ville stride mot en folkerettslig forpliktelse til å likebehandle parter bosatt i utlandet og parter bosatt i Norge, eller dersom det ville virke uforholdsmessig ut fra sakens art, partsforholdet og forholdene for øvrig.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Saksøkte kan kreve at en saksøker som ikke har bopel i Norge, stiller sikkerhet for mulig ansvar for sakskostnader i instansen. Sikkerhet kan ikke kreves hvis saksøker har bopel i en EØS-stat, hvis det ville stride mot en folkerettslig forpliktelse til å likebehandle parter bosatt i utlandet og parter bosatt i Norge, eller dersom det ville virke uforholdsmessig ut fra sakens art, partsforholdet og forholdene for øvrig.</td></tr>",
         "text": "(1) Saksøkte kan kreve at en saksøker som ikke har bopel i Norge, stiller sikkerhet for mulig ansvar for sakskostnader i instansen. Sikkerhet kan ikke kreves hvis saksøker har bopel i en EØS-stat, hvis det ville stride mot en folkerettslig forpliktelse til å likebehandle parter bosatt i utlandet og parter bosatt i Norge, eller dersom det ville virke uforholdsmessig ut fra sakens art, partsforholdet og forholdene for øvrig."
     },
     {
@@ -50,13 +50,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven trer i kraft fra den tid Kongen bestemmer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven trer i kraft fra den tid Kongen bestemmer.</td></tr>",
         "text": "1.\tLoven trer i kraft fra den tid Kongen bestemmer."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven har virkning for søksmål eller anke som tas ut etter at loven har trådt i kraft.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven har virkning for søksmål eller anke som tas ut etter at loven har trådt i kraft.</td></tr>",
         "text": "2.\tLoven har virkning for søksmål eller anke som tas ut etter at loven har trådt i kraft."
     }
 ]

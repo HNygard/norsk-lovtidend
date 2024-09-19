@@ -50,13 +50,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">statsforetak,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">statsforetak,</td></tr>",
         "text": "f.\tstatsforetak,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">norskregistrert utenlandsk foretak skattepliktig etter <a data-id=\"lov/1999-03-26-14/§2-2\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-2\">§ 2-2</a> første ledd e.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">norskregistrert utenlandsk foretak skattepliktig etter <a data-id=\"lov/1999-03-26-14/§2-2\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-2\">§ 2-2</a> første ledd e.</td></tr>",
         "text": "g.\tnorskregistrert utenlandsk foretak skattepliktig etter § 2-2 første ledd e."
     },
     {
@@ -68,7 +68,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">beregnet personinntekt etter <a data-id=\"lov/1999-03-26-14/§12-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A712-10\">§§ 12-10</a> til <a data-id=\"lov/1999-03-26-14/§12-13\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A712-13\">12-13</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">beregnet personinntekt etter <a data-id=\"lov/1999-03-26-14/§12-10\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A712-10\">§§ 12-10</a> til <a data-id=\"lov/1999-03-26-14/§12-13\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A712-13\">12-13</a>.</td></tr>",
         "text": "g)\tberegnet personinntekt etter §§ 12-10 til 12-13."
     },
     {
@@ -92,13 +92,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(7)</span> Første ledd gjelder ikke inntekter og tap på eierandeler og finansielle instrumenter som nevnt i annet ledd, og som forvaltes i kollektivporteføljen og investeringsvalgporteføljen i selskaper mv. som driver forsikringsvirksomhet etter <a data-id=\"lov/2005-06-10-44\" class=\" reference\" href=\"/lov/2005-06-10-44\">lov 10. juni 2005 nr. 44</a> om forsikringsselskaper, pensjonsforetak og deres virksomhet mv.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(7)</span> Første ledd gjelder ikke inntekter og tap på eierandeler og finansielle instrumenter som nevnt i annet ledd, og som forvaltes i kollektivporteføljen og investeringsvalgporteføljen i selskaper mv. som driver forsikringsvirksomhet etter <a data-id=\"lov/2005-06-10-44\" class=\" reference\" href=\"/lov/2005-06-10-44\">lov 10. juni 2005 nr. 44</a> om forsikringsselskaper, pensjonsforetak og deres virksomhet mv.</td></tr>",
         "text": "(7) Første ledd gjelder ikke inntekter og tap på eierandeler og finansielle instrumenter som nevnt i annet ledd, og som forvaltes i kollektivporteføljen og investeringsvalgporteføljen i selskaper mv. som driver forsikringsvirksomhet etter lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(8)</span> Departementet kan gi forskrift til utfylling og gjennomføring av reglene i tredje, fjerde og syvende ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(8)</span> Departementet kan gi forskrift til utfylling og gjennomføring av reglene i tredje, fjerde og syvende ledd.</td></tr>",
         "text": "(8) Departementet kan gi forskrift til utfylling og gjennomføring av reglene i tredje, fjerde og syvende ledd."
     },
     {
@@ -110,7 +110,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Skattyter som nevnt i <a data-id=\"lov/1999-03-26-14/§2-38\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-38\">§ 2-38</a> første ledd, gis ikke fradrag for tap på utestående fordring i virksomhet, dersom skyldneren er et selskap som nevnt i <a data-id=\"lov/1999-03-26-14/§2-38\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-38\">§ 2-38</a> annet ledd a og b og selskapene må anses som nærstående. Det samme gjelder for selskap som nevnt i <a data-id=\"lov/1999-03-26-14/§10-40\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-40\">§ 10-40</a>, ved fastsettelse av overskudd eller underskudd etter <a data-id=\"lov/1999-03-26-14/§10-41\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-41\">§ 10-41</a>. Første og annet punktum gjelder ikke når skattyters eierandel i skyldner er omfattet av <a data-id=\"lov/1999-03-26-14/§2-38\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-38\">§ 2-38</a> tredje ledd a såfremt fordringens skyldner har vært hjemmehørende i lavskatteland i hele fordringens levetid, eller er omfattet av tredje ledd g. Departementet kan gi forskrift til utfylling, gjennomføring og avgrensning av dette ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Skattyter som nevnt i <a data-id=\"lov/1999-03-26-14/§2-38\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-38\">§ 2-38</a> første ledd, gis ikke fradrag for tap på utestående fordring i virksomhet, dersom skyldneren er et selskap som nevnt i <a data-id=\"lov/1999-03-26-14/§2-38\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-38\">§ 2-38</a> annet ledd a og b og selskapene må anses som nærstående. Det samme gjelder for selskap som nevnt i <a data-id=\"lov/1999-03-26-14/§10-40\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-40\">§ 10-40</a>, ved fastsettelse av overskudd eller underskudd etter <a data-id=\"lov/1999-03-26-14/§10-41\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-41\">§ 10-41</a>. Første og annet punktum gjelder ikke når skattyters eierandel i skyldner er omfattet av <a data-id=\"lov/1999-03-26-14/§2-38\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-38\">§ 2-38</a> tredje ledd a såfremt fordringens skyldner har vært hjemmehørende i lavskatteland i hele fordringens levetid, eller er omfattet av tredje ledd g. Departementet kan gi forskrift til utfylling, gjennomføring og avgrensning av dette ledd.</td></tr>",
         "text": "(3) Skattyter som nevnt i § 2-38 første ledd, gis ikke fradrag for tap på utestående fordring i virksomhet, dersom skyldneren er et selskap som nevnt i § 2-38 annet ledd a og b og selskapene må anses som nærstående. Det samme gjelder for selskap som nevnt i § 10-40, ved fastsettelse av overskudd eller underskudd etter § 10-41. Første og annet punktum gjelder ikke når skattyters eierandel i skyldner er omfattet av § 2-38 tredje ledd a såfremt fordringens skyldner har vært hjemmehørende i lavskatteland i hele fordringens levetid, eller er omfattet av tredje ledd g. Departementet kan gi forskrift til utfylling, gjennomføring og avgrensning av dette ledd."
     },
     {
@@ -122,7 +122,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Det kan ikke kreves fradrag i inntekt som skattlegges etter reglene i petroleumsskatteloven. Det kan ikke kreves fradrag for konsernbidrag til dekning av underskudd i virksomhet som nevnt i <a data-id=\"lov/1975-06-13-35/§3\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A73\">petroleumsskatteloven §§ 3</a> og 5. Det kan ikke kreves fradrag for konsernbidrag til dekning av underskudd som etter <a data-id=\"lov/1999-03-26-14/§14-6\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A714-6\">§ 14-6</a> femte ledd ikke kan fremføres til fradrag i senere år.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Det kan ikke kreves fradrag i inntekt som skattlegges etter reglene i petroleumsskatteloven. Det kan ikke kreves fradrag for konsernbidrag til dekning av underskudd i virksomhet som nevnt i <a data-id=\"lov/1975-06-13-35/§3\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A73\">petroleumsskatteloven §§ 3</a> og 5. Det kan ikke kreves fradrag for konsernbidrag til dekning av underskudd som etter <a data-id=\"lov/1999-03-26-14/§14-6\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A714-6\">§ 14-6</a> femte ledd ikke kan fremføres til fradrag i senere år.</td></tr>",
         "text": "(2) Det kan ikke kreves fradrag i inntekt som skattlegges etter reglene i petroleumsskatteloven. Det kan ikke kreves fradrag for konsernbidrag til dekning av underskudd i virksomhet som nevnt i petroleumsskatteloven §§ 3 og 5. Det kan ikke kreves fradrag for konsernbidrag til dekning av underskudd som etter § 14-6 femte ledd ikke kan fremføres til fradrag i senere år."
     },
     {
@@ -146,7 +146,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(5)</span> Det gis ikke fradrag i et senere år for underskudd ved virksomhet som nevnt i <a data-id=\"lov/1999-03-26-14/§2-39\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-39\">§ 2-39</a> oppstått i inntektsåret 2012. Første punktum gjelder likevel ikke den delen av underskuddet som skyldes tap pådratt ved realisasjon av formuesobjekt før 15. juni 2012.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(5)</span> Det gis ikke fradrag i et senere år for underskudd ved virksomhet som nevnt i <a data-id=\"lov/1999-03-26-14/§2-39\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-39\">§ 2-39</a> oppstått i inntektsåret 2012. Første punktum gjelder likevel ikke den delen av underskuddet som skyldes tap pådratt ved realisasjon av formuesobjekt før 15. juni 2012.</td></tr>",
         "text": "(5) Det gis ikke fradrag i et senere år for underskudd ved virksomhet som nevnt i § 2-39 oppstått i inntektsåret 2012. Første punktum gjelder likevel ikke den delen av underskuddet som skyldes tap pådratt ved realisasjon av formuesobjekt før 15. juni 2012."
     },
     {
@@ -170,19 +170,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Likestilt med realisasjon er:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Likestilt med realisasjon er:</td></tr>",
         "text": "(2) Likestilt med realisasjon er:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stiftelse av varig rettighet i formuesobjekt mot engangsvederlag</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stiftelse av varig rettighet i formuesobjekt mot engangsvederlag</td></tr>",
         "text": "a.\tstiftelse av varig rettighet i formuesobjekt mot engangsvederlag"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overføring av eierandeler og finansielle instrumenter fritatt for skatteplikt etter <a data-id=\"lov/1999-03-26-14/§2-38\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-38\">§ 2-38</a> annet ledd mellom kundeportefølje og selskapsportefølje i selskaper mv. som driver forsikringsvirksomhet etter <a data-id=\"lov/2005-06-10-44\" class=\" reference\" href=\"/lov/2005-06-10-44\">lov 10. juni 2005 nr. 44</a> om forsikringsselskaper, pensjonsforetak og deres virksomhet mv.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">overføring av eierandeler og finansielle instrumenter fritatt for skatteplikt etter <a data-id=\"lov/1999-03-26-14/§2-38\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-38\">§ 2-38</a> annet ledd mellom kundeportefølje og selskapsportefølje i selskaper mv. som driver forsikringsvirksomhet etter <a data-id=\"lov/2005-06-10-44\" class=\" reference\" href=\"/lov/2005-06-10-44\">lov 10. juni 2005 nr. 44</a> om forsikringsselskaper, pensjonsforetak og deres virksomhet mv.</td></tr>",
         "text": "b.\toverføring av eierandeler og finansielle instrumenter fritatt for skatteplikt etter § 2-38 annet ledd mellom kundeportefølje og selskapsportefølje i selskaper mv. som driver forsikringsvirksomhet etter lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv."
     },
     {
@@ -194,7 +194,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Første til tredje ledd gjelder innenfor hver portefølje som nevnt i <a data-id=\"lov/2005-06-10-44\" class=\" reference\" href=\"/lov/2005-06-10-44\">lov 10. juni 2005 nr. 44</a> om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. <a data-id=\"lov/2005-06-10-44/§9-7\" class=\" reference\" href=\"/lov/2005-06-10-44/%C2%A79-7\">§ 9-7</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Første til tredje ledd gjelder innenfor hver portefølje som nevnt i <a data-id=\"lov/2005-06-10-44\" class=\" reference\" href=\"/lov/2005-06-10-44\">lov 10. juni 2005 nr. 44</a> om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. <a data-id=\"lov/2005-06-10-44/§9-7\" class=\" reference\" href=\"/lov/2005-06-10-44/%C2%A79-7\">§ 9-7</a>.</td></tr>",
         "text": "(4) Første til tredje ledd gjelder innenfor hver portefølje som nevnt i lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. § 9-7."
     },
     {
@@ -224,19 +224,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Som skattepliktig inntekt regnes ikke inntekt ved utvinning av petroleum i utlandet utenfor det geografiske området som er angitt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a>.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Som skattepliktig inntekt regnes ikke inntekt ved utvinning av petroleum i utlandet utenfor det geografiske området som er angitt i <a data-id=\"lov/1975-06-13-35/§1\" class=\" reference\" href=\"/lov/1975-06-13-35/%C2%A71\">petroleumsskatteloven § 1</a>.</td></tr>",
         "text": "(1) Som skattepliktig inntekt regnes ikke inntekt ved utvinning av petroleum i utlandet utenfor det geografiske området som er angitt i petroleumsskatteloven § 1."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Det gis ikke fradrag for kostnader og tap som er pådratt for å erverve, sikre eller vedlikeholde inntekt som nevnt i første ledd. For gjeldsrenter gjelder <a data-id=\"lov/1999-03-26-14/§6-91\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A76-91\">§ 6-91</a> tilsvarende.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Det gis ikke fradrag for kostnader og tap som er pådratt for å erverve, sikre eller vedlikeholde inntekt som nevnt i første ledd. For gjeldsrenter gjelder <a data-id=\"lov/1999-03-26-14/§6-91\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A76-91\">§ 6-91</a> tilsvarende.</td></tr>",
         "text": "(2) Det gis ikke fradrag for kostnader og tap som er pådratt for å erverve, sikre eller vedlikeholde inntekt som nevnt i første ledd. For gjeldsrenter gjelder § 6-91 tilsvarende."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(3)</span> Renteinntekter, samt gevinster og tap på valuta og andre finansielle poster, omfattes ikke av første og annet ledd.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(3)</span> Renteinntekter, samt gevinster og tap på valuta og andre finansielle poster, omfattes ikke av første og annet ledd.</td></tr>",
         "text": "(3) Renteinntekter, samt gevinster og tap på valuta og andre finansielle poster, omfattes ikke av første og annet ledd."
     },
     {
@@ -314,7 +314,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">boligeiendom når eieren har brukt minst halvparten av bygningen – regnet etter utleieverdien – som egen bolig og den øvrige delen har vært utleid til boligformål,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">boligeiendom når eieren har brukt minst halvparten av bygningen – regnet etter utleieverdien – som egen bolig og den øvrige delen har vært utleid til boligformål,</td></tr>",
         "text": "a.\tboligeiendom når eieren har brukt minst halvparten av bygningen – regnet etter utleieverdien – som egen bolig og den øvrige delen har vært utleid til boligformål,"
     },
     {
@@ -350,19 +350,19 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Fradrag i norsk inntektsskatt etter <a data-id=\"lov/1999-03-26-14/§16-20\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-20\">§ 16-20</a> kan ikke overstige den delen av norsk skatt på samlet skattepliktig inntekt, beregnet før fradraget, som forholdsmessig faller på hver av de to kategoriene utenlandsinntekt:</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Fradrag i norsk inntektsskatt etter <a data-id=\"lov/1999-03-26-14/§16-20\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-20\">§ 16-20</a> kan ikke overstige den delen av norsk skatt på samlet skattepliktig inntekt, beregnet før fradraget, som forholdsmessig faller på hver av de to kategoriene utenlandsinntekt:</td></tr>",
         "text": "(1) Fradrag i norsk inntektsskatt etter § 16-20 kan ikke overstige den delen av norsk skatt på samlet skattepliktig inntekt, beregnet før fradraget, som forholdsmessig faller på hver av de to kategoriene utenlandsinntekt:"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt ved virksomhet i lavskatteland, jf. <a data-id=\"lov/1999-03-26-14/§10-63\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-63\">§ 10-63</a>, og inntekt skattlagt etter reglene i <a data-id=\"lov/1999-03-26-14/§10-60\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-60\">§§ 10-60</a> til <a data-id=\"lov/1999-03-26-14/§10-68\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-68\">10-68</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">inntekt ved virksomhet i lavskatteland, jf. <a data-id=\"lov/1999-03-26-14/§10-63\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-63\">§ 10-63</a>, og inntekt skattlagt etter reglene i <a data-id=\"lov/1999-03-26-14/§10-60\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-60\">§§ 10-60</a> til <a data-id=\"lov/1999-03-26-14/§10-68\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A710-68\">10-68</a>,</td></tr>",
         "text": "a)\tinntekt ved virksomhet i lavskatteland, jf. § 10-63, og inntekt skattlagt etter reglene i §§ 10-60 til 10-68,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">annen utenlandsinntekt.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">annen utenlandsinntekt.</td></tr>",
         "text": "b)\tannen utenlandsinntekt."
     },
     {
@@ -386,13 +386,13 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(1)</span> Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan fremføres til fradrag i skatt i de inntil fem påfølgende årene innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b. Skatt betalt i utlandet i et tidligere år fradras i sin helhet før det gis fradag for skatt betalt i utlandet i et senere år. Fremført fradrag gis etter at det er gitt fradrag for utenlandsk skatt som knytter seg til vedkommende inntektsår. Samlet fradrag for det enkelte år, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b, kan ikke overstige det maksimale kreditfradraget for dette året.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(1)</span> Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan fremføres til fradrag i skatt i de inntil fem påfølgende årene innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b. Skatt betalt i utlandet i et tidligere år fradras i sin helhet før det gis fradag for skatt betalt i utlandet i et senere år. Fremført fradrag gis etter at det er gitt fradrag for utenlandsk skatt som knytter seg til vedkommende inntektsår. Samlet fradrag for det enkelte år, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b, kan ikke overstige det maksimale kreditfradraget for dette året.</td></tr>",
         "text": "(1) Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan fremføres til fradrag i skatt i de inntil fem påfølgende årene innenfor hver av inntektskategoriene i § 16-21 første ledd a og b. Skatt betalt i utlandet i et tidligere år fradras i sin helhet før det gis fradag for skatt betalt i utlandet i et senere år. Fremført fradrag gis etter at det er gitt fradrag for utenlandsk skatt som knytter seg til vedkommende inntektsår. Samlet fradrag for det enkelte år, innenfor hver av inntektskategoriene i § 16-21 første ledd a og b, kan ikke overstige det maksimale kreditfradraget for dette året."
     },
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan tilbakeføres til fradrag i skatt i foregående år innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b. Samlet fradrag for foregående år, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b, kan ikke overstige det maksimale kreditfradraget for dette året. Tilbakeføring etter dette ledd er, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b, betinget av at skattyter kan sannsynliggjøre at vedkommende i løpet av de fem påfølgende årene ikke vil bli skattepliktig her i riket for slik inntekt med kilde i utlandet.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan tilbakeføres til fradrag i skatt i foregående år innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b. Samlet fradrag for foregående år, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b, kan ikke overstige det maksimale kreditfradraget for dette året. Tilbakeføring etter dette ledd er, innenfor hver av inntektskategoriene i <a data-id=\"lov/1999-03-26-14/§16-21\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A716-21\">§ 16-21</a> første ledd a og b, betinget av at skattyter kan sannsynliggjøre at vedkommende i løpet av de fem påfølgende årene ikke vil bli skattepliktig her i riket for slik inntekt med kilde i utlandet.</td></tr>",
         "text": "(2) Utenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan tilbakeføres til fradrag i skatt i foregående år innenfor hver av inntektskategoriene i § 16-21 første ledd a og b. Samlet fradrag for foregående år, innenfor hver av inntektskategoriene i § 16-21 første ledd a og b, kan ikke overstige det maksimale kreditfradraget for dette året. Tilbakeføring etter dette ledd er, innenfor hver av inntektskategoriene i § 16-21 første ledd a og b, betinget av at skattyter kan sannsynliggjøre at vedkommende i løpet av de fem påfølgende årene ikke vil bli skattepliktig her i riket for slik inntekt med kilde i utlandet."
     },
     {
@@ -416,25 +416,25 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(4)</span> Person som ikke har skatteplikt etter <a data-id=\"lov/1999-03-26-14/§2-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-1\">§ 2-1</a>, plikter å svare skatt av pensjon, føderåd, livrente og lignende utbetalinger, herunder uføretrygd etter <a data-id=\"lov/1997-02-28-19/kap12\" class=\" reference\" href=\"/lov/1997-02-28-19/kap12\">folketrygdloven kapittel 12</a> og uføreytelser fra andre ordninger, som er skattepliktig inntekt etter <a data-id=\"lov/1997-02-28-19/§5-1\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A75-1\">§ 5-1</a> første ledd, § 5-40 eller § 5-42 bokstav b, når</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(4)</span> Person som ikke har skatteplikt etter <a data-id=\"lov/1999-03-26-14/§2-1\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A72-1\">§ 2-1</a>, plikter å svare skatt av pensjon, føderåd, livrente og lignende utbetalinger, herunder uføretrygd etter <a data-id=\"lov/1997-02-28-19/kap12\" class=\" reference\" href=\"/lov/1997-02-28-19/kap12\">folketrygdloven kapittel 12</a> og uføreytelser fra andre ordninger, som er skattepliktig inntekt etter <a data-id=\"lov/1997-02-28-19/§5-1\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A75-1\">§ 5-1</a> første ledd, § 5-40 eller § 5-42 bokstav b, når</td></tr>",
         "text": "(4) Person som ikke har skatteplikt etter § 2-1, plikter å svare skatt av pensjon, føderåd, livrente og lignende utbetalinger, herunder uføretrygd etter folketrygdloven kapittel 12 og uføreytelser fra andre ordninger, som er skattepliktig inntekt etter § 5-1 første ledd, § 5-40 eller § 5-42 bokstav b, når"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer fra folketrygden eller fra offentlig tjenestepensjonsordning,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer fra folketrygden eller fra offentlig tjenestepensjonsordning,</td></tr>",
         "text": "a)\tutbetalingen skjer fra folketrygden eller fra offentlig tjenestepensjonsordning,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottaker har opptjent pensjonspoeng i folketrygden og utbetalingen skjer på grunnlag av forpliktelse som påhviler person, selskap eller innretning hjemmehørende i riket eller person, selskap eller innretning hjemmehørende i utlandet som er skattepliktig til Norge etter første ledd bokstav b, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mottaker har opptjent pensjonspoeng i folketrygden og utbetalingen skjer på grunnlag av forpliktelse som påhviler person, selskap eller innretning hjemmehørende i riket eller person, selskap eller innretning hjemmehørende i utlandet som er skattepliktig til Norge etter første ledd bokstav b, eller</td></tr>",
         "text": "b)\tmottaker har opptjent pensjonspoeng i folketrygden og utbetalingen skjer på grunnlag av forpliktelse som påhviler person, selskap eller innretning hjemmehørende i riket eller person, selskap eller innretning hjemmehørende i utlandet som er skattepliktig til Norge etter første ledd bokstav b, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter §§ 6-46 og 6-47.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter §§ 6-46 og 6-47.</td></tr>",
         "text": "c)\tutbetalingen skjer for å oppfylle forpliktelse som påhviler annen person, selskap eller innretning på grunnlag av tilskudd mv. som det er gitt fradrag for etter §§ 6-46 og 6-47."
     },
     {
@@ -446,7 +446,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">stønad, omsorgspenger og annen utbetaling fra omsorgs- og trygdeinnretning, herunder arbeidsavklaringspenger etter <a data-id=\"lov/1997-02-28-19/kap11\" class=\" reference\" href=\"/lov/1997-02-28-19/kap11\">folketrygdloven kapittel 11</a>, uføretrygd etter <a data-id=\"lov/1997-02-28-19/kap12\" class=\" reference\" href=\"/lov/1997-02-28-19/kap12\">folketrygdloven kapittel 12</a>, uføreytelser fra andre ordninger og overgangsstønad etter <a data-id=\"lov/1997-02-28-19/§15-7\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A715-7\">folketrygdloven §§ 15-7</a>, <a data-id=\"lov/1997-02-28-19/§16-7\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A716-7\">16-7</a> og <a data-id=\"lov/1997-02-28-19/§17-6\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A717-6\">17-6</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stønad, omsorgspenger og annen utbetaling fra omsorgs- og trygdeinnretning, herunder arbeidsavklaringspenger etter <a data-id=\"lov/1997-02-28-19/kap11\" class=\" reference\" href=\"/lov/1997-02-28-19/kap11\">folketrygdloven kapittel 11</a>, uføretrygd etter <a data-id=\"lov/1997-02-28-19/kap12\" class=\" reference\" href=\"/lov/1997-02-28-19/kap12\">folketrygdloven kapittel 12</a>, uføreytelser fra andre ordninger og overgangsstønad etter <a data-id=\"lov/1997-02-28-19/§15-7\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A715-7\">folketrygdloven §§ 15-7</a>, <a data-id=\"lov/1997-02-28-19/§16-7\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A716-7\">16-7</a> og <a data-id=\"lov/1997-02-28-19/§17-6\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A717-6\">17-6</a>.</td></tr>",
         "text": "b)\tstønad, omsorgspenger og annen utbetaling fra omsorgs- og trygdeinnretning, herunder arbeidsavklaringspenger etter folketrygdloven kapittel 11, uføretrygd etter folketrygdloven kapittel 12, uføreytelser fra andre ordninger og overgangsstønad etter folketrygdloven §§ 15-7, 16-7 og 17-6."
     },
     {
@@ -476,7 +476,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">uføretrygd etter <a data-id=\"lov/1997-02-28-19/kap12\" class=\" reference\" href=\"/lov/1997-02-28-19/kap12\">folketrygdloven kapittel 12</a> og uføreytelser fra andre ordninger.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">uføretrygd etter <a data-id=\"lov/1997-02-28-19/kap12\" class=\" reference\" href=\"/lov/1997-02-28-19/kap12\">folketrygdloven kapittel 12</a> og uføreytelser fra andre ordninger.</td></tr>",
         "text": "j)\tuføretrygd etter folketrygdloven kapittel 12 og uføreytelser fra andre ordninger."
     },
     {
@@ -512,7 +512,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Ektefellers inntekt skal likevel fastsettes under ett for ektefeller som får skattebegrensning ved liten skatteevne etter <a data-id=\"lov/1999-03-26-14/§17-4\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A717-4\">§ 17-4</a>, uansett om ektefellene lignes under ett eller særskilt. Skattenedsettelsen fordeles forholdsmessig på hver ektefelles andel av skatten før nedsettelsen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Ektefellers inntekt skal likevel fastsettes under ett for ektefeller som får skattebegrensning ved liten skatteevne etter <a data-id=\"lov/1999-03-26-14/§17-4\" class=\" reference\" href=\"/lov/1999-03-26-14/%C2%A717-4\">§ 17-4</a>, uansett om ektefellene lignes under ett eller særskilt. Skattenedsettelsen fordeles forholdsmessig på hver ektefelles andel av skatten før nedsettelsen.</td></tr>",
         "text": "(2) Ektefellers inntekt skal likevel fastsettes under ett for ektefeller som får skattebegrensning ved liten skatteevne etter § 17-4, uansett om ektefellene lignes under ett eller særskilt. Skattenedsettelsen fordeles forholdsmessig på hver ektefelles andel av skatten før nedsettelsen."
     },
     {

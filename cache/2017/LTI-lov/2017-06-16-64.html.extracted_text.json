@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1993-06-11-100\" class=\" reference\" href=\"/lov/1993-06-11-100\">Lov 11. juni 1993 nr. 100</a> om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m.  (jernbaneloven).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1993-06-11-100\" class=\" reference\" href=\"/lov/1993-06-11-100\">Lov 11. juni 1993 nr. 100</a> om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m.  (jernbaneloven).</td></tr>",
         "text": "1\tLov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m.  (jernbaneloven)."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/2002-06-21-45\" class=\" reference\" href=\"/lov/2002-06-21-45\">Lov 21. juni 2002 nr. 45</a> om yrkestransport med motorvogn og fartøy (yrkestransportlova).</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/2002-06-21-45\" class=\" reference\" href=\"/lov/2002-06-21-45\">Lov 21. juni 2002 nr. 45</a> om yrkestransport med motorvogn og fartøy (yrkestransportlova).</td></tr>",
         "text": "2\tLov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova)."
     },
     null,
@@ -70,19 +70,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">omfatter et område som utgjør en felles bolig-, arbeids- og serviceregion,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">omfatter et område som utgjør en felles bolig-, arbeids- og serviceregion,</td></tr>",
         "text": "a)\tomfatter et område som utgjør en felles bolig-, arbeids- og serviceregion,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har et tilstrekkelig markedsgrunnlag til å kunne gi befolkningen et ønsket kollektivtilbud innenfor en samfunnsøkonomisk akseptabel kostnad og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har et tilstrekkelig markedsgrunnlag til å kunne gi befolkningen et ønsket kollektivtilbud innenfor en samfunnsøkonomisk akseptabel kostnad og</td></tr>",
         "text": "b)\thar et tilstrekkelig markedsgrunnlag til å kunne gi befolkningen et ønsket kollektivtilbud innenfor en samfunnsøkonomisk akseptabel kostnad og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">har et samarbeid med fylkeskommunen om å sikre et helhetlig rutetilbud.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">har et samarbeid med fylkeskommunen om å sikre et helhetlig rutetilbud.</td></tr>",
         "text": "c)\thar et samarbeid med fylkeskommunen om å sikre et helhetlig rutetilbud."
     },
     {
@@ -212,7 +212,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Med den avgrensinga som følgjer av første ledd, gjev fylkeskommunen løyve til rutetransport etter <a data-id=\"lov/2002-06-21-45/§6\" class=\" reference\" href=\"/lov/2002-06-21-45/%C2%A76\">§§ 6</a> og <a data-id=\"lov/2002-06-21-45/§7\" class=\" reference\" href=\"/lov/2002-06-21-45/%C2%A77\">7</a>. Kommunen gjev likevel løyve innanfor kommunegrensa når ansvar for kollektivtransport er overført til kommunen i samsvar med lov om overføring av ansvar for kollektivtransport.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Med den avgrensinga som følgjer av første ledd, gjev fylkeskommunen løyve til rutetransport etter <a data-id=\"lov/2002-06-21-45/§6\" class=\" reference\" href=\"/lov/2002-06-21-45/%C2%A76\">§§ 6</a> og <a data-id=\"lov/2002-06-21-45/§7\" class=\" reference\" href=\"/lov/2002-06-21-45/%C2%A77\">7</a>. Kommunen gjev likevel løyve innanfor kommunegrensa når ansvar for kollektivtransport er overført til kommunen i samsvar med lov om overføring av ansvar for kollektivtransport.</td></tr>",
         "text": "(2) Med den avgrensinga som følgjer av første ledd, gjev fylkeskommunen løyve til rutetransport etter §§ 6 og 7. Kommunen gjev likevel løyve innanfor kommunegrensa når ansvar for kollektivtransport er overført til kommunen i samsvar med lov om overføring av ansvar for kollektivtransport."
     },
     {
@@ -224,7 +224,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(6)</span> Dersom kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport, gjeld første til femte ledd tilsvarande for kommunen.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(6)</span> Dersom kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport, gjeld første til femte ledd tilsvarande for kommunen.</td></tr>",
         "text": "(6) Dersom kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport, gjeld første til femte ledd tilsvarande for kommunen."
     },
     {
@@ -236,7 +236,7 @@
     {
         "tag": "table",
         "class": "numeral avsnitt",
-        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \">\n<span class=\"avsnittNummer numeral\">(2)</span> Første ledd gjeld òg for kommunen der kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport.</td></tr>",
+        "html": "<tr><td class=\"morTableVerticalAlignTop morTableAlignLeft \"><span class=\"avsnittNummer numeral\">(2)</span> Første ledd gjeld òg for kommunen der kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport.</td></tr>",
         "text": "(2) Første ledd gjeld òg for kommunen der kommunen har fått overført ansvar for kollektivtransport etter lov om overføring av ansvar for kollektivtransport."
     }
 ]

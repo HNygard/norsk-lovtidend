@@ -14,13 +14,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">Lov 5. mai 1995 nr. 19</a> om barnehager.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">Lov 5. mai 1995 nr. 19</a> om barnehager.</td></tr>",
         "text": "1\tLov 5. mai 1995 nr. 19 om barnehager."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<a data-id=\"lov/1997-06-19-64\" class=\" reference\" href=\"/lov/1997-06-19-64\">Lov 19. juni 1997 nr. 64</a> om endringer i <a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">lov 5. mai 1995 nr. 19</a> om barnehager.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_nf small leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><a data-id=\"lov/1997-06-19-64\" class=\" reference\" href=\"/lov/1997-06-19-64\">Lov 19. juni 1997 nr. 64</a> om endringer i <a data-id=\"lov/1995-05-05-19\" class=\" reference\" href=\"/lov/1995-05-05-19\">lov 5. mai 1995 nr. 19</a> om barnehager.</td></tr>",
         "text": "2\tLov 19. juni 1997 nr. 64 om endringer i lov 5. mai 1995 nr. 19 om barnehager."
     },
     {
@@ -260,19 +260,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten er regelmessig og ett eller flere barn har en ukentlig oppholdstid på mer enn 20 timer, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten er regelmessig og ett eller flere barn har en ukentlig oppholdstid på mer enn 20 timer, og</td></tr>",
         "text": "a)\tvirksomheten er regelmessig og ett eller flere barn har en ukentlig oppholdstid på mer enn 20 timer, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">antall barn som er til stede samtidig er ti eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">antall barn som er til stede samtidig er ti eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og</td></tr>",
         "text": "b)\tantall barn som er til stede samtidig er ti eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten utføres mot godtgjøring.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">virksomheten utføres mot godtgjøring.</td></tr>",
         "text": "c)\tvirksomheten utføres mot godtgjøring."
     },
     {
@@ -322,31 +322,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eierforhold,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eierforhold,</td></tr>",
         "text": "a)\teierforhold,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">formål, jf. <a data-id=\"lov/2005-06-17-64/§1\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A71\">§ 1</a> fjerde ledd, herunder eventuell reservasjon fra <a data-id=\"lov/2005-06-17-64/§1\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A71\">§ 1</a> annet ledd, jf. tredje ledd,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">formål, jf. <a data-id=\"lov/2005-06-17-64/§1\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A71\">§ 1</a> fjerde ledd, herunder eventuell reservasjon fra <a data-id=\"lov/2005-06-17-64/§1\" class=\" reference\" href=\"/lov/2005-06-17-64/%C2%A71\">§ 1</a> annet ledd, jf. tredje ledd,</td></tr>",
         "text": "b)\tformål, jf. § 1 fjerde ledd, herunder eventuell reservasjon fra § 1 annet ledd, jf. tredje ledd,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptakskriterier,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opptakskriterier,</td></tr>",
         "text": "c)\topptakskriterier,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">antall medlemmer i samarbeidsutvalget,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">antall medlemmer i samarbeidsutvalget,</td></tr>",
         "text": "d)\tantall medlemmer i samarbeidsutvalget,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnehagens åpningstid.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">barnehagens åpningstid.</td></tr>",
         "text": "e)\tbarnehagens åpningstid."
     },
     {

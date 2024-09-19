@@ -80,19 +80,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">De tre siste kalendermånedene før arbeidstakeren ble arbeidsufør legges til grunn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">De tre siste kalendermånedene før arbeidstakeren ble arbeidsufør legges til grunn.</td></tr>",
         "text": "a)\tDe tre siste kalendermånedene før arbeidstakeren ble arbeidsufør legges til grunn."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I et arbeidsforhold som har vart så kort tid at det ikke er rapportert inntekt til a-ordningen for tre hele kalendermåneder, skal dette kortere tidsrommet legges til grunn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">I et arbeidsforhold som har vart så kort tid at det ikke er rapportert inntekt til a-ordningen for tre hele kalendermåneder, skal dette kortere tidsrommet legges til grunn.</td></tr>",
         "text": "b)\tI et arbeidsforhold som har vart så kort tid at det ikke er rapportert inntekt til a-ordningen for tre hele kalendermåneder, skal dette kortere tidsrommet legges til grunn."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">I et arbeidsforhold der arbeidstakeren har fått varig lønnsendring i løpet av eller etter beregningsperioden, men før arbeidsuførhetstidspunktet, skal tidsrommet etter lønnsendringen legges til grunn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">I et arbeidsforhold der arbeidstakeren har fått varig lønnsendring i løpet av eller etter beregningsperioden, men før arbeidsuførhetstidspunktet, skal tidsrommet etter lønnsendringen legges til grunn.</td></tr>",
         "text": "c)\tI et arbeidsforhold der arbeidstakeren har fått varig lønnsendring i løpet av eller etter beregningsperioden, men før arbeidsuførhetstidspunktet, skal tidsrommet etter lønnsendringen legges til grunn."
     },
     {
@@ -236,13 +236,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sykepengegrunnlaget fastsettes ut fra den aktuelle månedsinntekten, se <a data-id=\"lov/1997-02-28-19/§8-28\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A78-28\">§ 8-28</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sykepengegrunnlaget fastsettes ut fra den aktuelle månedsinntekten, se <a data-id=\"lov/1997-02-28-19/§8-28\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A78-28\">§ 8-28</a>.</td></tr>",
         "text": "a)\tSykepengegrunnlaget fastsettes ut fra den aktuelle månedsinntekten, se § 8-28."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sykepengegrunnlaget fastsettes ut fra den pensjonsgivende årsinntekten, se <a data-id=\"lov/1997-02-28-19/§8-35\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A78-35\">§ 8-35</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Sykepengegrunnlaget fastsettes ut fra den pensjonsgivende årsinntekten, se <a data-id=\"lov/1997-02-28-19/§8-35\" class=\" reference\" href=\"/lov/1997-02-28-19/%C2%A78-35\">§ 8-35</a>.</td></tr>",
         "text": "b)\tSykepengegrunnlaget fastsettes ut fra den pensjonsgivende årsinntekten, se § 8-35."
     },
     {

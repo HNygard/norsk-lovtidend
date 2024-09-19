@@ -9,28 +9,13 @@
 	<!-- Modaal -->
 	<link rel="stylesheet" href="/resources/css/modaal.min.css"><!--[if lt IE 9]><![endif]-->
 
-
-	<!-- Le scripts --><!--	<script src="https://code.jquery.com/jquery-migrate-3.1.0.js"></script> -->
-
-		<script>
+	<!-- Le scripts --><script>
 			var dev = false;
-		</script><!-- Modaal --><link rel="icon" href="/resources/img/logo/new/lovdata-logosymbol-stortingsrod.svg" type="image/svg+xml" sizes="16x16 32x32 48x48 64x64">
+		</script>
+		<!-- Plausible -->
+		<script defer data-domain="lovdata.no" src="https://plausible.io/js/plausible.js"></script>
+		<!-- End Plausible --><!-- Modaal --><link rel="icon" href="/resources/img/logo/new/lovdata-logosymbol-stortingsrod.svg" type="image/svg+xml" sizes="16x16 32x32 48x48 64x64">
 	<link rel="apple-touch-icon-precomposed" href="/resources/img/logo/new/lovdata-logosymbol-stortingsrod.svg" type="image/svg+xml" sizes="152x152">
-
-	<!-- Google Tag Manager -->
-	<script>(function (w, d, s, l, i) {
-		w[l] = w[l] || [];
-		w[l].push({
-			'gtm.start': new Date().getTime(), event: 'gtm.js'
-		});
-		var f = d.getElementsByTagName(s)[0],
-			j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-		j.async = true;
-		j.src =
-			'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-		f.parentNode.insertBefore(j, f);
-	})(window, document, 'script', 'dataLayer', 'GTM-NG7FPV');</script>
-	<!-- End Google Tag Manager -->
 
 	<meta charset="utf-8">
 	<title>Lovtidend fra 2015 - side 3 - Lovdata</title>
@@ -41,12 +26,6 @@
 </head>
 
 	<body class="template-list">
-
-	<!-- Google Tag Manager (noscript) -->
-	<noscript aria-hidden="true">
-		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NG7FPV" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-	</noscript>
-	<!-- End Google Tag Manager (noscript) -->
 
 	<div aria-hidden="true" class="print-logo">
 		<img src="/resources/img/logo/new/lovdata-logo-primaer.svg" alt="Lovdata-logo"/>
@@ -139,6 +118,9 @@
 							</li>
 							<li class="tarIcon second-level-icon resources">
 								<div class="gmi-container leftIcon"><a class="gliding-menu-item" href="/register/tariffavtaler">Tariffavtaler</a></div>
+							</li>
+							<li class="htuIcon second-level-icon resources">
+								<div class="gmi-container leftIcon"><a class="gliding-menu-item" href="/register/husleietvistutvalget">Husleietvistutvalget</a></div>
 							</li>
 							<li class="sphIcon second-level-icon resources">
 								<div class="gmi-container leftIcon"><a class="gliding-menu-item" href="/sph">Statens Personalhåndbok</a></div>
@@ -303,7 +285,7 @@
         <h2 class="sr-only" id="registryMenu">Lenker og snarveier</h2>
                     <div class="row">
                 <div class="col-sm-4 col-lg-4">
-                     <a href="http://lovdata.no/pro/#registry/chronological/LTI/2022" class="btn btn-default btn-pro proRedirect filter registryMenuBtn">
+                     <a href="http://lovdata.no/pro/#registry/chronological/LTI/2023" class="btn btn-default btn-pro proRedirect filter registryMenuBtn">
                         Åpne i Lovdata Pro
                         <i class="ss-icon ss-symbolicons-block icon-left" aria-hidden="true">&nbsp;&nbsp;&nbsp;redirect</i>
                     </a>
@@ -343,6 +325,22 @@
         <div class="col-sm-4 col-lg-4">
             <a href="/lovtidend/hefter" class="btn btn-default btn-pro tiny filter registryMenuBtn">
                 Hefter
+            </a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-4 col-lg-4">
+            <a href="/lovtidend/veiledning" class="btn btn-default btn-pro tiny filter registryMenuBtn">
+                Veiledninger
+            </a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-4 col-lg-4">
+            <a href="/lovtidend/maler" class="btn btn-default btn-pro tiny filter registryMenuBtn">
+                Forskriftsmaler
             </a>
         </div>
     </div>
@@ -409,14 +407,15 @@
 						<option class="dropdown" >Klima- og miljødepartementet</option>
 						<option class="dropdown" >Klima- og miljødepartementet, Arbeids- og sosialdepartementet</option>
 						<option class="dropdown" >Klima- og miljødepartementet, Arbeids- og sosialdepartementet, Justis- og beredskapsdepartementet</option>
-						<option class="dropdown" >Klima- og miljødepartementet, Justis- og beredskapsdepartementet</option>
 						<option class="dropdown" >Klima- og miljødepartementet, Nærings- og fiskeridepartementet</option>
 						<option class="dropdown" >Klima- og miljødepartementet, Olje- og energidepartementet</option>
 						<option class="dropdown" >Kommunal- og arbeidsdepartementet</option>
+						<option class="dropdown" >Kommunal- og distriktsdepartementet</option>
 						<option class="dropdown" >Kommunal- og moderniseringsdepartementet</option>
 						<option class="dropdown" >Kommunal- og regionaldepartementet</option>
 						<option class="dropdown" >Kommunaldepartementet</option>
 						<option class="dropdown" >Kultur- og kirkedepartementet</option>
+						<option class="dropdown" >Kultur- og likestillingsdepartementet</option>
 						<option class="dropdown" >Kultur- og vitenskapsdepartementet</option>
 						<option class="dropdown" >Kulturdepartementet</option>
 						<option class="dropdown" >Kunnskapsdepartementet</option>
@@ -458,6 +457,9 @@
 		<label class="selector-label gray" for="yearSelect">Årstall</label>
 		<select id="yearSelect" name="year" class="dropdown selector-small overflow">
 			<option value="*">Alle år</option>
+				<option >
+					2023
+				</option>
 				<option >
 					2022
 				</option>

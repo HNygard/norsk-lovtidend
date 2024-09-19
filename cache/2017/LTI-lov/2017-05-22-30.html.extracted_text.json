@@ -98,31 +98,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">fornøyelsesinnretning:</em> installasjon til bruk for fornøyelsesformål som innebærer risiko, og som stiller minimale krav til ferdigheter, og hvor brukerne enten bringes i bevegelse eller situasjoner hvor de helt eller delvis ikke har kontroll over egen bevegelse, eller begge deler</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">fornøyelsesinnretning:</em> installasjon til bruk for fornøyelsesformål som innebærer risiko, og som stiller minimale krav til ferdigheter, og hvor brukerne enten bringes i bevegelse eller situasjoner hvor de helt eller delvis ikke har kontroll over egen bevegelse, eller begge deler</td></tr>",
         "text": "a)\tfornøyelsesinnretning: installasjon til bruk for fornøyelsesformål som innebærer risiko, og som stiller minimale krav til ferdigheter, og hvor brukerne enten bringes i bevegelse eller situasjoner hvor de helt eller delvis ikke har kontroll over egen bevegelse, eller begge deler"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">virksomhet:</em> foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere fornøyelsesinnretninger</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">virksomhet:</em> foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere fornøyelsesinnretninger</td></tr>",
         "text": "b)\tvirksomhet: foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere fornøyelsesinnretninger"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">ulykke:</em> uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på fornøyelsesinnretning som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">ulykke:</em> uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på fornøyelsesinnretning som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker</td></tr>",
         "text": "c)\tulykke: uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på fornøyelsesinnretning som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">alvorlig hendelse:</em> uønsket hendelse på fornøyelsesinnretning som under andre omstendigheter kunne ha ført til en ulykke</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">alvorlig hendelse:</em> uønsket hendelse på fornøyelsesinnretning som under andre omstendigheter kunne ha ført til en ulykke</td></tr>",
         "text": "d)\talvorlig hendelse: uønsket hendelse på fornøyelsesinnretning som under andre omstendigheter kunne ha ført til en ulykke"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">\n<em class=\" \">hendelse:</em> enhver annen uønsket hendelse enn en ulykke på fornøyelsesinnretninger, som har sammenheng med driften, og som innvirker på driftssikkerheten.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\"><em class=\" \">hendelse:</em> enhver annen uønsket hendelse enn en ulykke på fornøyelsesinnretninger, som har sammenheng med driften, og som innvirker på driftssikkerheten.</td></tr>",
         "text": "e)\thendelse: enhver annen uønsket hendelse enn en ulykke på fornøyelsesinnretninger, som har sammenheng med driften, og som innvirker på driftssikkerheten."
     },
     null,
@@ -154,73 +154,73 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bestemmelser om definisjon av fornøyelsesinnretning</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">bestemmelser om definisjon av fornøyelsesinnretning</td></tr>",
         "text": "a)\tbestemmelser om definisjon av fornøyelsesinnretning"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av fornøyelsesinnretning</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av fornøyelsesinnretning</td></tr>",
         "text": "b)\tsaksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av fornøyelsesinnretning"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt samt unntak for krav til sikkerhetsstillelse</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt samt unntak for krav til sikkerhetsstillelse</td></tr>",
         "text": "c)\ttekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt samt unntak for krav til sikkerhetsstillelse"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">godkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhet</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">godkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhet</td></tr>",
         "text": "d)\tgodkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhet"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">godkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personell</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">godkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personell</td></tr>",
         "text": "e)\tgodkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personell"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">universell utforming av byggverk, innretninger og billettsystemer</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">universell utforming av byggverk, innretninger og billettsystemer</td></tr>",
         "text": "f)\tuniversell utforming av byggverk, innretninger og billettsystemer"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">bruk av personlig verneutstyr</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">bruk av personlig verneutstyr</td></tr>",
         "text": "g)\tbruk av personlig verneutstyr"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">plikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skje</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">plikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skje</td></tr>",
         "text": "h)\tplikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skje"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandling av personopplysninger</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">behandling av personopplysninger</td></tr>",
         "text": "i)\tbehandling av personopplysninger"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafalles</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafalles</td></tr>",
         "text": "j)\ttvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafalles"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">gebyr, årsgebyr og sektoravgift</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">gebyr, årsgebyr og sektoravgift</td></tr>",
         "text": "k)\tgebyr, årsgebyr og sektoravgift"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkning.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkning.</td></tr>",
         "text": "l)\thvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkning."
     },
     {
@@ -646,31 +646,31 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet og omfang</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtredelsens grovhet og omfang</td></tr>",
         "text": "a)\tovertredelsens grovhet og omfang"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak</td></tr>",
         "text": "b)\tom overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er gjentatt</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtredelsen er gjentatt</td></tr>",
         "text": "c)\tom overtredelsen er gjentatt"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen har eller kunne oppnådd noen fordel ved overtredelsen</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">om overtrederen har eller kunne oppnådd noen fordel ved overtredelsen</td></tr>",
         "text": "d)\tom overtrederen har eller kunne oppnådd noen fordel ved overtredelsen"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrederens økonomiske evne.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">overtrederens økonomiske evne.</td></tr>",
         "text": "e)\tovertrederens økonomiske evne."
     },
     {

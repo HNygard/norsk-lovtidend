@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">institusjoner som mottar betaling for pass og stell av barn gi oppgave til ligningsmyndighetene over kostnader som er påløpt i året for foreldre og andre foresatte for pass og stell av barn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">institusjoner som mottar betaling for pass og stell av barn gi oppgave til ligningsmyndighetene over kostnader som er påløpt i året for foreldre og andre foresatte for pass og stell av barn.</td></tr>",
         "text": "e.\tinstitusjoner som mottar betaling for pass og stell av barn gi oppgave til ligningsmyndighetene over kostnader som er påløpt i året for foreldre og andre foresatte for pass og stell av barn."
     },
     {
@@ -74,13 +74,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(1)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det gis fradrag for kostnader som påløp i 2006 og som betales i 2007, forutsatt at kostnadene ikke ble innrapportert i 2006.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(1)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det gis fradrag for kostnader som påløp i 2006 og som betales i 2007, forutsatt at kostnadene ikke ble innrapportert i 2006.</td></tr>",
         "text": "(1)\tDet gis fradrag for kostnader som påløp i 2006 og som betales i 2007, forutsatt at kostnadene ikke ble innrapportert i 2006."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(2)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det gis ikke fradrag for kostnader som påløper i 2007 og som er forskuddsbetalt og innrapportert i tidligere år.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(2)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det gis ikke fradrag for kostnader som påløper i 2007 og som er forskuddsbetalt og innrapportert i tidligere år.</td></tr>",
         "text": "(2)\tDet gis ikke fradrag for kostnader som påløper i 2007 og som er forskuddsbetalt og innrapportert i tidligere år."
     }
 ]

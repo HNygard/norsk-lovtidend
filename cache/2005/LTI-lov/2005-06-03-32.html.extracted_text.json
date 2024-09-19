@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">salg av varer og andre tjenester enn finansielle tjenester fra salgsautomater og automatiserte forretningslokaler</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">salg av varer og andre tjenester enn finansielle tjenester fra salgsautomater og automatiserte forretningslokaler</td></tr>",
         "text": "a)\tsalg av varer og andre tjenester enn finansielle tjenester fra salgsautomater og automatiserte forretningslokaler"
     },
     {
@@ -50,7 +50,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">auksjonssalg av varer og andre tjenester enn finansielle tjenester. Loven gjelder likevel når det er lagt opp til at budgivningen utelukkende skal skje ved fjernkommunikasjon, og gjelder annet enn brukte varer og særskilt tilvirkede gjenstander. Loven gjelder uansett når auksjonssalg skjer som ledd i en salgsutflukt arrangert av selgeren eller tjenesteyteren</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">auksjonssalg av varer og andre tjenester enn finansielle tjenester. Loven gjelder likevel når det er lagt opp til at budgivningen utelukkende skal skje ved fjernkommunikasjon, og gjelder annet enn brukte varer og særskilt tilvirkede gjenstander. Loven gjelder uansett når auksjonssalg skjer som ledd i en salgsutflukt arrangert av selgeren eller tjenesteyteren</td></tr>",
         "text": "c)\tauksjonssalg av varer og andre tjenester enn finansielle tjenester. Loven gjelder likevel når det er lagt opp til at budgivningen utelukkende skal skje ved fjernkommunikasjon, og gjelder annet enn brukte varer og særskilt tilvirkede gjenstander. Loven gjelder uansett når auksjonssalg skjer som ledd i en salgsutflukt arrangert av selgeren eller tjenesteyteren"
     },
     {
@@ -86,7 +86,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansiell tjeneste: enhver tjeneste som har karakter av bank-, kreditt-, forsikrings-, individuell pensjons-, investerings- eller betalingstjeneste.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">finansiell tjeneste: enhver tjeneste som har karakter av bank-, kreditt-, forsikrings-, individuell pensjons-, investerings- eller betalingstjeneste.</td></tr>",
         "text": "f)\tfinansiell tjeneste: enhver tjeneste som har karakter av bank-, kreditt-, forsikrings-, individuell pensjons-, investerings- eller betalingstjeneste."
     },
     {
@@ -128,109 +128,109 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tjenesteyterens navn, organisasjonsnummer og ervervsmessige hovedaktivitet og tjenesteyterens geografiske adresse. Har en utenlandsk tjenesteyter en representant her i landet, eller tjenesteyteren for øvrig representeres overfor forbrukeren av en annen næringsdrivende, skal forbrukeren ha tilsvarende opplysninger om representanten,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tjenesteyterens navn, organisasjonsnummer og ervervsmessige hovedaktivitet og tjenesteyterens geografiske adresse. Har en utenlandsk tjenesteyter en representant her i landet, eller tjenesteyteren for øvrig representeres overfor forbrukeren av en annen næringsdrivende, skal forbrukeren ha tilsvarende opplysninger om representanten,</td></tr>",
         "text": "a)\ttjenesteyterens navn, organisasjonsnummer og ervervsmessige hovedaktivitet og tjenesteyterens geografiske adresse. Har en utenlandsk tjenesteyter en representant her i landet, eller tjenesteyteren for øvrig representeres overfor forbrukeren av en annen næringsdrivende, skal forbrukeren ha tilsvarende opplysninger om representanten,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle godkjenningsordninger som virksomheten er underlagt og opplysninger om den relevante tilsynsmyndigheten,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle godkjenningsordninger som virksomheten er underlagt og opplysninger om den relevante tilsynsmyndigheten,</td></tr>",
         "text": "b)\teventuelle godkjenningsordninger som virksomheten er underlagt og opplysninger om den relevante tilsynsmyndigheten,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den finansielle tjenestens viktigste egenskaper,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den finansielle tjenestens viktigste egenskaper,</td></tr>",
         "text": "c)\tden finansielle tjenestens viktigste egenskaper,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle særskilte risikoer knyttet til det finansielle instrumentet eller til operasjoner som skal utføres. Er tjenestens pris avhengig av svingninger i finansmarkedene, skal det opplyses om dette og om at historisk verdiutvikling og avkastning ikke kan brukes som indikator på framtidig utvikling og avkastning,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle særskilte risikoer knyttet til det finansielle instrumentet eller til operasjoner som skal utføres. Er tjenestens pris avhengig av svingninger i finansmarkedene, skal det opplyses om dette og om at historisk verdiutvikling og avkastning ikke kan brukes som indikator på framtidig utvikling og avkastning,</td></tr>",
         "text": "d)\teventuelle særskilte risikoer knyttet til det finansielle instrumentet eller til operasjoner som skal utføres. Er tjenestens pris avhengig av svingninger i finansmarkedene, skal det opplyses om dette og om at historisk verdiutvikling og avkastning ikke kan brukes som indikator på framtidig utvikling og avkastning,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">den samlede prisen forbrukeren skal betale, inklusive provisjoner, gebyrer og alle skatter og avgifter som betales gjennom tjenesteyteren, og spesifikasjon av alle enkeltelementer i prisen. Kan det ikke opplyses om nøyaktig pris, skal det opplyses om utregningsgrunnlaget,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">den samlede prisen forbrukeren skal betale, inklusive provisjoner, gebyrer og alle skatter og avgifter som betales gjennom tjenesteyteren, og spesifikasjon av alle enkeltelementer i prisen. Kan det ikke opplyses om nøyaktig pris, skal det opplyses om utregningsgrunnlaget,</td></tr>",
         "text": "e)\tden samlede prisen forbrukeren skal betale, inklusive provisjoner, gebyrer og alle skatter og avgifter som betales gjennom tjenesteyteren, og spesifikasjon av alle enkeltelementer i prisen. Kan det ikke opplyses om nøyaktig pris, skal det opplyses om utregningsgrunnlaget,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">at det kan finnes andre avgifter og/eller kostnader som ikke betales gjennom eller blir pålagt gjennom tjenesteyteren,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">at det kan finnes andre avgifter og/eller kostnader som ikke betales gjennom eller blir pålagt gjennom tjenesteyteren,</td></tr>",
         "text": "f)\tat det kan finnes andre avgifter og/eller kostnader som ikke betales gjennom eller blir pålagt gjennom tjenesteyteren,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle grenser for hvor lenge opplysningene er gyldige,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle grenser for hvor lenge opplysningene er gyldige,</td></tr>",
         "text": "g)\teventuelle grenser for hvor lenge opplysningene er gyldige,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ordninger for betaling og for oppfylling av avtalen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ordninger for betaling og for oppfylling av avtalen,</td></tr>",
         "text": "h)\tordninger for betaling og for oppfylling av avtalen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle særlige tilleggskostnader som belastes forbrukeren ved bruk av fjernkommunikasjonsmetoden,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle særlige tilleggskostnader som belastes forbrukeren ved bruk av fjernkommunikasjonsmetoden,</td></tr>",
         "text": "i)\teventuelle særlige tilleggskostnader som belastes forbrukeren ved bruk av fjernkommunikasjonsmetoden,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbrukeren har angrerett eller ikke, den eventuelle angrefristens lengde, vilkår for å bruke angreretten, herunder hvilket beløp forbrukeren kan bli avkrevd ved bruk av angreretten,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forbrukeren har angrerett eller ikke, den eventuelle angrefristens lengde, vilkår for å bruke angreretten, herunder hvilket beløp forbrukeren kan bli avkrevd ved bruk av angreretten,</td></tr>",
         "text": "j)\tforbrukeren har angrerett eller ikke, den eventuelle angrefristens lengde, vilkår for å bruke angreretten, herunder hvilket beløp forbrukeren kan bli avkrevd ved bruk av angreretten,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan angreretten kan brukes, blant annet hvilken adresse melding om bruk av angreretten kan sendes til, samt om følgene av å ikke bruke angreretten,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">k)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvordan angreretten kan brukes, blant annet hvilken adresse melding om bruk av angreretten kan sendes til, samt om følgene av å ikke bruke angreretten,</td></tr>",
         "text": "k)\thvordan angreretten kan brukes, blant annet hvilken adresse melding om bruk av angreretten kan sendes til, samt om følgene av å ikke bruke angreretten,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avtalens korteste varighet for avtaler om løpende eller tilbakevendende finansielle tjenester,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">l)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">avtalens korteste varighet for avtaler om løpende eller tilbakevendende finansielle tjenester,</td></tr>",
         "text": "l)\tavtalens korteste varighet for avtaler om løpende eller tilbakevendende finansielle tjenester,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle rettigheter avtalen gir partene til førtidig eller ensidig å avslutte avtaleforholdet, herunder eventuelle vederlag som pålegges i henhold til avtalen i slike tilfelle,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">m)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle rettigheter avtalen gir partene til førtidig eller ensidig å avslutte avtaleforholdet, herunder eventuelle vederlag som pålegges i henhold til avtalen i slike tilfelle,</td></tr>",
         "text": "m)\teventuelle rettigheter avtalen gir partene til førtidig eller ensidig å avslutte avtaleforholdet, herunder eventuelle vederlag som pålegges i henhold til avtalen i slike tilfelle,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">n)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">navnet på den medlemsstaten eller medlemsstatene hvis lover er brukt av tjenesteyter som grunnlag for å kontakte forbrukeren før avtalen inngås,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">n)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">navnet på den medlemsstaten eller medlemsstatene hvis lover er brukt av tjenesteyter som grunnlag for å kontakte forbrukeren før avtalen inngås,</td></tr>",
         "text": "n)\tnavnet på den medlemsstaten eller medlemsstatene hvis lover er brukt av tjenesteyter som grunnlag for å kontakte forbrukeren før avtalen inngås,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">o)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle lovvalgs- eller vernetingsbestemmelser i avtalen,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">o)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eventuelle lovvalgs- eller vernetingsbestemmelser i avtalen,</td></tr>",
         "text": "o)\teventuelle lovvalgs- eller vernetingsbestemmelser i avtalen,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">p)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">på hvilket eller hvilke språk avtalevilkårene og forhåndsopplysningene nevnt i denne bestemmelsen fins, samt på hvilket eller hvilke språk tjenesteyteren, med samtykke fra forbrukeren, forplikter seg til å kommunisere så lenge avtalen løper,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">p)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">på hvilket eller hvilke språk avtalevilkårene og forhåndsopplysningene nevnt i denne bestemmelsen fins, samt på hvilket eller hvilke språk tjenesteyteren, med samtykke fra forbrukeren, forplikter seg til å kommunisere så lenge avtalen løper,</td></tr>",
         "text": "p)\tpå hvilket eller hvilke språk avtalevilkårene og forhåndsopplysningene nevnt i denne bestemmelsen fins, samt på hvilket eller hvilke språk tjenesteyteren, med samtykke fra forbrukeren, forplikter seg til å kommunisere så lenge avtalen løper,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">q)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">muligheten for å få løst eventuelle tvister med tjenesteyteren utenfor domstolene og hvordan forbrukere eventuelt kan benytte seg av ordningene,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">q)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">muligheten for å få løst eventuelle tvister med tjenesteyteren utenfor domstolene og hvordan forbrukere eventuelt kan benytte seg av ordningene,</td></tr>",
         "text": "q)\tmuligheten for å få løst eventuelle tvister med tjenesteyteren utenfor domstolene og hvordan forbrukere eventuelt kan benytte seg av ordningene,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">r)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">garantifond eller erstatningsordninger som ikke er omfattet av direktiv <a data-id=\"eu/31994l0019\" class=\" reference\" href=\"/eu/31994l0019\">94/19/EF</a> om innskuddsgarantiordninger og direktiv <a data-id=\"eu/31997l0009\" class=\" reference\" href=\"/eu/31997l0009\">97/9/EF</a> om erstatningsordninger for investorer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">r)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">garantifond eller erstatningsordninger som ikke er omfattet av direktiv <a data-id=\"eu/31994l0019\" class=\" reference\" href=\"/eu/31994l0019\">94/19/EF</a> om innskuddsgarantiordninger og direktiv <a data-id=\"eu/31997l0009\" class=\" reference\" href=\"/eu/31997l0009\">97/9/EF</a> om erstatningsordninger for investorer.</td></tr>",
         "text": "r)\tgarantifond eller erstatningsordninger som ikke er omfattet av direktiv 94/19/EF om innskuddsgarantiordninger og direktiv 97/9/EF om erstatningsordninger for investorer."
     },
     {
@@ -482,25 +482,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tjenester der prisen avhenger av svingninger på finansmarkedet som tjenesteyteren ikke har innflytelse på og som kan forekomme i angreperioden</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tjenester der prisen avhenger av svingninger på finansmarkedet som tjenesteyteren ikke har innflytelse på og som kan forekomme i angreperioden</td></tr>",
         "text": "a)\ttjenester der prisen avhenger av svingninger på finansmarkedet som tjenesteyteren ikke har innflytelse på og som kan forekomme i angreperioden"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avtaler om reise- og reisegodsforsikring eller andre forsikringsavtaler med kortere varighet enn en måned</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">avtaler om reise- og reisegodsforsikring eller andre forsikringsavtaler med kortere varighet enn en måned</td></tr>",
         "text": "b)\tavtaler om reise- og reisegodsforsikring eller andre forsikringsavtaler med kortere varighet enn en måned"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">avtaler som etter forbrukerens uttrykkelige anmodning er blitt oppfylt av begge parter før forbrukeren utøver sin angrerett</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">avtaler som etter forbrukerens uttrykkelige anmodning er blitt oppfylt av begge parter før forbrukeren utøver sin angrerett</td></tr>",
         "text": "c)\tavtaler som etter forbrukerens uttrykkelige anmodning er blitt oppfylt av begge parter før forbrukeren utøver sin angrerett"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">kreditt som er sikret ved pant i fast eiendom eller i rettighet knyttet til fast eiendom.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kreditt som er sikret ved pant i fast eiendom eller i rettighet knyttet til fast eiendom.</td></tr>",
         "text": "d)\tkreditt som er sikret ved pant i fast eiendom eller i rettighet knyttet til fast eiendom."
     },
     {

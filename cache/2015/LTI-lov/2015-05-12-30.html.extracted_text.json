@@ -38,7 +38,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav i anledning oljesøl av den art som er nevnt i <a data-id=\"lov/1994-06-24-39/§191\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7191\">§§ 191</a> og <a data-id=\"lov/1994-06-24-39/§207\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7207\">207</a>, og krav i anledning skade som nevnt i § <a data-id=\"lov/1994-06-24-39/§211\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7211\">211</a>;</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">krav i anledning oljesøl av den art som er nevnt i <a data-id=\"lov/1994-06-24-39/§191\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7191\">§§ 191</a> og <a data-id=\"lov/1994-06-24-39/§207\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7207\">207</a>, og krav i anledning skade som nevnt i § <a data-id=\"lov/1994-06-24-39/§211\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7211\">211</a>;</td></tr>",
         "text": "2)\tkrav i anledning oljesøl av den art som er nevnt i §§ 191 og 207, og krav i anledning skade som nevnt i § 211;"
     },
     {
@@ -50,13 +50,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">For krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre.</td></tr>",
         "text": "1)\tFor krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">For andre krav i anledning av personskade er ansvarsgrensen 3.020.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">For andre krav i anledning av personskade er ansvarsgrensen 3.020.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:</td></tr>",
         "text": "2)\tFor andre krav i anledning av personskade er ansvarsgrensen 3.020.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:"
     },
     {
@@ -80,7 +80,7 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ansvarsgrensen for alle andre krav, samt udekket rest av krav som nevnt i nr. 2, er 1.510.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Ansvarsgrensen for alle andre krav, samt udekket rest av krav som nevnt i nr. 2, er 1.510.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:</td></tr>",
         "text": "3)\tAnsvarsgrensen for alle andre krav, samt udekket rest av krav som nevnt i nr. 2, er 1.510.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:"
     },
     {
@@ -140,37 +140,37 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">medlem av besetningen, ansatte hos eieren eller andre som eieren svarer for,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">medlem av besetningen, ansatte hos eieren eller andre som eieren svarer for,</td></tr>",
         "text": "a)\tmedlem av besetningen, ansatte hos eieren eller andre som eieren svarer for,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">losen eller en annen person som utfører tjeneste for skipet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">losen eller en annen person som utfører tjeneste for skipet,</td></tr>",
         "text": "b)\tlosen eller en annen person som utfører tjeneste for skipet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rederen eller disponenten hvor disse ikke eier skipet, samt enhver befrakter, sender, avlaster, eier eller mottaker av lasten,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">rederen eller disponenten hvor disse ikke eier skipet, samt enhver befrakter, sender, avlaster, eier eller mottaker av lasten,</td></tr>",
         "text": "c)\trederen eller disponenten hvor disse ikke eier skipet, samt enhver befrakter, sender, avlaster, eier eller mottaker av lasten,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">noen som utfører berging med samtykke fra skipets side eller på oppdrag av offentlig myndighet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">noen som utfører berging med samtykke fra skipets side eller på oppdrag av offentlig myndighet,</td></tr>",
         "text": "d)\tnoen som utfører berging med samtykke fra skipets side eller på oppdrag av offentlig myndighet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">noen som treffer tiltak for å avverge eller begrense skade eller tap som er omfattet av <a data-id=\"lov/1994-06-24-39/§191\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7191\">§ 191</a>, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">noen som treffer tiltak for å avverge eller begrense skade eller tap som er omfattet av <a data-id=\"lov/1994-06-24-39/§191\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7191\">§ 191</a>, eller</td></tr>",
         "text": "e)\tnoen som treffer tiltak for å avverge eller begrense skade eller tap som er omfattet av § 191, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansatte hos personer som er omfattet av bokstav b, c, d og e, eller andre som personer som nevnt i bokstav b, c, d eller e svarer for, unntatt person som selv har voldt skaden ved forsett eller grov uaktsomhet, og med forståelse av at slik skade sannsynligvis ville oppstå.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansatte hos personer som er omfattet av bokstav b, c, d og e, eller andre som personer som nevnt i bokstav b, c, d eller e svarer for, unntatt person som selv har voldt skaden ved forsett eller grov uaktsomhet, og med forståelse av at slik skade sannsynligvis ville oppstå.</td></tr>",
         "text": "f)\tansatte hos personer som er omfattet av bokstav b, c, d og e, eller andre som personer som nevnt i bokstav b, c, d eller e svarer for, unntatt person som selv har voldt skaden ved forsett eller grov uaktsomhet, og med forståelse av at slik skade sannsynligvis ville oppstå."
     },
     {
@@ -206,49 +206,49 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">olje som transporteres i bulk, som definert i regel 1 i vedlegg 1 til internasjonal konvensjon om hindring av forurensning fra skip, 1973, som endret ved protokoll av 1978, med senere endringer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">olje som transporteres i bulk, som definert i regel 1 i vedlegg 1 til internasjonal konvensjon om hindring av forurensning fra skip, 1973, som endret ved protokoll av 1978, med senere endringer,</td></tr>",
         "text": "a)\tolje som transporteres i bulk, som definert i regel 1 i vedlegg 1 til internasjonal konvensjon om hindring av forurensning fra skip, 1973, som endret ved protokoll av 1978, med senere endringer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skadelige flytende stoffer som transporteres i bulk, som definert i regel 1.10 i vedlegg II til internasjonal konvensjon om hindring av forurensning av skip, 1973, som endret ved protokoll av 1978, med senere endringer, og de stoffer og blandinger som inntil videre er klassifisert som forurensningskategori X, Y, eller Z etter regel 6.3 i nevnte vedlegg II,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skadelige flytende stoffer som transporteres i bulk, som definert i regel 1.10 i vedlegg II til internasjonal konvensjon om hindring av forurensning av skip, 1973, som endret ved protokoll av 1978, med senere endringer, og de stoffer og blandinger som inntil videre er klassifisert som forurensningskategori X, Y, eller Z etter regel 6.3 i nevnte vedlegg II,</td></tr>",
         "text": "b)\tskadelige flytende stoffer som transporteres i bulk, som definert i regel 1.10 i vedlegg II til internasjonal konvensjon om hindring av forurensning av skip, 1973, som endret ved protokoll av 1978, med senere endringer, og de stoffer og blandinger som inntil videre er klassifisert som forurensningskategori X, Y, eller Z etter regel 6.3 i nevnte vedlegg II,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">farlige, flytende stoffer som transporteres i bulk, og som er oppført i kapittel 17 i internasjonal kode for bygging og utrustning av skip som transporterer farlige kjemikalier i bulk, med endringer, og de farlige produkter som det er gitt foreløpige regler for lastehåndtering for, etter reglene i kodens punkt 1.1.6,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">farlige, flytende stoffer som transporteres i bulk, og som er oppført i kapittel 17 i internasjonal kode for bygging og utrustning av skip som transporterer farlige kjemikalier i bulk, med endringer, og de farlige produkter som det er gitt foreløpige regler for lastehåndtering for, etter reglene i kodens punkt 1.1.6,</td></tr>",
         "text": "c)\tfarlige, flytende stoffer som transporteres i bulk, og som er oppført i kapittel 17 i internasjonal kode for bygging og utrustning av skip som transporterer farlige kjemikalier i bulk, med endringer, og de farlige produkter som det er gitt foreløpige regler for lastehåndtering for, etter reglene i kodens punkt 1.1.6,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">farlige og skadelige stoffer, materialer eller gjenstander i pakket form som er omfattet av internasjonal kode for transport av farlig gods (IMDG-koden), med endringer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">farlige og skadelige stoffer, materialer eller gjenstander i pakket form som er omfattet av internasjonal kode for transport av farlig gods (IMDG-koden), med endringer,</td></tr>",
         "text": "d)\tfarlige og skadelige stoffer, materialer eller gjenstander i pakket form som er omfattet av internasjonal kode for transport av farlig gods (IMDG-koden), med endringer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">flytende gasser som er oppført i kapittel 19 i internasjonal kode for bygging og utrustning av skip som transporterer flytende gasser i bulk, med endringer, og de produkter som det er gitt foreløpige regler for lastehåndtering for, etter reglene i kodens punkt 1.1.6,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">flytende gasser som er oppført i kapittel 19 i internasjonal kode for bygging og utrustning av skip som transporterer flytende gasser i bulk, med endringer, og de produkter som det er gitt foreløpige regler for lastehåndtering for, etter reglene i kodens punkt 1.1.6,</td></tr>",
         "text": "e)\tflytende gasser som er oppført i kapittel 19 i internasjonal kode for bygging og utrustning av skip som transporterer flytende gasser i bulk, med endringer, og de produkter som det er gitt foreløpige regler for lastehåndtering for, etter reglene i kodens punkt 1.1.6,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">flytende stoffer som transporteres som last i bulk med antennelsestemperatur som ikke overstiger 60 °C, målt ved prøve i lukket beholder,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">flytende stoffer som transporteres som last i bulk med antennelsestemperatur som ikke overstiger 60 °C, målt ved prøve i lukket beholder,</td></tr>",
         "text": "f)\tflytende stoffer som transporteres som last i bulk med antennelsestemperatur som ikke overstiger 60 °C, målt ved prøve i lukket beholder,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">faste bulklaster med farlige kjemiske egenskaper som omfattes av den internasjonale koden for transport av faste bulklaster (IMSBC-koden), med endringer, i den utstrekning disse stoffene i pakket form ville være omfattet av internasjonal kode for transport av farlig gods (IMDG-koden) i kraft i 1996,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">faste bulklaster med farlige kjemiske egenskaper som omfattes av den internasjonale koden for transport av faste bulklaster (IMSBC-koden), med endringer, i den utstrekning disse stoffene i pakket form ville være omfattet av internasjonal kode for transport av farlig gods (IMDG-koden) i kraft i 1996,</td></tr>",
         "text": "g)\tfaste bulklaster med farlige kjemiske egenskaper som omfattes av den internasjonale koden for transport av faste bulklaster (IMSBC-koden), med endringer, i den utstrekning disse stoffene i pakket form ville være omfattet av internasjonal kode for transport av farlig gods (IMDG-koden) i kraft i 1996,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">rester fra forutgående bulktransport av stoffer som nevnt i bokstavene a til c og e til g i oppregningen her.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">rester fra forutgående bulktransport av stoffer som nevnt i bokstavene a til c og e til g i oppregningen her.</td></tr>",
         "text": "h)\trester fra forutgående bulktransport av stoffer som nevnt i bokstavene a til c og e til g i oppregningen her."
     },
     {
@@ -314,25 +314,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tap av menneskeliv eller personskade oppstått om bord eller utenfor skipet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tap av menneskeliv eller personskade oppstått om bord eller utenfor skipet,</td></tr>",
         "text": "a)\ttap av menneskeliv eller personskade oppstått om bord eller utenfor skipet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tap av eller skade på eiendom utenfor skipet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tap av eller skade på eiendom utenfor skipet,</td></tr>",
         "text": "b)\ttap av eller skade på eiendom utenfor skipet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tap eller skade ved forurensning av miljøet,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tap eller skade ved forurensning av miljøet,</td></tr>",
         "text": "c)\ttap eller skade ved forurensning av miljøet,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">utgifter, skade eller tap som følge av rimelige tiltak som er truffet etter en hendelse som forårsaker eller medfører umiddelbar og betydelig fare for skade som nevnt i bokstav a til c, og som har til formål å avverge eller begrense slik skade.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utgifter, skade eller tap som følge av rimelige tiltak som er truffet etter en hendelse som forårsaker eller medfører umiddelbar og betydelig fare for skade som nevnt i bokstav a til c, og som har til formål å avverge eller begrense slik skade.</td></tr>",
         "text": "d)\tutgifter, skade eller tap som følge av rimelige tiltak som er truffet etter en hendelse som forårsaker eller medfører umiddelbar og betydelig fare for skade som nevnt i bokstav a til c, og som har til formål å avverge eller begrense slik skade."
     },
     {
@@ -350,25 +350,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">forurensningsskade som omfattes av <a data-id=\"lov/1994-06-24-39/§191\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7191\">§ 191</a>,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">forurensningsskade som omfattes av <a data-id=\"lov/1994-06-24-39/§191\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7191\">§ 191</a>,</td></tr>",
         "text": "a)\tforurensningsskade som omfattes av § 191,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skade voldt av radioaktivt materiale som nevnt i HNS-konvensjonen artikkel 4 nr. 3 bokstav b,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skade voldt av radioaktivt materiale som nevnt i HNS-konvensjonen artikkel 4 nr. 3 bokstav b,</td></tr>",
         "text": "b)\tskade voldt av radioaktivt materiale som nevnt i HNS-konvensjonen artikkel 4 nr. 3 bokstav b,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">erstatningskrav i henhold til kontrakt om sjøtransport av gods eller passasjerer,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">erstatningskrav i henhold til kontrakt om sjøtransport av gods eller passasjerer,</td></tr>",
         "text": "c)\terstatningskrav i henhold til kontrakt om sjøtransport av gods eller passasjerer,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">yrkesskadeerstatning eller ytelser fra folketrygden og tilsvarende krav etter rettsreglene her i riket eller fremmed stat for så vidt bestemmelsene i §§ 211 til 227 er uforenlige med de regler som ellers gjelder for slike krav.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">yrkesskadeerstatning eller ytelser fra folketrygden og tilsvarende krav etter rettsreglene her i riket eller fremmed stat for så vidt bestemmelsene i §§ 211 til 227 er uforenlige med de regler som ellers gjelder for slike krav.</td></tr>",
         "text": "d)\tyrkesskadeerstatning eller ytelser fra folketrygden og tilsvarende krav etter rettsreglene her i riket eller fremmed stat for så vidt bestemmelsene i §§ 211 til 227 er uforenlige med de regler som ellers gjelder for slike krav."
     },
     {
@@ -428,13 +428,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">1500 SDR pr. tonn fra 2001 til 50 000 tonn, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">1500 SDR pr. tonn fra 2001 til 50 000 tonn, og</td></tr>",
         "text": "a)\t1500 SDR pr. tonn fra 2001 til 50 000 tonn, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">360 SDR pr. tonn over 50 000 tonn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">360 SDR pr. tonn over 50 000 tonn.</td></tr>",
         "text": "b)\t360 SDR pr. tonn over 50 000 tonn."
     },
     {
@@ -452,13 +452,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">1725 SDR pr. tonn fra 2001 til 50 000 tonn, og</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">1725 SDR pr. tonn fra 2001 til 50 000 tonn, og</td></tr>",
         "text": "a)\t1725 SDR pr. tonn fra 2001 til 50 000 tonn, og"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">414 SDR pr. tonn over 50 000 tonn.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">414 SDR pr. tonn over 50 000 tonn.</td></tr>",
         "text": "b)\t414 SDR pr. tonn over 50 000 tonn."
     },
     {
@@ -626,25 +626,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mer enn 20 000 tonn faste bulklaster som nevnt i <a data-id=\"lov/1994-06-24-39/§211\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7211\">§ 211</a> første ledd bokstav g,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mer enn 20 000 tonn faste bulklaster som nevnt i <a data-id=\"lov/1994-06-24-39/§211\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7211\">§ 211</a> første ledd bokstav g,</td></tr>",
         "text": "a)\tmer enn 20 000 tonn faste bulklaster som nevnt i § 211 første ledd bokstav g,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mer enn 20 000 tonn LPG (kondensert hydrokarbongass),</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mer enn 20 000 tonn LPG (kondensert hydrokarbongass),</td></tr>",
         "text": "b)\tmer enn 20 000 tonn LPG (kondensert hydrokarbongass),"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mer enn til sammen 150 000 tonn råolje eller tunge fyringsoljer eller tunge destillater som definert i 1992-fondskonvensjonen artikkel 1 nr. 3, og som for denne oljen er pliktig til å betale avgifter til Det internasjonale erstatningsfond (1992) etter reglene i <a data-id=\"lov/1994-06-24-39/§202\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7202\">§ 202</a>, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mer enn til sammen 150 000 tonn råolje eller tunge fyringsoljer eller tunge destillater som definert i 1992-fondskonvensjonen artikkel 1 nr. 3, og som for denne oljen er pliktig til å betale avgifter til Det internasjonale erstatningsfond (1992) etter reglene i <a data-id=\"lov/1994-06-24-39/§202\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7202\">§ 202</a>, eller</td></tr>",
         "text": "c)\tmer enn til sammen 150 000 tonn råolje eller tunge fyringsoljer eller tunge destillater som definert i 1992-fondskonvensjonen artikkel 1 nr. 3, og som for denne oljen er pliktig til å betale avgifter til Det internasjonale erstatningsfond (1992) etter reglene i § 202, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">mer enn 20 000 tonn olje i bulk som ikke omfattes av bokstav c, og som er opplistet i vedlegg I til internasjonal konvensjon om hindring av forurensning fra skip, 1973, med senere endringer.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">mer enn 20 000 tonn olje i bulk som ikke omfattes av bokstav c, og som er opplistet i vedlegg I til internasjonal konvensjon om hindring av forurensning fra skip, 1973, med senere endringer.</td></tr>",
         "text": "d)\tmer enn 20 000 tonn olje i bulk som ikke omfattes av bokstav c, og som er opplistet i vedlegg I til internasjonal konvensjon om hindring av forurensning fra skip, 1973, med senere endringer."
     },
     {
@@ -752,19 +752,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">skipet er registrert her i riket,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">skipet er registrert her i riket,</td></tr>",
         "text": "a)\tskipet er registrert her i riket,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">eieren har sin bopel eller hovedforretningssted her i riket, eller</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">eieren har sin bopel eller hovedforretningssted her i riket, eller</td></tr>",
         "text": "b)\teieren har sin bopel eller hovedforretningssted her i riket, eller"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">begrensningsfond er opprettet ved norsk domstol.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">begrensningsfond er opprettet ved norsk domstol.</td></tr>",
         "text": "c)\tbegrensningsfond er opprettet ved norsk domstol."
     },
     {
@@ -854,25 +854,25 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvaret for skade voldt av farlig gods som er transportert i skip som last, og som er oppstått her i riket eller innenfor territoriet til annen konvensjonsstat,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvaret for skade voldt av farlig gods som er transportert i skip som last, og som er oppstått her i riket eller innenfor territoriet til annen konvensjonsstat,</td></tr>",
         "text": "a)\tansvaret for skade voldt av farlig gods som er transportert i skip som last, og som er oppstått her i riket eller innenfor territoriet til annen konvensjonsstat,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvaret for skade som omfattes av <a data-id=\"lov/1994-06-24-39/§212\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7212\">§ 212</a> annet ledd bokstav c (forurensningsskade), som er voldt av farlig gods som er transportert i skip som last, og som er oppstått i norsk økonomisk sone eller i økonomisk sone til en annen konvensjonsstat, eller, for stat som ikke har opprettet slik sone, i et område som nevnt i <a data-id=\"lov/1994-06-24-39/§206\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7206\">§ 206</a> annet ledd,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvaret for skade som omfattes av <a data-id=\"lov/1994-06-24-39/§212\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7212\">§ 212</a> annet ledd bokstav c (forurensningsskade), som er voldt av farlig gods som er transportert i skip som last, og som er oppstått i norsk økonomisk sone eller i økonomisk sone til en annen konvensjonsstat, eller, for stat som ikke har opprettet slik sone, i et område som nevnt i <a data-id=\"lov/1994-06-24-39/§206\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7206\">§ 206</a> annet ledd,</td></tr>",
         "text": "b)\tansvaret for skade som omfattes av § 212 annet ledd bokstav c (forurensningsskade), som er voldt av farlig gods som er transportert i skip som last, og som er oppstått i norsk økonomisk sone eller i økonomisk sone til en annen konvensjonsstat, eller, for stat som ikke har opprettet slik sone, i et område som nevnt i § 206 annet ledd,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvaret for skade som omfattes av <a data-id=\"lov/1994-06-24-39/§212\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7212\">§ 212</a> annet ledd bokstav a og b som er oppstått utenfor riket og territoriet til annen stat, dersom skaden er voldt av farlig gods transportert som last i skip registrert her i riket eller i annen konvensjonsstat eller, hvis skipet ikke er registrert, i skip som kan føre en konvensjonsstats flagg,</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ansvaret for skade som omfattes av <a data-id=\"lov/1994-06-24-39/§212\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7212\">§ 212</a> annet ledd bokstav a og b som er oppstått utenfor riket og territoriet til annen stat, dersom skaden er voldt av farlig gods transportert som last i skip registrert her i riket eller i annen konvensjonsstat eller, hvis skipet ikke er registrert, i skip som kan føre en konvensjonsstats flagg,</td></tr>",
         "text": "c)\tansvaret for skade som omfattes av § 212 annet ledd bokstav a og b som er oppstått utenfor riket og territoriet til annen stat, dersom skaden er voldt av farlig gods transportert som last i skip registrert her i riket eller i annen konvensjonsstat eller, hvis skipet ikke er registrert, i skip som kan føre en konvensjonsstats flagg,"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak for å avverge eller begrense skade som nevnt i bokstav a til c, uansett hvor tiltaket er satt i verk.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">tiltak for å avverge eller begrense skade som nevnt i bokstav a til c, uansett hvor tiltaket er satt i verk.</td></tr>",
         "text": "d)\ttiltak for å avverge eller begrense skade som nevnt i bokstav a til c, uansett hvor tiltaket er satt i verk."
     },
     {
@@ -956,13 +956,13 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">i innenriksfart i Norge, Danmark, Finland eller Sverige eller ved befordring til eller fra noen av disse stater, uansett om befordringen for øvrig er undergitt fremmed rett;</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">i innenriksfart i Norge, Danmark, Finland eller Sverige eller ved befordring til eller fra noen av disse stater, uansett om befordringen for øvrig er undergitt fremmed rett;</td></tr>",
         "text": "a)\ti innenriksfart i Norge, Danmark, Finland eller Sverige eller ved befordring til eller fra noen av disse stater, uansett om befordringen for øvrig er undergitt fremmed rett;"
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">ved annen befordring dersom alminnelige norske lovvalgsregler medfører at befordringen er undergitt norsk rett.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">ved annen befordring dersom alminnelige norske lovvalgsregler medfører at befordringen er undergitt norsk rett.</td></tr>",
         "text": "b)\tved annen befordring dersom alminnelige norske lovvalgsregler medfører at befordringen er undergitt norsk rett."
     },
     {
@@ -1016,19 +1016,19 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Endringene i <a data-id=\"lov/1994-06-24-39/§182b\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7182b\">sjøloven §§ 182 b</a>, <a data-id=\"lov/1994-06-24-39/§193\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7193\">193</a>, <a data-id=\"lov/1994-06-24-39/§223\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7223\">223</a> og <a data-id=\"lov/1994-06-24-39/§430\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7430\">430</a> trer likevel i kraft straks. For øvrig kan Kongen sette i kraft de enkelte bestemmelsene til forskjellig tid.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Loven gjelder fra den tid Kongen bestemmer. Endringene i <a data-id=\"lov/1994-06-24-39/§182b\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7182b\">sjøloven §§ 182 b</a>, <a data-id=\"lov/1994-06-24-39/§193\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7193\">193</a>, <a data-id=\"lov/1994-06-24-39/§223\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7223\">223</a> og <a data-id=\"lov/1994-06-24-39/§430\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7430\">430</a> trer likevel i kraft straks. For øvrig kan Kongen sette i kraft de enkelte bestemmelsene til forskjellig tid.</td></tr>",
         "text": "1.\tLoven gjelder fra den tid Kongen bestemmer. Endringene i sjøloven §§ 182 b, 193, 223 og 430 trer likevel i kraft straks. For øvrig kan Kongen sette i kraft de enkelte bestemmelsene til forskjellig tid."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Reglene om ansvar og forsikring i <a data-id=\"lov/1994-06-24-39/kap11\" class=\" reference\" href=\"/lov/1994-06-24-39/kap11\">sjøloven kapittel 11</a> får bare anvendelse på hendelser som inntreffer etter ikrafttredelsen av <a data-id=\"lov/1994-06-24-39/§212\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7212\">§§ 212</a> og <a data-id=\"lov/1994-06-24-39/§218\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7218\">218</a>.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Reglene om ansvar og forsikring i <a data-id=\"lov/1994-06-24-39/kap11\" class=\" reference\" href=\"/lov/1994-06-24-39/kap11\">sjøloven kapittel 11</a> får bare anvendelse på hendelser som inntreffer etter ikrafttredelsen av <a data-id=\"lov/1994-06-24-39/§212\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7212\">§§ 212</a> og <a data-id=\"lov/1994-06-24-39/§218\" class=\" reference\" href=\"/lov/1994-06-24-39/%C2%A7218\">218</a>.</td></tr>",
         "text": "2.\tReglene om ansvar og forsikring i sjøloven kapittel 11 får bare anvendelse på hendelser som inntreffer etter ikrafttredelsen av §§ 212 og 218."
     },
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr>\n<td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td>\n<td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi nærmere overgangsregler.</td>\n</tr>",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Departementet kan gi nærmere overgangsregler.</td></tr>",
         "text": "3.\tDepartementet kan gi nærmere overgangsregler."
     }
 ]
