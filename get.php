@@ -17,7 +17,7 @@ use Symfony\Component\DomCrawler\Crawler;
 
 $cacheTimeSecondsThisYear_paging = 60 * 60 * 24 * 4;
 $cacheTimeSecondsThisYear = 60 * 60 * 24 * 20;
-$cacheTimeSecondsPrevYears = 60 * 60 * 24 * 20;
+$cacheTimeSecondsPrevYears = 60 * 60 * 24 * 2000;
 $cache_location = __DIR__ . '/cache';
 $lovdataNo = 'https://lovdata.no';
 $baseUrl = $lovdataNo . '/register/lovtidend';
