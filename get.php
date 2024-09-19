@@ -17,7 +17,7 @@ use Symfony\Component\DomCrawler\Crawler;
 
 $cacheTimeSecondsThisYear_paging = 60 * 60 * 24 * 4;
 $cacheTimeSecondsThisYear = 60 * 60 * 24 * 20;
-$cacheTimeSecondsPrevYears = 60 * 60 * 24 * 365;
+$cacheTimeSecondsPrevYears = 60 * 60 * 24 * 20;
 $cache_location = __DIR__ . '/cache';
 $lovdataNo = 'https://lovdata.no';
 $baseUrl = $lovdataNo . '/register/lovtidend';
@@ -530,7 +530,7 @@ function getUrlCachedUsingCurl($cacheTimeSeconds, $cache_file, $baseUri, $accept
 
     logInfo('   Response size: ' . strlen($body));
 
-    if (!str_starts_with($header, 'HTTP/1.1 200 OK')) {
+    if (!str_starts_with($header, 'HTTP/2 200')) {
         if (str_starts_with($header, 'HTTP/1.1 404 Not Found') && file_exists($cache_file)) {
             logInfo('  -> 404 Not Found. Using cache.');
             return file_get_contents($cache_file);
