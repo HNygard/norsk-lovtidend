@@ -5,6 +5,8 @@ Contains ~250 MBs of data.
 # Norsk Lovtidend
 
 Dette er en kopi av alle kunngjøringer i Norsk Lovtidend. De er lastet ned fra Lovdata.no hvor Justisdepartementet gir ut nye lover og nye forskrifter.
+Lovtekstene er ikke en del av dette datasettet.
+Du kan se datasettet online på [hnygard.github.io/norsk-lovtidend/](https://hnygard.github.io/norsk-lovtidend/).
 
 Datasettet er laget i forbindelse med [Norske-postlister.no](https://norske-postlister.no/) for å lage en fullstendig liste over alle norske lover.
 
