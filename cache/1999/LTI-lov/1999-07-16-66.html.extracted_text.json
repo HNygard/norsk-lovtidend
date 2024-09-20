@@ -1,0 +1,983 @@
+[
+    {
+        "tag": "p",
+        "class": "marg",
+        "html": "<a data-id=\"forarbeid/otprp-56-199899\" class=\" reference\" href=\"/forarbeid/otprp-56-199899\">Ot.prp.nr.56 (1998–1999)</a>, <a data-id=\"forarbeid/inns-o-89-199899\" class=\" reference\" href=\"/forarbeid/inns-o-89-199899\">Innst.O.nr.89 (1998–1999)</a>, <a data-id=\"forarbeid/besl-o-83-199899\" class=\" reference\" href=\"/forarbeid/besl-o-83-199899\">Besl.O.nr.83 (1998–1999)</a>. Odels- og lagtingsvedtak hhv. 8. og 15. juni 1999. Fremmet av Justis- og politidepartementet.",
+        "text": "Ot.prp.nr.56 (1998–1999), Innst.O.nr.89 (1998–1999), Besl.O.nr.83 (1998–1999). Odels- og lagtingsvedtak hhv. 8. og 15. juni 1999. Fremmet av Justis- og politidepartementet."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 1.",
+        "text": "§ 1."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Formål og definisjon</em>",
+        "text": "Formål og definisjon"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Formålet med denne loven er å regulere behandlingen i Norge av opplysninger innenfor Schengen informasjonssystem (SIS), herunder å ivareta hensynet til personvern.",
+        "text": "Formålet med denne loven er å regulere behandlingen i Norge av opplysninger innenfor Schengen informasjonssystem (SIS), herunder å ivareta hensynet til personvern."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "SIS er et informasjonssystem knyttet til Schengensamarbeidet. Systemet består av en nasjonal del for hver stat og en felles støttefunksjon for de statene som deltar i Schengensamarbeidet.",
+        "text": "SIS er et informasjonssystem knyttet til Schengensamarbeidet. Systemet består av en nasjonal del for hver stat og en felles støttefunksjon for de statene som deltar i Schengensamarbeidet."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Informasjonssystemet gir mulighet for registrering av personopplysninger og opplysninger om gjenstander innenfor de formål som følger av denne loven <a data-id=\"lov/1999-07-16-66/§7\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A77\">§§ 7</a> til <a data-id=\"lov/1999-07-16-66/§9\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A79\">9</a>. De offentlige myndighetene som er angitt i <a data-id=\"lov/1999-07-16-66/§12\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A712\">§§ 12</a> og <a data-id=\"lov/1999-07-16-66/§13\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A713\">13</a>, har adgang til registrerte opplysninger for å ivareta disse formålene.",
+        "text": "Informasjonssystemet gir mulighet for registrering av personopplysninger og opplysninger om gjenstander innenfor de formål som følger av denne loven §§ 7 til 9. De offentlige myndighetene som er angitt i §§ 12 og 13, har adgang til registrerte opplysninger for å ivareta disse formålene."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 2.",
+        "text": "§ 2."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Ansvar for registeret. SIRENE</em>",
+        "text": "Ansvar for registeret. SIRENE"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Kriminalpolitisentralen (SIRENE) skal føre et register som er den norske delen av SIS. Registeret skal være tilsluttet den sentrale enheten av SIS. Kriminalpolitisentralen er registeransvarlig for opplysninger om personer og gjenstander i registeret, og skal bl.a sørge for at opplysninger som legges inn av norske myndigheter i SIS, er korrekte, oppdaterte og registrert på lovlig måte.",
+        "text": "Kriminalpolitisentralen (SIRENE) skal føre et register som er den norske delen av SIS. Registeret skal være tilsluttet den sentrale enheten av SIS. Kriminalpolitisentralen er registeransvarlig for opplysninger om personer og gjenstander i registeret, og skal bl.a sørge for at opplysninger som legges inn av norske myndigheter i SIS, er korrekte, oppdaterte og registrert på lovlig måte."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 3.",
+        "text": "§ 3."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Informasjonssikkerhet</em>",
+        "text": "Informasjonssikkerhet"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registeransvarlige og databehandleren skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av personopplysninger i SIS.",
+        "text": "Den registeransvarlige og databehandleren skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av personopplysninger i SIS."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "For å oppnå tilfredsstillende informasjonssikkerhet skal informasjonssystemet og sikkerhetstiltakene dokumenteres. Dokumentasjon skal være tilgjengelig for medarbeiderne hos den registeransvarlige og databehandleren. Dokumentasjonen skal også være tilgjengelig for Datatilsynet. De ansatte i Datatilsynet eller andre som utfører tjeneste for tilsynsmyndigheten, skal hindre at uvedkommende får tilgang til opplysninger om sikkerhetstiltakene.",
+        "text": "For å oppnå tilfredsstillende informasjonssikkerhet skal informasjonssystemet og sikkerhetstiltakene dokumenteres. Dokumentasjon skal være tilgjengelig for medarbeiderne hos den registeransvarlige og databehandleren. Dokumentasjonen skal også være tilgjengelig for Datatilsynet. De ansatte i Datatilsynet eller andre som utfører tjeneste for tilsynsmyndigheten, skal hindre at uvedkommende får tilgang til opplysninger om sikkerhetstiltakene."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Dersom den registeransvarlige gir andre tilgang til personopplysninger, som f.eks. en databehandler eller andre som utfører oppdrag i tilknytning til informasjonssystemet, skal den registeransvarlige påse at disse oppfyller kravene i første og annet ledd.",
+        "text": "Dersom den registeransvarlige gir andre tilgang til personopplysninger, som f.eks. en databehandler eller andre som utfører oppdrag i tilknytning til informasjonssystemet, skal den registeransvarlige påse at disse oppfyller kravene i første og annet ledd."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 4.",
+        "text": "§ 4."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Internkontroll</em>",
+        "text": "Internkontroll"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registeransvarlige skal etablere og holde vedlike planlagte og systematiske tiltak som er nødvendige for å oppfylle kravene i eller i medhold av denne loven.",
+        "text": "Den registeransvarlige skal etablere og holde vedlike planlagte og systematiske tiltak som er nødvendige for å oppfylle kravene i eller i medhold av denne loven."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registeransvarlige skal dokumentere tiltakene. Dokumentasjonen skal også gjøres tilgjengelig for medarbeiderne hos den registeransvarlige og dennes databehandler.",
+        "text": "Den registeransvarlige skal dokumentere tiltakene. Dokumentasjonen skal også gjøres tilgjengelig for medarbeiderne hos den registeransvarlige og dennes databehandler."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 5.",
+        "text": "§ 5."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Generelle vilkår for registrering</em>",
+        "text": "Generelle vilkår for registrering"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Det kan bare registreres opplysninger som nevnt i <a data-id=\"lov/1999-07-16-66/§6\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A76\">§ 6</a> når det er nødvendig for å oppnå et av formålene som nevnt i <a data-id=\"lov/1999-07-16-66/§7\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A77\">§§ 7</a> til <a data-id=\"lov/1999-07-16-66/§9\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A79\">9</a> og den konkrete sakens betydning tilsier at opplysningene bør registreres.",
+        "text": "Det kan bare registreres opplysninger som nevnt i § 6 når det er nødvendig for å oppnå et av formålene som nevnt i §§ 7 til 9 og den konkrete sakens betydning tilsier at opplysningene bør registreres."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Registreringen av opplysningene må være besluttet av kompetent myndighet før meldingen kontrolleres og legges inn av den registeransvarlige.",
+        "text": "Registreringen av opplysningene må være besluttet av kompetent myndighet før meldingen kontrolleres og legges inn av den registeransvarlige."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Ved registrering av melding med anmodning om pågripelse, jf. <a data-id=\"lov/1999-07-16-66/§7\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A77\">§ 7</a> nr. 1, skal det kontrolleres om den nasjonale lovgivningen hos de konvensjonspartene som anmodningen rettes til, gir hjemmel for pågripelse.",
+        "text": "Ved registrering av melding med anmodning om pågripelse, jf. § 7 nr. 1, skal det kontrolleres om den nasjonale lovgivningen hos de konvensjonspartene som anmodningen rettes til, gir hjemmel for pågripelse."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 6.",
+        "text": "§ 6."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Opplysninger som kan registreres</em>",
+        "text": "Opplysninger som kan registreres"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Om personer kan det bare registreres",
+        "text": "Om personer kan det bare registreres"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">etternavn og fornavn, med henvisning til eventuelt særskilt registrert aliasnavn</td></tr>",
+        "text": "a)\tetternavn og fornavn, med henvisning til eventuelt særskilt registrert aliasnavn"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">særlige fysiske kjennetegn av objektiv og uforanderlig art</td></tr>",
+        "text": "b)\tsærlige fysiske kjennetegn av objektiv og uforanderlig art"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">første bokstav i andre fornavn</td></tr>",
+        "text": "c)\tførste bokstav i andre fornavn"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">fødselsdato og fødested</td></tr>",
+        "text": "d)\tfødselsdato og fødested"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">kjønn</td></tr>",
+        "text": "e)\tkjønn"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">statsborgerskap</td></tr>",
+        "text": "f)\tstatsborgerskap"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">g)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">angivelse av om vedkommende er bevæpnet</td></tr>",
+        "text": "g)\tangivelse av om vedkommende er bevæpnet"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">h)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">angivelse av om vedkommende anses som voldelig</td></tr>",
+        "text": "h)\tangivelse av om vedkommende anses som voldelig"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">i)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">begrunnelse for meldingen</td></tr>",
+        "text": "i)\tbegrunnelse for meldingen"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">j)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">hvilke tiltak som skal iverksettes.</td></tr>",
+        "text": "j)\thvilke tiltak som skal iverksettes."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Det kan også registreres opplysninger om følgende gjenstander:",
+        "text": "Det kan også registreres opplysninger om følgende gjenstander:"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stjålne eller på annen måte forsvunne motorkjøretøyer med et sylindervolum på over 50 ccm</td></tr>",
+        "text": "a)\tstjålne eller på annen måte forsvunne motorkjøretøyer med et sylindervolum på over 50 ccm"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stjålne eller på annen måte forsvunne tilhengere og campingvogner med en egenvekt på over 750 kg</td></tr>",
+        "text": "b)\tstjålne eller på annen måte forsvunne tilhengere og campingvogner med en egenvekt på over 750 kg"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stjålne eller på annen måte forsvunne skytevåpen</td></tr>",
+        "text": "c)\tstjålne eller på annen måte forsvunne skytevåpen"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stjålne eller på annen måte forsvunne blankodokumenter</td></tr>",
+        "text": "d)\tstjålne eller på annen måte forsvunne blankodokumenter"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">stjålne eller på annen måte forsvunne legitimasjonsdokumenter (pass, identitetskort, førerkort)</td></tr>",
+        "text": "e)\tstjålne eller på annen måte forsvunne legitimasjonsdokumenter (pass, identitetskort, førerkort)"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">f)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">pengesedler (med registrerte nummer).</td></tr>",
+        "text": "f)\tpengesedler (med registrerte nummer)."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 7.",
+        "text": "§ 7."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Vilkår for å registrere opplysninger om personer</em>",
+        "text": "Vilkår for å registrere opplysninger om personer"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Det er adgang til å registrere",
+        "text": "Det er adgang til å registrere"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om personer som ettersøkes med henblikk på pågripelse og utlevering</td></tr>",
+        "text": "1.\topplysninger om personer som ettersøkes med henblikk på pågripelse og utlevering"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om personer som ikke skal gis tillatelse til innreise fordi</td></tr>",
+        "text": "2.\topplysninger om personer som ikke skal gis tillatelse til innreise fordi"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det i forbindelse med utvisning etter <a data-id=\"lov/2008-05-15-35/§29\" class=\" reference\" href=\"/lov/2008-05-15-35/%C2%A729\">utlendingsloven § 29</a> første ledd bokstav a er truffet vedtak om innreiseforbud, og vedtaket fortsatt er gjeldende, eller</td></tr>",
+        "text": "a)\tdet i forbindelse med utvisning etter utlendingsloven § 29 første ledd bokstav a er truffet vedtak om innreiseforbud, og vedtaket fortsatt er gjeldende, eller"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">det i forbindelse med utvisning etter <a data-id=\"lov/2008-05-15-35/§29\" class=\" reference\" href=\"/lov/2008-05-15-35/%C2%A729\">utlendingsloven § 29</a> første ledd bokstav b, c eller d er truffet vedtak om innreiseforbud som fortsatt er gjeldende, og som bygger på at vedkommendes opphold i Norge kan utgjøre en fare for den offentlige orden eller sikkerhet eller statens sikkerhet.</td></tr>",
+        "text": "b)\tdet i forbindelse med utvisning etter utlendingsloven § 29 første ledd bokstav b, c eller d er truffet vedtak om innreiseforbud som fortsatt er gjeldende, og som bygger på at vedkommendes opphold i Norge kan utgjøre en fare for den offentlige orden eller sikkerhet eller statens sikkerhet."
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">3.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om personer som er savnet eller som av hensyn til sin egen sikkerhet eller for å forebygge farer må bringes midlertidig i forvaring</td></tr>",
+        "text": "3.\topplysninger om personer som er savnet eller som av hensyn til sin egen sikkerhet eller for å forebygge farer må bringes midlertidig i forvaring"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">4.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">opplysninger om vitner, personer som er innstevnet for en domstol for egne handlinger i en straffesak eller om personer som vil få forkynt straffedom, eller innkalles til soning av frihetsstraff, for å få kjennskap til oppholdssted eller bopel.</td></tr>",
+        "text": "4.\topplysninger om vitner, personer som er innstevnet for en domstol for egne handlinger i en straffesak eller om personer som vil få forkynt straffedom, eller innkalles til soning av frihetsstraff, for å få kjennskap til oppholdssted eller bopel."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 8.",
+        "text": "§ 8."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Vilkår for å registrere opplysninger om personer og kjøretøyer med henblikk på observasjon eller målrettet kontroll</em>",
+        "text": "Vilkår for å registrere opplysninger om personer og kjøretøyer med henblikk på observasjon eller målrettet kontroll"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Det er adgang til å registrere opplysninger om personer eller kjøretøyer med henblikk på observasjon eller målrettet kontroll",
+        "text": "Det er adgang til å registrere opplysninger om personer eller kjøretøyer med henblikk på observasjon eller målrettet kontroll"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">1.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">for å bekjempe straffbare handlinger og forebygge trusler mot den offentlige sikkerhet</td></tr>",
+        "text": "1.\tfor å bekjempe straffbare handlinger og forebygge trusler mot den offentlige sikkerhet"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">når det foreligger konkrete holdepunkter for å anta at vedkommende person planlegger å begå eller begår et større antall og særdeles alvorlige straffbare handlinger, eller</td></tr>",
+        "text": "a)\tnår det foreligger konkrete holdepunkter for å anta at vedkommende person planlegger å begå eller begår et større antall og særdeles alvorlige straffbare handlinger, eller"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"2\" class=\"morTag_nn leftMargin_2 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent10\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">når det ut fra en samlet vurdering av vedkommende person, særlig på grunnlag av tidligere begåtte straffbare handlinger, må antas at vedkommende også i fremtiden vil begå særdeles alvorlige straffbare handlinger.</td></tr>",
+        "text": "b)\tnår det ut fra en samlet vurdering av vedkommende person, særlig på grunnlag av tidligere begåtte straffbare handlinger, må antas at vedkommende også i fremtiden vil begå særdeles alvorlige straffbare handlinger."
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">2.\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">når det foreligger konkrete holdepunkter for å anta at opplysninger om tilholdssted, reiserute, bestemmelsessted, passasjerer, medbrakte gjenstander eller omstendigheter knyttet til gjenfinning av personen eller kjøretøyet er nødvendig for å forebygge en alvorlig trussel fra vedkommende persons side eller andre alvorlige trusler mot statens indre eller ytre sikkerhet.</td></tr>",
+        "text": "2.\tnår det foreligger konkrete holdepunkter for å anta at opplysninger om tilholdssted, reiserute, bestemmelsessted, passasjerer, medbrakte gjenstander eller omstendigheter knyttet til gjenfinning av personen eller kjøretøyet er nødvendig for å forebygge en alvorlig trussel fra vedkommende persons side eller andre alvorlige trusler mot statens indre eller ytre sikkerhet."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 9.",
+        "text": "§ 9."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Vilkår for å registrere opplysninger om gjenstander</em>",
+        "text": "Vilkår for å registrere opplysninger om gjenstander"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Det er adgang til å registrere opplysninger om gjenstander som ettersøkes for beslag eller som bevis i en straffesak.",
+        "text": "Det er adgang til å registrere opplysninger om gjenstander som ettersøkes for beslag eller som bevis i en straffesak."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 10.",
+        "text": "§ 10."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Begrenset adgang til å benytte opplysningene for andre formål</em>",
+        "text": "Begrenset adgang til å benytte opplysningene for andre formål"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Opplysningene som er registrert i SIS, kan ikke benyttes til andre formål enn det som er fastsatt for den enkelte registrering i henhold til <a data-id=\"lov/1999-07-16-66/§7\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A77\">§§ 7</a> til <a data-id=\"lov/1999-07-16-66/§9\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A79\">9</a>.",
+        "text": "Opplysningene som er registrert i SIS, kan ikke benyttes til andre formål enn det som er fastsatt for den enkelte registrering i henhold til §§ 7 til 9."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Uten hinder av første ledd kan man benytte opplysninger til et annet formål som nevnt i <a data-id=\"lov/1999-07-16-66/§7\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A77\">§§ 7</a> til 9 når det er nødvendig for å forebygge",
+        "text": "Uten hinder av første ledd kan man benytte opplysninger til et annet formål som nevnt i §§ 7 til 9 når det er nødvendig for å forebygge"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">en overhengende fare for den offentlige orden og sikkerhet,</td></tr>",
+        "text": "a)\ten overhengende fare for den offentlige orden og sikkerhet,"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">en alvorlig trussel mot rikets sikkerhet, eller</td></tr>",
+        "text": "b)\ten alvorlig trussel mot rikets sikkerhet, eller"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">en alvorlig straffbar handling,</td></tr>",
+        "text": "c)\ten alvorlig straffbar handling,"
+    },
+    {
+        "tag": "p",
+        "class": "marg",
+        "html": "og det er innhentet tillatelse fra den staten som har lagt inn opplysningene.",
+        "text": "og det er innhentet tillatelse fra den staten som har lagt inn opplysningene."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 11.",
+        "text": "§ 11."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Overføring av opplysninger som ikke formidles via SIS</em>",
+        "text": "Overføring av opplysninger som ikke formidles via SIS"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Overføring av supplerende opplysninger som ikke formidles via SIS og som hentes fra andre politiregistre, reguleres av strafferegistreringsloven og personregisterloven.",
+        "text": "Overføring av supplerende opplysninger som ikke formidles via SIS og som hentes fra andre politiregistre, reguleres av strafferegistreringsloven og personregisterloven."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 12.",
+        "text": "§ 12."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Tilgang til SIS/bemyndigelse</em>",
+        "text": "Tilgang til SIS/bemyndigelse"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Følgende myndigheter har tilgang (rett til direkte søk) til SIS:",
+        "text": "Følgende myndigheter har tilgang (rett til direkte søk) til SIS:"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">politimyndighet når den utøver grensekontroll og annen kontroll</td></tr>",
+        "text": "a)\tpolitimyndighet når den utøver grensekontroll og annen kontroll"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utlendingsmyndighet med ansvar for behandling av visumsøknader, behandling av tillatelser til opphold, og ellers ved håndheving av utlendingsloven med hensyn til de opplysninger som er lagt inn i medhold av <a data-id=\"lov/1999-07-16-66/§7\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A77\">§ 7</a> nr. 2 for å gjennomføre bestemmelsene om personbevegelse i konvensjonen om gjennomføring av Schengenavtalen.</td></tr>",
+        "text": "b)\tutlendingsmyndighet med ansvar for behandling av visumsøknader, behandling av tillatelser til opphold, og ellers ved håndheving av utlendingsloven med hensyn til de opplysninger som er lagt inn i medhold av § 7 nr. 2 for å gjennomføre bestemmelsene om personbevegelse i konvensjonen om gjennomføring av Schengenavtalen."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Tilgang til registeret skal kun gis til personer som har fått særskilt bemyndigelse. Brukerne kan bare søke etter de opplysninger som er nødvendige for å ivareta deres oppgaver.",
+        "text": "Tilgang til registeret skal kun gis til personer som har fått særskilt bemyndigelse. Brukerne kan bare søke etter de opplysninger som er nødvendige for å ivareta deres oppgaver."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 13.",
+        "text": "§ 13."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Utlevering av opplysninger fra SIS</em>",
+        "text": "Utlevering av opplysninger fra SIS"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Opplysninger om personer og gjenstander kan etter begjæring utleveres fra registeret til:",
+        "text": "Opplysninger om personer og gjenstander kan etter begjæring utleveres fra registeret til:"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">politi- og tollmyndighet samt Kystvakten når den utøver grensekontroll</td></tr>",
+        "text": "a)\tpoliti- og tollmyndighet samt Kystvakten når den utøver grensekontroll"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">politi- og tollmyndighet når den foretar annen kontroll enn grensekontroll, samt Kystvakten når den utøver oppgaver som ellers er tillagt politi- og tollmyndighet</td></tr>",
+        "text": "b)\tpoliti- og tollmyndighet når den foretar annen kontroll enn grensekontroll, samt Kystvakten når den utøver oppgaver som ellers er tillagt politi- og tollmyndighet"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">utlendingsmyndighet i saker som nevnt i <a data-id=\"lov/1999-07-16-66/§12\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A712\">§ 12</a> første ledd bokstav b</td></tr>",
+        "text": "c)\tutlendingsmyndighet i saker som nevnt i § 12 første ledd bokstav b"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">departementet i forbindelse med utøvelse av overordnet myndighet.</td></tr>",
+        "text": "d)\tdepartementet i forbindelse med utøvelse av overordnet myndighet."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Det kan bare utleveres opplysninger som er nødvendig for å ivareta mottakerens oppgaver.",
+        "text": "Det kan bare utleveres opplysninger som er nødvendig for å ivareta mottakerens oppgaver."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 14.",
+        "text": "§ 14."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Taushetsplikt</em>",
+        "text": "Taushetsplikt"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Enhver som under utøvelse av tjeneste eller arbeid får adgang eller kjennskap til opplysninger fra SIS, plikter å hindre at uvedkommende får kjennskap til disse.",
+        "text": "Enhver som under utøvelse av tjeneste eller arbeid får adgang eller kjennskap til opplysninger fra SIS, plikter å hindre at uvedkommende får kjennskap til disse."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "<a data-id=\"lov/1967-02-10/§13\" class=\" reference\" href=\"/lov/1967-02-10/%C2%A713\">Forvaltningsloven §§ 13</a> – 13 d gjelder ikke.",
+        "text": "Forvaltningsloven §§ 13 – 13 d gjelder ikke."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 15.",
+        "text": "§ 15."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Innsyn</em>",
+        "text": "Innsyn"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registrerte har rett til å få opplyst hvilke opplysninger om seg selv som er registrert i SIS.",
+        "text": "Den registrerte har rett til å få opplyst hvilke opplysninger om seg selv som er registrert i SIS."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registrerte kan ikke få innsyn i opplysninger dersom det kan skade gjennomføringen av det tiltaket det er anmodet om, eller dersom vernet av andre personer tilsier det. Innsyn skal alltid nektes i det tidsrommet det er anmodet om observasjon.",
+        "text": "Den registrerte kan ikke få innsyn i opplysninger dersom det kan skade gjennomføringen av det tiltaket det er anmodet om, eller dersom vernet av andre personer tilsier det. Innsyn skal alltid nektes i det tidsrommet det er anmodet om observasjon."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Begjæring om innsyn fremsettes for den registeransvarlige eller den myndighet som har besluttet registrering, men avgjøres av den registeransvarlige. Dersom meldingen det begjæres innsyn i, er lagt inn av en annen konvensjonspart, plikter den registeransvarlige å gi denne konvensjonsparten anledning til å uttale seg før innsyn gis.",
+        "text": "Begjæring om innsyn fremsettes for den registeransvarlige eller den myndighet som har besluttet registrering, men avgjøres av den registeransvarlige. Dersom meldingen det begjæres innsyn i, er lagt inn av en annen konvensjonspart, plikter den registeransvarlige å gi denne konvensjonsparten anledning til å uttale seg før innsyn gis."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 16.",
+        "text": "§ 16."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Retting og sletting av uriktige opplysninger</em>",
+        "text": "Retting og sletting av uriktige opplysninger"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registrerte kan kreve rettet uriktige eller ufullstendige opplysninger om seg selv eller få slettet opplysninger beheftet med rettslige feil. Det samme gjelder opplysninger det ikke er adgang til å registrere.",
+        "text": "Den registrerte kan kreve rettet uriktige eller ufullstendige opplysninger om seg selv eller få slettet opplysninger beheftet med rettslige feil. Det samme gjelder opplysninger det ikke er adgang til å registrere."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Dersom det er registrert opplysninger som er uriktige, ufullstendige eller som det ikke er adgang til å registrere, skal den registeransvarlige på begjæring av den registrerte eller av eget tiltak sørge for at opplysningene rettes, suppleres eller slettes.",
+        "text": "Dersom det er registrert opplysninger som er uriktige, ufullstendige eller som det ikke er adgang til å registrere, skal den registeransvarlige på begjæring av den registrerte eller av eget tiltak sørge for at opplysningene rettes, suppleres eller slettes."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registeransvarlige skal så vidt mulig sørge for at feilen ikke får betydning for den registrerte, f.eks. ved å varsle mottakere av utleverte opplysninger.",
+        "text": "Den registeransvarlige skal så vidt mulig sørge for at feilen ikke får betydning for den registrerte, f.eks. ved å varsle mottakere av utleverte opplysninger."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Dersom registrerte opplysninger som nevnt i annet ledd er lagt inn av en annen konvensjonspart, skal den registeransvarlige uten opphold underrette denne konvensjonsparten med anmodning om å rette, supplere eller slette opplysningene. Dersom anmodningen ikke blir etterkommet, kan den registrerte bringe saken inn for departementet som klagesak.",
+        "text": "Dersom registrerte opplysninger som nevnt i annet ledd er lagt inn av en annen konvensjonspart, skal den registeransvarlige uten opphold underrette denne konvensjonsparten med anmodning om å rette, supplere eller slette opplysningene. Dersom anmodningen ikke blir etterkommet, kan den registrerte bringe saken inn for departementet som klagesak."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Begjæring om retting eller sletting fremsettes for den registeransvarlige eller den myndighet som har besluttet registrering, men avgjøres av den registeransvarlige.",
+        "text": "Begjæring om retting eller sletting fremsettes for den registeransvarlige eller den myndighet som har besluttet registrering, men avgjøres av den registeransvarlige."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 17.",
+        "text": "§ 17."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Krav til behandling av begjæringer om innsyn, retting eller sletting</em>",
+        "text": "Krav til behandling av begjæringer om innsyn, retting eller sletting"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Begjæringer om innsyn eller om retting og sletting skal besvares skriftlig uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn.",
+        "text": "Begjæringer om innsyn eller om retting og sletting skal besvares skriftlig uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Dersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Det skal i så fall gis et foreløpig svar med angivelse av sannsynlig tidspunkt for når svar kan gis.",
+        "text": "Dersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Det skal i så fall gis et foreløpig svar med angivelse av sannsynlig tidspunkt for når svar kan gis."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registrerte kan pålegges å legge frem en skriftlig og undertegnet begjæring.",
+        "text": "Den registrerte kan pålegges å legge frem en skriftlig og undertegnet begjæring."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 18.",
+        "text": "§ 18."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Erstatning</em>",
+        "text": "Erstatning"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "En person har krav på erstatning for skade som er påført som følge av at opplysninger er registrert eller brukt i strid med reglene for behandling av opplysninger i SIS. Dette gjelder uten hensyn til om det er utvist skyld av den registeransvarlige eller dennes databehandler eller av noen annen som har truffet beslutning eller lagt inn melding om registrering.",
+        "text": "En person har krav på erstatning for skade som er påført som følge av at opplysninger er registrert eller brukt i strid med reglene for behandling av opplysninger i SIS. Dette gjelder uten hensyn til om det er utvist skyld av den registeransvarlige eller dennes databehandler eller av noen annen som har truffet beslutning eller lagt inn melding om registrering."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Erstatningen skal svare til det økonomiske tap som den registrerte er påført ved den ulovlige registreringen eller bruken av opplysningene. Erstatningen kan også omfatte erstatning for krenkelse eller annen skade av ikke-økonomisk art (oppreisning) i den utstrekning dette finnes rimelig.",
+        "text": "Erstatningen skal svare til det økonomiske tap som den registrerte er påført ved den ulovlige registreringen eller bruken av opplysningene. Erstatningen kan også omfatte erstatning for krenkelse eller annen skade av ikke-økonomisk art (oppreisning) i den utstrekning dette finnes rimelig."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Krav om erstatning fremsettes for den registeransvarlige eller den myndighet som har besluttet registrering, men behandles av den registeransvarlige. Krav om erstatning må fremsettes senest ett år etter at den skadelidte er blitt kjent med registreringen. Når krav fremsettes etter at en person har vært siktet i en straffesak, gjelder likevel behandlingsreglene i <a data-id=\"lov/1981-05-22-25/kap31\" class=\" reference\" href=\"/lov/1981-05-22-25/kap31\">straffeprosessloven kapittel 31</a>. <a data-id=\"lov/1981-05-22-25/§444\" class=\" reference\" href=\"/lov/1981-05-22-25/%C2%A7444\">Straffeprosessloven § 444</a>, <a data-id=\"lov/1981-05-22-25/§445\" class=\" reference\" href=\"/lov/1981-05-22-25/%C2%A7445\">§ 445</a> og <a data-id=\"lov/1981-05-22-25/§446\" class=\" reference\" href=\"/lov/1981-05-22-25/%C2%A7446\">§ 446</a> gjelder ikke for krav om erstatning etter bestemmelsen her.",
+        "text": "Krav om erstatning fremsettes for den registeransvarlige eller den myndighet som har besluttet registrering, men behandles av den registeransvarlige. Krav om erstatning må fremsettes senest ett år etter at den skadelidte er blitt kjent med registreringen. Når krav fremsettes etter at en person har vært siktet i en straffesak, gjelder likevel behandlingsreglene i straffeprosessloven kapittel 31. Straffeprosessloven § 444, § 445 og § 446 gjelder ikke for krav om erstatning etter bestemmelsen her."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 19.",
+        "text": "§ 19."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Klageadgang</em>",
+        "text": "Klageadgang"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registrerte kan påklage avgjørelse om innsyn, retting eller sletting og erstatning til departementet.",
+        "text": "Den registrerte kan påklage avgjørelse om innsyn, retting eller sletting og erstatning til departementet."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Ved klagebehandling i saker som gjelder innsyn, retting eller sletting, skal departementet forelegge saken for Datatilsynet til uttalelse før klagesaken avgjøres.",
+        "text": "Ved klagebehandling i saker som gjelder innsyn, retting eller sletting, skal departementet forelegge saken for Datatilsynet til uttalelse før klagesaken avgjøres."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "<a data-id=\"lov/1967-02-10/kapvi\" class=\" reference\" href=\"/lov/1967-02-10/kapvi\">Forvaltningsloven kapittel VI</a> gjelder tilsvarende så langt det passer.",
+        "text": "Forvaltningsloven kapittel VI gjelder tilsvarende så langt det passer."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 20.",
+        "text": "§ 20."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Sletting</em>",
+        "text": "Sletting"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Opplysninger om personer eller gjenstander som er lagt inn av den registeransvarlige, skal ikke oppbevares lenger enn det som er nødvendig for formålet med registreringen.",
+        "text": "Opplysninger om personer eller gjenstander som er lagt inn av den registeransvarlige, skal ikke oppbevares lenger enn det som er nødvendig for formålet med registreringen."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Opplysninger som er registrert i medhold av <a data-id=\"lov/1999-07-16-66/§7\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A77\">§ 7</a>, skal den registeransvarlige senest tre år etter registreringen ta stilling til om det er nødvendig å oppbevare.",
+        "text": "Opplysninger som er registrert i medhold av § 7, skal den registeransvarlige senest tre år etter registreringen ta stilling til om det er nødvendig å oppbevare."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Opplysninger som er registrert i medhold av <a data-id=\"lov/1999-07-16-66/§8\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A78\">§ 8</a>, skal den registeransvarlige senest ett år etter registreringen ta stilling til om det er nødvendig å oppbevare.",
+        "text": "Opplysninger som er registrert i medhold av § 8, skal den registeransvarlige senest ett år etter registreringen ta stilling til om det er nødvendig å oppbevare."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Hvis oppbevaringen forlenges, gjelder tilsvarende frister som nevnt i annet og tredje ledd for den forlengede registreringen.",
+        "text": "Hvis oppbevaringen forlenges, gjelder tilsvarende frister som nevnt i annet og tredje ledd for den forlengede registreringen."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Opplysninger om legitimasjonsdokumenter og pengesedler som er registrert i medhold av <a data-id=\"lov/1999-07-16-66/§9\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A79\">§ 9</a>, skal ikke oppbevares lenger enn fem år.",
+        "text": "Opplysninger om legitimasjonsdokumenter og pengesedler som er registrert i medhold av § 9, skal ikke oppbevares lenger enn fem år."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Opplysninger om motorkjøretøyer, tilhengere og campingvogner som er registrert i medhold av <a data-id=\"lov/1999-07-16-66/§9\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A79\">§ 9</a>, skal ikke oppbevares lenger enn tre år.",
+        "text": "Opplysninger om motorkjøretøyer, tilhengere og campingvogner som er registrert i medhold av § 9, skal ikke oppbevares lenger enn tre år."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Andre opplysninger enn de som er omhandlet i annet, tredje, femte og sjette ledd kan ikke oppbevares lenger enn ti år.",
+        "text": "Andre opplysninger enn de som er omhandlet i annet, tredje, femte og sjette ledd kan ikke oppbevares lenger enn ti år."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registeransvarlige skal etablere rutiner for å sikre at behovet for å slette opplysninger blir jevnlig vurdert.",
+        "text": "Den registeransvarlige skal etablere rutiner for å sikre at behovet for å slette opplysninger blir jevnlig vurdert."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 21.",
+        "text": "§ 21."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Datatilsynets oppgaver</em>",
+        "text": "Datatilsynets oppgaver"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Datatilsynet skal kontrollere at loven og forskrifter gitt i medhold av loven blir fulgt, og at feil eller mangler blir rettet.",
+        "text": "Datatilsynet skal kontrollere at loven og forskrifter gitt i medhold av loven blir fulgt, og at feil eller mangler blir rettet."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Datatilsynet kan etter begjæring fra den registrerte kontrollere om opplysningene om vedkommende i SIS er riktige, og om opplysningene er registrert og brukt i samsvar med denne loven. Dersom opplysningene er lagt inn i systemet av en annen konvensjonspart, skal kontrollen foretas i samråd med denne konvensjonspartens kontrollorgan.",
+        "text": "Datatilsynet kan etter begjæring fra den registrerte kontrollere om opplysningene om vedkommende i SIS er riktige, og om opplysningene er registrert og brukt i samsvar med denne loven. Dersom opplysningene er lagt inn i systemet av en annen konvensjonspart, skal kontrollen foretas i samråd med denne konvensjonspartens kontrollorgan."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 22.",
+        "text": "§ 22."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Datatilsynets tilgang til opplysninger</em>",
+        "text": "Datatilsynets tilgang til opplysninger"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Datatilsynet kan kreve de opplysningene som trengs for å gjennomføre sine oppgaver.",
+        "text": "Datatilsynet kan kreve de opplysningene som trengs for å gjennomføre sine oppgaver."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Datatilsynet kan som ledd i sin kontroll med at lovens regler etterleves kreve adgang til de steder der personopplysningene behandles og der det finnes hjelpemidler for behandlingen. Tilsynet kan gjennomføre de prøver eller kontroller som det mener er nødvendige og kreve bistand fra personalet på stedet i den grad dette må til for å få utført prøvene eller kontrollene.",
+        "text": "Datatilsynet kan som ledd i sin kontroll med at lovens regler etterleves kreve adgang til de steder der personopplysningene behandles og der det finnes hjelpemidler for behandlingen. Tilsynet kan gjennomføre de prøver eller kontroller som det mener er nødvendige og kreve bistand fra personalet på stedet i den grad dette må til for å få utført prøvene eller kontrollene."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Rett til å kreve opplysninger eller tilgang til lokaler og hjelpemidler i henhold til første og annet ledd er ikke begrenset av bestemmelser om taushetsplikt.",
+        "text": "Rett til å kreve opplysninger eller tilgang til lokaler og hjelpemidler i henhold til første og annet ledd er ikke begrenset av bestemmelser om taushetsplikt."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 23.",
+        "text": "§ 23."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Pålegg om endring eller opphør av ulovlige behandlinger</em>",
+        "text": "Pålegg om endring eller opphør av ulovlige behandlinger"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Datatilsynet kan gi den registeransvarlige pålegg om at behandling av opplysninger i strid med denne loven skal opphøre eller stille vilkår som må oppfylles for at behandlingen skal være i samsvar med loven. Datatilsynet kan likevel ikke gi innsyn i opplysninger som er registrert etter <a data-id=\"lov/1999-07-16-66/§7\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A77\">§ 7</a> nr. 1 eller <a data-id=\"lov/1999-07-16-66/§8\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A78\">§ 8</a> når den registeransvarlige avslår å gi innsyn under henvisning til <a data-id=\"lov/1999-07-16-66/§15\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A715\">§ 15</a> annet ledd.",
+        "text": "Datatilsynet kan gi den registeransvarlige pålegg om at behandling av opplysninger i strid med denne loven skal opphøre eller stille vilkår som må oppfylles for at behandlingen skal være i samsvar med loven. Datatilsynet kan likevel ikke gi innsyn i opplysninger som er registrert etter § 7 nr. 1 eller § 8 når den registeransvarlige avslår å gi innsyn under henvisning til § 15 annet ledd."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Datatilsynets vedtak etter første ledd kan ikke påklages.",
+        "text": "Datatilsynets vedtak etter første ledd kan ikke påklages."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 24.",
+        "text": "§ 24."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Særregler om meldinger lagt inn av en annen konvensjonspart</em>",
+        "text": "Særregler om meldinger lagt inn av en annen konvensjonspart"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Dersom Datatilsynets pålegg eller vedtak truffet av departementet gjelder en melding som er lagt inn av en annen konvensjonspart, skal den registeransvarlige oversende avgjørelsen til denne konvensjonsparten med anmodning om fullbyrdelse.",
+        "text": "Dersom Datatilsynets pålegg eller vedtak truffet av departementet gjelder en melding som er lagt inn av en annen konvensjonspart, skal den registeransvarlige oversende avgjørelsen til denne konvensjonsparten med anmodning om fullbyrdelse."
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Den registeransvarlige skal fullbyrde endelige avgjørelser truffet av andre konvensjonsparters myndigheter som gjelder meldinger lagt inn av norske myndigheter.",
+        "text": "Den registeransvarlige skal fullbyrde endelige avgjørelser truffet av andre konvensjonsparters myndigheter som gjelder meldinger lagt inn av norske myndigheter."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 25.",
+        "text": "§ 25."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Forskrifter</em>",
+        "text": "Forskrifter"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Kongen kan gi forskrifter om:",
+        "text": "Kongen kan gi forskrifter om:"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">a)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">beslutningskompetanse og saksbehandlingsregler, jf. <a data-id=\"lov/1999-07-16-66/§5\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A75\">§ 5</a></td></tr>",
+        "text": "a)\tbeslutningskompetanse og saksbehandlingsregler, jf. § 5"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">b)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">bemyndigelse av personell som skal ha tilgang til registeret, jf. <a data-id=\"lov/1999-07-16-66/§12\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A712\">§ 12</a></td></tr>",
+        "text": "b)\tbemyndigelse av personell som skal ha tilgang til registeret, jf. § 12"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">c)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">saksbehandlingsregler, jf. <a data-id=\"lov/1999-07-16-66/§14\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A714\">§§ 14</a> – 20 og 24</td></tr>",
+        "text": "c)\tsaksbehandlingsregler, jf. §§ 14 – 20 og 24"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">d)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">informasjonssikkerheten, herunder bl.a om organisatoriske og tekniske sikkerhetstiltak, jf. <a data-id=\"lov/1999-07-16-66/§3\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A73\">§ 3</a></td></tr>",
+        "text": "d)\tinformasjonssikkerheten, herunder bl.a om organisatoriske og tekniske sikkerhetstiltak, jf. § 3"
+    },
+    {
+        "tag": "table",
+        "class": "listeItem avsnitt",
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">e)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">gjennomføring av internkontroll, jf. <a data-id=\"lov/1999-07-16-66/§4\" class=\" reference\" href=\"/lov/1999-07-16-66/%C2%A74\">§ 4</a>.</td></tr>",
+        "text": "e)\tgjennomføring av internkontroll, jf. § 4."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 26.",
+        "text": "§ 26."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Geografisk virkeområde</em>",
+        "text": "Geografisk virkeområde"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Denne loven gjelder ikke for Svalbard.",
+        "text": "Denne loven gjelder ikke for Svalbard."
+    },
+    null,
+    {
+        "tag": "span",
+        "class": "paragrafValue",
+        "html": "§ 27.",
+        "text": "§ 27."
+    },
+    {
+        "tag": "span",
+        "class": "paragrafTittel",
+        "html": "<em class=\" \">Ikrafttredelse</em>",
+        "text": "Ikrafttredelse"
+    },
+    {
+        "tag": "p",
+        "class": "avsnitt",
+        "html": "Loven trer i kraft fra den tid Kongen bestemmer.",
+        "text": "Loven trer i kraft fra den tid Kongen bestemmer."
+    }
+]
