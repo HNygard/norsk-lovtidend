@@ -110,20 +110,20 @@
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "under henvisning til forslag fra Kommisjonen,<sup class=\" fotnoteref\" id=\"fotnoteref_1\">​1</sup>",
-        "text": "under henvisning til forslag fra Kommisjonen,​1"
+        "html": "under henvisning til forslag fra Kommisjonen,\\[fotnote 1]",
+        "text": "under henvisning til forslag fra Kommisjonen,\\[fotnote 1]"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "under henvisning til uttalelse fra Den økonomiske og sosiale komité,<sup class=\" fotnoteref\" id=\"fotnoteref_2\">​2</sup>",
-        "text": "under henvisning til uttalelse fra Den økonomiske og sosiale komité,​2"
+        "html": "under henvisning til uttalelse fra Den økonomiske og sosiale komité,\\[fotnote 2]",
+        "text": "under henvisning til uttalelse fra Den økonomiske og sosiale komité,\\[fotnote 2]"
     },
     {
         "tag": "p",
         "class": "avsnitt",
-        "html": "etter framgangsmåten fastsatt i traktatens artikkel 189 C<sup class=\" fotnoteref\" id=\"fotnoteref_3\">​3</sup> og",
-        "text": "etter framgangsmåten fastsatt i traktatens artikkel 189 C​3 og"
+        "html": "etter framgangsmåten fastsatt i traktatens artikkel 189 C\\[fotnote 3] og",
+        "text": "etter framgangsmåten fastsatt i traktatens artikkel 189 C\\[fotnote 3] og"
     },
     {
         "tag": "p",
@@ -188,8 +188,8 @@
     {
         "tag": "table",
         "class": "listeItem avsnitt",
-        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(10)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det er nødvendig å klargjøre de forpliktelser som følger av denne forordning på bakgrunn av artikkel 7 i rådsforordning (EØF) nr. 2407/92 av 23. juli 1992 om lisenser til luftfartsselskaper.<sup class=\" fotnoteref\" id=\"fotnoteref_4\">​4</sup> I så henseende bør EF-luftfartsselskaper være forsikret opptil en viss grense fastsatt i denne forordning.</td></tr>",
-        "text": "(10)\tDet er nødvendig å klargjøre de forpliktelser som følger av denne forordning på bakgrunn av artikkel 7 i rådsforordning (EØF) nr. 2407/92 av 23. juli 1992 om lisenser til luftfartsselskaper.​4 I så henseende bør EF-luftfartsselskaper være forsikret opptil en viss grense fastsatt i denne forordning."
+        "html": "<tr><td data-level=\"1\" class=\"morTag_n leftMargin_1 listeitemNummer morTableVerticalAlignTop morTableAlignRight morTableWidthPercent5\">(10)\t</td><td class=\" morTableVerticalAlignTop morTableAlignLeft\">Det er nødvendig å klargjøre de forpliktelser som følger av denne forordning på bakgrunn av artikkel 7 i rådsforordning (EØF) nr. 2407/92 av 23. juli 1992 om lisenser til luftfartsselskaper.\\[fotnote 4] I så henseende bør EF-luftfartsselskaper være forsikret opptil en viss grense fastsatt i denne forordning.</td></tr>",
+        "text": "(10)\tDet er nødvendig å klargjøre de forpliktelser som følger av denne forordning på bakgrunn av artikkel 7 i rådsforordning (EØF) nr. 2407/92 av 23. juli 1992 om lisenser til luftfartsselskaper.\\[fotnote 4] I så henseende bør EF-luftfartsselskaper være forsikret opptil en viss grense fastsatt i denne forordning."
     },
     {
         "tag": "table",
