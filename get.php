@@ -33,7 +33,7 @@ $obj->itemCountNationalRegulations = 0;
 $obj->itemCountLocalRegulations = 0;
 $obj->announcementsPerYear = array();
 
-for($year = date('Y'); $year >= 2001; $year--) {
+for($year = date('Y'); $year >= 1980; $year--) {
     if (isset($argv[1]) && $year != $argv[1]) {
         continue;
     }
@@ -64,6 +64,12 @@ for($year = date('Y'); $year >= 2001; $year--) {
 		logInfo('-------- ' .$baseUrl . '?year=' . $year . '&offset=' . $offset);
 		logInfo($cache_location . '/' . $year . '/paged-list/offset-' . $offset . '.html');
 		$items = readItems($mainPage);
+		
+		if ($items == null) {
+			logInfo($year . ' - No items.');
+			break;
+		}
+		
 		logInfo($year . ' - Offset ' . $offset . ' of ' .  $items['lastItem'] . ' - ' . $items['pages']);
 		$offset = $offset + 20;
         $objYear->pageCount++;
@@ -442,7 +448,7 @@ for($year = date('Y'); $year >= 2001; $year--) {
 				);
 			}
 			else {
-                logInfo('XML link not found: ' . $announcementCacheFile);
+                //logInfo('XML link not found: ' . $announcementCacheFile);
 			}
 		}
 	}
@@ -464,6 +470,10 @@ function readItems($html) {
 	}
 	$pagingInfo = $footerParagraph[0];
 	preg_match('/Viser ([0-9]*) \- ([0-9]*) av ([0-9]*)/', $pagingInfo, $matches);
+	
+	if (!isset($matches[0]) && str_contains($html, 'Ingen dokumenter å vise')) {
+		return null;
+	}
 
 	$links1 = $crawler->filter('.documentList a')->each(function (Crawler $node, $i) {
 			return array(
