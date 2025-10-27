@@ -22,6 +22,7 @@ $cache_location = __DIR__ . '/cache';
 $lovdataNo = 'https://lovdata.no';
 $baseUrl = $lovdataNo . '/register/lovtidend';
 $updateDate = date('d.m.Y H:i:s');
+$fullDocumentButtonText = 'Vis hele dokumentet';
 
 $lawsNotPresent = array();
 
@@ -119,17 +120,23 @@ for($year = date('Y'); $year >= 2001; $year--) {
             $objYear->itemCount++;
 
             // Check if document is truncated and has "Vis hele dokumentet" button
-            if (str_contains($announcement, 'Vis hele dokumentet')) {
+            if (str_contains($announcement, $fullDocumentButtonText)) {
                 logInfo('   - Document is truncated, downloading full version');
                 $fullCacheFolder = $cacheFolder . '-full';
                 $fullCacheFile = $cache_location . '/' . $year . '/' . $fullCacheFolder . '/' . $cacheHtmlName . '.html';
-                $fullAnnouncement = getUrlCachedUsingCurl(
-                    $cacheTimeSeconds,
-                    $fullCacheFile,
-                    $lovdataNo . $link['href'] . '/*'
-                );
-                // Use the full document for processing
-                $announcement = $fullAnnouncement;
+                try {
+                    $fullAnnouncement = getUrlCachedUsingCurl(
+                        $cacheTimeSeconds,
+                        $fullCacheFile,
+                        $lovdataNo . $link['href'] . '/*'
+                    );
+                    // Use the full document for processing
+                    $announcement = $fullAnnouncement;
+                } catch (Exception $e) {
+                    logError('   - Failed to download full document: ' . $e->getMessage());
+                    logInfo('   - Using truncated version instead');
+                    // Continue with the original truncated announcement
+                }
             }
 
             $announcement = str_replace(
