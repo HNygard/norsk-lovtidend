@@ -127,6 +127,8 @@ for($year = date('Y'); $year >= 1980; $year--) {
                 $announcement);
             $announcement = str_replace('<span class="break">&nbsp;</span>', '', $announcement);
             $announcement = preg_replace('/(listeitemNummer[a-zA-Z0-9 \_]*">.*)</mU', "\$1\t<", $announcement);
+            $announcement = preg_replace('/<sup class="\s*fotnoteref\s*[a-z]*\" id=\"fotnoteref_[0-9]*">​([0-9]*)<\/sup>/mU', "\[fotnote $1]", $announcement);
+            
             $crawler = new Crawler($announcement);
             $objAnn->title = trim($crawler->filter('.metaTitleText')->first()->text('', true));
 
