@@ -127,6 +127,12 @@ for($year = date('Y'); $year >= 1980; $year--) {
                 $announcement);
             $announcement = str_replace('<span class="break">&nbsp;</span>', '', $announcement);
             $announcement = preg_replace('/(listeitemNummer[a-zA-Z0-9 \_]*">.*)</mU', "\$1\t<", $announcement);
+
+            // Footnote with a span in front
+            $announcement = preg_replace(
+                '/span><sup class="\s*fotnoteref\s*[a-z]*\" id=\"fotnoteref_[0-9]*">​([0-9]*)<\/sup>/mU', 
+                "span><span class=\"fotnoteref\">fotnote $1</span>", $announcement);
+            // Simple footnote withing a paragraf or something
             $announcement = preg_replace('/<sup class="\s*fotnoteref\s*[a-z]*\" id=\"fotnoteref_[0-9]*">​([0-9]*)<\/sup>/mU', "\[fotnote $1]", $announcement);
             
             $crawler = new Crawler($announcement);
@@ -163,6 +169,7 @@ for($year = date('Y'); $year >= 1980; $year--) {
                         . '#documentBody div.paragraf, '
                         . '#documentBody div.paragraf span.paragrafValue, '
                         . '#documentBody div.paragraf span.paragrafTittel, '
+                        . '#documentBody div.paragraf span.fotnoteref, '
                         . '#documentBody div.kapittel h2, '
                         . '#documentBody div.kapittel h3, '
                         . '#documentBody div.kapittel h4, '
@@ -170,18 +177,39 @@ for($year = date('Y'); $year >= 1980; $year--) {
                         . '#documentBody div.kapittel h6'
                     )
                     ->each(function (Crawler $node, $i) {
+                        $debug = false;
+                        if ($debug) {
+                            echo $node->nodeName() . ' :: ' . $node->attr('class') . ' --- ';
+                            echo substr($node->html(), 0, 50) . chr(10);
+                        }
                         if ($node->nodeName() == 'div' && str_contains($node->attr('class'), 'paragraf')) {
                             $html = $node->html();
                             if (str_contains($html, '<span')) {
                                 // We rather pick out the paragrafValue/paragrafTittel
+                                if ($debug) { echo '  -> paragraf* skipped' . chr(10); }
                                 return null;
                             }
                         }
-                        if (($node->nodeName() == 'h3' || $node->nodeName() == 'h4' || $node->nodeName() == 'h5')
+                        if ($node->nodeName() == 'div' && str_contains($node->attr('class'), 'fotnoteref')) {
+                            $html = $node->html();
+                            if (str_contains($html, '<span')) {
+                                // We rather pick out the paragrafValue/paragrafTittel
+                                if ($debug) { echo '  -> fotnoteref skipped' . chr(10); }
+                                return null;
+                            }
+                        }
+                        if (
+                            (
+                                $node->nodeName() == 'h3' 
+                                || $node->nodeName() == 'h4'
+                                || $node->nodeName() == 'h5'
+                                || $node->nodeName() == 'h6'
+                            )
                             && str_contains($node->attr('class'), 'paragrafHeader')) {
                             $html = $node->html();
                             if (str_contains($html, '<span')) {
                                 // We rather pick out the paragrafValue/paragrafTittel
+                                if ($debug) { echo '  -> paragrafHeader skipped' . chr(10); }
                                 return null;
                             }
                         }
@@ -243,11 +271,13 @@ for($year = date('Y'); $year >= 1980; $year--) {
                     file_put_contents(__DIR__ . '/tmptmp-1-text_from_lovdata',
                         '------------' . chr(10)
                         . '  #documentBody->text()' . chr(10)
+                        . '  ' . $objAnn->url . chr(10)
                         . '------------' . chr(10)
                         . $cleanText1);
                     file_put_contents(__DIR__ . '/tmptmp-2-text_from_algo',
                         '------------' . chr(10)
                         . '  Algo for picking up bit by by' . chr(10)
+                        . '  ' . $objAnn->url . chr(10)
                         . '------------' . chr(10)
                         . $cleanText2);
 
