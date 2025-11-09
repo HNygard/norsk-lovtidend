@@ -52,6 +52,9 @@ for($year = date('Y'); $year >= 1980; $year--) {
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-lov');
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-forskrift');
 	mkdirIfNotExists($cache_location . '/' . $year . '/LTII-forskrift');
+	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-lov-full');
+	mkdirIfNotExists($cache_location . '/' . $year . '/LTI-forskrift-full');
+	mkdirIfNotExists($cache_location . '/' . $year . '/LTII-forskrift-full');
     mkdirIfNotExists(__DIR__  . '/norway-law-java/src/main/resources/laws/' . $year . '/');
 	$offset = 0;
 	$maxOffset = 10;
@@ -126,6 +129,21 @@ for($year = date('Y'); $year >= 1980; $year--) {
 				$lovdataNo . $link['href']
 			);
             $objYear->itemCount++;
+
+
+            // Check if document is truncated and has "Vis hele dokumentet" button
+            if (str_contains($announcement, 'Vis hele dokumentet')) {
+                logInfo('   - Document is truncated, downloading full version');
+                $fullCacheFolder = $cacheFolder . '-full';
+                $fullCacheFile = $cache_location . '/' . $year . '/' . $fullCacheFolder . '/' . $cacheHtmlName . '.html';
+                $fullAnnouncement = getUrlCachedUsingCurl(
+                    $cacheTimeSeconds,
+                    $fullCacheFile,
+                    $lovdataNo . $link['href'] . '/*'
+                );
+                // Use the full document for processing
+                $announcement = $fullAnnouncement;
+            }
 
             $announcement = str_replace(
                 '&#x1F517;</i><span class="share-paragraf-title">Del paragraf</span>',
