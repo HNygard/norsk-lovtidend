@@ -55,6 +55,7 @@ for($year = date('Y'); $year >= 1980; $year--) {
     mkdirIfNotExists(__DIR__  . '/norway-law-java/src/main/resources/laws/' . $year . '/');
 	$offset = 0;
 	$maxOffset = 10;
+    $lastPageDescription = null;
 	while ($offset <= $maxOffset) {
 		$mainPage = getUrlCachedUsingCurl(
             $cacheTimeSeconds_paging,
@@ -64,7 +65,6 @@ for($year = date('Y'); $year >= 1980; $year--) {
 		logInfo('-------- ' .$baseUrl . '?year=' . $year . '&offset=' . $offset);
 		logInfo($cache_location . '/' . $year . '/paged-list/offset-' . $offset . '.html');
 		$items = readItems($mainPage);
-		
 		if ($items == null) {
 			logInfo($year . ' - No items.');
 			break;
@@ -76,6 +76,12 @@ for($year = date('Y'); $year >= 1980; $year--) {
 		if ($maxOffset == 10) {
 			$maxOffset = $items['lastItem'];
 		}
+
+        if ($lastPageDescription == $items['pages']) {
+            throw new Exception('Paging info did not change. Stuck in loop? ' . $items['pages']);
+        }
+
+        $lastPageDescription = $items['pages'];
 
 		if (count($items['links']) != ($items['itemN'] - $items['item1'] + 1)) {
 			var_dump($items['links']);
@@ -216,6 +222,7 @@ for($year = date('Y'); $year >= 1980; $year--) {
                         $cssClass = ' ' . $node->attr('class') . ' ';
                         $cssClass = str_replace(' morTag_am ', ' ', $cssClass);
                         $cssClass = str_replace(' morTag_am1 ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_amf ', ' ', $cssClass);
                         $cssClass = str_replace(' morTag_an ', ' ', $cssClass);
                         $cssClass = str_replace(' morTag_a ', ' ', $cssClass);
                         $cssClass = str_replace(' morTag_z ', ' ', $cssClass);
@@ -228,6 +235,7 @@ for($year = date('Y'); $year >= 1980; $year--) {
                         $cssClass = str_replace(' morTag_na ', ' ', $cssClass);
                         $cssClass = str_replace(' morTag_nf ', ' ', $cssClass);
                         $cssClass = str_replace(' morTag_af ', ' ', $cssClass);
+                        $cssClass = str_replace(' morTag_ltnote ', ' ', $cssClass);
                         $cssClass = str_replace(' no-text-indent ', ' ', $cssClass);
                         $cssClass = str_replace(' display-only ', ' ', $cssClass);
                         $cssClass = str_replace(' leftMargin_1 ', ' ', $cssClass);
@@ -368,6 +376,7 @@ for($year = date('Y'); $year >= 1980; $year--) {
                     }
                     elseif (
                         $item['class'] == 'paragrafValue'
+                        || ($current_paragraph == null && $item['class'] == 'avsnitt')
                     ) {
                         $current_paragraph = new stdClass();
                         $current_paragraph->name = str_strip_if_ends_with(trim($item['text']), '.');
@@ -385,6 +394,7 @@ for($year = date('Y'); $year >= 1980; $year--) {
                         && (
                             $item['class'] == 'numeral avsnitt'
                             || $item['class'] == 'avsnitt'
+                            || $item['class'] == 'listeItem avsnitt'
                             || ($item['tag'] == 'p' && $item['class'] == 'marg'
                                     && count($current_paragraph->sections) == 0
                             )
@@ -394,10 +404,10 @@ for($year = date('Y'); $year >= 1980; $year--) {
                     }
                     elseif (
                         $current_paragraph != null
-			&& count($current_paragraph->sections) != 0
+                        && count($current_paragraph->sections) != 0
                         && (
                             $item['class'] == 'listeItem avsnitt'
-                        || ($item['tag'] == 'p' && $item['class'] == 'marg')
+                            || ($item['tag'] == 'p' && $item['class'] == 'marg')
                         )
                     ) {
                         $current_paragraph->sections[count($current_paragraph->sections) - 1] .= "\n" . $item['text'];
@@ -559,6 +569,7 @@ function getUrlCachedUsingCurl($cacheTimeSeconds, $cache_file, $baseUri, $accept
     if ($acceptContentType != '') {
         $headers[] = 'Accept: ' . $acceptContentType;
     }
+    $headers[] = 'referer: fuck off Lovdata. Gi slipp på våre data!';
     curl_setopt($ci, CURLOPT_HTTPHEADER, $headers);
     $response = curl_exec($ci);
     if ($response === false) {
